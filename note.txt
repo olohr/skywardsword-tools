@@ -1,2 +1,5 @@
 5E FF FF 06 C3 75 FC 9F 4E 70 63 54 6B 65 00 00
 5e is the key
+
+stages\F400_stg_l0.d\rarc\F400_r00.d\dat\room.bzs
+45 F4 10 00 45 D0 0B 31 5E FF FF 06

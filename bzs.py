@@ -2,32 +2,7 @@ import struct
 import glob
 import pprint
 
-'''
-lengthmap = {b'V001':12,
-             b'STIF':20,
-             b'RMPL':4,
-             b'LYLT':4,
-             b'LYSE':4,
-             b'OBJN':2,
-             b'FILE':4,
-             b'SCEN':40,
-             b'CAM ':44,
-             b'PATH':12,
-             b'PNT ':16,
-             b'AREA':32,
-             b'EVNT':56,
-             b'PLY ':24,
-             b'STAG':48,
-             b'ARCN':14,
-             b'BPNT':40,
-             b'SOBJ':48,
-             b'PCAM':36,
-             b'LAY ':8,
-             b'OBJS':36,
-             b'OBJ ':36,
-             b'STAS':48,
-             b'SNDT':48,
-             b'DOOR':36}'''
+flags_set = set()
 
 def parseBzs(data):
     name,count,ff,offset = struct.unpack('>4sHHI',data[:12])
@@ -93,6 +68,7 @@ def parseObj(objtype, quantity, data):
     elif objtype == 'OBJ ':
         for i in range(quantity):
             parsed.append({'data':' '.join(['%02X'%x for x in data[36*i:36*(i+1)-8]]), 'name':data[36*(i+1)-8:36*(i+1)].rstrip(b'\x00').decode('ascii')})
+            flags_set.add(data[36*i+20])
     elif objtype == 'SOBS':
         for i in range(quantity):
             parsed.append({'data':' '.join(['%02X'%x for x in data[48*i:48*(i+1)-8]]), 'name':data[48*(i+1)-8:48*(i+1)].rstrip(b'\x00').decode('ascii')})
@@ -140,10 +116,13 @@ def parseObj(objtype, quantity, data):
         
     return parsed
 
-
 #for fname in glob.glob('stages/**/*.bzs', recursive=True):
-for fname in glob.glob('stages/F000*/**/*.bzs', recursive=True):
+for fname in glob.glob('stages/F400*/**/*.bzs', recursive=True):
+#for fname in glob.glob('stages/F000*/**/*.bzs', recursive=True):
     data=open(fname,'rb').read()
     print(fname)
     parsed = parseBzs(data)
-    pprint.pprint(parsed)
+    #pprint.pprint(parsed)
+
+print(['%02X'%x for x in flags_set])
+
