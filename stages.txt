@@ -1,0 +1,70 @@
+F000	Skyloft: Skyloft
+F001r	Skyloft: Knight's Academy
+F002r	Skyloft: Beedle's Airshop
+F004r	Skyloft: Bazaar
+F005r	Skyloft: Orielle & Parrow’s House
+F006r	Skyloft: Kukiel’s House
+F007r	Skyloft: Piper’s House
+F008r	Skyloft: Inside the Statue of the Goddess
+F009r	Skyloft: Sparring Hall
+F010r	Skyloft: Isle of Songs Tower
+F011r	Skyloft: The Lumpy Pumpkin
+F012r	Skyloft: Batreaux’s House
+F013r	Skyloft: Fortune-teller Sparrot’s House
+F014r	Skyloft: Potion Shop Owner Bertie’s House
+F015r	Skyloft: Scrap Shop Owner Gondo’s House
+F016r	Skyloft: Pipet’s House
+F017r	Skyloft: Gear Peddler Rupin’s House
+F018r	Skyloft: Item Check Girl Peatrice’s House
+F019r	Skyloft: Bamboo Island
+D000	Skyloft: Waterfall Cave
+
+F100	Faron Woods: Faron Woods
+F100_1	Faron Woods: Inside the Great Tree
+F101	Faron Woods: Deep Woods
+F102	Faron Woods: Lake Floria
+F102_1	Faron Woods: Outside Ancient Cistern
+F102_2	Faron Woods: Faron's Lair
+F103	Faron Woods: Faron Woods (Flooded)
+D100	Faron Woods: Skyview Temple
+D101	Faron Woods: Ancient Cistern
+
+F200	Eldin Volcano: Eldin Volcano
+F201_1	Eldin Volcano: Inside Volcano
+F201_3	Eldin Volcano: Fire Sanctuary Entrance
+F201_4	Eldin Volcano: Volcano Summit - Waterfall
+F202_1	Eldin Volcano: Despacito 202_1
+F210	Eldin Volcano: Caves
+F211	Eldin Volcano: Thrill Digger
+F221	Eldin Volcano: Despacito 221
+D200	Eldin Volcano: Earth Temple
+D201	Eldin Volcano: Fire Sanctuary (A)
+D201_1	Eldin Volcano: Fire Sanctuary (B)
+
+F300	Lanayru Desert: Lanayru Desert
+F300_1	Lanayru Desert: Ancient Harbor
+F300_2	Lanayru Desert: Lanayru Mine
+F300_3	Lanayru Desert: Power Generator #1
+F300_4	Lanayru Desert: Power Generator #2
+F300_5	Lanayru Desert: Temple of Time
+F301	Lanayru Desert: Sand Sea Docks
+F301_1	Lanayru Desert: Sand Sea
+F301_2	Lanayru Desert: Pirate Stronghold
+F301_3	Lanayru Desert: Skipper's Retreat
+F301_4	Lanayru Desert: Shipyard
+F301_5	Lanayru Desert: Skipper's Retreat Shack
+F301_7	Lanayru Desert: Shipyard Construction Bay
+F302	Lanayru Desert: Lanayru Gorge
+F303	Lanayru Desert: Lanayru Caves
+D300	Lanayru Desert: Lanayru Mining Facility (A)
+D300_1	Lanayru Desert: Lanayru Mining Facility (B)
+D301	Lanayru Desert: Sandship
+
+F400	Untagged - Sacred Grounds: F400
+F401	Untagged - Sacred Grounds: F401
+F402	Untagged - Sacred Grounds: F402
+F403	Untagged - Sacred Grounds: F403
+F404	Untagged - Sacred Grounds: F404
+F405	Untagged - Sacred Grounds: F405
+F406	Untagged - Sacred Grounds: F406
+F407	Untagged - Sacred Grounds: F407
