@@ -1,0 +1,620 @@
+{
+    "LYSE": [
+        "FF FF 01 02",
+        "FF FF 00 01"
+    ],
+    "STIF": {
+        "wtf1": 1.0,
+        "wtf2": 240000.0,
+        "wtf3": 10000.0,
+        "byte1": 0,
+        "flagindex": 0,
+        "byte3": 4,
+        "byte4": 0,
+        "unk": "FF 03 38 FF"
+    },
+    "RMPL": {
+        "0": []
+    },
+    "LAY ": {
+        "l0": {
+            "OBJN": [
+                "MapArea"
+            ],
+            "STAG": [
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": 0,
+                    "unk1": "FF FF FF FF",
+                    "posx": 69.16104125976562,
+                    "posy": -197.6835174560547,
+                    "posz": -39.175296783447266,
+                    "sizex": 1532.0001220703125,
+                    "sizey": 1341.0001220703125,
+                    "sizez": 1915.0,
+                    "event_flag": 0,
+                    "unk2": "00 00 00",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 00",
+                    "name": "MapArea"
+                },
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": 1,
+                    "unk1": "FF FF FF FF",
+                    "posx": -1100.15185546875,
+                    "posy": -197.6835174560547,
+                    "posz": -412.55694580078125,
+                    "sizex": 1000.0,
+                    "sizey": 1000.0,
+                    "sizez": 1000.0,
+                    "event_flag": 0,
+                    "unk2": "00 00 00",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 01",
+                    "name": "MapArea"
+                }
+            ]
+        },
+        "l1": {},
+        "l2": {},
+        "l3": {},
+        "l4": {},
+        "l5": {},
+        "l6": {},
+        "l7": {},
+        "l8": {},
+        "l9": {},
+        "l10": {},
+        "l11": {},
+        "l12": {},
+        "l13": {},
+        "l14": {},
+        "l15": {},
+        "l16": {},
+        "l17": {},
+        "l18": {},
+        "l19": {},
+        "l20": {},
+        "l21": {},
+        "l22": {},
+        "l23": {},
+        "l24": {},
+        "l25": {},
+        "l26": {},
+        "l27": {},
+        "l28": {}
+    },
+    "rooms": {
+        "r00": {
+            "FILE": "00 00 FF FF",
+            "SCEN": [
+                {
+                    "name": "F000",
+                    "room": 0,
+                    "layer": 0,
+                    "entrance": 0,
+                    "byte4": 2,
+                    "byte5": 1,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "F000",
+                    "room": 0,
+                    "layer": 0,
+                    "entrance": 0,
+                    "byte4": 2,
+                    "byte5": 2,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "F020",
+                    "room": 0,
+                    "layer": 4,
+                    "entrance": 0,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                }
+            ],
+            "CAM ": [
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": -243.0,
+                    "posy": 276.0,
+                    "posz": 356.0,
+                    "angle": 60.0,
+                    "unk2": "14 9F 9B 06 00 00 00 00",
+                    "name": "Turn"
+                }
+            ],
+            "PATH": [
+                "FF 00 00 00 00 02 FF FF FF FF 00 FF"
+            ],
+            "PNT ": [
+                {
+                    "posx": 511.26959228515625,
+                    "posy": 17.18985939025879,
+                    "posz": 281.1982727050781,
+                    "unk": "FF FF FF FF"
+                },
+                {
+                    "posx": 599.3215942382812,
+                    "posy": 17.18985939025879,
+                    "posz": 275.5174865722656,
+                    "unk": "FF FF FF FF"
+                }
+            ],
+            "EVNT": [
+                {
+                    "unk": "00 00 FF FF FF FF 64 01 FF FF 00 00 00 FF FF FF FF FF FF FF FF FF FF FF",
+                    "name": "TerryGreeting"
+                },
+                {
+                    "unk": "00 00 FF FF FF FF 64 01 FF FF 00 00 00 FF FF FF FF FF FF FF FF FF FF FF",
+                    "name": "TerryTrap"
+                }
+            ],
+            "PLY ": [
+                {
+                    "unk1": "FF FF FF 09",
+                    "posx": 316.0018615722656,
+                    "posy": 0.0,
+                    "posz": 284.33160400390625,
+                    "unk2": "00 00 BF 4A 00 00 00 00"
+                }
+            ],
+            "LAY ": {
+                "l0": {
+                    "OBJN": [
+                        "DNight",
+                        "TBox",
+                        "Vrbox",
+                        "SwAreaT",
+                        "UdCloud",
+                        "TerrHol",
+                        "TerrGmk",
+                        "TerrSw"
+                    ],
+                    "ARCN": [
+                        "GetSparePurse",
+                        "TerryOtoshiana",
+                        "PLBed",
+                        "Vrbox03",
+                        "F020UnderCloud",
+                        "TerrySwitch",
+                        "TerryGimmick"
+                    ],
+                    "OBJS": [
+                        {
+                            "byte1": 15,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -13,
+                            "unk1": "FF 5F FF FF",
+                            "posx": -710.2168579101562,
+                            "posy": -97.56814575195312,
+                            "posz": 296.4851989746094,
+                            "event_flag": -1,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -313,
+                            "unk3": "FC 01",
+                            "name": "TBox"
+                        }
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": -454.5915222167969,
+                            "posy": 38.54008483886719,
+                            "posz": -148.27529907226562,
+                            "event_flag": 0,
+                            "unk2": "00 80 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 00",
+                            "name": "DNight"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": -400.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 02",
+                            "name": "UdCloud"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 05",
+                            "name": "TerrSw"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 06",
+                            "name": "TerrGmk"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 07",
+                            "name": "TerrHol"
+                        }
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": 3,
+                            "unk1": "FF FF FF FF",
+                            "posx": -522.89208984375,
+                            "posy": 159.5056610107422,
+                            "posz": -522.89208984375,
+                            "sizex": 100.0,
+                            "sizey": 100.0,
+                            "sizez": 100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 03",
+                            "name": "Vrbox"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 273.56756591796875,
+                            "posy": -42.96807861328125,
+                            "posz": 277.926025390625,
+                            "sizex": 575.0,
+                            "sizey": 100.0,
+                            "sizez": 432.0,
+                            "event_flag": -6,
+                            "unk2": "C5 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 04",
+                            "name": "SwAreaT"
+                        }
+                    ]
+                },
+                "l1": {
+                    "OBJN": [
+                        "NpcTer",
+                        "TBox",
+                        "EvntTag",
+                        "ShpSmpl",
+                        "ScChang"
+                    ],
+                    "ARCN": [
+                        "ShopItem",
+                        "GetPouchB",
+                        "Terry",
+                        "GetMedal",
+                        "GetNetA"
+                    ],
+                    "OBJS": [
+                        {
+                            "byte1": 15,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -13,
+                            "unk1": "FF 5F FF FF",
+                            "posx": -707.6497192382812,
+                            "posy": -97.40927124023438,
+                            "posz": -108.86918640136719,
+                            "event_flag": -1,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -412,
+                            "unk3": "FC 0D",
+                            "name": "TBox"
+                        },
+                        {
+                            "byte1": 15,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -13,
+                            "unk1": "FF 5F FF FF",
+                            "posx": -704.7847290039062,
+                            "posy": -97.40927124023438,
+                            "posz": 100.27425384521484,
+                            "event_flag": -1,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -441,
+                            "unk3": "FC 0E",
+                            "name": "TBox"
+                        },
+                        {
+                            "byte1": 15,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -13,
+                            "unk1": "FF 5F FF FF",
+                            "posx": -704.9381713867188,
+                            "posy": -97.40927124023438,
+                            "posz": -287.83404541015625,
+                            "event_flag": -1,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -418,
+                            "unk3": "FC 0F",
+                            "name": "TBox"
+                        }
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -16,
+                            "unk1": "FF DF FF FF",
+                            "posx": 30.0,
+                            "posy": 20.0,
+                            "posz": -160.0,
+                            "event_flag": 0,
+                            "unk2": "00 C0 00",
+                            "talk_behaviour": 10501,
+                            "unk3": "FC 08",
+                            "name": "NpcTer"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -108,
+                            "unk1": "FF FF FF FF",
+                            "posx": -103.67533111572266,
+                            "posy": 49.20000076293945,
+                            "posz": -20.51791000366211,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 09",
+                            "name": "ShpSmpl"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -102,
+                            "unk1": "FF FF FF FF",
+                            "posx": -2.826082944869995,
+                            "posy": 49.20000076293945,
+                            "posz": -20.679845809936523,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 0A",
+                            "name": "ShpSmpl"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -104,
+                            "unk1": "FF FF FF FF",
+                            "posx": 99.2562026977539,
+                            "posy": 49.20000076293945,
+                            "posz": -20.452417373657227,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 0B",
+                            "name": "ShpSmpl"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -103,
+                            "unk1": "FF FF FF FF",
+                            "posx": 200.0,
+                            "posy": 49.20000076293945,
+                            "posz": -20.273141860961914,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 0C",
+                            "name": "ShpSmpl"
+                        }
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": 2,
+                            "scen_link": 0,
+                            "byte4": 0,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 417.7599792480469,
+                            "posy": -22.919828414916992,
+                            "posz": 275.9029541015625,
+                            "sizex": 97.0,
+                            "sizey": 432.0,
+                            "sizez": 240.0,
+                            "event_flag": -25,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 10",
+                            "name": "ScChang"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": 9,
+                            "byte4": 0,
+                            "unk1": "FF FF FF FF",
+                            "posx": -1.9711380004882812,
+                            "posy": -21.343032836914062,
+                            "posz": 240.5108184814453,
+                            "sizex": 400.0,
+                            "sizey": 240.0,
+                            "sizez": 527.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 11",
+                            "name": "EvntTag"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -63,
+                            "scen_link": -1,
+                            "byte4": 1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 300.0,
+                            "posy": -18.29402732849121,
+                            "posz": 300.0,
+                            "sizex": 190.0,
+                            "sizey": 240.0,
+                            "sizez": 192.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 12",
+                            "name": "EvntTag"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": 9,
+                            "byte4": 0,
+                            "unk1": "FF FF FF FF",
+                            "posx": 254.088134765625,
+                            "posy": -21.343032836914062,
+                            "posz": 47.5941276550293,
+                            "sizex": 500.0,
+                            "sizey": 240.0,
+                            "sizez": 300.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 13",
+                            "name": "EvntTag"
+                        }
+                    ]
+                },
+                "l2": {
+                    "OBJN": [
+                        "TerBike",
+                        "ScChang"
+                    ],
+                    "ARCN": [
+                        "Terry"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 30.0,
+                            "posy": 20.0,
+                            "posz": -160.0,
+                            "event_flag": 0,
+                            "unk2": "00 C0 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 08",
+                            "name": "TerBike"
+                        }
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": 2,
+                            "scen_link": 0,
+                            "byte4": 2,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 417.75994873046875,
+                            "posy": -22.919828414916992,
+                            "posz": 278.7679443359375,
+                            "sizex": 97.0,
+                            "sizey": 432.0,
+                            "sizez": 240.0,
+                            "event_flag": -25,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 09",
+                            "name": "ScChang"
+                        }
+                    ]
+                },
+                "l3": {},
+                "l4": {},
+                "l5": {},
+                "l6": {},
+                "l7": {},
+                "l8": {},
+                "l9": {},
+                "l10": {},
+                "l11": {},
+                "l12": {},
+                "l13": {},
+                "l14": {},
+                "l15": {},
+                "l16": {},
+                "l17": {},
+                "l18": {},
+                "l19": {},
+                "l20": {},
+                "l21": {},
+                "l22": {},
+                "l23": {},
+                "l24": {},
+                "l25": {},
+                "l26": {},
+                "l27": {},
+                "l28": {}
+            }
+        }
+    }
+}

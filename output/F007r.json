@@ -1,0 +1,393 @@
+{
+    "LYSE": [
+        "FF FF 01 02",
+        "FF FF 00 01"
+    ],
+    "STIF": {
+        "wtf1": 1.0,
+        "wtf2": 160000.0,
+        "wtf3": 10000.0,
+        "byte1": 0,
+        "flagindex": 0,
+        "byte3": 4,
+        "byte4": 0,
+        "unk": "FF 03 3E FF"
+    },
+    "RMPL": {
+        "0": []
+    },
+    "LAY ": {
+        "l0": {
+            "OBJN": [
+                "MapArea"
+            ],
+            "STAG": [
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": 0,
+                    "unk1": "FF FF FF FF",
+                    "posx": 4.82427978515625,
+                    "posy": -148.5031280517578,
+                    "posz": -24.646503448486328,
+                    "sizex": 1800.0,
+                    "sizey": 500.0,
+                    "sizez": 1800.0,
+                    "event_flag": 0,
+                    "unk2": "00 93 EA",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 00",
+                    "name": "MapArea"
+                }
+            ]
+        },
+        "l1": {},
+        "l2": {},
+        "l3": {},
+        "l4": {},
+        "l5": {},
+        "l6": {},
+        "l7": {},
+        "l8": {},
+        "l9": {},
+        "l10": {},
+        "l11": {},
+        "l12": {},
+        "l13": {},
+        "l14": {},
+        "l15": {},
+        "l16": {},
+        "l17": {},
+        "l18": {},
+        "l19": {},
+        "l20": {},
+        "l21": {},
+        "l22": {},
+        "l23": {},
+        "l24": {},
+        "l25": {},
+        "l26": {},
+        "l27": {},
+        "l28": {}
+    },
+    "rooms": {
+        "r00": {
+            "OBJN": [
+                "FlvsC",
+                "CupA00",
+                "CupA01",
+                "FlvsA"
+            ],
+            "ARCN": [
+                "FlvsC",
+                "CupA00",
+                "CupA01",
+                "FlvsA"
+            ],
+            "FILE": "FF FF FF FF",
+            "SCEN": [
+                {
+                    "name": "F000",
+                    "room": 0,
+                    "layer": 0,
+                    "entrance": 32,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                }
+            ],
+            "PLY ": [
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": -1.0673060417175293,
+                    "posy": 0.0,
+                    "posz": 218.66993713378906,
+                    "unk2": "00 00 80 00 00 00 00 00"
+                },
+                {
+                    "unk1": "FF FF FF 0B",
+                    "posx": -4.603085041046143,
+                    "posy": 0.0,
+                    "posz": 487.4540100097656,
+                    "unk2": "00 00 80 00 00 00 00 01"
+                }
+            ],
+            "SOBJ": [
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": -1,
+                    "unk1": "FF FF FF FF",
+                    "posx": 360.3800048828125,
+                    "posy": 99.29000091552734,
+                    "posz": -33.30000305175781,
+                    "sizex": 1.0,
+                    "sizey": 1.0,
+                    "sizez": 1.0,
+                    "event_flag": 0,
+                    "unk2": "00 00 00",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 00",
+                    "name": "CupA01"
+                },
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": -1,
+                    "unk1": "FF FF FF FF",
+                    "posx": 383.1000061035156,
+                    "posy": 99.29000091552734,
+                    "posz": 6.210000038146973,
+                    "sizex": 1.0,
+                    "sizey": 1.0,
+                    "sizez": 1.0,
+                    "event_flag": 0,
+                    "unk2": "00 00 00",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 01",
+                    "name": "CupA00"
+                },
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": -1,
+                    "unk1": "FF FF FF FF",
+                    "posx": 465.1400146484375,
+                    "posy": 163.37001037597656,
+                    "posz": -188.32000732421875,
+                    "sizex": 1.2999999523162842,
+                    "sizey": 1.2999999523162842,
+                    "sizez": 1.2999999523162842,
+                    "event_flag": 0,
+                    "unk2": "00 41 EB",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 02",
+                    "name": "FlvsA"
+                },
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": -1,
+                    "unk1": "FF FF FF FF",
+                    "posx": -291.5,
+                    "posy": 68.75,
+                    "posz": 160.1400146484375,
+                    "sizex": 1.0,
+                    "sizey": 1.0,
+                    "sizez": 1.0,
+                    "event_flag": 0,
+                    "unk2": "00 B2 A3",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 03",
+                    "name": "FlvsC"
+                }
+            ],
+            "LAY ": {
+                "l0": {
+                    "OBJN": [
+                        "DNight",
+                        "AttTag",
+                        "Door",
+                        "SwAreaT",
+                        "EffGnT"
+                    ],
+                    "ARCN": [
+                        "DoorA00",
+                        "PLBed",
+                        "DoorAnim"
+                    ],
+                    "OBJS": [
+                        {
+                            "byte1": 0,
+                            "tosky_scen_link": 0,
+                            "scen_link": 0,
+                            "byte4": 0,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 410.0,
+                            "event_flag": -1,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 04",
+                            "name": "Door"
+                        }
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -32,
+                            "byte4": 36,
+                            "unk1": "FF FF FF FF",
+                            "posx": -345.3310241699219,
+                            "posy": 51.0,
+                            "posz": -25.172813415527344,
+                            "event_flag": 0,
+                            "unk2": "00 80 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 05",
+                            "name": "DNight"
+                        }
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": 4,
+                            "byte4": 2,
+                            "unk1": "FF FF FF FF",
+                            "posx": 335.0,
+                            "posy": 20.0,
+                            "posz": -315.0,
+                            "sizex": 100.0,
+                            "sizey": 100.0,
+                            "sizez": 100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 06",
+                            "name": "EffGnT"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF 5F FF FF",
+                            "posx": -2.0479700565338135,
+                            "posy": -24.73381805419922,
+                            "posz": 365.1805114746094,
+                            "sizex": 671.0,
+                            "sizey": 100.0,
+                            "sizez": 192.0,
+                            "event_flag": -6,
+                            "unk2": "C9 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 07",
+                            "name": "SwAreaT"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 2.091830015182495,
+                            "posy": -5.77866792678833,
+                            "posz": 348.34332275390625,
+                            "sizex": 200.0,
+                            "sizey": 100.0,
+                            "sizez": 130.0,
+                            "event_flag": 0,
+                            "unk2": "00 80 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 08",
+                            "name": "AttTag"
+                        }
+                    ]
+                },
+                "l1": {
+                    "OBJN": [
+                        "NpcChef"
+                    ],
+                    "ARCN": [
+                        "Chef"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": 4,
+                            "tosky_scen_link": -97,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 70.84000396728516,
+                            "posy": 2.180000066757202,
+                            "posz": -357.1300048828125,
+                            "event_flag": -1,
+                            "unk2": "FF 80 B2",
+                            "talk_behaviour": 10014,
+                            "unk3": "FC 09",
+                            "name": "NpcChef"
+                        }
+                    ]
+                },
+                "l2": {
+                    "OBJN": [
+                        "NpcSoBo",
+                        "NpcChef"
+                    ],
+                    "ARCN": [
+                        "Chef",
+                        "SoBoyA"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 70.84000396728516,
+                            "posy": 2.180000066757202,
+                            "posz": -357.1300048828125,
+                            "event_flag": -1,
+                            "unk2": "FF 80 B2",
+                            "talk_behaviour": 10014,
+                            "unk3": "FC 09",
+                            "name": "NpcChef"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF 5F FF FC",
+                            "posx": 209.92478942871094,
+                            "posy": 2.5,
+                            "posz": -148.2090301513672,
+                            "event_flag": -1,
+                            "unk2": "FF E7 D3",
+                            "talk_behaviour": 12205,
+                            "unk3": "FC 0A",
+                            "name": "NpcSoBo"
+                        }
+                    ]
+                },
+                "l3": {},
+                "l4": {},
+                "l5": {},
+                "l6": {},
+                "l7": {},
+                "l8": {},
+                "l9": {},
+                "l10": {},
+                "l11": {},
+                "l12": {},
+                "l13": {},
+                "l14": {},
+                "l15": {},
+                "l16": {},
+                "l17": {},
+                "l18": {},
+                "l19": {},
+                "l20": {},
+                "l21": {},
+                "l22": {},
+                "l23": {},
+                "l24": {},
+                "l25": {},
+                "l26": {},
+                "l27": {},
+                "l28": {}
+            }
+        }
+    }
+}

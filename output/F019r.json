@@ -1,0 +1,495 @@
+{
+    "LYSE": [
+        "00 D5 00 02",
+        "FF FF 00 01"
+    ],
+    "STIF": {
+        "wtf1": 1.0,
+        "wtf2": 160000.0,
+        "wtf3": 10000.0,
+        "byte1": 0,
+        "flagindex": 21,
+        "byte3": 0,
+        "byte4": 0,
+        "unk": "FF 03 1D FF"
+    },
+    "LAY ": {
+        "l0": {
+            "OBJN": [
+                "MapArea"
+            ],
+            "STAG": [
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": 0,
+                    "unk1": "FF FF FF FF",
+                    "posx": 69.43824005126953,
+                    "posy": -175.3291473388672,
+                    "posz": -260.2865905761719,
+                    "sizex": 6220.0,
+                    "sizey": 2010.0,
+                    "sizez": 7943.0,
+                    "event_flag": 0,
+                    "unk2": "00 00 00",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 00",
+                    "name": "MapArea"
+                }
+            ]
+        },
+        "l1": {},
+        "l2": {},
+        "l3": {},
+        "l4": {},
+        "l5": {},
+        "l6": {},
+        "l7": {},
+        "l8": {},
+        "l9": {},
+        "l10": {},
+        "l11": {},
+        "l12": {},
+        "l13": {},
+        "l14": {},
+        "l15": {},
+        "l16": {},
+        "l17": {},
+        "l18": {},
+        "l19": {},
+        "l20": {},
+        "l21": {},
+        "l22": {},
+        "l23": {},
+        "l24": {},
+        "l25": {},
+        "l26": {},
+        "l27": {},
+        "l28": {}
+    },
+    "rooms": {
+        "r00": {
+            "SCEN": [
+                {
+                    "name": "F019r",
+                    "room": 0,
+                    "layer": 2,
+                    "entrance": 1,
+                    "byte4": 2,
+                    "byte5": 2,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "F019r",
+                    "room": 0,
+                    "layer": 1,
+                    "entrance": 2,
+                    "byte4": 2,
+                    "byte5": 2,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "F020",
+                    "room": 0,
+                    "layer": 0,
+                    "entrance": 11,
+                    "byte4": 2,
+                    "byte5": 1,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                }
+            ],
+            "CAM ": [
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": 547.6255493164062,
+                    "posz": 2700.0,
+                    "angle": 45.0,
+                    "unk2": "00 00 80 00 00 00 00 00",
+                    "name": "Takegiri"
+                },
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": -105.0,
+                    "posy": 65.0,
+                    "posz": 467.0,
+                    "angle": 62.0,
+                    "unk2": "8A AB F7 D3 00 00 00 01",
+                    "name": "Fixed"
+                }
+            ],
+            "PATH": [
+                "FF 00 00 00 00 02 FF FF FF FF 00 FF"
+            ],
+            "PNT ": [
+                {
+                    "posx": 1.772691011428833,
+                    "posy": 119.89334106445312,
+                    "posz": 2246.376708984375,
+                    "unk": "FF FF FF FF"
+                },
+                {
+                    "posx": 1.772691011428833,
+                    "posy": 134.8800048828125,
+                    "posz": 2561.209716796875,
+                    "unk": "FF FF FF FF"
+                }
+            ],
+            "EVNT": [
+                {
+                    "unk": "00 00 FF FF FF FF 64 01 FF FF 00 00 00 FF FF FF FF FF FF FF FF FF FF FF",
+                    "name": "TakegiriResult"
+                }
+            ],
+            "PLY ": [
+                {
+                    "unk1": "FF FF FF 08",
+                    "posx": 8.508999824523926,
+                    "posy": 0.0,
+                    "posz": 1546.72265625,
+                    "unk2": "00 00 80 00 00 00 00 00"
+                },
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 200.0,
+                    "unk2": "00 00 80 00 00 00 00 01"
+                },
+                {
+                    "unk1": "FF FF 00 FF",
+                    "posx": 223.4189910888672,
+                    "posy": 0.0,
+                    "posz": 183.09738159179688,
+                    "unk2": "00 00 1B 05 00 00 00 02"
+                }
+            ],
+            "LAY ": {
+                "l0": {
+                    "OBJN": [
+                        "Bamboo",
+                        "Butrfly",
+                        "HrpHint",
+                        "TBox",
+                        "Item",
+                        "InsctTg",
+                        "ScChang",
+                        "TgReact",
+                        "GkMgTag"
+                    ],
+                    "ARCN": [
+                        "GetSozaiN",
+                        "GossipStone",
+                        "GetSozaiO",
+                        "TreeLongBamboo",
+                        "GetSozaiP",
+                        "GetSozaiL"
+                    ],
+                    "OBJS": [
+                        {
+                            "byte1": 15,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -13,
+                            "unk1": "FF 5F FF FF",
+                            "posx": -862.4228515625,
+                            "posy": 0.0,
+                            "posz": -2270.83984375,
+                            "event_flag": -1,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -449,
+                            "unk3": "FC 00",
+                            "name": "TBox"
+                        },
+                        {
+                            "byte1": 15,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -13,
+                            "unk1": "FF 5F FF FF",
+                            "posx": -502.5629577636719,
+                            "posy": 0.0,
+                            "posz": -2270.83984375,
+                            "event_flag": -1,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -448,
+                            "unk3": "FC 01",
+                            "name": "TBox"
+                        }
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -16,
+                            "tosky_scen_link": 15,
+                            "scen_link": -1,
+                            "byte4": 46,
+                            "unk1": "FF DF FF FF",
+                            "posx": 203.77284240722656,
+                            "posy": 22.060001373291016,
+                            "posz": -834.94580078125,
+                            "event_flag": 0,
+                            "unk2": "00 F5 56",
+                            "talk_behaviour": 4101,
+                            "unk3": "FC 02",
+                            "name": "HrpHint"
+                        }
+                    ],
+                    "SOBJ": [
+                        {
+                            "byte1": -33,
+                            "tosky_scen_link": -1,
+                            "scen_link": -2,
+                            "byte4": 111,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "sizex": 0.10000000149011612,
+                            "sizey": 10.0,
+                            "sizez": 0.10000000149011612,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 03",
+                            "name": "Bamboo"
+                        },
+                        {
+                            "byte1": 15,
+                            "tosky_scen_link": -1,
+                            "scen_link": 0,
+                            "byte4": -116,
+                            "unk1": "23 7F FF FF",
+                            "posx": 446.4726867675781,
+                            "posy": 52.005035400390625,
+                            "posz": 1156.4281005859375,
+                            "sizex": 1.0,
+                            "sizey": 1.0,
+                            "sizez": 1.0,
+                            "event_flag": -1,
+                            "unk2": "FF C0 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 07",
+                            "name": "TgReact"
+                        },
+                        {
+                            "byte1": 15,
+                            "tosky_scen_link": -16,
+                            "scen_link": 0,
+                            "byte4": -115,
+                            "unk1": "12 7F FF FF",
+                            "posx": -367.2187194824219,
+                            "posy": 52.005035400390625,
+                            "posz": 1032.779052734375,
+                            "sizex": 1.0,
+                            "sizey": 1.0,
+                            "sizez": 1.0,
+                            "event_flag": -1,
+                            "unk2": "FF 3F 49",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 08",
+                            "name": "TgReact"
+                        },
+                        {
+                            "byte1": 15,
+                            "tosky_scen_link": -16,
+                            "scen_link": 0,
+                            "byte4": -114,
+                            "unk1": "12 7F FF FF",
+                            "posx": -977.4872436523438,
+                            "posy": 52.005035400390625,
+                            "posz": 51.56291961669922,
+                            "sizex": 1.0,
+                            "sizey": 1.0,
+                            "sizez": 1.0,
+                            "event_flag": -1,
+                            "unk2": "FF 2A AA",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 09",
+                            "name": "TgReact"
+                        },
+                        {
+                            "byte1": 15,
+                            "tosky_scen_link": -16,
+                            "scen_link": 0,
+                            "byte4": -113,
+                            "unk1": "12 7F FF FF",
+                            "posx": 881.2393798828125,
+                            "posy": 52.005035400390625,
+                            "posz": 63.52896499633789,
+                            "sizex": 1.0,
+                            "sizey": 1.0,
+                            "sizez": 1.0,
+                            "event_flag": -1,
+                            "unk2": "FF C6 67",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 0A",
+                            "name": "TgReact"
+                        }
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": 0,
+                            "scen_link": 0,
+                            "byte4": 2,
+                            "unk1": "FF 5F FF FF",
+                            "posx": -2.057555913925171,
+                            "posy": -30.133159637451172,
+                            "posz": 2293.99755859375,
+                            "sizex": 575.0,
+                            "sizey": 384.0,
+                            "sizez": 1101.0,
+                            "event_flag": -25,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 04",
+                            "name": "ScChang"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 499.28289794921875,
+                            "posy": 22.090618133544922,
+                            "posz": 888.9309692382812,
+                            "sizex": 100.0,
+                            "sizey": 100.0,
+                            "sizez": 100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 05",
+                            "name": "GkMgTag"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -14,
+                            "scen_link": -28,
+                            "byte4": -93,
+                            "unk1": "FF FF FF FF",
+                            "posx": 211.6090087890625,
+                            "posy": 84.6683578491211,
+                            "posz": -825.550537109375,
+                            "sizex": 100.0,
+                            "sizey": 100.0,
+                            "sizez": 100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 06",
+                            "name": "InsctTg"
+                        }
+                    ]
+                },
+                "l1": {
+                    "OBJN": [
+                        "NpcBgr"
+                    ],
+                    "ARCN": [
+                        "BambooMan_night",
+                        "BambooMan"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -4,
+                            "byte4": -1,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 363.8173828125,
+                            "posy": 0.0,
+                            "posz": 355.3470153808594,
+                            "event_flag": -1,
+                            "unk2": "FF 99 9A",
+                            "talk_behaviour": 10901,
+                            "unk3": "FC 0B",
+                            "name": "NpcBgr"
+                        }
+                    ]
+                },
+                "l2": {
+                    "OBJN": [
+                        "NpcBgr",
+                        "CamTag"
+                    ],
+                    "ARCN": [
+                        "BambooMan_night",
+                        "BambooMan"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -3,
+                            "byte4": -1,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 478.7275085449219,
+                            "posy": 0.0,
+                            "posz": 508.50897216796875,
+                            "event_flag": -1,
+                            "unk2": "FF 9C 72",
+                            "talk_behaviour": 10901,
+                            "unk3": "FC 0B",
+                            "name": "NpcBgr"
+                        }
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": 1,
+                            "unk1": "FF DF FF FF",
+                            "posx": 0.0,
+                            "posy": -400.0,
+                            "posz": 0.0,
+                            "sizex": 3000.0,
+                            "sizey": 1500.0,
+                            "sizez": 3000.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 0C",
+                            "name": "CamTag"
+                        }
+                    ]
+                },
+                "l3": {},
+                "l4": {},
+                "l5": {},
+                "l6": {},
+                "l7": {},
+                "l8": {},
+                "l9": {},
+                "l10": {},
+                "l11": {},
+                "l12": {},
+                "l13": {},
+                "l14": {},
+                "l15": {},
+                "l16": {},
+                "l17": {},
+                "l18": {},
+                "l19": {},
+                "l20": {},
+                "l21": {},
+                "l22": {},
+                "l23": {},
+                "l24": {},
+                "l25": {},
+                "l26": {},
+                "l27": {},
+                "l28": {}
+            }
+        }
+    }
+}

@@ -61,107 +61,112 @@ flagindex_names = ["Skyloft",
                    'n/a',]
 
 stagenames = {
-    "F000": "Town Field",
-    "F001r": "Dormitory",
-    "F002r": "General Store (Beedle's Shop)",
-    "F004r": "Shopping Mall",
-    "F005r": "Orielle & Parrow's House",
-    "F006r": "Repairman's House",
-    "F007r": "Piper's House",
-    "F008r": "Inside the Goddess Statue",
-    "F009r": "Kendo Hall",
-    "F010r": "Isle of Songs Interior",
-    "F011r": "Pumpkin Bar",
-    "F012r": "Demon Guy's House",
-    "F013r": "Fortune Teller's House",
-    "F014r": "Potion Merchant's House",
-    "F015r": "Junk Merchant's House",
-    "F016r": "Pipit's House",
-    "F017r": "Item Merchant's House",
-    "F018r": "Storage Merchant's House",
-    "F019r": "Bamboo Cutting",
-    "F020": "Sky Field",
-    "F021": "Cutscene Sky",
-    "F023": "Thunderhead",
-    "D000": "Beginning Cave",
-    "D003_0": "D3R00 (Enemy)",
-    "D003_1": "D3R01 (Underground)",
-    "D003_2": "D3R02 (Lava)",
-    "D003_3": "D3R03 (Timeshift 2)",
-    "D003_4": "D3R04 (Timeshift 1)",
-    "D003_5": "D3R05 (ツタ系)",
-    "D003_6": "D3R06 (Captain 2)",
-    "D003_7": "D3R07 (Entrance)",
-    "D003_8": "D3R08 Tri Get",
-    "S000": "Town Silent Realm",
-    "F100": "Forest F1",
-    "F100_1": "Forest F1 (Tree Interior)",
-    "F101": "Forest F1 North",
-    "F102": "Forest F2 (Lake Hylia)",
-    "F102_1": "Forest F2 (Before Dungeon)",
-    "F102_2": "Forest F2 (Water Dragon Room)",
-    "F103": "Forest F3",
-    "F103_1": "Forest F3 (Tree Interior)",
-    "D100": "Forest D1",
-    "D101": "Forest D2",
-    "B100": "Forest Boss (R00 Ghirahim)",
-    "B100_1": "After Forest Boss (R00 Skyview Spring)",
-    "B101": "Forest Boss (Asura)",
-    "B101_1": "Farore's Candle Room",
-    "S100": "Forest Silent Realm",
-    "F200": "Volcano F1",
-    "F201_1": "Volcano F2 (Crater)",
-    "F201_2": "Volcano F3 (Crater)",
-    "F201_3": "Volcano F2 (Before D2 Entrance)",
-    "F201_4": "Volcano F2 (Rock Trickling Water)",
-    "F202": "Volcano F3",
-    "F202_1": "Volcano F3 (Fire Dragon Dummy 1)",
-    "F202_2": "Volcano F3 (Fire Dragon Dummy 2)",
-    "F202_3": "Volcano F3 Completed (Fire Dragon Dummy 1)",
-    "F202_4": "Volcano F3 Completed (Fire Dragon Dummy 2)",
-    "F210": "Volcano F1 (Underground)",
-    "F211": "Volcano F1 (Rupee Digging Spot)",
-    "F221": "Volcano F2 (Fire Dragon Room)",
-    "D200": "Volcano D1",
-    "D201": "Volcano D2 A",
-    "D201_1": "Volcano D2 B",
-    "B200": "Volcano D1 Boss",
-    "B201": "Volcano D2 Boss (Ghirahim 2nd Fight)",
-    "B201_1": "Volcano D2 Boss (Din's Fire)",
-    "B210": "Volcano D1 Boss (Earth Spring)",
-    "S200": "Mountain Silent Realm",
-    "F300": "Desert Field F1",
-    "F300_1": "Desert Field F1r00 (Excavation Area)",
-    "F300_2": "Desert Field F1 (Container Room 1)",
-    "F300_3": "Desert Field F1 (Container Room 2)",
-    "F300_4": "Desert Field F1 (Temple of Time)",
-    "F300_5": "Desert Field F1 (Underground Passage to Temple of Time)",
-    "F301": "Desert F2 Harbour",
-    "F301_1": "Desert F2 Sand Sea",
-    "F301_2": "Timeshift Island",
-    "F301_3": "Desert F2 Claw Island",
-    "F301_4": "Desert F2 Rail Car Island",
-    "F301_5": "Captain's House Interior",
-    "F301_6": "Desert F2 Timeshift Island",
-    "F301_7": "Shipyard Interior",
-    "F302": "Desert F3 Start",
-    "F303": "Lanayru Gorge",
-    "D300": "Desert D1 A",
-    "D300_1": "Desert D1 B",
-    "D301": "Sand D2 A",
-    "D301_1": "Sand D2 B",
-    "B300": "Desert Boss 00 (Moldarach)",
-    "B301": "Desert Boss Kraken",
-    "S300": "Sand Silent Realm",
-    "F400": "Field (Starting Forest)",
-    "F401": "Field (First Whirlpool Terrain)",
-    "F402": "Temple",
-    "F403": "Whirlpool - Past",
-    "F404": "Past - First Time",
-    "F405": "Cutscene 02 Terrain",
-    "F406": "Whirlpool After Temple Union",
-    "F407": "Temple Cutscene Terrain",
-    "B400": "Last Boss",
+    "F000": "Skyloft: Skyloft",
+    "F001r": "Skyloft: Knight's Academy",
+    "F002r": "Skyloft: Beedle's Airshop",
+    "F004r": "Skyloft: Bazaar",
+    "F005r": "Skyloft: Orielle & Parrow’s House",
+    "F006r": "Skyloft: Repairman Kukiel’s House",
+    "F007r": "Skyloft: Piper’s House",
+    "F008r": "Skyloft: Inside the Statue of the Goddess",
+    "F009r": "Skyloft: Sparring Hall",
+    "F010r": "Skyloft: Isle of Songs Tower",
+    "F011r": "Skyloft: The Lumpy Pumpkin",
+    "F012r": "Skyloft: Demon Guy Batreaux’s House",
+    "F013r": "Skyloft: Fortune-teller Sparrot’s House",
+    "F014r": "Skyloft: Potion Shop Owner Bertie’s House",
+    "F015r": "Skyloft: Scrap Shop Owner Gondo’s House",
+    "F016r": "Skyloft: Pipit's House",
+    "F017r": "Skyloft: Gear Peddler Rupin’s House",
+    "F018r": "Skyloft: Item Check Girl Peatrice’s House",
+    "F019r": "Skyloft: Bamboo Island",
+    "F020": "The Sky: Sky Field",
+    "F021": "The Sky: Cutscene Sky",
+    "F023": "The Sky: Thunderhead",
+    "D000": "Skyloft: Waterfall Cave",
+    "D003_0": "Skyloft: Sky Keep R00 (Enemy)",
+    "D003_1": "Skyloft: Sky Keep R01 (Underground)",
+    "D003_2": "Skyloft: Sky Keep R02 (Lava)",
+    "D003_3": "Skyloft: Sky Keep R03 (Timeshift 2)",
+    "D003_4": "Skyloft: Sky Keep R04 (Timeshift 1)",
+    "D003_5": "Skyloft: Sky Keep R05 (ツタ系)",
+    "D003_6": "Skyloft: Sky Keep R06 (Captain 2)",
+    "D003_7": "Skyloft: Sky Keep R07 (Entrance)",
+    "D003_8": "Skyloft: Sky Keep R08 Tri Get",
+    "S000": "Skyloft: Town Silent Realm",
+
+    "F100": "Faron Woods: Faron Woods",
+    "F100_1": "Faron Woods: Inside the Great Tree",
+    "F101": "Faron Woods: Deep Woods",
+    "F102": "Faron Woods: Lake Floria",
+    "F102_1": "Faron Woods: Outside Ancient Cistern",
+    "F102_2": "Faron Woods: Faron's Lair",
+    "F103": "Faron Woods: Faron Woods (Flooded)",
+    "F103_1": "Faron Woods: Forest F3 (Tree Interior)",
+    "D100": "Faron Woods: Skyview Temple",
+    "D101": "Faron Woods: Ancient Cistern",
+    "B100": "Faron Woods: Forest Boss (R00 Ghirahim)",
+    "B100_1": "Faron Woods: After Forest Boss (R00 Skyview Spring)",
+    "B101": "Faron Woods: Forest Boss (Asura)",
+    "B101_1": "Faron Woods: Farore's Candle Room",
+    "S100": "Faron Woods: Forest Silent Realm",
+
+    "F200": "Eldin Volcano: Eldin Volcano",
+    "F201_1": "Eldin Volcano: Inside Volcano",
+    "F201_2": "Eldin Volcano: Volcano F3 (Crater)",
+    "F201_3": "Eldin Volcano: Fire Sanctuary Entrance",
+    "F201_4": "Eldin Volcano: Volcano Summit - Waterfall",
+    "F202": "Eldin Volcano: Volcano F3",
+    "F202_1": "Eldin Volcano: Volcano F3 (Fire Dragon Dummy 1)",
+    "F202_2": "Eldin Volcano: Volcano F3 (Fire Dragon Dummy 2)",
+    "F202_3": "Eldin Volcano: Volcano F3 Completed (Fire Dragon Dummy 1)",
+    "F202_4": "Eldin Volcano: Volcano F3 Completed (Fire Dragon Dummy 2)",
+    "F210": "Eldin Volcano: Caves",
+    "F211": "Eldin Volcano: Thrill Digger",
+    "F221": "Eldin Volcano: Volcano F2 (Fire Dragon Room)",
+    "D200": "Eldin Volcano: Earth Temple",
+    "D201": "Eldin Volcano: Fire Sanctuary (A)",
+    "D201_1": "Eldin Volcano: Fire Sanctuary (B)",
+    "B200": "Eldin Volcano: Volcano D1 Boss",
+    "B201": "Eldin Volcano: Volcano D2 Boss (Ghirahim 2nd Fight)",
+    "B201_1": "Eldin Volcano: Volcano D2 Boss (Din's Fire)",
+    "B210": "Eldin Volcano: Volcano D1 Boss (Earth Spring)",
+    "S200": "Eldin Volcano: Mountain Silent Realm",
+
+    "F300": "Lanayru Desert: Lanayru Desert",
+    "F300_1": "Lanayru Desert: Ancient Harbor",
+    "F300_2": "Lanayru Desert: Lanayru Mine",
+    "F300_3": "Lanayru Desert: Power Generator #1",
+    "F300_4": "Lanayru Desert: Power Generator #2",
+    "F300_5": "Lanayru Desert: Temple of Time",
+    "F301": "Lanayru Desert: Sand Sea Docks",
+    "F301_1": "Lanayru Desert: Sand Sea",
+    "F301_2": "Lanayru Desert: Pirate Stronghold",
+    "F301_3": "Lanayru Desert: Skipper's Retreat",
+    "F301_4": "Lanayru Desert: Shipyard",
+    "F301_5": "Lanayru Desert: Skipper's Retreat Shack",
+    "F301_6": "Lanayru Desert: Desert F2 Timeshift Island",
+    "F301_7": "Lanayru Desert: Shipyard Construction Bay",
+    "F302": "Lanayru Desert: Lanayru Gorge",
+    "F303": "Lanayru Desert: Lanayru Caves",
+    "D300": "Lanayru Desert: Lanayru Mining Facility (A)",
+    "D300_1": "Lanayru Desert: Lanayru Mining Facility (B)",
+    "D301": "Lanayru Desert: Sandship (A)",
+    "D301_1": "Lanayru Desert: Sandship (B)",
+    "B300": "Lanayru Desert: Desert Boss 00 (Moldarach)",
+    "B301": "Lanayru Desert: Desert Boss Kraken",
+    "S300": "Lanayru Desert: Sand Silent Realm",
+
+    "F400": "Sealed Grounds: Forest",
+    "F401": "Sealed Grounds: Whirlpool",
+    "F402": "Sealed Grounds: Temple",
+    "F403": "Sealed Grounds: Whirlpool (Past)",
+    "F404": "Sealed Grounds: Temple (Past)",
+    "F405": "Sealed Grounds: Whirlpool (Cutscene)",
+    "F406": "Sealed Grounds: Whirlpool (With Statue)",
+    "F407": "Sealed Grounds: Temple (Cutscene)",
+    "B400": "Sealed Grounds: Last Boss",
+
     "Demo": "Staff Roll"}
 
 
@@ -177,7 +182,8 @@ def encodeBytes(bytestr):
 def objToJson(parsed):
     return json.dumps(parsed,indent=4,ensure_ascii=False,allow_nan=False,default=encodeBytes)
 
-
+global stage_scens
+stage_scens = []
 
 def parseBzs(data):
     name,count,ff,offset = struct.unpack('>4shhi',data[:12])
@@ -185,6 +191,7 @@ def parseBzs(data):
     return parseObj(name, count, data[offset:])
 
 def parseObj(objtype, quantity, data):
+    global stage_scens
     if objtype == 'V001':
         #root
         parsed = collections.OrderedDict()
@@ -235,8 +242,10 @@ def parseObj(objtype, quantity, data):
                 parsed_item = item
                 return parsed_item
             elif objtype == 'SCEN':
-                parsed_item = unpack('name unk','>32s8s',item)
+                #link to other stage
+                parsed_item = unpack('name room layer entrance byte4 byte5 flag6 zero flag8','>32sbbbbbbbb',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
+                stage_scens.append(parsed_item)
             elif objtype == 'CAM ':
                 parsed_item = unpack('unk1 posx posy posz angle unk2 name','>4s3ff8s16s', item)
                 parsed_item['name'] = toStr(parsed_item['name'])
@@ -254,10 +263,10 @@ def parseObj(objtype, quantity, data):
             elif objtype == 'PLY ':
                 parsed_item = unpack('unk1 posx posy posz unk2','>4s3f8s',item)
             elif objtype in ('OBJS','OBJ ','DOOR'):
-                parsed_item = unpack('unk1 posx posy posz event_flag unk2 talk_behaviour unk3 name','>8s3fb3sh2s8s',item)
+                parsed_item = unpack('byte1 tosky_scen_link scen_link byte4 unk1 posx posy posz                   event_flag unk2 talk_behaviour unk3 name','>bbbb4s3fb3sh2s8s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
             elif objtype in ('SOBS','SOBJ','STAS','STAG','SNDT'):
-                parsed_item = unpack('unk1 posx posy posz sizex sizey sizez unk2 name','>8s3f3f8s8s',item)
+                parsed_item = unpack('byte1 tosky_scen_link scen_link byte4 unk1 posx posy posz sizex sizey sizez event_flag unk2 talk_behaviour unk3 name','>bbbb4s3f3fb3sh2s8s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
             
             elif objtype == 'LYSE':
@@ -274,14 +283,20 @@ def parseObj(objtype, quantity, data):
                 
             else:
                 raise Exception(objtype)
-            
+
+            #if type(parsed_item)==collections.OrderedDict and 'name' in parsed_item and 'posx' in parsed_item and parsed_item['name']=='saveObj':
+            #s    print('\t'+parsed_item['name'], parsed_item['posx'], parsed_item['posy'], parsed_item['posz'], ' -- to sky:', str(stage_scens[parsed_item['tosky_scen_link']]['name']) if parsed_item['tosky_scen_link']>=0 and parsed_item['tosky_scen_link']<len(stage_scens) else 'invalid exit '+str(parsed_item['tosky_scen_link']))
+            #if type(parsed_item)==collections.OrderedDict and 'name' in parsed_item and 'posx' in parsed_item and parsed_item['name']=='Door':
+            #    print('\t'+parsed_item['name'], parsed_item['posx'], parsed_item['posy'], parsed_item['posz'], ' -- door target:', str(stage_scens[parsed_item['scen_link']]['name']) if parsed_item['scen_link']>=0 and parsed_item['scen_link']<len(stage_scens) else 'invalid exit '+str(parsed_item['scen_link']))
+                
             parsed.append(parsed_item)
             
         return parsed
 
-f2=open('out.json','w',encoding='utf-8')
+
 
 for stageid in os.listdir('Stage'):
+    stage_scens = []
     print(stageid+' - '+stagenames[stageid])
     stagepath = 'Stage/%s/%s_stg_l0/dat/stage.bzs'%(stageid,stageid)
     stage = parseBzs(open(stagepath, 'rb').read())
@@ -291,15 +306,16 @@ for stageid in os.listdir('Stage'):
         roompath = 'Stage/%s/%s_stg_l0/rarc/%s_r%02d/dat/room.bzs' % (stageid,stageid,stageid,i)
         if os.path.isfile(roompath):
             print(stageid, roomid)
+            stage_scens = []
             room = parseBzs(open(roompath, 'rb').read())
             stage['rooms'][roomid]=room
     if 'RMPL' in stage:
         assert len(stage['rooms']) == len(stage['RMPL'])
     else:
         assert len(stage['rooms']) == 1
-    f2.write(stageid+' - '+stagenames[stageid]+'\n')
+    f2=open('output/%s.json'%stageid,'w',encoding='utf-8')
     f2.write(objToJson(stage))
-    f2.write('\n')
+    f2.close()
 
 
 '''
@@ -373,4 +389,4 @@ for i in range(len(all_settable_flags)):
 '''
 
 
-f2.close()
+

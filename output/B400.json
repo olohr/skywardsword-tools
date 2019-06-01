@@ -1,0 +1,323 @@
+{
+    "STIF": {
+        "wtf1": 1.0,
+        "wtf2": 160000.0,
+        "wtf3": 10000.0,
+        "byte1": 0,
+        "flagindex": 10,
+        "byte3": 2,
+        "byte4": 1,
+        "unk": "FF 03 FF FF"
+    },
+    "RMPL": {
+        "0": []
+    },
+    "LYLT": [
+        "0D 4B 04 FF",
+        "0E 4C 01 FF"
+    ],
+    "LAY ": {
+        "l0": {
+            "OBJN": [
+                "Vrbox"
+            ],
+            "ARCN": [
+                "Vrbox02"
+            ],
+            "STAG": [
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": 2,
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 0.0,
+                    "sizex": 100.0,
+                    "sizey": 100.0,
+                    "sizez": 100.0,
+                    "event_flag": 0,
+                    "unk2": "00 00 00",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 00",
+                    "name": "Vrbox"
+                }
+            ]
+        },
+        "l1": {},
+        "l2": {},
+        "l3": {},
+        "l4": {},
+        "l5": {},
+        "l6": {},
+        "l7": {},
+        "l8": {},
+        "l9": {},
+        "l10": {},
+        "l11": {},
+        "l12": {},
+        "l13": {},
+        "l14": {},
+        "l15": {},
+        "l16": {},
+        "l17": {},
+        "l18": {},
+        "l19": {},
+        "l20": {},
+        "l21": {},
+        "l22": {},
+        "l23": {},
+        "l24": {},
+        "l25": {},
+        "l26": {},
+        "l27": {},
+        "l28": {}
+    },
+    "rooms": {
+        "r00": {
+            "FILE": "00 00 FF FF",
+            "SCEN": [
+                {
+                    "name": "B400",
+                    "room": 0,
+                    "layer": 1,
+                    "entrance": 0,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "B400",
+                    "room": 0,
+                    "layer": 14,
+                    "entrance": 2,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "F404",
+                    "room": 2,
+                    "layer": 14,
+                    "entrance": 5,
+                    "byte4": 2,
+                    "byte5": 1,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "F302",
+                    "room": 0,
+                    "layer": 0,
+                    "entrance": 10,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                }
+            ],
+            "CAM ": [
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 500.0,
+                    "posy": 500.0,
+                    "posz": 0.0,
+                    "angle": 45.0,
+                    "unk2": "00 00 80 00 00 00 00 00",
+                    "name": "LastBoss"
+                },
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 600.0,
+                    "posy": 500.0,
+                    "posz": 0.0,
+                    "angle": 45.0,
+                    "unk2": "00 00 80 00 00 00 00 01",
+                    "name": "LBThunder"
+                }
+            ],
+            "EVNT": [
+                {
+                    "unk": "00 00 FF FF FF FF 64 02 FF 00 00 00 00 FF FF FF FF 2B FF FF FF FF FF FF",
+                    "name": "demo01"
+                },
+                {
+                    "unk": "00 00 FF FF FF FF 64 02 FF 02 00 00 00 FF FF FF FF 2C FF FF FF FF FF FF",
+                    "name": "demo01"
+                },
+                {
+                    "unk": "00 00 FF FF FF FF 64 01 FF FF 00 00 00 FF FF FF FF FF FF FF FF FF FF FF",
+                    "name": "LastBossStart"
+                }
+            ],
+            "PLY ": [
+                {
+                    "unk1": "FF FF 02 FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 500.0,
+                    "unk2": "00 00 80 00 00 00 00 00"
+                },
+                {
+                    "unk1": "FF FF 00 FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 500.0,
+                    "unk2": "00 00 80 00 00 00 00 01"
+                },
+                {
+                    "unk1": "FF FF 01 FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 500.0,
+                    "unk2": "00 00 80 00 00 00 00 02"
+                },
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 500.0,
+                    "unk2": "00 00 80 00 00 00 00 03"
+                }
+            ],
+            "LAY ": {
+                "l0": {},
+                "l1": {
+                    "OBJN": [
+                        "BLasBos",
+                        "Cam2Tag",
+                        "LbTnder",
+                        "NpcTke",
+                        "TgSBG"
+                    ],
+                    "ARCN": [
+                        "PLLastBoss",
+                        "BLastBoss"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -64,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": -500.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 00",
+                            "name": "BLasBos"
+                        },
+                        {
+                            "byte1": 97,
+                            "tosky_scen_link": -22,
+                            "scen_link": -45,
+                            "byte4": -13,
+                            "unk1": "FF 1F FF FF",
+                            "posx": 300.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "event_flag": -1,
+                            "unk2": "FF FF FF",
+                            "talk_behaviour": 6669,
+                            "unk3": "FC 01",
+                            "name": "NpcTke"
+                        }
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "sizex": 100.0,
+                            "sizey": 100.0,
+                            "sizez": 100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 02",
+                            "name": "LbTnder"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": 3,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "sizex": 100.0,
+                            "sizey": 100.0,
+                            "sizez": 100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 03",
+                            "name": "TgSBG"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -64,
+                            "scen_link": -1,
+                            "byte4": 1,
+                            "unk1": "FF DF FF FF",
+                            "posx": 0.0,
+                            "posy": -100.0,
+                            "posz": 0.0,
+                            "sizex": 25500.0,
+                            "sizey": 3000.0,
+                            "sizez": 25500.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 04",
+                            "name": "Cam2Tag"
+                        }
+                    ]
+                },
+                "l2": {},
+                "l3": {},
+                "l4": {},
+                "l5": {},
+                "l6": {},
+                "l7": {},
+                "l8": {},
+                "l9": {},
+                "l10": {},
+                "l11": {},
+                "l12": {},
+                "l13": {},
+                "l14": {},
+                "l15": {},
+                "l16": {},
+                "l17": {},
+                "l18": {},
+                "l19": {},
+                "l20": {},
+                "l21": {},
+                "l22": {},
+                "l23": {},
+                "l24": {},
+                "l25": {},
+                "l26": {},
+                "l27": {},
+                "l28": {}
+            }
+        }
+    }
+}

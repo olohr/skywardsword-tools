@@ -1,0 +1,470 @@
+{
+    "STIF": {
+        "wtf1": 1.0,
+        "wtf2": 240000.0,
+        "wtf3": 10000.0,
+        "byte1": 0,
+        "flagindex": 20,
+        "byte3": 1,
+        "byte4": 0,
+        "unk": "FF 03 11 FF"
+    },
+    "RMPL": {
+        "0": []
+    },
+    "LAY ": {
+        "l0": {
+            "OBJN": [
+                "MapArea",
+                "SporeTg"
+            ],
+            "STAG": [
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": -1,
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": -100.0,
+                    "posz": 0.0,
+                    "sizex": 100.0,
+                    "sizey": 100.0,
+                    "sizez": 100.0,
+                    "event_flag": 0,
+                    "unk2": "00 00 00",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 00",
+                    "name": "SporeTg"
+                },
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": 1,
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": -2200.0,
+                    "posz": 0.0,
+                    "sizex": 3000.0,
+                    "sizey": 5000.0,
+                    "sizez": 3000.0,
+                    "event_flag": 0,
+                    "unk2": "00 00 00",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 01",
+                    "name": "MapArea"
+                },
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": 0,
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": -2200.0,
+                    "posz": 0.0,
+                    "sizex": 7500.0,
+                    "sizey": 5000.0,
+                    "sizez": 7500.0,
+                    "event_flag": 0,
+                    "unk2": "00 00 00",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 02",
+                    "name": "MapArea"
+                }
+            ]
+        },
+        "l1": {},
+        "l2": {},
+        "l3": {},
+        "l4": {},
+        "l5": {},
+        "l6": {},
+        "l7": {},
+        "l8": {},
+        "l9": {},
+        "l10": {},
+        "l11": {},
+        "l12": {},
+        "l13": {},
+        "l14": {},
+        "l15": {},
+        "l16": {},
+        "l17": {},
+        "l18": {},
+        "l19": {},
+        "l20": {},
+        "l21": {},
+        "l22": {},
+        "l23": {},
+        "l24": {},
+        "l25": {},
+        "l26": {},
+        "l27": {},
+        "l28": {}
+    },
+    "rooms": {
+        "r00": {
+            "SCEN": [
+                {
+                    "name": "F000",
+                    "room": 0,
+                    "layer": 19,
+                    "entrance": 54,
+                    "byte4": 2,
+                    "byte5": 1,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "D003_3",
+                    "room": 0,
+                    "layer": 0,
+                    "entrance": 10,
+                    "byte4": 2,
+                    "byte5": 1,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "D003_2",
+                    "room": 0,
+                    "layer": 0,
+                    "entrance": 10,
+                    "byte4": 2,
+                    "byte5": 1,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "D003_0",
+                    "room": 0,
+                    "layer": 0,
+                    "entrance": 10,
+                    "byte4": 2,
+                    "byte5": 1,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                }
+            ],
+            "EVNT": [
+                {
+                    "unk": "00 00 FF FF FF FF 64 01 FF FF 00 00 00 FF FF FF FF FF FF FF FF FF FF FF",
+                    "name": "TriforceWarp"
+                }
+            ],
+            "PLY ": [
+                {
+                    "unk1": "FF FF FF 15",
+                    "posx": 4.69013786315918,
+                    "posy": 0.0,
+                    "posz": 1046.7227783203125,
+                    "unk2": "00 00 80 00 00 00 00 00"
+                }
+            ],
+            "LAY ": {
+                "l0": {
+                    "OBJN": [
+                        "Fire",
+                        "Vrbox",
+                        "UdCloud",
+                        "WarpObj",
+                        "EvfTag"
+                    ],
+                    "ARCN": [
+                        "PLSiren",
+                        "SirenExit",
+                        "F020UnderCloud",
+                        "Vrbox03",
+                        "GetSirenFruit"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -15,
+                            "unk1": "FF FF FF FF",
+                            "posx": 273.2935791015625,
+                            "posy": 142.77684020996094,
+                            "posz": -247.2414093017578,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 00",
+                            "name": "Fire"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -15,
+                            "unk1": "FF FF FF FF",
+                            "posx": 271.520263671875,
+                            "posy": 142.49151611328125,
+                            "posz": 252.8332977294922,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 01",
+                            "name": "Fire"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -15,
+                            "unk1": "FF FF FF FF",
+                            "posx": -271.114013671875,
+                            "posy": 141.9358367919922,
+                            "posz": -249.0147247314453,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 02",
+                            "name": "Fire"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -15,
+                            "unk1": "FF FF FF FF",
+                            "posx": -269.3406982421875,
+                            "posy": 141.88168334960938,
+                            "posz": 251.0599822998047,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 03",
+                            "name": "Fire"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": 0,
+                            "scen_link": 29,
+                            "byte4": 29,
+                            "unk1": "FF 7F FF FF",
+                            "posx": 0.0,
+                            "posy": -100.0,
+                            "posz": 0.0,
+                            "event_flag": -1,
+                            "unk2": "F2 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 04",
+                            "name": "WarpObj"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 07",
+                            "name": "UdCloud"
+                        }
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": 3,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "sizex": 100.0,
+                            "sizey": 100.0,
+                            "sizez": 100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 05",
+                            "name": "Vrbox"
+                        },
+                        {
+                            "byte1": -44,
+                            "tosky_scen_link": 47,
+                            "scen_link": -1,
+                            "byte4": 0,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "sizex": 500.0,
+                            "sizey": 500.0,
+                            "sizez": 500.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 06",
+                            "name": "EvfTag"
+                        }
+                    ]
+                },
+                "l1": {
+                    "OBJN": [
+                        "Item"
+                    ],
+                    "ARCN": [
+                        "PutTriForceSingle",
+                        "GetTriForceSingle"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": 12,
+                            "scen_link": -6,
+                            "byte4": 97,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 180.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 08",
+                            "name": "Item"
+                        }
+                    ]
+                },
+                "l2": {
+                    "OBJN": [
+                        "Item"
+                    ],
+                    "ARCN": [
+                        "PutTriForceSingle",
+                        "GetTriForceSingle"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": 12,
+                            "scen_link": -10,
+                            "byte4": 96,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 180.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 08",
+                            "name": "Item"
+                        }
+                    ]
+                },
+                "l3": {
+                    "OBJN": [
+                        "Item"
+                    ],
+                    "ARCN": [
+                        "PutTriForceSingle",
+                        "GetTriForceSingle"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": 13,
+                            "scen_link": 2,
+                            "byte4": 95,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 180.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 08",
+                            "name": "Item"
+                        }
+                    ]
+                },
+                "l4": {},
+                "l5": {
+                    "OBJN": [
+                        "NpcTke"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": 80,
+                            "tosky_scen_link": -54,
+                            "scen_link": 23,
+                            "byte4": 17,
+                            "unk1": "FF 1F FF FF",
+                            "posx": -1940.9512939453125,
+                            "posy": 1188.02392578125,
+                            "posz": -436.1156311035156,
+                            "event_flag": -1,
+                            "unk2": "3C FF FF",
+                            "talk_behaviour": 12502,
+                            "unk3": "FC 08",
+                            "name": "NpcTke"
+                        }
+                    ]
+                },
+                "l6": {
+                    "OBJN": [
+                        "WarpObj"
+                    ],
+                    "ARCN": [
+                        "PLSiren",
+                        "SirenExit",
+                        "GetSirenFruit"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": 3,
+                            "scen_link": 29,
+                            "byte4": 29,
+                            "unk1": "FF 7F FF FF",
+                            "posx": 6.560770034790039,
+                            "posy": -500.0,
+                            "posz": 1035.5716552734375,
+                            "event_flag": -1,
+                            "unk2": "F2 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 08",
+                            "name": "WarpObj"
+                        }
+                    ]
+                },
+                "l7": {},
+                "l8": {},
+                "l9": {},
+                "l10": {},
+                "l11": {},
+                "l12": {},
+                "l13": {},
+                "l14": {},
+                "l15": {},
+                "l16": {},
+                "l17": {},
+                "l18": {},
+                "l19": {},
+                "l20": {},
+                "l21": {},
+                "l22": {},
+                "l23": {},
+                "l24": {},
+                "l25": {},
+                "l26": {},
+                "l27": {},
+                "l28": {}
+            }
+        }
+    }
+}
