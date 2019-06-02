@@ -1,13 +1,45 @@
 {
     "LYSE": [
-        "01 56 00 07",
-        "00 85 00 06",
-        "00 AF 00 06",
-        "00 C8 00 05",
-        "00 84 00 04",
-        "00 0D 00 03",
-        "00 8C 00 02",
-        "00 8A 00 01"
+        {
+            "story_flag": 342,
+            "night": 0,
+            "layer": 7
+        },
+        {
+            "story_flag": 133,
+            "night": 0,
+            "layer": 6
+        },
+        {
+            "story_flag": 175,
+            "night": 0,
+            "layer": 6
+        },
+        {
+            "story_flag": 200,
+            "night": 0,
+            "layer": 5
+        },
+        {
+            "story_flag": 132,
+            "night": 0,
+            "layer": 4
+        },
+        {
+            "story_flag": 13,
+            "night": 0,
+            "layer": 3
+        },
+        {
+            "story_flag": 140,
+            "night": 0,
+            "layer": 2
+        },
+        {
+            "story_flag": 138,
+            "night": 0,
+            "layer": 1
+        }
     ],
     "STIF": {
         "wtf1": 1.0,

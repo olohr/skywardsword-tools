@@ -4,6 +4,7 @@ import pprint
 import json
 import collections
 import os
+import storyflag
 
 ROOMCOUNT = 16
 LAYERCOUNT = 29
@@ -42,7 +43,7 @@ flagindex_names = ["Skyloft",
                    "Lanayru Desert",
                    "Lanayru Sand Sea",
                    "Lanayru Gorge",
-                   "Sacred Grounds",
+                   "Sealed Grounds",
                    "Faron: Skyview Temple",
                    "Faron: Ancient Cistern",
                    "-Unused-",
@@ -184,6 +185,7 @@ def objToJson(parsed):
 
 global stage_scens
 stage_scens = []
+story_flags = set()
 
 def parseBzs(data):
     name,count,ff,offset = struct.unpack('>4shhi',data[:12])
@@ -270,7 +272,17 @@ def parseObj(objtype, quantity, data):
                 parsed_item['name'] = toStr(parsed_item['name'])
             
             elif objtype == 'LYSE':
-                parsed_item = item
+                #logic for overriding layer when attempting to load layer 0
+                parsed_item = unpack('story_flag night layer','>hbb',item)
+                if parsed_item['story_flag'] == -1:
+                    print ('\tDefault, night=%d -- layer=%d'%(parsed_item['night'], parsed_item['layer']))
+                else:
+                    print ('\tFlag %04X (JP %s / US %s), night=%d -- layer=%d'%(parsed_item['story_flag'],
+                                                                        storyflag.flagid_to_spreadsheet(False,parsed_item['story_flag']),
+                                                                        storyflag.flagid_to_spreadsheet(True,parsed_item['story_flag']),
+                                                                        parsed_item['night'],
+                                                                        parsed_item['layer']))
+                story_flags.add(parsed_item['story_flag'])
             elif objtype == 'STIF':
                 #Stage Info
                 assert quantity == 1

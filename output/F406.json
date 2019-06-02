@@ -1,7 +1,15 @@
 {
     "LYSE": [
-        "01 E6 00 02",
-        "01 56 00 01"
+        {
+            "story_flag": 486,
+            "night": 0,
+            "layer": 2
+        },
+        {
+            "story_flag": 342,
+            "night": 0,
+            "layer": 1
+        }
     ],
     "STIF": {
         "wtf1": 1.0,

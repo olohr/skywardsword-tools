@@ -1,19 +1,75 @@
 {
     "LYSE": [
-        "00 11 01 09",
-        "00 11 00 08",
-        "00 16 01 07",
-        "00 16 00 06",
-        "00 84 01 05",
-        "00 84 00 04",
-        "00 83 01 05",
-        "00 83 00 04",
-        "00 24 01 05",
-        "00 24 00 04",
-        "00 1B 00 03",
-        "FF FF 01 02",
-        "00 1D 00 0A",
-        "FF FF 00 01"
+        {
+            "story_flag": 17,
+            "night": 1,
+            "layer": 9
+        },
+        {
+            "story_flag": 17,
+            "night": 0,
+            "layer": 8
+        },
+        {
+            "story_flag": 22,
+            "night": 1,
+            "layer": 7
+        },
+        {
+            "story_flag": 22,
+            "night": 0,
+            "layer": 6
+        },
+        {
+            "story_flag": 132,
+            "night": 1,
+            "layer": 5
+        },
+        {
+            "story_flag": 132,
+            "night": 0,
+            "layer": 4
+        },
+        {
+            "story_flag": 131,
+            "night": 1,
+            "layer": 5
+        },
+        {
+            "story_flag": 131,
+            "night": 0,
+            "layer": 4
+        },
+        {
+            "story_flag": 36,
+            "night": 1,
+            "layer": 5
+        },
+        {
+            "story_flag": 36,
+            "night": 0,
+            "layer": 4
+        },
+        {
+            "story_flag": 27,
+            "night": 0,
+            "layer": 3
+        },
+        {
+            "story_flag": -1,
+            "night": 1,
+            "layer": 2
+        },
+        {
+            "story_flag": 29,
+            "night": 0,
+            "layer": 10
+        },
+        {
+            "story_flag": -1,
+            "night": 0,
+            "layer": 1
+        }
     ],
     "STIF": {
         "wtf1": 1.0,

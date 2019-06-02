@@ -1,6 +1,10 @@
 {
     "LYSE": [
-        "00 AA 00 02"
+        {
+            "story_flag": 170,
+            "night": 0,
+            "layer": 2
+        }
     ],
     "STIF": {
         "wtf1": 1.0,

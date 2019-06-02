@@ -1,7 +1,15 @@
 {
     "LYSE": [
-        "FF FF 00 01",
-        "FF FF 00 00"
+        {
+            "story_flag": -1,
+            "night": 0,
+            "layer": 1
+        },
+        {
+            "story_flag": -1,
+            "night": 0,
+            "layer": 0
+        }
     ],
     "STIF": {
         "wtf1": 1.0,

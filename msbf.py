@@ -3,7 +3,7 @@ import pprint
 
 flags_set = []
 
-for fname in glob.glob('text/*.msbf'):
+for fname in glob.glob('en_US/*/*/*.msbf'):
     print(fname)
     f = open(fname,'rb')
     f.seek(0x30)
@@ -11,6 +11,8 @@ for fname in glob.glob('text/*.msbf'):
     f.read(0x0E)
     for i in range(count):
         entry = f.read(0x10)
+        if entry[0] in (2,3) and entry[0xA] == 0 and entry[0xB] == 3:
+            print(entry[6:8].hex())
         if True or entry[0xA] == 0 and entry[0xB] == 2: #set flag
             flag = entry[5]
             #if flag == 0x24:
@@ -18,4 +20,4 @@ for fname in glob.glob('text/*.msbf'):
                 flags_set.append(('%s-%02X'%(fname[5],flag), fname, entry[0xA:0x0C].hex()))
 
 flags_set.sort()
-pprint.pprint(flags_set)
+#pprint.pprint(flags_set)
