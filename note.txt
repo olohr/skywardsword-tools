@@ -3,3 +3,15 @@
 
 stages\F400_stg_l0.d\rarc\F400_r00.d\dat\room.bzs
 45 F4 10 00 45 D0 0B 31 5E FF FF 06
+
+gate of time usable:
+layer = 4,5,6,7,14(crash),15,19
+Story Flag #341 (0x0155) - JP 805ACD7E 0x08 / US 805A9AFE 0x08 (set on striking gate of time pillar)
+
+can strike gate of time pillar:
+layer = 2,3,4,18 (only shows cutscene on 4 but works regardless)
+Story Flag #132 (0x0084) - JP 805ACD64 0x04 / US 805A9AE4 0x04 (beat imp 2)
+
+gate of time pillar exists:
+layer = 2,3,4,18
+Story Flag #340 (0x0154) - JP 805ACD7E 0x04 / US 805A9AFE 0x04 (summonned gate of time pillar)

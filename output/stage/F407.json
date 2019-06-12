@@ -1,0 +1,394 @@
+{
+    "LYSE": [
+        {
+            "story_flag": 342,
+            "night": 0,
+            "layer": 7
+        },
+        {
+            "story_flag": 133,
+            "night": 0,
+            "layer": 6
+        },
+        {
+            "story_flag": 200,
+            "night": 0,
+            "layer": 5
+        },
+        {
+            "story_flag": 132,
+            "night": 0,
+            "layer": 4
+        },
+        {
+            "story_flag": 13,
+            "night": 0,
+            "layer": 3
+        },
+        {
+            "story_flag": 140,
+            "night": 0,
+            "layer": 2
+        },
+        {
+            "story_flag": 138,
+            "night": 0,
+            "layer": 1
+        }
+    ],
+    "STIF": {
+        "wtf1": 1.0,
+        "wtf2": 160000.0,
+        "wtf3": 20000.0,
+        "byte1": 0,
+        "flagindex": 10,
+        "byte3": 0,
+        "byte4": 1,
+        "unk": "FF 00 01 FF"
+    },
+    "PCAM": [
+        {
+            "pos1x": 0.0,
+            "pos1y": 0.0,
+            "pos1z": 0.0,
+            "pos2x": 0.0,
+            "pos2y": 0.0,
+            "pos2z": 0.0,
+            "angle": 0.0,
+            "wtf": 1.0,
+            "unk": "14 FF FF FF"
+        }
+    ],
+    "LYLT": [
+        {
+            "layer": 13,
+            "demo_high": 59,
+            "demo_low": 1,
+            "dummy": -1
+        },
+        {
+            "layer": 14,
+            "demo_high": 70,
+            "demo_low": 1,
+            "dummy": -1
+        },
+        {
+            "layer": 15,
+            "demo_high": 70,
+            "demo_low": 2,
+            "dummy": -1
+        }
+    ],
+    "LAY ": {
+        "l0": {},
+        "l1": {},
+        "l2": {},
+        "l3": {},
+        "l4": {},
+        "l5": {},
+        "l6": {},
+        "l7": {},
+        "l8": {},
+        "l9": {},
+        "l10": {},
+        "l11": {},
+        "l12": {},
+        "l13": {},
+        "l14": {},
+        "l15": {},
+        "l16": {},
+        "l17": {},
+        "l18": {},
+        "l19": {},
+        "l20": {},
+        "l21": {},
+        "l22": {},
+        "l23": {},
+        "l24": {},
+        "l25": {},
+        "l26": {},
+        "l27": {},
+        "l28": {}
+    },
+    "rooms": {
+        "r00": {
+            "OBJN": [
+                "WoodTag"
+            ],
+            "FILE": "FF FF FF FF",
+            "SCEN": [
+                {
+                    "name": "F404",
+                    "room": 2,
+                    "layer": 0,
+                    "entrance": 1,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "F402",
+                    "room": 2,
+                    "layer": 0,
+                    "entrance": 12,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 1
+                },
+                {
+                    "name": "F407",
+                    "room": 0,
+                    "layer": 15,
+                    "entrance": 3,
+                    "byte4": 2,
+                    "byte5": 1,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                }
+            ],
+            "EVNT": [
+                {
+                    "unk": "00 00 01 58 FF FF 64 02 FF 00 00 00 00 FF FF FF FF 1D FF FF FF FF FF FF",
+                    "name": "demo01"
+                },
+                {
+                    "unk": "00 00 FF FF FF FF 64 02 FF 02 00 08 00 03 FF FF FF 20 FF FF FF FF FF FF",
+                    "name": "demo01"
+                },
+                {
+                    "unk": "00 00 01 59 01 56 64 02 FF 01 00 00 00 FF FF 32 FF 20 FF FF FF FF FF FF",
+                    "name": "demo01"
+                },
+                {
+                    "unk": "00 00 01 59 01 56 64 01 FF 01 00 00 00 FF FF 32 FF FF FF FF FF FF FF FF",
+                    "name": "DefaultSkip"
+                }
+            ],
+            "PLY ": [
+                {
+                    "unk1": "FF FF 00 FF",
+                    "posx": -863.0187377929688,
+                    "posy": 7599.990234375,
+                    "posz": 8904.201171875,
+                    "unk2": "00 00 00 00 00 00 00 00"
+                },
+                {
+                    "unk1": "FF FF 01 FF",
+                    "posx": -964.4851684570312,
+                    "posy": 7599.990234375,
+                    "posz": 8904.2021484375,
+                    "unk2": "00 00 00 00 00 00 00 01"
+                },
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 68.67030334472656,
+                    "posy": 7599.990234375,
+                    "posz": 8904.201171875,
+                    "unk2": "00 00 00 00 00 00 00 02"
+                },
+                {
+                    "unk1": "FF FF 02 FF",
+                    "posx": -1082.8624267578125,
+                    "posy": 7599.990234375,
+                    "posz": 8904.2021484375,
+                    "unk2": "00 00 00 00 00 00 00 03"
+                }
+            ],
+            "SOBJ": [
+                {
+                    "byte1": -1,
+                    "tosky_scen_link": -1,
+                    "scen_link": -1,
+                    "byte4": -1,
+                    "unk1": "FF FF FF FF",
+                    "posx": 2927.14013671875,
+                    "posy": 7645.98046875,
+                    "posz": 10524.3408203125,
+                    "sizex": 3.240000009536743,
+                    "sizey": 4.579999923706055,
+                    "sizez": 3.240000009536743,
+                    "event_flag": 0,
+                    "unk2": "00 00 00",
+                    "talk_behaviour": 0,
+                    "unk3": "FC 00",
+                    "name": "WoodTag"
+                }
+            ],
+            "LAY ": {
+                "l0": {
+                    "OBJN": [
+                        "FrmLand",
+                        "Door",
+                        "ShriIns",
+                        "TDoor",
+                        "FruitB",
+                        "FrtTree"
+                    ],
+                    "ARCN": [
+                        "DoorB00",
+                        "PLBury",
+                        "MoundShovelD",
+                        "GetSeedLife",
+                        "GetFruitB",
+                        "FruitB",
+                        "DoorAnim",
+                        "TimeDoorB"
+                    ],
+                    "OBJS": [
+                        {
+                            "byte1": 0,
+                            "tosky_scen_link": 0,
+                            "scen_link": 1,
+                            "byte4": 4,
+                            "unk1": "FF 5F FF FF",
+                            "posx": -1760.0,
+                            "posy": 7600.0,
+                            "posz": 10341.0,
+                            "event_flag": 23,
+                            "unk2": "01 40 00",
+                            "talk_behaviour": 32,
+                            "unk3": "FC 05",
+                            "name": "Door"
+                        },
+                        {
+                            "byte1": 0,
+                            "tosky_scen_link": 0,
+                            "scen_link": 1,
+                            "byte4": 4,
+                            "unk1": "FF 5F FF FF",
+                            "posx": -1760.0,
+                            "posy": 7600.0,
+                            "posz": 10499.0,
+                            "event_flag": 23,
+                            "unk2": "01 C0 00",
+                            "talk_behaviour": 32,
+                            "unk3": "FC 06",
+                            "name": "Door"
+                        }
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -32,
+                            "scen_link": 41,
+                            "byte4": 85,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 7600.0,
+                            "posz": 10250.0,
+                            "event_flag": 0,
+                            "unk2": "00 80 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 01",
+                            "name": "TDoor"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": 38,
+                            "scen_link": 37,
+                            "byte4": 1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 2910.0,
+                            "posy": 7657.26025390625,
+                            "posz": 10531.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 02",
+                            "name": "FrmLand"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": 37,
+                            "byte4": 1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 2850.0,
+                            "posy": 7640.0,
+                            "posz": 10550.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 03",
+                            "name": "FrtTree"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -1,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 04",
+                            "name": "ShriIns"
+                        }
+                    ]
+                },
+                "l1": {},
+                "l2": {},
+                "l3": {},
+                "l4": {},
+                "l5": {},
+                "l6": {},
+                "l7": {},
+                "l8": {},
+                "l9": {},
+                "l10": {},
+                "l11": {},
+                "l12": {},
+                "l13": {
+                    "OBJN": [
+                        "Door"
+                    ],
+                    "ARCN": [
+                        "DoorF",
+                        "PLDoorLarge",
+                        "DoorAnim"
+                    ],
+                    "OBJS": [
+                        {
+                            "byte1": 0,
+                            "tosky_scen_link": 0,
+                            "scen_link": 0,
+                            "byte4": 7,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 0.0,
+                            "posy": 7600.0,
+                            "posz": 8200.0,
+                            "event_flag": -1,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 1056,
+                            "unk3": "FC 07",
+                            "name": "Door"
+                        }
+                    ]
+                },
+                "l14": {},
+                "l15": {},
+                "l16": {},
+                "l17": {},
+                "l18": {},
+                "l19": {},
+                "l20": {},
+                "l21": {},
+                "l22": {},
+                "l23": {},
+                "l24": {},
+                "l25": {},
+                "l26": {},
+                "l27": {},
+                "l28": {}
+            }
+        }
+    }
+}

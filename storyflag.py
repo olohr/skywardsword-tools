@@ -78,24 +78,38 @@ storyflag_mapping_table = [
 
 def flagid_to_spreadsheet(us, flagid):
     base = 0x805A9AD8 if us else 0x805ACD58
-    x = storyflag_mapping_table[flagid] // 0x10
+    mapping = storyflag_mapping_table[flagid]
+    if mapping == 0xFF00:
+        return '-'
+    if mapping % 0x10 != 0:
+        assert (mapping // 0x1000) in (0x5,0x6,0x7)
+        return '(not implemented yet -- %04X)'%mapping
+    x = mapping // 0x10
     return '%08X 0x%02X'%((base+x//8)^1,1<<(x%8))
 
 if __name__ == "__main__":
-    flagid_to_spreadsheet(False,341)
-    flagid_to_spreadsheet(False,342)
-    flagid_to_spreadsheet(False,486)
+    '''
+    print(flagid_to_spreadsheet(False,341))
+    print(flagid_to_spreadsheet(False,342))
+    print(flagid_to_spreadsheet(False,486))
     print()
-    flagid_to_spreadsheet(False,13)
-    flagid_to_spreadsheet(False,175)
-    flagid_to_spreadsheet(False,704)
+    print(flagid_to_spreadsheet(False,13))
+    print(flagid_to_spreadsheet(False,175))
+    print(flagid_to_spreadsheet(False,704))
     print()
 
-    flagid_to_spreadsheet(True,341)
-    flagid_to_spreadsheet(True,342)
-    flagid_to_spreadsheet(True,486)
+    print(flagid_to_spreadsheet(True,341))
+    print(flagid_to_spreadsheet(True,342))
+    print(flagid_to_spreadsheet(True,486))
     print()
-    flagid_to_spreadsheet(True,13)
-    flagid_to_spreadsheet(True,175)
-    flagid_to_spreadsheet(True,704)
+    print(flagid_to_spreadsheet(True,13))
+    print(flagid_to_spreadsheet(True,175))
+    print(flagid_to_spreadsheet(True,704))
     print()
+    
+    print(flagid_to_spreadsheet(True,0xB))
+    '''
+    f2=open('storyflags.txt','w')
+    for i in range(len(storyflag_mapping_table)):
+        f2.write('Story Flag #%d (0x%04X) - JP %s / US %s\n' % (i,i,flagid_to_spreadsheet(False,i),flagid_to_spreadsheet(True,i)))
+    f2.close()

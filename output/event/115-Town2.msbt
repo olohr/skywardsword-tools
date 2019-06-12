@@ -1,0 +1,1384 @@
+{
+    "LBL1": [
+        [
+            {
+                "name": "TOWN2_27",
+                "value": 41
+            },
+            {
+                "name": "TOWN2_50",
+                "value": 47
+            },
+            {
+                "name": "TOWN2_50_02",
+                "value": 49
+            },
+            {
+                "name": "TOWN2_91",
+                "value": 62
+            },
+            {
+                "name": "TOWN2_68",
+                "value": 75
+            },
+            {
+                "name": "TOWN2_106_2",
+                "value": 111
+            },
+            {
+                "name": "TOWN2_118_02",
+                "value": 157
+            },
+            {
+                "name": "TOWN2_223",
+                "value": 162
+            },
+            {
+                "name": "TOWN2_125",
+                "value": 181
+            },
+            {
+                "name": "TOWN2_166",
+                "value": 242
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_28",
+                "value": 42
+            },
+            {
+                "name": "TOWN2_51",
+                "value": 50
+            },
+            {
+                "name": "TOWN2_69",
+                "value": 77
+            },
+            {
+                "name": "TOWN2_190",
+                "value": 94
+            },
+            {
+                "name": "TOWN2_92",
+                "value": 104
+            },
+            {
+                "name": "TOWN2_224",
+                "value": 136
+            },
+            {
+                "name": "TOWN2_118_03",
+                "value": 158
+            },
+            {
+                "name": "TOWN2_126",
+                "value": 188
+            },
+            {
+                "name": "TOWN2_167",
+                "value": 243
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_29",
+                "value": 23
+            },
+            {
+                "name": "TOWN2_52",
+                "value": 52
+            },
+            {
+                "name": "TOWN2_93",
+                "value": 105
+            },
+            {
+                "name": "TOWN2_118_04",
+                "value": 159
+            },
+            {
+                "name": "TOWN2_225",
+                "value": 175
+            },
+            {
+                "name": "TOWN2_127",
+                "value": 189
+            },
+            {
+                "name": "TOWN2_150",
+                "value": 208
+            },
+            {
+                "name": "TOWN2_161_01",
+                "value": 228
+            },
+            {
+                "name": "TOWN2_191",
+                "value": 235
+            },
+            {
+                "name": "TOWN2_168",
+                "value": 244
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_12",
+                "value": 16
+            },
+            {
+                "name": "TOWN2_110",
+                "value": 51
+            },
+            {
+                "name": "TOWN2_53",
+                "value": 53
+            },
+            {
+                "name": "TOWN2_192",
+                "value": 70
+            },
+            {
+                "name": "TOWN2_94",
+                "value": 106
+            },
+            {
+                "name": "TOWN2_226",
+                "value": 137
+            },
+            {
+                "name": "TOWN2_118_05",
+                "value": 160
+            },
+            {
+                "name": "TOWN2_128",
+                "value": 166
+            },
+            {
+                "name": "TOWN2_151",
+                "value": 211
+            },
+            {
+                "name": "TOWN2_161_02",
+                "value": 229
+            },
+            {
+                "name": "TOWN2_169",
+                "value": 245
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_13",
+                "value": 18
+            },
+            {
+                "name": "TOWN2_54",
+                "value": 54
+            },
+            {
+                "name": "TOWN2_193",
+                "value": 66
+            },
+            {
+                "name": "TOWN2_95",
+                "value": 107
+            },
+            {
+                "name": "TOWN2_111",
+                "value": 149
+            },
+            {
+                "name": "TOWN2_118_06",
+                "value": 161
+            },
+            {
+                "name": "TOWN2_129",
+                "value": 167
+            },
+            {
+                "name": "TOWN2_227",
+                "value": 182
+            },
+            {
+                "name": "TOWN2_152",
+                "value": 212
+            },
+            {
+                "name": "TOWN2_161_03",
+                "value": 230
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_14",
+                "value": 19
+            },
+            {
+                "name": "TOWN2_210",
+                "value": 39
+            },
+            {
+                "name": "TOWN2_55",
+                "value": 55
+            },
+            {
+                "name": "TOWN2_194",
+                "value": 68
+            },
+            {
+                "name": "TOWN2_96",
+                "value": 108
+            },
+            {
+                "name": "TOWN2_112",
+                "value": 150
+            },
+            {
+                "name": "TOWN2_228",
+                "value": 184
+            },
+            {
+                "name": "TOWN2_153",
+                "value": 213
+            },
+            {
+                "name": "TOWN2_161_04",
+                "value": 231
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_15",
+                "value": 20
+            },
+            {
+                "name": "TOWN2_56",
+                "value": 56
+            },
+            {
+                "name": "TOWN2_195",
+                "value": 65
+            },
+            {
+                "name": "TOWN2_97",
+                "value": 112
+            },
+            {
+                "name": "TOWN2_211",
+                "value": 143
+            },
+            {
+                "name": "TOWN2_229",
+                "value": 145
+            },
+            {
+                "name": "TOWN2_113",
+                "value": 151
+            },
+            {
+                "name": "TOWN2_154",
+                "value": 214
+            },
+            {
+                "name": "TOWN2_161_05",
+                "value": 232
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_16",
+                "value": 14
+            },
+            {
+                "name": "TOWN2_57",
+                "value": 57
+            },
+            {
+                "name": "TOWN2_196",
+                "value": 67
+            },
+            {
+                "name": "TOWN2_212",
+                "value": 71
+            },
+            {
+                "name": "TOWN2_80",
+                "value": 92
+            },
+            {
+                "name": "TOWN2_98",
+                "value": 139
+            },
+            {
+                "name": "TOWN2_114",
+                "value": 154
+            },
+            {
+                "name": "TOWN2_155",
+                "value": 215
+            },
+            {
+                "name": "TOWN2_161_06",
+                "value": 233
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_17",
+                "value": 21
+            },
+            {
+                "name": "TOWN2_58",
+                "value": 58
+            },
+            {
+                "name": "TOWN2_197",
+                "value": 69
+            },
+            {
+                "name": "TOWN2_213",
+                "value": 76
+            },
+            {
+                "name": "TOWN2_81",
+                "value": 93
+            },
+            {
+                "name": "TOWN2_115",
+                "value": 121
+            },
+            {
+                "name": "TOWN2_99",
+                "value": 140
+            },
+            {
+                "name": "TOWN2_156",
+                "value": 216
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_18",
+                "value": 25
+            },
+            {
+                "name": "TOWN2_59",
+                "value": 59
+            },
+            {
+                "name": "TOWN2_214",
+                "value": 72
+            },
+            {
+                "name": "TOWN2_82",
+                "value": 95
+            },
+            {
+                "name": "TOWN2_198",
+                "value": 117
+            },
+            {
+                "name": "TOWN2_116",
+                "value": 153
+            },
+            {
+                "name": "TOWN2_157",
+                "value": 218
+            },
+            {
+                "name": "TOWN2_180",
+                "value": 258
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_01",
+                "value": 0
+            },
+            {
+                "name": "TOWN2_19",
+                "value": 26
+            },
+            {
+                "name": "TOWN2_42",
+                "value": 43
+            },
+            {
+                "name": "TOWN2_215",
+                "value": 73
+            },
+            {
+                "name": "TOWN2_83",
+                "value": 96
+            },
+            {
+                "name": "TOWN2_117",
+                "value": 125
+            },
+            {
+                "name": "TOWN2_140",
+                "value": 196
+            },
+            {
+                "name": "TOWN2_181",
+                "value": 202
+            },
+            {
+                "name": "TOWN2_158",
+                "value": 220
+            },
+            {
+                "name": "TOWN2_199",
+                "value": 255
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_02",
+                "value": 1
+            },
+            {
+                "name": "TOWN2_43",
+                "value": 44
+            },
+            {
+                "name": "TOWN2_216",
+                "value": 86
+            },
+            {
+                "name": "TOWN2_84",
+                "value": 97
+            },
+            {
+                "name": "TOWN2_97_1",
+                "value": 113
+            },
+            {
+                "name": "TOWN2_100",
+                "value": 141
+            },
+            {
+                "name": "TOWN2_118",
+                "value": 155
+            },
+            {
+                "name": "TOWN2_141",
+                "value": 197
+            },
+            {
+                "name": "TOWN2_159",
+                "value": 221
+            },
+            {
+                "name": "TOWN2_182",
+                "value": 259
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_03",
+                "value": 2
+            },
+            {
+                "name": "TOWN2_142",
+                "value": 37
+            },
+            {
+                "name": "TOWN2_44",
+                "value": 45
+            },
+            {
+                "name": "TOWN2_217",
+                "value": 87
+            },
+            {
+                "name": "TOWN2_85",
+                "value": 98
+            },
+            {
+                "name": "TOWN2_97_2",
+                "value": 114
+            },
+            {
+                "name": "TOWN2_101",
+                "value": 142
+            },
+            {
+                "name": "TOWN2_119",
+                "value": 163
+            },
+            {
+                "name": "TOWN2_183",
+                "value": 260
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_04",
+                "value": 3
+            },
+            {
+                "name": "TOWN2_218",
+                "value": 88
+            },
+            {
+                "name": "TOWN2_86",
+                "value": 99
+            },
+            {
+                "name": "TOWN2_143",
+                "value": 116
+            },
+            {
+                "name": "TOWN2_204_01",
+                "value": 133
+            },
+            {
+                "name": "TOWN2_102",
+                "value": 146
+            },
+            {
+                "name": "TOWN2_200",
+                "value": 217
+            },
+            {
+                "name": "TOWN2_165_1",
+                "value": 239
+            },
+            {
+                "name": "TOWN2_184",
+                "value": 261
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_05",
+                "value": 4
+            },
+            {
+                "name": "TOWN2_103",
+                "value": 80
+            },
+            {
+                "name": "TOWN2_219",
+                "value": 91
+            },
+            {
+                "name": "TOWN2_87",
+                "value": 102
+            },
+            {
+                "name": "TOWN2_144",
+                "value": 119
+            },
+            {
+                "name": "TOWN2_204_02",
+                "value": 134
+            },
+            {
+                "name": "TOWN2_201",
+                "value": 164
+            },
+            {
+                "name": "TOWN2_165_2",
+                "value": 240
+            },
+            {
+                "name": "TOWN2_185",
+                "value": 262
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_06",
+                "value": 5
+            },
+            {
+                "name": "TOWN2_70",
+                "value": 78
+            },
+            {
+                "name": "TOWN2_88",
+                "value": 100
+            },
+            {
+                "name": "TOWN2_117_01",
+                "value": 126
+            },
+            {
+                "name": "TOWN2_104",
+                "value": 147
+            },
+            {
+                "name": "TOWN2_145",
+                "value": 198
+            },
+            {
+                "name": "TOWN2_186",
+                "value": 205
+            },
+            {
+                "name": "TOWN2_202",
+                "value": 219
+            },
+            {
+                "name": "TOWN2_165_3",
+                "value": 241
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_07",
+                "value": 6
+            },
+            {
+                "name": "TOWN2_36a",
+                "value": 9
+            },
+            {
+                "name": "TOWN2_30",
+                "value": 24
+            },
+            {
+                "name": "TOWN2_71",
+                "value": 79
+            },
+            {
+                "name": "TOWN2_89",
+                "value": 101
+            },
+            {
+                "name": "TOWN2_117_02",
+                "value": 127
+            },
+            {
+                "name": "TOWN2_105",
+                "value": 148
+            },
+            {
+                "name": "TOWN2_203",
+                "value": 183
+            },
+            {
+                "name": "TOWN2_146",
+                "value": 199
+            },
+            {
+                "name": "TOWN2_187",
+                "value": 204
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_31",
+                "value": 22
+            },
+            {
+                "name": "TOWN2_49",
+                "value": 46
+            },
+            {
+                "name": "TOWN2_72",
+                "value": 81
+            },
+            {
+                "name": "TOWN2_106",
+                "value": 109
+            },
+            {
+                "name": "TOWN2_117_03",
+                "value": 128
+            },
+            {
+                "name": "TOWN2_204",
+                "value": 132
+            },
+            {
+                "name": "TOWN2_188",
+                "value": 195
+            },
+            {
+                "name": "TOWN2_147",
+                "value": 203
+            },
+            {
+                "name": "TOWN2_170",
+                "value": 246
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_09",
+                "value": 7
+            },
+            {
+                "name": "TOWN2_32",
+                "value": 10
+            },
+            {
+                "name": "TOWN2_73",
+                "value": 82
+            },
+            {
+                "name": "TOWN2_107",
+                "value": 115
+            },
+            {
+                "name": "TOWN2_117_04",
+                "value": 129
+            },
+            {
+                "name": "TOWN2_189",
+                "value": 152
+            },
+            {
+                "name": "TOWN2_130",
+                "value": 190
+            },
+            {
+                "name": "TOWN2_205",
+                "value": 191
+            },
+            {
+                "name": "TOWN2_148",
+                "value": 201
+            },
+            {
+                "name": "TOWN2_171",
+                "value": 247
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_33",
+                "value": 11
+            },
+            {
+                "name": "TOWN2_74",
+                "value": 83
+            },
+            {
+                "name": "TOWN2_108",
+                "value": 118
+            },
+            {
+                "name": "TOWN2_117_05",
+                "value": 130
+            },
+            {
+                "name": "TOWN2_131",
+                "value": 168
+            },
+            {
+                "name": "TOWN2_149",
+                "value": 207
+            },
+            {
+                "name": "TOWN2_206",
+                "value": 222
+            },
+            {
+                "name": "TOWN2_172",
+                "value": 249
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_34",
+                "value": 12
+            },
+            {
+                "name": "TOWN2_75",
+                "value": 84
+            },
+            {
+                "name": "TOWN2_109",
+                "value": 120
+            },
+            {
+                "name": "TOWN2_115_01",
+                "value": 122
+            },
+            {
+                "name": "TOWN2_117_06",
+                "value": 131
+            },
+            {
+                "name": "TOWN2_132",
+                "value": 170
+            },
+            {
+                "name": "TOWN2_230",
+                "value": 186
+            },
+            {
+                "name": "TOWN2_207",
+                "value": 248
+            },
+            {
+                "name": "TOWN2_173",
+                "value": 250
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_35",
+                "value": 13
+            },
+            {
+                "name": "TOWN2_76",
+                "value": 85
+            },
+            {
+                "name": "TOWN2_115_02",
+                "value": 123
+            },
+            {
+                "name": "TOWN2_231",
+                "value": 144
+            },
+            {
+                "name": "TOWN2_133",
+                "value": 169
+            },
+            {
+                "name": "TOWN2_208",
+                "value": 200
+            },
+            {
+                "name": "TOWN2_174",
+                "value": 251
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_36",
+                "value": 32
+            },
+            {
+                "name": "TOWN2_209",
+                "value": 38
+            },
+            {
+                "name": "TOWN2_115_03",
+                "value": 124
+            },
+            {
+                "name": "TOWN2_134",
+                "value": 172
+            },
+            {
+                "name": "TOWN2_160_01",
+                "value": 224
+            },
+            {
+                "name": "TOWN2_175",
+                "value": 252
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_37",
+                "value": 15
+            },
+            {
+                "name": "TOWN2_60",
+                "value": 60
+            },
+            {
+                "name": "TOWN2_78",
+                "value": 89
+            },
+            {
+                "name": "TOWN2_135",
+                "value": 176
+            },
+            {
+                "name": "TOWN2_233",
+                "value": 187
+            },
+            {
+                "name": "TOWN2_150_1",
+                "value": 209
+            },
+            {
+                "name": "TOWN2_160_02",
+                "value": 225
+            },
+            {
+                "name": "TOWN2_176",
+                "value": 253
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_38",
+                "value": 17
+            },
+            {
+                "name": "TOWN2_20",
+                "value": 27
+            },
+            {
+                "name": "TOWN2_61",
+                "value": 61
+            },
+            {
+                "name": "TOWN2_79",
+                "value": 90
+            },
+            {
+                "name": "TOWN2_136",
+                "value": 173
+            },
+            {
+                "name": "TOWN2_150_2",
+                "value": 210
+            },
+            {
+                "name": "TOWN2_160_03",
+                "value": 226
+            },
+            {
+                "name": "TOWN2_177",
+                "value": 254
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_21",
+                "value": 28
+            },
+            {
+                "name": "TOWN2_39",
+                "value": 33
+            },
+            {
+                "name": "TOWN2_62",
+                "value": 34
+            },
+            {
+                "name": "TOWN2_203a",
+                "value": 185
+            },
+            {
+                "name": "TOWN2_235",
+                "value": 192
+            },
+            {
+                "name": "TOWN2_137",
+                "value": 194
+            },
+            {
+                "name": "TOWN2_160",
+                "value": 223
+            },
+            {
+                "name": "TOWN2_178",
+                "value": 256
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_22",
+                "value": 30
+            },
+            {
+                "name": "TOWN2_63",
+                "value": 63
+            },
+            {
+                "name": "TOWN2_120",
+                "value": 165
+            },
+            {
+                "name": "TOWN2_138",
+                "value": 206
+            },
+            {
+                "name": "TOWN2_161",
+                "value": 227
+            },
+            {
+                "name": "TOWN2_179",
+                "value": 257
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_23",
+                "value": 31
+            },
+            {
+                "name": "TOWN2_64",
+                "value": 36
+            },
+            {
+                "name": "TOWN2_226_01",
+                "value": 138
+            },
+            {
+                "name": "TOWN2_121",
+                "value": 177
+            },
+            {
+                "name": "TOWN2_139",
+                "value": 193
+            },
+            {
+                "name": "TOWN2_162",
+                "value": 234
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_24",
+                "value": 29
+            },
+            {
+                "name": "TOWN2_220",
+                "value": 171
+            },
+            {
+                "name": "TOWN2_122",
+                "value": 178
+            },
+            {
+                "name": "TOWN2_163",
+                "value": 236
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_10a",
+                "value": 8
+            },
+            {
+                "name": "TOWN2_25",
+                "value": 35
+            },
+            {
+                "name": "TOWN2_66",
+                "value": 64
+            },
+            {
+                "name": "TOWN2_221",
+                "value": 174
+            },
+            {
+                "name": "TOWN2_123",
+                "value": 179
+            },
+            {
+                "name": "TOWN2_164",
+                "value": 237
+            }
+        ],
+        [
+            {
+                "name": "TOWN2_26",
+                "value": 40
+            },
+            {
+                "name": "TOWN2_50_01",
+                "value": 48
+            },
+            {
+                "name": "TOWN2_67",
+                "value": 74
+            },
+            {
+                "name": "TOWN2_90",
+                "value": 103
+            },
+            {
+                "name": "TOWN2_106_1",
+                "value": 110
+            },
+            {
+                "name": "TOWN2_222",
+                "value": 135
+            },
+            {
+                "name": "TOWN2_118_01",
+                "value": 156
+            },
+            {
+                "name": "TOWN2_124",
+                "value": 180
+            },
+            {
+                "name": "TOWN2_165",
+                "value": 238
+            }
+        ]
+    ],
+    "ATR1": "todo",
+    "TXT2": [
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u000f\u0409You want to do some shopping? Just\ncome back to the shop tomorrow.",
+        "\u000e\u0001\t\u0004\u0013\u0609So when you say \u201cum\"...that means\nyou don't have a good reason to be\nhere, huh?",
+        "What? You think I'm being gruff?\nYou think I'm totally different during\nthe day?\n\n\u000e\u0001\t\u0004\u0010\u060bWell, I get tired of having to be a\nsmiley shopkeeper all day, all right?\nJust don't think that this is the real\nme.\nAnyway, enough about that... You're\nhere to make some money at my\n\u000e",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u000f\u0409Why didn't you tell me that from the\nbeginning?",
+        "\u000e\u0001\t\u0004\u0012\u0600Night is when I do my buying. See,\n\u000e",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u0012\u0600Well, today I am buying these\ntreasures:\n\n\n\u000e",
+        "Which will you sell to me?\n\u000e",
+        "\u000e\u0001\t\u0004\u0012\u0600Hmmm, how many Rupees can I offer\nfor each \u000e",
+        "\u000e\u0001\t\u0004\u0012\u0600Hmmm, how many Rupees can I offer\nfor each \u000e",
+        "\u000e\u0001\t\u0004\u0012\u0600Hmmm, how many Rupees can I offer\nfor each \u000e",
+        "\u000e\u0001\t\u0004\u0012\u0600Hmmm, how many Rupees can I offer\nfor each \u000e",
+        "\u000e\u0001\t\u0004\u0010\u0600I see that you're carrying \u000e\u0002\u0003\u0006",
+        "\u000e",
+        "\u000e\u0001\t\u0004\u000f\u0409You don't even have that many!\nQuit wasting my time.",
+        "\u000e\u0001\t\u0004\u000f\u0409Listen, pal...I've had enough of the\nfunny business. You don't even have a\nsingle one of those. So do you want to\nsell something else or what?\n\u000e\u0001",
+        "\u000e\u0001\t\u0004\u0010\u080aAll right. Here's your money.",
+        "Thanks. Come back soon.",
+        "\u000e\u0001\t\u0004\u000f\fOh. Really? OK, well, hopefully you'll\ncome back again sometime.",
+        "\u000e\u0001\t\u0004",
+        "\u000e",
+        "\u000e\u0001\t\u0004\u0001\uff00Bugs are amazing. Even more\namazing than Groose in a lot of ways...\n\n\nOh...\u000e\u0001\u0004\u0002\u001ewait. I'm not saying Groose isn't\nas amazing as a bug.",
+        "Look, \u000e",
+        "\u000e\u0001\t\u0004\u00ff\uff01...How about this!\n\n\n\n\u000e\u0003\u0001",
+        "\u000e\u0001\t\u0004\u0003\uff04Mwah hah hah! Now all my\nbug-collecting ambitions will finally\nbe realized...",
+        "\u000e\u0001\t\u0004\u0001\uff05What? I was sure you'd go for that...\nDon't make me sic Groose on you...",
+        "So if you ever want to sell any bugs,\njust bring them to me. I usually hang\nout here at night...\n\n\u000e\u0001\t\u0004\u0012\u0100I won't just buy any bug, though.\nWhat I buy on any given day just\ndepends on the \u000e",
+        "...So let's get to it. Want to sell me\nsomething?",
+        "\u000e\u0001\t\u0004\u0003\u0001Oh, it's you, \u000e\u0002",
+        "\u000e\u0001\t\u0004\u0003\u0001Hey, \u000e\u0002",
+        "\u000e\u0001\t\u0004\u0003\u0001\u000e\u0003\u0001",
+        "Oh, right. Let's see what kind of bugs\nyou've got for me today.",
+        "Let's see... Tonight I feel like buying:\n\u000e",
+        "\u000e\u0001\t\u0004\u0001\uff13Well, that's too bad...\n\u000e\u0001\t\u0004",
+        "Which do you want to sell me?\n\u000e",
+        "\u000e",
+        "\u000e",
+        "\u000e",
+        "\u000e\u0001\t\u0004\u0003\uff04Thanks, mantis face!\n\n\n\nI mean that in a good way! I love\nmantises. Well, I'm looking forward\nto seeing more of your bugs,\n\u000e\u0002",
+        "\u000e\u0001\t\u0004\u0010\uff0cYou don't have even one of those!\nYou look like you wouldn't harm a fly,\nbut you're still trying to rip me off?\n\n\u000e\u0001\t\u0004\u0001\uff00Or do you just want to sell me a\ndifferent bug?\n\u000e\u0001",
+        "How many have you got there--\u000e\u0002\u0003\u0006",
+        "\u000e\u0001\t\u0004\u0012\u0100You don't have that many... So I'll ask\nyou again...",
+        "\u000e\u0001\t\u0004\u0003\u0014I love a good \u000e",
+        "OK, here's your money.",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\u0006\u0002\ufccd...\u000e\u0001\u0004\u0002-\u000e\u0001\u0006\u0002\u00cd\u000e\u0001\t\u0004\r",
+        "Ahhh... Doesn't look like I'll get much\nsleep tonight...again.\n\u000e\u0001",
+        "\u000e\u0001\t\u0004\u0010\u0f06Sorry to worry you...",
+        "\u000e\u0001\t\u0004\u0010\u0f07Well, you can see what my nights are\nlike, right?",
+        "\u000e\u0001\t\u0004\r\u0f00The baby just goes on and on like this\nall night. I haven't slept a wink in...\nAhhh... I don't even know how long.\n\nThe baby usually sleeps like a sack of\nrocks. But that was before we lost\nthe you know what...\n\u000e\u0001",
+        "\u000e\u0001\t\u0004\u0010\u0f01The baby's \u000e",
+        "\u000e\u0001\t\u0004\u0010\u0f04So you know about it? Yes, the baby's\n\u000e",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\r\u0f09Ahh...I hope someone finds the \nbaby's \u000e",
+        "\u000e\u0001\t\u0004",
+        "Who's a sleepy baby?\nTime for beddy-bye.\u000e\u0001\u0005\u0004x",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\u0006\u0002\ufccd5...6...7...",
+        "Nnghh... Snrrrk... Hrmmph...",
+        "\u000e\u0001\u0006\u0002\ufecd55...56...57...",
+        "Snrrrrrk... Hrrmphh...",
+        "3,985...3,986...\n3,987...3,988...",
+        "Hrrrnnnnghhh...!",
+        "\u000e\u0001\t\u0004",
+        "Ahh...if only there were \u000e",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u0007\u1602I'll do my best! And someday I'll be\nstrong. Come back soon so I can show\nyou the new me!",
+        "\u000e\u0001\t\u0004",
+        "Hey, \u000e\u0002",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "It's OK. I'll be fine! I'll just keep at it\non my own.",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u0001\u1600I guess that makes sense. Now that I\nknow that, I'll definitely start getting\nstronger!\n\n\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u0015\u190aPhew! Well, that was a nice warm-up!\n\n\n\n\u000e\u0001\t\u0004\u0001\u1600...Hey, \u000e\u0002",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u0007\u1809Huh? Aww, you're just saying that.\nBut it's still nice to hear it.",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u0015\u180aI could just keep going and going!\nNext, I'm going to train so hard that\nI can lift a barrel with one finger.",
+        "\u000e\u0001\t\u0004\u0015\u180aPhew! Not a bad warm-up...",
+        "\u000e\u0001\t\u0004\n\u0c12Ugh... I'm so worried...\nSo worried...\n\u000e\u0001",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u000b\u0500CALM?! How could I be calm at a time\nlike this?! ...I'm sorry. I know I\nshouldn't be yelling at you.\nThat won't help.",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\r\u0400She said she was curious about that\n\u000e",
+        "\u000e\u0001\t\u0004\u0001\u0400I'm counting on you,\n\u000e\u0002",
+        "\u000e\u0001\t\u0004\n\u0c12I'm so worried... I feel just...sick.\nWhat was she thinking?\n\n\nI always made her take a \u000e",
+        "\u000e\u0001\t\u0004\r\u0400My sister said she was curious about\nthat \u000e",
+        "\u000e\u0001\t\u0004\u0001\u0400Would you please help us look for her,\n\u000e\u0002",
+        "\u000e\u0001\t\u0004\u000b\u050dWhat?! You found my sister?!\nHer bird's injured and can't fly?!\n\n\n\u000e\u0001\t\u0004\n\u0c00That's terrible! In that case, take her\nthis as quick as you can!\n\n\n\u000e",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u000b\u0404If she uses this, it will quickly heal\nthe bird. She should then be able to\nmake her own way home.\n\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u000b\u0406Where did all the \u000e",
+        "\u000e\u0001\t\u0004\u000b\u0409Great--you've made room in your\npouch. Well then, take these!\n\n\n\u000e",
+        "\u000e\u0001\t\u0004\u000b\u0409What's the deal, \u000e\u0002",
+        "\u000e\u0001\t\u0004\u000b\u0e09\u000e\u0003\u0001",
+        "\u000e\u0001\t\u0004\u000b\u0e09\u000e\u0003\u0001",
+        "\u000e\u0001\t\u0004\u000b\u0a05Oh, that's a shame. I wanted to\ngive you this \u000e",
+        "\u000e\u0001\t\u0004\u000b\u0400It may not look like much, but believe\nme, there's a dozen uses for a fine\nbottle like that. Thanks again!",
+        "\u000e\u0001\t\u0004\u000b\u0e09Hey, \u000e\u0002",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\n\u0405Hey! Did you see what's going on?!\nThe Light Tower is shooting a beam of\nlight off into the thunderhead.\n\nIt's almost like the tower is telling us\nto head into that big mass of\nthunderclouds...or something.",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\n\u0405Doesn't it seem weird that all these\nbutterflies have been gathering here in\nthe plaza? There's nothing I can see\nthat would draw them here.",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u000b\u0409The Isle of the Goddess has...\ndisappeared? I mean, how does\nthat even happen?!\n\n\u000e\u0001\t\u0004\n\u0400This can't be good. Something bad is\nabout to happen. I know it. I mean,\nother than the island disappearing...",
+        "\u000e\u0001\t\u0004\n\u0a00Hey, you have a classmate named\n\u000e",
+        "\u000e\u0001\t\u0004\u0001\u0400That \u000e",
+        "\u000e\u0001\t\u0004\u0001\u0400Just a while back I bumped into \u000e",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u000b\u0409Thank you! You're a real lifesaver.",
+        "\u000e\u0001\t\u0004\f\u1513You...you monster!\n\n\n\n\u000e\u0001\t\u0004\u000b\u0409...But you're just joking, right?\nYou must be...",
+        "\u000e",
+        "\u000e\u0001\t\u0004\t\u0509So you have the medicine after all!\nWhy didn't you say so? Those\n\u000e",
+        "\u000e\u0001\t\u0004",
+        "No? Oh... Well, I guess there's nothing\nelse I can do but ask you to find my\nbrother and tell him what's happened\nhere. Would you mind?",
+        "Huh? Really? You already spoke to\nhim? Well, that makes things easier.",
+        "I'll be waiting for you here with\nmy bird. Hurry back!",
+        "\u000e",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u000b\u0409Thank you! Now I can heal my bird's\ninjury.",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "Ooooooooh...",
+        "Oooooh... Somebody...\nPlease, somebody help me...",
+        "Oooh... \u000e",
+        "Ahhh... \u000e",
+        "\u000e\u0001\t\u0004",
+        "Ooooh...\u000e",
+        "\u000e\u0001\t\u0004\u0005\u0003Ooooh... Somebody... Paper...",
+        "\u000e\u0001\t\u0004\u000b\u0004Huh? You're giving me paper?\nI'm so happy...",
+        "But...this looks like someone's letter...\nAre you sure I can have this?\n\u000e\u0001",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u0006\u0002It's good to see you again... Actually,\nthanks to you, I met my true love...\n\n\nYes, him...\n\n\n\n\u000e\u0001\t\u0004\f",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "Hmm... Should I give it to her...?\nShould I not give it to her...?",
+        "...Uwah! \u000e\u0003\u0001",
+        "What? You want to hear about it?\n\n\n\n\u000e\u0001\t\u0004",
+        "Huh? Really?!\n\n\n\n\u000e\u0001\t\u0004",
+        "Come to think of it, you might be just\nthe person I need! You seem to be\npretty good with the ladies...\n\n...Ugh. I can't believe I just said that.\nBut whatever! Let's do this!\n\u000e\u0003\u0001",
+        "So listen up... Your mission is to take\nthis piece of \u000e",
+        "\u000e\u0001\t\u0004",
+        "What? There's someone in the\nrestroom at night who wants...paper?",
+        "\u000e\u0001\t\u0004",
+        "So listen up! The person you must give\nit to is a girl... An upperclassman...\nHer name is \u000e",
+        "Here it is. I'm entrusting this letter\nto you. So don't read what's inside!\nDo you hear me?!",
+        "I'm counting on you,\n\u000e\u0002",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u0011\u1f1dWh-what did you just say?! You gave it\nto that weirdo in the restroom?!",
+        "\u000e\u0001\t\u0004\u0015\u1f12Y... You... Are you out of your mind?!\n\n\n\n\u000e\u0001\t\u0004\u0011\u1b00Seriously?! You gave it to that creep\nin the restroom? Really?! You gave\nit to that restroom weirdo?!",
+        "\u000e\u0001\t\u0004\u0001\u1f00Didn't I specifically tell you NOT to\ngive it to the weirdo in the restroom?!\nSeriously! I said it like five times!\nI know I did!\n\u000e\u0001\t\u0004\u001a\u1f17You fool! How could you?! Anyone who\nblocks the path of true love deserves\nto be kicked by a bird!\n\nI hate you, \u000e\u0002",
+        "\u000e\u0001\t\u0004",
+        "",
+        "\u000e\u0001\t\u0004\u001b\u1f17What do you want, \u000e\u0002",
+        "\u000e\u0001\t\u0004\u001b\u1f17What do you want, \u000e\u0002",
+        "\u000e\u0001\t\u0004\u001b\u1f1bEver since you botched that mission\nwith the letter, I've been having\nnightmares and can't get any sleep!\nIt's just one thing after another!\nWhat is going on?! I wonder if that\nbed is cursed? Maybe it's \u000e",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u000b\u070aYes! Yes, he is! He's kind and caring.\nAnd handsome and wonderful!\n\n\n\u000e\u0001\t\u0004\f\u0416Oh dear... I don't know what's come\nover me all of a sudden...\n\n\n\u000e\u0001\t\u0004\b\u0400Sorry for bothering you with such an\nawkward question...",
+        "\u000e\u0001\t\u0004\u0001\u0406Huh? Oh... Well, you know... I just...\n\n\n\n\u000e\u0001\t\u0004\b\u0416Oh, forget about it. I don't even know\nwhat I was thinking asking you a\nstrange question like that. Silly me...",
+        "\u000e\u0001\t\u0004\u0001\u0404Ah! \u000e\u0001\u0004\u0002\u0014\u000e\u0003\u0001",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\b\u0404Ah! \u000e\u0003\u0001",
+        "\u000e\u0001\t\u0004\u0001\u0406Huh? You're a strange one, aren't you,\n\u000e\u0002",
+        "\u000e\u0001\t\u0004\b\u0906Huh? A letter? For me\u000e\u0001\u0004\u0002\n.\u000e\u0001\u0004\u0002\n.\u000e\u0001\u0004\u0002\n.\u000e\u0001\u0004\u0002\n?\nCould it be from \u000e",
+        "\u000e\u0001\t\u0004\b\u0912What kind of a trick is that?\nStop messing around!",
+        "\u000e\u0001\t\u0004\u000e\u090aOh... Thank you. I'll just take that.",
+        "\u000e\u0001\t\u0004\u0010\u0400I wonder who it's from?!",
+        "\u000e\u0001\t\u0004\u0010\u0d00Whoa...\u000e\u0001\u0004\u0002\u0014 \u000e\u0001\u0006\u0002\ufecdThat's some really terrible\nhandwriting...\u000e\u0001\u0006\u0002\u00cd\n\n\n\u000e\u0001\t\u0004\u0010\u0400Anyway, never mind that... Let's see\nwhat it says...",
+        "...\u201cGreetings. My love for you is wider\nthan the horizon and deeper than the\nclouds.\"\n\n\u000e\u0001\t\u0004\u0013\u1200\u201cI would very much like it if you would\ngo out with me.\nYour brave knight,\n\u000e",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\b\u0909Hee hee! Thanks, \u000e\u0002",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\b\u0e06Whoa, you can already Spiral Charge?!\n\n\n\n\u000e\u0001\t\u0004\b\u0909Wow...that's cool, \u000e\u0002",
+        "\u000e\u0001\t\u0004\f\u0456Did you hear all that noise outside a\nlittle while ago? I wonder what that\nwas all about...",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\f\u0401Can you believe it? The Isle of the\nGoddess fell right out of the sky!\n\n\n\u000e\u0001\u0004\u0002\u001eIt breaks my heart to see it missing\nfrom Skyloft...\u000e\u0001\t\u0004\u0011\u0e00but, you know, I think\nit was a message from the goddess,\ntelling us to make the most of our lives.",
+        "\u000e\u0001\t\u0004\f\u040b\u000e\u0001\b\u0002\uffcdBesides, she's not the only goddess in my life...",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\u0001\u0c09...Huh? \u000e",
+        "\u000e\u0001\t\u0004\u0011\u0e53What?! Th-this is a big problem,\nisn't it?!",
+        "\u000e\u0001\t\u0004\u000f\u1118So you don't know? Well... That's going\nto bother me until I find out...",
+        "\u000e\u0001\t\u0004\u0011\u0e09...Oh! I mean, uhh... It's not like\nthere's anything going on between\nme and \u000e",
+        "\u000e\u0001\t\u0004\u0011\u0e53Wha-what?! Don't be ridiculous,\n\u000e\u0002",
+        "\u000e\u0001\t\u0004\u000f\u1152I see... Of course. You've got more\nimportant things to worry about\nthan this right now!",
+        "\u000e\u0001\t\u0004\u0010\u1117Well, either way...\n\n\n\n\u000e\u0001\t\u0004\u000f\u0c00I don't suppose you'd mind asking her\nwhat her decision is going to be,\nwould you?",
+        "\u000e\u0001\t\u0004",
+        "\u000e\u0001\t\u0004\f\u0401Hey, \u000e\u0002",
+        "You're the one who sent the letter,\nright?",
+        "Y-yes...",
+        "\u000e\u0001\t\u0004\u1400\tTee hee. It was a wonderful love letter.\nThank you!",
+        "\u000e\u0001\t\u0004\u0500\u0011It wasn't...that...great...",
+        "And, um... Wh-what's your...answer?",
+        "\u000e\u0001\t\u0004\u1400\u0012My answer? Ah...my answer...",
+        "\u000e\u0001\t\u0004\u0500\u2519Oh, please! Please go out...with me!",
+        "Wait!",
+        "I think you should go out with me\ninstead! I mean...er...I want to ask\nyou out!",
+        "\u000e\u0001\t\u0004\u0500\u1b09What...? Hey, hold on there!\nWhat are you trying to pull all\nof a sudden?",
+        "Errr...\u000e\u0001\t\u0004\u1400\u0900\nI want to go out with... Pipit...",
+        "\u000e\u0001\t\u0004\u0515\u0c10Ha! See that, you fool?! I knew she\nwould choose me! She's been checking\nme out for weeks! Uhh, wait a second...",
+        "\u000e\u0001\t\u0004\u0511\u1d1dWait... Really?!",
+        "\u000e\u0001\t\u0004\u1201\uff00Truly? You choose me?",
+        "Yes! \u000e\u0001\t\u0004\u1400\u0900I'm so happy. Thank you...",
+        "\u000e\u0001\t\u0004\u0500\u1d17This can't be happening...",
+        "\u000e\u0001\t\u0004\u0500\u0018Aaaaaghhhh!!!",
+        "\u000e\u0001\t\u0004\u1200\u0001\u000e\u0003\u0001",
+        "When you told me about the letter,\nit was at that moment I finally\nrealized. I realized that...I love her.\n\n\u000e\u0001\t\u0004\u1209\u0c00I thought to myself, \u201cI can't let anyone\nelse take her from me!\"\n\n\n\u000e\u0001\t\u0004\u1201\u0400If you hadn't told me, I might\nnever have even noticed my own\nfeelings for her.\n\n\u000e\u0001\t\u0004\u1208\u000bI'm so grateful. I don't know how I can\never thank you!"
+    ]
+}

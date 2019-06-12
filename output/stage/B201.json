@@ -1,0 +1,739 @@
+{
+    "LYSE": [
+        {
+            "story_flag": 530,
+            "night": 0,
+            "layer": 3
+        },
+        {
+            "story_flag": 13,
+            "night": 0,
+            "layer": 2
+        },
+        {
+            "story_flag": 84,
+            "night": 0,
+            "layer": 1
+        },
+        {
+            "story_flag": -1,
+            "night": 0,
+            "layer": 13
+        }
+    ],
+    "STIF": {
+        "wtf1": 1.0,
+        "wtf2": 240000.0,
+        "wtf3": 10000.0,
+        "byte1": 0,
+        "flagindex": 15,
+        "byte3": 2,
+        "byte4": 6,
+        "unk": "FF 03 10 FF"
+    },
+    "RMPL": {
+        "0": []
+    },
+    "LYLT": [
+        {
+            "layer": 13,
+            "demo_high": 51,
+            "demo_low": 1,
+            "dummy": -1
+        }
+    ],
+    "LAY ": {
+        "l0": {},
+        "l1": {},
+        "l2": {},
+        "l3": {},
+        "l4": {},
+        "l5": {},
+        "l6": {},
+        "l7": {},
+        "l8": {},
+        "l9": {},
+        "l10": {},
+        "l11": {},
+        "l12": {},
+        "l13": {},
+        "l14": {},
+        "l15": {},
+        "l16": {},
+        "l17": {},
+        "l18": {},
+        "l19": {},
+        "l20": {},
+        "l21": {},
+        "l22": {},
+        "l23": {},
+        "l24": {},
+        "l25": {},
+        "l26": {},
+        "l27": {},
+        "l28": {}
+    },
+    "rooms": {
+        "r00": {
+            "FILE": "00 00 FF FF",
+            "SCEN": [
+                {
+                    "name": "B201",
+                    "room": 0,
+                    "layer": 1,
+                    "entrance": 1,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "B201_1",
+                    "room": 0,
+                    "layer": 0,
+                    "entrance": 0,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "D201",
+                    "room": 10,
+                    "layer": 0,
+                    "entrance": 1,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                },
+                {
+                    "name": "F302",
+                    "room": 0,
+                    "layer": 0,
+                    "entrance": 10,
+                    "byte4": 2,
+                    "byte5": 0,
+                    "flag6": 0,
+                    "zero": 0,
+                    "flag8": 0
+                }
+            ],
+            "CAM ": [
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 0.0,
+                    "angle": 45.0,
+                    "unk2": "00 00 80 00 00 00 00 00",
+                    "name": "Dungeon"
+                },
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 0.0,
+                    "angle": 45.0,
+                    "unk2": "00 00 80 00 00 00 00 01",
+                    "name": "Girahim2"
+                },
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 0.0,
+                    "angle": 45.0,
+                    "unk2": "00 00 80 00 00 00 00 02",
+                    "name": "GirahimSp2"
+                },
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 0.0,
+                    "angle": 45.0,
+                    "unk2": "00 00 80 00 00 00 00 03",
+                    "name": "Girahimu2"
+                }
+            ],
+            "PATH": [
+                "FF 00 00 00 00 02 FF FF FF FF 00 FF",
+                "FF 01 00 02 00 02 FF FF FF FF 00 FF"
+            ],
+            "PNT ": [
+                {
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": -3400.0,
+                    "unk": "FF FF FF FF"
+                },
+                {
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": -4300.0,
+                    "unk": "FF FF FF FF"
+                },
+                {
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 3700.0,
+                    "unk": "FF FF FF FF"
+                },
+                {
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 4500.0,
+                    "unk": "FF FF FF FF"
+                }
+            ],
+            "EVNT": [
+                {
+                    "unk": "00 00 01 D0 FF FF 64 02 FF 00 00 00 00 FF FF FF FF 10 FF FF FF FF FF FF",
+                    "name": "demo01"
+                },
+                {
+                    "unk": "00 00 FF FF FF FF 64 01 FF FF 00 00 00 FF FF FF FF FF FF FF FF FF FF FF",
+                    "name": "SealedDoorClose"
+                }
+            ],
+            "PLY ": [
+                {
+                    "unk1": "F8 54 00 0C",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 2180.0,
+                    "unk2": "00 00 80 00 00 00 00 00"
+                },
+                {
+                    "unk1": "FF FF FF FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": 900.0,
+                    "unk2": "00 00 80 00 00 00 00 01"
+                },
+                {
+                    "unk1": "FF FF 01 FF",
+                    "posx": 0.0,
+                    "posy": 0.0,
+                    "posz": -2000.0,
+                    "unk2": "00 00 00 00 00 00 00 02"
+                }
+            ],
+            "LAY ": {
+                "l0": {
+                    "OBJN": [
+                        "MapArea",
+                        "TgDefea",
+                        "ScChang"
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": 0,
+                            "byte4": 1,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 0.0,
+                            "posy": -100.0,
+                            "posz": -2700.0,
+                            "sizex": 600.0,
+                            "sizey": 600.0,
+                            "sizez": 600.0,
+                            "event_flag": -25,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 00",
+                            "name": "ScChang"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": 0,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": -200.0,
+                            "posz": -300.0,
+                            "sizex": 7000.0,
+                            "sizey": 5500.0,
+                            "sizez": 7000.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 01",
+                            "name": "MapArea"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": 1,
+                            "byte4": 2,
+                            "unk1": "FF 5F FF FF",
+                            "posx": 0.0,
+                            "posy": -100.0,
+                            "posz": 2700.0,
+                            "sizex": 600.0,
+                            "sizey": 600.0,
+                            "sizez": 600.0,
+                            "event_flag": -25,
+                            "unk2": "FF 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 02",
+                            "name": "ScChang"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": 125,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": -100.0,
+                            "posz": 0.0,
+                            "sizex": 100.0,
+                            "sizey": 100.0,
+                            "sizez": 100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 03",
+                            "name": "TgDefea"
+                        }
+                    ]
+                },
+                "l1": {
+                    "OBJN": [
+                        "BGhB",
+                        "OGhKf",
+                        "DoorBs",
+                        "Cam2Tag",
+                        "NpcTke",
+                        "OGhSwL",
+                        "BGh2",
+                        "SldDoor",
+                        "HeartCo"
+                    ],
+                    "ARCN": [
+                        "PutHeartUtuwa",
+                        "GirahimKnife",
+                        "BossLock2B",
+                        "GirahimBt",
+                        "PLGirahim",
+                        "GirahimBt02",
+                        "SBDin",
+                        "SBAnm",
+                        "BossKeyhole2B",
+                        "GetHeartUtuwa",
+                        "KeyBoss2B",
+                        "DoorBossCollisionB",
+                        "DoorBossB"
+                    ],
+                    "OBJS": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -49,
+                            "byte4": 68,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 2350.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 05",
+                            "name": "DoorBs"
+                        }
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": 124,
+                            "byte4": 125,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 04",
+                            "name": "HeartCo"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -9,
+                            "byte4": -48,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": -2288.699951171875,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 06",
+                            "name": "SldDoor"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -62,
+                            "byte4": -4,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 07",
+                            "name": "BGh2"
+                        },
+                        {
+                            "byte1": 97,
+                            "tosky_scen_link": 42,
+                            "scen_link": -45,
+                            "byte4": -13,
+                            "unk1": "FF 1F FF FF",
+                            "posx": 100.0,
+                            "posy": 0.0,
+                            "posz": 300.0,
+                            "event_flag": 125,
+                            "unk2": "FF FF FF",
+                            "talk_behaviour": 6662,
+                            "unk3": "FC 08",
+                            "name": "NpcTke"
+                        }
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": 1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": 1,
+                            "unk1": "FF DF FF FF",
+                            "posx": 0.0,
+                            "posy": -200.0,
+                            "posz": 0.0,
+                            "sizex": 2100.0,
+                            "sizey": 1600.0,
+                            "sizez": 2100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": -131,
+                            "unk3": "FC 09",
+                            "name": "Cam2Tag"
+                        },
+                        {
+                            "byte1": 2,
+                            "tosky_scen_link": -4,
+                            "scen_link": -1,
+                            "byte4": 2,
+                            "unk1": "FF DF FF FF",
+                            "posx": 0.0,
+                            "posy": -200.0,
+                            "posz": 0.0,
+                            "sizex": 2100.0,
+                            "sizey": 1600.0,
+                            "sizez": 2100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": -131,
+                            "unk3": "FC 0A",
+                            "name": "Cam2Tag"
+                        },
+                        {
+                            "byte1": 3,
+                            "tosky_scen_link": -62,
+                            "scen_link": -1,
+                            "byte4": 3,
+                            "unk1": "FF DF FF FF",
+                            "posx": 0.0,
+                            "posy": -200.0,
+                            "posz": 0.0,
+                            "sizex": 2100.0,
+                            "sizey": 1600.0,
+                            "sizez": 2100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": -131,
+                            "unk3": "FC 0B",
+                            "name": "Cam2Tag"
+                        }
+                    ]
+                },
+                "l2": {
+                    "OBJN": [
+                        "DoorBs",
+                        "SldDoor",
+                        "HeartCo"
+                    ],
+                    "ARCN": [
+                        "PutHeartUtuwa",
+                        "BossLock2B",
+                        "SBDin",
+                        "SBAnm",
+                        "BossKeyhole2B",
+                        "GetHeartUtuwa",
+                        "KeyBoss2B",
+                        "DoorBossCollisionB",
+                        "DoorBossB"
+                    ],
+                    "OBJS": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -49,
+                            "byte4": 68,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 2350.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 04",
+                            "name": "DoorBs"
+                        }
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -9,
+                            "byte4": -48,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": -2288.699951171875,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 05",
+                            "name": "SldDoor"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": 124,
+                            "byte4": 125,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 06",
+                            "name": "HeartCo"
+                        }
+                    ]
+                },
+                "l3": {
+                    "OBJN": [
+                        "BGhB",
+                        "DoorBs",
+                        "OGhKf",
+                        "Cam2Tag",
+                        "OGhSwL",
+                        "BGh2",
+                        "TgSBG",
+                        "SldDoor"
+                    ],
+                    "ARCN": [
+                        "BossLock2B",
+                        "GirahimKnife",
+                        "GirahimBt",
+                        "PLGirahim",
+                        "SBDin",
+                        "GirahimBt02",
+                        "SBAnm",
+                        "BossKeyhole2B",
+                        "KeyBoss2B",
+                        "DoorBossCollisionB",
+                        "DoorBossB"
+                    ],
+                    "OBJS": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -49,
+                            "byte4": 68,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 2350.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 05",
+                            "name": "DoorBs"
+                        }
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -62,
+                            "byte4": -4,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": 0.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 04",
+                            "name": "BGh2"
+                        },
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": -32,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": -2288.699951171875,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 06",
+                            "name": "SldDoor"
+                        }
+                    ],
+                    "STAG": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": 3,
+                            "unk1": "FF FF FF FF",
+                            "posx": -300.0,
+                            "posy": 0.0,
+                            "posz": 1600.0,
+                            "sizex": 100.0,
+                            "sizey": 100.0,
+                            "sizez": 100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 07",
+                            "name": "TgSBG"
+                        },
+                        {
+                            "byte1": 1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -1,
+                            "byte4": 1,
+                            "unk1": "FF DF FF FF",
+                            "posx": 0.0,
+                            "posy": -200.0,
+                            "posz": 0.0,
+                            "sizex": 2100.0,
+                            "sizey": 1600.0,
+                            "sizez": 2100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 08",
+                            "name": "Cam2Tag"
+                        },
+                        {
+                            "byte1": 2,
+                            "tosky_scen_link": -4,
+                            "scen_link": -1,
+                            "byte4": 2,
+                            "unk1": "FF DF FF FF",
+                            "posx": 0.0,
+                            "posy": -200.0,
+                            "posz": 0.0,
+                            "sizex": 2100.0,
+                            "sizey": 1600.0,
+                            "sizez": 2100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 09",
+                            "name": "Cam2Tag"
+                        },
+                        {
+                            "byte1": 3,
+                            "tosky_scen_link": -62,
+                            "scen_link": -1,
+                            "byte4": 3,
+                            "unk1": "FF DF FF FF",
+                            "posx": 0.0,
+                            "posy": -200.0,
+                            "posz": 0.0,
+                            "sizex": 2100.0,
+                            "sizey": 1600.0,
+                            "sizez": 2100.0,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": -1,
+                            "unk3": "FC 0A",
+                            "name": "Cam2Tag"
+                        }
+                    ]
+                },
+                "l4": {},
+                "l5": {},
+                "l6": {},
+                "l7": {},
+                "l8": {},
+                "l9": {},
+                "l10": {},
+                "l11": {},
+                "l12": {},
+                "l13": {
+                    "OBJN": [
+                        "SldDoor"
+                    ],
+                    "ARCN": [
+                        "SBDin",
+                        "SBAnm"
+                    ],
+                    "OBJ ": [
+                        {
+                            "byte1": -1,
+                            "tosky_scen_link": -1,
+                            "scen_link": -9,
+                            "byte4": -48,
+                            "unk1": "FF FF FF FF",
+                            "posx": 0.0,
+                            "posy": 0.0,
+                            "posz": -2288.699951171875,
+                            "event_flag": 0,
+                            "unk2": "00 00 00",
+                            "talk_behaviour": 0,
+                            "unk3": "FC 04",
+                            "name": "SldDoor"
+                        }
+                    ]
+                },
+                "l14": {},
+                "l15": {},
+                "l16": {},
+                "l17": {},
+                "l18": {},
+                "l19": {},
+                "l20": {},
+                "l21": {},
+                "l22": {},
+                "l23": {},
+                "l24": {},
+                "l25": {},
+                "l26": {},
+                "l27": {},
+                "l28": {}
+            }
+        }
+    }
+}
