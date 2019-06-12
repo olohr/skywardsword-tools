@@ -33,13 +33,13 @@ for fname in glob.glob('en_US/**/*.msbf', recursive=True):
             if seg_id == 'FLW3':
                 parsed['FLW3'] = collections.OrderedDict()
                 parsed['FLW3']['flow'] = collections.OrderedDict()
-                parsed['FLW3']['anon_entrypoints'] = []
+                parsed['FLW3']['branch_points'] = []
                 count1, count2 = struct.unpack('>hh12x',seg_data[:0x10])
                 for i in range(count1):
                     item = unpack('type subType param1 param2 next param3 param4 param5','>bb2xhhhhhh',seg_data[0x10+0x10*i:0x20+0x10*i])
                     item_id = i
                     assert item['type'] in (1,2,3,4)
-                    item['type'] = ['type1','if','type3','start'][item['type']-1]
+                    item['type'] = ['type1','switch','type3','start'][item['type']-1]
                     #unk1: -1 to 13311
                     #flagId: -256 to 20480
                     #next: -1 to 1016
@@ -51,7 +51,7 @@ for fname in glob.glob('en_US/**/*.msbf', recursive=True):
                         assert item.pop('param1') == 0
                         assert item.pop('param2') == 0
                         assert item.pop('param5') == 0
-                    elif item['type'] == 'if':
+                    elif item['type'] == 'switch':
                         assert item['subType'] in (0,6)
                         assert item.pop('param1') == 0
                         assert item['param2'] >= 0
@@ -59,7 +59,6 @@ for fname in glob.glob('en_US/**/*.msbf', recursive=True):
                         assert item['param3'] >= 0
                         assert item['param4'] in (2,3,4)
                         assert item['param5'] >= 0
-                        print(item)
                     elif item['type'] == 'type3':
                         assert item['subType'] in (0,1,2,4,6)
                         assert item.pop('param4') == 0
@@ -77,7 +76,7 @@ for fname in glob.glob('en_US/**/*.msbf', recursive=True):
                     parsed['FLW3']['flow'][item_id] = item
                 for i in range(count2):
                     item = struct.unpack('>h',seg_data[0x10+0x10*count1+2*i:0x12+0x10*count1+2*i])[0]
-                    parsed['FLW3']['anon_entrypoints'].append(item)
+                    parsed['FLW3']['branch_points'].append(item)
             elif seg_id == 'FEN1' or seg_id == 'LBL1':
                 parsed[seg_id] = []
                 count = struct.unpack('>i',seg_data[:4])[0]
@@ -117,17 +116,17 @@ for fname in glob.glob('en_US/**/*.msbf', recursive=True):
             lines.append((None,indent,'goto flw_'+str(itemId)))
             return
         already_printed.add(itemId)
-        item = allItems[itemId]
+        item = allItems['flow'][itemId]
         if item['type']=='start':
             lines.append((itemId,indent,'start()'))
-        elif item['type']=='if':
+        elif item['type']=='switch':
             if item['subType']==6 and item['param3'] == 3:
-                lines.append((itemId,indent,'if (story_flags[%d 0x%04X] == true) {'%(item['param2'],item['param2'])))
+                lines.append((itemId,indent,'switch (story_flags[%d 0x%04X]) {'%(item['param2'],item['param2'])))
             else:
-                lines.append((itemId,indent,'if ('+str(item)+') {'))
-            printItem(allItems,lines,item['param5'],indent+1,already_printed,needed_labels,strings)
-            #lines.append((None,indent,'} else {'))
-            #printItem(allItems,lines,item['param4'],indent+1,already_printed,needed_labels,strings)
+                lines.append((itemId,indent,'switch ('+str(item)+') {'))
+            for i in range(item['param4']):
+                lines.append((None,indent,'  case %d:'%i))
+                printItem(allItems,lines,allItems['branch_points'][item['param5']+i],indent+1,already_printed,needed_labels,strings)
             lines.append((None,indent,'}'))
         elif item['type']=='type1':
             msbt_file, msbt_line = item['param3'],item['param4']
@@ -143,8 +142,12 @@ for fname in glob.glob('en_US/**/*.msbf', recursive=True):
         elif item['type']=='type3' and item['subType']==1 and item['param3']==3:
             lines.append((itemId,indent,"scene_flags[%d '%s'][%d 0x%02X] = false;"%(item['param2'],flagindex_names[item['param2']],item['param1'],item['param1'])))
         elif item['type']=='type3' and item['subType']==1 and item['param3']==10:
-            scen = [{"name": "F303","room": 0,"layer": 0,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 14,"byte4": 2,"byte5": 2,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B200","room": 10,"layer": 3,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S100","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S200","room": 2,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S300","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S000","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B100","room": 0,"layer": 5,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B300","room": 0,"layer": 2,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 0,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B101","room": 0,"layer": 2,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B301","room": 0,"layer": 2,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B201","room": 0,"layer": 3,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 0,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 0,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F403","room": 1,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F403","room": 1,"layer": 4,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B400","room": 0,"layer": 1,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F302","room": 0,"layer": 13,"entrance": 5,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F302","room": 0,"layer": 0,"entrance": 4,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F302","room": 0,"layer": 2,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0}]
-            lines.append((itemId,indent,"sceneChange(%d, %d) // %s"%(item['param1'],item['param2'],scen[item['param1']] if '460' in fname else '')))
+            scen = None
+            if '460' in fname:
+                scen = [{"name": "F303","room": 0,"layer": 0,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 14,"byte4": 2,"byte5": 2,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B200","room": 10,"layer": 3,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S100","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S200","room": 2,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S300","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S000","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B100","room": 0,"layer": 5,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B300","room": 0,"layer": 2,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 0,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B101","room": 0,"layer": 2,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B301","room": 0,"layer": 2,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B201","room": 0,"layer": 3,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 0,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 0,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F403","room": 1,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F403","room": 1,"layer": 4,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B400","room": 0,"layer": 1,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F302","room": 0,"layer": 13,"entrance": 5,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F302","room": 0,"layer": 0,"entrance": 4,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F302","room": 0,"layer": 2,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0}]
+            if '008' in fname:
+                scen = [{"name": "F007r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F004r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F004r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F008r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "D000","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "D000","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 1,"entrance": 4,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 14,"entrance": 25,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F006r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 13,"entrance": 13,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 1,"entrance": 14,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 3,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 5,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 3,"entrance": 0,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 3,"entrance": 19,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F004r","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F009r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 10,"entrance": 22,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 3,"entrance": 6,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 0,"layer": 0,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 0,"layer": 0,"entrance": 4,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F021","room": 0,"layer": 13,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F002r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F009r","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 19,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 20,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F012r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F005r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F007r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F013r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F014r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F015r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F016r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F017r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F018r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F017r","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 15,"entrance": 40,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 10,"entrance": 41,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 16,"entrance": 42,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 3,"entrance": 43,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F008r","room": 0,"layer": 15,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S000","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 18,"entrance": 51,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 0,"entrance": 52,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "D003_7","room": 0,"layer": 0,"entrance": 4,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F008r","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 15,"entrance": 6,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 28,"entrance": 48,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 21,"entrance": 58,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 1,"layer": 15,"entrance": 4,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 12,"entrance": 59,"byte4": 2,"byte5": 2,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 0,"entrance": 60,"byte4": 2,"byte5": 2,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 6,"entrance": 4,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 6,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 2,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F013r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 1,"layer": 13,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F407","room": 0,"layer": 14,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 28,"entrance": 48,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 22,"entrance": 96,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 0,"entrance": 96,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0}]
+            lines.append((itemId,indent,"changeScene(%d, %d) // %s"%(item['param1'],item['param2'],scen[item['param1']] if scen is not None else '')))
         else:
             lines.append((itemId,indent,str(item)))
         if 'next' in item:
@@ -156,14 +159,9 @@ for fname in glob.glob('en_US/**/*.msbf', recursive=True):
         needed_labels = set()
         for entrypoint_group in parsed['FEN1']:
             for entrypoint in entrypoint_group:
-                lines.append((None,0,'void entrypoint_named_'+entrypoint['name']+'() {'))
-                printItem(parsed['FLW3']['flow'],lines,entrypoint['value'],1,already_printed,needed_labels,parsedMsbt['TXT2'])
+                lines.append((None,0,'void entrypoint_'+entrypoint['name']+'() {'))
+                printItem(parsed['FLW3'],lines,entrypoint['value'],1,already_printed,needed_labels,parsedMsbt['TXT2'])
                 lines.append((None,0,'}\n'))
-        for i in range(len(parsed['FLW3']['anon_entrypoints'])):
-            entrypoint_id = parsed['FLW3']['anon_entrypoints'][i]
-            lines.append((None,0,'void entrypoint_anon_%d() {'%i))
-            printItem(parsed['FLW3']['flow'],lines,entrypoint_id,1,already_printed,needed_labels,parsedMsbt['TXT2'])
-            lines.append((None,0,'}\n'))
         for lineId,indent,lineStr in lines:
             if lineId in needed_labels:
                 file.write('\t'*indent+'flw_'+str(lineId)+':\n')
