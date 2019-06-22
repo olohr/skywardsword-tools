@@ -171,32 +171,48 @@
             ],
             "PLY ": [
                 {
-                    "unk1": "FF FF 00 FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": 0,
+                    "byte4": -1,
                     "posx": -863.0187377929688,
                     "posy": 7599.990234375,
                     "posz": 8904.201171875,
-                    "unk2": "00 00 00 00 00 00 00 00"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 0
                 },
                 {
-                    "unk1": "FF FF 01 FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": 1,
+                    "byte4": -1,
                     "posx": -964.4851684570312,
                     "posy": 7599.990234375,
                     "posz": 8904.2021484375,
-                    "unk2": "00 00 00 00 00 00 00 01"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 1
                 },
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": 68.67030334472656,
                     "posy": 7599.990234375,
                     "posz": 8904.201171875,
-                    "unk2": "00 00 00 00 00 00 00 02"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 2
                 },
                 {
-                    "unk1": "FF FF 02 FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": 2,
+                    "byte4": -1,
                     "posx": -1082.8624267578125,
                     "posy": 7599.990234375,
                     "posz": 8904.2021484375,
-                    "unk2": "00 00 00 00 00 00 00 03"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 3
                 }
             ],
             "SOBJ": [
@@ -213,7 +229,8 @@
                     "sizey": 4.579999923706055,
                     "sizez": 3.240000009536743,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
                     "name": "WoodTag"
@@ -250,7 +267,8 @@
                             "posy": 7600.0,
                             "posz": 10341.0,
                             "event_flag": 23,
-                            "unk2": "01 40 00",
+                            "transition_type": 1,
+                            "unk2": "40 00",
                             "talk_behaviour": 32,
                             "unk3": "FC 05",
                             "name": "Door"
@@ -265,7 +283,8 @@
                             "posy": 7600.0,
                             "posz": 10499.0,
                             "event_flag": 23,
-                            "unk2": "01 C0 00",
+                            "transition_type": 1,
+                            "unk2": "C0 00",
                             "talk_behaviour": 32,
                             "unk3": "FC 06",
                             "name": "Door"
@@ -282,7 +301,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 01",
                             "name": "TDoor"
@@ -297,7 +317,8 @@
                             "posy": 7657.26025390625,
                             "posz": 10531.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 02",
                             "name": "FrmLand"
@@ -312,7 +333,8 @@
                             "posy": 7640.0,
                             "posz": 10550.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 03",
                             "name": "FrtTree"
@@ -327,7 +349,8 @@
                             "posy": 0.0,
                             "posz": 0.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 04",
                             "name": "ShriIns"
@@ -366,7 +389,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 07",
                             "name": "Door"

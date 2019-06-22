@@ -6,6 +6,7 @@ import collections
 import os
 import storyflag
 from util import *
+import re
 
 ROOMCOUNT = 16
 LAYERCOUNT = 29
@@ -145,12 +146,15 @@ def parseObj(objtype, quantity, data):
                 parsed_item = unpack('unk name','>24s32s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
             elif objtype == 'PLY ':
-                parsed_item = unpack('unk1 posx posy posz unk2','>4s3f8s',item)
+                #room entrance
+                parsed_item = unpack('byte1 byte2 play_cutscene byte4 posx posy posz unk2 entrance_id','>bbbb3f6sh',item)
+                if parsed_item['play_cutscene'] != -1:
+                    print('%d: entrance %d -- cutscene %d'%(i,parsed_item['entrance_id'],parsed_item['play_cutscene']))
             elif objtype in ('OBJS','OBJ ','DOOR'):
-                parsed_item = unpack('byte1 tosky_scen_link scen_link byte4 unk1 posx posy posz                   event_flag unk2 talk_behaviour unk3 name','>bbbb4s3fb3sh2s8s',item)
+                parsed_item = unpack('byte1 tosky_scen_link scen_link byte4 unk1 posx posy posz                   event_flag transition_type unk2 talk_behaviour unk3 name','>bbbb4s3fbb2sh2s8s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
             elif objtype in ('SOBS','SOBJ','STAS','STAG','SNDT'):
-                parsed_item = unpack('byte1 tosky_scen_link scen_link byte4 unk1 posx posy posz sizex sizey sizez event_flag unk2 talk_behaviour unk3 name','>bbbb4s3f3fb3sh2s8s',item)
+                parsed_item = unpack('byte1 tosky_scen_link scen_link byte4 unk1 posx posy posz sizex sizey sizez event_flag transition_type unk2 talk_behaviour unk3 name','>bbbb4s3f3fbb2sh2s8s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
             
             elif objtype == 'LYSE':
@@ -219,6 +223,15 @@ for stageid in os.listdir('Stage'):
         assert len(stage['rooms']) == 1
     f2=open('output/stage/%s.json'%stageid,'w',encoding='utf-8')
     f2.write(objToJson(stage))
+    s = objToJson(stage)
+    #if '"r01"' in s:
+    #    for roomid in stage['rooms']:
+    #        room = stage['rooms'][roomid]
+    #        r = objToJson(room)
+    #        if 'saveObj' in r and len(room['PLY ']) > 1:
+    #            for ply in room['PLY ']:
+    #                if ply['play_cutscene'] != -1:
+    #                    print('!!!!!! '+stageid+' '+roomid+' entrance '+str(ply['entrance_id']))
     f2.close()
 
 

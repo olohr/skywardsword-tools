@@ -143,7 +143,8 @@
                     "sizey": 10000.0,
                     "sizez": 10000.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
                     "name": "MapArea"
@@ -161,7 +162,8 @@
                     "sizey": 15000.0,
                     "sizez": 27000.0,
                     "event_flag": 0,
-                    "unk2": "00 80 00",
+                    "transition_type": 0,
+                    "unk2": "80 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 01",
                     "name": "MapArea"
@@ -179,7 +181,8 @@
                     "sizey": 100.0,
                     "sizez": 100.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 02",
                     "name": "TlpTag"
@@ -197,7 +200,8 @@
                     "sizey": 100.0,
                     "sizez": 100.0,
                     "event_flag": -4,
-                    "unk2": "23 D3 EA",
+                    "transition_type": 35,
+                    "unk2": "D3 EA",
                     "talk_behaviour": 255,
                     "unk3": "FC 03",
                     "name": "MapMark"
@@ -228,7 +232,8 @@
                     "posy": 0.0,
                     "posz": 0.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 04",
                     "name": "Siren2D"
@@ -288,11 +293,15 @@
             ],
             "PLY ": [
                 {
-                    "unk1": "FF FF FF 08",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": 8,
                     "posx": -9311.57421875,
                     "posy": 7500.0,
                     "posz": 7089.5205078125,
-                    "unk2": "00 00 9D 28 00 00 00 00"
+                    "unk2": "00 00 9D 28 00 00",
+                    "entrance_id": 0
                 }
             ],
             "STAG": [
@@ -309,7 +318,8 @@
                     "sizey": 348.0,
                     "sizez": 578.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
                     "name": "BtlTgC"
@@ -327,7 +337,8 @@
                     "sizey": 348.0,
                     "sizez": 578.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 01",
                     "name": "BtlTgC"
@@ -345,7 +356,8 @@
                     "sizey": 348.0,
                     "sizez": 578.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 02",
                     "name": "BtlTgC"
@@ -363,7 +375,8 @@
                     "sizey": 348.0,
                     "sizez": 578.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 03",
                     "name": "BtlTgC"
@@ -381,7 +394,8 @@
                     "sizey": 348.0,
                     "sizez": 578.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 04",
                     "name": "BtlTgC"
@@ -399,7 +413,8 @@
                     "sizey": 348.0,
                     "sizez": 578.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 05",
                     "name": "BtlTgC"
@@ -417,7 +432,8 @@
                     "sizey": 348.0,
                     "sizez": 578.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 06",
                     "name": "BtlTgC"
@@ -435,7 +451,8 @@
                     "sizey": 348.0,
                     "sizez": 578.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 07",
                     "name": "BtlTgC"
@@ -453,7 +470,8 @@
                     "sizey": 348.0,
                     "sizez": 578.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 08",
                     "name": "BtlTgC"
@@ -471,7 +489,8 @@
                     "sizey": 303.0,
                     "sizez": 504.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 09",
                     "name": "BtlTgC"
@@ -489,7 +508,8 @@
                     "sizey": 300.0,
                     "sizez": 500.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 0A",
                     "name": "BtlTgC"
@@ -507,7 +527,8 @@
                     "sizey": 431.0,
                     "sizez": 681.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 0B",
                     "name": "BtlTgC"
@@ -525,7 +546,8 @@
                     "sizey": 399.0,
                     "sizez": 681.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 0C",
                     "name": "BtlTgC"
@@ -543,7 +565,8 @@
                     "sizey": 334.0,
                     "sizez": 571.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 0D",
                     "name": "BtlTgC"
@@ -561,7 +584,8 @@
                     "sizey": 457.0,
                     "sizez": 649.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 0E",
                     "name": "BtlTgC"
@@ -579,7 +603,8 @@
                     "sizey": 399.0,
                     "sizez": 681.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 0F",
                     "name": "BtlTgC"
@@ -597,7 +622,8 @@
                     "sizey": 636.0,
                     "sizez": 746.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 10",
                     "name": "BtlTgC"
@@ -615,7 +641,8 @@
                     "sizey": 759.0,
                     "sizez": 760.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 11",
                     "name": "BtlTgC"
@@ -633,7 +660,8 @@
                     "sizey": 636.0,
                     "sizez": 746.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 12",
                     "name": "BtlTgC"
@@ -651,7 +679,8 @@
                     "sizey": 636.0,
                     "sizez": 746.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 13",
                     "name": "BtlTgC"
@@ -669,7 +698,8 @@
                     "sizey": 719.0,
                     "sizez": 795.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 14",
                     "name": "BtlTgC"
@@ -687,7 +717,8 @@
                     "sizey": 1175.0,
                     "sizez": 1207.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 15",
                     "name": "BtlTgC"
@@ -705,7 +736,8 @@
                     "sizey": 712.0,
                     "sizez": 782.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 16",
                     "name": "BtlTgC"
@@ -757,11 +789,15 @@
             ],
             "PLY ": [
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": 0.0,
                     "posy": 7600.0,
                     "posz": 7584.0693359375,
-                    "unk2": "00 00 80 00 00 00 00 02"
+                    "unk2": "00 00 80 00 00 00",
+                    "entrance_id": 2
                 }
             ],
             "LAY ": {
@@ -1360,123 +1396,191 @@
             ],
             "PLY ": [
                 {
-                    "unk1": "F8 94 0B 09",
+                    "byte1": -8,
+                    "byte2": -108,
+                    "play_cutscene": 11,
+                    "byte4": 9,
                     "posx": 0.0,
                     "posy": 7600.0,
                     "posz": 8450.0,
-                    "unk2": "00 00 00 00 00 00 00 00"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 0
                 },
                 {
-                    "unk1": "FF FF FF 0A",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": 10,
                     "posx": -1647.138671875,
                     "posy": 7600.0,
                     "posz": 10416.6884765625,
-                    "unk2": "00 00 40 00 00 00 00 01"
+                    "unk2": "00 00 40 00 00 00",
+                    "entrance_id": 1
                 },
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": -73.83000183105469,
                     "posy": 7599.990234375,
                     "posz": 9217.0107421875,
-                    "unk2": "00 00 34 9F 00 00 00 02"
+                    "unk2": "00 00 34 9F 00 00",
+                    "entrance_id": 2
                 },
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": 0.0,
                     "posy": 7600.0,
                     "posz": 8778.6904296875,
-                    "unk2": "00 00 80 00 00 00 00 03"
+                    "unk2": "00 00 80 00 00 00",
+                    "entrance_id": 3
                 },
                 {
-                    "unk1": "FF FF 05 FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": 5,
+                    "byte4": -1,
                     "posx": -1076.2796630859375,
                     "posy": 9085.9462890625,
                     "posz": 8846.28515625,
-                    "unk2": "00 00 00 00 00 00 00 04"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 4
                 },
                 {
-                    "unk1": "FF FF 06 FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": 6,
+                    "byte4": -1,
                     "posx": -1294.8065185546875,
                     "posy": 9085.9462890625,
                     "posz": 8846.283203125,
-                    "unk2": "00 00 00 00 00 00 00 05"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 5
                 },
                 {
-                    "unk1": "FF FF 07 FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": 7,
+                    "byte4": -1,
                     "posx": -1510.1138916015625,
                     "posy": 9085.9462890625,
                     "posz": 8857.048828125,
-                    "unk2": "00 00 00 00 00 00 00 06"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 6
                 },
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": -1122.7259521484375,
                     "posy": 9085.9462890625,
                     "posz": 8570.6767578125,
-                    "unk2": "00 00 00 00 00 00 00 07"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 7
                 },
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": -1329.4847412109375,
                     "posy": 9085.9462890625,
                     "posz": 8552.7783203125,
-                    "unk2": "00 00 00 00 00 00 00 08"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 8
                 },
                 {
-                    "unk1": "FF FF 08 FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": 8,
+                    "byte4": -1,
                     "posx": -1542.7847900390625,
                     "posy": 9085.9462890625,
                     "posz": 8552.7783203125,
-                    "unk2": "00 00 00 00 00 00 00 09"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 9
                 },
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": 0.0,
                     "posy": 7702.21044921875,
                     "posz": 11014.240234375,
-                    "unk2": "00 00 00 00 00 00 00 0A"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 10
                 },
                 {
-                    "unk1": "FF FF FF 18",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": 24,
                     "posx": 0.0,
                     "posy": 7745.0,
                     "posz": 10000.0,
-                    "unk2": "00 00 80 00 00 00 00 0B"
+                    "unk2": "00 00 80 00 00 00",
+                    "entrance_id": 11
                 },
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": 0.0,
                     "posy": 7600.0,
                     "posz": 8935.830078125,
-                    "unk2": "00 00 00 00 00 00 00 0C"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 12
                 },
                 {
-                    "unk1": "FF FF 09 FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": 9,
+                    "byte4": -1,
                     "posx": -1126.7196044921875,
                     "posy": 9085.9462890625,
                     "posz": 9114.892578125,
-                    "unk2": "00 00 00 00 00 00 00 0D"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 13
                 },
                 {
-                    "unk1": "FF FF 0A FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": 10,
+                    "byte4": -1,
                     "posx": 0.0,
                     "posy": 7875.0,
                     "posz": 11813.0,
-                    "unk2": "00 00 00 00 00 00 00 0E"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 14
                 },
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": 2758.0,
                     "posy": 7604.48095703125,
                     "posz": 11004.0,
-                    "unk2": "00 00 AE 39 00 00 00 0F"
+                    "unk2": "00 00 AE 39 00 00",
+                    "entrance_id": 15
                 },
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": 0.0,
                     "posy": 7702.21044921875,
                     "posz": 11014.240234375,
-                    "unk2": "00 00 80 00 00 00 00 10"
+                    "unk2": "00 00 80 00 00 00",
+                    "entrance_id": 16
                 }
             ],
             "LAY ": {
@@ -1537,7 +1641,8 @@
                             "posy": 7600.0,
                             "posz": 10341.0,
                             "event_flag": 23,
-                            "unk2": "01 40 00",
+                            "transition_type": 1,
+                            "unk2": "40 00",
                             "talk_behaviour": 32,
                             "unk3": "FC 00",
                             "name": "Door"
@@ -1552,7 +1657,8 @@
                             "posy": 7600.0,
                             "posz": 10499.0,
                             "event_flag": 23,
-                            "unk2": "01 C0 00",
+                            "transition_type": 1,
+                            "unk2": "C0 00",
                             "talk_behaviour": 32,
                             "unk3": "FC 01",
                             "name": "Door"
@@ -1567,7 +1673,8 @@
                             "posy": 7600.0,
                             "posz": 10420.0068359375,
                             "event_flag": -1,
-                            "unk2": "FF C0 00",
+                            "transition_type": -1,
+                            "unk2": "C0 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 02",
                             "name": "saveObj"
@@ -1582,7 +1689,8 @@
                             "posy": 7700.330078125,
                             "posz": 12500.0,
                             "event_flag": -1,
-                            "unk2": "FF 80 00",
+                            "transition_type": -1,
+                            "unk2": "80 00",
                             "talk_behaviour": -32642,
                             "unk3": "FC 0D",
                             "name": "TBox"
@@ -1597,7 +1705,8 @@
                             "posy": 7500.0,
                             "posz": 6279.25146484375,
                             "event_flag": -1,
-                            "unk2": "FF 37 77",
+                            "transition_type": -1,
+                            "unk2": "37 77",
                             "talk_behaviour": -1,
                             "unk3": "FC 25",
                             "name": "saveObj"
@@ -1612,7 +1721,8 @@
                             "posy": 7600.0,
                             "posz": 10341.0,
                             "event_flag": -1,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 2048,
                             "unk3": "FC 26",
                             "name": "Door"
@@ -1627,7 +1737,8 @@
                             "posy": 7600.0,
                             "posz": 10499.0,
                             "event_flag": -1,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": 2048,
                             "unk3": "FC 27",
                             "name": "Door"
@@ -1642,7 +1753,8 @@
                             "posy": 8403.87890625,
                             "posz": 153.0,
                             "event_flag": -1,
-                            "unk2": "FF 45 B0",
+                            "transition_type": -1,
+                            "unk2": "45 B0",
                             "talk_behaviour": -1,
                             "unk3": "FC 29",
                             "name": "saveObj"
@@ -1659,7 +1771,8 @@
                             "posy": 8002.0,
                             "posz": 12525.0,
                             "event_flag": -1,
-                            "unk2": "FF 80 00",
+                            "transition_type": -1,
+                            "unk2": "80 00",
                             "talk_behaviour": -15435,
                             "unk3": "FC 03",
                             "name": "NpcOim"
@@ -1674,7 +1787,8 @@
                             "posy": 7599.990234375,
                             "posz": 9268.267578125,
                             "event_flag": -1,
-                            "unk2": "FF F6 C2",
+                            "transition_type": -1,
+                            "unk2": "F6 C2",
                             "talk_behaviour": -15430,
                             "unk3": "FC 04",
                             "name": "NpcOim"
@@ -1689,7 +1803,8 @@
                             "posy": 7657.26025390625,
                             "posz": 10531.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 05",
                             "name": "FrmLand"
@@ -1704,7 +1819,8 @@
                             "posy": 7640.0,
                             "posz": 10550.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 06",
                             "name": "FrtTree"
@@ -1719,7 +1835,8 @@
                             "posy": 7599.990234375,
                             "posz": 9220.3251953125,
                             "event_flag": -1,
-                            "unk2": "FF E8 89",
+                            "transition_type": -1,
+                            "unk2": "E8 89",
                             "talk_behaviour": -15427,
                             "unk3": "FC 07",
                             "name": "NpcOim"
@@ -1734,7 +1851,8 @@
                             "posy": 7599.990234375,
                             "posz": 9268.267578125,
                             "event_flag": -1,
-                            "unk2": "FF 89 F5",
+                            "transition_type": -1,
+                            "unk2": "89 F5",
                             "talk_behaviour": -15425,
                             "unk3": "FC 08",
                             "name": "NpcOim"
@@ -1749,7 +1867,8 @@
                             "posy": 8002.0,
                             "posz": 12525.0,
                             "event_flag": -1,
-                            "unk2": "FF 80 00",
+                            "transition_type": -1,
+                            "unk2": "80 00",
                             "talk_behaviour": -15424,
                             "unk3": "FC 09",
                             "name": "NpcOim"
@@ -1764,7 +1883,8 @@
                             "posy": 0.0,
                             "posz": 0.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 0A",
                             "name": "ShriIns"
@@ -1779,7 +1899,8 @@
                             "posy": 7599.990234375,
                             "posz": 9268.267578125,
                             "event_flag": -1,
-                            "unk2": "FF 89 F5",
+                            "transition_type": -1,
+                            "unk2": "89 F5",
                             "talk_behaviour": -15430,
                             "unk3": "FC 0B",
                             "name": "NpcOim"
@@ -1794,7 +1915,8 @@
                             "posy": 7599.990234375,
                             "posz": 10408.1513671875,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 0C",
                             "name": "NpcInv"
@@ -1809,7 +1931,8 @@
                             "posy": 7599.990234375,
                             "posz": 9211.80859375,
                             "event_flag": -1,
-                            "unk2": "FF E8 89",
+                            "transition_type": -1,
+                            "unk2": "E8 89",
                             "talk_behaviour": -15414,
                             "unk3": "FC 0E",
                             "name": "NpcOim"
@@ -1824,7 +1947,8 @@
                             "posy": 7601.92333984375,
                             "posz": 9702.9619140625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -15412,
                             "unk3": "FC 0F",
                             "name": "NpcStr"
@@ -1839,7 +1963,8 @@
                             "posy": 7700.34033203125,
                             "posz": 12421.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 10",
                             "name": "Tubo"
@@ -1854,7 +1979,8 @@
                             "posy": 7700.33935546875,
                             "posz": 12315.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 11",
                             "name": "Tubo"
@@ -1869,7 +1995,8 @@
                             "posy": 7700.3330078125,
                             "posz": 12699.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 12",
                             "name": "Tubo"
@@ -1884,7 +2011,8 @@
                             "posy": 7700.337890625,
                             "posz": 12421.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 13",
                             "name": "Tubo"
@@ -1899,7 +2027,8 @@
                             "posy": 7700.33349609375,
                             "posz": 12315.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 14",
                             "name": "Tubo"
@@ -1914,7 +2043,8 @@
                             "posy": 7700.330078125,
                             "posz": 12583.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 15",
                             "name": "Tubo"
@@ -1929,7 +2059,8 @@
                             "posy": 7700.330078125,
                             "posz": 12769.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 16",
                             "name": "Tubo"
@@ -1944,7 +2075,8 @@
                             "posy": 7599.990234375,
                             "posz": 8559.7734375,
                             "event_flag": -1,
-                            "unk2": "FF BC 72",
+                            "transition_type": -1,
+                            "unk2": "BC 72",
                             "talk_behaviour": -15427,
                             "unk3": "FC 17",
                             "name": "NpcOim"
@@ -1959,7 +2091,8 @@
                             "posy": 7700.33642578125,
                             "posz": 12689.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 18",
                             "name": "Tubo"
@@ -1974,7 +2107,8 @@
                             "posy": 7603.0625,
                             "posz": 9603.6005859375,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 19",
                             "name": "Char"
@@ -1989,7 +2123,8 @@
                             "posy": 7702.21044921875,
                             "posz": 12653.4560546875,
                             "event_flag": 0,
-                            "unk2": "00 3F 49",
+                            "transition_type": 0,
+                            "unk2": "3F 49",
                             "talk_behaviour": 0,
                             "unk3": "FC 1A",
                             "name": "Char"
@@ -2004,7 +2139,8 @@
                             "posy": 7702.21044921875,
                             "posz": 12656.0869140625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -15411,
                             "unk3": "FC 1B",
                             "name": "NpcStr"
@@ -2019,7 +2155,8 @@
                             "posy": 7600.65478515625,
                             "posz": 10408.4453125,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 1C",
                             "name": "Tubo"
@@ -2034,7 +2171,8 @@
                             "posy": 7600.67822265625,
                             "posz": 10308.099609375,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 1D",
                             "name": "Tubo"
@@ -2049,7 +2187,8 @@
                             "posy": 7601.66357421875,
                             "posz": 11334.2978515625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 1E",
                             "name": "Tubo"
@@ -2064,7 +2203,8 @@
                             "posy": 7601.2451171875,
                             "posz": 11297.4541015625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 1F",
                             "name": "Tubo"
@@ -2079,7 +2219,8 @@
                             "posy": 7601.92333984375,
                             "posz": 9702.9619140625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -15412,
                             "unk3": "FC 20",
                             "name": "NpcStr"
@@ -2094,7 +2235,8 @@
                             "posy": 7702.21044921875,
                             "posz": 12656.0869140625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -15411,
                             "unk3": "FC 21",
                             "name": "NpcStr"
@@ -2109,7 +2251,8 @@
                             "posy": 7601.92333984375,
                             "posz": 9702.9619140625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -15412,
                             "unk3": "FC 22",
                             "name": "NpcStr"
@@ -2124,7 +2267,8 @@
                             "posy": 7601.92333984375,
                             "posz": 9702.9619140625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -15412,
                             "unk3": "FC 23",
                             "name": "NpcStr"
@@ -2139,7 +2283,8 @@
                             "posy": 7601.92333984375,
                             "posz": 9702.9619140625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -15412,
                             "unk3": "FC 24",
                             "name": "NpcStr"
@@ -2154,7 +2299,8 @@
                             "posy": 7599.990234375,
                             "posz": 9214.6806640625,
                             "event_flag": -1,
-                            "unk2": "FF CF A5",
+                            "transition_type": -1,
+                            "unk2": "CF A5",
                             "talk_behaviour": -15430,
                             "unk3": "FC 28",
                             "name": "NpcOim"
@@ -2169,7 +2315,8 @@
                             "posy": 8500.0,
                             "posz": 11500.0,
                             "event_flag": 0,
-                            "unk2": "00 D5 56",
+                            "transition_type": 0,
+                            "unk2": "D5 56",
                             "talk_behaviour": 0,
                             "unk3": "FC 34",
                             "name": "GodCube"
@@ -2184,7 +2331,8 @@
                             "posy": 8500.0,
                             "posz": 11500.0,
                             "event_flag": 14,
-                            "unk2": "38 C7 1D",
+                            "transition_type": 56,
+                            "unk2": "C7 1D",
                             "talk_behaviour": -1456,
                             "unk3": "FC 35",
                             "name": "GodCube"
@@ -2199,7 +2347,8 @@
                             "posy": 8500.0,
                             "posz": 11500.0,
                             "event_flag": -15,
-                            "unk2": "C8 DD DE",
+                            "transition_type": -56,
+                            "unk2": "DD DE",
                             "talk_behaviour": 910,
                             "unk3": "FC 36",
                             "name": "GodCube"
@@ -2214,7 +2363,8 @@
                             "posy": 8500.0,
                             "posz": 11500.0,
                             "event_flag": -2,
-                            "unk2": "94 CD 28",
+                            "transition_type": -108,
+                            "unk2": "CD 28",
                             "talk_behaviour": -364,
                             "unk3": "FC 37",
                             "name": "GodCube"
@@ -2229,7 +2379,8 @@
                             "posy": 8500.0,
                             "posz": 11500.0,
                             "event_flag": 0,
-                            "unk2": "00 15 55",
+                            "transition_type": 0,
+                            "unk2": "15 55",
                             "talk_behaviour": 0,
                             "unk3": "FC 38",
                             "name": "GodCube"
@@ -2244,7 +2395,8 @@
                             "posy": 8500.0,
                             "posz": 11500.0,
                             "event_flag": -8,
-                            "unk2": "E4 0A AA",
+                            "transition_type": -28,
+                            "unk2": "0A AA",
                             "talk_behaviour": -910,
                             "unk3": "FC 39",
                             "name": "GodCube"
@@ -2259,7 +2411,8 @@
                             "posy": 8500.0,
                             "posz": 11500.0,
                             "event_flag": -4,
-                            "unk2": "72 20 00",
+                            "transition_type": 114,
+                            "unk2": "20 00",
                             "talk_behaviour": -910,
                             "unk3": "FC 3A",
                             "name": "GodCube"
@@ -2274,7 +2427,8 @@
                             "posy": 8500.0,
                             "posz": 11500.0,
                             "event_flag": -4,
-                            "unk2": "72 EE B9",
+                            "transition_type": 114,
+                            "unk2": "EE B9",
                             "talk_behaviour": -910,
                             "unk3": "FC 3B",
                             "name": "GodCube"
@@ -2289,7 +2443,8 @@
                             "posy": 8500.0,
                             "posz": 11500.0,
                             "event_flag": -4,
-                            "unk2": "72 EA AB",
+                            "transition_type": 114,
+                            "unk2": "EA AB",
                             "talk_behaviour": -1820,
                             "unk3": "FC 3C",
                             "name": "GodCube"
@@ -2309,7 +2464,8 @@
                             "sizey": 0.5,
                             "sizez": 0.5,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 6433,
                             "unk3": "00 2A",
                             "name": "Light00"
@@ -2327,7 +2483,8 @@
                             "sizey": 0.5,
                             "sizez": 0.5,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "00 2B",
                             "name": "Light00"
@@ -2345,7 +2502,8 @@
                             "sizey": 0.5,
                             "sizez": 0.5,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 6433,
                             "unk3": "00 2C",
                             "name": "Light00"
@@ -2363,7 +2521,8 @@
                             "sizey": 0.5,
                             "sizez": 0.5,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 6433,
                             "unk3": "00 2D",
                             "name": "Light00"
@@ -2381,7 +2540,8 @@
                             "sizey": 2.0,
                             "sizez": 1.0,
                             "event_flag": -1,
-                            "unk2": "FF 80 00",
+                            "transition_type": -1,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 41",
                             "name": "TgReact"
@@ -2399,7 +2559,8 @@
                             "sizey": 2.0,
                             "sizez": 1.0,
                             "event_flag": -1,
-                            "unk2": "FF 40 00",
+                            "transition_type": -1,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 42",
                             "name": "TgReact"
@@ -2417,7 +2578,8 @@
                             "sizey": 1.5,
                             "sizez": 1.0,
                             "event_flag": -1,
-                            "unk2": "FF 00 00",
+                            "transition_type": -1,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 43",
                             "name": "TgReact"
@@ -2435,7 +2597,8 @@
                             "sizey": 1.5,
                             "sizez": 0.5,
                             "event_flag": -1,
-                            "unk2": "FF C0 00",
+                            "transition_type": -1,
+                            "unk2": "C0 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 44",
                             "name": "TgReact"
@@ -2453,7 +2616,8 @@
                             "sizey": 1.5,
                             "sizez": 0.5,
                             "event_flag": -1,
-                            "unk2": "FF C0 00",
+                            "transition_type": -1,
+                            "unk2": "C0 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 45",
                             "name": "TgReact"
@@ -2471,7 +2635,8 @@
                             "sizey": 1.5,
                             "sizez": 0.5,
                             "event_flag": -1,
-                            "unk2": "FF 40 00",
+                            "transition_type": -1,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 46",
                             "name": "TgReact"
@@ -2489,7 +2654,8 @@
                             "sizey": 1.5,
                             "sizez": 0.5,
                             "event_flag": -1,
-                            "unk2": "FF 40 00",
+                            "transition_type": -1,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 47",
                             "name": "TgReact"
@@ -2507,7 +2673,8 @@
                             "sizey": 4.579999923706055,
                             "sizez": 3.240000009536743,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 48",
                             "name": "WoodTg2"
@@ -2527,7 +2694,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 2E",
                             "name": "BBQuake"
@@ -2545,7 +2713,8 @@
                             "sizey": 300.0,
                             "sizez": 450.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 2F",
                             "name": "TgTDB"
@@ -2563,7 +2732,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 87 D3",
+                            "transition_type": 0,
+                            "unk2": "87 D3",
                             "talk_behaviour": 0,
                             "unk3": "FC 30",
                             "name": "InsctTg"
@@ -2581,7 +2751,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 87 D3",
+                            "transition_type": 0,
+                            "unk2": "87 D3",
                             "talk_behaviour": 0,
                             "unk3": "FC 31",
                             "name": "InsctTg"
@@ -2599,7 +2770,8 @@
                             "sizey": 300.0,
                             "sizez": 300.0,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 32",
                             "name": "AttTag"
@@ -2617,7 +2789,8 @@
                             "sizey": 2000.0,
                             "sizez": 2800.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 9510,
                             "unk3": "FC 33",
                             "name": "PlRsTag"
@@ -2635,7 +2808,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 3D",
                             "name": "Dowsing"
@@ -2653,7 +2827,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 3E",
                             "name": "Dowsing"
@@ -2671,7 +2846,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 3F",
                             "name": "Dowsing"
@@ -2689,7 +2865,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 40",
                             "name": "HolyWtr"
@@ -2724,7 +2901,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 49",
                             "name": "Door"
@@ -2741,7 +2919,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -546,
                             "unk3": "FC 4A",
                             "name": "ImpaDor"
@@ -2756,7 +2935,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4B",
                             "name": "ImpaDor"
@@ -2771,7 +2951,8 @@
                             "posy": 8000.43115234375,
                             "posz": 12881.7587890625,
                             "event_flag": -1,
-                            "unk2": "FF FF 08",
+                            "transition_type": -1,
+                            "unk2": "FF 08",
                             "talk_behaviour": -15417,
                             "unk3": "FC 4C",
                             "name": "NpcTke"
@@ -2786,7 +2967,8 @@
                             "posy": 8200.0,
                             "posz": 15140.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4D",
                             "name": "Amber"
@@ -2806,7 +2988,8 @@
                             "sizey": 500.0,
                             "sizez": 200.0,
                             "event_flag": -25,
-                            "unk2": "FF 00 00",
+                            "transition_type": -1,
+                            "unk2": "00 00",
                             "talk_behaviour": -1918,
                             "unk3": "FC 4E",
                             "name": "ScChang"
@@ -2824,7 +3007,8 @@
                             "sizey": 500.0,
                             "sizez": 300.0,
                             "event_flag": -25,
-                            "unk2": "FF E0 00",
+                            "transition_type": -1,
+                            "unk2": "E0 00",
                             "talk_behaviour": -1918,
                             "unk3": "FC 4F",
                             "name": "ScChang"
@@ -2842,7 +3026,8 @@
                             "sizey": 500.0,
                             "sizez": 300.0,
                             "event_flag": -25,
-                            "unk2": "FF 1E 93",
+                            "transition_type": -1,
+                            "unk2": "1E 93",
                             "talk_behaviour": -1918,
                             "unk3": "FC 50",
                             "name": "ScChang"
@@ -2860,7 +3045,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": -1,
-                            "unk2": "F0 00 00",
+                            "transition_type": -16,
+                            "unk2": "00 00",
                             "talk_behaviour": 255,
                             "unk3": "FC 51",
                             "name": "MapMark"
@@ -2878,7 +3064,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1900,
                             "unk3": "FC 52",
                             "name": "Dowsing"
@@ -2896,7 +3083,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1918,
                             "unk3": "FC 53",
                             "name": "Dowsing"
@@ -2914,7 +3102,8 @@
                             "sizey": 100.0,
                             "sizez": 150.0,
                             "event_flag": -25,
-                            "unk2": "FF DC 72",
+                            "transition_type": -1,
+                            "unk2": "DC 72",
                             "talk_behaviour": -1918,
                             "unk3": "FC 54",
                             "name": "ScChang"
@@ -2958,7 +3147,8 @@
                             "posy": 7600.0,
                             "posz": 10876.9677734375,
                             "event_flag": -1,
-                            "unk2": "FF 80 00",
+                            "transition_type": -1,
+                            "unk2": "80 00",
                             "talk_behaviour": -326,
                             "unk3": "FC 4D",
                             "name": "TBox"
@@ -2973,7 +3163,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 53",
                             "name": "Door"
@@ -2990,7 +3181,8 @@
                             "posy": 8000.0107421875,
                             "posz": 12543.908203125,
                             "event_flag": 107,
-                            "unk2": "FF FF 09",
+                            "transition_type": -1,
+                            "unk2": "FF 09",
                             "talk_behaviour": -15410,
                             "unk3": "FC 49",
                             "name": "NpcTke"
@@ -3005,7 +3197,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4A",
                             "name": "TDoorB"
@@ -3020,7 +3213,8 @@
                             "posy": 8000.0,
                             "posz": 12341.7119140625,
                             "event_flag": -1,
-                            "unk2": "FF DE 94",
+                            "transition_type": -1,
+                            "unk2": "DE 94",
                             "talk_behaviour": 0,
                             "unk3": "FC 4B",
                             "name": "NpcRvl"
@@ -3035,7 +3229,8 @@
                             "posy": 8000.0,
                             "posz": 12590.0,
                             "event_flag": -1,
-                            "unk2": "FF FF 03",
+                            "transition_type": -1,
+                            "unk2": "FF 03",
                             "talk_behaviour": -15431,
                             "unk3": "FC 4C",
                             "name": "NpcTke"
@@ -3050,7 +3245,8 @@
                             "posy": 8000.0,
                             "posz": 12026.27734375,
                             "event_flag": -1,
-                            "unk2": "15 FF 01",
+                            "transition_type": 21,
+                            "unk2": "FF 01",
                             "talk_behaviour": -15433,
                             "unk3": "FC 4E",
                             "name": "NpcTke"
@@ -3065,7 +3261,8 @@
                             "posy": 8000.0,
                             "posz": 12338.84375,
                             "event_flag": 28,
-                            "unk2": "FF FF 00",
+                            "transition_type": -1,
+                            "unk2": "FF 00",
                             "talk_behaviour": -15434,
                             "unk3": "FC 4F",
                             "name": "NpcTke"
@@ -3080,7 +3277,8 @@
                             "posy": 7701.64013671875,
                             "posz": 11014.240234375,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 50",
                             "name": "SwHrp"
@@ -3095,7 +3293,8 @@
                             "posy": 8000.0,
                             "posz": 12254.744140625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 51",
                             "name": "SwHrp"
@@ -3110,7 +3309,8 @@
                             "posy": 8000.0,
                             "posz": 12338.84375,
                             "event_flag": 28,
-                            "unk2": "FF FF 04",
+                            "transition_type": -1,
+                            "unk2": "FF 04",
                             "talk_behaviour": -15421,
                             "unk3": "FC 52",
                             "name": "NpcTke"
@@ -3125,7 +3325,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -546,
                             "unk3": "FC 54",
                             "name": "ImpaDor"
@@ -3140,7 +3341,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 55",
                             "name": "ImpaDor"
@@ -3155,7 +3357,8 @@
                             "posy": 8200.0,
                             "posz": 15140.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 56",
                             "name": "Amber"
@@ -3170,7 +3373,8 @@
                             "posy": 8126.255859375,
                             "posz": 12111.7041015625,
                             "event_flag": 0,
-                            "unk2": "00 DE 94",
+                            "transition_type": 0,
+                            "unk2": "DE 94",
                             "talk_behaviour": 0,
                             "unk3": "FC 57",
                             "name": "NpcInv"
@@ -3190,7 +3394,8 @@
                             "sizey": 200.0,
                             "sizez": 200.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -235,
                             "unk3": "FC 58",
                             "name": "Cam2Tag"
@@ -3208,7 +3413,8 @@
                             "sizey": 200.0,
                             "sizez": 200.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -227,
                             "unk3": "FC 59",
                             "name": "Cam2Tag"
@@ -3246,7 +3452,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 4D",
                             "name": "Door"
@@ -3263,7 +3470,8 @@
                             "posy": 8200.0,
                             "posz": 15140.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
                             "name": "Amber"
@@ -3278,7 +3486,8 @@
                             "posy": 7599.990234375,
                             "posz": 9387.314453125,
                             "event_flag": -1,
-                            "unk2": "FF E7 1D",
+                            "transition_type": -1,
+                            "unk2": "E7 1D",
                             "talk_behaviour": -15429,
                             "unk3": "FC 4A",
                             "name": "NpcRvl"
@@ -3293,7 +3502,8 @@
                             "posy": 7599.990234375,
                             "posz": 9472.3759765625,
                             "event_flag": 57,
-                            "unk2": "1E FF FF",
+                            "transition_type": 30,
+                            "unk2": "FF FF",
                             "talk_behaviour": -15428,
                             "unk3": "FC 4B",
                             "name": "NpcTke"
@@ -3308,7 +3518,8 @@
                             "posy": 7599.990234375,
                             "posz": 9152.77734375,
                             "event_flag": 80,
-                            "unk2": "FF FF 07",
+                            "transition_type": -1,
+                            "unk2": "FF 07",
                             "talk_behaviour": -15419,
                             "unk3": "FC 4C",
                             "name": "NpcTke"
@@ -3323,7 +3534,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -546,
                             "unk3": "FC 4E",
                             "name": "ImpaDor"
@@ -3338,7 +3550,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4F",
                             "name": "ImpaDor"
@@ -3353,7 +3566,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 50",
                             "name": "TDoorB"
@@ -3368,7 +3582,8 @@
                             "posy": 8017.974609375,
                             "posz": 10234.3203125,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 51",
                             "name": "NpcInv"
@@ -3383,7 +3598,8 @@
                             "posy": 7599.990234375,
                             "posz": 9472.3759765625,
                             "event_flag": -1,
-                            "unk2": "1E FF FF",
+                            "transition_type": 30,
+                            "unk2": "FF FF",
                             "talk_behaviour": -15428,
                             "unk3": "FC 52",
                             "name": "NpcTke"
@@ -3424,7 +3640,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 51",
                             "name": "Door"
@@ -3441,7 +3658,8 @@
                             "posy": 8200.0,
                             "posz": 15140.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
                             "name": "Amber"
@@ -3456,7 +3674,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4A",
                             "name": "TDoor"
@@ -3471,7 +3690,8 @@
                             "posy": 7599.990234375,
                             "posz": 9207.0,
                             "event_flag": -1,
-                            "unk2": "FF 9D 28",
+                            "transition_type": -1,
+                            "unk2": "9D 28",
                             "talk_behaviour": -15422,
                             "unk3": "FC 4B",
                             "name": "NpcRvl"
@@ -3486,7 +3706,8 @@
                             "posy": 9072.9130859375,
                             "posz": 9595.5263671875,
                             "event_flag": 70,
-                            "unk2": "FF FF 04",
+                            "transition_type": -1,
+                            "unk2": "FF 04",
                             "talk_behaviour": -15426,
                             "unk3": "FC 4C",
                             "name": "NpcTke"
@@ -3501,7 +3722,8 @@
                             "posy": 9072.9130859375,
                             "posz": 9595.5263671875,
                             "event_flag": 70,
-                            "unk2": "FF FF 00",
+                            "transition_type": -1,
+                            "unk2": "FF 00",
                             "talk_behaviour": -15420,
                             "unk3": "FC 4D",
                             "name": "NpcTke"
@@ -3516,7 +3738,8 @@
                             "posy": 7599.990234375,
                             "posz": 10182.6875,
                             "event_flag": -1,
-                            "unk2": "FF 20 B6",
+                            "transition_type": -1,
+                            "unk2": "20 B6",
                             "talk_behaviour": -15422,
                             "unk3": "FC 4E",
                             "name": "NpcRvl"
@@ -3531,7 +3754,8 @@
                             "posy": 9072.9130859375,
                             "posz": 9599.6962890625,
                             "event_flag": -1,
-                            "unk2": "FF FF FF",
+                            "transition_type": -1,
+                            "unk2": "FF FF",
                             "talk_behaviour": -15418,
                             "unk3": "FC 4F",
                             "name": "NpcTke"
@@ -3546,7 +3770,8 @@
                             "posy": 7657.26025390625,
                             "posz": 10534.4248046875,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 50",
                             "name": "NpcInv"
@@ -3561,7 +3786,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -546,
                             "unk3": "FC 52",
                             "name": "ImpaDor"
@@ -3576,7 +3802,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 53",
                             "name": "ImpaDor"
@@ -3591,7 +3818,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 54",
                             "name": "TDoorB"
@@ -3611,7 +3839,8 @@
                             "sizey": 500.0,
                             "sizez": 500.0,
                             "event_flag": -31,
-                            "unk2": "55 00 00",
+                            "transition_type": 85,
+                            "unk2": "00 00",
                             "talk_behaviour": -1704,
                             "unk3": "FC 55",
                             "name": "ScChang"
@@ -3646,7 +3875,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 4A",
                             "name": "Door"
@@ -3663,7 +3893,8 @@
                             "posy": 8200.0,
                             "posz": 15140.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
                             "name": "Amber"
@@ -3678,7 +3909,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -546,
                             "unk3": "FC 4B",
                             "name": "ImpaDor"
@@ -3693,7 +3925,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4C",
                             "name": "ImpaDor"
@@ -3708,7 +3941,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4D",
                             "name": "TDoor"
@@ -3723,7 +3957,8 @@
                             "posy": 9072.9130859375,
                             "posz": 9599.6962890625,
                             "event_flag": -1,
-                            "unk2": "25 FF FF",
+                            "transition_type": 37,
+                            "unk2": "FF FF",
                             "talk_behaviour": -15409,
                             "unk3": "FC 4E",
                             "name": "NpcTke"
@@ -3738,7 +3973,8 @@
                             "posy": 7803.6318359375,
                             "posz": 10366.330078125,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4F",
                             "name": "NpcInv"
@@ -3753,7 +3989,8 @@
                             "posy": 9072.9130859375,
                             "posz": 9762.7451171875,
                             "event_flag": -1,
-                            "unk2": "26 0C 0A",
+                            "transition_type": 38,
+                            "unk2": "0C 0A",
                             "talk_behaviour": -15408,
                             "unk3": "FC 50",
                             "name": "NpcTke"
@@ -3791,7 +4028,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 4E",
                             "name": "Door"
@@ -3808,7 +4046,8 @@
                             "posy": 8200.0,
                             "posz": 15140.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
                             "name": "Amber"
@@ -3823,7 +4062,8 @@
                             "posy": 9072.9130859375,
                             "posz": 9599.16796875,
                             "event_flag": 71,
-                            "unk2": "FF FF 04",
+                            "transition_type": -1,
+                            "unk2": "FF 04",
                             "talk_behaviour": -15416,
                             "unk3": "FC 4A",
                             "name": "NpcTke"
@@ -3838,7 +4078,8 @@
                             "posy": 9072.9130859375,
                             "posz": 9595.068359375,
                             "event_flag": 71,
-                            "unk2": "FF FF 00",
+                            "transition_type": -1,
+                            "unk2": "FF 00",
                             "talk_behaviour": -15415,
                             "unk3": "FC 4B",
                             "name": "NpcTke"
@@ -3853,7 +4094,8 @@
                             "posy": 7599.990234375,
                             "posz": 10182.6875,
                             "event_flag": -1,
-                            "unk2": "FF 20 B6",
+                            "transition_type": -1,
+                            "unk2": "20 B6",
                             "talk_behaviour": -15422,
                             "unk3": "FC 4C",
                             "name": "NpcRvl"
@@ -3868,7 +4110,8 @@
                             "posy": 7599.990234375,
                             "posz": 9207.0,
                             "event_flag": -1,
-                            "unk2": "FF 9C 72",
+                            "transition_type": -1,
+                            "unk2": "9C 72",
                             "talk_behaviour": 0,
                             "unk3": "FC 4D",
                             "name": "NpcRvl"
@@ -3883,7 +4126,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -546,
                             "unk3": "FC 4F",
                             "name": "ImpaDor"
@@ -3898,7 +4142,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 50",
                             "name": "ImpaDor"
@@ -3913,7 +4158,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 51",
                             "name": "TDoor"
@@ -3928,7 +4174,8 @@
                             "posy": 9072.9130859375,
                             "posz": 9599.6962890625,
                             "event_flag": -1,
-                            "unk2": "25 FF FF",
+                            "transition_type": 37,
+                            "unk2": "FF FF",
                             "talk_behaviour": -15409,
                             "unk3": "FC 52",
                             "name": "NpcTke"
@@ -3943,7 +4190,8 @@
                             "posy": 7803.6318359375,
                             "posz": 10366.330078125,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 53",
                             "name": "NpcInv"
@@ -3958,7 +4206,8 @@
                             "posy": 9072.9130859375,
                             "posz": 9762.7451171875,
                             "event_flag": -1,
-                            "unk2": "26 0C 0A",
+                            "transition_type": 38,
+                            "unk2": "0C 0A",
                             "talk_behaviour": -15408,
                             "unk3": "FC 54",
                             "name": "NpcTke"
@@ -3973,7 +4222,8 @@
                             "posy": 7599.990234375,
                             "posz": 10182.6875,
                             "event_flag": -1,
-                            "unk2": "FF 20 B6",
+                            "transition_type": -1,
+                            "unk2": "20 B6",
                             "talk_behaviour": -15422,
                             "unk3": "FC 55",
                             "name": "NpcRvl"
@@ -4007,7 +4257,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 4A",
                             "name": "Door"
@@ -4024,7 +4275,8 @@
                             "posy": 7599.990234375,
                             "posz": 9198.4833984375,
                             "event_flag": -1,
-                            "unk2": "FF D1 12",
+                            "transition_type": -1,
+                            "unk2": "D1 12",
                             "talk_behaviour": -15413,
                             "unk3": "FC 49",
                             "name": "NpcRvl"
@@ -4039,7 +4291,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -546,
                             "unk3": "FC 4B",
                             "name": "ImpaDor"
@@ -4054,7 +4307,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4C",
                             "name": "ImpaDor"
@@ -4069,7 +4323,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4D",
                             "name": "TDoor"
@@ -4104,7 +4359,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 49",
                             "name": "Door"
@@ -4121,7 +4377,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -546,
                             "unk3": "FC 4A",
                             "name": "ImpaDor"
@@ -4136,7 +4393,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4B",
                             "name": "ImpaDor"
@@ -4156,7 +4414,8 @@
                             "sizey": 3000.0,
                             "sizez": 8000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4C",
                             "name": "V_Clip"
@@ -4188,7 +4447,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 49",
                             "name": "Door"
@@ -4205,7 +4465,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -546,
                             "unk3": "FC 4A",
                             "name": "ImpaDor"
@@ -4220,7 +4481,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4B",
                             "name": "ImpaDor"
@@ -4235,7 +4497,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4C",
                             "name": "TDoor"
@@ -4255,7 +4518,8 @@
                             "sizey": 3000.0,
                             "sizez": 8000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4D",
                             "name": "V_Clip"
@@ -4281,7 +4545,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
                             "name": "TDoor"
@@ -4301,7 +4566,8 @@
                             "sizey": 3000.0,
                             "sizez": 8000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4A",
                             "name": "V_Clip"
@@ -4326,7 +4592,8 @@
                             "sizey": 3000.0,
                             "sizez": 8000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
                             "name": "V_Clip"
@@ -4351,7 +4618,8 @@
                             "sizey": 3000.0,
                             "sizez": 8000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
                             "name": "V_Clip"
@@ -4383,7 +4651,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 49",
                             "name": "Door"
@@ -4400,7 +4669,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -546,
                             "unk3": "FC 4A",
                             "name": "ImpaDor"
@@ -4415,7 +4685,8 @@
                             "posy": 8000.0,
                             "posz": 12890.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4B",
                             "name": "ImpaDor"
@@ -4430,7 +4701,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4C",
                             "name": "TDoorB"
@@ -4450,7 +4722,8 @@
                             "sizey": 3000.0,
                             "sizez": 8000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4D",
                             "name": "V_Clip"
@@ -4480,7 +4753,8 @@
                             "posy": 7600.0,
                             "posz": 8200.0,
                             "event_flag": -1,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 1056,
                             "unk3": "FC 49",
                             "name": "Door"
@@ -4497,7 +4771,8 @@
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4A",
                             "name": "TDoor"
@@ -4517,7 +4792,8 @@
                             "sizey": 3000.0,
                             "sizez": 8000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4B",
                             "name": "V_Clip"

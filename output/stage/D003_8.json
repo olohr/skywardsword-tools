@@ -32,7 +32,8 @@
                     "sizey": 100.0,
                     "sizez": 100.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
                     "name": "SporeTg"
@@ -50,7 +51,8 @@
                     "sizey": 5000.0,
                     "sizez": 3000.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 01",
                     "name": "MapArea"
@@ -68,7 +70,8 @@
                     "sizey": 5000.0,
                     "sizez": 7500.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 02",
                     "name": "MapArea"
@@ -160,11 +163,15 @@
             ],
             "PLY ": [
                 {
-                    "unk1": "FF FF FF 15",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": 21,
                     "posx": 4.69013786315918,
                     "posy": 0.0,
                     "posz": 1046.7227783203125,
-                    "unk2": "00 00 80 00 00 00 00 00"
+                    "unk2": "00 00 80 00 00 00",
+                    "entrance_id": 0
                 }
             ],
             "LAY ": {
@@ -194,7 +201,8 @@
                             "posy": 142.77684020996094,
                             "posz": -247.2414093017578,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 00",
                             "name": "Fire"
@@ -209,7 +217,8 @@
                             "posy": 142.49151611328125,
                             "posz": 252.8332977294922,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 01",
                             "name": "Fire"
@@ -224,7 +233,8 @@
                             "posy": 141.9358367919922,
                             "posz": -249.0147247314453,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 02",
                             "name": "Fire"
@@ -239,7 +249,8 @@
                             "posy": 141.88168334960938,
                             "posz": 251.0599822998047,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 03",
                             "name": "Fire"
@@ -254,7 +265,8 @@
                             "posy": -100.0,
                             "posz": 0.0,
                             "event_flag": -1,
-                            "unk2": "F2 00 00",
+                            "transition_type": -14,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 04",
                             "name": "WarpObj"
@@ -269,7 +281,8 @@
                             "posy": 0.0,
                             "posz": 0.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 07",
                             "name": "UdCloud"
@@ -289,7 +302,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 05",
                             "name": "Vrbox"
@@ -307,7 +321,8 @@
                             "sizey": 500.0,
                             "sizez": 500.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 06",
                             "name": "EvfTag"
@@ -333,7 +348,8 @@
                             "posy": 180.0,
                             "posz": 0.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 08",
                             "name": "Item"
@@ -359,7 +375,8 @@
                             "posy": 180.0,
                             "posz": 0.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 08",
                             "name": "Item"
@@ -385,7 +402,8 @@
                             "posy": 180.0,
                             "posz": 0.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 08",
                             "name": "Item"
@@ -408,7 +426,8 @@
                             "posy": 1188.02392578125,
                             "posz": -436.1156311035156,
                             "event_flag": -1,
-                            "unk2": "3C FF FF",
+                            "transition_type": 60,
+                            "unk2": "FF FF",
                             "talk_behaviour": 12502,
                             "unk3": "FC 08",
                             "name": "NpcTke"
@@ -435,7 +454,8 @@
                             "posy": -500.0,
                             "posz": 1035.5716552734375,
                             "event_flag": -1,
-                            "unk2": "F2 00 00",
+                            "transition_type": -14,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 08",
                             "name": "WarpObj"

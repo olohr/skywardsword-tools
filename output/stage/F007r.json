@@ -43,7 +43,8 @@
                     "sizey": 500.0,
                     "sizez": 1800.0,
                     "event_flag": 0,
-                    "unk2": "00 93 EA",
+                    "transition_type": 0,
+                    "unk2": "93 EA",
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
                     "name": "MapArea"
@@ -109,18 +110,26 @@
             ],
             "PLY ": [
                 {
-                    "unk1": "FF FF FF FF",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": -1,
                     "posx": -1.0673060417175293,
                     "posy": 0.0,
                     "posz": 218.66993713378906,
-                    "unk2": "00 00 80 00 00 00 00 00"
+                    "unk2": "00 00 80 00 00 00",
+                    "entrance_id": 0
                 },
                 {
-                    "unk1": "FF FF FF 0B",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": 11,
                     "posx": -4.603085041046143,
                     "posy": 0.0,
                     "posz": 487.4540100097656,
-                    "unk2": "00 00 80 00 00 00 00 01"
+                    "unk2": "00 00 80 00 00 00",
+                    "entrance_id": 1
                 }
             ],
             "SOBJ": [
@@ -137,7 +146,8 @@
                     "sizey": 1.0,
                     "sizez": 1.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
                     "name": "CupA01"
@@ -155,7 +165,8 @@
                     "sizey": 1.0,
                     "sizez": 1.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 01",
                     "name": "CupA00"
@@ -173,7 +184,8 @@
                     "sizey": 1.2999999523162842,
                     "sizez": 1.2999999523162842,
                     "event_flag": 0,
-                    "unk2": "00 41 EB",
+                    "transition_type": 0,
+                    "unk2": "41 EB",
                     "talk_behaviour": 0,
                     "unk3": "FC 02",
                     "name": "FlvsA"
@@ -191,7 +203,8 @@
                     "sizey": 1.0,
                     "sizez": 1.0,
                     "event_flag": 0,
-                    "unk2": "00 B2 A3",
+                    "transition_type": 0,
+                    "unk2": "B2 A3",
                     "talk_behaviour": 0,
                     "unk3": "FC 03",
                     "name": "FlvsC"
@@ -222,7 +235,8 @@
                             "posy": 0.0,
                             "posz": 410.0,
                             "event_flag": -1,
-                            "unk2": "FF 00 00",
+                            "transition_type": -1,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 04",
                             "name": "Door"
@@ -239,7 +253,8 @@
                             "posy": 51.0,
                             "posz": -25.172813415527344,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 05",
                             "name": "DNight"
@@ -259,7 +274,8 @@
                             "sizey": 100.0,
                             "sizez": 100.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 06",
                             "name": "EffGnT"
@@ -277,7 +293,8 @@
                             "sizey": 100.0,
                             "sizez": 192.0,
                             "event_flag": -6,
-                            "unk2": "C9 00 00",
+                            "transition_type": -55,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 07",
                             "name": "SwAreaT"
@@ -295,7 +312,8 @@
                             "sizey": 100.0,
                             "sizez": 130.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 08",
                             "name": "AttTag"
@@ -320,7 +338,8 @@
                             "posy": 2.180000066757202,
                             "posz": -357.1300048828125,
                             "event_flag": -1,
-                            "unk2": "FF 80 B2",
+                            "transition_type": -1,
+                            "unk2": "80 B2",
                             "talk_behaviour": 10014,
                             "unk3": "FC 09",
                             "name": "NpcChef"
@@ -347,7 +366,8 @@
                             "posy": 2.180000066757202,
                             "posz": -357.1300048828125,
                             "event_flag": -1,
-                            "unk2": "FF 80 B2",
+                            "transition_type": -1,
+                            "unk2": "80 B2",
                             "talk_behaviour": 10014,
                             "unk3": "FC 09",
                             "name": "NpcChef"
@@ -362,7 +382,8 @@
                             "posy": 2.5,
                             "posz": -148.2090301513672,
                             "event_flag": -1,
-                            "unk2": "FF E7 D3",
+                            "transition_type": -1,
+                            "unk2": "E7 D3",
                             "talk_behaviour": 12205,
                             "unk3": "FC 0A",
                             "name": "NpcSoBo"

@@ -37,7 +37,8 @@
                     "sizey": 8.0,
                     "sizez": 8.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
                     "name": "Warp"
@@ -57,7 +58,8 @@
                     "sizey": 100.0,
                     "sizez": 100.0,
                     "event_flag": -1,
-                    "unk2": "F0 00 00",
+                    "transition_type": -16,
+                    "unk2": "00 00",
                     "talk_behaviour": 255,
                     "unk3": "FC 01",
                     "name": "MapMark"
@@ -75,7 +77,8 @@
                     "sizey": 100.0,
                     "sizez": 100.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 02",
                     "name": "TlpTag"
@@ -93,7 +96,8 @@
                     "sizey": 5000.0,
                     "sizez": 28000.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 03",
                     "name": "MapArea"
@@ -111,7 +115,8 @@
                     "sizey": 5000.0,
                     "sizez": 10000.0,
                     "event_flag": 0,
-                    "unk2": "00 00 00",
+                    "transition_type": 0,
+                    "unk2": "00 00",
                     "talk_behaviour": 0,
                     "unk3": "FC 04",
                     "name": "MapArea"
@@ -381,39 +386,59 @@
             ],
             "PLY ": [
                 {
-                    "unk1": "FF FF FF 04",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": 4,
                     "posx": -1.2783479690551758,
                     "posy": 0.0,
                     "posz": -3139.630859375,
-                    "unk2": "00 00 00 00 00 00 00 00"
+                    "unk2": "00 00 00 00 00 00",
+                    "entrance_id": 0
                 },
                 {
-                    "unk1": "FF FF FF 04",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": 4,
                     "posx": 2919.069091796875,
                     "posy": 0.0,
                     "posz": -112.76337432861328,
-                    "unk2": "00 00 C0 00 00 00 00 01"
+                    "unk2": "00 00 C0 00 00 00",
+                    "entrance_id": 1
                 },
                 {
-                    "unk1": "FF FF FF 04",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": 4,
                     "posx": -8.085609436035156,
                     "posy": 0.0,
                     "posz": 3147.478759765625,
-                    "unk2": "00 00 80 00 00 00 00 02"
+                    "unk2": "00 00 80 00 00 00",
+                    "entrance_id": 2
                 },
                 {
-                    "unk1": "FF FF FF 04",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": 4,
                     "posx": -2848.39990234375,
                     "posy": 0.0,
                     "posz": -29.68564224243164,
-                    "unk2": "00 00 40 00 00 00 00 03"
+                    "unk2": "00 00 40 00 00 00",
+                    "entrance_id": 3
                 },
                 {
-                    "unk1": "FF FF FF 04",
+                    "byte1": -1,
+                    "byte2": -1,
+                    "play_cutscene": -1,
+                    "byte4": 4,
                     "posx": -0.1764259934425354,
                     "posy": 0.0,
                     "posz": 3141.398681640625,
-                    "unk2": "00 00 80 00 00 00 00 04"
+                    "unk2": "00 00 80 00 00 00",
+                    "entrance_id": 4
                 }
             ],
             "LAY ": {
@@ -487,7 +512,8 @@
                             "posy": 0.0,
                             "posz": -3150.0,
                             "event_flag": -1,
-                            "unk2": "FF 00 00",
+                            "transition_type": -1,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 01",
                             "name": "ShtCS"
@@ -502,7 +528,8 @@
                             "posy": 0.0,
                             "posz": 3150.0,
                             "event_flag": -1,
-                            "unk2": "FF 80 00",
+                            "transition_type": -1,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 02",
                             "name": "ShtCS"
@@ -517,7 +544,8 @@
                             "posy": 68.27400970458984,
                             "posz": 2595.7412109375,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 04",
                             "name": "TSBase"
@@ -532,7 +560,8 @@
                             "posy": 0.0,
                             "posz": 2249.338134765625,
                             "event_flag": -1,
-                            "unk2": "FF 00 00",
+                            "transition_type": -1,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 2A",
                             "name": "saveObj"
@@ -547,7 +576,8 @@
                             "posy": 0.0,
                             "posz": 0.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 50",
                             "name": "ObjBg"
@@ -564,7 +594,8 @@
                             "posy": 0.0,
                             "posz": -2800.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 00",
                             "name": "CtrlPnl"
@@ -579,7 +610,8 @@
                             "posy": 0.0,
                             "posz": 11.007352828979492,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 03",
                             "name": "D3Dummy"
@@ -594,7 +626,8 @@
                             "posy": 0.0,
                             "posz": 2600.0,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 05",
                             "name": "TSBlk"
@@ -609,7 +642,8 @@
                             "posy": 0.0,
                             "posz": 2151.267578125,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 06",
                             "name": "FShutte"
@@ -624,7 +658,8 @@
                             "posy": 0.0,
                             "posz": 2424.497314453125,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 07",
                             "name": "EBce"
@@ -639,7 +674,8 @@
                             "posy": -40.0,
                             "posz": -2075.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 08",
                             "name": "PrpLift"
@@ -654,7 +690,8 @@
                             "posy": 0.0,
                             "posz": -1458.2406005859375,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 09",
                             "name": "TSBlk"
@@ -669,7 +706,8 @@
                             "posy": 0.0,
                             "posz": -535.1043701171875,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 0A",
                             "name": "sw_whip"
@@ -684,7 +722,8 @@
                             "posy": -800.0,
                             "posz": 375.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 0B",
                             "name": "Sw"
@@ -699,7 +738,8 @@
                             "posy": 0.0,
                             "posz": -1990.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 0C",
                             "name": "Sw"
@@ -714,7 +754,8 @@
                             "posy": 0.0,
                             "posz": 2879.323486328125,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 0D",
                             "name": "EBce"
@@ -729,7 +770,8 @@
                             "posy": -800.0,
                             "posz": 851.39111328125,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 0E",
                             "name": "FenceIr"
@@ -744,7 +786,8 @@
                             "posy": 250.0,
                             "posz": 500.0,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 0F",
                             "name": "SwWall"
@@ -759,7 +802,8 @@
                             "posy": 0.0,
                             "posz": -2753.7041015625,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "0C 10",
                             "name": "TSBlk"
@@ -774,7 +818,8 @@
                             "posy": 0.0,
                             "posz": 886.4620971679688,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 11",
                             "name": "FShutte"
@@ -789,7 +834,8 @@
                             "posy": 0.0,
                             "posz": -277.3774108886719,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 12",
                             "name": "Sw"
@@ -804,7 +850,8 @@
                             "posy": 600.0,
                             "posz": 1279.2474365234375,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 13",
                             "name": "TSBlk"
@@ -819,7 +866,8 @@
                             "posy": 750.0,
                             "posz": 1273.350341796875,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 14",
                             "name": "ArrowSW"
@@ -834,7 +882,8 @@
                             "posy": 0.0,
                             "posz": -2746.49658203125,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 15",
                             "name": "FShutte"
@@ -849,7 +898,8 @@
                             "posy": 300.0,
                             "posz": 2088.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 16",
                             "name": "SwWall"
@@ -864,7 +914,8 @@
                             "posy": 0.0,
                             "posz": 1083.0738525390625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "08 17",
                             "name": "TSBlk"
@@ -879,7 +930,8 @@
                             "posy": 0.0,
                             "posz": -2260.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 18",
                             "name": "Sw"
@@ -894,7 +946,8 @@
                             "posy": 0.0,
                             "posz": 1530.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 19",
                             "name": "Sw"
@@ -909,7 +962,8 @@
                             "posy": -300.0,
                             "posz": 1049.258056640625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "00 1A",
                             "name": "EGunho"
@@ -924,7 +978,8 @@
                             "posy": 0.0,
                             "posz": -1530.40771484375,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": -1,
                             "unk3": "08 1B",
                             "name": "EBeamos"
@@ -939,7 +994,8 @@
                             "posy": 0.0,
                             "posz": -2375.7958984375,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 1C",
                             "name": "FenceIr"
@@ -954,7 +1010,8 @@
                             "posy": 700.0,
                             "posz": -1899.145263671875,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "08 1D",
                             "name": "TSBlk"
@@ -969,7 +1026,8 @@
                             "posy": 700.0,
                             "posz": 1146.8416748046875,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "08 1E",
                             "name": "TSBlk"
@@ -984,7 +1042,8 @@
                             "posy": 700.0,
                             "posz": -400.62762451171875,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "08 1F",
                             "name": "TSBlk"
@@ -999,7 +1058,8 @@
                             "posy": 700.0,
                             "posz": -1148.1356201171875,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "08 20",
                             "name": "TSBlk"
@@ -1014,7 +1074,8 @@
                             "posy": 700.0,
                             "posz": 375.8554992675781,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "08 21",
                             "name": "TSBlk"
@@ -1029,7 +1090,8 @@
                             "posy": 0.0,
                             "posz": 457.84521484375,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": -1,
                             "unk3": "08 22",
                             "name": "EBeamos"
@@ -1044,7 +1106,8 @@
                             "posy": 850.0,
                             "posz": 1127.8126220703125,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 23",
                             "name": "ArrowSW"
@@ -1059,7 +1122,8 @@
                             "posy": 850.0,
                             "posz": 376.2308654785156,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 24",
                             "name": "ArrowSW"
@@ -1074,7 +1138,8 @@
                             "posy": 850.0,
                             "posz": -411.6922607421875,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 25",
                             "name": "ArrowSW"
@@ -1089,7 +1154,8 @@
                             "posy": 850.0,
                             "posz": -1175.08642578125,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 26",
                             "name": "ArrowSW"
@@ -1104,7 +1170,8 @@
                             "posy": 850.0,
                             "posz": -1882.87646484375,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 27",
                             "name": "ArrowSW"
@@ -1119,7 +1186,8 @@
                             "posy": -800.0,
                             "posz": 832.3131103515625,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": -1,
                             "unk3": "04 28",
                             "name": "EBce"
@@ -1134,7 +1202,8 @@
                             "posy": -800.0,
                             "posz": -1336.74951171875,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": -1,
                             "unk3": "04 29",
                             "name": "EBce"
@@ -1149,7 +1218,8 @@
                             "posy": -70.0,
                             "posz": -272.57928466796875,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 2B",
                             "name": "FenceIr"
@@ -1164,7 +1234,8 @@
                             "posy": 300.0,
                             "posz": -2988.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 2C",
                             "name": "SwWall"
@@ -1179,7 +1250,8 @@
                             "posy": 300.0,
                             "posz": 2088.0,
                             "event_flag": 0,
-                            "unk2": "00 80 00",
+                            "transition_type": 0,
+                            "unk2": "80 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 2D",
                             "name": "SwWall"
@@ -1194,7 +1266,8 @@
                             "posy": 150.0,
                             "posz": 1425.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 2E",
                             "name": "ShipWin"
@@ -1209,7 +1282,8 @@
                             "posy": 150.0,
                             "posz": -2175.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 2F",
                             "name": "ShipWin"
@@ -1224,7 +1298,8 @@
                             "posy": -650.0,
                             "posz": 270.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 30",
                             "name": "ShipWin"
@@ -1239,7 +1314,8 @@
                             "posy": 150.0,
                             "posz": -1720.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 31",
                             "name": "ShipWin"
@@ -1254,7 +1330,8 @@
                             "posy": 0.0,
                             "posz": -2936.005859375,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 32",
                             "name": "FShutte"
@@ -1269,7 +1346,8 @@
                             "posy": 0.0,
                             "posz": 500.0,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "0C 33",
                             "name": "TSBlk"
@@ -1284,7 +1362,8 @@
                             "posy": 0.0,
                             "posz": 2933.155029296875,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 34",
                             "name": "Barrel"
@@ -1299,7 +1378,8 @@
                             "posy": 0.0,
                             "posz": 2933.155029296875,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 35",
                             "name": "Barrel"
@@ -1314,7 +1394,8 @@
                             "posy": -590.0,
                             "posz": -280.0,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": -3822,
                             "unk3": "0C 3B",
                             "name": "BeltCvr"
@@ -1329,7 +1410,8 @@
                             "posy": 100.0,
                             "posz": -1560.0,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": -1820,
                             "unk3": "08 3C",
                             "name": "BeltCvr"
@@ -1344,7 +1426,8 @@
                             "posy": 0.0,
                             "posz": -400.0,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": 0,
                             "unk3": "08 3D",
                             "name": "BeltCvr"
@@ -1359,7 +1442,8 @@
                             "posy": -150.0,
                             "posz": -1170.0,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": -5461,
                             "unk3": "0C 3E",
                             "name": "BeltCvr"
@@ -1374,7 +1458,8 @@
                             "posy": 0.0,
                             "posz": 800.0,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": 0,
                             "unk3": "08 3F",
                             "name": "BeltCvr"
@@ -1394,7 +1479,8 @@
                             "sizey": 4.0,
                             "sizez": 1.0,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 36",
                             "name": "ClrWall"
@@ -1412,7 +1498,8 @@
                             "sizey": 4.0,
                             "sizez": 1.0,
                             "event_flag": 0,
-                            "unk2": "00 40 00",
+                            "transition_type": 0,
+                            "unk2": "40 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 37",
                             "name": "ClrWall"
@@ -1430,7 +1517,8 @@
                             "sizey": 0.5,
                             "sizez": 1.0,
                             "event_flag": 0,
-                            "unk2": "00 C0 00",
+                            "transition_type": 0,
+                            "unk2": "C0 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 38",
                             "name": "ClrWall"
@@ -1450,7 +1538,8 @@
                             "sizey": 500.0,
                             "sizez": 500.0,
                             "event_flag": -1,
-                            "unk2": "FF 00 00",
+                            "transition_type": -1,
+                            "unk2": "00 00",
                             "talk_behaviour": -1355,
                             "unk3": "FC 39",
                             "name": "SwAreaT"
@@ -1468,7 +1557,8 @@
                             "sizey": 500.0,
                             "sizez": 4800.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 3A",
                             "name": "ActTag"
@@ -1486,7 +1576,8 @@
                             "sizey": 1000.0,
                             "sizez": 4500.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 40",
                             "name": "CamTag"
@@ -1504,7 +1595,8 @@
                             "sizey": 1000.0,
                             "sizez": 3400.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 41",
                             "name": "CamTag"
@@ -1522,7 +1614,8 @@
                             "sizey": 600.0,
                             "sizez": 300.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 42",
                             "name": "CamTag"
@@ -1540,7 +1633,8 @@
                             "sizey": 600.0,
                             "sizez": 300.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 43",
                             "name": "CamTag"
@@ -1558,7 +1652,8 @@
                             "sizey": 600.0,
                             "sizez": 300.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 44",
                             "name": "CamTag"
@@ -1576,7 +1671,8 @@
                             "sizey": 600.0,
                             "sizez": 300.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 45",
                             "name": "CamTag"
@@ -1594,7 +1690,8 @@
                             "sizey": 600.0,
                             "sizez": 600.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 46",
                             "name": "CamTag"
@@ -1612,7 +1709,8 @@
                             "sizey": 1000.0,
                             "sizez": 900.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 47",
                             "name": "V_Clip"
@@ -1630,7 +1728,8 @@
                             "sizey": 2000.0,
                             "sizez": 5500.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 48",
                             "name": "V_Clip"
@@ -1648,7 +1747,8 @@
                             "sizey": 2000.0,
                             "sizez": 3300.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
                             "name": "V_Clip"
@@ -1666,7 +1766,8 @@
                             "sizey": 2000.0,
                             "sizez": 4000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4A",
                             "name": "V_Clip"
@@ -1684,7 +1785,8 @@
                             "sizey": 2000.0,
                             "sizez": 1000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4B",
                             "name": "V_Clip"
@@ -1702,7 +1804,8 @@
                             "sizey": 2000.0,
                             "sizez": 2500.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4C",
                             "name": "V_Clip"
@@ -1720,7 +1823,8 @@
                             "sizey": 2000.0,
                             "sizez": 1000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4D",
                             "name": "V_Clip"
@@ -1738,7 +1842,8 @@
                             "sizey": 2000.0,
                             "sizez": 5500.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 4E",
                             "name": "V_Clip"
@@ -1756,7 +1861,8 @@
                             "sizey": 1000.0,
                             "sizez": 2000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 4F",
                             "name": "CamTag"
@@ -1774,7 +1880,8 @@
                             "sizey": 10000.0,
                             "sizez": 10000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 51",
                             "name": "EvntTag"
@@ -1792,7 +1899,8 @@
                             "sizey": 500.0,
                             "sizez": 500.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 52",
                             "name": "TgD3Chg"
@@ -1810,7 +1918,8 @@
                             "sizey": 500.0,
                             "sizez": 500.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 53",
                             "name": "TgD3Chg"
@@ -1828,7 +1937,8 @@
                             "sizey": 3000.0,
                             "sizez": 8000.0,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "FC 54",
                             "name": "SwTag"
@@ -1846,7 +1956,8 @@
                             "sizey": 6000.0,
                             "sizez": 6500.0,
                             "event_flag": -6,
-                            "unk2": "BA 00 00",
+                            "transition_type": -70,
+                            "unk2": "00 00",
                             "talk_behaviour": -1,
                             "unk3": "FC 55",
                             "name": "SwAreaT"
@@ -1873,7 +1984,8 @@
                             "posy": 300.0,
                             "posz": -456.67431640625,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "00 56",
                             "name": "EKg"
@@ -1888,7 +2000,8 @@
                             "posy": 400.0,
                             "posz": -618.2002563476562,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "00 57",
                             "name": "EKg"
@@ -1903,7 +2016,8 @@
                             "posy": 0.0,
                             "posz": -648.9671020507812,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "00 58",
                             "name": "EKg"
@@ -1918,7 +2032,8 @@
                             "posy": 0.0,
                             "posz": -379.7572021484375,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "00 59",
                             "name": "EKg"
@@ -1933,7 +2048,8 @@
                             "posy": 0.0,
                             "posz": -572.0499877929688,
                             "event_flag": 0,
-                            "unk2": "00 00 00",
+                            "transition_type": 0,
+                            "unk2": "00 00",
                             "talk_behaviour": 0,
                             "unk3": "00 5A",
                             "name": "EKg"
