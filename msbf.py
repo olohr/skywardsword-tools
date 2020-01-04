@@ -98,9 +98,19 @@ for fname in glob.glob('en_US/**/*.msbf', recursive=True):
             elif seg_id == 'TXT2':
                 parsed['TXT2'] = []
                 count = struct.unpack('>i',seg_data[:4])[0]
-                for i in range(count):
-                    ptr = struct.unpack('>i',seg_data[4+4*i:0x8+4*i])[0]
-                    parsed['TXT2'].append(seg_data[ptr:].decode('utf-16be').split('\x00',1)[0])
+                ptrlist=[struct.unpack('>i',seg_data[4+4*i:0x8+4*i])[0] for i in range(count)]
+                for (i, ptr) in enumerate(ptrlist):
+                    if len(ptrlist) == i+1:
+                        ptrend=0
+                    else:
+                        ptrend=ptrlist[i+1]
+                    text = seg_data[ptr:ptrend-2].decode('utf-16-be')
+                    parsed['TXT2'].append(text)
+                #for i in range(count):
+                #    ptr = struct.unpack('>i',seg_data[4+4*i:0x8+4*i])[0]
+                #    text = seg_data[ptr:].decode('utf-16be')
+                #    print(seg_data[ptr-10:ptr])
+                #    parsed['TXT2'].append(text.split('\x00',1)[0])
             else:
                 raise Exception('unimplemented '+seg_id)
         return parsed
@@ -172,13 +182,13 @@ for fname in glob.glob('en_US/**/*.msbf', recursive=True):
     f2=open('output/event/'+fname.split(os.sep)[-1].replace('.msbf','.json'),'w', encoding='utf-16le')
     f2.write(objToJson(parsed))
     f2.close()
-    f2=open('output/event2/'+fname.split(os.sep)[-1].replace('.msbf','.c'),'w', encoding='utf-16le')
+    f2=open('output/event2/'+fname.split(os.sep)[-1].replace('.msbf','.c'),'w', encoding='utf-8')
     printEvflFile(f2,parsed,parsedMsbt)
     f2.close()
      
-print('-----------------------------------------------')
-print('50 51 52 53 54 55 56 57 58 59 5A 5B 5C 5D 5E 5F')
-print('-----------------------------------------------')
-for i in range(len(flagindex_names)):
-    print(flagindex_names[i])
-    printHex(cumulative_flags_set[i])
+#print('-----------------------------------------------')
+#print('50 51 52 53 54 55 56 57 58 59 5A 5B 5C 5D 5E 5F')
+#print('-----------------------------------------------')
+#for i in range(len(flagindex_names)):
+#    print(flagindex_names[i])
+#    printHex(cumulative_flags_set[i])
