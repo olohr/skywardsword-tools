@@ -1,16 +1,24 @@
 import json
 import glob
 import os.path
-from util import *
-from eventnumbers import foundevents
+try:
+    from .util import *
+except ImportError:
+    from util import *
+try:
+    from .eventnumbers import foundevents
+except ImportError:
+    from eventnumbers import foundevents
 
-with open('allsceneflags.json') as f:
+basepath = os.path.abspath(os.path.dirname(__file__))
+
+with open(basepath + '/allsceneflags.json') as f:
     all_scene_flags=json.load(f)
 
-with open('allstoryflags.json') as f:
+with open(basepath + '/allstoryflags.json') as f:
     all_story_flags=json.load(f)
 
-with open('allitems.json') as f:
+with open(basepath + '/allitems.json') as f:
     all_items=json.load(f)
 
 all_stages={}
@@ -20,7 +28,7 @@ raw_stages={}
 all_ENVTS=[]
 
 # iterate through all object to attach some extra info/get bounds
-for stagefile in glob.glob('output/stage/*.json'):
+for stagefile in glob.glob(basepath + '/output/stage/*.json'):
     
     output={}
     output['stageid']=os.path.split(stagefile)[-1][:-5]
