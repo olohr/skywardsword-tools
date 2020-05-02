@@ -69,10 +69,79 @@ flagindex = None
 stage_scens = []
 story_flags = set()
 
+with open('allitems.json') as f:
+    itemnames = json.load(f)
+with open('allstoryflags.json') as f:
+    storyflagnames = json.load(f)
+with open('allsceneflags.json') as f:
+    sceneflagnames = json.load(f)
+
 def parseBzs(data):
     name,count,ff,offset = struct.unpack('>4shhi',data[:12])
     name = name.decode('ascii')
     return parseObj(name, count, data[offset:])
+
+def objAddExtraInfo(parsed_item):
+    extraInfo = collections.OrderedDict()
+    # sceneflags
+    if parsed_item['name'] in ['Log','trolley']:
+        # flag is second byte
+        extraInfo['flagid'] = parsed_item['unk1'][1]
+    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB']:
+        # flag is fourth byte
+        extraInfo['flagid'] = parsed_item['unk1'][3]
+        if parsed_item['name']=='TgReact':
+            extraInfo['itemid'] = parsed_item['unk2'][0]
+        if parsed_item['name']=='saveObj':
+            extraInfo['tosky_scen_link'] = parsed_item['unk1'][1]
+    elif parsed_item['name'] in ['Barrel']:
+        # flag is between byte 1 and 2
+        extraInfo['flagid'] = ((parse_h(parsed_item['unk1'][0:2]) & 0x0FF0) >> 4)
+    elif parsed_item['name'] in ['Tubo','Soil','Wind']:
+        # flag is between byte 2 and 3
+        extraInfo['flagid'] = ((parse_h(parsed_item['unk1'][1:3]) & 0x0FF0) >> 4)
+    elif parsed_item['name'] in ['Item']:
+        # flag is between byte 2 and 3 but different bit shift
+        extraInfo['flagid'] = ((parse_h(parsed_item['unk1'][1:3]) & 0x03FC) >> 2)
+        extraInfo['itemid'] = parsed_item['unk1'][3]
+    elif parsed_item['name'].startswith('Npc'):
+        triggerstoryf=((parse_h(parsed_item['unk1'][1:3]) & 0x1FFC) >> 2)
+        untriggerstoryf=((parse_h(parsed_item['unk1'][0:2]) & 0xFFE0) >> 5)
+        extraInfo['trigstoryfid']=triggerstoryf
+        extraInfo['untrigstoryfid']=untriggerstoryf
+        extraInfo['trigstoryf']=storyflagnames[triggerstoryf] if triggerstoryf < len(storyflagnames) else '-'
+        extraInfo['untrigstoryf']=storyflagnames[untriggerstoryf] if untriggerstoryf < len(storyflagnames) else '-'
+        # there might be more Npc actors with this sceneflag behaviour but needs testing
+        if parsed_item['name']=='NpcTke':
+            extraInfo['trigscenefid']=parsed_item['transition_type']
+            extraInfo['untrigscenefid']=parsed_item['event_flag']
+            extraInfo['trigscenef']=flag_id_to_sheet_rep(parsed_item['transition_type'])
+            extraInfo['untrigscenef']=flag_id_to_sheet_rep(parsed_item['event_flag'])
+    elif parsed_item['name']=='Door':
+        extraInfo['flagid']=parsed_item['event_flag']
+        extraInfo['scen_link'] = parsed_item['unk1'][2]
+    elif parsed_item['name']=='TBox':
+        spawnscenef=((parse_h(parsed_item['unk1'][0:2]) & 0x0FF0) >> 4)
+        extraInfo['spawnscenefid']=spawnscenef
+        extraInfo['spawnscenef']=flag_id_to_sheet_rep(spawnscenef)
+        extraInfo['trigscenefid']=parsed_item['transition_type']
+        extraInfo['trigscenef']=flag_id_to_sheet_rep(extraInfo['trigscenefid'])
+        extraInfo['itemid']=parsed_item['talk_behaviour']&0x1FF
+        extraInfo['chestid']=(parsed_item['talk_behaviour']&0xFE00)>>9
+    elif parsed_item['name']=='DNight':
+        extraInfo['sleep_storyf']=(parse_h(parsed_item['unk1'][2:4]) & 0x07FF)
+    elif parsed_item['name']=='WarpObj':
+        extraInfo['scen_link']=parsed_item['unk1'][1]
+        extraInfo['trigscenefid']=parsed_item['unk1'][2]
+        extraInfo['untrigscenefid']=parsed_item['unk1'][3]
+        extraInfo['trigscenef']=flag_id_to_sheet_rep(extraInfo['trigscenefid'])
+        extraInfo['untrigscenef']=flag_id_to_sheet_rep(extraInfo['untrigscenefid'])
+    if 'flagid' in extraInfo:
+        extraInfo['areaflag'] = flag_id_to_sheet_rep(extraInfo['flagid'])
+    if 'itemid' in extraInfo:
+            extraInfo['item']=itemnames.get(str(extraInfo['itemid']), '?')
+    if len(extraInfo) > 0:
+        parsed_item['extra_info'] = extraInfo
 
 def parseObj(objtype, quantity, data):
     global stage_scens
@@ -143,7 +212,7 @@ def parseObj(objtype, quantity, data):
             elif objtype == 'AREA':
                 parsed_item = unpack('posx posy posz sizex sizey sizez unk','>3f3f8s',item)
             elif objtype == 'EVNT':
-                parsed_item = unpack('unk name','>24s32s',item)
+                parsed_item = unpack('unk1 story_flag1 story_flag2 unk2 exit_id unk3 name','>2shh3sb14s32s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
             elif objtype == 'PLY ':
                 #room entrance
@@ -151,11 +220,13 @@ def parseObj(objtype, quantity, data):
                 if parsed_item['play_cutscene'] != -1:
                     print('%d: entrance %d -- cutscene %d'%(i,parsed_item['entrance_id'],parsed_item['play_cutscene']))
             elif objtype in ('OBJS','OBJ ','DOOR'):
-                parsed_item = unpack('byte1 tosky_scen_link scen_link byte4 unk1 posx posy posz                   event_flag transition_type unk2 talk_behaviour unk3 name','>bbbb4s3fbb2sh2s8s',item)
+                parsed_item = unpack('unk1 unk2 posx posy posz                   event_flag transition_type angle talk_behaviour unk3 name','>4s4s3fBBHH2s8s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
+                objAddExtraInfo(parsed_item)
             elif objtype in ('SOBS','SOBJ','STAS','STAG','SNDT'):
-                parsed_item = unpack('byte1 tosky_scen_link scen_link byte4 unk1 posx posy posz sizex sizey sizez event_flag transition_type unk2 talk_behaviour unk3 name','>bbbb4s3f3fbb2sh2s8s',item)
+                parsed_item = unpack('unk1 unk2 posx posy posz sizex sizey sizez event_flag transition_type angle talk_behaviour unk3 name','>4s4s3f3fBBHH2s8s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
+                objAddExtraInfo(parsed_item)
             
             elif objtype == 'LYSE':
                 #logic for overriding layer when attempting to load layer 0
@@ -185,9 +256,9 @@ def parseObj(objtype, quantity, data):
             else:
                 raise Exception(objtype)
 
-            if type(parsed_item) == collections.OrderedDict and 'name' in parsed_item:
-                if parsed_item['name'] == 'HrpHint' and parsed_item['byte4'] != -1:
-                    cumulative_flags_set[flagindex]=setBit(cumulative_flags_set[flagindex],parsed_item['byte4'])
+            #if type(parsed_item) == collections.OrderedDict and 'name' in parsed_item:
+            #    if parsed_item['name'] == 'HrpHint' and parsed_item['byte4'] != -1:
+            #        cumulative_flags_set[flagindex]=setBit(cumulative_flags_set[flagindex],parsed_item['byte4'])
                 #if parsed_item['name'] == 'TBox' and parsed_item['unk2'][0] != 0xFF:
                 #    cumulative_flags_set[flagindex]=setBit(cumulative_flags_set[flagindex],parsed_item['unk2'][0])
                 

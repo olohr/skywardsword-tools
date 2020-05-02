@@ -31,6 +31,27 @@ def idx_to_scene_flag(idx):
     rest=idx%16
     return '0x{:01X} '.format(idx//16*2+fix[rest][0])+str(fix[rest][1])
 
+def flag_id_to_sheet_rep(idx):
+    if idx == 255 or idx == -1:
+        return 'no flag'
+    elif idx >= 0 and idx < 128:
+        return 'scene flag: '+idx_to_scene_flag(idx)
+    elif idx < 0:
+        return 'temp flag: '+idx_to_scene_flag(128+idx)
+    else:
+        return 'temp flag: '+idx_to_scene_flag(idx-128)
+
+# for 2 bytes as numbers extracts number in between with offset
+def extract_byte_between_2_bytes(b1, b2, bitoffset=4):
+    flagid = int('{:016b}'.format(int((struct.pack('b',b1)+struct.pack('b',b2)).hex(), 16))[bitoffset:bitoffset+8],2)
+    # convert byte to signed
+    if flagid >= 128:
+        flagid=flagid-256
+    return flagid
+
+def parse_h(btes):
+    return struct.unpack('>H',btes)[0]
+
 flagindex_to_stages = [
                    ["D000","F000","F001r","F002r","F004r","F005r","F006r","F007r",
                     "F008r","F009r","F012r","F013r","F014r","F015r","F016r","F017r","F018r"],
@@ -164,11 +185,11 @@ stagenames = {
     "S200": "Eldin Volcano: Mountain Silent Realm",
 
     "F300": "Lanayru Desert: Lanayru Desert",
-    "F300_1": "Lanayru Desert: Ancient Harbor",
-    "F300_2": "Lanayru Desert: Lanayru Mine",
-    "F300_3": "Lanayru Desert: Power Generator #1",
-    "F300_4": "Lanayru Desert: Power Generator #2",
-    "F300_5": "Lanayru Desert: Temple of Time",
+    "F300_1": "Lanayru Desert: Lanayru Mine",
+    "F300_2": "Lanayru Desert: Power Generator #1",
+    "F300_3": "Lanayru Desert: Power Generator #2",
+    "F300_4": "Lanayru Desert: Temple of Time",
+    "F300_5": "Lanayru Desert: LMF to ToT",
     "F301": "Lanayru Desert: Sand Sea Docks",
     "F301_1": "Lanayru Desert: Sand Sea",
     "F301_2": "Lanayru Desert: Pirate Stronghold",

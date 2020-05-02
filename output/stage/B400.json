@@ -36,11 +36,8 @@
             ],
             "STAG": [
                 {
-                    "byte1": -1,
-                    "tosky_scen_link": -1,
-                    "scen_link": -1,
-                    "byte4": 2,
-                    "unk1": "FF FF FF FF",
+                    "unk1": "FF FF FF 02",
+                    "unk2": "FF FF FF FF",
                     "posx": 0.0,
                     "posy": 0.0,
                     "posz": 0.0,
@@ -49,7 +46,7 @@
                     "sizez": 100.0,
                     "event_flag": 0,
                     "transition_type": 0,
-                    "unk2": "00 00",
+                    "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
                     "name": "Vrbox"
@@ -156,15 +153,30 @@
             ],
             "EVNT": [
                 {
-                    "unk": "00 00 FF FF FF FF 64 02 FF 00 00 00 00 FF FF FF FF 2B FF FF FF FF FF FF",
+                    "unk1": "00 00",
+                    "story_flag1": -1,
+                    "story_flag2": -1,
+                    "unk2": "64 02 FF",
+                    "exit_id": 0,
+                    "unk3": "00 00 00 FF FF FF FF 2B FF FF FF FF FF FF",
                     "name": "demo01"
                 },
                 {
-                    "unk": "00 00 FF FF FF FF 64 02 FF 02 00 00 00 FF FF FF FF 2C FF FF FF FF FF FF",
+                    "unk1": "00 00",
+                    "story_flag1": -1,
+                    "story_flag2": -1,
+                    "unk2": "64 02 FF",
+                    "exit_id": 2,
+                    "unk3": "00 00 00 FF FF FF FF 2C FF FF FF FF FF FF",
                     "name": "demo01"
                 },
                 {
-                    "unk": "00 00 FF FF FF FF 64 01 FF FF 00 00 00 FF FF FF FF FF FF FF FF FF FF FF",
+                    "unk1": "00 00",
+                    "story_flag1": -1,
+                    "story_flag2": -1,
+                    "unk2": "64 01 FF",
+                    "exit_id": -1,
+                    "unk3": "00 00 00 FF FF FF FF FF FF FF FF FF FF FF",
                     "name": "LastBossStart"
                 }
             ],
@@ -230,45 +242,46 @@
                     ],
                     "OBJ ": [
                         {
-                            "byte1": -1,
-                            "tosky_scen_link": -1,
-                            "scen_link": -1,
-                            "byte4": -64,
-                            "unk1": "FF FF FF FF",
+                            "unk1": "FF FF FF C0",
+                            "unk2": "FF FF FF FF",
                             "posx": 0.0,
                             "posy": 0.0,
                             "posz": -500.0,
                             "event_flag": 0,
                             "transition_type": 0,
-                            "unk2": "00 00",
+                            "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 00",
                             "name": "BLasBos"
                         },
                         {
-                            "byte1": 97,
-                            "tosky_scen_link": -22,
-                            "scen_link": -45,
-                            "byte4": -13,
-                            "unk1": "FF 1F FF FF",
+                            "unk1": "61 EA D3 F3",
+                            "unk2": "FF 1F FF FF",
                             "posx": 300.0,
                             "posy": 0.0,
                             "posz": 0.0,
-                            "event_flag": -1,
-                            "transition_type": -1,
-                            "unk2": "FF FF",
+                            "event_flag": 255,
+                            "transition_type": 255,
+                            "angle": 65535,
                             "talk_behaviour": 6669,
                             "unk3": "FC 01",
-                            "name": "NpcTke"
+                            "name": "NpcTke",
+                            "extra_info": {
+                                "trigstoryfid": 692,
+                                "untrigstoryfid": 783,
+                                "trigstoryf": "(not implemented yet -- 7771)",
+                                "untrigstoryf": "",
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         }
                     ],
                     "STAG": [
                         {
-                            "byte1": -1,
-                            "tosky_scen_link": -1,
-                            "scen_link": -1,
-                            "byte4": -1,
                             "unk1": "FF FF FF FF",
+                            "unk2": "FF FF FF FF",
                             "posx": 0.0,
                             "posy": 0.0,
                             "posz": 0.0,
@@ -277,17 +290,14 @@
                             "sizez": 100.0,
                             "event_flag": 0,
                             "transition_type": 0,
-                            "unk2": "00 00",
+                            "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 02",
                             "name": "LbTnder"
                         },
                         {
-                            "byte1": -1,
-                            "tosky_scen_link": -1,
-                            "scen_link": -1,
-                            "byte4": 3,
-                            "unk1": "FF FF FF FF",
+                            "unk1": "FF FF FF 03",
+                            "unk2": "FF FF FF FF",
                             "posx": 0.0,
                             "posy": 0.0,
                             "posz": 0.0,
@@ -296,17 +306,14 @@
                             "sizez": 100.0,
                             "event_flag": 0,
                             "transition_type": 0,
-                            "unk2": "00 00",
+                            "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 03",
                             "name": "TgSBG"
                         },
                         {
-                            "byte1": -1,
-                            "tosky_scen_link": -64,
-                            "scen_link": -1,
-                            "byte4": 1,
-                            "unk1": "FF DF FF FF",
+                            "unk1": "FF C0 FF 01",
+                            "unk2": "FF DF FF FF",
                             "posx": 0.0,
                             "posy": -100.0,
                             "posz": 0.0,
@@ -315,8 +322,8 @@
                             "sizez": 25500.0,
                             "event_flag": 0,
                             "transition_type": 0,
-                            "unk2": "00 00",
-                            "talk_behaviour": -1,
+                            "angle": 0,
+                            "talk_behaviour": 65535,
                             "unk3": "FC 04",
                             "name": "Cam2Tag"
                         }

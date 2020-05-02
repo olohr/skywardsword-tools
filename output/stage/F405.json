@@ -65,7 +65,12 @@
             ],
             "EVNT": [
                 {
-                    "unk": "00 00 03 4A FF FF 64 02 FF 00 00 00 00 FF FF FF FF 16 FF FF FF FF FF FF",
+                    "unk1": "00 00",
+                    "story_flag1": 842,
+                    "story_flag2": -1,
+                    "unk2": "64 02 FF",
+                    "exit_id": 0,
+                    "unk3": "00 00 00 FF FF FF FF 16 FF FF FF FF FF FF",
                     "name": "demo01"
                 }
             ],

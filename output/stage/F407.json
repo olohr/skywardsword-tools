@@ -153,19 +153,39 @@
             ],
             "EVNT": [
                 {
-                    "unk": "00 00 01 58 FF FF 64 02 FF 00 00 00 00 FF FF FF FF 1D FF FF FF FF FF FF",
+                    "unk1": "00 00",
+                    "story_flag1": 344,
+                    "story_flag2": -1,
+                    "unk2": "64 02 FF",
+                    "exit_id": 0,
+                    "unk3": "00 00 00 FF FF FF FF 1D FF FF FF FF FF FF",
                     "name": "demo01"
                 },
                 {
-                    "unk": "00 00 FF FF FF FF 64 02 FF 02 00 08 00 03 FF FF FF 20 FF FF FF FF FF FF",
+                    "unk1": "00 00",
+                    "story_flag1": -1,
+                    "story_flag2": -1,
+                    "unk2": "64 02 FF",
+                    "exit_id": 2,
+                    "unk3": "00 08 00 03 FF FF FF 20 FF FF FF FF FF FF",
                     "name": "demo01"
                 },
                 {
-                    "unk": "00 00 01 59 01 56 64 02 FF 01 00 00 00 FF FF 32 FF 20 FF FF FF FF FF FF",
+                    "unk1": "00 00",
+                    "story_flag1": 345,
+                    "story_flag2": 342,
+                    "unk2": "64 02 FF",
+                    "exit_id": 1,
+                    "unk3": "00 00 00 FF FF 32 FF 20 FF FF FF FF FF FF",
                     "name": "demo01"
                 },
                 {
-                    "unk": "00 00 01 59 01 56 64 01 FF 01 00 00 00 FF FF 32 FF FF FF FF FF FF FF FF",
+                    "unk1": "00 00",
+                    "story_flag1": 345,
+                    "story_flag2": 342,
+                    "unk2": "64 01 FF",
+                    "exit_id": 1,
+                    "unk3": "00 00 00 FF FF 32 FF FF FF FF FF FF FF FF",
                     "name": "DefaultSkip"
                 }
             ],
@@ -217,11 +237,8 @@
             ],
             "SOBJ": [
                 {
-                    "byte1": -1,
-                    "tosky_scen_link": -1,
-                    "scen_link": -1,
-                    "byte4": -1,
                     "unk1": "FF FF FF FF",
+                    "unk2": "FF FF FF FF",
                     "posx": 2927.14013671875,
                     "posy": 7645.98046875,
                     "posz": 10524.3408203125,
@@ -230,7 +247,7 @@
                     "sizez": 3.240000009536743,
                     "event_flag": 0,
                     "transition_type": 0,
-                    "unk2": "00 00",
+                    "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
                     "name": "WoodTag"
@@ -258,99 +275,91 @@
                     ],
                     "OBJS": [
                         {
-                            "byte1": 0,
-                            "tosky_scen_link": 0,
-                            "scen_link": 1,
-                            "byte4": 4,
-                            "unk1": "FF 5F FF FF",
+                            "unk1": "00 00 01 04",
+                            "unk2": "FF 5F FF FF",
                             "posx": -1760.0,
                             "posy": 7600.0,
                             "posz": 10341.0,
                             "event_flag": 23,
                             "transition_type": 1,
-                            "unk2": "40 00",
+                            "angle": 16384,
                             "talk_behaviour": 32,
                             "unk3": "FC 05",
-                            "name": "Door"
+                            "name": "Door",
+                            "extra_info": {
+                                "flagid": 23,
+                                "scen_link": 1,
+                                "areaflag": "scene flag: 0x3 80"
+                            }
                         },
                         {
-                            "byte1": 0,
-                            "tosky_scen_link": 0,
-                            "scen_link": 1,
-                            "byte4": 4,
-                            "unk1": "FF 5F FF FF",
+                            "unk1": "00 00 01 04",
+                            "unk2": "FF 5F FF FF",
                             "posx": -1760.0,
                             "posy": 7600.0,
                             "posz": 10499.0,
                             "event_flag": 23,
                             "transition_type": 1,
-                            "unk2": "C0 00",
+                            "angle": 49152,
                             "talk_behaviour": 32,
                             "unk3": "FC 06",
-                            "name": "Door"
+                            "name": "Door",
+                            "extra_info": {
+                                "flagid": 23,
+                                "scen_link": 1,
+                                "areaflag": "scene flag: 0x3 80"
+                            }
                         }
                     ],
                     "OBJ ": [
                         {
-                            "byte1": -1,
-                            "tosky_scen_link": -32,
-                            "scen_link": 41,
-                            "byte4": 85,
-                            "unk1": "FF FF FF FF",
+                            "unk1": "FF E0 29 55",
+                            "unk2": "FF FF FF FF",
                             "posx": 0.0,
                             "posy": 7600.0,
                             "posz": 10250.0,
                             "event_flag": 0,
                             "transition_type": 0,
-                            "unk2": "80 00",
+                            "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 01",
                             "name": "TDoor"
                         },
                         {
-                            "byte1": -1,
-                            "tosky_scen_link": 38,
-                            "scen_link": 37,
-                            "byte4": 1,
-                            "unk1": "FF FF FF FF",
+                            "unk1": "FF 26 25 01",
+                            "unk2": "FF FF FF FF",
                             "posx": 2910.0,
                             "posy": 7657.26025390625,
                             "posz": 10531.0,
                             "event_flag": 0,
                             "transition_type": 0,
-                            "unk2": "00 00",
+                            "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 02",
                             "name": "FrmLand"
                         },
                         {
-                            "byte1": -1,
-                            "tosky_scen_link": -1,
-                            "scen_link": 37,
-                            "byte4": 1,
-                            "unk1": "FF FF FF FF",
+                            "unk1": "FF FF 25 01",
+                            "unk2": "FF FF FF FF",
                             "posx": 2850.0,
                             "posy": 7640.0,
                             "posz": 10550.0,
                             "event_flag": 0,
                             "transition_type": 0,
-                            "unk2": "00 00",
+                            "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 03",
                             "name": "FrtTree"
                         },
                         {
-                            "byte1": -1,
-                            "tosky_scen_link": -1,
-                            "scen_link": -1,
-                            "byte4": -1,
                             "unk1": "FF FF FF FF",
+                            "unk2": "FF FF FF FF",
                             "posx": 0.0,
                             "posy": 0.0,
                             "posz": 0.0,
                             "event_flag": 0,
                             "transition_type": 0,
-                            "unk2": "00 00",
+                            "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 04",
                             "name": "ShriIns"
@@ -380,20 +389,22 @@
                     ],
                     "OBJS": [
                         {
-                            "byte1": 0,
-                            "tosky_scen_link": 0,
-                            "scen_link": 0,
-                            "byte4": 7,
-                            "unk1": "FF 5F FF FF",
+                            "unk1": "00 00 00 07",
+                            "unk2": "FF 5F FF FF",
                             "posx": 0.0,
                             "posy": 7600.0,
                             "posz": 8200.0,
-                            "event_flag": -1,
+                            "event_flag": 255,
                             "transition_type": 0,
-                            "unk2": "00 00",
+                            "angle": 0,
                             "talk_behaviour": 1056,
                             "unk3": "FC 07",
-                            "name": "Door"
+                            "name": "Door",
+                            "extra_info": {
+                                "flagid": 255,
+                                "scen_link": 0,
+                                "areaflag": "no flag"
+                            }
                         }
                     ]
                 },
