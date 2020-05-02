@@ -1,3 +1,5 @@
+from util import flag_id_to_sheet_rep
+
 storyflag_mapping_table = [
     0xFF00,0xFF00,0xFF00,0x0040,0x0050,0x0060,0x0070,0x0080,0x0090,0x00A0,0x00B0,0x00C0,0x00D0,0x00E0,0x00F0,0x0100,
     0x0110,0x0120,0x0030,0x0130,0x0140,0x0150,0x0160,0x0170,0x0180,0x0190,0x01A0,0x01B0,0x01C0,0x01D0,0x01E0,0x01F0,
@@ -113,3 +115,7 @@ if __name__ == "__main__":
     for i in range(len(storyflag_mapping_table)):
         f2.write('Story Flag #%d (0x%04X) - JP %s / US %s\n' % (i,i,flagid_to_spreadsheet(False,i),flagid_to_spreadsheet(True,i)))
     f2.close()
+    with open('sceneflags.txt','w') as f3:
+        f3.write('sceneflagid: numbering on sheet\n')
+        for i in range(256):
+            f3.write('%d (0x%02X): %s\n' % (i,i,flag_id_to_sheet_rep(i)))

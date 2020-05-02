@@ -32,14 +32,18 @@ def idx_to_scene_flag(idx):
     return '0x{:01X} '.format(idx//16*2+fix[rest][0])+str(fix[rest][1])
 
 def flag_id_to_sheet_rep(idx):
-    if idx == 255 or idx == -1:
+    if idx == 255:
         return 'no flag'
     elif idx >= 0 and idx < 128:
         return 'scene flag: '+idx_to_scene_flag(idx)
-    elif idx < 0:
-        return 'temp flag: '+idx_to_scene_flag(128+idx)
-    else:
+    elif idx >= 128 and idx < 192:
         return 'temp flag: '+idx_to_scene_flag(idx-128)
+    elif idx >= 192 and idx < 255:
+        return 'loadzone temp flag: '+idx_to_scene_flag(idx-128)
+    elif idx < 0:
+        return flag_id_to_sheet_rep(idx+255)
+    else:
+        raise Exception('invalid areaflagid!')
 
 # for 2 bytes as numbers extracts number in between with offset
 def extract_byte_between_2_bytes(b1, b2, bitoffset=4):
