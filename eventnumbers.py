@@ -5,8 +5,10 @@ import os.path
 
 foundevents={}
 
+basepath = os.path.abspath(os.path.dirname(__file__))
+
 eventstart=re.compile(r'void entrypoint_([0-9]+)_([0-9]+)\(\) {')
-for fil in glob.glob('output/event2/*.c'):
+for fil in glob.glob(basepath+'/output/event2/*.c'):
     with open(fil) as f:
         for linenum, line in enumerate(f):
             match=eventstart.match(line)

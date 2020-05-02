@@ -62,6 +62,10 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
                             obj['roomid'] = int(rid[1:])
                             obj['layerid'] = int(lid[1:])
                             obj['stageid'] = output['stageid']
+                            if obj['talk_behaviour'] in foundevents:
+                                if not 'extra_info' in obj:
+                                    obj['extra_info'] = {}
+                                obj['extra_info']['eventSrc'] = foundevents[obj['talk_behaviour']]
                             all_objects.append(obj)
                             totally_all_objects.append(obj)
     
