@@ -362,7 +362,7 @@
                                 "untrigstoryf": "-",
                                 "trigscenefid": 192,
                                 "untrigscenefid": 255,
-                                "trigscenef": "temp flag: 0x9 01",
+                                "trigscenef": "loadzone temp flag: 0x9 01",
                                 "untrigscenef": "no flag"
                             }
                         },

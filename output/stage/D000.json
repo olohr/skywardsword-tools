@@ -76,7 +76,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 02",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 255,
+                        "areaflag": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF FF FF 03",
@@ -1061,7 +1065,7 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 192,
-                                "spawnscenef": "temp flag: 0x9 01",
+                                "spawnscenef": "loadzone temp flag: 0x9 01",
                                 "trigscenefid": 255,
                                 "trigscenef": "no flag",
                                 "itemid": 174,
@@ -1083,7 +1087,7 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 193,
-                                "spawnscenef": "temp flag: 0x9 02",
+                                "spawnscenef": "loadzone temp flag: 0x9 02",
                                 "trigscenefid": 255,
                                 "trigscenef": "no flag",
                                 "itemid": 175,
@@ -1105,7 +1109,7 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 194,
-                                "spawnscenef": "temp flag: 0x9 04",
+                                "spawnscenef": "loadzone temp flag: 0x9 04",
                                 "trigscenefid": 255,
                                 "trigscenef": "no flag",
                                 "itemid": 176,
@@ -1127,7 +1131,7 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 195,
-                                "spawnscenef": "temp flag: 0x9 08",
+                                "spawnscenef": "loadzone temp flag: 0x9 08",
                                 "trigscenefid": 255,
                                 "trigscenef": "no flag",
                                 "itemid": 168,
@@ -1149,7 +1153,7 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 198,
-                                "spawnscenef": "temp flag: 0x9 40",
+                                "spawnscenef": "loadzone temp flag: 0x9 40",
                                 "trigscenefid": 255,
                                 "trigscenef": "no flag",
                                 "itemid": 173,
@@ -1171,7 +1175,7 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 199,
-                                "spawnscenef": "temp flag: 0x9 80",
+                                "spawnscenef": "loadzone temp flag: 0x9 80",
                                 "trigscenefid": 255,
                                 "trigscenef": "no flag",
                                 "itemid": 171,

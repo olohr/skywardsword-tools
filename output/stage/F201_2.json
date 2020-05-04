@@ -87,7 +87,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 01",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 255,
+                        "areaflag": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF FF FF 01",
@@ -757,7 +761,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 241,
-                                "areaflag": "temp flag: 0xF 02"
+                                "areaflag": "loadzone temp flag: 0xF 02"
                             }
                         },
                         {

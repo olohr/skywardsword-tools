@@ -232,7 +232,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 190,
+                        "areaflag": "temp flag: 0x6 40"
+                    }
                 },
                 {
                     "unk1": "FF FF FF 01",
@@ -1040,7 +1044,7 @@
                             "extra_info": {
                                 "flagid": 202,
                                 "itemid": 19,
-                                "areaflag": "temp flag: 0x8 04",
+                                "areaflag": "loadzone temp flag: 0x8 04",
                                 "item": "Bow"
                             }
                         },
@@ -1062,7 +1066,7 @@
                             "extra_info": {
                                 "flagid": 203,
                                 "itemid": 19,
-                                "areaflag": "temp flag: 0x8 08",
+                                "areaflag": "loadzone temp flag: 0x8 08",
                                 "item": "Bow"
                             }
                         },
@@ -1084,7 +1088,7 @@
                             "extra_info": {
                                 "flagid": 204,
                                 "itemid": 19,
-                                "areaflag": "temp flag: 0x8 10",
+                                "areaflag": "loadzone temp flag: 0x8 10",
                                 "item": "Bow"
                             }
                         }

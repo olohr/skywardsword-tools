@@ -126,7 +126,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 02",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 170,
+                        "areaflag": "temp flag: 0x4 04"
+                    }
                 }
             ]
         },
@@ -947,7 +951,7 @@
                             "extra_info": {
                                 "flagid": 193,
                                 "scen_link": 0,
-                                "areaflag": "temp flag: 0x9 02"
+                                "areaflag": "loadzone temp flag: 0x9 02"
                             }
                         },
                         {
@@ -965,7 +969,7 @@
                             "extra_info": {
                                 "flagid": 193,
                                 "scen_link": 0,
-                                "areaflag": "temp flag: 0x9 02"
+                                "areaflag": "loadzone temp flag: 0x9 02"
                             }
                         },
                         {
@@ -1067,7 +1071,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 02",
-                            "name": "FrmLand"
+                            "name": "FrmLand",
+                            "extra_info": {
+                                "flagid": 37,
+                                "areaflag": "scene flag: 0x5 20"
+                            }
                         },
                         {
                             "unk1": "3C C5 5A FF",

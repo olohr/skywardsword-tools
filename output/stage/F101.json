@@ -155,7 +155,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 04",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 179,
+                        "areaflag": "temp flag: 0x7 08"
+                    }
                 },
                 {
                     "unk1": "FF 85 9F F3",
@@ -2256,7 +2260,10 @@
                             "angle": 47332,
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
-                            "name": "KanbanS"
+                            "name": "KanbanS",
+                            "extra_info": {
+                                "talk_behaviour": 20099
+                            }
                         },
                         {
                             "unk1": "FF FF 08 08",

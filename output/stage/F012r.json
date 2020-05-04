@@ -290,7 +290,7 @@
                                 "spawnscenefid": 83,
                                 "spawnscenef": "scene flag: 0xB 08",
                                 "trigscenefid": 192,
-                                "trigscenef": "temp flag: 0x9 01",
+                                "trigscenef": "loadzone temp flag: 0x9 01",
                                 "itemid": 104,
                                 "chestid": 69,
                                 "item": "Cursed Medal"

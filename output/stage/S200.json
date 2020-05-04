@@ -2103,7 +2103,7 @@
                                 "trigscenefid": 255,
                                 "untrigscenefid": 192,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x9 01"
+                                "untrigscenef": "loadzone temp flag: 0x9 01"
                             }
                         },
                         {

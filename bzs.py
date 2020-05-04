@@ -84,9 +84,15 @@ def parseBzs(data):
 def objAddExtraInfo(parsed_item):
     extraInfo = collections.OrderedDict()
     # sceneflags
+    if parsed_item['name'] in ['TlpTag']:
+        # flag is first byte
+        extraInfo['flagid'] = parsed_item['unk1'][0]
     if parsed_item['name'] in ['Log','trolley']:
         # flag is second byte
         extraInfo['flagid'] = parsed_item['unk1'][1]
+    elif parsed_item['name'] in ['FrmLand']:
+        # flag is third byte
+        extraInfo['flagid'] = parsed_item['unk1'][2]
     elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB']:
         # flag is fourth byte
         extraInfo['flagid'] = parsed_item['unk1'][3]
@@ -96,17 +102,17 @@ def objAddExtraInfo(parsed_item):
             extraInfo['tosky_scen_link'] = parsed_item['unk1'][1]
     elif parsed_item['name'] in ['Barrel']:
         # flag is between byte 1 and 2
-        extraInfo['flagid'] = ((parse_h(parsed_item['unk1'][0:2]) & 0x0FF0) >> 4)
+        extraInfo['flagid'] = ((read_halfword(parsed_item['unk1'][0:2]) & 0x0FF0) >> 4)
     elif parsed_item['name'] in ['Tubo','Soil','Wind']:
         # flag is between byte 2 and 3
-        extraInfo['flagid'] = ((parse_h(parsed_item['unk1'][1:3]) & 0x0FF0) >> 4)
+        extraInfo['flagid'] = ((read_halfword(parsed_item['unk1'][1:3]) & 0x0FF0) >> 4)
     elif parsed_item['name'] in ['Item']:
         # flag is between byte 2 and 3 but different bit shift
-        extraInfo['flagid'] = ((parse_h(parsed_item['unk1'][1:3]) & 0x03FC) >> 2)
+        extraInfo['flagid'] = ((read_halfword(parsed_item['unk1'][1:3]) & 0x03FC) >> 2)
         extraInfo['itemid'] = parsed_item['unk1'][3]
     elif parsed_item['name'].startswith('Npc'):
-        triggerstoryf=((parse_h(parsed_item['unk1'][1:3]) & 0x1FFC) >> 2)
-        untriggerstoryf=((parse_h(parsed_item['unk1'][0:2]) & 0xFFE0) >> 5)
+        triggerstoryf=((read_halfword(parsed_item['unk1'][1:3]) & 0x1FFC) >> 2)
+        untriggerstoryf=((read_halfword(parsed_item['unk1'][0:2]) & 0xFFE0) >> 5)
         extraInfo['trigstoryfid']=triggerstoryf
         extraInfo['untrigstoryfid']=untriggerstoryf
         extraInfo['trigstoryf']=storyflagnames[triggerstoryf] if triggerstoryf < len(storyflagnames) else '-'
@@ -121,7 +127,7 @@ def objAddExtraInfo(parsed_item):
         extraInfo['flagid']=parsed_item['event_flag']
         extraInfo['scen_link'] = parsed_item['unk1'][2]
     elif parsed_item['name']=='TBox':
-        spawnscenef=((parse_h(parsed_item['unk1'][0:2]) & 0x0FF0) >> 4)
+        spawnscenef=((read_halfword(parsed_item['unk1'][0:2]) & 0x0FF0) >> 4)
         extraInfo['spawnscenefid']=spawnscenef
         extraInfo['spawnscenef']=flag_id_to_sheet_rep(spawnscenef)
         extraInfo['trigscenefid']=parsed_item['transition_type']
@@ -129,13 +135,17 @@ def objAddExtraInfo(parsed_item):
         extraInfo['itemid']=parsed_item['talk_behaviour']&0x1FF
         extraInfo['chestid']=(parsed_item['talk_behaviour']&0xFE00)>>9
     elif parsed_item['name']=='DNight':
-        extraInfo['sleep_storyf']=(parse_h(parsed_item['unk1'][2:4]) & 0x07FF)
+        extraInfo['sleep_storyf']=(read_halfword(parsed_item['unk1'][2:4]) & 0x07FF)
     elif parsed_item['name']=='WarpObj':
         extraInfo['scen_link']=parsed_item['unk1'][1]
         extraInfo['trigscenefid']=parsed_item['unk1'][2]
         extraInfo['untrigscenefid']=parsed_item['unk1'][3]
         extraInfo['trigscenef']=flag_id_to_sheet_rep(extraInfo['trigscenefid'])
         extraInfo['untrigscenef']=flag_id_to_sheet_rep(extraInfo['untrigscenefid'])
+    elif parsed_item['name']=='Kanban':
+        extraInfo['talk_behaviour']=(read_word(parsed_item['unk1'])&0x0FFFF0)>>4
+    elif parsed_item['name']=='KanbanS':
+        extraInfo['talk_behaviour']=read_halfword(parsed_item['unk1'][2:4])
     if 'flagid' in extraInfo:
         extraInfo['areaflag'] = flag_id_to_sheet_rep(extraInfo['flagid'])
     if 'itemid' in extraInfo:

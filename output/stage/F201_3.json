@@ -117,7 +117,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 03",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 131,
+                        "areaflag": "temp flag: 0x1 08"
+                    }
                 },
                 {
                     "unk1": "FF FF FF 01",
@@ -718,7 +722,10 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 02",
-                            "name": "KanbanS"
+                            "name": "KanbanS",
+                            "extra_info": {
+                                "talk_behaviour": 30303
+                            }
                         },
                         {
                             "unk1": "FF FF FF F0",
@@ -1514,7 +1521,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 242,
-                                "areaflag": "temp flag: 0xF 04"
+                                "areaflag": "loadzone temp flag: 0xF 04"
                             }
                         }
                     ],
@@ -2175,7 +2182,7 @@
                                 "untrigstoryf": "Goddess Cube Dowsing",
                                 "trigscenefid": 192,
                                 "untrigscenefid": 255,
-                                "trigscenef": "temp flag: 0x9 01",
+                                "trigscenef": "loadzone temp flag: 0x9 01",
                                 "untrigscenef": "no flag"
                             }
                         },

@@ -376,7 +376,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 03",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 128,
+                        "areaflag": "temp flag: 0x1 01"
+                    }
                 },
                 {
                     "unk1": "FF FF FF F0",
@@ -1099,7 +1103,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 241,
-                                "areaflag": "temp flag: 0xF 02"
+                                "areaflag": "loadzone temp flag: 0xF 02"
                             }
                         },
                         {
@@ -2717,7 +2721,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 241,
-                                "areaflag": "temp flag: 0xF 02"
+                                "areaflag": "loadzone temp flag: 0xF 02"
                             }
                         },
                         {
@@ -6080,7 +6084,10 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 35",
-                            "name": "KanbanS"
+                            "name": "KanbanS",
+                            "extra_info": {
+                                "talk_behaviour": 30415
+                            }
                         },
                         {
                             "unk1": "8A 67 EF F1",
@@ -8675,7 +8682,10 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 2C",
-                            "name": "KanbanS"
+                            "name": "KanbanS",
+                            "extra_info": {
+                                "talk_behaviour": 30424
+                            }
                         }
                     ],
                     "SOBJ": [

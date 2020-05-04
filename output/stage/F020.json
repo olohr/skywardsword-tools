@@ -104,7 +104,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 02",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 149,
+                        "areaflag": "temp flag: 0x3 20"
+                    }
                 }
             ]
         },
@@ -3117,7 +3121,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 5D",
-                            "name": "FrmLand"
+                            "name": "FrmLand",
+                            "extra_info": {
+                                "flagid": 157,
+                                "areaflag": "temp flag: 0x2 20"
+                            }
                         },
                         {
                             "unk1": "FF FF FF F0",
@@ -6387,7 +6395,10 @@
                             "angle": 15655,
                             "talk_behaviour": 0,
                             "unk3": "FD 25",
-                            "name": "Kanban"
+                            "name": "Kanban",
+                            "extra_info": {
+                                "talk_behaviour": 10747
+                            }
                         },
                         {
                             "unk1": "FF FF FC 3F",

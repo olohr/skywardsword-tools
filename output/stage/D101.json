@@ -167,7 +167,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 178,
+                        "areaflag": "temp flag: 0x7 04"
+                    }
                 },
                 {
                     "unk1": "81 7F FF FF",
@@ -2130,7 +2134,10 @@
                             "angle": 54614,
                             "talk_behaviour": 0,
                             "unk3": "FC 54",
-                            "name": "KanbanS"
+                            "name": "KanbanS",
+                            "extra_info": {
+                                "talk_behaviour": 20202
+                            }
                         },
                         {
                             "unk1": "1F FF FF 02",
@@ -2285,7 +2292,10 @@
                             "angle": 2912,
                             "talk_behaviour": 0,
                             "unk3": "FC 64",
-                            "name": "KanbanS"
+                            "name": "KanbanS",
+                            "extra_info": {
+                                "talk_behaviour": 20205
+                            }
                         }
                     ],
                     "SOBJ": [
@@ -4049,7 +4059,10 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 0A",
-                            "name": "KanbanS"
+                            "name": "KanbanS",
+                            "extra_info": {
+                                "talk_behaviour": 20201
+                            }
                         },
                         {
                             "unk1": "FF C4 03 FF",
@@ -8084,7 +8097,10 @@
                             "angle": 10922,
                             "talk_behaviour": 0,
                             "unk3": "FC 54",
-                            "name": "KanbanS"
+                            "name": "KanbanS",
+                            "extra_info": {
+                                "talk_behaviour": 20204
+                            }
                         }
                     ],
                     "SOBJ": [
@@ -12125,7 +12141,10 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 11",
-                            "name": "KanbanS"
+                            "name": "KanbanS",
+                            "extra_info": {
+                                "talk_behaviour": 20203
+                            }
                         },
                         {
                             "unk1": "FF FF FF 02",

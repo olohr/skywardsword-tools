@@ -174,7 +174,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 06",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 255,
+                        "areaflag": "no flag"
+                    }
                 }
             ]
         },
@@ -1060,7 +1064,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 242,
-                                "areaflag": "temp flag: 0xF 04"
+                                "areaflag": "loadzone temp flag: 0xF 04"
                             }
                         },
                         {

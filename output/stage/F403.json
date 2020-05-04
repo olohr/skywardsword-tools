@@ -161,7 +161,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 03",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 169,
+                        "areaflag": "temp flag: 0x4 02"
+                    }
                 }
             ]
         },
@@ -206,7 +210,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 04",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 169,
+                        "areaflag": "temp flag: 0x4 02"
+                    }
                 }
             ]
         },
@@ -2534,7 +2542,7 @@
                             "extra_info": {
                                 "flagid": 197,
                                 "scen_link": 0,
-                                "areaflag": "temp flag: 0x9 20"
+                                "areaflag": "loadzone temp flag: 0x9 20"
                             }
                         },
                         {
@@ -2552,7 +2560,7 @@
                             "extra_info": {
                                 "flagid": 197,
                                 "scen_link": 0,
-                                "areaflag": "temp flag: 0x9 20"
+                                "areaflag": "loadzone temp flag: 0x9 20"
                             }
                         },
                         {
@@ -3980,7 +3988,7 @@
                                 "trigscenefid": 255,
                                 "untrigscenefid": 196,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x9 10"
+                                "untrigscenef": "loadzone temp flag: 0x9 10"
                             }
                         }
                     ],

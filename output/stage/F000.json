@@ -211,7 +211,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 02",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 135,
+                        "areaflag": "temp flag: 0x1 80"
+                    }
                 }
             ]
         },
@@ -5240,7 +5244,10 @@
                             "angle": 38958,
                             "talk_behaviour": 0,
                             "unk3": "FC 47",
-                            "name": "Kanban"
+                            "name": "Kanban",
+                            "extra_info": {
+                                "talk_behaviour": 10701
+                            }
                         },
                         {
                             "unk1": "FF F2 9D 00",
@@ -5253,7 +5260,10 @@
                             "angle": 2730,
                             "talk_behaviour": 0,
                             "unk3": "FC 48",
-                            "name": "Kanban"
+                            "name": "Kanban",
+                            "extra_info": {
+                                "talk_behaviour": 10704
+                            }
                         },
                         {
                             "unk1": "FF F2 9D 10",
@@ -5266,7 +5276,10 @@
                             "angle": 44783,
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
-                            "name": "Kanban"
+                            "name": "Kanban",
+                            "extra_info": {
+                                "talk_behaviour": 10705
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -5409,7 +5422,10 @@
                             "angle": 728,
                             "talk_behaviour": 0,
                             "unk3": "FC 55",
-                            "name": "Kanban"
+                            "name": "Kanban",
+                            "extra_info": {
+                                "talk_behaviour": 10702
+                            }
                         },
                         {
                             "unk1": "FF F2 9C F0",
@@ -5422,7 +5438,10 @@
                             "angle": 12925,
                             "talk_behaviour": 0,
                             "unk3": "FC 56",
-                            "name": "Kanban"
+                            "name": "Kanban",
+                            "extra_info": {
+                                "talk_behaviour": 10703
+                            }
                         },
                         {
                             "unk1": "FF F2 9D 20",
@@ -5435,7 +5454,10 @@
                             "angle": 3822,
                             "talk_behaviour": 0,
                             "unk3": "FC 57",
-                            "name": "Kanban"
+                            "name": "Kanban",
+                            "extra_info": {
+                                "talk_behaviour": 10706
+                            }
                         },
                         {
                             "unk1": "FF FF FF 2E",
@@ -6076,7 +6098,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 86",
-                            "name": "FrmLand"
+                            "name": "FrmLand",
+                            "extra_info": {
+                                "flagid": 137,
+                                "areaflag": "temp flag: 0x0 02"
+                            }
                         },
                         {
                             "unk1": "FF CC 8A 02",
@@ -6089,7 +6115,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 87",
-                            "name": "FrmLand"
+                            "name": "FrmLand",
+                            "extra_info": {
+                                "flagid": 138,
+                                "areaflag": "temp flag: 0x0 04"
+                            }
                         },
                         {
                             "unk1": "FF FF FF F0",
@@ -6982,7 +7012,10 @@
                             "angle": 56070,
                             "talk_behaviour": 0,
                             "unk3": "FC CC",
-                            "name": "KanbanS"
+                            "name": "KanbanS",
+                            "extra_info": {
+                                "talk_behaviour": 10730
+                            }
                         },
                         {
                             "unk1": "FF FF FF F0",
@@ -16953,7 +16986,10 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FE 01",
-                            "name": "Kanban"
+                            "name": "Kanban",
+                            "extra_info": {
+                                "talk_behaviour": 10744
+                            }
                         },
                         {
                             "unk1": "FF E5 A3 FF",
@@ -19789,7 +19825,10 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FD FC",
-                            "name": "Kanban"
+                            "name": "Kanban",
+                            "extra_info": {
+                                "talk_behaviour": 10744
+                            }
                         },
                         {
                             "unk1": "FF E5 A3 FF",
@@ -21732,7 +21771,10 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FD F2",
-                            "name": "Kanban"
+                            "name": "Kanban",
+                            "extra_info": {
+                                "talk_behaviour": 10744
+                            }
                         },
                         {
                             "unk1": "FF E5 A3 FF",

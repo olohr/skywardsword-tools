@@ -228,7 +228,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 00",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 190,
+                        "areaflag": "temp flag: 0x6 40"
+                    }
                 },
                 {
                     "unk1": "FF FF FF 01",
@@ -6363,7 +6367,7 @@
                             "name": "Tubo",
                             "extra_info": {
                                 "flagid": 253,
-                                "areaflag": "temp flag: 0xE 20"
+                                "areaflag": "loadzone temp flag: 0xE 20"
                             }
                         },
                         {
@@ -6380,7 +6384,7 @@
                             "name": "Tubo",
                             "extra_info": {
                                 "flagid": 253,
-                                "areaflag": "temp flag: 0xE 20"
+                                "areaflag": "loadzone temp flag: 0xE 20"
                             }
                         },
                         {
@@ -6397,7 +6401,7 @@
                             "name": "Tubo",
                             "extra_info": {
                                 "flagid": 253,
-                                "areaflag": "temp flag: 0xE 20"
+                                "areaflag": "loadzone temp flag: 0xE 20"
                             }
                         },
                         {
@@ -6414,7 +6418,7 @@
                             "name": "Tubo",
                             "extra_info": {
                                 "flagid": 253,
-                                "areaflag": "temp flag: 0xE 20"
+                                "areaflag": "loadzone temp flag: 0xE 20"
                             }
                         },
                         {
@@ -6431,7 +6435,7 @@
                             "name": "Tubo",
                             "extra_info": {
                                 "flagid": 253,
-                                "areaflag": "temp flag: 0xE 20"
+                                "areaflag": "loadzone temp flag: 0xE 20"
                             }
                         },
                         {
@@ -6448,7 +6452,7 @@
                             "name": "Tubo",
                             "extra_info": {
                                 "flagid": 253,
-                                "areaflag": "temp flag: 0xE 20"
+                                "areaflag": "loadzone temp flag: 0xE 20"
                             }
                         },
                         {
@@ -7795,7 +7799,7 @@
                             "name": "Barrel",
                             "extra_info": {
                                 "flagid": 206,
-                                "areaflag": "temp flag: 0x8 40"
+                                "areaflag": "loadzone temp flag: 0x8 40"
                             }
                         },
                         {
@@ -7863,7 +7867,7 @@
                             "name": "Barrel",
                             "extra_info": {
                                 "flagid": 207,
-                                "areaflag": "temp flag: 0x8 80"
+                                "areaflag": "loadzone temp flag: 0x8 80"
                             }
                         },
                         {
@@ -7880,7 +7884,7 @@
                             "name": "Barrel",
                             "extra_info": {
                                 "flagid": 208,
-                                "areaflag": "temp flag: 0xB 01"
+                                "areaflag": "loadzone temp flag: 0xB 01"
                             }
                         },
                         {

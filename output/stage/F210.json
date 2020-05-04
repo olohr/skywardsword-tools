@@ -766,7 +766,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 243,
-                                "areaflag": "temp flag: 0xF 08"
+                                "areaflag": "loadzone temp flag: 0xF 08"
                             }
                         },
                         {
@@ -783,7 +783,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 243,
-                                "areaflag": "temp flag: 0xF 08"
+                                "areaflag": "loadzone temp flag: 0xF 08"
                             }
                         },
                         {
@@ -1158,7 +1158,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 241,
-                                "areaflag": "temp flag: 0xF 02"
+                                "areaflag": "loadzone temp flag: 0xF 02"
                             }
                         },
                         {
@@ -1218,7 +1218,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 243,
-                                "areaflag": "temp flag: 0xF 08"
+                                "areaflag": "loadzone temp flag: 0xF 08"
                             }
                         },
                         {
@@ -1620,7 +1620,7 @@
                             "extra_info": {
                                 "flagid": 200,
                                 "itemid": 4,
-                                "areaflag": "temp flag: 0x8 01",
+                                "areaflag": "loadzone temp flag: 0x8 01",
                                 "item": "Red Rupee"
                             }
                         },
@@ -1642,7 +1642,7 @@
                             "extra_info": {
                                 "flagid": 201,
                                 "itemid": 18,
-                                "areaflag": "temp flag: 0x8 02",
+                                "areaflag": "loadzone temp flag: 0x8 02",
                                 "item": "?"
                             }
                         },
@@ -1664,7 +1664,7 @@
                             "extra_info": {
                                 "flagid": 202,
                                 "itemid": 18,
-                                "areaflag": "temp flag: 0x8 04",
+                                "areaflag": "loadzone temp flag: 0x8 04",
                                 "item": "?"
                             }
                         },
@@ -1686,7 +1686,7 @@
                             "extra_info": {
                                 "flagid": 203,
                                 "itemid": 18,
-                                "areaflag": "temp flag: 0x8 08",
+                                "areaflag": "loadzone temp flag: 0x8 08",
                                 "item": "?"
                             }
                         },
@@ -1708,7 +1708,7 @@
                             "extra_info": {
                                 "flagid": 204,
                                 "itemid": 18,
-                                "areaflag": "temp flag: 0x8 10",
+                                "areaflag": "loadzone temp flag: 0x8 10",
                                 "item": "?"
                             }
                         },
@@ -1730,7 +1730,7 @@
                             "extra_info": {
                                 "flagid": 205,
                                 "itemid": 18,
-                                "areaflag": "temp flag: 0x8 20",
+                                "areaflag": "loadzone temp flag: 0x8 20",
                                 "item": "?"
                             }
                         }
@@ -2405,7 +2405,7 @@
                                 "untrigstoryf": "-",
                                 "trigscenefid": 209,
                                 "untrigscenefid": 4,
-                                "trigscenef": "temp flag: 0xB 02",
+                                "trigscenef": "loadzone temp flag: 0xB 02",
                                 "untrigscenef": "scene flag: 0x1 10"
                             }
                         }

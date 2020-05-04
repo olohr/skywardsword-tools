@@ -27,6 +27,10 @@ totally_all_objects=[]
 raw_stages={}
 all_ENVTS=[]
 
+sizeobjs = ('SOBS','SOBJ','STAS','STAG','SNDT')
+objs = ('OBJS','OBJ ','DOOR')
+allobjtypes = sizeobjs + objs
+
 # iterate through all object to attach some extra info/get bounds
 for stagefile in glob.glob(basepath + '/output/stage/*.json'):
     
@@ -44,30 +48,51 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
         raw_stage=json.load(f)
         raw_stages[output['stageid']]=raw_stage
         stage={'rooms': raw_stage['rooms']}
+        for (lid, layer) in raw_stage['LAY '].items():
+            for (objt, objects) in layer.items():
+                if not objt in allobjtypes:
+                    continue
+                for obj in objects:
+                    # find min max bounds
+                    maxx=max(maxx,obj['posx'])
+                    maxz=max(maxz,obj['posz'])
+                    minx=min(minx,obj['posx'])
+                    minz=min(minz,obj['posz'])
+
+                    obj['type'] = objt
+                    obj['roomid'] = -1
+                    obj['layerid'] = int(lid[1:])
+                    obj['stageid'] = output['stageid']
+                    if obj['talk_behaviour'] in foundevents:
+                        if not 'extra_info' in obj:
+                            obj['extra_info'] = {}
+                        obj['extra_info']['eventSrc'] = foundevents[obj['talk_behaviour']]
+                    all_objects.append(obj)
+                    totally_all_objects.append(obj)
         for (rid, room) in stage['rooms'].items():
             if 'EVNT' in room:
                 all_ENVTS.extend(room['EVNT'])
             for (lid, layer) in room['LAY '].items():
-                for objt in ['OBJ ','OBJS','SOBJ','STAG']:
-                    if objt in layer:
-                        objects = layer[objt]
-                        for obj in objects:
-                            # find min max bounds
-                            maxx=max(maxx,obj['posx'])
-                            maxz=max(maxz,obj['posz'])
-                            minx=min(minx,obj['posx'])
-                            minz=min(minz,obj['posz'])
+                for (objt, objects) in layer.items():
+                    if not objt in allobjtypes:
+                        continue
+                    for obj in objects:
+                        # find min max bounds
+                        maxx=max(maxx,obj['posx'])
+                        maxz=max(maxz,obj['posz'])
+                        minx=min(minx,obj['posx'])
+                        minz=min(minz,obj['posz'])
 
-                            obj['type'] = objt
-                            obj['roomid'] = int(rid[1:])
-                            obj['layerid'] = int(lid[1:])
-                            obj['stageid'] = output['stageid']
-                            if obj['talk_behaviour'] in foundevents:
-                                if not 'extra_info' in obj:
-                                    obj['extra_info'] = {}
-                                obj['extra_info']['eventSrc'] = foundevents[obj['talk_behaviour']]
-                            all_objects.append(obj)
-                            totally_all_objects.append(obj)
+                        obj['type'] = objt
+                        obj['roomid'] = int(rid[1:])
+                        obj['layerid'] = int(lid[1:])
+                        obj['stageid'] = output['stageid']
+                        if obj['talk_behaviour'] in foundevents:
+                            if not 'extra_info' in obj:
+                                obj['extra_info'] = {}
+                            obj['extra_info']['eventSrc'] = foundevents[obj['talk_behaviour']]
+                        all_objects.append(obj)
+                        totally_all_objects.append(obj)
     
     # repeat for every stage
     used_layers=sorted(set(obj['layerid'] for obj in all_objects))

@@ -53,8 +53,11 @@ def extract_byte_between_2_bytes(b1, b2, bitoffset=4):
         flagid=flagid-256
     return flagid
 
-def parse_h(btes):
+def read_halfword(btes):
     return struct.unpack('>H',btes)[0]
+
+def read_word(btes):
+    return struct.unpack('>I',btes)[0]
 
 flagindex_to_stages = [
                    ["D000","F000","F001r","F002r","F004r","F005r","F006r","F007r",

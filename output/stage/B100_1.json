@@ -124,7 +124,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 03",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 179,
+                        "areaflag": "temp flag: 0x7 08"
+                    }
                 },
                 {
                     "unk1": "FF FF FF FF",
@@ -2398,8 +2402,8 @@
                                 "untrigstoryf": "-",
                                 "trigscenefid": 196,
                                 "untrigscenefid": 194,
-                                "trigscenef": "temp flag: 0x9 10",
-                                "untrigscenef": "temp flag: 0x9 04"
+                                "trigscenef": "loadzone temp flag: 0x9 10",
+                                "untrigscenef": "loadzone temp flag: 0x9 04"
                             }
                         },
                         {

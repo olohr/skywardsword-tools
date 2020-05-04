@@ -175,7 +175,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 04",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 170,
+                        "areaflag": "temp flag: 0x4 04"
+                    }
                 }
             ]
         },
@@ -595,7 +599,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 243,
-                                "areaflag": "temp flag: 0xF 08"
+                                "areaflag": "loadzone temp flag: 0xF 08"
                             }
                         },
                         {
@@ -680,7 +684,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 243,
-                                "areaflag": "temp flag: 0xF 08"
+                                "areaflag": "loadzone temp flag: 0xF 08"
                             }
                         },
                         {
@@ -2580,7 +2584,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 242,
-                                "areaflag": "temp flag: 0xF 04"
+                                "areaflag": "loadzone temp flag: 0xF 04"
                             }
                         },
                         {
@@ -2597,7 +2601,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 241,
-                                "areaflag": "temp flag: 0xF 02"
+                                "areaflag": "loadzone temp flag: 0xF 02"
                             }
                         },
                         {
@@ -3209,7 +3213,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 241,
-                                "areaflag": "temp flag: 0xF 02"
+                                "areaflag": "loadzone temp flag: 0xF 02"
                             }
                         },
                         {
@@ -3294,7 +3298,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 243,
-                                "areaflag": "temp flag: 0xF 08"
+                                "areaflag": "loadzone temp flag: 0xF 08"
                             }
                         },
                         {
@@ -3311,7 +3315,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 242,
-                                "areaflag": "temp flag: 0xF 04"
+                                "areaflag": "loadzone temp flag: 0xF 04"
                             }
                         },
                         {
@@ -3328,7 +3332,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 243,
-                                "areaflag": "temp flag: 0xF 08"
+                                "areaflag": "loadzone temp flag: 0xF 08"
                             }
                         },
                         {
@@ -3345,7 +3349,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 243,
-                                "areaflag": "temp flag: 0xF 08"
+                                "areaflag": "loadzone temp flag: 0xF 08"
                             }
                         },
                         {
@@ -6059,7 +6063,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 243,
-                                "areaflag": "temp flag: 0xF 08"
+                                "areaflag": "loadzone temp flag: 0xF 08"
                             }
                         },
                         {
@@ -6076,7 +6080,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 243,
-                                "areaflag": "temp flag: 0xF 08"
+                                "areaflag": "loadzone temp flag: 0xF 08"
                             }
                         },
                         {
@@ -8876,7 +8880,7 @@
                             "name": "Soil",
                             "extra_info": {
                                 "flagid": 242,
-                                "areaflag": "temp flag: 0xF 04"
+                                "areaflag": "loadzone temp flag: 0xF 04"
                             }
                         },
                         {

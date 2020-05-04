@@ -369,7 +369,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 0A",
-                            "name": "TlpTag"
+                            "name": "TlpTag",
+                            "extra_info": {
+                                "flagid": 178,
+                                "areaflag": "temp flag: 0x7 04"
+                            }
                         },
                         {
                             "unk1": "56 03 FF 02",

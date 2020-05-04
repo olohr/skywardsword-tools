@@ -336,7 +336,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 02",
-                            "name": "FrmLand"
+                            "name": "FrmLand",
+                            "extra_info": {
+                                "flagid": 37,
+                                "areaflag": "scene flag: 0x5 20"
+                            }
                         },
                         {
                             "unk1": "FF FF 25 01",

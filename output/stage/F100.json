@@ -195,7 +195,11 @@
                     "angle": 0,
                     "talk_behaviour": 0,
                     "unk3": "FC 07",
-                    "name": "TlpTag"
+                    "name": "TlpTag",
+                    "extra_info": {
+                        "flagid": 178,
+                        "areaflag": "temp flag: 0x7 04"
+                    }
                 }
             ]
         },
@@ -13984,7 +13988,7 @@
                                 "trigscenefid": 255,
                                 "untrigscenefid": 212,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0xB 10"
+                                "untrigscenef": "loadzone temp flag: 0xB 10"
                             }
                         },
                         {
@@ -14006,7 +14010,7 @@
                                 "untrigstoryf": "-",
                                 "trigscenefid": 212,
                                 "untrigscenefid": 69,
-                                "trigscenef": "temp flag: 0xB 10",
+                                "trigscenef": "loadzone temp flag: 0xB 10",
                                 "untrigscenef": "scene flag: 0x9 20"
                             }
                         },
@@ -14401,7 +14405,7 @@
                                 "untrigstoryf": "-",
                                 "trigscenefid": 203,
                                 "untrigscenefid": 54,
-                                "trigscenef": "temp flag: 0x8 08",
+                                "trigscenef": "loadzone temp flag: 0x8 08",
                                 "untrigscenef": "scene flag: 0x7 40"
                             }
                         },
@@ -15074,7 +15078,7 @@
                                 "untrigstoryf": "-",
                                 "trigscenefid": 203,
                                 "untrigscenefid": 54,
-                                "trigscenef": "temp flag: 0x8 08",
+                                "trigscenef": "loadzone temp flag: 0x8 08",
                                 "untrigscenef": "scene flag: 0x7 40"
                             }
                         },
@@ -15985,7 +15989,7 @@
                                 "untrigstoryf": "-",
                                 "trigscenefid": 203,
                                 "untrigscenefid": 54,
-                                "trigscenef": "temp flag: 0x8 08",
+                                "trigscenef": "loadzone temp flag: 0x8 08",
                                 "untrigscenef": "scene flag: 0x7 40"
                             }
                         },
