@@ -1771,10 +1771,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 6,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 80,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)"
+                                "untrigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -1794,10 +1796,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 80,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)"
+                                "untrigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -1817,10 +1821,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 6,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 80,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)"
+                                "untrigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)",
+                                "areaflag": "no flag"
                             }
                         }
                     ]
@@ -1970,10 +1976,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 8,
+                                "flagid": 255,
                                 "trigstoryfid": 80,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -1993,10 +2001,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
+                                "flagid": 255,
                                 "trigstoryfid": 80,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {

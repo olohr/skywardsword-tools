@@ -3551,10 +3551,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 342,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)"
+                                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -3622,10 +3624,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -3661,10 +3665,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 7,
+                                "flagid": 255,
                                 "trigstoryfid": 342,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {

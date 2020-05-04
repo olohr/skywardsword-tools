@@ -663,10 +663,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 3,
+                                "flagid": 84,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 583,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Set when beating Sandship (Unlocks 4 new dowsing slots)"
+                                "untrigstoryf": "Set when beating Sandship (Unlocks 4 new dowsing slots)",
+                                "areaflag": "scene flag: 0xB 10"
                             }
                         }
                     ]

@@ -394,10 +394,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 9,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)"
+                                "untrigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -417,10 +419,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
+                                "flagid": 255,
                                 "trigstoryfid": 9,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -440,10 +444,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {

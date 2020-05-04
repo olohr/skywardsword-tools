@@ -3028,10 +3028,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 12,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Impa cutscene"
+                                "untrigstoryf": "Meeting Impa cutscene",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -3051,10 +3053,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 12,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Impa cutscene"
+                                "untrigstoryf": "Meeting Impa cutscene",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -3074,10 +3078,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 12,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Impa cutscene"
+                                "untrigstoryf": "Meeting Impa cutscene",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -3145,10 +3151,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 12,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Impa cutscene"
+                                "untrigstoryf": "Meeting Impa cutscene",
+                                "areaflag": "no flag"
                             }
                         }
                     ]
@@ -3945,10 +3953,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 4,
+                                "flagid": 255,
                                 "trigstoryfid": 341,
                                 "untrigstoryfid": 344,
                                 "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)",
-                                "untrigstoryf": "Gate of Time opening cutscene"
+                                "untrigstoryf": "Gate of Time opening cutscene",
+                                "areaflag": "no flag"
                             }
                         }
                     ]

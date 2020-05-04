@@ -1332,10 +1332,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         }
                     ]
@@ -1418,10 +1420,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
+                                "flagid": 255,
                                 "trigstoryfid": 349,
                                 "untrigstoryfid": 350,
                                 "trigstoryf": "Past Impa Text before Zelda",
-                                "untrigstoryf": "True Master Sword Cutscene"
+                                "untrigstoryf": "True Master Sword Cutscene",
+                                "areaflag": "no flag"
                             }
                         }
                     ]

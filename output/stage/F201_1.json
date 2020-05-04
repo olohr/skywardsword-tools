@@ -1124,10 +1124,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -1147,10 +1149,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -1170,10 +1174,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -1225,10 +1231,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 3,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {

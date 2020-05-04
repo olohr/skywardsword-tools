@@ -387,10 +387,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -410,10 +412,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
+                                "flagid": 95,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 13,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)"
+                                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
+                                "areaflag": "scene flag: 0xA 80"
                             }
                         }
                     ]

@@ -9018,10 +9018,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -9041,10 +9043,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 13,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -9064,10 +9068,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 3,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -9087,10 +9093,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 4,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -9110,10 +9118,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 5,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -9133,10 +9143,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 6,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -9156,10 +9168,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 9,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 88,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Lake Floria Introductory Cutscene"
+                                "untrigstoryf": "Lake Floria Introductory Cutscene",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -9179,10 +9193,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 11,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -9202,10 +9218,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 12,
+                                "flagid": 255,
                                 "trigstoryfid": 88,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Lake Floria Introductory Cutscene",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {

@@ -148,6 +148,7 @@ def objAddExtraInfo(parsed_item):
         extraInfo['talk_behaviour']=read_halfword(parsed_item['unk1'][2:4])
     elif parsed_item['name']=='ScChang':
         extraInfo['scen_link']=parsed_item['unk1'][3]
+        extraInfo['flagid']=parsed_item['unk1'][0]
         triggerstoryf=((parsed_item['event_flag']<<8) | parsed_item['transition_type'])&0x7FF
         untriggerstoryf=parsed_item['talk_behaviour']&0x7FF
         extraInfo['trigstoryfid']=triggerstoryf

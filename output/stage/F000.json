@@ -8770,10 +8770,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -8793,10 +8795,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -8816,10 +8820,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 5,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -8839,10 +8845,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 6,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -8862,10 +8870,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 7,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -8885,10 +8895,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 19,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -9164,10 +9176,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 57,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -9283,10 +9297,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 58,
+                                "flagid": 255,
                                 "trigstoryfid": 372,
                                 "untrigstoryfid": 373,
                                 "trigstoryf": "Sets after Sprapper picked the Crystal Ball up",
-                                "untrigstoryf": "Sets before the Fortune Teller gives his Crystals"
+                                "untrigstoryf": "Sets before the Fortune Teller gives his Crystals",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -10378,10 +10394,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 13,
+                                "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 643,
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) "
+                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -10401,10 +10419,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 14,
+                                "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -10424,10 +10444,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 15,
+                                "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 643,
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) "
+                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -10447,10 +10469,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 16,
+                                "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -10534,10 +10558,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 29,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -10701,10 +10727,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 28,
+                                "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 643,
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) "
+                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -10724,10 +10752,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 13,
+                                "flagid": 255,
                                 "trigstoryfid": 642,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Spiral Charge Training Complete",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -10747,10 +10777,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 15,
+                                "flagid": 255,
                                 "trigstoryfid": 642,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Spiral Charge Training Complete",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -10770,10 +10802,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 28,
+                                "flagid": 255,
                                 "trigstoryfid": 642,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Spiral Charge Training Complete",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -10793,10 +10827,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 14,
+                                "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -12161,10 +12197,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 40,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 29,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)"
+                                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -12184,10 +12222,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 11,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 23,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Zelda Cutscene"
+                                "untrigstoryf": "Meeting Zelda Cutscene",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -14356,10 +14396,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 8,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -15865,10 +15907,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 56,
+                                "flagid": 255,
                                 "trigstoryfid": 643,
                                 "untrigstoryfid": 642,
                                 "trigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
-                                "untrigstoryf": "Spiral Charge Training Complete"
+                                "untrigstoryf": "Spiral Charge Training Complete",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -18842,10 +18886,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 48,
+                                "flagid": 255,
                                 "trigstoryfid": 22,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "Place Stone of Trials in Statue / Sky Keep appears (Also gives Stone of Trials in Inventory) (Skyloft layers 6&7)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {
@@ -23125,10 +23171,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 22,
+                                "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "areaflag": "no flag"
                             }
                         },
                         {

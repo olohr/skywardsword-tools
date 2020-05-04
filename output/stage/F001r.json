@@ -3590,10 +3590,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 4,
+                                "flagid": 255,
                                 "trigstoryfid": 480,
                                 "untrigstoryfid": 481,
                                 "trigstoryf": "",
-                                "untrigstoryf": "Oolo picked up with Scrapper"
+                                "untrigstoryf": "Oolo picked up with Scrapper",
+                                "areaflag": "no flag"
                             }
                         }
                     ]
@@ -6424,10 +6426,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
+                                "flagid": 255,
                                 "trigstoryfid": 480,
                                 "untrigstoryfid": 481,
                                 "trigstoryf": "",
-                                "untrigstoryf": "Oolo picked up with Scrapper"
+                                "untrigstoryf": "Oolo picked up with Scrapper",
+                                "areaflag": "no flag"
                             }
                         }
                     ]
