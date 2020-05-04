@@ -8263,7 +8263,14 @@
                             "angle": 0,
                             "talk_behaviour": 4095,
                             "unk3": "FC 63",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF AE FF",
@@ -8631,7 +8638,14 @@
                             "angle": 8192,
                             "talk_behaviour": 4095,
                             "unk3": "FC 7A",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 3,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -8807,7 +8821,14 @@
                             "angle": 0,
                             "talk_behaviour": 4095,
                             "unk3": "FC 9D",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C4",
@@ -15006,7 +15027,14 @@
                             "angle": 0,
                             "talk_behaviour": 4095,
                             "unk3": "24 4B",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 04",
@@ -15054,7 +15082,14 @@
                             "angle": 0,
                             "talk_behaviour": 4095,
                             "unk3": "24 4E",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 04",
@@ -15374,7 +15409,14 @@
                             "angle": 0,
                             "talk_behaviour": 4095,
                             "unk3": "FC 65",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 3,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF A3",
@@ -18940,7 +18982,14 @@
                             "angle": 9102,
                             "talk_behaviour": 6706,
                             "unk3": "FC 1E",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 562,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Volcano Summit Introductory Cutscene"
+                            }
                         },
                         {
                             "unk1": "FF FF 01 01",
@@ -18956,7 +19005,14 @@
                             "angle": 9102,
                             "talk_behaviour": 8191,
                             "unk3": "FC 20",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 562,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "Volcano Summit Introductory Cutscene",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C4",

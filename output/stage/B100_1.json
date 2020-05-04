@@ -1302,7 +1302,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 1F",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "00 FF FF 01",
@@ -2368,7 +2375,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 74",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -2445,7 +2459,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 75",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 4,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",

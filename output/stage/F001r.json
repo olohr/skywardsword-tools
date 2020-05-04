@@ -3587,7 +3587,14 @@
                             "angle": 0,
                             "talk_behaviour": 63969,
                             "unk3": "FC 87",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 4,
+                                "trigstoryfid": 480,
+                                "untrigstoryfid": 481,
+                                "trigstoryf": "",
+                                "untrigstoryf": "Oolo picked up with Scrapper"
+                            }
                         }
                     ]
                 },
@@ -6414,7 +6421,14 @@
                             "angle": 62260,
                             "talk_behaviour": 63969,
                             "unk3": "FC 0F",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 480,
+                                "untrigstoryfid": 481,
+                                "trigstoryf": "",
+                                "untrigstoryf": "Oolo picked up with Scrapper"
+                            }
                         }
                     ]
                 },

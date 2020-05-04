@@ -4425,7 +4425,14 @@
                             "angle": 0,
                             "talk_behaviour": 63497,
                             "unk3": "FC 8B",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 46,
+                                "untrigstoryfid": 9,
+                                "trigstoryf": "Faron light pillar",
+                                "untrigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)"
+                            }
                         },
                         {
                             "unk1": "FF 09 FF 02",
@@ -4441,7 +4448,14 @@
                             "angle": 2366,
                             "talk_behaviour": 65535,
                             "unk3": "FC 8C",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 2,
+                                "trigstoryfid": 48,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "Lanayru light pillar (Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall layer 2 / Lanayru Mines layer 1 / Temple of Time layer 1)",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 09 FF 01",
@@ -4457,7 +4471,14 @@
                             "angle": 2366,
                             "talk_behaviour": 63657,
                             "unk3": "FC 8D",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 47,
+                                "untrigstoryfid": 169,
+                                "trigstoryf": "Eldin light pillar",
+                                "untrigstoryf": "Eldin Eruption Cutscene ready to play (set when Levias explains SotH quest, set and unset by Faron and Lanayru SotH)"
+                            }
                         },
                         {
                             "unk1": "FF 05 FF 04",
@@ -4473,7 +4494,14 @@
                             "angle": 0,
                             "talk_behaviour": 63505,
                             "unk3": "FC 8E",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 4,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 17,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)"
+                            }
                         },
                         {
                             "unk1": "FF 05 FF 05",
@@ -4489,7 +4517,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 8F",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 5,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 05 FF 06",
@@ -4505,7 +4540,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 90",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 6,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 05 FF 07",
@@ -4521,7 +4563,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 91",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 7,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 05 FF 04",
@@ -4537,7 +4586,14 @@
                             "angle": 0,
                             "talk_behaviour": 63505,
                             "unk3": "FC 92",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 4,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 17,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)"
+                            }
                         },
                         {
                             "unk1": "FF 09 FF 08",
@@ -4553,7 +4609,14 @@
                             "angle": 2366,
                             "talk_behaviour": 63507,
                             "unk3": "FC 93",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 8,
+                                "trigstoryfid": 169,
+                                "untrigstoryfid": 19,
+                                "trigstoryf": "Eldin Eruption Cutscene ready to play (set when Levias explains SotH quest, set and unset by Faron and Lanayru SotH)",
+                                "untrigstoryf": "Fire Dragon Text after SotH part Cutscene (Eldin Volcano, Digging Mitts Cave, Volcano Summit Waterfall layer 4)"
+                            }
                         },
                         {
                             "unk1": "FF 00 01 0D",
@@ -4569,7 +4632,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 94",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 13,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 09 FF 0F",
@@ -4585,7 +4655,14 @@
                             "angle": 0,
                             "talk_behaviour": 63628,
                             "unk3": "FC 95",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 15,
+                                "trigstoryfid": 9,
+                                "untrigstoryfid": 140,
+                                "trigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
+                                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)"
+                            }
                         },
                         {
                             "unk1": "FF 09 FF 00",
@@ -4601,7 +4678,14 @@
                             "angle": 0,
                             "talk_behaviour": 63830,
                             "unk3": "FC 96",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 140,
+                                "untrigstoryfid": 342,
+                                "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)"
+                            }
                         },
                         {
                             "unk1": "FF 05 FF 10",
@@ -4617,7 +4701,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 97",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 16,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 05 FF 11",
@@ -4633,7 +4724,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 98",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 17,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 03",
@@ -4681,7 +4779,14 @@
                             "angle": 0,
                             "talk_behaviour": 63813,
                             "unk3": "FC 9B",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 21,
+                                "trigstoryfid": 324,
+                                "untrigstoryfid": 325,
+                                "trigstoryf": "Windmill Propeller picked up",
+                                "untrigstoryf": "Village Windmill reparation cutscene"
+                            }
                         },
                         {
                             "unk1": "FF FF F9 2A",
@@ -4713,7 +4818,14 @@
                             "angle": 9466,
                             "talk_behaviour": 65535,
                             "unk3": "FC 9D",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 25,
+                                "trigstoryfid": 194,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "Thunderhead opened (needs scene flag 2x20 to trigger cutscene)",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -4745,7 +4857,14 @@
                             "angle": 2366,
                             "talk_behaviour": 65535,
                             "unk3": "FC 9F",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 19,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "Fire Dragon Text after SotH part Cutscene (Eldin Volcano, Digging Mitts Cave, Volcano Summit Waterfall layer 4)",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF F8 8A",
@@ -5113,7 +5232,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC CB",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 7,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 09 FF 0C",
@@ -5129,7 +5255,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC CC",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 12,
+                                "trigstoryfid": 342,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C7",

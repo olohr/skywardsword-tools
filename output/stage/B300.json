@@ -398,7 +398,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 09",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FE 08 A7 78",

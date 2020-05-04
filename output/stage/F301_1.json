@@ -2684,7 +2684,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 5C",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 0A FF 02",
@@ -2700,7 +2707,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 5D",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 2,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 0A FF 03",
@@ -2716,7 +2730,14 @@
                             "angle": 16384,
                             "talk_behaviour": 65535,
                             "unk3": "FC 5E",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 3,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 0A FF 04",
@@ -2732,7 +2753,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 5F",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 4,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 1E FF 01",
@@ -2938,7 +2966,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 6B",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -3623,7 +3658,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 98",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -4737,7 +4779,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC B7",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 5,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -5851,7 +5900,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC B7",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -6965,7 +7021,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC B7",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         }
                     ]
                 },

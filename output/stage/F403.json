@@ -3712,7 +3712,14 @@
                             "angle": 0,
                             "talk_behaviour": 64018,
                             "unk3": "FC 49",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 3,
+                                "trigstoryfid": 134,
+                                "untrigstoryfid": 530,
+                                "trigstoryf": "Horde defeated (Sealed Grounds layer 6 / Hylia's Realm layer 7)",
+                                "untrigstoryf": "Set and unset by Boss Rush (Hylia's Realm layer 1 / Skyview Boss Room layer 5 / FS Boss Room layer 3 / LMF Boss Room layer 2 / Sandship Boss Room layer 2, ET Boss Room layer 3)"
+                            }
                         },
                         {
                             "unk1": "F0 04 A3 FC",

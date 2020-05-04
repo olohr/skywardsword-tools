@@ -1329,7 +1329,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 13",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -1408,7 +1415,14 @@
                             "angle": 0,
                             "talk_behaviour": 63838,
                             "unk3": "FC 1B",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 2,
+                                "trigstoryfid": 349,
+                                "untrigstoryfid": 350,
+                                "trigstoryf": "Past Impa Text before Zelda",
+                                "untrigstoryf": "True Master Sword Cutscene"
+                            }
                         }
                     ]
                 },

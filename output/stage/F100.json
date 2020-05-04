@@ -9015,7 +9015,14 @@
                             "angle": 16384,
                             "talk_behaviour": 65535,
                             "unk3": "FD AE",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 11 0D",
@@ -9031,7 +9038,14 @@
                             "angle": 52775,
                             "talk_behaviour": 65535,
                             "unk3": "FD AF",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 13,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 1D 03",
@@ -9047,7 +9061,14 @@
                             "angle": 45512,
                             "talk_behaviour": 65535,
                             "unk3": "FD B0",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 3,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 1E 04",
@@ -9063,7 +9084,14 @@
                             "angle": 42781,
                             "talk_behaviour": 65535,
                             "unk3": "FD B1",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 4,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 1F 05",
@@ -9079,7 +9107,14 @@
                             "angle": 61732,
                             "talk_behaviour": 65535,
                             "unk3": "FD B2",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 5,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 01 1C 06",
@@ -9095,7 +9130,14 @@
                             "angle": 3367,
                             "talk_behaviour": 65535,
                             "unk3": "FD B3",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 6,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 01 FF 09",
@@ -9111,7 +9153,14 @@
                             "angle": 0,
                             "talk_behaviour": 63576,
                             "unk3": "FD B4",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 9,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 88,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Lake Floria Introductory Cutscene"
+                            }
                         },
                         {
                             "unk1": "FF FF 0C 0B",
@@ -9127,7 +9176,14 @@
                             "angle": 1875,
                             "talk_behaviour": 65535,
                             "unk3": "FD B5",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 11,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 01 FF 0C",
@@ -9143,7 +9199,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FD B6",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 12,
+                                "trigstoryfid": 88,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "Lake Floria Introductory Cutscene",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "00 FF FF 01",

@@ -146,6 +146,14 @@ def objAddExtraInfo(parsed_item):
         extraInfo['talk_behaviour']=(read_word(parsed_item['unk1'])&0x0FFFF0)>>4
     elif parsed_item['name']=='KanbanS':
         extraInfo['talk_behaviour']=read_halfword(parsed_item['unk1'][2:4])
+    elif parsed_item['name']=='ScChang':
+        extraInfo['scen_link']=parsed_item['unk1'][3]
+        triggerstoryf=((parsed_item['event_flag']<<8) | parsed_item['transition_type'])&0x7FF
+        untriggerstoryf=parsed_item['talk_behaviour']&0x7FF
+        extraInfo['trigstoryfid']=triggerstoryf
+        extraInfo['untrigstoryfid']=untriggerstoryf
+        extraInfo['trigstoryf']=storyflagnames[triggerstoryf] if triggerstoryf < len(storyflagnames) else '-'
+        extraInfo['untrigstoryf']=storyflagnames[untriggerstoryf] if untriggerstoryf < len(storyflagnames) else '-'
     if 'flagid' in extraInfo:
         extraInfo['areaflag'] = flag_id_to_sheet_rep(extraInfo['flagid'])
     if 'itemid' in extraInfo:

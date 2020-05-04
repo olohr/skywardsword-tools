@@ -6254,7 +6254,14 @@
                             "angle": 12379,
                             "talk_behaviour": 65535,
                             "unk3": "FD 35",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF 01 03 02",
@@ -6270,7 +6277,14 @@
                             "angle": 3458,
                             "talk_behaviour": 65535,
                             "unk3": "FD 37",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 2,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "F0 28 FF FF",

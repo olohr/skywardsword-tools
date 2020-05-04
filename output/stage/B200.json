@@ -248,7 +248,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 00",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -1472,7 +1479,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 24",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "03 24 FF 02",
@@ -1520,7 +1534,14 @@
                             "angle": 0,
                             "talk_behaviour": 63951,
                             "unk3": "FC 27",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 463,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Cutscene of Guld getting picked up"
+                            }
                         },
                         {
                             "unk1": "FF FF 91 FF",

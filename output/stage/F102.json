@@ -5618,7 +5618,14 @@
                             "angle": 1674,
                             "talk_behaviour": 65535,
                             "unk3": "FC 11",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 0,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 28 00",

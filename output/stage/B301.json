@@ -660,7 +660,14 @@
                             "angle": 0,
                             "talk_behaviour": 64071,
                             "unk3": "FC 12",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 3,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 583,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Set when beating Sandship (Unlocks 4 new dowsing slots)"
+                            }
                         }
                     ]
                 },

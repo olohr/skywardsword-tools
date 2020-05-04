@@ -3025,7 +3025,14 @@
                             "angle": 0,
                             "talk_behaviour": 63618,
                             "unk3": "FC 4E",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 12,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 130,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Meeting Impa cutscene"
+                            }
                         },
                         {
                             "unk1": "FF 02 FF 0C",
@@ -3041,7 +3048,14 @@
                             "angle": 57344,
                             "talk_behaviour": 63618,
                             "unk3": "FC 4F",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 12,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 130,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Meeting Impa cutscene"
+                            }
                         },
                         {
                             "unk1": "FF 02 FF 0C",
@@ -3057,7 +3071,14 @@
                             "angle": 7827,
                             "talk_behaviour": 63618,
                             "unk3": "FC 50",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 12,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 130,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Meeting Impa cutscene"
+                            }
                         },
                         {
                             "unk1": "8B 08 20 80",
@@ -3121,7 +3142,14 @@
                             "angle": 56434,
                             "talk_behaviour": 63618,
                             "unk3": "FC 54",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 12,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 130,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Meeting Impa cutscene"
+                            }
                         }
                     ]
                 },
@@ -3914,7 +3942,14 @@
                             "angle": 0,
                             "talk_behaviour": 63832,
                             "unk3": "FC 55",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 4,
+                                "trigstoryfid": 341,
+                                "untrigstoryfid": 344,
+                                "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)",
+                                "untrigstoryf": "Gate of Time opening cutscene"
+                            }
                         }
                     ]
                 },

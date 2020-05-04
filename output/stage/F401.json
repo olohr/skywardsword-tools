@@ -4213,7 +4213,14 @@
                             "angle": 20024,
                             "talk_behaviour": 65535,
                             "unk3": "FC 13",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 1,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 00",
@@ -4687,7 +4694,14 @@
                             "angle": 0,
                             "talk_behaviour": 63626,
                             "unk3": "FC 9C",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 2,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 138,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)"
+                            }
                         },
                         {
                             "unk1": "FF 03 FF 02",
@@ -4703,7 +4717,14 @@
                             "angle": 0,
                             "talk_behaviour": 63626,
                             "unk3": "FC 9D",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 2,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 138,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)"
+                            }
                         },
                         {
                             "unk1": "8B 08 2F F3",
@@ -4927,7 +4948,14 @@
                             "angle": 182,
                             "talk_behaviour": 63626,
                             "unk3": "FC AB",
-                            "name": "ScChang"
+                            "name": "ScChang",
+                            "extra_info": {
+                                "scen_link": 2,
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 138,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)"
+                            }
                         },
                         {
                             "unk1": "FF FF 36 FF",
