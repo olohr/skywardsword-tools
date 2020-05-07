@@ -3534,6 +3534,7 @@
                                 "flagid": 74,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x8 04"
                             }
@@ -4010,9 +4011,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 130,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x1 04",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x1 04"
                             }
                         }
                     ],
@@ -5016,9 +5017,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 131,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x1 08",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x1 08"
                             }
                         },
                         {
@@ -5038,9 +5039,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 132,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x1 10",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x1 10"
                             }
                         }
                     ],
@@ -5876,9 +5877,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 137,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 02",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x0 02"
                             }
                         }
                     ],
@@ -6934,9 +6935,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 135,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x1 80",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x1 80"
                             }
                         }
                     ]
@@ -7943,6 +7944,7 @@
                                 "flagid": 72,
                                 "tosky_scen_link": 1,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x8 01"
                             }
@@ -8164,9 +8166,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 133,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x1 20",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x1 20"
                             }
                         },
                         {
@@ -8186,9 +8188,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 134,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x1 40",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x1 40"
                             }
                         }
                     ],
@@ -11635,6 +11637,7 @@
                                 "flagid": 71,
                                 "tosky_scen_link": 0,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x9 80"
                             }

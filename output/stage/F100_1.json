@@ -1508,9 +1508,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 148,
-                                "itemid": 15,
-                                "areaflag": "temp flag: 0x3 10",
-                                "item": "Sailcloth (shows a green rupee)"
+                                "tgreactitemid": 15,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x3 10"
                             }
                         },
                         {
@@ -1530,9 +1530,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 149,
-                                "itemid": 13,
-                                "areaflag": "temp flag: 0x3 20",
-                                "item": "Master Sword (shows a green rupee)"
+                                "tgreactitemid": 13,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x3 20"
                             }
                         },
                         {
@@ -1552,9 +1552,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 150,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x3 40",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x3 40"
                             }
                         },
                         {
@@ -1574,9 +1574,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 151,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x3 80",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x3 80"
                             }
                         },
                         {
@@ -1596,9 +1596,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 152,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x2 01",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x2 01"
                             }
                         }
                     ],

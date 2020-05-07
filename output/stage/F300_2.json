@@ -1357,9 +1357,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 136,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 01",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 01"
                             }
                         },
                         {
@@ -1379,9 +1379,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 137,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 02",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 02"
                             }
                         }
                     ],

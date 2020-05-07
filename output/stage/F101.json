@@ -2138,6 +2138,7 @@
                                 "flagid": 103,
                                 "tosky_scen_link": 2,
                                 "name_id": 6,
+                                "subtype": "overworld",
                                 "name": "Deep Woods",
                                 "areaflag": "scene flag: 0xD 80"
                             }
@@ -2158,6 +2159,7 @@
                                 "flagid": 104,
                                 "tosky_scen_link": 2,
                                 "name_id": 5,
+                                "subtype": "overworld",
                                 "name": "Forest Temple",
                                 "areaflag": "scene flag: 0xC 01"
                             }
@@ -3144,9 +3146,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 138,
-                                "itemid": 13,
-                                "areaflag": "temp flag: 0x0 04",
-                                "item": "Master Sword (shows a green rupee)"
+                                "tgreactitemid": 13,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 04"
                             }
                         },
                         {
@@ -3166,9 +3168,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 138,
-                                "itemid": 13,
-                                "areaflag": "temp flag: 0x0 04",
-                                "item": "Master Sword (shows a green rupee)"
+                                "tgreactitemid": 13,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 04"
                             }
                         },
                         {
@@ -3188,9 +3190,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 139,
-                                "itemid": 13,
-                                "areaflag": "temp flag: 0x0 08",
-                                "item": "Master Sword (shows a green rupee)"
+                                "tgreactitemid": 13,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -3210,9 +3212,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 139,
-                                "itemid": 13,
-                                "areaflag": "temp flag: 0x0 08",
-                                "item": "Master Sword (shows a green rupee)"
+                                "tgreactitemid": 13,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -3232,9 +3234,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 140,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 10",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x0 10"
                             }
                         },
                         {
@@ -3254,9 +3256,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 141,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x0 20",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x0 20"
                             }
                         },
                         {
@@ -3276,9 +3278,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 142,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 40",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 40"
                             }
                         },
                         {
@@ -3298,9 +3300,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 143,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x0 80",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 80"
                             }
                         },
                         {
@@ -3320,9 +3322,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 144,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x3 01",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x3 01"
                             }
                         },
                         {
@@ -3342,9 +3344,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 145,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x3 02",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x3 02"
                             }
                         }
                     ],
@@ -5306,9 +5308,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 146,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x3 04",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x3 04"
                             }
                         },
                         {
@@ -5328,9 +5330,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 147,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x3 08",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x3 08"
                             }
                         }
                     ],

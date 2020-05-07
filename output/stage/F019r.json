@@ -316,9 +316,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 140,
-                                "itemid": 35,
-                                "areaflag": "temp flag: 0x0 10",
-                                "item": "5 Gratitude crystals"
+                                "tgreactitemid": 35,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 10"
                             }
                         },
                         {
@@ -338,9 +338,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 141,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 20",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 20"
                             }
                         },
                         {
@@ -360,9 +360,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 142,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 40",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 40"
                             }
                         },
                         {
@@ -382,9 +382,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 143,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 80",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 80"
                             }
                         }
                     ],

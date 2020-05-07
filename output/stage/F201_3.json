@@ -675,6 +675,7 @@
                                 "flagid": 101,
                                 "tosky_scen_link": 2,
                                 "name_id": 14,
+                                "subtype": "overworld",
                                 "name": "Inside the Volcano",
                                 "areaflag": "scene flag: 0xD 20"
                             }
@@ -1579,9 +1580,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 140,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 10",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x0 10"
                             }
                         },
                         {
@@ -1601,9 +1602,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 141,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 20",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x0 20"
                             }
                         },
                         {
@@ -1623,9 +1624,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 113,
-                                "itemid": 20,
-                                "areaflag": "scene flag: 0xF 02",
-                                "item": "Clawshots + Storyflag"
+                                "tgreactitemid": 20,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xF 02"
                             }
                         }
                     ],

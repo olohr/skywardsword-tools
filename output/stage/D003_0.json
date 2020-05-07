@@ -1421,6 +1421,7 @@
                                 "flagid": 71,
                                 "tosky_scen_link": 3,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x9 80"
                             }

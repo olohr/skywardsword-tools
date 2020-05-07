@@ -420,6 +420,7 @@
                                 "flagid": 37,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
+                                "subtype": "normal",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 20"
                             }
@@ -1623,9 +1624,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 200,
-                                "itemid": 4,
-                                "areaflag": "loadzone temp flag: 0x8 01",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "loadzone temp flag: 0x8 01"
                             }
                         },
                         {
@@ -1645,9 +1646,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 201,
-                                "itemid": 18,
-                                "areaflag": "loadzone temp flag: 0x8 02",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "loadzone temp flag: 0x8 02"
                             }
                         },
                         {
@@ -1667,9 +1668,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 202,
-                                "itemid": 18,
-                                "areaflag": "loadzone temp flag: 0x8 04",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "loadzone temp flag: 0x8 04"
                             }
                         },
                         {
@@ -1689,9 +1690,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 203,
-                                "itemid": 18,
-                                "areaflag": "loadzone temp flag: 0x8 08",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "loadzone temp flag: 0x8 08"
                             }
                         },
                         {
@@ -1711,9 +1712,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 204,
-                                "itemid": 18,
-                                "areaflag": "loadzone temp flag: 0x8 10",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "loadzone temp flag: 0x8 10"
                             }
                         },
                         {
@@ -1733,9 +1734,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 205,
-                                "itemid": 18,
-                                "areaflag": "loadzone temp flag: 0x8 20",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "loadzone temp flag: 0x8 20"
                             }
                         }
                     ],

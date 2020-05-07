@@ -891,6 +891,7 @@
                                 "flagid": 0,
                                 "tosky_scen_link": 1,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x1 01"
                             }
@@ -1303,9 +1304,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 9,
-                                "itemid": 20,
-                                "areaflag": "scene flag: 0x0 02",
-                                "item": "Clawshots + Storyflag"
+                                "tgreactitemid": 20,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0x0 02"
                             }
                         },
                         {
@@ -1325,9 +1326,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 16,
-                                "itemid": 20,
-                                "areaflag": "scene flag: 0x3 01",
-                                "item": "Clawshots + Storyflag"
+                                "tgreactitemid": 20,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0x3 01"
                             }
                         },
                         {
@@ -1347,9 +1348,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 168,
-                                "itemid": 6,
-                                "areaflag": "temp flag: 0x4 01",
-                                "item": "Heart"
+                                "tgreactitemid": 6,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x4 01"
                             }
                         },
                         {
@@ -1369,9 +1370,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 169,
-                                "itemid": 6,
-                                "areaflag": "temp flag: 0x4 02",
-                                "item": "Heart"
+                                "tgreactitemid": 6,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x4 02"
                             }
                         }
                     ],
@@ -2034,6 +2035,7 @@
                                 "flagid": 18,
                                 "tosky_scen_link": 0,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x3 04"
                             }
@@ -2541,6 +2543,7 @@
                                 "flagid": 34,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 04"
                             }
@@ -6519,6 +6522,7 @@
                                 "flagid": 19,
                                 "tosky_scen_link": 1,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x3 08"
                             }
@@ -6621,6 +6625,7 @@
                                 "flagid": 76,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x8 10"
                             }
@@ -6751,6 +6756,7 @@
                                 "flagid": 70,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x9 40"
                             }
@@ -8273,6 +8279,7 @@
                                 "flagid": 114,
                                 "tosky_scen_link": 3,
                                 "name_id": 15,
+                                "subtype": "overworld",
                                 "name": "Inside Fire Sanctuary",
                                 "areaflag": "scene flag: 0xF 04"
                             }

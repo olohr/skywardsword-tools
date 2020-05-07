@@ -783,9 +783,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 168,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x4 01",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x4 01"
                             }
                         },
                         {
@@ -805,9 +805,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 169,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x4 02",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x4 02"
                             }
                         },
                         {
@@ -827,9 +827,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 170,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x4 04",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x4 04"
                             }
                         }
                     ],

@@ -2060,6 +2060,7 @@
                                 "flagid": 32,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
+                                "subtype": "normal",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 01"
                             }
@@ -3740,9 +3741,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 134,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x1 40",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x1 40"
                             }
                         },
                         {
@@ -3762,9 +3763,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 147,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x3 08",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x3 08"
                             }
                         },
                         {
@@ -3784,9 +3785,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 148,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x3 10",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x3 10"
                             }
                         },
                         {
@@ -3806,9 +3807,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 135,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x1 80",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x1 80"
                             }
                         },
                         {
@@ -3828,9 +3829,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 136,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 01",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x0 01"
                             }
                         },
                         {
@@ -3850,9 +3851,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 137,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 02",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x0 02"
                             }
                         },
                         {
@@ -3872,9 +3873,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 138,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 04",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x0 04"
                             }
                         },
                         {
@@ -3894,9 +3895,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 139,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 08",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x0 08"
                             }
                         },
                         {

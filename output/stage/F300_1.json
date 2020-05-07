@@ -1447,6 +1447,7 @@
                                 "flagid": 68,
                                 "tosky_scen_link": 0,
                                 "name_id": 16,
+                                "subtype": "overworld",
                                 "name": "Lanayru Mine Entry",
                                 "areaflag": "scene flag: 0x9 10"
                             }
@@ -2147,9 +2148,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 153,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x2 02",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 02"
                             }
                         },
                         {
@@ -2169,9 +2170,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 154,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x2 04",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 04"
                             }
                         },
                         {
@@ -2191,9 +2192,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 155,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x2 08",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 08"
                             }
                         },
                         {
@@ -2213,9 +2214,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 156,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x2 10",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 10"
                             }
                         },
                         {
@@ -2235,9 +2236,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 141,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 20",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x0 20"
                             }
                         }
                     ],
@@ -4712,9 +4713,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 142,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 40",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x0 40"
                             }
                         },
                         {
@@ -4734,9 +4735,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 143,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 80",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x0 80"
                             }
                         }
                     ],
@@ -6427,9 +6428,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 144,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x3 01",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x3 01"
                             }
                         },
                         {
@@ -6449,9 +6450,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 145,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x3 02",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x3 02"
                             }
                         },
                         {
@@ -6471,9 +6472,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 146,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x3 04",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x3 04"
                             }
                         },
                         {
@@ -6493,9 +6494,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 157,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x2 20",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x2 20"
                             }
                         }
                     ],

@@ -816,9 +816,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 174,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x4 40",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x4 40"
                             }
                         },
                         {
@@ -838,9 +838,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 175,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x4 80",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x4 80"
                             }
                         }
                     ],
@@ -2463,6 +2463,7 @@
                                 "flagid": 52,
                                 "tosky_scen_link": 1,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x7 10"
                             }
@@ -2483,6 +2484,7 @@
                                 "flagid": 48,
                                 "tosky_scen_link": 1,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x7 01"
                             }
@@ -3846,9 +3848,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 151,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x3 80",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x3 80"
                             }
                         },
                         {
@@ -3868,9 +3870,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 171,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x4 08",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x4 08"
                             }
                         },
                         {
@@ -3890,9 +3892,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 172,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x4 10",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x4 10"
                             }
                         },
                         {
@@ -3912,9 +3914,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 173,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x4 20",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x4 20"
                             }
                         }
                     ],
@@ -6043,6 +6045,7 @@
                                 "flagid": 50,
                                 "tosky_scen_link": 0,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x7 04"
                             }
@@ -8076,6 +8079,7 @@
                                 "flagid": 53,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x7 20"
                             }

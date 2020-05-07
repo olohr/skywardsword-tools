@@ -2123,6 +2123,7 @@
                                 "flagid": 31,
                                 "tosky_scen_link": 5,
                                 "name_id": 0,
+                                "subtype": "overworld",
                                 "name": "Behind the Temple",
                                 "areaflag": "scene flag: 0x2 80"
                             }
@@ -2143,6 +2144,7 @@
                                 "flagid": 32,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
+                                "subtype": "normal",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 01"
                             }
@@ -2235,6 +2237,7 @@
                                 "flagid": 35,
                                 "tosky_scen_link": 19,
                                 "name_id": 28,
+                                "subtype": "overworld",
                                 "name": "Sealed Grounds",
                                 "areaflag": "scene flag: 0x5 08"
                             }
@@ -3486,9 +3489,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 150,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x3 40",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x3 40"
                             }
                         },
                         {
@@ -3508,9 +3511,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 151,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x3 80",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x3 80"
                             }
                         },
                         {
@@ -3530,9 +3533,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 152,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x2 01",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x2 01"
                             }
                         },
                         {
@@ -3552,9 +3555,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 153,
-                                "itemid": 9,
-                                "areaflag": "temp flag: 0x2 02",
-                                "item": "Goddess Whitesword & extra dowsing slots (shows a green rupee)"
+                                "tgreactitemid": 9,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 02"
                             }
                         },
                         {
@@ -3574,9 +3577,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 154,
-                                "itemid": 8,
-                                "areaflag": "temp flag: 0x2 04",
-                                "item": "bundle of arrows; [D100]"
+                                "tgreactitemid": 8,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 04"
                             }
                         },
                         {

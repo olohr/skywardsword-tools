@@ -1700,6 +1700,7 @@
                                 "flagid": 32,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
+                                "subtype": "normal",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 01"
                             }
@@ -1742,6 +1743,7 @@
                                 "flagid": 31,
                                 "tosky_scen_link": 5,
                                 "name_id": 0,
+                                "subtype": "overworld",
                                 "name": "Behind the Temple",
                                 "areaflag": "scene flag: 0x2 80"
                             }
@@ -1798,6 +1800,7 @@
                                 "flagid": 35,
                                 "tosky_scen_link": 19,
                                 "name_id": 28,
+                                "subtype": "overworld",
                                 "name": "Sealed Grounds",
                                 "areaflag": "scene flag: 0x5 08"
                             }
@@ -2600,9 +2603,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 155,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x2 08",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 08"
                             }
                         },
                         {
@@ -2622,9 +2625,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 156,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x2 10",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 10"
                             }
                         },
                         {
@@ -2644,9 +2647,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 157,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x2 20",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 20"
                             }
                         },
                         {
@@ -2666,9 +2669,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 158,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x2 40",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x2 40"
                             }
                         },
                         {
@@ -2688,9 +2691,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 159,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x2 80",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x2 80"
                             }
                         },
                         {
@@ -2710,9 +2713,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 160,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x5 01",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x5 01"
                             }
                         },
                         {
@@ -2732,9 +2735,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 161,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x5 02",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x5 02"
                             }
                         },
                         {

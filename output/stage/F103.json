@@ -3437,6 +3437,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 1,
                                 "name_id": 9,
+                                "subtype": "overworld",
                                 "name": "Great Tree Top",
                                 "areaflag": "no flag"
                             }
@@ -3457,6 +3458,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 1,
                                 "name_id": 1,
+                                "subtype": "normal",
                                 "name": "Faron Woods Entry",
                                 "areaflag": "no flag"
                             }
@@ -3477,6 +3479,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 1,
                                 "name_id": 2,
+                                "subtype": "normal",
                                 "name": "In the Woods",
                                 "areaflag": "no flag"
                             }
@@ -3497,6 +3500,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 1,
                                 "name_id": 3,
+                                "subtype": "normal",
                                 "name": "Viewing Platform",
                                 "areaflag": "no flag"
                             }

@@ -1978,9 +1978,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 83,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xB 08",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xB 08"
                             }
                         },
                         {
@@ -2000,9 +2000,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 84,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xB 10",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xB 10"
                             }
                         },
                         {
@@ -2022,9 +2022,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 85,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xB 20",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xB 20"
                             }
                         },
                         {
@@ -2044,9 +2044,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 86,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xB 40",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xB 40"
                             }
                         },
                         {
@@ -2066,9 +2066,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 87,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xB 80",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xB 80"
                             }
                         },
                         {
@@ -2088,9 +2088,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 88,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xA 01",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xA 01"
                             }
                         },
                         {
@@ -2110,9 +2110,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 89,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xA 02",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xA 02"
                             }
                         },
                         {
@@ -2132,9 +2132,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 90,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xA 04",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xA 04"
                             }
                         },
                         {
@@ -2154,9 +2154,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 91,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xA 08",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xA 08"
                             }
                         },
                         {
@@ -2176,9 +2176,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 92,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xA 10",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xA 10"
                             }
                         },
                         {
@@ -2198,9 +2198,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 93,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xA 20",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xA 20"
                             }
                         },
                         {
@@ -2220,9 +2220,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 94,
-                                "itemid": 19,
-                                "areaflag": "scene flag: 0xA 40",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xA 40"
                             }
                         },
                         {
@@ -2242,9 +2242,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 95,
-                                "itemid": 18,
-                                "areaflag": "scene flag: 0xA 80",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xA 80"
                             }
                         },
                         {
@@ -2264,9 +2264,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 98,
-                                "itemid": 18,
-                                "areaflag": "scene flag: 0xD 04",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xD 04"
                             }
                         },
                         {
@@ -2286,9 +2286,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 99,
-                                "itemid": 18,
-                                "areaflag": "scene flag: 0xD 08",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xD 08"
                             }
                         },
                         {
@@ -2308,9 +2308,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 100,
-                                "itemid": 47,
-                                "areaflag": "scene flag: 0xD 10",
-                                "item": "Light Fruit"
+                                "tgreactitemid": 47,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xD 10"
                             }
                         },
                         {
@@ -2330,9 +2330,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 103,
-                                "itemid": 47,
-                                "areaflag": "scene flag: 0xD 80",
-                                "item": "Light Fruit"
+                                "tgreactitemid": 47,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xD 80"
                             }
                         }
                     ],

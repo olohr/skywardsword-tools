@@ -2814,6 +2814,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 0,
                                 "name_id": 10,
+                                "subtype": "overworld",
                                 "name": "Volcano Entry",
                                 "areaflag": "no flag"
                             }
@@ -4397,9 +4398,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 109,
-                                "itemid": 15,
-                                "areaflag": "scene flag: 0xC 20",
-                                "item": "Sailcloth (shows a green rupee)"
+                                "tgreactitemid": 15,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xC 20"
                             }
                         }
                     ],
@@ -6429,6 +6430,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 2,
                                 "name_id": 11,
+                                "subtype": "overworld",
                                 "name": "Volcano East",
                                 "areaflag": "no flag"
                             }
@@ -6544,6 +6546,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 2,
                                 "name_id": 12,
+                                "subtype": "overworld",
                                 "name": "Volcano Ascent",
                                 "areaflag": "no flag"
                             }
@@ -7794,9 +7797,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 150,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x3 40",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x3 40"
                             }
                         },
                         {
@@ -7816,9 +7819,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 151,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x3 80",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x3 80"
                             }
                         }
                     ],
@@ -13753,6 +13756,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 2,
                                 "name_id": 13,
+                                "subtype": "overworld",
                                 "name": "Temple Entrance",
                                 "areaflag": "no flag"
                             }
@@ -14730,9 +14734,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 145,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x3 02",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x3 02"
                             }
                         },
                         {
@@ -14752,9 +14756,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 105,
-                                "itemid": 20,
-                                "areaflag": "scene flag: 0xC 02",
-                                "item": "Clawshots + Storyflag"
+                                "tgreactitemid": 20,
+                                "subtype": "slingshot",
+                                "areaflag": "scene flag: 0xC 02"
                             }
                         },
                         {
@@ -14774,9 +14778,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 148,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x3 10",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x3 10"
                             }
                         },
                         {
@@ -14796,9 +14800,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 149,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x3 20",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x3 20"
                             }
                         }
                     ],

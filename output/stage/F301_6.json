@@ -421,6 +421,7 @@
                                 "flagid": 84,
                                 "tosky_scen_link": 3,
                                 "name_id": 26,
+                                "subtype": "overworld",
                                 "name": "Pirate Stronghold",
                                 "areaflag": "scene flag: 0xB 10"
                             }
@@ -989,9 +990,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 140,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 10",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 10"
                             }
                         },
                         {
@@ -1011,9 +1012,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 141,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 20",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 20"
                             }
                         }
                     ],

@@ -568,9 +568,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 139,
-                                "itemid": 35,
-                                "areaflag": "temp flag: 0x0 08",
-                                "item": "5 Gratitude crystals"
+                                "tgreactitemid": 35,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 08"
                             }
                         }
                     ],

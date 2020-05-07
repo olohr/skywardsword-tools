@@ -1145,6 +1145,7 @@
                                 "flagid": 96,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xD 01"
                             }
@@ -1402,9 +1403,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 138,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 04",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x0 04"
                             }
                         },
                         {
@@ -1424,9 +1425,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 139,
-                                "itemid": 13,
-                                "areaflag": "temp flag: 0x0 08",
-                                "item": "Master Sword (shows a green rupee)"
+                                "tgreactitemid": 13,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 08"
                             }
                         }
                     ],
@@ -3049,9 +3050,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 140,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x0 10",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x0 10"
                             }
                         },
                         {
@@ -3071,9 +3072,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 141,
-                                "itemid": 13,
-                                "areaflag": "temp flag: 0x0 20",
-                                "item": "Master Sword (shows a green rupee)"
+                                "tgreactitemid": 13,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x0 20"
                             }
                         },
                         {
@@ -3093,9 +3094,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 142,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x0 40",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x0 40"
                             }
                         },
                         {
@@ -3115,9 +3116,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 153,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x2 02",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 02"
                             }
                         }
                     ],
@@ -4603,6 +4604,7 @@
                                 "flagid": 37,
                                 "tosky_scen_link": 0,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 20"
                             }
@@ -5045,9 +5047,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 143,
-                                "itemid": 13,
-                                "areaflag": "temp flag: 0x0 80",
-                                "item": "Master Sword (shows a green rupee)"
+                                "tgreactitemid": 13,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 80"
                             }
                         },
                         {
@@ -5067,9 +5069,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 144,
-                                "itemid": 8,
-                                "areaflag": "temp flag: 0x3 01",
-                                "item": "bundle of arrows; [D100]"
+                                "tgreactitemid": 8,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x3 01"
                             }
                         },
                         {
@@ -5089,9 +5091,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 145,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x3 02",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x3 02"
                             }
                         }
                     ],
@@ -9432,9 +9434,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 146,
-                                "itemid": 13,
-                                "areaflag": "temp flag: 0x3 04",
-                                "item": "Master Sword (shows a green rupee)"
+                                "tgreactitemid": 13,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x3 04"
                             }
                         },
                         {
@@ -9454,9 +9456,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 147,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x3 08",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x3 08"
                             }
                         }
                     ],
@@ -11911,6 +11913,7 @@
                                 "flagid": 38,
                                 "tosky_scen_link": 0,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 40"
                             }
@@ -12513,9 +12516,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 154,
-                                "itemid": 13,
-                                "areaflag": "temp flag: 0x2 04",
-                                "item": "Master Sword (shows a green rupee)"
+                                "tgreactitemid": 13,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x2 04"
                             }
                         },
                         {
@@ -12535,9 +12538,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 155,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x2 08",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x2 08"
                             }
                         }
                     ],
@@ -15718,9 +15721,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 156,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x2 10",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 10"
                             }
                         },
                         {
@@ -15740,9 +15743,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 157,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x2 20",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "slingshot",
+                                "areaflag": "temp flag: 0x2 20"
                             }
                         }
                     ],
@@ -18226,6 +18229,7 @@
                                 "flagid": 39,
                                 "tosky_scen_link": 0,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 80"
                             }

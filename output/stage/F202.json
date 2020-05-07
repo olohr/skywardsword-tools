@@ -662,6 +662,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 255,
                                 "name_id": 10,
+                                "subtype": "normal",
                                 "name": "Volcano Entry",
                                 "areaflag": "no flag"
                             }
@@ -3070,6 +3071,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 255,
                                 "name_id": 11,
+                                "subtype": "normal",
                                 "name": "Volcano East",
                                 "areaflag": "no flag"
                             }
@@ -3090,6 +3092,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 255,
                                 "name_id": 12,
+                                "subtype": "normal",
                                 "name": "Volcano Ascent",
                                 "areaflag": "no flag"
                             }
@@ -6518,9 +6521,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 159,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x2 80",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x2 80"
                             }
                         },
                         {
@@ -6540,9 +6543,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 158,
-                                "itemid": 18,
-                                "areaflag": "temp flag: 0x2 40",
-                                "item": "?"
+                                "tgreactitemid": 18,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x2 40"
                             }
                         },
                         {
@@ -9036,6 +9039,7 @@
                                 "flagid": 255,
                                 "tosky_scen_link": 255,
                                 "name_id": 13,
+                                "subtype": "normal",
                                 "name": "Temple Entrance",
                                 "areaflag": "no flag"
                             }
@@ -10746,9 +10750,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 17,
-                                "itemid": 4,
-                                "areaflag": "scene flag: 0x3 02",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "scene flag: 0x3 02"
                             }
                         }
                     ],

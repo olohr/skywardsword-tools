@@ -468,6 +468,7 @@
                                 "flagid": 0,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x1 01"
                             }
@@ -1082,6 +1083,7 @@
                                 "flagid": 18,
                                 "tosky_scen_link": 0,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x3 04"
                             }
@@ -5409,6 +5411,7 @@
                                 "flagid": 34,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 04"
                             }
@@ -6101,6 +6104,7 @@
                                 "flagid": 19,
                                 "tosky_scen_link": 3,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x3 08"
                             }
@@ -8024,6 +8028,7 @@
                                 "flagid": 76,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x8 10"
                             }
@@ -8989,6 +8994,7 @@
                                 "flagid": 70,
                                 "tosky_scen_link": 0,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x9 40"
                             }
@@ -11768,6 +11774,7 @@
                                 "flagid": 114,
                                 "tosky_scen_link": 3,
                                 "name_id": 15,
+                                "subtype": "overworld",
                                 "name": "Inside Fire Sanctuary",
                                 "areaflag": "scene flag: 0xF 04"
                             }

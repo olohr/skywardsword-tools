@@ -1559,6 +1559,7 @@
                                 "flagid": 77,
                                 "tosky_scen_link": 2,
                                 "name_id": 21,
+                                "subtype": "overworld",
                                 "name": "Desert Gorge",
                                 "areaflag": "scene flag: 0x8 20"
                             }
@@ -1657,6 +1658,7 @@
                                 "flagid": 78,
                                 "tosky_scen_link": 2,
                                 "name_id": 22,
+                                "subtype": "overworld",
                                 "name": "Temple of Time",
                                 "areaflag": "scene flag: 0x8 40"
                             }
@@ -1677,6 +1679,7 @@
                                 "flagid": 66,
                                 "tosky_scen_link": 6,
                                 "name_id": 16,
+                                "subtype": "overworld",
                                 "name": "Lanayru Mine Entry",
                                 "areaflag": "scene flag: 0x9 04"
                             }
@@ -1697,6 +1700,7 @@
                                 "flagid": 67,
                                 "tosky_scen_link": 6,
                                 "name_id": 19,
+                                "subtype": "overworld",
                                 "name": "North Desert",
                                 "areaflag": "scene flag: 0x9 08"
                             }
@@ -1717,6 +1721,7 @@
                                 "flagid": 51,
                                 "tosky_scen_link": 6,
                                 "name_id": 18,
+                                "subtype": "overworld",
                                 "name": "West Desert",
                                 "areaflag": "scene flag: 0x7 08"
                             }
@@ -1737,6 +1742,7 @@
                                 "flagid": 2,
                                 "tosky_scen_link": 6,
                                 "name_id": 20,
+                                "subtype": "overworld",
                                 "name": "Stone Cache",
                                 "areaflag": "scene flag: 0x1 04"
                             }
@@ -2163,9 +2169,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 139,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 08",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -2185,9 +2191,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 140,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x0 10",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x0 10"
                             }
                         }
                     ],

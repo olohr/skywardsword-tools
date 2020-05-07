@@ -99,10 +99,15 @@ def objAddExtraInfo(parsed_item):
         # flag is fourth byte
         extraInfo['flagid'] = parsed_item['unk1'][3]
         if parsed_item['name']=='TgReact':
-            extraInfo['itemid'] = parsed_item['unk2'][0]
+            # uses a different item table
+            extraInfo['tgreactitemid'] = parsed_item['unk2'][0]
+            subtypes = ['bonk','slingshot','gust bellow blow','underwater something']
+            extraInfo['subtype'] = subtypes[parsed_item['unk1'][0] >> 4]
         if parsed_item['name']=='saveObj':
             extraInfo['tosky_scen_link'] = parsed_item['unk1'][1]
             extraInfo['name_id'] = parsed_item['unk2'][3]
+            subtypes = ['normal','overworld','dungeon']
+            extraInfo['subtype'] = subtypes[parsed_item['unk1'][2]]
             if extraInfo['name_id'] == 0xFF:
                 extraInfo['name'] = map_text['SAVEOBJ_NAME_UNKNOWN']
             else:

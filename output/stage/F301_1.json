@@ -1345,6 +1345,7 @@
                                 "flagid": 28,
                                 "tosky_scen_link": 0,
                                 "name_id": 24,
+                                "subtype": "overworld",
                                 "name": "Skipper's Retreat",
                                 "areaflag": "scene flag: 0x2 10"
                             }
@@ -1365,6 +1366,7 @@
                                 "flagid": 85,
                                 "tosky_scen_link": 0,
                                 "name_id": 25,
+                                "subtype": "overworld",
                                 "name": "Shipyard",
                                 "areaflag": "scene flag: 0xB 20"
                             }
@@ -1385,6 +1387,7 @@
                                 "flagid": 84,
                                 "tosky_scen_link": 0,
                                 "name_id": 26,
+                                "subtype": "overworld",
                                 "name": "Pirate Stronghold",
                                 "areaflag": "scene flag: 0xB 10"
                             }
@@ -1405,6 +1408,7 @@
                                 "flagid": 10,
                                 "tosky_scen_link": 0,
                                 "name_id": 23,
+                                "subtype": "overworld",
                                 "name": "Ancient Harbor",
                                 "areaflag": "scene flag: 0x0 04"
                             }
@@ -1425,6 +1429,7 @@
                                 "flagid": 86,
                                 "tosky_scen_link": 0,
                                 "name_id": 255,
+                                "subtype": "normal",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xB 40"
                             }

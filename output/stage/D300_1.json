@@ -404,6 +404,7 @@
                                 "flagid": 80,
                                 "tosky_scen_link": 1,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xB 01"
                             }
@@ -1712,6 +1713,7 @@
                                 "flagid": 76,
                                 "tosky_scen_link": 4,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x8 10"
                             }
@@ -1732,6 +1734,7 @@
                                 "flagid": 86,
                                 "tosky_scen_link": 4,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xB 40"
                             }
@@ -1813,6 +1816,7 @@
                                 "flagid": 87,
                                 "tosky_scen_link": 4,
                                 "name_id": 255,
+                                "subtype": "dungeon",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xB 80"
                             }
@@ -8610,9 +8614,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 132,
-                                "itemid": 20,
-                                "areaflag": "temp flag: 0x1 10",
-                                "item": "Clawshots + Storyflag"
+                                "tgreactitemid": 20,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x1 10"
                             }
                         },
                         {
@@ -8632,9 +8636,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 133,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x1 20",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x1 20"
                             }
                         },
                         {
@@ -8654,9 +8658,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 134,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x1 40",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x1 40"
                             }
                         }
                     ],
@@ -9647,9 +9651,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 184,
-                                "itemid": 19,
-                                "areaflag": "temp flag: 0x6 01",
-                                "item": "Bow"
+                                "tgreactitemid": 19,
+                                "subtype": "gust bellow blow",
+                                "areaflag": "temp flag: 0x6 01"
                             }
                         }
                     ]

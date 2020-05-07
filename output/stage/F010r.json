@@ -308,6 +308,7 @@
                                 "flagid": 53,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
+                                "subtype": "normal",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x7 20"
                             }

@@ -732,6 +732,7 @@
                                 "flagid": 31,
                                 "tosky_scen_link": 5,
                                 "name_id": 0,
+                                "subtype": "overworld",
                                 "name": "Behind the Temple",
                                 "areaflag": "scene flag: 0x2 80"
                             }
@@ -788,6 +789,7 @@
                                 "flagid": 32,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
+                                "subtype": "normal",
                                 "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 01"
                             }
@@ -844,6 +846,7 @@
                                 "flagid": 35,
                                 "tosky_scen_link": 16,
                                 "name_id": 29,
+                                "subtype": "overworld",
                                 "name": "Sealed Grounds",
                                 "areaflag": "scene flag: 0x5 08"
                             }
@@ -1192,9 +1195,9 @@
                             "name": "TgReact",
                             "extra_info": {
                                 "flagid": 163,
-                                "itemid": 4,
-                                "areaflag": "temp flag: 0x5 08",
-                                "item": "Red Rupee"
+                                "tgreactitemid": 4,
+                                "subtype": "bonk",
+                                "areaflag": "temp flag: 0x5 08"
                             }
                         }
                     ],
