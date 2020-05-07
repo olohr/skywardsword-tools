@@ -34,7 +34,9 @@
         "flagindex": 7,
         "byte3": 0,
         "byte4": 7,
-        "unk": "00 00 07 FF"
+        "unk1": "00 00",
+        "map_name_id": 7,
+        "unk2": "FF"
     },
     "RMPL": {
         "0": [],
@@ -1444,6 +1446,8 @@
                             "extra_info": {
                                 "flagid": 68,
                                 "tosky_scen_link": 0,
+                                "name_id": 16,
+                                "name": "Lanayru Mine Entry",
                                 "areaflag": "scene flag: 0x9 10"
                             }
                         },

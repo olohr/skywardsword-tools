@@ -39,7 +39,9 @@
         "flagindex": 1,
         "byte3": 0,
         "byte4": 3,
-        "unk": "FF 00 03 FF"
+        "unk1": "FF 00",
+        "map_name_id": 3,
+        "unk2": "FF"
     },
     "RMPL": {
         "0": []
@@ -2135,6 +2137,8 @@
                             "extra_info": {
                                 "flagid": 103,
                                 "tosky_scen_link": 2,
+                                "name_id": 6,
+                                "name": "Deep Woods",
                                 "areaflag": "scene flag: 0xD 80"
                             }
                         },
@@ -2153,6 +2157,8 @@
                             "extra_info": {
                                 "flagid": 104,
                                 "tosky_scen_link": 2,
+                                "name_id": 5,
+                                "name": "Forest Temple",
                                 "areaflag": "scene flag: 0xC 01"
                             }
                         },

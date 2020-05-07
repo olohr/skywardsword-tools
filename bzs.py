@@ -69,6 +69,8 @@ flagindex = None
 stage_scens = []
 story_flags = set()
 
+with open('output/MapText.json') as f:
+    map_text = json.load(f)
 with open('allitems.json') as f:
     itemnames = json.load(f)
 with open('allstoryflags.json') as f:
@@ -100,6 +102,11 @@ def objAddExtraInfo(parsed_item):
             extraInfo['itemid'] = parsed_item['unk2'][0]
         if parsed_item['name']=='saveObj':
             extraInfo['tosky_scen_link'] = parsed_item['unk1'][1]
+            extraInfo['name_id'] = parsed_item['unk2'][3]
+            if extraInfo['name_id'] == 0xFF:
+                extraInfo['name'] = map_text['SAVEOBJ_NAME_UNKNOWN']
+            else:
+                extraInfo['name'] = map_text['SAVEOBJ_NAME_%02d' % extraInfo['name_id']]
     elif parsed_item['name'] in ['Barrel']:
         # flag is between byte 1 and 2
         extraInfo['flagid'] = ((read_halfword(parsed_item['unk1'][0:2]) & 0x0FF0) >> 4)
@@ -155,6 +162,10 @@ def objAddExtraInfo(parsed_item):
         extraInfo['untrigstoryfid']=untriggerstoryf
         extraInfo['trigstoryf']=storyflagnames[triggerstoryf] if triggerstoryf < len(storyflagnames) else '-'
         extraInfo['untrigstoryf']=storyflagnames[untriggerstoryf] if untriggerstoryf < len(storyflagnames) else '-'
+    # elif parsed_item['name'] == 'MapMark':
+    #     extraInfo['map_pop_id'] = (parsed_item['talk_behaviour'] & 0xFF00) >> 8
+    #     key = 'MAP_POP_%02d'%extraInfo['map_pop_id']
+    #     extraInfo['map_pop'] = map_text.get(key, 'not found')
     if 'flagid' in extraInfo:
         extraInfo['areaflag'] = flag_id_to_sheet_rep(extraInfo['flagid'])
     if 'itemid' in extraInfo:
@@ -262,7 +273,7 @@ def parseObj(objtype, quantity, data):
             elif objtype == 'STIF':
                 #Stage Info
                 assert quantity == 1
-                parsed_item = unpack('wtf1 wtf2 wtf3 byte1 flagindex byte3 byte4 unk','>3fbbbb4s',item)
+                parsed_item = unpack('wtf1 wtf2 wtf3 byte1 flagindex byte3 byte4 unk1 map_name_id unk2','>3fbbbb2sb1s',item)
                 flagindex = parsed_item['flagindex']
                 return parsed_item
             elif objtype == 'PCAM':

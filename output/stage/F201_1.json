@@ -29,7 +29,9 @@
         "flagindex": 5,
         "byte3": 0,
         "byte4": 6,
-        "unk": "FF 00 06 FF"
+        "unk1": "FF 00",
+        "map_name_id": 6,
+        "unk2": "FF"
     },
     "PCAM": [
         {
@@ -717,6 +719,8 @@
                             "extra_info": {
                                 "flagid": 117,
                                 "tosky_scen_link": 255,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xF 20"
                             }
                         }

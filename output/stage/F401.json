@@ -59,7 +59,9 @@
         "flagindex": 10,
         "byte3": 0,
         "byte4": 1,
-        "unk": "FF 00 01 FF"
+        "unk1": "FF 00",
+        "map_name_id": 1,
+        "unk2": "FF"
     },
     "RMPL": {
         "0": [
@@ -2120,6 +2122,8 @@
                             "extra_info": {
                                 "flagid": 31,
                                 "tosky_scen_link": 5,
+                                "name_id": 0,
+                                "name": "Behind the Temple",
                                 "areaflag": "scene flag: 0x2 80"
                             }
                         },
@@ -2138,6 +2142,8 @@
                             "extra_info": {
                                 "flagid": 32,
                                 "tosky_scen_link": 255,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 01"
                             }
                         },
@@ -2228,6 +2234,8 @@
                             "extra_info": {
                                 "flagid": 35,
                                 "tosky_scen_link": 19,
+                                "name_id": 28,
+                                "name": "Sealed Grounds",
                                 "areaflag": "scene flag: 0x5 08"
                             }
                         },

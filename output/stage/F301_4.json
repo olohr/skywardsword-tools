@@ -19,7 +19,9 @@
         "flagindex": 8,
         "byte3": 0,
         "byte4": 10,
-        "unk": "FF 00 2C FF"
+        "unk1": "FF 00",
+        "map_name_id": 44,
+        "unk2": "FF"
     },
     "PCAM": [
         {
@@ -7004,6 +7006,8 @@
                             "extra_info": {
                                 "flagid": 85,
                                 "tosky_scen_link": 1,
+                                "name_id": 25,
+                                "name": "Shipyard",
                                 "areaflag": "scene flag: 0xB 20"
                             }
                         },
@@ -7158,6 +7162,8 @@
                             "extra_info": {
                                 "flagid": 86,
                                 "tosky_scen_link": 8,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xB 40"
                             }
                         }

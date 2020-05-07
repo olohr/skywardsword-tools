@@ -7,7 +7,9 @@
         "flagindex": 17,
         "byte3": 1,
         "byte4": 8,
-        "unk": "00 01 0D FF"
+        "unk1": "00 01",
+        "map_name_id": 13,
+        "unk2": "FF"
     },
     "RMPL": {
         "0": [],
@@ -401,6 +403,8 @@
                             "extra_info": {
                                 "flagid": 80,
                                 "tosky_scen_link": 1,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xB 01"
                             }
                         }
@@ -1707,6 +1711,8 @@
                             "extra_info": {
                                 "flagid": 76,
                                 "tosky_scen_link": 4,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x8 10"
                             }
                         },
@@ -1725,6 +1731,8 @@
                             "extra_info": {
                                 "flagid": 86,
                                 "tosky_scen_link": 4,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xB 40"
                             }
                         },
@@ -1804,6 +1812,8 @@
                             "extra_info": {
                                 "flagid": 87,
                                 "tosky_scen_link": 4,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xB 80"
                             }
                         },

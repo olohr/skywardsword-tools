@@ -29,7 +29,9 @@
         "flagindex": 2,
         "byte3": 0,
         "byte4": 4,
-        "unk": "FF 00 04 FF"
+        "unk1": "FF 00",
+        "map_name_id": 4,
+        "unk2": "FF"
     },
     "RMPL": {
         "0": [
@@ -3043,6 +3045,8 @@
                             "extra_info": {
                                 "flagid": 34,
                                 "tosky_scen_link": 255,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 04"
                             }
                         }
@@ -3915,6 +3919,8 @@
                             "extra_info": {
                                 "flagid": 32,
                                 "tosky_scen_link": 0,
+                                "name_id": 7,
+                                "name": "Lake Floria",
                                 "areaflag": "scene flag: 0x5 01"
                             }
                         },
@@ -5150,6 +5156,8 @@
                             "extra_info": {
                                 "flagid": 33,
                                 "tosky_scen_link": 255,
+                                "name_id": 8,
+                                "name": "Floria Waterfall",
                                 "areaflag": "scene flag: 0x5 02"
                             }
                         },

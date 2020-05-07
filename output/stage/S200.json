@@ -7,7 +7,9 @@
         "flagindex": 23,
         "byte3": 0,
         "byte4": 5,
-        "unk": "FF 00 14 FF"
+        "unk1": "FF 00",
+        "map_name_id": 20,
+        "unk2": "FF"
     },
     "RMPL": {
         "0": [

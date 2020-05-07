@@ -7,7 +7,9 @@
         "flagindex": 12,
         "byte3": 1,
         "byte4": 4,
-        "unk": "FF 03 0E FF"
+        "unk1": "FF 03",
+        "map_name_id": 14,
+        "unk2": "FF"
     },
     "LYLT": [
         {

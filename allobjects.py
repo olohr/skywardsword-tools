@@ -67,6 +67,8 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
                         if not 'extra_info' in obj:
                             obj['extra_info'] = {}
                         obj['extra_info']['eventSrc'] = foundevents[obj['talk_behaviour']]
+                    if obj.get('extra_info',{}).get('talk_behaviour',None) in foundevents:
+                        obj['extra_info']['eventSrc'] = foundevents[obj['extra_info']['talk_behaviour']]
                     all_objects.append(obj)
                     totally_all_objects.append(obj)
         for (rid, room) in stage['rooms'].items():
@@ -91,6 +93,8 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
                             if not 'extra_info' in obj:
                                 obj['extra_info'] = {}
                             obj['extra_info']['eventSrc'] = foundevents[obj['talk_behaviour']]
+                        if obj.get('extra_info',{}).get('talk_behaviour',None) in foundevents:
+                            obj['extra_info']['eventSrc'] = foundevents[obj['extra_info']['talk_behaviour']]
                         all_objects.append(obj)
                         totally_all_objects.append(obj)
     

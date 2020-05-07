@@ -14,7 +14,9 @@
         "flagindex": 5,
         "byte3": 0,
         "byte4": 5,
-        "unk": "FF 00 05 FF"
+        "unk1": "FF 00",
+        "map_name_id": 5,
+        "unk2": "FF"
     },
     "RMPL": {
         "0": [
@@ -659,6 +661,8 @@
                             "extra_info": {
                                 "flagid": 255,
                                 "tosky_scen_link": 255,
+                                "name_id": 10,
+                                "name": "Volcano Entry",
                                 "areaflag": "no flag"
                             }
                         }
@@ -3065,6 +3069,8 @@
                             "extra_info": {
                                 "flagid": 255,
                                 "tosky_scen_link": 255,
+                                "name_id": 11,
+                                "name": "Volcano East",
                                 "areaflag": "no flag"
                             }
                         },
@@ -3083,6 +3089,8 @@
                             "extra_info": {
                                 "flagid": 255,
                                 "tosky_scen_link": 255,
+                                "name_id": 12,
+                                "name": "Volcano Ascent",
                                 "areaflag": "no flag"
                             }
                         },
@@ -9027,6 +9035,8 @@
                             "extra_info": {
                                 "flagid": 255,
                                 "tosky_scen_link": 255,
+                                "name_id": 13,
+                                "name": "Temple Entrance",
                                 "areaflag": "no flag"
                             }
                         },

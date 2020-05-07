@@ -19,7 +19,9 @@
         "flagindex": 0,
         "byte3": 4,
         "byte4": 0,
-        "unk": "FF 03 31 FF"
+        "unk1": "FF 03",
+        "map_name_id": 49,
+        "unk2": "FF"
     },
     "LAY ": {
         "l0": {

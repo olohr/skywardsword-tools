@@ -34,7 +34,9 @@
         "flagindex": 21,
         "byte3": 5,
         "byte4": 0,
-        "unk": "FF 04 16 FF"
+        "unk1": "FF 04",
+        "map_name_id": 22,
+        "unk2": "FF"
     },
     "LYLT": [
         {
@@ -2057,6 +2059,8 @@
                             "extra_info": {
                                 "flagid": 32,
                                 "tosky_scen_link": 255,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 01"
                             }
                         },

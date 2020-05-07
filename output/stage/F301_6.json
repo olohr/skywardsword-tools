@@ -19,7 +19,9 @@
         "flagindex": 8,
         "byte3": 0,
         "byte4": 10,
-        "unk": "FF 00 2D FF"
+        "unk1": "FF 00",
+        "map_name_id": 45,
+        "unk2": "FF"
     },
     "PCAM": [
         {
@@ -418,6 +420,8 @@
                             "extra_info": {
                                 "flagid": 84,
                                 "tosky_scen_link": 3,
+                                "name_id": 26,
+                                "name": "Pirate Stronghold",
                                 "areaflag": "scene flag: 0xB 10"
                             }
                         },

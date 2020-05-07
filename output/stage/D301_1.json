@@ -7,7 +7,9 @@
         "flagindex": 18,
         "byte3": 1,
         "byte4": 10,
-        "unk": "FF 01 0F FF"
+        "unk1": "FF 01",
+        "map_name_id": 15,
+        "unk2": "FF"
     },
     "PCAM": [
         {

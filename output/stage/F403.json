@@ -39,7 +39,9 @@
         "flagindex": 10,
         "byte3": 0,
         "byte4": 1,
-        "unk": "FF 00 40 FF"
+        "unk1": "FF 00",
+        "map_name_id": 64,
+        "unk2": "FF"
     },
     "RMPL": {
         "0": [
@@ -2470,6 +2472,8 @@
                             "extra_info": {
                                 "flagid": 33,
                                 "tosky_scen_link": 255,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 02"
                             }
                         },
@@ -2578,6 +2582,8 @@
                             "extra_info": {
                                 "flagid": 34,
                                 "tosky_scen_link": 255,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0x5 04"
                             }
                         }

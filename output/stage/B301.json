@@ -19,7 +19,9 @@
         "flagindex": 18,
         "byte3": 2,
         "byte4": 10,
-        "unk": "FF 03 0F FF"
+        "unk1": "FF 03",
+        "map_name_id": 15,
+        "unk2": "FF"
     },
     "LYLT": [
         {

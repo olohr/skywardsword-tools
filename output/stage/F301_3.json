@@ -7,7 +7,9 @@
         "flagindex": 8,
         "byte3": 0,
         "byte4": 10,
-        "unk": "FF 00 2B FF"
+        "unk1": "FF 00",
+        "map_name_id": 43,
+        "unk2": "FF"
     },
     "PCAM": [
         {
@@ -686,6 +688,8 @@
                             "extra_info": {
                                 "flagid": 28,
                                 "tosky_scen_link": 1,
+                                "name_id": 24,
+                                "name": "Skipper's Retreat",
                                 "areaflag": "scene flag: 0x2 10"
                             }
                         },

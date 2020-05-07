@@ -34,7 +34,9 @@
         "flagindex": 8,
         "byte3": 0,
         "byte4": 10,
-        "unk": "00 00 0A FF"
+        "unk1": "00 00",
+        "map_name_id": 10,
+        "unk2": "FF"
     },
     "PCAM": [
         {
@@ -1342,6 +1344,8 @@
                             "extra_info": {
                                 "flagid": 28,
                                 "tosky_scen_link": 0,
+                                "name_id": 24,
+                                "name": "Skipper's Retreat",
                                 "areaflag": "scene flag: 0x2 10"
                             }
                         },
@@ -1360,6 +1364,8 @@
                             "extra_info": {
                                 "flagid": 85,
                                 "tosky_scen_link": 0,
+                                "name_id": 25,
+                                "name": "Shipyard",
                                 "areaflag": "scene flag: 0xB 20"
                             }
                         },
@@ -1378,6 +1384,8 @@
                             "extra_info": {
                                 "flagid": 84,
                                 "tosky_scen_link": 0,
+                                "name_id": 26,
+                                "name": "Pirate Stronghold",
                                 "areaflag": "scene flag: 0xB 10"
                             }
                         },
@@ -1396,6 +1404,8 @@
                             "extra_info": {
                                 "flagid": 10,
                                 "tosky_scen_link": 0,
+                                "name_id": 23,
+                                "name": "Ancient Harbor",
                                 "areaflag": "scene flag: 0x0 04"
                             }
                         },
@@ -1414,6 +1424,8 @@
                             "extra_info": {
                                 "flagid": 86,
                                 "tosky_scen_link": 0,
+                                "name_id": 255,
+                                "name": "Bird Statue",
                                 "areaflag": "scene flag: 0xB 40"
                             }
                         }

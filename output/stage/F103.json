@@ -29,7 +29,9 @@
         "flagindex": 3,
         "byte3": 0,
         "byte4": 2,
-        "unk": "FF 00 02 FF"
+        "unk1": "FF 00",
+        "map_name_id": 2,
+        "unk2": "FF"
     },
     "RMPL": {
         "0": []
@@ -3434,6 +3436,8 @@
                             "extra_info": {
                                 "flagid": 255,
                                 "tosky_scen_link": 1,
+                                "name_id": 9,
+                                "name": "Great Tree Top",
                                 "areaflag": "no flag"
                             }
                         },
@@ -3452,6 +3456,8 @@
                             "extra_info": {
                                 "flagid": 255,
                                 "tosky_scen_link": 1,
+                                "name_id": 1,
+                                "name": "Faron Woods Entry",
                                 "areaflag": "no flag"
                             }
                         },
@@ -3470,6 +3476,8 @@
                             "extra_info": {
                                 "flagid": 255,
                                 "tosky_scen_link": 1,
+                                "name_id": 2,
+                                "name": "In the Woods",
                                 "areaflag": "no flag"
                             }
                         },
@@ -3488,6 +3496,8 @@
                             "extra_info": {
                                 "flagid": 255,
                                 "tosky_scen_link": 1,
+                                "name_id": 3,
+                                "name": "Viewing Platform",
                                 "areaflag": "no flag"
                             }
                         },
