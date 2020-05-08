@@ -1,0 +1,574 @@
+type:
+name, total count, readable name/description
+
+SOBS:
+BlsRock: 16, Bombable rock
+RidRock: 1
+
+SOBJ:
+TgReact: 252, reaction tag for bonking, slingshot seeds, gust bellows
+ESm: 212
+vmSand: 160
+Kinoko: 106
+Wind: 93, updraft
+Bamboo: 93
+WoodTg2: 87
+ClrWall: 57
+ECactus: 52, cactus
+Light00: 41
+TimeStn: 29, Time Shift Stone
+Wind02: 22
+Flag: 22, waving flag
+EvilFld: 20
+SpiderL: 17
+Sail: 16
+LightLi: 9
+ColStp: 8
+BrdMob: 8
+Wind03: 7
+Wind04: 6
+SwWall: 6
+LogWtr: 5
+Col: 5
+TBoat: 5, Time boat for sand sea
+FWall: 4
+Warp: 3
+CmCloud: 3
+SKinoko: 3
+SldDoor: 2
+PzlLand: 1
+RouletC: 1
+RouletR: 1
+
+STAS:
+MassTag: 1009
+GenkiDT: 3
+
+STAG:
+V_Clip: 689
+CamTag: 577
+BtlTg: 305
+ActTag: 271
+SwAreaT: 237, area that (un)sets story/scene flags
+InsctTg: 237
+ScChang: 222, Loading zone
+StreamT: 206
+MapArea: 203, map markers
+Cam2Tag: 195
+PlRsTag: 147
+AttTag: 142
+EvntTag: 137
+MapMark: 122
+Dowsing: 112
+SwTag: 101
+EffGnT: 85
+Fmaker: 77
+TlpTag: 71
+SpkTg2: 66
+SkEnmyT: 58
+AutoMes: 57
+CBomSld: 50
+DieTag: 43
+Vrbox: 42
+LBmaker: 42
+RRckTag: 32
+PltChg: 31
+GroupT: 21
+Kytag: 19
+KiesuTa: 18
+TgD3Chg: 15
+GekoTag: 13
+TgSBG: 12
+GkMgTag: 12
+EvfTag: 12
+TgTw: 12
+BltObsT: 12
+TruRail: 11
+HolyWtr: 10
+MoMgTag: 10
+MoleTag: 10
+SparkTg: 9
+MapInst: 9
+TgDefea: 7
+FencePe: 7
+TBcal: 7
+TgRBoat: 6
+TgNoEff: 6
+TgSound: 6
+ShipFld: 6
+SporeTg: 6
+GroupS: 6
+TgTimer: 5
+TgMien: 5
+FairyTa: 4
+HeatRst: 4
+ShipSlp: 4
+BarPsTg: 4
+TChk: 4
+SirenTg: 4
+TgSTA: 4
+MssbTag: 4
+TouchTa: 3
+TgClefM: 3
+TgRstTs: 3
+BBQuake: 3
+GateGnd: 3
+BarrlTg: 2
+TgTckl: 2
+SpWinTg: 2
+LbTnder: 1
+TgClefG: 1
+TgSndAr: 1
+TgMICap: 1
+TgTDB: 1
+RoAtLog: 1
+RaceM: 1
+MDvTg: 1
+TgClay: 1
+BcZTag: 1
+Plight: 1
+TgFence: 1
+TKumite: 1
+
+SNDT:
+TgSound: 111
+TgSndAr: 76
+
+OBJS:
+TBox: 336, Treasure chest, can appear as normal, boss key or goddess chest, depending on itemid
+Door: 174, Door, for double doors both parts are an individual object, can also be bigger doors like in Sealed Temple
+BlsRock: 130, Rocks to blow up with bombs
+saveObj: 124, Bird statue
+ObjBg: 71
+ShtCS: 46
+SnkFlrF: 42
+trolley: 24, minecarts in lanayru desert
+Fence: 24
+SideST: 21
+DoorBs: 19
+WaterSf: 11
+StrLava: 7
+ODesert: 7
+rpiller: 7
+NpcSlb2: 4
+TSBase: 4
+DwnLava: 4
+sandD1: 4
+BrgFall: 2
+NpcSui: 2
+TAgo: 2
+BrgStp: 1
+TRail: 1
+BridgeS: 1
+ftower: 1
+
+OBJ :
+BlockUg: 712
+Item: 567, items that lay around, rupees, heart pieces, gratitude crystals, stamina fruits etc.
+Fire: 410, the fire from torches
+EBc: 391, bokoblin
+NpcTke: 352, automatic talk trigger, also used for fi tips if you call her
+EKs: 327, Keese
+Tubo: 318, pots
+GodCube: 316, goddess cube
+Barrel: 235, Barrel
+Bombf: 222, Bomb flower
+EMagupp: 222
+OcGrs: 210, Grass spawner
+EKg: 202
+Heartf: 196, Heartflower
+Soil: 195, Soil for digging mitts
+FenceKs: 182
+AncJwls: 163
+Ehb: 158
+BrgTs: 106
+FenceBk: 100
+ClawSTg: 96, Clawshot Target
+fruit: 81, (these fruits in faron woods you can knock down by rolling in tree?)
+Clef: 77
+TSBlk: 76
+SrnSk: 75
+LtsFlwr: 73
+Pumpkin: 73, Pumpkin
+Lotus: 67
+FenceB2: 65
+EGeko: 64
+EBce: 63
+TimeStn: 57, Time Shift Stone
+NpcDrb: 56
+DNdl: 55
+Bubble: 54
+RockSky: 50
+WatrIga: 47
+SStatue: 47
+skull: 43, skulls laying on the ground acting mostly like pots
+NpcStr: 39
+SwWall: 39
+InHole: 35
+EOr: 35
+wnleaf: 34
+RolRock: 33
+NpcInv: 33
+ERemly: 33, Remlit
+RopeIga: 33
+NpcMoN: 32, Mogma
+Sw: 31
+DNight: 31, sleep tag (bed)
+Char: 30
+ElLight: 30
+FShutte: 30
+EBeamos: 29
+IvyRope: 29, swingable vines hanging down
+EBcZ: 28
+EPh: 27
+BeltCvr: 27
+EWs: 27
+HrpHint: 26, Gossip Stone (also hint gossip stone and moonlight merchant)
+ImpaDor: 26
+Uground: 23
+EBfish: 23
+AFlw: 23
+Swhit: 23
+Est: 23
+NpcGra: 22
+NpcSuiN: 22
+DmtGate: 22
+FenceIr: 21
+LvD201: 21
+EChaser: 21
+Log: 21, Log in faron woods
+Gcoil: 21
+SldDoor: 20
+EPo: 20
+IslTrea: 20
+NpcSltk: 19
+EChb: 19
+ESiren: 19
+NpcRvl: 19, Rival aka Groose
+chest: 18
+EMr: 18
+EHidoK: 18
+ShpSmpl: 18, items displayed in shops
+ERupGue: 18
+Grave: 18, small graves on skyloft
+EGue: 18
+TowerB: 17
+KanbanS: 17, stone signs you can read
+ArrowSW: 17
+IslMegm: 17
+ELizaru: 16
+SwBnkS: 16
+ESyako: 16
+D2Mtr: 16
+NpcCbFd: 16
+EHydra: 16
+HeartCo: 15
+WarpObj: 15, Trial Gates (unused in sky keep)
+BigTubo: 15, I guess big pots
+NpcSenp: 15
+WdBoard: 14
+StepTS: 14
+PushBlk: 14
+EOrCann: 14
+NpcSoma: 13
+SwrdPrj: 13
+NpcOim: 13
+TPole: 12
+NpcResc: 12
+Bell: 12, the bell on knights academy
+BBObjs: 12
+EEye: 12
+needleU: 11
+NpcSowo: 11
+RoAtTar: 11
+PmpknDe: 11
+BulbSW: 11
+BlwCoal: 10
+CyStone: 10
+BKrA: 10
+TgTrap: 10
+VacuDsP: 10
+TDoor: 10, Opened Gate of Time
+Piston: 10
+Kanban: 10, Wodden Sign
+Kibako: 10, (Wooden?) Box, pushable
+NpcKbn: 10
+ESpark: 9
+BrgBn: 9
+BridgeB: 9
+Npckyu1: 9
+NpcMole: 9
+PrpLift: 9
+ShipWin: 9
+VentFan: 9
+ShriBef: 9
+UDLava: 8
+ESf: 8
+Gear: 8
+PoleStn: 8
+CtrlPnl: 8
+D3Dummy: 8
+NpcSkn2: 8
+NpcSoFa: 8
+NpcDsk: 8
+NpcSkn: 8
+NpcSoMo: 8
+AsuraP: 8
+KmtWall: 8
+DivCrst: 7
+DemoPds: 7
+NpcSlKy: 7
+NpcAdr: 7
+FrmLand: 7, Life Tree seedling related, can plant, get from there
+NpcSma2: 7
+UdCloud: 7
+Bee: 7
+NpcSenb: 7
+MoleCvr: 7
+NpcSoG: 7
+BBParts: 7
+EOc: 7
+BlkRope: 7
+SdCdl: 6
+NpcKyuE: 6
+Npckyu4: 6
+Npckyu3: 6
+EGunho: 6
+NpcPdu: 6
+HitLVSW: 6
+SwBnk: 6
+BoxCage: 6
+NpcGrd: 6
+MvLiftV: 6
+NpcDrbC: 6
+PyBird: 6
+Amber: 6
+TDoorB: 6, closed Gate of Time
+NpcSoBo: 6
+NpcZld: 6
+EHidory: 6
+EGerock: 6
+LeafSwg: 6
+Smoke: 5
+NpcMoEN: 5
+EHidoS: 5
+EAm: 5
+NpcSuiS: 5
+NpcSma3: 5
+FireObs: 5
+WaterSW: 5
+NpcSalS: 5
+NpcAkuH: 5
+NpcSha: 5
+StgBgTs: 5
+UtaStop: 5
+NpcSlrb: 5
+SliceLg: 5
+FlyingC: 5
+WndMilD: 5
+UgSwitc: 5
+d2ship: 5, Sandship in Sand Sea (only stationary model?)
+WtFD100: 5
+TrapRc1: 4
+NpcYim: 4
+DoorDun: 4
+NpcKbn2: 4
+SwHrp: 4
+EGumarm: 4
+D300Obj: 4, Lanayru Mining Facility in Lanayru Desert
+DStartT: 4
+IslTreB: 4
+Siren2D: 4
+Tshop: 4
+Windmil: 4
+IslLOD: 4
+NpcPcs: 4
+NpcCbLd: 4
+OBBStn: 4
+LavF200: 3
+RkDrgn: 3
+NpcMoN2: 3
+ObjBld: 3
+HoleMNG: 3
+FrtTree: 3
+StpGm: 3
+NpcMoT: 3
+TrShtCs: 3
+sw_whip: 3
+NpcChef: 3
+DiOnNbs: 3
+SwDir2: 3
+LHLight: 3
+SwdStb: 3
+LtSftS: 3
+NpcMoEl: 3
+NpcKen: 3
+DbidNpc: 3
+SwrdSt: 3
+wfall: 3
+TriForc: 3
+Paint: 3
+BGh3Snd: 3
+BGh3Trd: 3
+TrukStp: 3
+SngGS: 2
+GodMark: 2
+BlstF3: 2
+NpcJkMo: 2
+JunkRep: 2
+NpcSlRp: 2
+BGh: 2
+Propera: 2
+Flag: 2
+F302Lt: 2
+NpcTdr: 2
+PotSal: 2
+NpcSMnD: 2
+NpcSMnE: 2
+Tckl: 2
+NpcGhm: 2
+NpcBgr: 2
+NpcTer: 2
+BKr: 2
+ShriIns: 2
+sandflr: 2
+swsyako: 2
+syashtr: 2
+BMg: 2
+WtrF100: 2
+Boat: 2
+TimeIs: 2
+MvElc: 2
+ECptn: 2
+NpcSlFl: 2
+NusiB: 2
+NpcIcgK: 2
+B300Snd: 2
+BirdT: 2
+Roulete: 2
+DisShip: 2
+LHHarp: 2
+Blade: 2
+Shed: 2
+ToD3Stn: 2
+NpcBdz: 2
+NpcSAML: 2
+NpcJkML: 2
+NpcDoML: 2
+BGh2: 2
+ShtrWtr: 2
+TGrD101: 2
+TowerHa: 2
+ESf4: 2
+Blst: 2
+BBombf: 2
+NpcBRvl: 2
+NpcAzNi: 2
+NpcKyuW: 2
+NpcMoT2: 2
+Message: 2
+NpcGost: 2
+RuinSav: 2
+F400GaS: 2
+GrCover: 2
+EKGira: 2
+NpcGzl: 2
+BGh3Fst: 2
+GhFlr: 2
+Truck: 2
+NpcGrc: 2
+CharD: 1
+BLasBos: 1
+NpcJkNi: 1
+SwSB: 1
+StprRc: 1
+swsht: 1
+WtrShld: 1
+NpcMlMg: 1
+STSink: 1
+STWater: 1
+WtrJar: 1
+NpcTds: 1
+NpcTdrB: 1
+NpcSAMo: 1
+VacuDst: 1
+Chandel: 1, chandelier in the Lumpy pumpkin
+NpcPma: 1
+NpcFdr: 1
+Bvd: 1
+TerrSw: 1
+TerrGmk: 1
+TerrHol: 1
+TerBike: 1
+STKrake: 1
+RoLight: 1
+SndD301: 1
+CharE: 1
+WFF102: 1
+IslNusi: 1
+Utajima: 1
+SwDir: 1
+UtaMain: 1
+IslIns: 1
+NpcDoMo: 1
+NpcDoNi: 1
+NpcKnld: 1
+GuardLg: 1
+IslTery: 1
+PumpBar: 1
+IslBamb: 1
+City: 1
+BirdKB: 1
+BirdR: 1
+BirdKA: 1
+MgPmpkn: 1
+Fortune: 1
+Cannon: 1
+NpcDgJg: 1
+CannonC: 1
+NpcMoS: 1
+NpcBdsw: 1
+BirdZT: 1
+SeaF301: 1
+CityWtr: 1
+SnLight: 1
+NpcRvlL: 1
+BirdSta: 1
+TrpBrdW: 1
+NpcBird: 1
+DecoA: 1
+Vortex: 1
+PlCock: 1
+Spike: 1
+BDrD101: 1
+NpcMWNi: 1
+NpcMHNi: 1
+DstDbrs: 1
+Door200: 1
+NpcAzFa: 1
+NpcOkyu: 1
+GiraFot: 1
+LvPlt: 1
+ApBridg: 1
+Sandbag: 1
+NpcKb2N: 1
+NpcDskN: 1
+SndStn: 1
+BAsura: 1
+AsuraS: 1
+FWall: 1
+WarpH: 1
+EvilFld: 1
+ShriAft: 1
+F400Gat: 1
+BBbrg: 1
+NpcRvlR: 1
+BBigBos: 1, imprisoned
+BBigBo2: 1
+BBigBo3: 1
+DecoB: 1
+NpcAkum: 1
+
+DOOR:
+TstShtr: 86
+trlshut: 2
