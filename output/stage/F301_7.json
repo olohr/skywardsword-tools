@@ -288,12 +288,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 270,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Fi Text after Molderach 2's defeat (Shipyard Construction Bay layer 2)",
                                 "trigscenefid": 87,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0xB 80",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Fi Text after Molderach 2's defeat (Shipyard Construction Bay layer 2)"
                             }
                         },
                         {
@@ -311,12 +311,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 19,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 08"
+                                "untrigscenef": "scene flag: 0x3 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -508,9 +508,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -533,9 +533,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -600,12 +600,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 88,
                                 "untrigscenefid": 89,
                                 "trigscenef": "scene flag: 0xA 01",
-                                "untrigscenef": "scene flag: 0xA 02"
+                                "untrigscenef": "scene flag: 0xA 02",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -701,12 +701,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 88,
                                 "untrigscenefid": 89,
                                 "trigscenef": "scene flag: 0xA 01",
-                                "untrigscenef": "scene flag: 0xA 02"
+                                "untrigscenef": "scene flag: 0xA 02",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],

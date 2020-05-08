@@ -1147,12 +1147,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 106,
                                 "untrigscenefid": 107,
                                 "trigscenef": "scene flag: 0xC 04",
-                                "untrigscenef": "scene flag: 0xC 08"
+                                "untrigscenef": "scene flag: 0xC 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1170,12 +1170,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 56,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x6 01"
+                                "untrigscenef": "scene flag: 0x6 01",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -1406,9 +1406,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {

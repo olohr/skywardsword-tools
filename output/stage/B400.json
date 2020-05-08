@@ -271,12 +271,12 @@
                             "extra_info": {
                                 "trigstoryfid": 692,
                                 "untrigstoryfid": 783,
-                                "trigstoryf": "(not implemented yet -- 7771)",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "(not implemented yet -- 7771)",
+                                "untrigstoryf": ""
                             }
                         }
                     ],

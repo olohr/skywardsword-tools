@@ -2721,7 +2721,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 59",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 693,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -2737,7 +2747,17 @@
                             "angle": 0,
                             "talk_behaviour": 64181,
                             "unk3": "FC 5A",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 693,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": ""
+                            }
                         },
                         {
                             "unk1": "FF FF FF F0",
@@ -2945,7 +2965,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 67",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 117,
+                                "setscenef": "scene flag: 0xF 20",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 06",
@@ -3041,7 +3071,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC A3",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 695,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "F6 3F F6 A0",

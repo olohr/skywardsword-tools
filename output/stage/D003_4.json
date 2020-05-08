@@ -1432,7 +1432,17 @@
                             "angle": 0,
                             "talk_behaviour": 64181,
                             "unk3": "FC 39",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 693,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": ""
+                            }
                         },
                         {
                             "unk1": "FF FF FF C6",
@@ -1784,7 +1794,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 55",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 698,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },

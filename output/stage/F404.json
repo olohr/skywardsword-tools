@@ -1343,9 +1343,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]
@@ -1431,9 +1431,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 349,
                                 "untrigstoryfid": 350,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Past Impa Text before Zelda",
-                                "untrigstoryf": "True Master Sword Cutscene",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "True Master Sword Cutscene"
                             }
                         }
                     ]

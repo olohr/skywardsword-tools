@@ -8787,9 +8787,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -8812,9 +8812,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -8837,9 +8837,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -8862,9 +8862,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -8887,9 +8887,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -8912,9 +8912,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9193,9 +9193,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9314,9 +9314,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 372,
                                 "untrigstoryfid": 373,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Sets after Sprapper picked the Crystal Ball up",
-                                "untrigstoryf": "Sets before the Fortune Teller gives his Crystals",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Sets before the Fortune Teller gives his Crystals"
                             }
                         },
                         {
@@ -10357,7 +10357,17 @@
                             "angle": 64808,
                             "talk_behaviour": 65535,
                             "unk3": "FD 84",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 837,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -10411,9 +10421,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 643,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) "
                             }
                         },
                         {
@@ -10436,9 +10446,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -10461,9 +10471,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 643,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) "
                             }
                         },
                         {
@@ -10486,9 +10496,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -10575,9 +10585,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -10744,9 +10754,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 643,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) "
                             }
                         },
                         {
@@ -10769,9 +10779,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 642,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Spiral Charge Training Complete",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -10794,9 +10804,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 642,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Spiral Charge Training Complete",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -10819,9 +10829,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 642,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Spiral Charge Training Complete",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -10844,9 +10854,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -11492,12 +11502,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 37,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Horwell Z-target tutorial",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Horwell Z-target tutorial"
                             }
                         },
                         {
@@ -11515,12 +11525,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 27,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 08"
+                                "untrigscenef": "scene flag: 0x2 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -11935,12 +11945,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 197,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Box Cutscene during Remlit Quest",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Box Cutscene during Remlit Quest"
                             }
                         },
                         {
@@ -12022,12 +12032,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 770,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Start Remlit quest",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Start Remlit quest"
                             }
                         }
                     ],
@@ -12214,9 +12224,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 29,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)"
                             }
                         },
                         {
@@ -12239,9 +12249,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 23,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Zelda Cutscene",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Meeting Zelda Cutscene"
                             }
                         },
                         {
@@ -12258,7 +12268,17 @@
                             "angle": 53157,
                             "talk_behaviour": 65535,
                             "unk3": "FD EC",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 38,
+                                "setscenef": "scene flag: 0x5 40",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF F2 5F F0",
@@ -13748,12 +13768,12 @@
                             "extra_info": {
                                 "trigstoryfid": 40,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Set after landing in the circle after getting sailcloth",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 4,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x1 10"
+                                "untrigscenef": "scene flag: 0x1 10",
+                                "trigstoryf": "Set after landing in the circle after getting sailcloth",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -13847,12 +13867,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 41,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Wing Ceremony Cutscene Part 1",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Wing Ceremony Cutscene Part 1"
                             }
                         },
                         {
@@ -13889,12 +13909,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 3,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x1 08",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -14027,12 +14047,12 @@
                             "extra_info": {
                                 "trigstoryfid": 41,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Wing Ceremony Cutscene Part 1",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Wing Ceremony Cutscene Part 1",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -14413,9 +14433,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -14988,12 +15008,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 202,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Set after Fi text before going to sky for first time",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Set after Fi text before going to sky for first time"
                             }
                         },
                         {
@@ -15011,12 +15031,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 24,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Fi cutscene around Faron light pillar before landing for first time (also set by Sealed Grounds intro cutscene)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Fi cutscene around Faron light pillar before landing for first time (also set by Sealed Grounds intro cutscene)"
                             }
                         },
                         {
@@ -15053,12 +15073,12 @@
                             "extra_info": {
                                 "trigstoryfid": 47,
                                 "untrigstoryfid": 299,
-                                "trigstoryf": "Eldin light pillar",
-                                "untrigstoryf": "Wryna asks Link for help",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Eldin light pillar",
+                                "untrigstoryf": "Wryna asks Link for help"
                             }
                         },
                         {
@@ -15140,12 +15160,12 @@
                             "extra_info": {
                                 "trigstoryfid": 362,
                                 "untrigstoryfid": 363,
-                                "trigstoryf": "Talk to Professor Owlan inside Academy to locate Levias",
-                                "untrigstoryf": "Prof Owlan explains Spiral Charge on Skyloft",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Talk to Professor Owlan inside Academy to locate Levias",
+                                "untrigstoryf": "Prof Owlan explains Spiral Charge on Skyloft"
                             }
                         },
                         {
@@ -15272,12 +15292,12 @@
                             "extra_info": {
                                 "trigstoryfid": 641,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Spiral Charge Training Introductory Cutscene",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 77,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 20"
+                                "untrigscenef": "scene flag: 0x8 20",
+                                "trigstoryf": "Spiral Charge Training Introductory Cutscene",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -15295,12 +15315,12 @@
                             "extra_info": {
                                 "trigstoryfid": 643,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 77,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 20"
+                                "untrigscenef": "scene flag: 0x8 20",
+                                "trigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -15356,12 +15376,12 @@
                             "extra_info": {
                                 "trigstoryfid": 49,
                                 "untrigstoryfid": 322,
-                                "trigstoryf": "Talk to Headmaster to learn about Windmills",
-                                "untrigstoryf": "Learn about Scrapper near Village Windmill",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Talk to Headmaster to learn about Windmills",
+                                "untrigstoryf": "Learn about Scrapper near Village Windmill"
                             }
                         },
                         {
@@ -15624,12 +15644,12 @@
                             "extra_info": {
                                 "trigstoryfid": 209,
                                 "untrigstoryfid": 769,
-                                "trigstoryf": "Hylia's Trial Completed",
-                                "untrigstoryf": "Set after completing Hylia's Trial",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Hylia's Trial Completed",
+                                "untrigstoryf": "Set after completing Hylia's Trial"
                             }
                         },
                         {
@@ -15673,12 +15693,12 @@
                             "extra_info": {
                                 "trigstoryfid": 326,
                                 "untrigstoryfid": 838,
-                                "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                                "untrigstoryf": "CS of Parrow asking were his Sister is",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                                "untrigstoryf": "CS of Parrow asking were his Sister is"
                             }
                         },
                         {
@@ -15924,9 +15944,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 643,
                                 "untrigstoryfid": 642,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
-                                "untrigstoryf": "Spiral Charge Training Complete",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Spiral Charge Training Complete"
                             }
                         },
                         {
@@ -15959,7 +15979,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FE 00",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 8,
+                                "unsetscenef": "scene flag: 0x0 01",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF E1",
@@ -16361,12 +16391,12 @@
                             "extra_info": {
                                 "trigstoryfid": 361,
                                 "untrigstoryfid": 576,
-                                "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -16474,12 +16504,12 @@
                             "extra_info": {
                                 "trigstoryfid": 303,
                                 "untrigstoryfid": 301,
-                                "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
-                                "untrigstoryf": "Kukiel screams",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
+                                "untrigstoryf": "Kukiel screams"
                             }
                         },
                         {
@@ -17179,12 +17209,12 @@
                             "extra_info": {
                                 "trigstoryfid": 209,
                                 "untrigstoryfid": 769,
-                                "trigstoryf": "Hylia's Trial Completed",
-                                "untrigstoryf": "Set after completing Hylia's Trial",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Hylia's Trial Completed",
+                                "untrigstoryf": "Set after completing Hylia's Trial"
                             }
                         },
                         {
@@ -18339,12 +18369,12 @@
                             "extra_info": {
                                 "trigstoryfid": 47,
                                 "untrigstoryfid": 299,
-                                "trigstoryf": "Eldin light pillar",
-                                "untrigstoryf": "Wryna asks Link for help",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Eldin light pillar",
+                                "untrigstoryf": "Wryna asks Link for help"
                             }
                         },
                         {
@@ -18652,12 +18682,12 @@
                             "extra_info": {
                                 "trigstoryfid": 326,
                                 "untrigstoryfid": 838,
-                                "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                                "untrigstoryf": "CS of Parrow asking were his Sister is",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                                "untrigstoryf": "CS of Parrow asking were his Sister is"
                             }
                         },
                         {
@@ -18903,9 +18933,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 22,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Place Stone of Trials in Statue / Sky Keep appears (Also gives Stone of Trials in Inventory) (Skyloft layers 6&7)",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -19668,12 +19698,12 @@
                             "extra_info": {
                                 "trigstoryfid": 361,
                                 "untrigstoryfid": 576,
-                                "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -19781,12 +19811,12 @@
                             "extra_info": {
                                 "trigstoryfid": 303,
                                 "untrigstoryfid": 301,
-                                "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
-                                "untrigstoryf": "Kukiel screams",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
+                                "untrigstoryf": "Kukiel screams"
                             }
                         },
                         {
@@ -21185,12 +21215,12 @@
                             "extra_info": {
                                 "trigstoryfid": 47,
                                 "untrigstoryfid": 299,
-                                "trigstoryf": "Eldin light pillar",
-                                "untrigstoryf": "Wryna asks Link for help",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Eldin light pillar",
+                                "untrigstoryf": "Wryna asks Link for help"
                             }
                         },
                         {
@@ -21208,12 +21238,12 @@
                             "extra_info": {
                                 "trigstoryfid": 326,
                                 "untrigstoryfid": 838,
-                                "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                                "untrigstoryf": "CS of Parrow asking were his Sister is",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                                "untrigstoryf": "CS of Parrow asking were his Sister is"
                             }
                         },
                         {
@@ -21731,12 +21761,12 @@
                             "extra_info": {
                                 "trigstoryfid": 361,
                                 "untrigstoryfid": 576,
-                                "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -21844,12 +21874,12 @@
                             "extra_info": {
                                 "trigstoryfid": 303,
                                 "untrigstoryfid": 301,
-                                "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
-                                "untrigstoryf": "Kukiel screams",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
+                                "untrigstoryf": "Kukiel screams"
                             }
                         },
                         {
@@ -22409,12 +22439,12 @@
                             "extra_info": {
                                 "trigstoryfid": 29,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 54,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x7 40"
+                                "untrigscenef": "scene flag: 0x7 40",
+                                "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -22464,12 +22494,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 55,
                                 "untrigscenefid": 56,
                                 "trigscenef": "scene flag: 0x7 80",
-                                "untrigscenef": "scene flag: 0x6 01"
+                                "untrigscenef": "scene flag: 0x6 01",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -22525,12 +22555,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 26,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Zelda sees Loftwing in Prison",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Zelda sees Loftwing in Prison"
                             }
                         },
                         {
@@ -22548,12 +22578,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 25,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Zelda joins you before rescuing Loftwing",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Zelda joins you before rescuing Loftwing"
                             }
                         },
                         {
@@ -23188,9 +23218,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {

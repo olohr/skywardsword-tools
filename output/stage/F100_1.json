@@ -1785,9 +1785,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1810,9 +1810,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1835,9 +1835,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1860,9 +1860,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2494,7 +2494,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 73",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 67,
+                                "setscenef": "scene flag: 0x9 08",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },

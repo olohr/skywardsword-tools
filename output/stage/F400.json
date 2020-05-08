@@ -2256,12 +2256,12 @@
                             "extra_info": {
                                 "trigstoryfid": 422,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08"
+                                "untrigscenef": "temp flag: 0x1 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2279,12 +2279,12 @@
                             "extra_info": {
                                 "trigstoryfid": 423,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10"
+                                "untrigscenef": "temp flag: 0x1 10",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2302,12 +2302,12 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08"
+                                "untrigscenef": "temp flag: 0x0 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2325,12 +2325,12 @@
                             "extra_info": {
                                 "trigstoryfid": 425,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20"
+                                "untrigscenef": "temp flag: 0x1 20",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2348,12 +2348,12 @@
                             "extra_info": {
                                 "trigstoryfid": 426,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40"
+                                "untrigscenef": "temp flag: 0x1 40",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2371,12 +2371,12 @@
                             "extra_info": {
                                 "trigstoryfid": 423,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08"
+                                "untrigscenef": "temp flag: 0x1 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2394,12 +2394,12 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08"
+                                "untrigscenef": "temp flag: 0x1 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2417,12 +2417,12 @@
                             "extra_info": {
                                 "trigstoryfid": 425,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08"
+                                "untrigscenef": "temp flag: 0x1 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2440,12 +2440,12 @@
                             "extra_info": {
                                 "trigstoryfid": 426,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08"
+                                "untrigscenef": "temp flag: 0x1 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2463,12 +2463,12 @@
                             "extra_info": {
                                 "trigstoryfid": 422,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10"
+                                "untrigscenef": "temp flag: 0x1 10",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2486,12 +2486,12 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10"
+                                "untrigscenef": "temp flag: 0x1 10",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2509,12 +2509,12 @@
                             "extra_info": {
                                 "trigstoryfid": 425,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10"
+                                "untrigscenef": "temp flag: 0x1 10",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2532,12 +2532,12 @@
                             "extra_info": {
                                 "trigstoryfid": 426,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10"
+                                "untrigscenef": "temp flag: 0x1 10",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2555,12 +2555,12 @@
                             "extra_info": {
                                 "trigstoryfid": 422,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20"
+                                "untrigscenef": "temp flag: 0x1 20",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2578,12 +2578,12 @@
                             "extra_info": {
                                 "trigstoryfid": 423,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20"
+                                "untrigscenef": "temp flag: 0x1 20",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2601,12 +2601,12 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20"
+                                "untrigscenef": "temp flag: 0x1 20",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2624,12 +2624,12 @@
                             "extra_info": {
                                 "trigstoryfid": 426,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20"
+                                "untrigscenef": "temp flag: 0x1 20",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2647,12 +2647,12 @@
                             "extra_info": {
                                 "trigstoryfid": 422,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40"
+                                "untrigscenef": "temp flag: 0x1 40",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2670,12 +2670,12 @@
                             "extra_info": {
                                 "trigstoryfid": 423,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40"
+                                "untrigscenef": "temp flag: 0x1 40",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2693,12 +2693,12 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40"
+                                "untrigscenef": "temp flag: 0x1 40",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2716,12 +2716,12 @@
                             "extra_info": {
                                 "trigstoryfid": 425,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40"
+                                "untrigscenef": "temp flag: 0x1 40",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2739,12 +2739,12 @@
                             "extra_info": {
                                 "trigstoryfid": 422,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08"
+                                "untrigscenef": "temp flag: 0x0 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2762,12 +2762,12 @@
                             "extra_info": {
                                 "trigstoryfid": 423,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08"
+                                "untrigscenef": "temp flag: 0x0 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2785,12 +2785,12 @@
                             "extra_info": {
                                 "trigstoryfid": 425,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08"
+                                "untrigscenef": "temp flag: 0x0 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2808,12 +2808,12 @@
                             "extra_info": {
                                 "trigstoryfid": 426,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08"
+                                "untrigscenef": "temp flag: 0x0 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2831,12 +2831,12 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 427,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 112,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xF 01"
+                                "untrigscenef": "scene flag: 0xF 01",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2854,12 +2854,12 @@
                             "extra_info": {
                                 "trigstoryfid": 421,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08"
+                                "untrigscenef": "temp flag: 0x1 08",
+                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2877,12 +2877,12 @@
                             "extra_info": {
                                 "trigstoryfid": 421,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10"
+                                "untrigscenef": "temp flag: 0x1 10",
+                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2900,12 +2900,12 @@
                             "extra_info": {
                                 "trigstoryfid": 421,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20"
+                                "untrigscenef": "temp flag: 0x1 20",
+                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2923,12 +2923,12 @@
                             "extra_info": {
                                 "trigstoryfid": 421,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40"
+                                "untrigscenef": "temp flag: 0x1 40",
+                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2946,12 +2946,12 @@
                             "extra_info": {
                                 "trigstoryfid": 421,
                                 "untrigstoryfid": 491,
-                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08"
+                                "untrigscenef": "temp flag: 0x0 08",
+                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -2969,12 +2969,12 @@
                             "extra_info": {
                                 "trigstoryfid": 71,
                                 "untrigstoryfid": 121,
-                                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)"
                             }
                         },
                         {
@@ -3565,9 +3565,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 342,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)"
                             }
                         },
                         {
@@ -3600,7 +3600,17 @@
                             "angle": 2730,
                             "talk_behaviour": 65535,
                             "unk3": "FC 5E",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 22,
+                                "setscenef": "scene flag: 0x3 40",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -3638,9 +3648,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3679,9 +3689,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 342,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3968,12 +3978,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 14,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x0 40"
+                                "untrigscenef": "scene flag: 0x0 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4043,12 +4053,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 3,
                                 "untrigscenefid": 14,
                                 "trigscenef": "scene flag: 0x1 08",
-                                "untrigscenef": "scene flag: 0x0 40"
+                                "untrigscenef": "scene flag: 0x0 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4066,12 +4076,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 94,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 40"
+                                "untrigscenef": "scene flag: 0xA 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4344,12 +4354,12 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 15,
-                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "Beat Sandship (Sand Sea layer 3)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20"
+                                "untrigscenef": "scene flag: 0xA 20",
+                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
+                                "untrigstoryf": "Beat Sandship (Sand Sea layer 3)"
                             }
                         },
                         {
@@ -4386,12 +4396,12 @@
                             "extra_info": {
                                 "trigstoryfid": 9,
                                 "untrigstoryfid": 140,
-                                "trigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
-                                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
+                                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)"
                             }
                         },
                         {
@@ -4422,12 +4432,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 15,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Beat Sandship (Sand Sea layer 3)",
                                 "trigscenefid": 72,
                                 "untrigscenefid": 73,
                                 "trigscenef": "scene flag: 0x8 01",
-                                "untrigscenef": "scene flag: 0x8 02"
+                                "untrigscenef": "scene flag: 0x8 02",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Beat Sandship (Sand Sea layer 3)"
                             }
                         },
                         {
@@ -4445,12 +4455,12 @@
                             "extra_info": {
                                 "trigstoryfid": 131,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 66,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 04"
+                                "untrigscenef": "scene flag: 0x9 04",
+                                "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -4620,12 +4630,12 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20"
+                                "untrigscenef": "scene flag: 0xA 20",
+                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4749,12 +4759,12 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20"
+                                "untrigscenef": "scene flag: 0xA 20",
+                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4869,12 +4879,12 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20"
+                                "untrigscenef": "scene flag: 0xA 20",
+                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -4976,12 +4986,12 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20"
+                                "untrigscenef": "scene flag: 0xA 20",
+                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -5083,12 +5093,12 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20"
+                                "untrigscenef": "scene flag: 0xA 20",
+                                "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],

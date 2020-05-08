@@ -392,9 +392,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -417,9 +417,9 @@
                                 "flagid": 95,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 13,
+                                "areaflag": "scene flag: 0xA 80",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                                "areaflag": "scene flag: 0xA 80"
+                                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)"
                             }
                         }
                     ]

@@ -634,7 +634,8 @@
                             "unk3": "FC 1A",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 377
+                                "sleep_storyfid": 377,
+                                "sleep_storyf": "Set when accepting to clean Pipit House"
                             }
                         },
                         {
@@ -650,7 +651,8 @@
                             "unk3": "FC 1B",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 377
+                                "sleep_storyfid": 377,
+                                "sleep_storyf": "Set when accepting to clean Pipit House"
                             }
                         },
                         {
@@ -700,12 +702,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 192,
                                 "untrigscenefid": 255,
                                 "trigscenef": "loadzone temp flag: 0x9 01",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -866,12 +868,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 201,
                                 "untrigscenefid": 255,
                                 "trigscenef": "loadzone temp flag: 0x8 02",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -944,7 +946,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 2E",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 717,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "Pipit's House entered (name on map appears)",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 04 02",
@@ -1001,12 +1013,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 194,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0x9 04"
+                                "untrigscenef": "loadzone temp flag: 0x9 04",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         }
                     ]

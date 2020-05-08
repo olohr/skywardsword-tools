@@ -253,7 +253,8 @@
                             "unk3": "FC 00",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -340,7 +341,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 04",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 709,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "Enter Beedle's Shop for first time",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -521,9 +532,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -620,9 +631,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]

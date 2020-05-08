@@ -1417,7 +1417,8 @@
                             "unk3": "FC 35",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -1465,7 +1466,8 @@
                             "unk3": "FC 3A",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -1496,12 +1498,12 @@
                             "extra_info": {
                                 "trigstoryfid": 290,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "set after breaking chandelier in Lumpy pumkin",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 20,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 10"
+                                "untrigscenef": "scene flag: 0x3 10",
+                                "trigstoryf": "set after breaking chandelier in Lumpy pumkin",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1519,12 +1521,12 @@
                             "extra_info": {
                                 "trigstoryfid": 290,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "set after breaking chandelier in Lumpy pumkin",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 20,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 10"
+                                "untrigscenef": "scene flag: 0x3 10",
+                                "trigstoryf": "set after breaking chandelier in Lumpy pumkin",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1593,12 +1595,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 23,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 80"
+                                "untrigscenef": "scene flag: 0x3 80",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1616,12 +1618,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 23,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 80"
+                                "untrigscenef": "scene flag: 0x3 80",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1639,12 +1641,12 @@
                             "extra_info": {
                                 "trigstoryfid": 688,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Reloading somehow after Finishing Pumm's 3rd Quest (play harp with Kina) (activates the new chandelier CS)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 24,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 01"
+                                "untrigscenef": "scene flag: 0x2 01",
+                                "trigstoryf": "Reloading somehow after Finishing Pumm's 3rd Quest (play harp with Kina) (activates the new chandelier CS)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1662,12 +1664,12 @@
                             "extra_info": {
                                 "trigstoryfid": 688,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Reloading somehow after Finishing Pumm's 3rd Quest (play harp with Kina) (activates the new chandelier CS)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 24,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 01"
+                                "untrigscenef": "scene flag: 0x2 01",
+                                "trigstoryf": "Reloading somehow after Finishing Pumm's 3rd Quest (play harp with Kina) (activates the new chandelier CS)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1800,7 +1802,17 @@
                             "angle": 5825,
                             "talk_behaviour": 65535,
                             "unk3": "FC 4C",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 725,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "Set when going near Beds in the Lumpy Pumkin / unsets upon leaving",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -1816,7 +1828,17 @@
                             "angle": 6007,
                             "talk_behaviour": 64213,
                             "unk3": "FC 4D",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 725,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set when going near Beds in the Lumpy Pumkin / unsets upon leaving"
+                            }
                         },
                         {
                             "unk1": "FF FF 04 02",

@@ -2855,12 +2855,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 110,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Goddess Cube Dowsing",
                                 "trigscenefid": 192,
                                 "untrigscenefid": 255,
                                 "trigscenef": "loadzone temp flag: 0x9 01",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Goddess Cube Dowsing"
                             }
                         },
                         {
@@ -3200,7 +3200,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 1A",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 253,
+                                "setscenef": "loadzone temp flag: 0xE 20",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FE BF C2",
@@ -3232,7 +3242,17 @@
                             "angle": 62078,
                             "talk_behaviour": 65535,
                             "unk3": "FC 1C",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 250,
+                                "setscenef": "loadzone temp flag: 0xE 04",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF F0",
@@ -3355,12 +3375,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 121,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xE 02"
+                                "untrigscenef": "scene flag: 0xE 02",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -3478,12 +3498,12 @@
                             "extra_info": {
                                 "trigstoryfid": 73,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Learn Din's Power",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 38,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 40"
+                                "untrigscenef": "scene flag: 0x5 40",
+                                "trigstoryf": "Learn Din's Power",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -3632,12 +3652,12 @@
                             "extra_info": {
                                 "trigstoryfid": 186,
                                 "untrigstoryfid": 744,
-                                "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
-                                "untrigstoryf": "Scrapper text at start of scrapper escort",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
+                                "untrigstoryf": "Scrapper text at start of scrapper escort"
                             }
                         },
                         {
@@ -4549,7 +4569,17 @@
                             "angle": 61896,
                             "talk_behaviour": 65535,
                             "unk3": "04 1F",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 193,
+                                "setscenef": "loadzone temp flag: 0x9 02",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 03",
@@ -4677,7 +4707,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "04 2E",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 193,
+                                "setscenef": "loadzone temp flag: 0x9 02",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C0",
@@ -8226,7 +8266,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "14 60",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 192,
+                                "setscenef": "loadzone temp flag: 0x9 01",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "01 C0 FF 02",
@@ -8280,9 +8330,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -8299,7 +8349,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "0C 64",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 174,
+                                "unsetscenef": "temp flag: 0x4 40",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF AF FF",
@@ -8315,7 +8375,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "08 65",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 175,
+                                "unsetscenef": "temp flag: 0x4 80",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF AE FF 03",
@@ -8657,9 +8727,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -8842,9 +8912,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -8893,7 +8963,17 @@
                             "angle": 4369,
                             "talk_behaviour": 65535,
                             "unk3": "FC A0",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 252,
+                                "setscenef": "loadzone temp flag: 0xE 10",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FE FF C2",
@@ -8925,7 +9005,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC A2",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 251,
+                                "setscenef": "loadzone temp flag: 0xE 08",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C4",
@@ -9344,12 +9434,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 46,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 40"
+                                "untrigscenef": "scene flag: 0x4 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9450,12 +9540,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 66,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 04"
+                                "untrigscenef": "scene flag: 0x9 04",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9625,7 +9715,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "08 CA",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 32,
+                                "setscenef": "scene flag: 0x5 01",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "F0 46 CB B0",
@@ -9913,7 +10013,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC DC",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 200,
+                                "setscenef": "loadzone temp flag: 0x8 01",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FA FF 73",
@@ -9961,7 +10071,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC DF",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 115,
+                                "setscenef": "scene flag: 0xF 08",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C4",
@@ -10009,7 +10129,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC E2",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1080,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -10025,7 +10155,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC E3",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1100,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FE FF FF",
@@ -10041,7 +10181,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC E4",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1077,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -10302,12 +10452,12 @@
                             "extra_info": {
                                 "trigstoryfid": 207,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Eldin Trial Completed (removes fi trigger in front of Volcano Summit)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 78,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 40"
+                                "untrigscenef": "scene flag: 0x8 40",
+                                "trigstoryf": "Eldin Trial Completed (removes fi trigger in front of Volcano Summit)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -10395,7 +10545,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC C2",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 200,
+                                "setscenef": "loadzone temp flag: 0x8 01",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -11031,7 +11191,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC D3",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 199,
+                                "unsetscenef": "loadzone temp flag: 0x9 80",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF C7 FF",
@@ -11047,7 +11217,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC D4",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 199,
+                                "unsetscenef": "loadzone temp flag: 0x9 80",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF C7 FF",
@@ -11063,7 +11243,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC D5",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 199,
+                                "unsetscenef": "loadzone temp flag: 0x9 80",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF C7 FF",
@@ -11079,7 +11269,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC D6",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 199,
+                                "unsetscenef": "loadzone temp flag: 0x9 80",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C8",
@@ -11095,7 +11295,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC D7",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 200,
+                                "setscenef": "loadzone temp flag: 0x8 01",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C3",
@@ -15053,9 +15263,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -15110,9 +15320,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -15439,9 +15649,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -15586,7 +15796,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 74",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 194,
+                                "setscenef": "loadzone temp flag: 0x9 04",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF BF C3",
@@ -15618,7 +15838,17 @@
                             "angle": 6371,
                             "talk_behaviour": 65535,
                             "unk3": "FC 76",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 254,
+                                "setscenef": "loadzone temp flag: 0xE 40",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C2",
@@ -15988,12 +16218,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 47,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 80"
+                                "untrigscenef": "scene flag: 0x4 80",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -16011,12 +16241,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 47,
                                 "untrigscenefid": 48,
                                 "trigscenef": "scene flag: 0x4 80",
-                                "untrigscenef": "scene flag: 0x7 01"
+                                "untrigscenef": "scene flag: 0x7 01",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -16403,7 +16633,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC A8",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 118,
+                                "setscenef": "scene flag: 0xF 40",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -16419,7 +16659,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC A9",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1076,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "F0 C2 0A B0",
@@ -16685,12 +16935,12 @@
                             "extra_info": {
                                 "trigstoryfid": 73,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Learn Din's Power",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 38,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 40"
+                                "untrigscenef": "scene flag: 0x5 40",
+                                "trigstoryf": "Learn Din's Power",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -17294,12 +17544,12 @@
                             "extra_info": {
                                 "trigstoryfid": 19,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Fire Dragon Text after SotH part Cutscene (Eldin Volcano, Digging Mitts Cave, Volcano Summit Waterfall layer 4)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 62,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x6 40"
+                                "untrigscenef": "scene flag: 0x6 40",
+                                "trigstoryf": "Fire Dragon Text after SotH part Cutscene (Eldin Volcano, Digging Mitts Cave, Volcano Summit Waterfall layer 4)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -18650,12 +18900,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 207,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Eldin Trial Completed (removes fi trigger in front of Volcano Summit)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Eldin Trial Completed (removes fi trigger in front of Volcano Summit)"
                             }
                         },
                         {
@@ -18816,7 +19066,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "28 0F",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 192,
+                                "unsetscenef": "loadzone temp flag: 0x9 01",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C3",
@@ -19014,9 +19274,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 562,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Volcano Summit Introductory Cutscene",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Volcano Summit Introductory Cutscene"
                             }
                         },
                         {
@@ -19039,9 +19299,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 562,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Volcano Summit Introductory Cutscene",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -19355,12 +19615,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 101,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xD 20"
+                                "untrigscenef": "scene flag: 0xD 20",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -19455,7 +19715,17 @@
                             "angle": 4551,
                             "talk_behaviour": 65535,
                             "unk3": "FC 38",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1078,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -19471,7 +19741,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 39",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1079,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -20904,7 +21184,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 08",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 171,
+                                "setscenef": "temp flag: 0x4 08",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },

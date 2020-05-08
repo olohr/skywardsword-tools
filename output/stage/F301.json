@@ -608,12 +608,12 @@
                             "extra_info": {
                                 "trigstoryfid": 583,
                                 "untrigstoryfid": 815,
-                                "trigstoryf": "Set when beating Sandship (Unlocks 4 new dowsing slots)",
-                                "untrigstoryf": "Skipper's text after beating Sandship",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Set when beating Sandship (Unlocks 4 new dowsing slots)",
+                                "untrigstoryf": "Skipper's text after beating Sandship"
                             }
                         },
                         {
@@ -1414,9 +1414,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1449,7 +1449,17 @@
                             "angle": 63716,
                             "talk_behaviour": 65535,
                             "unk3": "FC 3B",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 143,
+                                "setscenef": "temp flag: 0x0 80",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 8A",
@@ -1513,7 +1523,17 @@
                             "angle": 0,
                             "talk_behaviour": 63642,
                             "unk3": "FC 47",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 154,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": ""
+                            }
                         },
                         {
                             "unk1": "FF FF FF 63",

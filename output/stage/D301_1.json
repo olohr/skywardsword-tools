@@ -858,12 +858,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 79,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 80"
+                                "untrigscenef": "scene flag: 0x8 80",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -881,12 +881,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 48,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x7 01"
+                                "untrigscenef": "scene flag: 0x7 01",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1189,7 +1189,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 2F",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 666,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "Sandship escape sequence starts when entering boss",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "1E FE 0C FF",
@@ -1253,7 +1263,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 33",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 202,
+                                "setscenef": "loadzone temp flag: 0x8 04",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C6",
@@ -1285,7 +1305,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 35",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 212,
+                                "setscenef": "loadzone temp flag: 0xB 10",
+                                "unsetscenefid": 213,
+                                "unsetscenef": "loadzone temp flag: 0xB 20",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "8A 04 1A D5",
@@ -1317,7 +1347,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 37",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 213,
+                                "setscenef": "loadzone temp flag: 0xB 20",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -1342,7 +1382,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 3A",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 138,
+                                "setscenef": "temp flag: 0x0 04",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 00",
@@ -1364,9 +1414,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]

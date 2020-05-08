@@ -361,9 +361,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -406,9 +406,9 @@
                                 "flagid": 86,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 582,
+                                "areaflag": "scene flag: 0xB 40",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Set when beating Ancient Cistern",
-                                "areaflag": "scene flag: 0xB 40"
+                                "untrigstoryf": "Set when beating Ancient Cistern"
                             }
                         },
                         {
@@ -474,12 +474,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 87,
                                 "untrigscenefid": 88,
                                 "trigscenef": "scene flag: 0xB 80",
-                                "untrigscenef": "scene flag: 0xA 01"
+                                "untrigscenef": "scene flag: 0xA 01",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         }
                     ]

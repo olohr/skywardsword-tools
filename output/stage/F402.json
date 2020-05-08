@@ -2999,12 +2999,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Impa cutscene",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Meeting Impa cutscene"
                             }
                         },
                         {
@@ -3042,9 +3042,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Impa cutscene",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Meeting Impa cutscene"
                             }
                         },
                         {
@@ -3067,9 +3067,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Impa cutscene",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Meeting Impa cutscene"
                             }
                         },
                         {
@@ -3092,9 +3092,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Impa cutscene",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Meeting Impa cutscene"
                             }
                         },
                         {
@@ -3165,9 +3165,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Impa cutscene",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Meeting Impa cutscene"
                             }
                         }
                     ]
@@ -3256,12 +3256,12 @@
                             "extra_info": {
                                 "trigstoryfid": 340,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Gate of Time raised",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 107,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xC 08"
+                                "untrigscenef": "scene flag: 0xC 08",
+                                "trigstoryf": "Gate of Time raised",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3311,12 +3311,12 @@
                             "extra_info": {
                                 "trigstoryfid": 149,
                                 "untrigstoryfid": 142,
-                                "trigstoryf": "Post Imp 1 defeat cutscene",
-                                "untrigstoryf": "Talk to Headmaster to learn about Windmills",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Post Imp 1 defeat cutscene",
+                                "untrigstoryf": "Talk to Headmaster to learn about Windmills"
                             }
                         },
                         {
@@ -3334,12 +3334,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 141,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)",
                                 "trigscenefid": 21,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x3 20",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)"
                             }
                         },
                         {
@@ -3357,12 +3357,12 @@
                             "extra_info": {
                                 "trigstoryfid": 140,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 28,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 10"
+                                "untrigscenef": "scene flag: 0x2 10",
+                                "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3406,12 +3406,12 @@
                             "extra_info": {
                                 "trigstoryfid": 140,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 28,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 10"
+                                "untrigscenef": "scene flag: 0x2 10",
+                                "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3596,12 +3596,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 30,
                                 "untrigscenefid": 57,
                                 "trigscenef": "scene flag: 0x2 40",
-                                "untrigscenef": "scene flag: 0x6 02"
+                                "untrigscenef": "scene flag: 0x6 02",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3619,12 +3619,12 @@
                             "extra_info": {
                                 "trigstoryfid": 13,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 80,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xB 01"
+                                "untrigscenef": "scene flag: 0xB 01",
+                                "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3700,12 +3700,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 795,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Imp 1 defeat related",
                                 "trigscenefid": 30,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x2 40",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Imp 1 defeat related"
                             }
                         }
                     ]
@@ -3814,12 +3814,12 @@
                             "extra_info": {
                                 "trigstoryfid": 132,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 70,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 40"
+                                "untrigscenef": "scene flag: 0x9 40",
+                                "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3837,12 +3837,12 @@
                             "extra_info": {
                                 "trigstoryfid": 132,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 70,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 40"
+                                "untrigscenef": "scene flag: 0x9 40",
+                                "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3879,12 +3879,12 @@
                             "extra_info": {
                                 "trigstoryfid": 350,
                                 "untrigstoryfid": 146,
-                                "trigstoryf": "True Master Sword Cutscene",
-                                "untrigstoryf": "Cutscene going back through the Gate of Time in Sealed Temple",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "True Master Sword Cutscene",
+                                "untrigstoryf": "Cutscene going back through the Gate of Time in Sealed Temple"
                             }
                         },
                         {
@@ -3967,9 +3967,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 341,
                                 "untrigstoryfid": 344,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)",
-                                "untrigstoryf": "Gate of Time opening cutscene",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Gate of Time opening cutscene"
                             }
                         }
                     ]
@@ -4079,12 +4079,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 794,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
                                 "trigscenefid": 37,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x5 20",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle"
                             }
                         },
                         {
@@ -4121,12 +4121,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 794,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
                                 "trigscenefid": 38,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x5 40",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle"
                             }
                         }
                     ]
@@ -4200,12 +4200,12 @@
                             "extra_info": {
                                 "trigstoryfid": 133,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 71,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 80"
+                                "untrigscenef": "scene flag: 0x9 80",
+                                "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4223,12 +4223,12 @@
                             "extra_info": {
                                 "trigstoryfid": 133,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 71,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 80"
+                                "untrigscenef": "scene flag: 0x9 80",
+                                "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4323,12 +4323,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 794,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
                                 "trigscenefid": 37,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x5 20",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle"
                             }
                         },
                         {
@@ -4365,12 +4365,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 794,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
                                 "trigscenefid": 38,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x5 40",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle"
                             }
                         },
                         {

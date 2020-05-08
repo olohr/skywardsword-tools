@@ -2100,12 +2100,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 192,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0x9 01"
+                                "untrigscenef": "loadzone temp flag: 0x9 01",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2540,7 +2540,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 56",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 148,
+                                "setscenef": "temp flag: 0x3 10",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C4",
@@ -3880,7 +3890,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 09",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 192,
+                                "unsetscenef": "loadzone temp flag: 0x9 01",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },

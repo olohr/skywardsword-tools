@@ -2753,12 +2753,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 4,
                                 "untrigscenefid": 5,
                                 "trigscenef": "scene flag: 0x1 10",
-                                "untrigscenef": "scene flag: 0x1 20"
+                                "untrigscenef": "scene flag: 0x1 20",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2776,12 +2776,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 34,
                                 "untrigscenefid": 35,
                                 "trigscenef": "scene flag: 0x5 04",
-                                "untrigscenef": "scene flag: 0x5 08"
+                                "untrigscenef": "scene flag: 0x5 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3246,12 +3246,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 115,
                                 "untrigscenefid": 28,
                                 "trigscenef": "scene flag: 0xF 08",
-                                "untrigscenef": "scene flag: 0x2 10"
+                                "untrigscenef": "scene flag: 0x2 10",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3288,12 +3288,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 85,
                                 "untrigscenefid": 54,
                                 "trigscenef": "scene flag: 0xB 20",
-                                "untrigscenef": "scene flag: 0x7 40"
+                                "untrigscenef": "scene flag: 0x7 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3953,12 +3953,12 @@
                             "extra_info": {
                                 "trigstoryfid": 72,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Learn Nayru's Wisdom",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 74,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 04"
+                                "untrigscenef": "scene flag: 0x8 04",
+                                "trigstoryf": "Learn Nayru's Wisdom",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4523,12 +4523,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 85,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xB 20"
+                                "untrigscenef": "scene flag: 0xB 20",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4572,12 +4572,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 104,
                                 "untrigscenefid": 105,
                                 "trigscenef": "scene flag: 0xC 01",
-                                "untrigscenef": "scene flag: 0xC 02"
+                                "untrigscenef": "scene flag: 0xC 02",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4667,12 +4667,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 106,
                                 "untrigscenefid": 107,
                                 "trigscenef": "scene flag: 0xC 04",
-                                "untrigscenef": "scene flag: 0xC 08"
+                                "untrigscenef": "scene flag: 0xC 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4690,12 +4690,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 112,
                                 "untrigscenefid": 127,
                                 "trigscenef": "scene flag: 0xF 01",
-                                "untrigscenef": "scene flag: 0xE 80"
+                                "untrigscenef": "scene flag: 0xE 80",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6830,9 +6830,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6871,9 +6871,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6896,9 +6896,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6921,9 +6921,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6946,9 +6946,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6971,9 +6971,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 211,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "LMF Introductory Cutscene (The loading zone to LMF now exists AND the opened Lanayru Gate of Time now appears in the Harp Cutscene)",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -7172,9 +7172,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -7511,7 +7511,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FD 70",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1084,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -7527,7 +7537,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FD 71",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1198,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -7543,7 +7563,17 @@
                             "angle": 10922,
                             "talk_behaviour": 65535,
                             "unk3": "FD 72",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1199,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -7559,7 +7589,17 @@
                             "angle": 5461,
                             "talk_behaviour": 65535,
                             "unk3": "FD 73",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1196,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 83",
@@ -7623,7 +7663,17 @@
                             "angle": 8192,
                             "talk_behaviour": 65535,
                             "unk3": "FD 77",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1199,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -7639,7 +7689,17 @@
                             "angle": 10922,
                             "talk_behaviour": 65535,
                             "unk3": "FD 78",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1121,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "F1 01 FF FF",
@@ -10298,12 +10358,12 @@
                             "extra_info": {
                                 "trigstoryfid": 208,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Lanayru Trial Completed (Lanayru Caves layer 1)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 86,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xB 40"
+                                "untrigscenef": "scene flag: 0xB 40",
+                                "trigstoryf": "Lanayru Trial Completed (Lanayru Caves layer 1)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {

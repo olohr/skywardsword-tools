@@ -1958,7 +1958,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 56",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 127,
+                                "setscenef": "scene flag: 0xE 80",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 7E",
@@ -1974,7 +1984,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 57",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 126,
+                                "setscenef": "scene flag: 0xE 40",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 7D",
@@ -1990,7 +2010,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 58",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 125,
+                                "setscenef": "scene flag: 0xE 20",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C4",
@@ -2134,7 +2164,17 @@
                             "angle": 0,
                             "talk_behaviour": 64181,
                             "unk3": "FC 69",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 693,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": ""
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -2150,7 +2190,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 6A",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 699,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ],
                     "SNDT": [

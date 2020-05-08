@@ -2855,12 +2855,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 35,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 08"
+                                "untrigscenef": "scene flag: 0x5 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3748,9 +3748,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3789,9 +3789,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3904,7 +3904,17 @@
                             "angle": 7281,
                             "talk_behaviour": 65535,
                             "unk3": "FC A5",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 146,
+                                "setscenef": "temp flag: 0x3 04",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C4",
@@ -4463,12 +4473,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 781,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Levias explains SotH quest",
                                 "trigscenefid": 37,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x5 20",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Levias explains SotH quest"
                             }
                         },
                         {
@@ -4803,12 +4813,12 @@
                             "extra_info": {
                                 "trigstoryfid": 369,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Learn Song of the Hero (Waterfall Cave layer 1)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 34,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 04"
+                                "untrigscenef": "scene flag: 0x5 04",
+                                "trigstoryf": "Learn Song of the Hero (Waterfall Cave layer 1)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {

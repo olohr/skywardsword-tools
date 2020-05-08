@@ -377,12 +377,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 199,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Sword Instructor talks to Link before he attempts to leave the Sparring Hall",
                                 "trigscenefid": 2,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x1 04",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Sword Instructor talks to Link before he attempts to leave the Sparring Hall"
                             }
                         },
                         {

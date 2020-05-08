@@ -1955,12 +1955,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 4,
                                 "untrigscenefid": 5,
                                 "trigscenef": "scene flag: 0x1 10",
-                                "untrigscenef": "scene flag: 0x1 20"
+                                "untrigscenef": "scene flag: 0x1 20",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1978,12 +1978,12 @@
                             "extra_info": {
                                 "trigstoryfid": 72,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Learn Nayru's Wisdom",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 74,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 04"
+                                "untrigscenef": "scene flag: 0x8 04",
+                                "trigstoryf": "Learn Nayru's Wisdom",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2969,9 +2969,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3589,12 +3589,12 @@
                             "extra_info": {
                                 "trigstoryfid": 200,
                                 "untrigstoryfid": 830,
-                                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                                "untrigstoryf": "Goron Text about Lanayru SotH",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 75,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 08"
+                                "untrigscenef": "scene flag: 0x8 08",
+                                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                                "untrigstoryf": "Goron Text about Lanayru SotH"
                             }
                         },
                         {
@@ -3612,12 +3612,12 @@
                             "extra_info": {
                                 "trigstoryfid": 200,
                                 "untrigstoryfid": 831,
-                                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                                "untrigstoryf": "Goron Text about Thunder Dragon",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 76,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 10"
+                                "untrigscenef": "scene flag: 0x8 10",
+                                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                                "untrigstoryf": "Goron Text about Thunder Dragon"
                             }
                         },
                         {
@@ -4569,12 +4569,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 4,
                                 "untrigscenefid": 5,
                                 "trigscenef": "scene flag: 0x1 10",
-                                "untrigscenef": "scene flag: 0x1 20"
+                                "untrigscenef": "scene flag: 0x1 20",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6078,12 +6078,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 4,
                                 "untrigscenefid": 5,
                                 "trigscenef": "scene flag: 0x1 10",
-                                "untrigscenef": "scene flag: 0x1 20"
+                                "untrigscenef": "scene flag: 0x1 20",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -7179,9 +7179,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -7294,7 +7294,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 70",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1099,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF CF FF 02",

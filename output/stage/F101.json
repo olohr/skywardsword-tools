@@ -4093,9 +4093,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4118,9 +4118,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5030,12 +5030,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 27,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 08"
+                                "untrigscenef": "scene flag: 0x2 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5170,12 +5170,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 34,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 04"
+                                "untrigscenef": "scene flag: 0x5 04",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5193,12 +5193,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 227,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)"
                             }
                         },
                         {
@@ -5216,12 +5216,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 227,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)"
                             }
                         },
                         {
@@ -5239,12 +5239,12 @@
                             "extra_info": {
                                 "trigstoryfid": 227,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 35,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 08"
+                                "untrigscenef": "scene flag: 0x5 08",
+                                "trigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5281,12 +5281,12 @@
                             "extra_info": {
                                 "trigstoryfid": 91,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Deep Woods Introductory cutscene",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 48,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x7 01"
+                                "untrigscenef": "scene flag: 0x7 01",
+                                "trigstoryf": "Deep Woods Introductory cutscene",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -5415,7 +5415,17 @@
                             "angle": 57344,
                             "talk_behaviour": 65535,
                             "unk3": "FD 10",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 47,
+                                "setscenef": "scene flag: 0x4 80",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -5635,12 +5645,12 @@
                             "extra_info": {
                                 "trigstoryfid": 5,
                                 "untrigstoryfid": 69,
-                                "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
-                                "untrigstoryf": "Machi Cutscene after Skyview",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
+                                "untrigstoryf": "Machi Cutscene after Skyview"
                             }
                         },
                         {
@@ -5908,12 +5918,12 @@
                             "extra_info": {
                                 "trigstoryfid": 71,
                                 "untrigstoryfid": 121,
-                                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)"
                             }
                         }
                     ],

@@ -2395,12 +2395,12 @@
                             "extra_info": {
                                 "trigstoryfid": 71,
                                 "untrigstoryfid": 121,
-                                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)"
                             }
                         },
                         {
@@ -4230,9 +4230,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4482,12 +4482,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 789,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])"
                             }
                         },
                         {
@@ -4589,12 +4589,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 789,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])"
                             }
                         },
                         {
@@ -4612,12 +4612,12 @@
                             "extra_info": {
                                 "trigstoryfid": 138,
                                 "untrigstoryfid": 789,
-                                "trigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)",
-                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 54,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x7 40"
+                                "untrigscenef": "scene flag: 0x7 40",
+                                "trigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)",
+                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])"
                             }
                         },
                         {
@@ -4635,12 +4635,12 @@
                             "extra_info": {
                                 "trigstoryfid": 789,
                                 "untrigstoryfid": 797,
-                                "trigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])",
-                                "untrigstoryf": "Set after Fi text after skyward striking imp spike first time",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])",
+                                "untrigstoryf": "Set after Fi text after skyward striking imp spike first time"
                             }
                         }
                     ],
@@ -4713,9 +4713,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 138,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)"
                             }
                         },
                         {
@@ -4738,9 +4738,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 138,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)"
                             }
                         },
                         {
@@ -4837,7 +4837,17 @@
                             "angle": 0,
                             "talk_behaviour": 64279,
                             "unk3": "FC A3",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 791,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -4853,7 +4863,17 @@
                             "angle": 0,
                             "talk_behaviour": 64279,
                             "unk3": "FC A4",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 791,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -4869,7 +4889,17 @@
                             "angle": 8192,
                             "talk_behaviour": 64279,
                             "unk3": "FC A5",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 791,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -4885,7 +4915,17 @@
                             "angle": 57344,
                             "talk_behaviour": 64279,
                             "unk3": "FC A6",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 791,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -4901,7 +4941,17 @@
                             "angle": 16384,
                             "talk_behaviour": 64279,
                             "unk3": "FC A7",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 791,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -4917,7 +4967,17 @@
                             "angle": 57344,
                             "talk_behaviour": 64279,
                             "unk3": "FC A8",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 791,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -4933,7 +4993,17 @@
                             "angle": 8192,
                             "talk_behaviour": 64279,
                             "unk3": "FC A9",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 791,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -4949,7 +5019,17 @@
                             "angle": 16384,
                             "talk_behaviour": 64279,
                             "unk3": "FC AA",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 791,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF 01 FF 02",
@@ -4971,9 +5051,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 138,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)"
                             }
                         },
                         {
@@ -4990,7 +5070,17 @@
                             "angle": 0,
                             "talk_behaviour": 64278,
                             "unk3": "FC AC",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 790,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 54,
+                                "unsetscenef": "scene flag: 0x7 40",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF 36 FF",
@@ -5006,7 +5096,17 @@
                             "angle": 0,
                             "talk_behaviour": 64278,
                             "unk3": "FC AD",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 790,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 54,
+                                "unsetscenef": "scene flag: 0x7 40",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF 36 FF",
@@ -5022,7 +5122,17 @@
                             "angle": 8192,
                             "talk_behaviour": 64278,
                             "unk3": "FC AE",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 790,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 54,
+                                "unsetscenef": "scene flag: 0x7 40",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF 36 FF",
@@ -5038,7 +5148,17 @@
                             "angle": 57344,
                             "talk_behaviour": 64278,
                             "unk3": "FC AF",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 790,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 54,
+                                "unsetscenef": "scene flag: 0x7 40",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF 36 FF",
@@ -5054,7 +5174,17 @@
                             "angle": 16384,
                             "talk_behaviour": 64278,
                             "unk3": "FC B0",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 790,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 54,
+                                "unsetscenef": "scene flag: 0x7 40",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF 36 FF",
@@ -5070,7 +5200,17 @@
                             "angle": 57344,
                             "talk_behaviour": 64278,
                             "unk3": "FC B1",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 790,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 54,
+                                "unsetscenef": "scene flag: 0x7 40",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF 36 FF",
@@ -5086,7 +5226,17 @@
                             "angle": 8192,
                             "talk_behaviour": 64278,
                             "unk3": "FC B2",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 790,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 54,
+                                "unsetscenef": "scene flag: 0x7 40",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "FF FF 36 FF",
@@ -5102,7 +5252,17 @@
                             "angle": 16384,
                             "talk_behaviour": 64278,
                             "unk3": "FC B3",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 790,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 54,
+                                "unsetscenef": "scene flag: 0x7 40",
+                                "setstoryf": "-",
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "89 4A FF CF",
@@ -5134,7 +5294,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC B5",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 207,
+                                "setscenef": "loadzone temp flag: 0x8 80",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },
@@ -5268,12 +5438,12 @@
                             "extra_info": {
                                 "trigstoryfid": 136,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5291,12 +5461,12 @@
                             "extra_info": {
                                 "trigstoryfid": 136,
                                 "untrigstoryfid": 131,
-                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
+                                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)"
                             }
                         },
                         {
@@ -5314,12 +5484,12 @@
                             "extra_info": {
                                 "trigstoryfid": 141,
                                 "untrigstoryfid": 143,
-                                "trigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)",
-                                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)",
+                                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)"
                             }
                         },
                         {
@@ -5369,12 +5539,12 @@
                             "extra_info": {
                                 "trigstoryfid": 143,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 45,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 20"
+                                "untrigscenef": "scene flag: 0x4 20",
+                                "trigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5449,12 +5619,12 @@
                             "extra_info": {
                                 "trigstoryfid": 141,
                                 "untrigstoryfid": 143,
-                                "trigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)",
-                                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)",
+                                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)"
                             }
                         },
                         {
@@ -5491,12 +5661,12 @@
                             "extra_info": {
                                 "trigstoryfid": 786,
                                 "untrigstoryfid": 778,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         }
                     ],
@@ -5653,12 +5823,12 @@
                             "extra_info": {
                                 "trigstoryfid": 136,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5676,12 +5846,12 @@
                             "extra_info": {
                                 "trigstoryfid": 144,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp 2 fight triggered (set when Groose opens door inside temple)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 46,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 40"
+                                "untrigscenef": "scene flag: 0x4 40",
+                                "trigstoryf": "Imp 2 fight triggered (set when Groose opens door inside temple)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5731,12 +5901,12 @@
                             "extra_info": {
                                 "trigstoryfid": 136,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5754,12 +5924,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 81,
                                 "untrigscenefid": 91,
                                 "trigscenef": "scene flag: 0xB 02",
-                                "untrigscenef": "scene flag: 0xA 08"
+                                "untrigscenef": "scene flag: 0xA 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5777,12 +5947,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 81,
                                 "untrigscenefid": 91,
                                 "trigscenef": "scene flag: 0xB 02",
-                                "untrigscenef": "scene flag: 0xA 08"
+                                "untrigscenef": "scene flag: 0xA 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5865,12 +6035,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 81,
                                 "untrigscenefid": 91,
                                 "trigscenef": "scene flag: 0xB 02",
-                                "untrigscenef": "scene flag: 0xA 08"
+                                "untrigscenef": "scene flag: 0xA 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5888,12 +6058,12 @@
                             "extra_info": {
                                 "trigstoryfid": 786,
                                 "untrigstoryfid": 779,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         }
                     ],
@@ -6005,12 +6175,12 @@
                             "extra_info": {
                                 "trigstoryfid": 786,
                                 "untrigstoryfid": 780,
-                                "trigstoryf": "",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -6028,12 +6198,12 @@
                             "extra_info": {
                                 "trigstoryfid": 136,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6051,12 +6221,12 @@
                             "extra_info": {
                                 "trigstoryfid": 136,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6074,12 +6244,12 @@
                             "extra_info": {
                                 "trigstoryfid": 145,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 47,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 80"
+                                "untrigscenef": "scene flag: 0x4 80",
+                                "trigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6129,12 +6299,12 @@
                             "extra_info": {
                                 "trigstoryfid": 200,
                                 "untrigstoryfid": 145,
-                                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)"
                             }
                         },
                         {
@@ -6171,12 +6341,12 @@
                             "extra_info": {
                                 "trigstoryfid": 200,
                                 "untrigstoryfid": 145,
-                                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)"
                             }
                         },
                         {
@@ -6194,12 +6364,12 @@
                             "extra_info": {
                                 "trigstoryfid": 200,
                                 "untrigstoryfid": 145,
-                                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)"
                             }
                         },
                         {
@@ -6217,12 +6387,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 483,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Imp 3 related",
                                 "trigscenefid": 108,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0xC 10",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Imp 3 related"
                             }
                         },
                         {

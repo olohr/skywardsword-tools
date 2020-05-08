@@ -112,6 +112,15 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
 
     all_stages[output['stageid']]=output
 
+# typnamemap = collections.OrderedDict()
+# for typ in allobjtypes:
+#     typnamemap[typ] = collections.Counter((a['name'] for a in totally_all_objects if a['type']==typ))
+
+# for typ, counter in typnamemap.items():
+#     print('\n'+typ+':')
+#     for item, count in counter.most_common():
+#         print('%s: %d'%(item,count))
+
 # all_unknown=[]
 # for i, stages in enumerate(flagindex_to_stages):
 #     for stage in stages:

@@ -1377,12 +1377,12 @@
                             "extra_info": {
                                 "trigstoryfid": 266,
                                 "untrigstoryfid": 278,
-                                "trigstoryf": "",
-                                "untrigstoryf": "Finish Talking to Skipper in Skipper's Retreat (name on map appears)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "",
+                                "untrigstoryf": "Finish Talking to Skipper in Skipper's Retreat (name on map appears)"
                             }
                         },
                         {
@@ -2087,7 +2087,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 5B",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 127,
+                                "setscenef": "scene flag: 0xE 80",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 03",
@@ -2119,7 +2129,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 5F",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 129,
+                                "setscenef": "temp flag: 0x1 02",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 01",

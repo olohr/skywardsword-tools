@@ -517,12 +517,12 @@
                             "extra_info": {
                                 "trigstoryfid": 47,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Eldin light pillar",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 95,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 80"
+                                "untrigscenef": "scene flag: 0xA 80",
+                                "trigstoryf": "Eldin light pillar",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -540,12 +540,12 @@
                             "extra_info": {
                                 "trigstoryfid": 48,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Lanayru light pillar (Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall layer 2 / Lanayru Mines layer 1 / Temple of Time layer 1)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 96,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xD 01"
+                                "untrigscenef": "scene flag: 0xD 01",
+                                "trigstoryf": "Lanayru light pillar (Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall layer 2 / Lanayru Mines layer 1 / Temple of Time layer 1)",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -570,9 +570,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -711,9 +711,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 34,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene first time seeing Goddess Sword",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Cutscene first time seeing Goddess Sword"
                             }
                         }
                     ]

@@ -343,12 +343,12 @@
                             "extra_info": {
                                 "trigstoryfid": 71,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 71,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 80"
+                                "untrigscenef": "scene flag: 0x9 80",
+                                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -366,12 +366,12 @@
                             "extra_info": {
                                 "trigstoryfid": 72,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Learn Nayru's Wisdom",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 72,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 01"
+                                "untrigscenef": "scene flag: 0x8 01",
+                                "trigstoryf": "Learn Nayru's Wisdom",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -389,12 +389,12 @@
                             "extra_info": {
                                 "trigstoryfid": 73,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Learn Din's Power",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 73,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 02"
+                                "untrigscenef": "scene flag: 0x8 02",
+                                "trigstoryf": "Learn Din's Power",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -419,9 +419,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {

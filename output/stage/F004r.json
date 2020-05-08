@@ -2662,12 +2662,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 826,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Fi Text near Bazaar Goddess Chest",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Fi Text near Bazaar Goddess Chest"
                             }
                         },
                         {
@@ -2711,9 +2711,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2736,9 +2736,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2761,9 +2761,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3050,12 +3050,12 @@
                             "extra_info": {
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 26,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 04"
+                                "untrigscenef": "scene flag: 0x2 04",
+                                "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3092,12 +3092,12 @@
                             "extra_info": {
                                 "trigstoryfid": 131,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 86,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xB 40"
+                                "untrigscenef": "scene flag: 0xB 40",
+                                "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                                "untrigstoryf": "-"
                             }
                         }
                     ]
@@ -3162,12 +3162,12 @@
                             "extra_info": {
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 26,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 04"
+                                "untrigscenef": "scene flag: 0x2 04",
+                                "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3185,12 +3185,12 @@
                             "extra_info": {
                                 "trigstoryfid": 131,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 86,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xB 40"
+                                "untrigscenef": "scene flag: 0xB 40",
+                                "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                                "untrigstoryf": "-"
                             }
                         }
                     ]

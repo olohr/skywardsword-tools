@@ -421,12 +421,12 @@
                             "extra_info": {
                                 "trigstoryfid": 645,
                                 "untrigstoryfid": 646,
-                                "trigstoryf": "Set when beating Sky Keep",
-                                "untrigstoryf": "",
                                 "trigscenefid": 60,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x6 10",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Set when beating Sky Keep",
+                                "untrigstoryf": ""
                             }
                         }
                     ]

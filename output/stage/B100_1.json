@@ -1310,9 +1310,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1377,7 +1377,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 23",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 192,
+                                "setscenef": "loadzone temp flag: 0x9 01",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF DF",
@@ -2355,12 +2365,12 @@
                             "extra_info": {
                                 "trigstoryfid": 5,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 106,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xC 04"
+                                "untrigscenef": "scene flag: 0xC 04",
+                                "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -2385,9 +2395,9 @@
                                 "flagid": 195,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "loadzone temp flag: 0x9 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "loadzone temp flag: 0x9 08"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]
@@ -2418,12 +2428,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 196,
                                 "untrigscenefid": 194,
                                 "trigscenef": "loadzone temp flag: 0x9 10",
-                                "untrigscenef": "loadzone temp flag: 0x9 04"
+                                "untrigscenef": "loadzone temp flag: 0x9 04",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2441,12 +2451,12 @@
                             "extra_info": {
                                 "trigstoryfid": 64,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Set when Water Dragon asks for Sacred Water (Sacred Water dowsing)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 108,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xC 10"
+                                "untrigscenef": "scene flag: 0xC 10",
+                                "trigstoryf": "Set when Water Dragon asks for Sacred Water (Sacred Water dowsing)",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -2471,9 +2481,9 @@
                                 "flagid": 195,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "loadzone temp flag: 0x9 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "loadzone temp flag: 0x9 08"
+                                "untrigstoryf": "-"
                             }
                         },
                         {

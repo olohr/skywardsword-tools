@@ -763,12 +763,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 83,
                                 "untrigscenefid": 84,
                                 "trigscenef": "scene flag: 0xB 08",
-                                "untrigscenef": "scene flag: 0xB 10"
+                                "untrigscenef": "scene flag: 0xB 10",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -786,12 +786,12 @@
                             "extra_info": {
                                 "trigstoryfid": 734,
                                 "untrigstoryfid": 104,
-                                "trigstoryf": "Sets when talking to Batreaux after getting Crystals (allows Crystal Dowsing?)",
-                                "untrigstoryf": "Crystal Dowsing",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Sets when talking to Batreaux after getting Crystals (allows Crystal Dowsing?)",
+                                "untrigstoryf": "Crystal Dowsing"
                             }
                         }
                     ]

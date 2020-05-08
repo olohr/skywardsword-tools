@@ -4240,12 +4240,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 80,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xB 01"
+                                "untrigscenef": "scene flag: 0xB 01",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4263,12 +4263,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 254,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0xE 40"
+                                "untrigscenef": "loadzone temp flag: 0xE 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {

@@ -2905,12 +2905,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 51,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x7 08"
+                                "untrigscenef": "scene flag: 0x7 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -3132,12 +3132,12 @@
                             "extra_info": {
                                 "trigstoryfid": 32,
                                 "untrigstoryfid": 203,
-                                "trigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase)",
-                                "untrigstoryf": "Cutscene showing Fi in Academy Staircase",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase)",
+                                "untrigstoryf": "Cutscene showing Fi in Academy Staircase"
                             }
                         },
                         {
@@ -3301,12 +3301,12 @@
                             "extra_info": {
                                 "trigstoryfid": 556,
                                 "untrigstoryfid": 557,
-                                "trigstoryf": "Talking to Pipit about Cawlin's Letter",
-                                "untrigstoryf": "Set before Pipit gives his Crystals",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Talking to Pipit about Cawlin's Letter",
+                                "untrigstoryf": "Set before Pipit gives his Crystals"
                             }
                         },
                         {
@@ -3343,12 +3343,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 30,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Adventure Pouch unlocked",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Adventure Pouch unlocked"
                             }
                         },
                         {
@@ -3595,9 +3595,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 480,
                                 "untrigstoryfid": 481,
+                                "areaflag": "no flag",
                                 "trigstoryf": "",
-                                "untrigstoryf": "Oolo picked up with Scrapper",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Oolo picked up with Scrapper"
                             }
                         }
                     ]
@@ -3682,12 +3682,12 @@
                             "extra_info": {
                                 "trigstoryfid": 376,
                                 "untrigstoryfid": 545,
-                                "trigstoryf": "Set after Sleeping after the Fortune Teller crystals",
-                                "untrigstoryf": "Cutscene of Ghost asking for Help",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Set after Sleeping after the Fortune Teller crystals",
+                                "untrigstoryf": "Cutscene of Ghost asking for Help"
                             }
                         },
                         {
@@ -3832,12 +3832,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 30,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Adventure Pouch unlocked",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Adventure Pouch unlocked"
                             }
                         },
                         {
@@ -3855,12 +3855,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 202,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Set after Fi text before going to sky for first time",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Set after Fi text before going to sky for first time"
                             }
                         }
                     ]
@@ -4281,7 +4281,8 @@
                             "unk3": "FC 0A",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 36
+                                "sleep_storyfid": 36,
+                                "sleep_storyf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)"
                             }
                         },
                         {
@@ -4297,7 +4298,8 @@
                             "unk3": "FC 0B",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 36
+                                "sleep_storyfid": 36,
+                                "sleep_storyf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)"
                             }
                         },
                         {
@@ -4418,12 +4420,12 @@
                             "extra_info": {
                                 "trigstoryfid": 32,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 5,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x1 20"
+                                "untrigscenef": "scene flag: 0x1 20",
+                                "trigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5083,7 +5085,8 @@
                             "unk3": "FC 0B",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 554
+                                "sleep_storyfid": 554,
+                                "sleep_storyf": "Cawlin runs away crying after giving letter to toilet ghost/Set by Pipit giving 5 crystals"
                             }
                         },
                         {
@@ -5099,7 +5102,8 @@
                             "unk3": "FC 0C",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         }
                     ]
@@ -5138,7 +5142,8 @@
                             "unk3": "FC 09",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -5154,7 +5159,8 @@
                             "unk3": "FC 0A",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 554
+                                "sleep_storyfid": 554,
+                                "sleep_storyf": "Cawlin runs away crying after giving letter to toilet ghost/Set by Pipit giving 5 crystals"
                             }
                         },
                         {
@@ -5248,12 +5254,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 209,
                                 "untrigscenefid": 210,
                                 "trigscenef": "loadzone temp flag: 0xB 02",
-                                "untrigscenef": "loadzone temp flag: 0xB 04"
+                                "untrigscenef": "loadzone temp flag: 0xB 04",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5657,12 +5663,12 @@
                             "extra_info": {
                                 "trigstoryfid": 327,
                                 "untrigstoryfid": 328,
-                                "trigstoryf": "Talk to the Headmaster to learn more about the Song of the Hero (he doesn't know anything)",
-                                "untrigstoryf": "Headmaster sends you see Owlan to locate Levias",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Talk to the Headmaster to learn more about the Song of the Hero (he doesn't know anything)",
+                                "untrigstoryf": "Headmaster sends you see Owlan to locate Levias"
                             }
                         },
                         {
@@ -5889,7 +5895,8 @@
                             "unk3": "FC 05",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -5950,7 +5957,8 @@
                             "unk3": "FC 05",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -6364,7 +6372,8 @@
                             "unk3": "FC 0C",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -6401,12 +6410,12 @@
                             "extra_info": {
                                 "trigstoryfid": 362,
                                 "untrigstoryfid": 642,
-                                "trigstoryf": "Talk to Professor Owlan inside Academy to locate Levias",
-                                "untrigstoryf": "Spiral Charge Training Complete",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Talk to Professor Owlan inside Academy to locate Levias",
+                                "untrigstoryf": "Spiral Charge Training Complete"
                             }
                         }
                     ],
@@ -6431,9 +6440,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 480,
                                 "untrigstoryfid": 481,
+                                "areaflag": "no flag",
                                 "trigstoryf": "",
-                                "untrigstoryf": "Oolo picked up with Scrapper",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Oolo picked up with Scrapper"
                             }
                         }
                     ]
@@ -6468,7 +6477,8 @@
                             "unk3": "FC 09",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -7101,7 +7111,8 @@
                             "unk3": "FC 17",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -7117,7 +7128,8 @@
                             "unk3": "FC 18",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         }
                     ]
@@ -7147,7 +7159,8 @@
                             "unk3": "FC 17",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -7163,7 +7176,8 @@
                             "unk3": "FC 18",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {

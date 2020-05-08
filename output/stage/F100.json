@@ -8965,7 +8965,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FD 76",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1081,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -8981,7 +8991,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FD 77",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 1081,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "00 FF FF 19",
@@ -9035,9 +9055,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9060,9 +9080,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9085,9 +9105,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9110,9 +9130,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9135,9 +9155,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9160,9 +9180,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9185,9 +9205,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 88,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Lake Floria Introductory Cutscene",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Lake Floria Introductory Cutscene"
                             }
                         },
                         {
@@ -9210,9 +9230,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -9235,9 +9255,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 88,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Lake Floria Introductory Cutscene",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -13457,12 +13477,12 @@
                             "extra_info": {
                                 "trigstoryfid": 50,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Machi saved from bokoblins",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 11,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x0 08"
+                                "untrigscenef": "scene flag: 0x0 08",
+                                "trigstoryf": "Machi saved from bokoblins",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -13480,12 +13500,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 50,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Machi saved from bokoblins",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Machi saved from bokoblins"
                             }
                         },
                         {
@@ -13503,12 +13523,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 52,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Machi located (Kikwi Elder appears) (also sets after Skyview)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Machi located (Kikwi Elder appears) (also sets after Skyview)"
                             }
                         },
                         {
@@ -13526,12 +13546,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 52,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Machi located (Kikwi Elder appears) (also sets after Skyview)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Machi located (Kikwi Elder appears) (also sets after Skyview)"
                             }
                         },
                         {
@@ -13549,12 +13569,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 129,
                                 "untrigscenefid": 13,
                                 "trigscenef": "temp flag: 0x1 02",
-                                "untrigscenef": "scene flag: 0x0 20"
+                                "untrigscenef": "scene flag: 0x0 20",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -13572,12 +13592,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 14,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x0 40"
+                                "untrigscenef": "scene flag: 0x0 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -13595,12 +13615,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 46,
                                 "untrigscenefid": 15,
                                 "trigscenef": "scene flag: 0x4 40",
-                                "untrigscenef": "scene flag: 0x0 80"
+                                "untrigscenef": "scene flag: 0x0 80",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -14078,12 +14098,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 212,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0xB 10"
+                                "untrigscenef": "loadzone temp flag: 0xB 10",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -14101,12 +14121,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 212,
                                 "untrigscenefid": 69,
                                 "trigscenef": "loadzone temp flag: 0xB 10",
-                                "untrigscenef": "scene flag: 0x9 20"
+                                "untrigscenef": "scene flag: 0x9 20",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -14124,12 +14144,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 70,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 40"
+                                "untrigscenef": "scene flag: 0x9 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -14496,12 +14516,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 203,
                                 "untrigscenefid": 54,
                                 "trigscenef": "loadzone temp flag: 0x8 08",
-                                "untrigscenef": "scene flag: 0x7 40"
+                                "untrigscenef": "scene flag: 0x7 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -15146,12 +15166,12 @@
                             "extra_info": {
                                 "trigstoryfid": 71,
                                 "untrigstoryfid": 121,
-                                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)"
                             }
                         },
                         {
@@ -15169,12 +15189,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 203,
                                 "untrigscenefid": 54,
                                 "trigscenef": "loadzone temp flag: 0x8 08",
-                                "untrigscenef": "scene flag: 0x7 40"
+                                "untrigscenef": "scene flag: 0x7 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -15988,12 +16008,12 @@
                             "extra_info": {
                                 "trigstoryfid": 206,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Faron Trial Completed (Skyview layer 2 / Outside AC layer 1 / Faron Woods, Deep Woods layer 4 / Skyview Spring layer 3 / Skyview Boss Room layer 3 / Lake Floria layer 1 / Water Dragon's Lair layer 1)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 56,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x6 01"
+                                "untrigscenef": "scene flag: 0x6 01",
+                                "trigstoryf": "Faron Trial Completed (Skyview layer 2 / Outside AC layer 1 / Faron Woods, Deep Woods layer 4 / Skyview Spring layer 3 / Skyview Boss Room layer 3 / Lake Floria layer 1 / Water Dragon's Lair layer 1)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -16011,12 +16031,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 57,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x6 02"
+                                "untrigscenef": "scene flag: 0x6 02",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -16034,12 +16054,12 @@
                             "extra_info": {
                                 "trigstoryfid": 62,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 58,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x6 04"
+                                "untrigscenef": "scene flag: 0x6 04",
+                                "trigstoryf": "",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -16057,12 +16077,12 @@
                             "extra_info": {
                                 "trigstoryfid": 62,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 59,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x6 08"
+                                "untrigscenef": "scene flag: 0x6 08",
+                                "trigstoryf": "",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -16080,12 +16100,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 203,
                                 "untrigscenefid": 54,
                                 "trigscenef": "loadzone temp flag: 0x8 08",
-                                "untrigscenef": "scene flag: 0x7 40"
+                                "untrigscenef": "scene flag: 0x7 40",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -16766,12 +16786,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 51,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x7 08"
+                                "untrigscenef": "scene flag: 0x7 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -16789,12 +16809,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 50,
                                 "untrigscenefid": 52,
                                 "trigscenef": "scene flag: 0x7 04",
-                                "untrigscenef": "scene flag: 0x7 10"
+                                "untrigscenef": "scene flag: 0x7 10",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -17156,12 +17176,12 @@
                             "extra_info": {
                                 "trigstoryfid": 16,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 38,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 40"
+                                "untrigscenef": "scene flag: 0x5 40",
+                                "trigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                                "untrigstoryf": "-"
                             }
                         },
                         {

@@ -527,12 +527,12 @@
                             "extra_info": {
                                 "trigstoryfid": 267,
                                 "untrigstoryfid": 280,
-                                "trigstoryf": "",
-                                "untrigstoryf": "Pirate Stronghold related (name on map appears)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "",
+                                "untrigstoryf": "Pirate Stronghold related (name on map appears)"
                             }
                         },
                         {
@@ -550,12 +550,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 271,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Ship Dowsing",
                                 "trigscenefid": 76,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0x8 10",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Ship Dowsing"
                             }
                         },
                         {
@@ -1153,9 +1153,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1178,9 +1178,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {

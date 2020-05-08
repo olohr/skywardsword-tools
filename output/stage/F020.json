@@ -4436,9 +4436,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 46,
                                 "untrigstoryfid": 9,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Faron light pillar",
-                                "untrigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)"
                             }
                         },
                         {
@@ -4461,9 +4461,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 48,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Lanayru light pillar (Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall layer 2 / Lanayru Mines layer 1 / Temple of Time layer 1)",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4486,9 +4486,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 47,
                                 "untrigstoryfid": 169,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Eldin light pillar",
-                                "untrigstoryf": "Eldin Eruption Cutscene ready to play (set when Levias explains SotH quest, set and unset by Faron and Lanayru SotH)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Eldin Eruption Cutscene ready to play (set when Levias explains SotH quest, set and unset by Faron and Lanayru SotH)"
                             }
                         },
                         {
@@ -4511,9 +4511,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 17,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)"
                             }
                         },
                         {
@@ -4536,9 +4536,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4561,9 +4561,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4586,9 +4586,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4611,9 +4611,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 17,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)"
                             }
                         },
                         {
@@ -4636,9 +4636,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 169,
                                 "untrigstoryfid": 19,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Eldin Eruption Cutscene ready to play (set when Levias explains SotH quest, set and unset by Faron and Lanayru SotH)",
-                                "untrigstoryf": "Fire Dragon Text after SotH part Cutscene (Eldin Volcano, Digging Mitts Cave, Volcano Summit Waterfall layer 4)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Fire Dragon Text after SotH part Cutscene (Eldin Volcano, Digging Mitts Cave, Volcano Summit Waterfall layer 4)"
                             }
                         },
                         {
@@ -4661,9 +4661,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4686,9 +4686,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 9,
                                 "untrigstoryfid": 140,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
-                                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)"
                             }
                         },
                         {
@@ -4711,9 +4711,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 140,
                                 "untrigstoryfid": 342,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
-                                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)"
                             }
                         },
                         {
@@ -4736,9 +4736,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4761,9 +4761,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4818,9 +4818,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 324,
                                 "untrigstoryfid": 325,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Windmill Propeller picked up",
-                                "untrigstoryf": "Village Windmill reparation cutscene",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Village Windmill reparation cutscene"
                             }
                         },
                         {
@@ -4859,9 +4859,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 194,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Thunderhead opened (needs scene flag 2x20 to trigger cutscene)",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -4900,9 +4900,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 19,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Fire Dragon Text after SotH part Cutscene (Eldin Volcano, Digging Mitts Cave, Volcano Summit Waterfall layer 4)",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5277,9 +5277,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5302,9 +5302,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 342,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -6114,12 +6114,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 24,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Fi cutscene around Faron light pillar before landing for first time (also set by Sealed Grounds intro cutscene)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Fi cutscene around Faron light pillar before landing for first time (also set by Sealed Grounds intro cutscene)"
                             }
                         },
                         {
@@ -6279,12 +6279,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 11,
                                 "untrigscenefid": 13,
                                 "trigscenef": "scene flag: 0x0 08",
-                                "untrigscenef": "scene flag: 0x0 20"
+                                "untrigscenef": "scene flag: 0x0 20",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -7053,7 +7053,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FD 43",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 18,
+                                "setscenef": "scene flag: 0x3 04",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 80 12",

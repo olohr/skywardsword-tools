@@ -256,9 +256,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]
@@ -1489,9 +1489,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1546,9 +1546,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 463,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene of Guld getting picked up",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Cutscene of Guld getting picked up"
                             }
                         },
                         {
@@ -1565,7 +1565,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 28",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 145,
+                                "unsetscenef": "temp flag: 0x3 02",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF F0",
@@ -1787,12 +1797,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 37,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 20"
+                                "untrigscenef": "scene flag: 0x5 20",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1829,12 +1839,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 194,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0x9 04"
+                                "untrigscenef": "loadzone temp flag: 0x9 04",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1852,12 +1862,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 773,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "",
                                 "trigscenefid": 195,
                                 "untrigscenefid": 36,
                                 "trigscenef": "loadzone temp flag: 0x9 08",
-                                "untrigscenef": "scene flag: 0x5 10"
+                                "untrigscenef": "scene flag: 0x5 10",
+                                "trigstoryf": "-",
+                                "untrigstoryf": ""
                             }
                         }
                     ],

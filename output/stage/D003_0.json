@@ -693,12 +693,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 43,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 08"
+                                "untrigscenef": "scene flag: 0x4 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -729,12 +729,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 24,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 01"
+                                "untrigscenef": "scene flag: 0x2 01",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -894,7 +894,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 1B",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 693,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF F1 C1",
@@ -1006,7 +1016,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 22",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 694,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C2",
@@ -1520,9 +1540,9 @@
                                 "flagid": 96,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "scene flag: 0xD 01",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "scene flag: 0xD 01"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]

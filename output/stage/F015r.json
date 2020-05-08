@@ -398,7 +398,8 @@
                             "unk3": "FC 0E",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -414,7 +415,8 @@
                             "unk3": "FC 0F",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -446,7 +448,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 11",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 719,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "Scrap Shop Owner Gondo's House entered (name on map appears)",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 04 02",

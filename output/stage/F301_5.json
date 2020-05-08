@@ -635,12 +635,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 17,
                                 "untrigscenefid": 16,
                                 "trigscenef": "scene flag: 0x3 02",
-                                "untrigscenef": "scene flag: 0x3 01"
+                                "untrigscenef": "scene flag: 0x3 01",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {

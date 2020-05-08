@@ -127,8 +127,6 @@ def objAddExtraInfo(parsed_item):
         untriggerstoryf=((read_halfword(parsed_item['unk1'][0:2]) & 0xFFE0) >> 5)
         extraInfo['trigstoryfid']=triggerstoryf
         extraInfo['untrigstoryfid']=untriggerstoryf
-        extraInfo['trigstoryf']=storyflagnames[triggerstoryf] if triggerstoryf < len(storyflagnames) else '-'
-        extraInfo['untrigstoryf']=storyflagnames[untriggerstoryf] if untriggerstoryf < len(storyflagnames) else '-'
         # there might be more Npc actors with this sceneflag behaviour but needs testing
         if parsed_item['name']=='NpcTke':
             extraInfo['trigscenefid']=parsed_item['transition_type']
@@ -147,7 +145,7 @@ def objAddExtraInfo(parsed_item):
         extraInfo['itemid']=parsed_item['talk_behaviour']&0x1FF
         extraInfo['chestid']=(parsed_item['talk_behaviour']&0xFE00)>>9
     elif parsed_item['name']=='DNight':
-        extraInfo['sleep_storyf']=(read_halfword(parsed_item['unk1'][2:4]) & 0x07FF)
+        extraInfo['sleep_storyfid']=(read_halfword(parsed_item['unk1'][2:4]) & 0x07FF)
     elif parsed_item['name']=='WarpObj':
         extraInfo['scen_link']=parsed_item['unk1'][1]
         extraInfo['trigscenefid']=parsed_item['unk1'][2]
@@ -165,8 +163,14 @@ def objAddExtraInfo(parsed_item):
         untriggerstoryf=parsed_item['talk_behaviour']&0x7FF
         extraInfo['trigstoryfid']=triggerstoryf
         extraInfo['untrigstoryfid']=untriggerstoryf
-        extraInfo['trigstoryf']=storyflagnames[triggerstoryf] if triggerstoryf < len(storyflagnames) else '-'
-        extraInfo['untrigstoryf']=storyflagnames[untriggerstoryf] if untriggerstoryf < len(storyflagnames) else '-'
+    elif parsed_item['name'] == 'SwAreaT':
+        extraInfo['setstoryfid']=((parsed_item['event_flag']&0x7)<<8)+parsed_item['transition_type']
+        extraInfo['unsetstoryfid']=parsed_item['talk_behaviour']&0x7FF
+        extraInfo['setscenefid'] = parsed_item['unk1'][3]
+        extraInfo['setscenef'] = flag_id_to_sheet_rep(extraInfo['setscenefid'])
+        extraInfo['unsetscenefid'] = parsed_item['unk1'][2]
+        extraInfo['unsetscenef'] = flag_id_to_sheet_rep(extraInfo['unsetscenefid'])
+
     # elif parsed_item['name'] == 'MapMark':
     #     extraInfo['map_pop_id'] = (parsed_item['talk_behaviour'] & 0xFF00) >> 8
     #     key = 'MAP_POP_%02d'%extraInfo['map_pop_id']
@@ -174,7 +178,12 @@ def objAddExtraInfo(parsed_item):
     if 'flagid' in extraInfo:
         extraInfo['areaflag'] = flag_id_to_sheet_rep(extraInfo['flagid'])
     if 'itemid' in extraInfo:
-            extraInfo['item']=itemnames.get(str(extraInfo['itemid']), '?')
+        extraInfo['item']=itemnames.get(str(extraInfo['itemid']), '?')
+    for key in list(extraInfo.keys()):
+        if key.endswith('storyfid'):
+            info = extraInfo[key]
+            extraInfo[key[:-2]]=storyflagnames[info] if info < len(storyflagnames) else '-'
+            
     if len(extraInfo) > 0:
         parsed_item['extra_info'] = extraInfo
 

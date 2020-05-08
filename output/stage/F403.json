@@ -3726,9 +3726,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 134,
                                 "untrigstoryfid": 530,
+                                "areaflag": "no flag",
                                 "trigstoryf": "Horde defeated (Sealed Grounds layer 6 / Hylia's Realm layer 7)",
-                                "untrigstoryf": "Set and unset by Boss Rush (Hylia's Realm layer 1 / Skyview Boss Room layer 5 / FS Boss Room layer 3 / LMF Boss Room layer 2 / Sandship Boss Room layer 2, ET Boss Room layer 3)",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "Set and unset by Boss Rush (Hylia's Realm layer 1 / Skyview Boss Room layer 5 / FS Boss Room layer 3 / LMF Boss Room layer 2 / Sandship Boss Room layer 2, ET Boss Room layer 3)"
                             }
                         },
                         {
@@ -3977,12 +3977,12 @@
                             "extra_info": {
                                 "trigstoryfid": 788,
                                 "untrigstoryfid": 782,
-                                "trigstoryf": "",
-                                "untrigstoryf": "Set after Ghirahim 3",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "",
+                                "untrigstoryf": "Set after Ghirahim 3"
                             }
                         },
                         {
@@ -4000,12 +4000,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 196,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0x9 10"
+                                "untrigscenef": "loadzone temp flag: 0x9 10",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -5445,12 +5445,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -5468,12 +5468,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {

@@ -429,7 +429,8 @@
                             "unk3": "FC 0F",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 36
+                                "sleep_storyfid": 36,
+                                "sleep_storyf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)"
                             }
                         },
                         {
@@ -445,7 +446,8 @@
                             "unk3": "FC 10",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 36
+                                "sleep_storyfid": 36,
+                                "sleep_storyf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)"
                             }
                         },
                         {
@@ -506,7 +508,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 14",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 712,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "Item Check Girl Peatrice's House entered (name on map appears)",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 04 02",

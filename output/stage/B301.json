@@ -385,12 +385,12 @@
                             "extra_info": {
                                 "trigstoryfid": 692,
                                 "untrigstoryfid": 776,
-                                "trigstoryf": "(not implemented yet -- 7771)",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 82,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xB 04"
+                                "untrigscenef": "scene flag: 0xB 04",
+                                "trigstoryf": "(not implemented yet -- 7771)",
+                                "untrigstoryf": ""
                             }
                         },
                         {
@@ -668,9 +668,9 @@
                                 "flagid": 84,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 583,
+                                "areaflag": "scene flag: 0xB 10",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Set when beating Sandship (Unlocks 4 new dowsing slots)",
-                                "areaflag": "scene flag: 0xB 10"
+                                "untrigstoryf": "Set when beating Sandship (Unlocks 4 new dowsing slots)"
                             }
                         }
                     ]
@@ -782,12 +782,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 86,
                                 "untrigscenefid": 87,
                                 "trigscenef": "scene flag: 0xB 40",
-                                "untrigscenef": "scene flag: 0xB 80"
+                                "untrigscenef": "scene flag: 0xB 80",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         }
                     ]

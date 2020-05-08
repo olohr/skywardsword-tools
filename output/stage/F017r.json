@@ -711,12 +711,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 193,
                                 "untrigscenefid": 255,
                                 "trigscenef": "loadzone temp flag: 0x9 02",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -732,7 +732,8 @@
                             "unk3": "FC 1D",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -774,7 +775,8 @@
                             "unk3": "FC 21",
                             "name": "DNight",
                             "extra_info": {
-                                "sleep_storyf": 2047
+                                "sleep_storyfid": 2047,
+                                "sleep_storyf": "-"
                             }
                         },
                         {
@@ -812,7 +814,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 23",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 716,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "Gear Peddler Rupin's House entered (name on map appears)",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 04 02",

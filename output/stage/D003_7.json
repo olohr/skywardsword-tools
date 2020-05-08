@@ -518,12 +518,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 26,
                                 "untrigscenefid": 23,
                                 "trigscenef": "scene flag: 0x2 04",
-                                "untrigscenef": "scene flag: 0x3 80"
+                                "untrigscenef": "scene flag: 0x3 80",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         }
                     ],
@@ -574,7 +574,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 0E",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 693,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C2",
@@ -686,7 +696,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 15",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 701,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "Set after entering Sky Keep for first time",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },

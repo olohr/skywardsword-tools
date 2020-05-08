@@ -1685,9 +1685,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -1710,9 +1710,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2109,12 +2109,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 468,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Goron Text after Watering 1st Frog",
                                 "trigscenefid": 108,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0xC 10",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Goron Text after Watering 1st Frog"
                             }
                         },
                         {
@@ -2132,12 +2132,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 469,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Goron Text after Watering 2nd frog",
                                 "trigscenefid": 109,
                                 "untrigscenefid": 255,
                                 "trigscenef": "scene flag: 0xC 20",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Goron Text after Watering 2nd frog"
                             }
                         },
                         {
@@ -2155,12 +2155,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 467,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Goron Text near Big Frog",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Goron Text near Big Frog"
                             }
                         },
                         {
@@ -2178,12 +2178,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "-",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 107,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xC 08"
+                                "untrigscenef": "scene flag: 0xC 08",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2201,12 +2201,12 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 110,
-                                "trigstoryf": "-",
-                                "untrigstoryf": "Goddess Cube Dowsing",
                                 "trigscenefid": 192,
                                 "untrigscenefid": 255,
                                 "trigscenef": "loadzone temp flag: 0x9 01",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "-",
+                                "untrigstoryf": "Goddess Cube Dowsing"
                             }
                         },
                         {
@@ -2224,12 +2224,12 @@
                             "extra_info": {
                                 "trigstoryfid": 467,
                                 "untrigstoryfid": 669,
-                                "trigstoryf": "Goron Text near Big Frog",
-                                "untrigstoryf": "Water Basin Dowsing",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 115,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xF 08"
+                                "untrigscenef": "scene flag: 0xF 08",
+                                "trigstoryf": "Goron Text near Big Frog",
+                                "untrigstoryf": "Water Basin Dowsing"
                             }
                         }
                     ],
@@ -2301,12 +2301,12 @@
                             "extra_info": {
                                 "trigstoryfid": 186,
                                 "untrigstoryfid": 187,
-                                "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
-                                "untrigstoryf": "Big Frog Watered",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 156,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x2 10"
+                                "untrigscenef": "temp flag: 0x2 10",
+                                "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
+                                "untrigstoryf": "Big Frog Watered"
                             }
                         },
                         {
@@ -2324,12 +2324,12 @@
                             "extra_info": {
                                 "trigstoryfid": 186,
                                 "untrigstoryfid": 187,
-                                "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
-                                "untrigstoryf": "Big Frog Watered",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 157,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x2 20"
+                                "untrigscenef": "temp flag: 0x2 20",
+                                "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
+                                "untrigstoryf": "Big Frog Watered"
                             }
                         }
                     ],
@@ -2348,7 +2348,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 5D",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 156,
+                                "setscenef": "temp flag: 0x2 10",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         }
                     ]
                 },

@@ -275,9 +275,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -316,9 +316,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -436,12 +436,12 @@
                             "extra_info": {
                                 "trigstoryfid": 692,
                                 "untrigstoryfid": 777,
-                                "trigstoryf": "(not implemented yet -- 7771)",
-                                "untrigstoryf": "",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 125,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xE 20"
+                                "untrigscenef": "scene flag: 0xE 20",
+                                "trigstoryf": "(not implemented yet -- 7771)",
+                                "untrigstoryf": ""
                             }
                         }
                     ],

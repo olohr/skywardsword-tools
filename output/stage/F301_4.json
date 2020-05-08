@@ -7939,9 +7939,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -7964,9 +7964,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -8063,7 +8063,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 3D",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 158,
+                                "setscenef": "temp flag: 0x2 40",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 9F",
@@ -8079,7 +8089,17 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 3E",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 2047,
+                                "setscenefid": 159,
+                                "setscenef": "temp flag: 0x2 80",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": "-"
+                            }
                         },
                         {
                             "unk1": "FF FF 9D 3F",
@@ -8788,12 +8808,12 @@
                             "extra_info": {
                                 "trigstoryfid": 265,
                                 "untrigstoryfid": 279,
-                                "trigstoryf": "Shipyard Introductory Cutscene (Sand Sea layer 4)",
-                                "untrigstoryf": "Shipyard related (name on map appears)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Shipyard Introductory Cutscene (Sand Sea layer 4)",
+                                "untrigstoryf": "Shipyard related (name on map appears)"
                             }
                         },
                         {

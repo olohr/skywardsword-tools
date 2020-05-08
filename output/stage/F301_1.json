@@ -1521,12 +1521,12 @@
                             "extra_info": {
                                 "trigstoryfid": 158,
                                 "untrigstoryfid": 499,
-                                "trigstoryf": "First Time in Sand Sea",
-                                "untrigstoryf": "First Quest from Skipper given in the Sand Sea (to Skipper's Retreat)",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "First Time in Sand Sea",
+                                "untrigstoryf": "First Quest from Skipper given in the Sand Sea (to Skipper's Retreat)"
                             }
                         },
                         {
@@ -1544,12 +1544,12 @@
                             "extra_info": {
                                 "trigstoryfid": 269,
                                 "untrigstoryfid": 519,
-                                "trigstoryf": "Sea Chart in Skipper's Retreat obtained",
-                                "untrigstoryf": "Ancient Sea Chart activates",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Sea Chart in Skipper's Retreat obtained",
+                                "untrigstoryf": "Ancient Sea Chart activates"
                             }
                         },
                         {
@@ -1567,12 +1567,12 @@
                             "extra_info": {
                                 "trigstoryfid": 270,
                                 "untrigstoryfid": 520,
-                                "trigstoryf": "Fi Text after Molderach 2's defeat (Shipyard Construction Bay layer 2)",
-                                "untrigstoryf": "Skipper's Text in Sand Sea after Shipyard",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Fi Text after Molderach 2's defeat (Shipyard Construction Bay layer 2)",
+                                "untrigstoryf": "Skipper's Text in Sand Sea after Shipyard"
                             }
                         },
                         {
@@ -1590,12 +1590,12 @@
                             "extra_info": {
                                 "trigstoryfid": 275,
                                 "untrigstoryfid": 521,
-                                "trigstoryf": "Set at Fi text for Ship Dowsing",
-                                "untrigstoryf": "Skipper's Text in Sand Sea after Pirate Stronghold",
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag"
+                                "untrigscenef": "no flag",
+                                "trigstoryf": "Set at Fi text for Ship Dowsing",
+                                "untrigstoryf": "Skipper's Text in Sand Sea after Pirate Stronghold"
                             }
                         },
                         {
@@ -2707,9 +2707,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2732,9 +2732,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2757,9 +2757,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2782,9 +2782,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         },
                         {
@@ -2865,7 +2865,17 @@
                             "angle": 0,
                             "talk_behaviour": 63642,
                             "unk3": "FC 64",
-                            "name": "SwAreaT"
+                            "name": "SwAreaT",
+                            "extra_info": {
+                                "setstoryfid": 2047,
+                                "unsetstoryfid": 154,
+                                "setscenefid": 255,
+                                "setscenef": "no flag",
+                                "unsetscenefid": 255,
+                                "unsetscenef": "no flag",
+                                "setstoryf": "-",
+                                "unsetstoryf": ""
+                            }
                         },
                         {
                             "unk1": "FF 1F FF 01",
@@ -2997,9 +3007,9 @@
                                 "flagid": 110,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "scene flag: 0xC 40",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "scene flag: 0xC 40"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]
@@ -3691,9 +3701,9 @@
                                 "flagid": 110,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "scene flag: 0xC 40",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "scene flag: 0xC 40"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]
@@ -4814,9 +4824,9 @@
                                 "flagid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "no flag"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]
@@ -5937,9 +5947,9 @@
                                 "flagid": 110,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "scene flag: 0xC 40",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "scene flag: 0xC 40"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]
@@ -7060,9 +7070,9 @@
                                 "flagid": 110,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "areaflag": "scene flag: 0xC 40",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-",
-                                "areaflag": "scene flag: 0xC 40"
+                                "untrigstoryf": "-"
                             }
                         }
                     ]
