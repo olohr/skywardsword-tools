@@ -4551,12 +4551,12 @@
                             "unk3": "FC 33",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 48,
+                                "flagid": 255,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x7 01"
+                                "areaflag": "no flag"
                             }
                         },
                         {

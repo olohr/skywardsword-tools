@@ -2812,11 +2812,13 @@
                             "name": "saveObj",
                             "extra_info": {
                                 "flagid": 255,
+                                "setstoryfid": 804,
                                 "tosky_scen_link": 0,
                                 "name_id": 10,
                                 "subtype": "overworld",
                                 "name": "Volcano Entry",
-                                "areaflag": "no flag"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check Volcano Entry Statue"
                             }
                         }
                     ],
@@ -6468,11 +6470,13 @@
                             "name": "saveObj",
                             "extra_info": {
                                 "flagid": 255,
+                                "setstoryfid": 805,
                                 "tosky_scen_link": 2,
                                 "name_id": 11,
                                 "subtype": "overworld",
                                 "name": "Volcano East",
-                                "areaflag": "no flag"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check Volcano East Statue"
                             }
                         },
                         {
@@ -6584,11 +6588,13 @@
                             "name": "saveObj",
                             "extra_info": {
                                 "flagid": 255,
+                                "setstoryfid": 806,
                                 "tosky_scen_link": 2,
                                 "name_id": 12,
                                 "subtype": "overworld",
                                 "name": "Volcano Ascent",
-                                "areaflag": "no flag"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check Volcano Ascent"
                             }
                         },
                         {
@@ -13964,11 +13970,13 @@
                             "name": "saveObj",
                             "extra_info": {
                                 "flagid": 255,
+                                "setstoryfid": 807,
                                 "tosky_scen_link": 2,
                                 "name_id": 13,
                                 "subtype": "overworld",
                                 "name": "Temple Entrance",
-                                "areaflag": "no flag"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check Temple Entrance Statue"
                             }
                         },
                         {

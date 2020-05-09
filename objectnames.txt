@@ -27,7 +27,7 @@ ColStp: 8
 BrdMob: 8
 Wind03: 7
 Wind04: 6
-SwWall: 6
+SwWall: 6, Switch on wall, activate with whip or sprinting on wall
 LogWtr: 5
 Col: 5
 TBoat: 5, Time boat for sand sea
@@ -186,7 +186,7 @@ FenceBk: 100
 ClawSTg: 96, Clawshot Target
 fruit: 81, (these fruits in faron woods you can knock down by rolling in tree?)
 Clef: 77
-TSBlk: 76
+TSBlk: 76, time shift sensible blocker, can block both present and past (electric)
 SrnSk: 75
 LtsFlwr: 73
 Pumpkin: 73, Pumpkin
@@ -203,7 +203,7 @@ WatrIga: 47
 SStatue: 47
 skull: 43, skulls laying on the ground acting mostly like pots
 NpcStr: 39
-SwWall: 39
+SwWall: 39, Switch on wall, activate with whip or sprinting on wall
 InHole: 35
 EOr: 35
 wnleaf: 34
@@ -212,12 +212,12 @@ NpcInv: 33
 ERemly: 33, Remlit
 RopeIga: 33
 NpcMoN: 32, Mogma
-Sw: 31
+Sw: 31, Switch on ground
 DNight: 31, sleep tag (bed)
 Char: 30
 ElLight: 30
-FShutte: 30
-EBeamos: 29
+FShutte: 30, fence shutter, can be opened via flag
+EBeamos: 29, Beamos
 IvyRope: 29, swingable vines hanging down
 EBcZ: 28
 EPh: 27

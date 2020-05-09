@@ -3435,11 +3435,13 @@
                             "name": "saveObj",
                             "extra_info": {
                                 "flagid": 255,
+                                "setstoryfid": 803,
                                 "tosky_scen_link": 1,
                                 "name_id": 9,
                                 "subtype": "overworld",
                                 "name": "Great Tree Top",
-                                "areaflag": "no flag"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check Great Tree Statue"
                             }
                         },
                         {
@@ -3456,11 +3458,13 @@
                             "name": "saveObj",
                             "extra_info": {
                                 "flagid": 255,
+                                "setstoryfid": 800,
                                 "tosky_scen_link": 1,
                                 "name_id": 1,
                                 "subtype": "normal",
                                 "name": "Faron Woods Entry",
-                                "areaflag": "no flag"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check Faron Woods Entry Statue"
                             }
                         },
                         {
@@ -3477,11 +3481,13 @@
                             "name": "saveObj",
                             "extra_info": {
                                 "flagid": 255,
+                                "setstoryfid": 801,
                                 "tosky_scen_link": 1,
                                 "name_id": 2,
                                 "subtype": "normal",
                                 "name": "In the Woods",
-                                "areaflag": "no flag"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check In The Woods Statue"
                             }
                         },
                         {
@@ -3498,11 +3504,13 @@
                             "name": "saveObj",
                             "extra_info": {
                                 "flagid": 255,
+                                "setstoryfid": 802,
                                 "tosky_scen_link": 1,
                                 "name_id": 3,
                                 "subtype": "normal",
                                 "name": "Viewing Platform",
-                                "areaflag": "no flag"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check Viewing Platform Statue"
                             }
                         },
                         {

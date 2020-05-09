@@ -4251,12 +4251,14 @@
                             "unk3": "60 7B",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 100,
+                                "flagid": 255,
+                                "setstoryfid": 800,
                                 "tosky_scen_link": 10,
                                 "name_id": 1,
                                 "subtype": "overworld",
                                 "name": "Faron Woods Entry",
-                                "areaflag": "scene flag: 0xD 10"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check Faron Woods Entry Statue"
                             }
                         },
                         {
@@ -4272,12 +4274,14 @@
                             "unk3": "00 7C",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 101,
+                                "flagid": 255,
+                                "setstoryfid": 801,
                                 "tosky_scen_link": 10,
                                 "name_id": 2,
                                 "subtype": "overworld",
                                 "name": "In the Woods",
-                                "areaflag": "scene flag: 0xD 20"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check In The Woods Statue"
                             }
                         },
                         {
@@ -4293,12 +4297,14 @@
                             "unk3": "44 7D",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 102,
+                                "flagid": 255,
+                                "setstoryfid": 802,
                                 "tosky_scen_link": 10,
                                 "name_id": 3,
                                 "subtype": "overworld",
                                 "name": "Viewing Platform",
-                                "areaflag": "scene flag: 0xD 40"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check Viewing Platform Statue"
                             }
                         },
                         {
@@ -4314,12 +4320,14 @@
                             "unk3": "FC 7E",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 105,
+                                "flagid": 255,
+                                "setstoryfid": 803,
                                 "tosky_scen_link": 10,
                                 "name_id": 4,
                                 "subtype": "overworld",
                                 "name": "The Great Tree",
-                                "areaflag": "scene flag: 0xC 02"
+                                "areaflag": "no flag",
+                                "setstoryf": "Check Great Tree Statue"
                             }
                         },
                         {

@@ -104,6 +104,13 @@ def objAddExtraInfo(parsed_item):
             subtypes = ['bonk','slingshot','gust bellow blow','underwater something']
             extraInfo['subtype'] = subtypes[parsed_item['unk1'][0] >> 4]
         if parsed_item['name']=='saveObj':
+            # that one skyloft statue
+            if parsed_item['talk_behaviour'] == 65534:
+                extraInfo['flagid']=255
+            # statues with story flag instead of scene flag
+            elif parsed_item['event_flag'] != 255:
+                extraInfo['flagid'] = 255
+                extraInfo['setstoryfid'] = (parsed_item['event_flag']<<8)+parsed_item['transition_type']
             extraInfo['tosky_scen_link'] = parsed_item['unk1'][1]
             extraInfo['name_id'] = parsed_item['unk2'][3]
             subtypes = ['normal','overworld','dungeon']
