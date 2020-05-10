@@ -809,7 +809,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 17",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 111,
+                                "setscenefid": 255,
+                                "event": 0,
+                                "trigscenef": "scene flag: 0xC 80",
+                                "setscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF F3 54 A3",

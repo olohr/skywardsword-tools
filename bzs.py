@@ -172,6 +172,10 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name'] == 'DieTag':
         unk1 = read_word(parsed_item['unk1'])
         extraInfo['setscenefid'] = (unk1 & 0x00000FF0) >> 4
+    elif parsed_item['name'] == 'EvntTag':
+        extraInfo['trigscenefid'] = parsed_item['unk1'][1]
+        extraInfo['setscenefid'] = parsed_item['unk1'][2]
+        extraInfo['event'] = parsed_item['unk1'][3]
 
     # elif parsed_item['name'] == 'MapMark':
     #     extraInfo['map_pop_id'] = (parsed_item['talk_behaviour'] & 0xFF00) >> 8

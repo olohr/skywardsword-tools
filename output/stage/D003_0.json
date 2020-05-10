@@ -798,7 +798,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 15",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 204,
+                                "setscenefid": 118,
+                                "event": 1,
+                                "trigscenef": "loadzone temp flag: 0x8 10",
+                                "setscenef": "scene flag: 0xF 40"
+                            }
                         },
                         {
                             "unk1": "FF FF F1 C2",

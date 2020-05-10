@@ -14317,7 +14317,14 @@
                             "angle": 4369,
                             "talk_behaviour": 0,
                             "unk3": "FE EC",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 31,
+                                "event": 14,
+                                "trigscenef": "no flag",
+                                "setscenef": "scene flag: 0x2 80"
+                            }
                         },
                         {
                             "unk1": "FF FA FF FF",

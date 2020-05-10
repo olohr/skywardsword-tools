@@ -2819,7 +2819,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 7F",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 2,
+                                "setscenefid": 3,
+                                "event": 0,
+                                "trigscenef": "scene flag: 0x1 04",
+                                "setscenef": "scene flag: 0x1 08"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 07",
@@ -2979,7 +2986,14 @@
                             "angle": 60985,
                             "talk_behaviour": 0,
                             "unk3": "FC 89",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 6,
+                                "setscenefid": 7,
+                                "event": 2,
+                                "trigscenef": "scene flag: 0x1 40",
+                                "setscenef": "scene flag: 0x1 80"
+                            }
                         },
                         {
                             "unk1": "00 2F FF 02",
@@ -3043,7 +3057,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 8D",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 9,
+                                "setscenefid": 10,
+                                "event": 4,
+                                "trigscenef": "scene flag: 0x0 02",
+                                "setscenef": "scene flag: 0x0 04"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 03",
@@ -4404,7 +4425,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 1B",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 16,
+                                "setscenefid": 17,
+                                "event": 0,
+                                "trigscenef": "scene flag: 0x3 01",
+                                "setscenef": "scene flag: 0x3 02"
+                            }
                         },
                         {
                             "unk1": "FF 13 11 02",
@@ -4420,7 +4448,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 1C",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 19,
+                                "setscenefid": 17,
+                                "event": 2,
+                                "trigscenef": "scene flag: 0x3 08",
+                                "setscenef": "scene flag: 0x3 02"
+                            }
                         },
                         {
                             "unk1": "FF FF 0B 07",
@@ -5208,7 +5243,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 29",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 25,
+                                "setscenefid": 26,
+                                "event": 0,
+                                "trigscenef": "scene flag: 0x2 02",
+                                "setscenef": "scene flag: 0x2 04"
+                            }
                         }
                     ]
                 },
@@ -6325,7 +6367,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 35",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 30,
+                                "setscenefid": 33,
+                                "event": 0,
+                                "trigscenef": "scene flag: 0x2 40",
+                                "setscenef": "scene flag: 0x5 02"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 03",
@@ -6389,7 +6438,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 39",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 33,
+                                "setscenefid": 39,
+                                "event": 2,
+                                "trigscenef": "scene flag: 0x5 02",
+                                "setscenef": "scene flag: 0x5 80"
+                            }
                         }
                     ]
                 },
@@ -8436,7 +8492,14 @@
                             "angle": 5461,
                             "talk_behaviour": 0,
                             "unk3": "FC 62",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 43,
+                                "setscenefid": 49,
+                                "event": 4,
+                                "trigscenef": "scene flag: 0x4 08",
+                                "setscenef": "scene flag: 0x7 02"
+                            }
                         },
                         {
                             "unk1": "FF 01 FF 01",
@@ -8621,7 +8684,14 @@
                             "angle": 61896,
                             "talk_behaviour": 0,
                             "unk3": "FC 6D",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 42,
+                                "setscenefid": 46,
+                                "event": 0,
+                                "trigscenef": "scene flag: 0x4 04",
+                                "setscenef": "scene flag: 0x4 40"
+                            }
                         },
                         {
                             "unk1": "F0 06 FF FF",
@@ -8893,7 +8963,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 7E",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 47,
+                                "event": 2,
+                                "trigscenef": "no flag",
+                                "setscenef": "scene flag: 0x4 80"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 00",
@@ -8989,7 +9066,14 @@
                             "angle": 62806,
                             "talk_behaviour": 0,
                             "unk3": "FC 84",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 37,
+                                "setscenefid": 38,
+                                "event": 5,
+                                "trigscenef": "scene flag: 0x5 20",
+                                "setscenef": "scene flag: 0x5 40"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 06",
@@ -9005,7 +9089,14 @@
                             "angle": 5461,
                             "talk_behaviour": 0,
                             "unk3": "FC 85",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 255,
+                                "event": 6,
+                                "trigscenef": "no flag",
+                                "setscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 07",
@@ -9421,7 +9512,14 @@
                             "angle": 8192,
                             "talk_behaviour": 0,
                             "unk3": "FC 9F",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 45,
+                                "setscenefid": 48,
+                                "event": 3,
+                                "trigscenef": "scene flag: 0x4 20",
+                                "setscenef": "scene flag: 0x7 01"
+                            }
                         },
                         {
                             "unk1": "FF FF F1 C1",
@@ -11194,7 +11292,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 43",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 50,
+                                "setscenefid": 53,
+                                "event": 0,
+                                "trigscenef": "scene flag: 0x7 04",
+                                "setscenef": "scene flag: 0x7 20"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 04",
@@ -11290,7 +11395,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 58,
+                                "setscenefid": 59,
+                                "event": 4,
+                                "trigscenef": "scene flag: 0x6 04",
+                                "setscenef": "scene flag: 0x6 08"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 07",
@@ -11649,7 +11761,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 5F",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 55,
+                                "setscenefid": 56,
+                                "event": 3,
+                                "trigscenef": "scene flag: 0x7 80",
+                                "setscenef": "scene flag: 0x6 01"
+                            }
                         }
                     ]
                 },
@@ -12474,7 +12593,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 1C",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 110,
+                                "setscenefid": 117,
+                                "event": 5,
+                                "trigscenef": "scene flag: 0xC 40",
+                                "setscenef": "scene flag: 0xF 20"
+                            }
                         },
                         {
                             "unk1": "F1 1E 5F 80",
@@ -12558,7 +12684,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 21",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 106,
+                                "event": 2,
+                                "trigscenef": "no flag",
+                                "setscenef": "scene flag: 0xC 04"
+                            }
                         },
                         {
                             "unk1": "FF 68 FF 05",
@@ -12597,7 +12730,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 24",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 108,
+                                "setscenefid": 109,
+                                "event": 3,
+                                "trigscenef": "scene flag: 0xC 10",
+                                "setscenef": "scene flag: 0xC 20"
+                            }
                         },
                         {
                             "unk1": "FF 7F 7E 01",
@@ -12613,7 +12753,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 25",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 127,
+                                "setscenefid": 126,
+                                "event": 1,
+                                "trigscenef": "scene flag: 0xE 80",
+                                "setscenef": "scene flag: 0xE 40"
+                            }
                         }
                     ]
                 },

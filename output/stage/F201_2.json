@@ -1501,7 +1501,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 46",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 60,
+                                "event": 0,
+                                "trigscenef": "no flag",
+                                "setscenef": "scene flag: 0x6 10"
+                            }
                         },
                         {
                             "unk1": "FF FF FF F0",
@@ -1549,7 +1556,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 61,
+                                "event": 1,
+                                "trigscenef": "no flag",
+                                "setscenef": "scene flag: 0x6 20"
+                            }
                         },
                         {
                             "unk1": "FF F6 FF FF",
@@ -1581,7 +1595,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 4B",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 63,
+                                "event": 2,
+                                "trigscenef": "no flag",
+                                "setscenef": "scene flag: 0x6 80"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C4",

@@ -9401,7 +9401,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 91",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 192,
+                                "event": 11,
+                                "trigscenef": "no flag",
+                                "setscenef": "loadzone temp flag: 0x9 01"
+                            }
                         },
                         {
                             "unk1": "FC FF C1 0C",
@@ -9417,7 +9424,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 92",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 193,
+                                "event": 12,
+                                "trigscenef": "no flag",
+                                "setscenef": "loadzone temp flag: 0x9 02"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 28",

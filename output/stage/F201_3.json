@@ -1729,7 +1729,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 3E",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 100,
+                                "setscenefid": 96,
+                                "event": 0,
+                                "trigscenef": "scene flag: 0xD 10",
+                                "setscenef": "scene flag: 0xD 01"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -1969,7 +1976,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 52",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 98,
+                                "setscenefid": 116,
+                                "event": 1,
+                                "trigscenef": "scene flag: 0xD 04",
+                                "setscenef": "scene flag: 0xF 10"
+                            }
                         },
                         {
                             "unk1": "FF FF FF F1",

@@ -1730,7 +1730,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 41",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 105,
+                                "event": 0,
+                                "trigscenef": "no flag",
+                                "setscenef": "scene flag: 0xC 02"
+                            }
                         },
                         {
                             "unk1": "FF FF 9E 05",

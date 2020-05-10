@@ -12310,7 +12310,14 @@
                             "angle": 12379,
                             "talk_behaviour": 0,
                             "unk3": "FD EE",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 131,
+                                "event": 8,
+                                "trigscenef": "no flag",
+                                "setscenef": "temp flag: 0x1 08"
+                            }
                         },
                         {
                             "unk1": "FF F1 CF F1",

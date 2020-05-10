@@ -551,7 +551,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 11",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 9,
+                                "event": 0,
+                                "trigscenef": "no flag",
+                                "setscenef": "scene flag: 0x0 02"
+                            }
                         },
                         {
                             "unk1": "FF C1 FF 01",
@@ -567,7 +574,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 12",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 193,
+                                "setscenefid": 255,
+                                "event": 1,
+                                "trigscenef": "loadzone temp flag: 0x9 02",
+                                "setscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF 09 00",
@@ -583,7 +597,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 13",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "setscenefid": 9,
+                                "event": 0,
+                                "trigscenef": "no flag",
+                                "setscenef": "scene flag: 0x0 02"
+                            }
                         }
                     ]
                 },

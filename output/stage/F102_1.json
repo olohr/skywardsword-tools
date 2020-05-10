@@ -2572,7 +2572,14 @@
                             "angle": 16384,
                             "talk_behaviour": 0,
                             "unk3": "FC 71",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 100,
+                                "setscenefid": 101,
+                                "event": 1,
+                                "trigscenef": "scene flag: 0xD 10",
+                                "setscenef": "scene flag: 0xD 20"
+                            }
                         }
                     ]
                 },

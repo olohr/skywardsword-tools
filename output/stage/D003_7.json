@@ -732,7 +732,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 16",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 21,
+                                "setscenefid": 22,
+                                "event": 3,
+                                "trigscenef": "scene flag: 0x3 20",
+                                "setscenef": "scene flag: 0x3 40"
+                            }
                         }
                     ]
                 },

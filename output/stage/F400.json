@@ -4213,7 +4213,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC A5",
-                            "name": "EvntTag"
+                            "name": "EvntTag",
+                            "extra_info": {
+                                "trigscenefid": 14,
+                                "setscenefid": 27,
+                                "event": 13,
+                                "trigscenef": "scene flag: 0x0 40",
+                                "setscenef": "scene flag: 0x2 08"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 03",
