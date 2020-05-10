@@ -188,8 +188,8 @@
                     "unk3": "FC 03",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 147,
-                        "areaflag": "temp flag: 0x3 08"
+                        "scenefid": 147,
+                        "scenef": "temp flag: 0x3 08"
                     }
                 }
             ]
@@ -684,10 +684,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 18,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 04",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x3 04"
                             }
                         },
                         {
@@ -707,10 +707,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 76,
                                 "untrigscenefid": 77,
-                                "trigscenef": "scene flag: 0x8 10",
-                                "untrigscenef": "scene flag: 0x8 20",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0x8 10",
+                                "untrigscenef": "scene flag: 0x8 20"
                             }
                         },
                         {
@@ -758,10 +758,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -783,10 +783,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1446,10 +1446,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 15,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x0 80",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x0 80"
                             }
                         }
                     ],
@@ -1695,12 +1695,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 32,
                                 "chestid": 75,
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -1848,8 +1848,8 @@
                             "unk3": "20 0C",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1865,8 +1865,8 @@
                             "unk3": "20 0D",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1882,8 +1882,8 @@
                             "unk3": "20 0E",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1899,8 +1899,8 @@
                             "unk3": "20 0F",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1916,8 +1916,8 @@
                             "unk3": "20 10",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1933,8 +1933,8 @@
                             "unk3": "20 11",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1950,8 +1950,8 @@
                             "unk3": "20 12",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -2153,12 +2153,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 63,
                                 "chestid": 73,
-                                "item": "evil crystal"
+                                "item": "evil crystal",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -2584,12 +2584,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 63,
                                 "chestid": 74,
-                                "item": "evil crystal"
+                                "item": "evil crystal",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -2841,8 +2841,8 @@
                             "unk3": "18 14",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2858,8 +2858,8 @@
                             "unk3": "18 15",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2875,8 +2875,8 @@
                             "unk3": "18 16",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2892,8 +2892,8 @@
                             "unk3": "18 17",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2909,8 +2909,8 @@
                             "unk3": "FC 18",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2926,8 +2926,8 @@
                             "unk3": "FC 19",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2943,8 +2943,8 @@
                             "unk3": "FC 1A",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2960,8 +2960,8 @@
                             "unk3": "18 1B",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2990,8 +2990,8 @@
                             "unk3": "18 1D",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3007,8 +3007,8 @@
                             "unk3": "18 1E",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {

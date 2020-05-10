@@ -70,8 +70,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 },
                 {
@@ -686,12 +686,12 @@
                             "unk3": "FC 04",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 72,
+                                "scenefid": 72,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
                                 "subtype": "dungeon",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x8 01"
+                                "scenef": "scene flag: 0x8 01"
                             }
                         },
                         {
@@ -720,8 +720,8 @@
                             "unk3": "FC 16",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 114,
-                                "areaflag": "scene flag: 0xF 04"
+                                "scenefid": 114,
+                                "scenef": "scene flag: 0xF 04"
                             }
                         }
                     ],
@@ -1080,8 +1080,8 @@
                             "unk3": "FC 1F",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1097,8 +1097,8 @@
                             "unk3": "FC 20",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1114,8 +1114,8 @@
                             "unk3": "FC 21",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1131,8 +1131,8 @@
                             "unk3": "FC 22",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1148,8 +1148,8 @@
                             "unk3": "FC 23",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1191,8 +1191,8 @@
                             "unk3": "FC 26",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 174,
+                                "scenef": "temp flag: 0x4 40"
                             }
                         },
                         {
@@ -1208,8 +1208,8 @@
                             "unk3": "FC 27",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2726,11 +2726,11 @@
                                 "setstoryfid": 693,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
-                                "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "setstoryf": "Going near first door in Sky keep",
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -2752,11 +2752,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 693,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": ""
+                                "unsetstoryf": "Going near first door in Sky keep",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -2970,11 +2970,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 117,
-                                "setscenef": "scene flag: 0xF 20",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0xF 20",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -3076,11 +3076,11 @@
                                 "setstoryfid": 695,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -3097,7 +3097,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC A4",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 106,
+                                "setscenef": "scene flag: 0xC 04"
+                            }
                         }
                     ]
                 },

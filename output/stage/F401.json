@@ -166,8 +166,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 141,
-                        "areaflag": "temp flag: 0x0 20"
+                        "scenefid": 141,
+                        "scenef": "temp flag: 0x0 20"
                     }
                 },
                 {
@@ -2102,9 +2102,9 @@
                             "unk3": "FC 02",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 13,
+                                "scenefid": 13,
                                 "scen_link": 0,
-                                "areaflag": "scene flag: 0x0 20"
+                                "scenef": "scene flag: 0x0 20"
                             }
                         },
                         {
@@ -2120,12 +2120,12 @@
                             "unk3": "FC 0C",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 31,
+                                "scenefid": 31,
                                 "tosky_scen_link": 5,
                                 "name_id": 0,
                                 "subtype": "overworld",
                                 "name": "Behind the Temple",
-                                "areaflag": "scene flag: 0x2 80"
+                                "scenef": "scene flag: 0x2 80"
                             }
                         },
                         {
@@ -2141,12 +2141,12 @@
                             "unk3": "FC 0D",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 32,
+                                "scenefid": 32,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x5 01"
+                                "scenef": "scene flag: 0x5 01"
                             }
                         },
                         {
@@ -2162,9 +2162,9 @@
                             "unk3": "FC 0E",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 23,
+                                "scenefid": 23,
                                 "scen_link": 1,
-                                "areaflag": "scene flag: 0x3 80"
+                                "scenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -2180,9 +2180,9 @@
                             "unk3": "FC 0F",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 23,
+                                "scenefid": 23,
                                 "scen_link": 1,
-                                "areaflag": "scene flag: 0x3 80"
+                                "scenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -2198,9 +2198,9 @@
                             "unk3": "FC 10",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2216,9 +2216,9 @@
                             "unk3": "FC 11",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2234,12 +2234,12 @@
                             "unk3": "FC 12",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 35,
+                                "scenefid": 35,
                                 "tosky_scen_link": 19,
                                 "name_id": 28,
                                 "subtype": "overworld",
                                 "name": "Sealed Grounds",
-                                "areaflag": "scene flag: 0x5 08"
+                                "scenef": "scene flag: 0x5 08"
                             }
                         },
                         {
@@ -2256,12 +2256,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 126,
                                 "chestid": 64,
-                                "item": "Revitalizing Potion (does Crash)"
+                                "item": "Revitalizing Potion (does Crash)",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -2376,8 +2376,8 @@
                             "unk3": "FC 08",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 39,
-                                "areaflag": "scene flag: 0x5 80"
+                                "scenefid": 39,
+                                "scenef": "scene flag: 0x5 80"
                             }
                         },
                         {
@@ -2397,10 +2397,10 @@
                                 "untrigstoryfid": 121,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)"
+                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -2442,10 +2442,10 @@
                             "unk3": "FC 16",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2461,10 +2461,10 @@
                             "unk3": "FC 17",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2480,10 +2480,10 @@
                             "unk3": "FC 18",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2499,10 +2499,10 @@
                             "unk3": "FC 19",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2518,10 +2518,10 @@
                             "unk3": "FC 1A",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2537,10 +2537,10 @@
                             "unk3": "FC 1B",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2556,10 +2556,10 @@
                             "unk3": "FC 1C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2575,10 +2575,10 @@
                             "unk3": "FC 1D",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2594,10 +2594,10 @@
                             "unk3": "FC 1E",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2613,10 +2613,10 @@
                             "unk3": "FC 1F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2632,10 +2632,10 @@
                             "unk3": "FC 20",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2651,10 +2651,10 @@
                             "unk3": "FC 21",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2670,10 +2670,10 @@
                             "unk3": "FC 22",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2689,10 +2689,10 @@
                             "unk3": "FC 23",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2708,10 +2708,10 @@
                             "unk3": "FC 24",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2727,10 +2727,10 @@
                             "unk3": "FC 25",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2746,10 +2746,10 @@
                             "unk3": "FC 26",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2765,10 +2765,10 @@
                             "unk3": "FC 27",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2784,10 +2784,10 @@
                             "unk3": "FC 28",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2803,10 +2803,10 @@
                             "unk3": "FC 29",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2822,10 +2822,10 @@
                             "unk3": "FC 2A",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2841,10 +2841,10 @@
                             "unk3": "FC 2B",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2860,10 +2860,10 @@
                             "unk3": "FC 2C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2879,10 +2879,10 @@
                             "unk3": "FC 2D",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3488,10 +3488,10 @@
                             "unk3": "FC 52",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 150,
+                                "scenefid": 150,
                                 "tgreactitemid": 4,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x3 40"
+                                "scenef": "temp flag: 0x3 40"
                             }
                         },
                         {
@@ -3510,10 +3510,10 @@
                             "unk3": "FC 53",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 151,
+                                "scenefid": 151,
                                 "tgreactitemid": 4,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x3 80"
+                                "scenef": "temp flag: 0x3 80"
                             }
                         },
                         {
@@ -3532,10 +3532,10 @@
                             "unk3": "FC 54",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 152,
+                                "scenefid": 152,
                                 "tgreactitemid": 4,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x2 01"
+                                "scenef": "temp flag: 0x2 01"
                             }
                         },
                         {
@@ -3554,10 +3554,10 @@
                             "unk3": "FC 55",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 153,
+                                "scenefid": 153,
                                 "tgreactitemid": 9,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 02"
+                                "scenef": "temp flag: 0x2 02"
                             }
                         },
                         {
@@ -3576,10 +3576,10 @@
                             "unk3": "FC 56",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 154,
+                                "scenefid": 154,
                                 "tgreactitemid": 8,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 04"
+                                "scenef": "temp flag: 0x2 04"
                             }
                         },
                         {
@@ -3598,8 +3598,8 @@
                             "unk3": "FC 75",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 9,
+                                "scenef": "scene flag: 0x0 02"
                             }
                         },
                         {
@@ -3618,8 +3618,8 @@
                             "unk3": "FC 76",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3638,8 +3638,8 @@
                             "unk3": "FC 77",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3658,8 +3658,8 @@
                             "unk3": "FC 78",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3678,8 +3678,8 @@
                             "unk3": "FC 79",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3698,8 +3698,8 @@
                             "unk3": "FC 7A",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3718,8 +3718,8 @@
                             "unk3": "FC 7B",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3738,8 +3738,8 @@
                             "unk3": "FC 7C",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3758,8 +3758,8 @@
                             "unk3": "FC 7D",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3778,8 +3778,8 @@
                             "unk3": "FC 7E",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3798,8 +3798,8 @@
                             "unk3": "FC 7F",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3818,8 +3818,8 @@
                             "unk3": "FC 80",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3838,8 +3838,8 @@
                             "unk3": "FC 81",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3858,8 +3858,8 @@
                             "unk3": "FC 82",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3878,8 +3878,8 @@
                             "unk3": "FC 83",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -3898,8 +3898,8 @@
                             "unk3": "FC 84",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         }
                     ],
@@ -4227,10 +4227,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -4484,10 +4484,10 @@
                                 "untrigstoryfid": 789,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])"
+                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -4591,10 +4591,10 @@
                                 "untrigstoryfid": 789,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])"
+                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -4614,10 +4614,10 @@
                                 "untrigstoryfid": 789,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 54,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x7 40",
                                 "trigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)",
-                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])"
+                                "untrigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x7 40"
                             }
                         },
                         {
@@ -4637,10 +4637,10 @@
                                 "untrigstoryfid": 797,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])",
-                                "untrigstoryf": "Set after Fi text after skyward striking imp spike first time"
+                                "untrigstoryf": "Set after Fi text after skyward striking imp spike first time",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         }
                     ],
@@ -4710,10 +4710,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 138,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)"
                             }
@@ -4735,10 +4735,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 138,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)"
                             }
@@ -4842,11 +4842,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 791,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -4868,11 +4868,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 791,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -4894,11 +4894,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 791,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -4920,11 +4920,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 791,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -4946,11 +4946,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 791,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -4972,11 +4972,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 791,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -4998,11 +4998,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 791,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -5024,11 +5024,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 791,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -5048,10 +5048,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 138,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Cutscene near sealed temple entrance first time in sealed grounds (Sealed Temple layer 1)"
                             }
@@ -5075,11 +5075,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 790,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 54,
-                                "unsetscenef": "scene flag: 0x7 40",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "scene flag: 0x7 40"
                             }
                         },
                         {
@@ -5101,11 +5101,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 790,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 54,
-                                "unsetscenef": "scene flag: 0x7 40",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "scene flag: 0x7 40"
                             }
                         },
                         {
@@ -5127,11 +5127,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 790,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 54,
-                                "unsetscenef": "scene flag: 0x7 40",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "scene flag: 0x7 40"
                             }
                         },
                         {
@@ -5153,11 +5153,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 790,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 54,
-                                "unsetscenef": "scene flag: 0x7 40",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "scene flag: 0x7 40"
                             }
                         },
                         {
@@ -5179,11 +5179,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 790,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 54,
-                                "unsetscenef": "scene flag: 0x7 40",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "scene flag: 0x7 40"
                             }
                         },
                         {
@@ -5205,11 +5205,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 790,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 54,
-                                "unsetscenef": "scene flag: 0x7 40",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "scene flag: 0x7 40"
                             }
                         },
                         {
@@ -5231,11 +5231,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 790,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 54,
-                                "unsetscenef": "scene flag: 0x7 40",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "scene flag: 0x7 40"
                             }
                         },
                         {
@@ -5257,11 +5257,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 790,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 54,
-                                "unsetscenef": "scene flag: 0x7 40",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set going close to imp spike first time (unset later)"
+                                "unsetstoryf": "Set going close to imp spike first time (unset later)",
+                                "setscenef": "no flag",
+                                "unsetscenef": "scene flag: 0x7 40"
                             }
                         },
                         {
@@ -5299,11 +5299,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 207,
-                                "setscenef": "loadzone temp flag: 0x8 80",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "loadzone temp flag: 0x8 80",
+                                "unsetscenef": "no flag"
                             }
                         }
                     ]
@@ -5440,10 +5440,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -5463,10 +5463,10 @@
                                 "untrigstoryfid": 131,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)"
+                                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -5486,10 +5486,10 @@
                                 "untrigstoryfid": 143,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)",
-                                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)"
+                                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -5541,10 +5541,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 45,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 20",
                                 "trigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x4 20"
                             }
                         },
                         {
@@ -5621,10 +5621,10 @@
                                 "untrigstoryfid": 143,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)",
-                                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)"
+                                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -5663,10 +5663,10 @@
                                 "untrigstoryfid": 778,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
+                                "trigstoryf": "set after starting a imp fight again (with dieing)",
+                                "untrigstoryf": "Ask Fi after already dying to imp 1 (needs ACx04)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "no flag"
                             }
                         }
                     ],
@@ -5825,10 +5825,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -5848,10 +5848,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 46,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 40",
                                 "trigstoryf": "Imp 2 fight triggered (set when Groose opens door inside temple)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x4 40"
                             }
                         },
                         {
@@ -5903,10 +5903,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -5926,10 +5926,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 81,
                                 "untrigscenefid": 91,
-                                "trigscenef": "scene flag: 0xB 02",
-                                "untrigscenef": "scene flag: 0xA 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0xB 02",
+                                "untrigscenef": "scene flag: 0xA 08"
                             }
                         },
                         {
@@ -5949,10 +5949,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 81,
                                 "untrigscenefid": 91,
-                                "trigscenef": "scene flag: 0xB 02",
-                                "untrigscenef": "scene flag: 0xA 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0xB 02",
+                                "untrigscenef": "scene flag: 0xA 08"
                             }
                         },
                         {
@@ -6037,10 +6037,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 81,
                                 "untrigscenefid": 91,
-                                "trigscenef": "scene flag: 0xB 02",
-                                "untrigscenef": "scene flag: 0xA 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0xB 02",
+                                "untrigscenef": "scene flag: 0xA 08"
                             }
                         },
                         {
@@ -6060,10 +6060,10 @@
                                 "untrigstoryfid": 779,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
+                                "trigstoryf": "set after starting a imp fight again (with dieing)",
+                                "untrigstoryf": "Ask Fi after already dying to imp 2 (needs ACx04)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "no flag"
                             }
                         }
                     ],
@@ -6177,10 +6177,10 @@
                                 "untrigstoryfid": 780,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
+                                "trigstoryf": "set after starting a imp fight again (with dieing)",
+                                "untrigstoryf": "Ask Fi after already dying to imp 3 (needs ACx04)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -6200,10 +6200,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -6223,10 +6223,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -6246,10 +6246,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 47,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 80",
                                 "trigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x4 80"
                             }
                         },
                         {
@@ -6301,10 +6301,10 @@
                                 "untrigstoryfid": 145,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)"
+                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -6343,10 +6343,10 @@
                                 "untrigstoryfid": 145,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)"
+                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -6366,10 +6366,10 @@
                                 "untrigstoryfid": 145,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)"
+                                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -6389,10 +6389,10 @@
                                 "untrigstoryfid": 483,
                                 "trigscenefid": 108,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0xC 10",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Imp 3 related"
+                                "untrigstoryf": "Imp 3 related",
+                                "trigscenef": "scene flag: 0xC 10",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {

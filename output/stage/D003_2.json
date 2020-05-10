@@ -104,8 +104,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 }
             ]
@@ -551,12 +551,12 @@
                             "unk3": "FC 24",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 73,
+                                "scenefid": 73,
                                 "tosky_scen_link": 3,
                                 "name_id": 255,
                                 "subtype": "dungeon",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x8 02"
+                                "scenef": "scene flag: 0x8 02"
                             }
                         },
                         {
@@ -1003,10 +1003,10 @@
                             "unk3": "FC 21",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 61,
+                                "scenefid": 61,
                                 "itemid": 95,
-                                "areaflag": "scene flag: 0x6 20",
-                                "item": "Triforce of Courage"
+                                "item": "Triforce of Courage",
+                                "scenef": "scene flag: 0x6 20"
                             }
                         },
                         {
@@ -1048,8 +1048,8 @@
                             "unk3": "FC 25",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1065,8 +1065,8 @@
                             "unk3": "FC 26",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1082,8 +1082,8 @@
                             "unk3": "FC 27",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1099,8 +1099,8 @@
                             "unk3": "FC 28",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1116,8 +1116,8 @@
                             "unk3": "FC 29",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1133,8 +1133,8 @@
                             "unk3": "FC 2A",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1150,8 +1150,8 @@
                             "unk3": "FC 2B",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1167,8 +1167,8 @@
                             "unk3": "FC 2C",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1223,8 +1223,8 @@
                             "unk3": "FC 30",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1240,8 +1240,8 @@
                             "unk3": "FC 31",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1261,10 +1261,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 56,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x6 01",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x6 01"
                             }
                         },
                         {
@@ -1284,10 +1284,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 46,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 40",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x4 40"
                             }
                         },
                         {
@@ -1316,10 +1316,10 @@
                             "unk3": "FC 35",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 36,
+                                "scenefid": 36,
                                 "itemid": 32,
-                                "areaflag": "scene flag: 0x5 10",
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "scenef": "scene flag: 0x5 10"
                             }
                         },
                         {
@@ -1417,10 +1417,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 24,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 01",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x2 01"
                             }
                         },
                         {
@@ -1491,11 +1491,11 @@
                                 "setstoryfid": 693,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
-                                "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "setstoryf": "Going near first door in Sky keep",
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -1549,11 +1549,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 124,
-                                "setscenef": "scene flag: 0xE 10",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0xE 10",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -1575,11 +1575,11 @@
                                 "setstoryfid": 1120,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -1601,11 +1601,11 @@
                                 "setstoryfid": 696,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {

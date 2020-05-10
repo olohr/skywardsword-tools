@@ -161,9 +161,9 @@
                             "unk3": "FC 00",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 78,
+                                "scenefid": 78,
                                 "scen_link": 0,
-                                "areaflag": "scene flag: 0x8 40"
+                                "scenef": "scene flag: 0x8 40"
                             }
                         },
                         {
@@ -180,12 +180,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 108,
                                 "chestid": 127,
-                                "item": "Medium Wallet"
+                                "item": "Medium Wallet",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -202,12 +202,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 109,
                                 "chestid": 127,
-                                "item": "Big Wallet"
+                                "item": "Big Wallet",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -224,12 +224,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 110,
                                 "chestid": 127,
-                                "item": "Giant Wallet"
+                                "item": "Giant Wallet",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -246,12 +246,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 111,
                                 "chestid": 127,
-                                "item": "Tycoon Wallet"
+                                "item": "Tycoon Wallet",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -268,12 +268,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 94,
                                 "chestid": 127,
-                                "item": "Heart piece"
+                                "item": "Heart piece",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -290,12 +290,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 83,
-                                "spawnscenef": "scene flag: 0xB 08",
-                                "trigscenefid": 192,
-                                "trigscenef": "loadzone temp flag: 0x9 01",
+                                "setscenefid": 192,
                                 "itemid": 104,
                                 "chestid": 69,
-                                "item": "Cursed Medal"
+                                "item": "Cursed Medal",
+                                "spawnscenef": "scene flag: 0xB 08",
+                                "setscenef": "loadzone temp flag: 0x9 01"
                             }
                         }
                     ],
@@ -765,10 +765,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 83,
                                 "untrigscenefid": 84,
-                                "trigscenef": "scene flag: 0xB 08",
-                                "untrigscenef": "scene flag: 0xB 10",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0xB 08",
+                                "untrigscenef": "scene flag: 0xB 10"
                             }
                         },
                         {
@@ -788,10 +788,10 @@
                                 "untrigstoryfid": 104,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Sets when talking to Batreaux after getting Crystals (allows Crystal Dowsing?)",
-                                "untrigstoryf": "Crystal Dowsing"
+                                "untrigstoryf": "Crystal Dowsing",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         }
                     ]

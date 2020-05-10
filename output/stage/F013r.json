@@ -371,9 +371,9 @@
                             "unk3": "FC 0B",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -490,10 +490,10 @@
                             "unk3": "FC 14",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 179,
+                                "scenefid": 179,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x7 08"
+                                "scenef": "temp flag: 0x7 08"
                             }
                         }
                     ],
@@ -533,11 +533,11 @@
                                 "setstoryfid": 718,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "Fortune Teller Sparrot's House entered (name on map appears)",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {

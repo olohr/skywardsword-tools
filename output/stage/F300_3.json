@@ -596,8 +596,8 @@
                             "unk3": "FC 08",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -613,8 +613,8 @@
                             "unk3": "FC 09",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 81,
-                                "areaflag": "scene flag: 0xB 02"
+                                "scenefid": 81,
+                                "scenef": "scene flag: 0xB 02"
                             }
                         },
                         {
@@ -630,8 +630,8 @@
                             "unk3": "FC 0D",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -647,8 +647,8 @@
                             "unk3": "FC 0E",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -665,12 +665,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 3,
                                 "chestid": 78,
-                                "item": "Blue rupee"
+                                "item": "Blue rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -687,12 +687,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 165,
                                 "chestid": 79,
-                                "item": "Eldin Ore"
+                                "item": "Eldin Ore",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -709,12 +709,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 3,
                                 "chestid": 80,
-                                "item": "Blue rupee"
+                                "item": "Blue rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -731,12 +731,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 171,
                                 "chestid": 81,
-                                "item": "Monster Horn"
+                                "item": "Monster Horn",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -753,12 +753,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 3,
                                 "chestid": 82,
-                                "item": "Blue rupee"
+                                "item": "Blue rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -841,8 +841,8 @@
                             "unk3": "FC 05",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 243,
-                                "areaflag": "loadzone temp flag: 0xF 08"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -858,8 +858,8 @@
                             "unk3": "FC 06",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 243,
-                                "areaflag": "loadzone temp flag: 0xF 08"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -920,8 +920,8 @@
                             "unk3": "FC 0C",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 242,
-                                "areaflag": "loadzone temp flag: 0xF 04"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -937,8 +937,8 @@
                             "unk3": "FC 10",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -954,8 +954,8 @@
                             "unk3": "FC 11",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -971,8 +971,8 @@
                             "unk3": "FC 12",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -988,8 +988,8 @@
                             "unk3": "FC 13",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1005,8 +1005,8 @@
                             "unk3": "FC 14",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1022,8 +1022,8 @@
                             "unk3": "FC 15",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1039,8 +1039,8 @@
                             "unk3": "FC 16",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1056,8 +1056,8 @@
                             "unk3": "FC 17",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1073,8 +1073,8 @@
                             "unk3": "FC 19",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1090,8 +1090,8 @@
                             "unk3": "FC 1A",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1107,8 +1107,8 @@
                             "unk3": "FC 1F",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1219,10 +1219,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 106,
                                 "untrigscenefid": 107,
-                                "trigscenef": "scene flag: 0xC 04",
-                                "untrigscenef": "scene flag: 0xC 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0xC 04",
+                                "untrigscenef": "scene flag: 0xC 08"
                             }
                         },
                         {
@@ -1242,10 +1242,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 56,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x6 01",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x6 01"
                             }
                         }
                     ],
@@ -1554,10 +1554,10 @@
                             "unk3": "FC 3E",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 138,
+                                "scenefid": 138,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 04"
+                                "scenef": "temp flag: 0x0 04"
                             }
                         },
                         {
@@ -1576,10 +1576,10 @@
                             "unk3": "FC 3F",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 139,
+                                "scenefid": 139,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 08"
+                                "scenef": "temp flag: 0x0 08"
                             }
                         }
                     ],
@@ -1601,10 +1601,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }

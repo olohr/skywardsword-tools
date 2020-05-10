@@ -91,8 +91,8 @@
                     "unk3": "FC 01",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 255,
-                        "areaflag": "no flag"
+                        "scenefid": 255,
+                        "scenef": "no flag"
                     }
                 },
                 {
@@ -487,12 +487,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 62,
-                                "trigscenef": "scene flag: 0x6 40",
+                                "setscenefid": 62,
                                 "itemid": 112,
                                 "chestid": 71,
-                                "item": "Adveture pouch"
+                                "item": "Adveture pouch",
+                                "spawnscenef": "no flag",
+                                "setscenef": "scene flag: 0x6 40"
                             }
                         },
                         {
@@ -534,12 +534,12 @@
                             "unk3": "FC 12",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 117,
+                                "scenefid": 117,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0xF 20"
+                                "scenef": "scene flag: 0xF 20"
                             }
                         },
                         {
@@ -555,8 +555,8 @@
                             "unk3": "FC 13",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 43,
-                                "areaflag": "scene flag: 0x4 08"
+                                "scenefid": 43,
+                                "scenef": "scene flag: 0x4 08"
                             }
                         },
                         {
@@ -573,12 +573,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 3,
                                 "chestid": 72,
-                                "item": "Blue rupee"
+                                "item": "Blue rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -765,8 +765,8 @@
                             "unk3": "FC 15",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 241,
-                                "areaflag": "loadzone temp flag: 0xF 02"
+                                "scenefid": 128,
+                                "scenef": "temp flag: 0x1 01"
                             }
                         },
                         {
@@ -821,8 +821,8 @@
                             "unk3": "FC 19",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -838,8 +838,8 @@
                             "unk3": "FC 1A",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -855,8 +855,8 @@
                             "unk3": "FC 1B",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -872,8 +872,8 @@
                             "unk3": "FC 1C",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -889,8 +889,8 @@
                             "unk3": "FC 1D",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -958,8 +958,8 @@
                             "unk3": "FC 22",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -975,8 +975,8 @@
                             "unk3": "FC 23",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1018,8 +1018,8 @@
                             "unk3": "FC 27",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 6,
+                                "scenef": "scene flag: 0x1 40"
                             }
                         },
                         {
@@ -1035,8 +1035,8 @@
                             "unk3": "FC 28",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 6,
+                                "scenef": "scene flag: 0x1 40"
                             }
                         },
                         {
@@ -1052,8 +1052,8 @@
                             "unk3": "FC 29",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 6,
+                                "scenef": "scene flag: 0x1 40"
                             }
                         },
                         {
@@ -1160,8 +1160,8 @@
                             "unk3": "FC 31",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1177,8 +1177,8 @@
                             "unk3": "FC 32",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1211,10 +1211,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 44,
                                 "untrigscenefid": 45,
-                                "trigscenef": "scene flag: 0x4 10",
-                                "untrigscenef": "scene flag: 0x4 20",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0x4 10",
+                                "untrigscenef": "scene flag: 0x4 20"
                             }
                         },
                         {
@@ -1406,10 +1406,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1431,10 +1431,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }

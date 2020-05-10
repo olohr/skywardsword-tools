@@ -80,8 +80,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 255,
-                        "areaflag": "no flag"
+                        "scenefid": 255,
+                        "scenef": "no flag"
                     }
                 },
                 {
@@ -253,12 +253,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 4,
                                 "chestid": 67,
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -275,12 +275,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 4,
                                 "chestid": 68,
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -480,8 +480,8 @@
                             "unk3": "FC 10",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -497,8 +497,8 @@
                             "unk3": "FC 11",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -514,8 +514,8 @@
                             "unk3": "FC 12",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -531,10 +531,10 @@
                             "unk3": "FC 13",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 88,
+                                "scenefid": 88,
                                 "itemid": 4,
-                                "areaflag": "scene flag: 0xA 01",
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "scenef": "scene flag: 0xA 01"
                             }
                         },
                         {
@@ -550,10 +550,10 @@
                             "unk3": "FC 14",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 88,
+                                "scenefid": 88,
                                 "itemid": 4,
-                                "areaflag": "scene flag: 0xA 01",
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "scenef": "scene flag: 0xA 01"
                             }
                         },
                         {
@@ -938,10 +938,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -963,10 +963,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1085,12 +1085,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 192,
-                                "spawnscenef": "loadzone temp flag: 0x9 01",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 174,
                                 "chestid": 127,
-                                "item": "Blue Bird Feather"
+                                "item": "Blue Bird Feather",
+                                "spawnscenef": "loadzone temp flag: 0x9 01",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1107,12 +1107,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 193,
-                                "spawnscenef": "loadzone temp flag: 0x9 02",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 175,
                                 "chestid": 127,
-                                "item": "Golden Skull"
+                                "item": "Golden Skull",
+                                "spawnscenef": "loadzone temp flag: 0x9 02",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1129,12 +1129,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 194,
-                                "spawnscenef": "loadzone temp flag: 0x9 04",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 176,
                                 "chestid": 127,
-                                "item": "Goddess Plume"
+                                "item": "Goddess Plume",
+                                "spawnscenef": "loadzone temp flag: 0x9 04",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1151,12 +1151,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 195,
-                                "spawnscenef": "loadzone temp flag: 0x9 08",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 168,
                                 "chestid": 127,
-                                "item": "Dusk Relic"
+                                "item": "Dusk Relic",
+                                "spawnscenef": "loadzone temp flag: 0x9 08",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1173,12 +1173,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 198,
-                                "spawnscenef": "loadzone temp flag: 0x9 40",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 173,
                                 "chestid": 127,
-                                "item": "Evil Crystal"
+                                "item": "Evil Crystal",
+                                "spawnscenef": "loadzone temp flag: 0x9 40",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1195,12 +1195,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 199,
-                                "spawnscenef": "loadzone temp flag: 0x9 80",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 171,
                                 "chestid": 127,
-                                "item": "Monster Horn"
+                                "item": "Monster Horn",
+                                "spawnscenef": "loadzone temp flag: 0x9 80",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -1218,8 +1218,8 @@
                             "unk3": "FC 33",
                             "name": "HrpHint",
                             "extra_info": {
-                                "flagid": 125,
-                                "areaflag": "scene flag: 0xE 20"
+                                "scenefid": 125,
+                                "scenef": "scene flag: 0xE 20"
                             }
                         }
                     ],

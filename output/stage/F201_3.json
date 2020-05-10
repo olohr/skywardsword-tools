@@ -121,8 +121,8 @@
                     "unk3": "FC 03",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 131,
-                        "areaflag": "temp flag: 0x1 08"
+                        "scenefid": 131,
+                        "scenef": "temp flag: 0x1 08"
                     }
                 },
                 {
@@ -655,8 +655,8 @@
                             "unk3": "FC 03",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 110,
-                                "areaflag": "scene flag: 0xC 40"
+                                "scenefid": 110,
+                                "scenef": "scene flag: 0xC 40"
                             }
                         },
                         {
@@ -672,12 +672,12 @@
                             "unk3": "FC 0B",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 101,
+                                "scenefid": 101,
                                 "tosky_scen_link": 2,
                                 "name_id": 14,
                                 "subtype": "overworld",
                                 "name": "Inside the Volcano",
-                                "areaflag": "scene flag: 0xD 20"
+                                "scenef": "scene flag: 0xD 20"
                             }
                         }
                     ],
@@ -695,8 +695,8 @@
                             "unk3": "FC 00",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 129,
+                                "scenef": "temp flag: 0x1 02"
                             }
                         },
                         {
@@ -712,8 +712,8 @@
                             "unk3": "FC 01",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 130,
+                                "scenef": "temp flag: 0x1 04"
                             }
                         },
                         {
@@ -771,8 +771,8 @@
                             "unk3": "FC 06",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 132,
+                                "scenef": "temp flag: 0x1 10"
                             }
                         },
                         {
@@ -788,8 +788,8 @@
                             "unk3": "FC 07",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 133,
+                                "scenef": "temp flag: 0x1 20"
                             }
                         },
                         {
@@ -883,10 +883,10 @@
                             "unk3": "FC 0F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 104,
+                                "scenefid": 104,
                                 "itemid": 94,
-                                "areaflag": "scene flag: 0xC 01",
-                                "item": "Heart piece"
+                                "item": "Heart piece",
+                                "scenef": "scene flag: 0xC 01"
                             }
                         },
                         {
@@ -998,8 +998,8 @@
                             "unk3": "FC 16",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1015,8 +1015,8 @@
                             "unk3": "FC 17",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1032,8 +1032,8 @@
                             "unk3": "FC 18",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1049,8 +1049,8 @@
                             "unk3": "FC 19",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1066,8 +1066,8 @@
                             "unk3": "FC 1A",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1083,8 +1083,8 @@
                             "unk3": "FC 1B",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1100,8 +1100,8 @@
                             "unk3": "FC 1C",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1117,8 +1117,8 @@
                             "unk3": "FC 1D",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1134,8 +1134,8 @@
                             "unk3": "FC 1E",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1151,8 +1151,8 @@
                             "unk3": "FC 1F",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1168,8 +1168,8 @@
                             "unk3": "FC 20",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1185,8 +1185,8 @@
                             "unk3": "FC 21",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1215,8 +1215,8 @@
                             "unk3": "FC 23",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 134,
+                                "scenef": "temp flag: 0x1 40"
                             }
                         },
                         {
@@ -1232,10 +1232,10 @@
                             "unk3": "FC 24",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 136,
+                                "scenefid": 136,
                                 "itemid": 2,
-                                "areaflag": "temp flag: 0x0 01",
-                                "item": "green rupee"
+                                "item": "green rupee",
+                                "scenef": "temp flag: 0x0 01"
                             }
                         },
                         {
@@ -1251,10 +1251,10 @@
                             "unk3": "FC 25",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 135,
+                                "scenefid": 135,
                                 "itemid": 3,
-                                "areaflag": "temp flag: 0x1 80",
-                                "item": "Blue rupee"
+                                "item": "Blue rupee",
+                                "scenef": "temp flag: 0x1 80"
                             }
                         },
                         {
@@ -1387,8 +1387,8 @@
                             "unk3": "FC 2F",
                             "name": "HrpHint",
                             "extra_info": {
-                                "flagid": 119,
-                                "areaflag": "scene flag: 0xF 80"
+                                "scenefid": 119,
+                                "scenef": "scene flag: 0xF 80"
                             }
                         },
                         {
@@ -1508,8 +1508,8 @@
                             "unk3": "FC 38",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 113,
-                                "areaflag": "scene flag: 0xF 02"
+                                "scenefid": 167,
+                                "scenef": "temp flag: 0x5 80"
                             }
                         },
                         {
@@ -1525,8 +1525,8 @@
                             "unk3": "FC 39",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 242,
-                                "areaflag": "loadzone temp flag: 0xF 04"
+                                "scenefid": 168,
+                                "scenef": "temp flag: 0x4 01"
                             }
                         }
                     ],
@@ -1579,10 +1579,10 @@
                             "unk3": "FC 4A",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 140,
+                                "scenefid": 140,
                                 "tgreactitemid": 18,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x0 10"
+                                "scenef": "temp flag: 0x0 10"
                             }
                         },
                         {
@@ -1601,10 +1601,10 @@
                             "unk3": "FC 4B",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 141,
+                                "scenefid": 141,
                                 "tgreactitemid": 18,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x0 20"
+                                "scenef": "temp flag: 0x0 20"
                             }
                         },
                         {
@@ -1623,10 +1623,10 @@
                             "unk3": "FC 4C",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 113,
+                                "scenefid": 113,
                                 "tgreactitemid": 20,
                                 "subtype": "slingshot",
-                                "areaflag": "scene flag: 0xF 02"
+                                "scenef": "scene flag: 0xF 02"
                             }
                         }
                     ],
@@ -1682,10 +1682,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1707,10 +1707,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -2111,10 +2111,10 @@
                                 "untrigstoryfid": 468,
                                 "trigscenefid": 108,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0xC 10",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Goron Text after Watering 1st Frog"
+                                "untrigstoryf": "Goron Text after Watering 1st Frog",
+                                "trigscenef": "scene flag: 0xC 10",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -2134,10 +2134,10 @@
                                 "untrigstoryfid": 469,
                                 "trigscenefid": 109,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0xC 20",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Goron Text after Watering 2nd frog"
+                                "untrigstoryf": "Goron Text after Watering 2nd frog",
+                                "trigscenef": "scene flag: 0xC 20",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -2157,10 +2157,10 @@
                                 "untrigstoryfid": 467,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Goron Text near Big Frog"
+                                "untrigstoryf": "Goron Text near Big Frog",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -2180,10 +2180,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 107,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xC 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xC 08"
                             }
                         },
                         {
@@ -2203,10 +2203,10 @@
                                 "untrigstoryfid": 110,
                                 "trigscenefid": 192,
                                 "untrigscenefid": 255,
-                                "trigscenef": "loadzone temp flag: 0x9 01",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Goddess Cube Dowsing"
+                                "untrigstoryf": "Goddess Cube Dowsing",
+                                "trigscenef": "loadzone temp flag: 0x9 01",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -2226,10 +2226,10 @@
                                 "untrigstoryfid": 669,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 115,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xF 08",
                                 "trigstoryf": "Goron Text near Big Frog",
-                                "untrigstoryf": "Water Basin Dowsing"
+                                "untrigstoryf": "Water Basin Dowsing",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xF 08"
                             }
                         }
                     ],
@@ -2303,10 +2303,10 @@
                                 "untrigstoryfid": 187,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 156,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x2 10",
                                 "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
-                                "untrigstoryf": "Big Frog Watered"
+                                "untrigstoryf": "Big Frog Watered",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "temp flag: 0x2 10"
                             }
                         },
                         {
@@ -2326,10 +2326,10 @@
                                 "untrigstoryfid": 187,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 157,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x2 20",
                                 "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
-                                "untrigstoryf": "Big Frog Watered"
+                                "untrigstoryf": "Big Frog Watered",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "temp flag: 0x2 20"
                             }
                         }
                     ],
@@ -2353,11 +2353,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 156,
-                                "setscenef": "temp flag: 0x2 10",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "temp flag: 0x2 10",
+                                "unsetscenef": "no flag"
                             }
                         }
                     ]

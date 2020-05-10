@@ -117,8 +117,8 @@
                     "unk3": "FC 03",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 },
                 {
@@ -749,12 +749,12 @@
                             "unk3": "FC 03",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 33,
+                                "scenefid": 33,
                                 "tosky_scen_link": 3,
                                 "name_id": 8,
                                 "subtype": "overworld",
                                 "name": "Floria Waterfall",
-                                "areaflag": "scene flag: 0x5 02"
+                                "scenef": "scene flag: 0x5 02"
                             }
                         },
                         {
@@ -770,12 +770,12 @@
                             "unk3": "FC 48",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 34,
+                                "scenefid": 34,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x5 04"
+                                "scenef": "scene flag: 0x5 04"
                             }
                         },
                         {
@@ -791,12 +791,12 @@
                             "unk3": "FC 49",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 32,
+                                "scenefid": 32,
                                 "tosky_scen_link": 255,
                                 "name_id": 7,
                                 "subtype": "overworld",
                                 "name": "Lake Floria",
-                                "areaflag": "scene flag: 0x5 01"
+                                "scenef": "scene flag: 0x5 01"
                             }
                         },
                         {
@@ -813,12 +813,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 176,
                                 "chestid": 64,
-                                "item": "Goddess Plume"
+                                "item": "Goddess Plume",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -835,12 +835,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 32,
                                 "chestid": 84,
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -857,12 +857,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 63,
                                 "chestid": 85,
-                                "item": "evil crystal"
+                                "item": "evil crystal",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -1075,10 +1075,10 @@
                             "unk3": "FC 18",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 64,
+                                "scenefid": 64,
                                 "itemid": 33,
-                                "areaflag": "scene flag: 0x9 01",
-                                "item": "Gold rupee"
+                                "item": "Gold rupee",
+                                "scenef": "scene flag: 0x9 01"
                             }
                         },
                         {
@@ -1094,10 +1094,10 @@
                             "unk3": "FC 19",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 154,
+                                "scenefid": 154,
                                 "itemid": 3,
-                                "areaflag": "temp flag: 0x2 04",
-                                "item": "Blue rupee"
+                                "item": "Blue rupee",
+                                "scenef": "temp flag: 0x2 04"
                             }
                         },
                         {
@@ -1113,10 +1113,10 @@
                             "unk3": "FC 1A",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 155,
+                                "scenefid": 155,
                                 "itemid": 3,
-                                "areaflag": "temp flag: 0x2 08",
-                                "item": "Blue rupee"
+                                "item": "Blue rupee",
+                                "scenef": "temp flag: 0x2 08"
                             }
                         },
                         {
@@ -1132,8 +1132,8 @@
                             "unk3": "FC 1B",
                             "name": "HrpHint",
                             "extra_info": {
-                                "flagid": 67,
-                                "areaflag": "scene flag: 0x9 08"
+                                "scenefid": 67,
+                                "scenef": "scene flag: 0x9 08"
                             }
                         },
                         {
@@ -1336,10 +1336,10 @@
                             "unk3": "FC 3B",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 148,
+                                "scenefid": 148,
                                 "tgreactitemid": 18,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x3 10"
+                                "scenef": "temp flag: 0x3 10"
                             }
                         },
                         {
@@ -1358,10 +1358,10 @@
                             "unk3": "FC 3C",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 149,
+                                "scenefid": 149,
                                 "tgreactitemid": 13,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x3 20"
+                                "scenef": "temp flag: 0x3 20"
                             }
                         },
                         {
@@ -1380,10 +1380,10 @@
                             "unk3": "FC 3D",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 150,
+                                "scenefid": 150,
                                 "tgreactitemid": 4,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 40"
+                                "scenef": "temp flag: 0x3 40"
                             }
                         },
                         {
@@ -1402,10 +1402,10 @@
                             "unk3": "FC 3E",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 151,
+                                "scenefid": 151,
                                 "tgreactitemid": 13,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 80"
+                                "scenef": "temp flag: 0x3 80"
                             }
                         },
                         {
@@ -1424,10 +1424,10 @@
                             "unk3": "FC 3F",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 152,
+                                "scenefid": 152,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 01"
+                                "scenef": "temp flag: 0x2 01"
                             }
                         },
                         {
@@ -1446,10 +1446,10 @@
                             "unk3": "FC 40",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 153,
+                                "scenefid": 153,
                                 "tgreactitemid": 6,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 02"
+                                "scenef": "temp flag: 0x2 02"
                             }
                         },
                         {
@@ -1468,10 +1468,10 @@
                             "unk3": "FC 41",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 156,
+                                "scenefid": 156,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 10"
+                                "scenef": "temp flag: 0x2 10"
                             }
                         },
                         {
@@ -1490,10 +1490,10 @@
                             "unk3": "FC 42",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 157,
+                                "scenefid": 157,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 20"
+                                "scenef": "temp flag: 0x2 20"
                             }
                         }
                     ],
@@ -1757,10 +1757,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1782,10 +1782,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1807,10 +1807,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }

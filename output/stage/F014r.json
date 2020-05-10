@@ -459,9 +459,9 @@
                             "unk3": "FC 11",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -517,11 +517,11 @@
                                 "setstoryfid": 720,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "Potion Shop Owner Bertie's House entered (name on map appears)",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {

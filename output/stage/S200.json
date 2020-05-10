@@ -415,8 +415,8 @@
                             "unk3": "FC 00",
                             "name": "TowerB",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -1174,12 +1174,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 0,
-                                "spawnscenef": "scene flag: 0x1 01",
-                                "trigscenefid": 1,
-                                "trigscenef": "scene flag: 0x1 02",
+                                "setscenefid": 1,
                                 "itemid": 138,
                                 "chestid": 74,
-                                "item": "Fire Shield earrings  + Storyflag"
+                                "item": "Fire Shield earrings  + Storyflag",
+                                "spawnscenef": "scene flag: 0x1 01",
+                                "setscenef": "scene flag: 0x1 02"
                             }
                         },
                         {
@@ -1196,12 +1196,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 17,
                                 "chestid": 127,
-                                "item": "Spirit Vessel"
+                                "item": "Spirit Vessel",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1230,8 +1230,8 @@
                             "unk3": "FC 41",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1247,8 +1247,8 @@
                             "unk3": "FC 44",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1264,8 +1264,8 @@
                             "unk3": "FC 45",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1281,8 +1281,8 @@
                             "unk3": "FC 46",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1298,8 +1298,8 @@
                             "unk3": "FC 47",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1512,8 +1512,8 @@
                             "unk3": "FC 0D",
                             "name": "TowerB",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1542,10 +1542,10 @@
                             "unk3": "FC 0F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1561,10 +1561,10 @@
                             "unk3": "FC 10",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1593,10 +1593,10 @@
                             "unk3": "FC 12",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1612,10 +1612,10 @@
                             "unk3": "FC 13",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1670,10 +1670,10 @@
                             "unk3": "FC 17",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1728,10 +1728,10 @@
                             "unk3": "FC 1B",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1747,10 +1747,10 @@
                             "unk3": "FC 1C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1766,10 +1766,10 @@
                             "unk3": "FC 1D",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1785,10 +1785,10 @@
                             "unk3": "FC 1E",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1804,10 +1804,10 @@
                             "unk3": "FC 1F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1823,10 +1823,10 @@
                             "unk3": "FC 20",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1842,10 +1842,10 @@
                             "unk3": "FC 21",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1861,10 +1861,10 @@
                             "unk3": "FC 22",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1906,10 +1906,10 @@
                             "unk3": "FC 25",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1938,10 +1938,10 @@
                             "unk3": "FC 27",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1957,10 +1957,10 @@
                             "unk3": "FC 28",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1976,10 +1976,10 @@
                             "unk3": "FC 29",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1995,10 +1995,10 @@
                             "unk3": "FC 2A",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2027,10 +2027,10 @@
                             "unk3": "FC 2C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2102,10 +2102,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 192,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0x9 01",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "loadzone temp flag: 0x9 01"
                             }
                         },
                         {
@@ -2141,10 +2141,10 @@
                             "unk3": "FC 38",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2160,10 +2160,10 @@
                             "unk3": "FC 39",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2192,10 +2192,10 @@
                             "unk3": "FC 3C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2211,10 +2211,10 @@
                             "unk3": "FC 3D",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2243,10 +2243,10 @@
                             "unk3": "FC 3F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2262,10 +2262,10 @@
                             "unk3": "FC 40",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2333,10 +2333,10 @@
                             "unk3": "FC 4C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2352,10 +2352,10 @@
                             "unk3": "FC 4D",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2371,10 +2371,10 @@
                             "unk3": "FC 4E",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2408,8 +2408,8 @@
                             "unk3": "14 4F",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2545,11 +2545,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 148,
-                                "setscenef": "temp flag: 0x3 10",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "temp flag: 0x3 10",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -2710,12 +2710,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 0,
-                                "spawnscenef": "scene flag: 0x1 01",
-                                "trigscenefid": 1,
-                                "trigscenef": "scene flag: 0x1 02",
+                                "setscenefid": 1,
                                 "itemid": 138,
                                 "chestid": 74,
-                                "item": "Fire Shield earrings  + Storyflag"
+                                "item": "Fire Shield earrings  + Storyflag",
+                                "spawnscenef": "scene flag: 0x1 01",
+                                "setscenef": "scene flag: 0x1 02"
                             }
                         }
                     ]
@@ -2950,8 +2950,8 @@
                             "unk3": "FC 11",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2967,8 +2967,8 @@
                             "unk3": "FC 14",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2985,12 +2985,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 0,
-                                "spawnscenef": "scene flag: 0x1 01",
-                                "trigscenefid": 1,
-                                "trigscenef": "scene flag: 0x1 02",
+                                "setscenefid": 1,
                                 "itemid": 138,
                                 "chestid": 74,
-                                "item": "Fire Shield earrings  + Storyflag"
+                                "item": "Fire Shield earrings  + Storyflag",
+                                "spawnscenef": "scene flag: 0x1 01",
+                                "setscenef": "scene flag: 0x1 02"
                             }
                         }
                     ],
@@ -3008,10 +3008,10 @@
                             "unk3": "FC 00",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3027,10 +3027,10 @@
                             "unk3": "FC 01",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3072,10 +3072,10 @@
                             "unk3": "FC 04",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3091,10 +3091,10 @@
                             "unk3": "FC 05",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3136,10 +3136,10 @@
                             "unk3": "FC 08",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3168,10 +3168,10 @@
                             "unk3": "FC 0B",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3187,10 +3187,10 @@
                             "unk3": "FC 0C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3219,10 +3219,10 @@
                             "unk3": "FC 0E",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3290,10 +3290,10 @@
                             "unk3": "FC 15",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3309,10 +3309,10 @@
                             "unk3": "FC 16",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3730,12 +3730,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 0,
-                                "spawnscenef": "scene flag: 0x1 01",
-                                "trigscenefid": 1,
-                                "trigscenef": "scene flag: 0x1 02",
+                                "setscenefid": 1,
                                 "itemid": 138,
                                 "chestid": 74,
-                                "item": "Fire Shield earrings  + Storyflag"
+                                "item": "Fire Shield earrings  + Storyflag",
+                                "spawnscenef": "scene flag: 0x1 01",
+                                "setscenef": "scene flag: 0x1 02"
                             }
                         }
                     ],
@@ -3766,10 +3766,10 @@
                             "unk3": "FC 01",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3785,10 +3785,10 @@
                             "unk3": "FC 02",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3830,10 +3830,10 @@
                             "unk3": "FC 05",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -3854,8 +3854,8 @@
                             "unk3": "28 07",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -3895,11 +3895,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 192,
-                                "unsetscenef": "loadzone temp flag: 0x9 01",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "loadzone temp flag: 0x9 01"
                             }
                         }
                     ]
@@ -4018,12 +4018,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 0,
-                                "spawnscenef": "scene flag: 0x1 01",
-                                "trigscenefid": 1,
-                                "trigscenef": "scene flag: 0x1 02",
+                                "setscenefid": 1,
                                 "itemid": 138,
                                 "chestid": 74,
-                                "item": "Fire Shield earrings  + Storyflag"
+                                "item": "Fire Shield earrings  + Storyflag",
+                                "spawnscenef": "scene flag: 0x1 01",
+                                "setscenef": "scene flag: 0x1 02"
                             }
                         }
                     ],
@@ -4041,10 +4041,10 @@
                             "unk3": "FC 00",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4060,10 +4060,10 @@
                             "unk3": "FC 01",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4079,10 +4079,10 @@
                             "unk3": "FC 02",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4098,10 +4098,10 @@
                             "unk3": "FC 03",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4117,10 +4117,10 @@
                             "unk3": "FC 04",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4136,10 +4136,10 @@
                             "unk3": "FC 05",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4155,10 +4155,10 @@
                             "unk3": "FC 06",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 44,
-                                "areaflag": "no flag",
-                                "item": "Tear of Din (first and last)"
+                                "item": "Tear of Din (first and last)",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -4179,8 +4179,8 @@
                             "unk3": "2C 08",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4199,8 +4199,8 @@
                             "unk3": "2C 09",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4219,8 +4219,8 @@
                             "unk3": "2C 0A",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4239,8 +4239,8 @@
                             "unk3": "2C 0B",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4595,12 +4595,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 0,
-                                "spawnscenef": "scene flag: 0x1 01",
-                                "trigscenefid": 1,
-                                "trigscenef": "scene flag: 0x1 02",
+                                "setscenefid": 1,
                                 "itemid": 138,
                                 "chestid": 74,
-                                "item": "Fire Shield earrings  + Storyflag"
+                                "item": "Fire Shield earrings  + Storyflag",
+                                "spawnscenef": "scene flag: 0x1 01",
+                                "setscenef": "scene flag: 0x1 02"
                             }
                         }
                     ]
@@ -4699,8 +4699,8 @@
                             "unk3": "FC 00",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4717,12 +4717,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 0,
-                                "spawnscenef": "scene flag: 0x1 01",
-                                "trigscenefid": 1,
-                                "trigscenef": "scene flag: 0x1 02",
+                                "setscenefid": 1,
                                 "itemid": 138,
                                 "chestid": 74,
-                                "item": "Fire Shield earrings  + Storyflag"
+                                "item": "Fire Shield earrings  + Storyflag",
+                                "spawnscenef": "scene flag: 0x1 01",
+                                "setscenef": "scene flag: 0x1 02"
                             }
                         }
                     ]

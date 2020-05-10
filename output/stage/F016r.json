@@ -614,9 +614,9 @@
                             "unk3": "FC 19",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -704,10 +704,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 192,
                                 "untrigscenefid": 255,
-                                "trigscenef": "loadzone temp flag: 0x9 01",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "loadzone temp flag: 0x9 01",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -870,10 +870,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 201,
                                 "untrigscenefid": 255,
-                                "trigscenef": "loadzone temp flag: 0x8 02",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "loadzone temp flag: 0x8 02",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -951,11 +951,11 @@
                                 "setstoryfid": 717,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "Pipit's House entered (name on map appears)",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -1015,10 +1015,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 194,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0x9 04",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "loadzone temp flag: 0x9 04"
                             }
                         }
                     ]

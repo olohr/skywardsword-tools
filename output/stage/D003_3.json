@@ -103,8 +103,8 @@
                     "unk3": "FC 03",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 }
             ]
@@ -490,12 +490,12 @@
                             "unk3": "FC 17",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 74,
+                                "scenefid": 74,
                                 "tosky_scen_link": 3,
                                 "name_id": 255,
                                 "subtype": "dungeon",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x8 04"
+                                "scenef": "scene flag: 0x8 04"
                             }
                         }
                     ],
@@ -526,10 +526,10 @@
                             "unk3": "FC 02",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 62,
+                                "scenefid": 62,
                                 "itemid": 97,
-                                "areaflag": "scene flag: 0x6 40",
-                                "item": "Triforce of Wisdom"
+                                "item": "Triforce of Wisdom",
+                                "scenef": "scene flag: 0x6 40"
                             }
                         },
                         {
@@ -792,8 +792,8 @@
                             "unk3": "FC 19",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -809,8 +809,8 @@
                             "unk3": "FC 1A",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -830,10 +830,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 50,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x7 04",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x7 04"
                             }
                         },
                         {
@@ -866,10 +866,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 24,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 01",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x2 01"
                             }
                         },
                         {
@@ -986,11 +986,11 @@
                                 "setstoryfid": 697,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {

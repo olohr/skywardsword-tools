@@ -92,8 +92,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 }
             ]
@@ -120,8 +120,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 }
             ]
@@ -494,10 +494,10 @@
                                 "untrigstoryfid": 775,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 76,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 10",
                                 "trigstoryf": "(not implemented yet -- 7771)",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x8 10"
                             }
                         }
                     ],
@@ -519,10 +519,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -544,10 +544,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -651,11 +651,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 96,
-                                "setscenef": "scene flag: 0xD 01",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0xD 01",
+                                "unsetscenef": "no flag"
                             }
                         }
                     ]
@@ -709,10 +709,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 193,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0x9 02",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "loadzone temp flag: 0x9 02"
                             }
                         },
                         {

@@ -116,8 +116,8 @@
                     "unk3": "FC 03",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 147,
-                        "areaflag": "temp flag: 0x3 08"
+                        "scenefid": 147,
+                        "scenef": "temp flag: 0x3 08"
                     }
                 }
             ]
@@ -418,12 +418,12 @@
                             "unk3": "FC 09",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 84,
+                                "scenefid": 84,
                                 "tosky_scen_link": 3,
                                 "name_id": 26,
                                 "subtype": "overworld",
                                 "name": "Pirate Stronghold",
-                                "areaflag": "scene flag: 0xB 10"
+                                "scenef": "scene flag: 0xB 10"
                             }
                         },
                         {
@@ -529,10 +529,10 @@
                                 "untrigstoryfid": 280,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "",
-                                "untrigstoryf": "Pirate Stronghold related (name on map appears)"
+                                "untrigstoryf": "Pirate Stronghold related (name on map appears)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -552,10 +552,10 @@
                                 "untrigstoryfid": 271,
                                 "trigscenefid": 76,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0x8 10",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Ship Dowsing"
+                                "untrigstoryf": "Ship Dowsing",
+                                "trigscenef": "scene flag: 0x8 10",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -571,8 +571,8 @@
                             "unk3": "FC 0A",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -588,8 +588,8 @@
                             "unk3": "FC 0B",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -605,8 +605,8 @@
                             "unk3": "FC 0C",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -622,8 +622,8 @@
                             "unk3": "FC 0D",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -639,8 +639,8 @@
                             "unk3": "FC 0E",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -656,8 +656,8 @@
                             "unk3": "FC 0F",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -673,8 +673,8 @@
                             "unk3": "FC 10",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -690,8 +690,8 @@
                             "unk3": "FC 11",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -707,8 +707,8 @@
                             "unk3": "FC 12",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -724,8 +724,8 @@
                             "unk3": "FC 13",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -741,8 +741,8 @@
                             "unk3": "FC 14",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -758,8 +758,8 @@
                             "unk3": "FC 15",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -879,10 +879,10 @@
                             "unk3": "FC 1E",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -898,10 +898,10 @@
                             "unk3": "FC 1F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -917,10 +917,10 @@
                             "unk3": "FC 20",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -989,10 +989,10 @@
                             "unk3": "FC 27",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 140,
+                                "scenefid": 140,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 10"
+                                "scenef": "temp flag: 0x0 10"
                             }
                         },
                         {
@@ -1011,10 +1011,10 @@
                             "unk3": "FC 28",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 141,
+                                "scenefid": 141,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 20"
+                                "scenef": "temp flag: 0x0 20"
                             }
                         }
                     ],
@@ -1150,10 +1150,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1175,10 +1175,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1557,10 +1557,10 @@
                             "unk3": "FC 46",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 11,
+                                "scenefid": 11,
                                 "itemid": 32,
-                                "areaflag": "scene flag: 0x0 08",
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "scenef": "scene flag: 0x0 08"
                             }
                         },
                         {
@@ -1576,10 +1576,10 @@
                             "unk3": "FC 47",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 12,
+                                "scenefid": 12,
                                 "itemid": 32,
-                                "areaflag": "scene flag: 0x0 10",
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "scenef": "scene flag: 0x0 10"
                             }
                         },
                         {
@@ -1595,10 +1595,10 @@
                             "unk3": "FC 48",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 13,
+                                "scenefid": 13,
                                 "itemid": 32,
-                                "areaflag": "scene flag: 0x0 20",
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "scenef": "scene flag: 0x0 20"
                             }
                         }
                     ]
@@ -1626,10 +1626,10 @@
                             "unk3": "FC 46",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 11,
+                                "scenefid": 11,
                                 "itemid": 32,
-                                "areaflag": "scene flag: 0x0 08",
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "scenef": "scene flag: 0x0 08"
                             }
                         },
                         {
@@ -1645,10 +1645,10 @@
                             "unk3": "FC 47",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 12,
+                                "scenefid": 12,
                                 "itemid": 32,
-                                "areaflag": "scene flag: 0x0 10",
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "scenef": "scene flag: 0x0 10"
                             }
                         },
                         {
@@ -1664,10 +1664,10 @@
                             "unk3": "FC 48",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 13,
+                                "scenefid": 13,
                                 "itemid": 32,
-                                "areaflag": "scene flag: 0x0 20",
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "scenef": "scene flag: 0x0 20"
                             }
                         },
                         {

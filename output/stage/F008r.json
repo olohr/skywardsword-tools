@@ -96,8 +96,8 @@
                     "unk3": "FC 01",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 255,
-                        "areaflag": "no flag"
+                        "scenefid": 255,
+                        "scenef": "no flag"
                     }
                 }
             ]
@@ -519,10 +519,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 95,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 80",
                                 "trigstoryf": "Eldin light pillar",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xA 80"
                             }
                         },
                         {
@@ -542,10 +542,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 96,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xD 01",
                                 "trigstoryf": "Lanayru light pillar (Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall layer 2 / Lanayru Mines layer 1 / Temple of Time layer 1)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xD 01"
                             }
                         }
                     ],
@@ -567,10 +567,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -619,12 +619,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 177,
                                 "chestid": 127,
-                                "item": "Emerald Tablet"
+                                "item": "Emerald Tablet",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -641,12 +641,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 11,
                                 "chestid": 127,
-                                "item": "Goddess Sword & Event (shows a green rupee)"
+                                "item": "Goddess Sword & Event (shows a green rupee)",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -708,10 +708,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 5,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 34,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Cutscene first time seeing Goddess Sword"
                             }

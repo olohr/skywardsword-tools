@@ -345,9 +345,9 @@
                             "unk3": "FC 00",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 148,
+                                "scenefid": 148,
                                 "scen_link": 0,
-                                "areaflag": "temp flag: 0x3 10"
+                                "scenef": "temp flag: 0x3 10"
                             }
                         },
                         {
@@ -363,9 +363,9 @@
                             "unk3": "FC 01",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 148,
+                                "scenefid": 148,
                                 "scen_link": 0,
-                                "areaflag": "temp flag: 0x3 10"
+                                "scenef": "temp flag: 0x3 10"
                             }
                         }
                     ],
@@ -387,10 +387,10 @@
                                 "untrigstoryfid": 776,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 82,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xB 04",
                                 "trigstoryf": "(not implemented yet -- 7771)",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xB 04"
                             }
                         },
                         {
@@ -665,12 +665,12 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 3,
-                                "flagid": 84,
+                                "trigscenefid": 84,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 583,
-                                "areaflag": "scene flag: 0xB 10",
+                                "trigscenef": "scene flag: 0xB 10",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Set when beating Sandship (Unlocks 4 new dowsing slots)"
+                                "untrigstoryf": "obtaining the Goddess White Sword (Unlocks 4 new dowsing slots)"
                             }
                         }
                     ]
@@ -757,12 +757,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 84,
-                                "spawnscenef": "scene flag: 0xB 10",
-                                "trigscenefid": 86,
-                                "trigscenef": "scene flag: 0xB 40",
+                                "setscenefid": 86,
                                 "itemid": 9,
                                 "chestid": 127,
-                                "item": "Goddess Whitesword & extra dowsing slots (shows a green rupee)"
+                                "item": "Goddess Whitesword & extra dowsing slots (shows a green rupee)",
+                                "spawnscenef": "scene flag: 0xB 10",
+                                "setscenef": "scene flag: 0xB 40"
                             }
                         }
                     ],
@@ -784,10 +784,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 86,
                                 "untrigscenefid": 87,
-                                "trigscenef": "scene flag: 0xB 40",
-                                "untrigscenef": "scene flag: 0xB 80",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0xB 40",
+                                "untrigscenef": "scene flag: 0xB 80"
                             }
                         }
                     ]

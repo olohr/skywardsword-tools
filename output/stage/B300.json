@@ -296,10 +296,10 @@
                                 "untrigstoryfid": 774,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 125,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xE 20",
                                 "trigstoryf": "(not implemented yet -- 7771)",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xE 20"
                             }
                         }
                     ],
@@ -368,7 +368,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 07",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 125,
+                                "setscenef": "scene flag: 0xE 20"
+                            }
                         },
                         {
                             "unk1": "F0 5F 5F 3D",
@@ -403,10 +407,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -446,11 +450,11 @@
                                 "setstoryfid": 1086,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         }
                     ]
@@ -479,8 +483,8 @@
                             "unk3": "FC 0C",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -496,8 +500,8 @@
                             "unk3": "FC 0D",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -513,8 +517,8 @@
                             "unk3": "FC 0E",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -530,8 +534,8 @@
                             "unk3": "FC 0F",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -547,8 +551,8 @@
                             "unk3": "FC 10",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -564,8 +568,8 @@
                             "unk3": "FC 11",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -615,8 +619,8 @@
                             "unk3": "FC 0C",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -632,8 +636,8 @@
                             "unk3": "FC 0D",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -649,8 +653,8 @@
                             "unk3": "FC 0E",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -666,8 +670,8 @@
                             "unk3": "FC 0F",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -683,8 +687,8 @@
                             "unk3": "FC 10",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -700,8 +704,8 @@
                             "unk3": "FC 11",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 254,
-                                "areaflag": "loadzone temp flag: 0xE 40"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         }
                     ],

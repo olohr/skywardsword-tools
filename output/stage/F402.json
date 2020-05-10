@@ -180,8 +180,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 168,
-                        "areaflag": "temp flag: 0x4 01"
+                        "scenefid": 168,
+                        "scenef": "temp flag: 0x4 01"
                     }
                 },
                 {
@@ -1661,9 +1661,9 @@
                             "unk3": "FC 00",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 23,
+                                "scenefid": 23,
                                 "scen_link": 1,
-                                "areaflag": "scene flag: 0x3 80"
+                                "scenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -1679,9 +1679,9 @@
                             "unk3": "FC 01",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 23,
+                                "scenefid": 23,
                                 "scen_link": 1,
-                                "areaflag": "scene flag: 0x3 80"
+                                "scenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -1697,12 +1697,12 @@
                             "unk3": "FC 02",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 32,
+                                "scenefid": 32,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x5 01"
+                                "scenef": "scene flag: 0x5 01"
                             }
                         },
                         {
@@ -1719,12 +1719,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 126,
                                 "chestid": 64,
-                                "item": "Revitalizing Potion (does Crash)"
+                                "item": "Revitalizing Potion (does Crash)",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1740,12 +1740,12 @@
                             "unk3": "FC 25",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 31,
+                                "scenefid": 31,
                                 "tosky_scen_link": 5,
                                 "name_id": 0,
                                 "subtype": "overworld",
                                 "name": "Behind the Temple",
-                                "areaflag": "scene flag: 0x2 80"
+                                "scenef": "scene flag: 0x2 80"
                             }
                         },
                         {
@@ -1761,9 +1761,9 @@
                             "unk3": "FC 26",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1779,9 +1779,9 @@
                             "unk3": "FC 27",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1797,12 +1797,12 @@
                             "unk3": "FC 29",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 35,
+                                "scenefid": 35,
                                 "tosky_scen_link": 19,
                                 "name_id": 28,
                                 "subtype": "overworld",
                                 "name": "Sealed Grounds",
-                                "areaflag": "scene flag: 0x5 08"
+                                "scenef": "scene flag: 0x5 08"
                             }
                         }
                     ],
@@ -1858,8 +1858,8 @@
                             "unk3": "FC 05",
                             "name": "FrmLand",
                             "extra_info": {
-                                "flagid": 37,
-                                "areaflag": "scene flag: 0x5 20"
+                                "scenefid": 37,
+                                "scenef": "scene flag: 0x5 20"
                             }
                         },
                         {
@@ -2034,8 +2034,8 @@
                             "unk3": "FC 10",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2051,8 +2051,8 @@
                             "unk3": "FC 11",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2068,8 +2068,8 @@
                             "unk3": "FC 12",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2085,8 +2085,8 @@
                             "unk3": "FC 13",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2102,8 +2102,8 @@
                             "unk3": "FC 14",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2119,8 +2119,8 @@
                             "unk3": "FC 15",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2136,8 +2136,8 @@
                             "unk3": "FC 16",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2172,8 +2172,8 @@
                             "unk3": "FC 18",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2234,8 +2234,8 @@
                             "unk3": "FC 1C",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2251,8 +2251,8 @@
                             "unk3": "FC 1D",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2268,8 +2268,8 @@
                             "unk3": "FC 1E",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2285,8 +2285,8 @@
                             "unk3": "FC 1F",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2602,10 +2602,10 @@
                             "unk3": "FC 41",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 155,
+                                "scenefid": 155,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 08"
+                                "scenef": "temp flag: 0x2 08"
                             }
                         },
                         {
@@ -2624,10 +2624,10 @@
                             "unk3": "FC 42",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 156,
+                                "scenefid": 156,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 10"
+                                "scenef": "temp flag: 0x2 10"
                             }
                         },
                         {
@@ -2646,10 +2646,10 @@
                             "unk3": "FC 43",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 157,
+                                "scenefid": 157,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 20"
+                                "scenef": "temp flag: 0x2 20"
                             }
                         },
                         {
@@ -2668,10 +2668,10 @@
                             "unk3": "FC 44",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 158,
+                                "scenefid": 158,
                                 "tgreactitemid": 18,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x2 40"
+                                "scenef": "temp flag: 0x2 40"
                             }
                         },
                         {
@@ -2690,10 +2690,10 @@
                             "unk3": "FC 45",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 159,
+                                "scenefid": 159,
                                 "tgreactitemid": 18,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x2 80"
+                                "scenef": "temp flag: 0x2 80"
                             }
                         },
                         {
@@ -2712,10 +2712,10 @@
                             "unk3": "FC 46",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 160,
+                                "scenefid": 160,
                                 "tgreactitemid": 18,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x5 01"
+                                "scenef": "temp flag: 0x5 01"
                             }
                         },
                         {
@@ -2734,10 +2734,10 @@
                             "unk3": "FC 47",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 161,
+                                "scenefid": 161,
                                 "tgreactitemid": 18,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x5 02"
+                                "scenef": "temp flag: 0x5 02"
                             }
                         },
                         {
@@ -2951,9 +2951,9 @@
                             "unk3": "FC 49",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -3001,10 +3001,10 @@
                                 "untrigstoryfid": 130,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Meeting Impa cutscene"
+                                "untrigstoryf": "Meeting Impa cutscene",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -3039,10 +3039,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 12,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Meeting Impa cutscene"
                             }
@@ -3064,10 +3064,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 12,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Meeting Impa cutscene"
                             }
@@ -3089,10 +3089,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 12,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Meeting Impa cutscene"
                             }
@@ -3162,10 +3162,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 12,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Meeting Impa cutscene"
                             }
@@ -3213,12 +3213,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 21,
-                                "spawnscenef": "scene flag: 0x3 20",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 186,
                                 "chestid": 127,
-                                "item": "Ballad of the goddess + event "
+                                "item": "Ballad of the goddess + event ",
+                                "spawnscenef": "scene flag: 0x3 20",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -3234,9 +3234,9 @@
                             "unk3": "FC 53",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -3258,10 +3258,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 107,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xC 08",
                                 "trigstoryf": "Gate of Time raised",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xC 08"
                             }
                         },
                         {
@@ -3313,10 +3313,10 @@
                                 "untrigstoryfid": 142,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Post Imp 1 defeat cutscene",
-                                "untrigstoryf": "Talk to Headmaster to learn about Windmills"
+                                "untrigstoryf": "Talk to FI after beating Imp 1 (or Talk to Headmaster to learn about Windmills)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -3336,10 +3336,10 @@
                                 "untrigstoryfid": 141,
                                 "trigscenefid": 21,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0x3 20",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)"
+                                "untrigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)",
+                                "trigscenef": "scene flag: 0x3 20",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -3359,10 +3359,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 28,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 10",
                                 "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x2 10"
                             }
                         },
                         {
@@ -3408,10 +3408,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 28,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 10",
                                 "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x2 10"
                             }
                         },
                         {
@@ -3542,9 +3542,9 @@
                             "unk3": "FC 4D",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -3598,10 +3598,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 30,
                                 "untrigscenefid": 57,
-                                "trigscenef": "scene flag: 0x2 40",
-                                "untrigscenef": "scene flag: 0x6 02",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0x2 40",
+                                "untrigscenef": "scene flag: 0x6 02"
                             }
                         },
                         {
@@ -3621,10 +3621,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 80,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xB 01",
                                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xB 01"
                             }
                         },
                         {
@@ -3702,10 +3702,10 @@
                                 "untrigstoryfid": 795,
                                 "trigscenefid": 30,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0x2 40",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Imp 1 defeat related"
+                                "untrigstoryf": "Imp 1 defeat related / dieing inside Imp 1 fight",
+                                "trigscenef": "scene flag: 0x2 40",
+                                "untrigscenef": "no flag"
                             }
                         }
                     ]
@@ -3747,9 +3747,9 @@
                             "unk3": "FC 51",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -3816,10 +3816,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 70,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 40",
                                 "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x9 40"
                             }
                         },
                         {
@@ -3839,10 +3839,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 70,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 40",
                                 "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x9 40"
                             }
                         },
                         {
@@ -3881,10 +3881,10 @@
                                 "untrigstoryfid": 146,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "True Master Sword Cutscene",
-                                "untrigstoryf": "Cutscene going back through the Gate of Time in Sealed Temple"
+                                "untrigstoryf": "Cutscene going back through the Gate of Time in Sealed Temple",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -3964,10 +3964,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 4,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 341,
                                 "untrigstoryfid": 344,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)",
                                 "untrigstoryf": "Gate of Time opening cutscene"
                             }
@@ -4005,9 +4005,9 @@
                             "unk3": "FC 4A",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -4081,10 +4081,10 @@
                                 "untrigstoryfid": 794,
                                 "trigscenefid": 37,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0x5 20",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle"
+                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
+                                "trigscenef": "scene flag: 0x5 20",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -4123,10 +4123,10 @@
                                 "untrigstoryfid": 794,
                                 "trigscenefid": 38,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0x5 40",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle"
+                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
+                                "trigscenef": "scene flag: 0x5 40",
+                                "untrigscenef": "no flag"
                             }
                         }
                     ]
@@ -4165,9 +4165,9 @@
                             "unk3": "FC 4E",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -4202,10 +4202,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 71,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 80",
                                 "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x9 80"
                             }
                         },
                         {
@@ -4225,10 +4225,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 71,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 80",
                                 "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x9 80"
                             }
                         },
                         {
@@ -4325,10 +4325,10 @@
                                 "untrigstoryfid": 794,
                                 "trigscenefid": 37,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0x5 20",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle"
+                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
+                                "trigscenef": "scene flag: 0x5 20",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -4367,10 +4367,10 @@
                                 "untrigstoryfid": 794,
                                 "trigscenefid": 38,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0x5 40",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle"
+                                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
+                                "trigscenef": "scene flag: 0x5 40",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -4424,9 +4424,9 @@
                             "unk3": "FC 4A",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 11,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -4522,9 +4522,9 @@
                             "unk3": "FC 49",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -4603,9 +4603,9 @@
                             "unk3": "FC 49",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -4785,9 +4785,9 @@
                             "unk3": "FC 49",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -4877,9 +4877,9 @@
                             "unk3": "FC 49",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],

@@ -215,8 +215,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 135,
-                        "areaflag": "temp flag: 0x1 80"
+                        "scenefid": 135,
+                        "scenef": "temp flag: 0x1 80"
                     }
                 }
             ]
@@ -4401,9 +4401,9 @@
                             "unk3": "FC 2B",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 31,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4419,9 +4419,9 @@
                             "unk3": "FC 2C",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 38,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4437,9 +4437,9 @@
                             "unk3": "FC 2D",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 4,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4455,9 +4455,9 @@
                             "unk3": "FC 2E",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 3,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4473,9 +4473,9 @@
                             "unk3": "FC 2F",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 1,
+                                "scenefid": 1,
                                 "scen_link": 23,
-                                "areaflag": "scene flag: 0x1 02"
+                                "scenef": "scene flag: 0x1 02"
                             }
                         },
                         {
@@ -4491,9 +4491,9 @@
                             "unk3": "FC 30",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 1,
+                                "scenefid": 1,
                                 "scen_link": 24,
-                                "areaflag": "scene flag: 0x1 02"
+                                "scenef": "scene flag: 0x1 02"
                             }
                         },
                         {
@@ -4509,12 +4509,12 @@
                             "unk3": "FC 31",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 46,
+                                "scenefid": 46,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x4 40"
+                                "scenef": "scene flag: 0x4 40"
                             }
                         },
                         {
@@ -4530,12 +4530,12 @@
                             "unk3": "FC 32",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 47,
+                                "scenefid": 47,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x4 80"
+                                "scenef": "scene flag: 0x4 80"
                             }
                         },
                         {
@@ -4551,12 +4551,12 @@
                             "unk3": "FC 33",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4572,12 +4572,12 @@
                             "unk3": "FC 34",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 49,
+                                "scenefid": 49,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x7 02"
+                                "scenef": "scene flag: 0x7 02"
                             }
                         },
                         {
@@ -4593,9 +4593,9 @@
                             "unk3": "FC 37",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 21,
+                                "scenefid": 21,
                                 "scen_link": 20,
-                                "areaflag": "scene flag: 0x3 20"
+                                "scenef": "scene flag: 0x3 20"
                             }
                         },
                         {
@@ -4611,9 +4611,9 @@
                             "unk3": "FC 38",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 21,
+                                "scenefid": 21,
                                 "scen_link": 27,
-                                "areaflag": "scene flag: 0x3 20"
+                                "scenef": "scene flag: 0x3 20"
                             }
                         },
                         {
@@ -4629,9 +4629,9 @@
                             "unk3": "FC 3F",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 32,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4647,9 +4647,9 @@
                             "unk3": "FC 40",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 10,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4665,9 +4665,9 @@
                             "unk3": "FC 41",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 36,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4683,9 +4683,9 @@
                             "unk3": "FC 42",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 34,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4701,9 +4701,9 @@
                             "unk3": "FC 43",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 35,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4719,9 +4719,9 @@
                             "unk3": "FC 44",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 33,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4737,9 +4737,9 @@
                             "unk3": "FC 45",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 37,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4755,9 +4755,9 @@
                             "unk3": "FC 4A",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 66,
+                                "scenefid": 66,
                                 "scen_link": 30,
-                                "areaflag": "scene flag: 0x9 04"
+                                "scenef": "scene flag: 0x9 04"
                             }
                         },
                         {
@@ -4774,12 +4774,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 478,
                                 "chestid": 91,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -4796,12 +4796,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 479,
                                 "chestid": 78,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -4818,12 +4818,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 417,
                                 "chestid": 79,
-                                "item": "Heart Piece"
+                                "item": "Heart Piece",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -4840,12 +4840,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 417,
                                 "chestid": 80,
-                                "item": "Heart Piece"
+                                "item": "Heart Piece",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -4862,12 +4862,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 417,
                                 "chestid": 93,
-                                "item": "Heart Piece"
+                                "item": "Heart Piece",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -4884,12 +4884,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 32,
                                 "chestid": 70,
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -4920,8 +4920,8 @@
                             "unk3": "04 1C",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4937,8 +4937,8 @@
                             "unk3": "04 1D",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4954,8 +4954,8 @@
                             "unk3": "04 1E",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4971,8 +4971,8 @@
                             "unk3": "04 1F",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4988,8 +4988,8 @@
                             "unk3": "04 20",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5005,8 +5005,8 @@
                             "unk3": "04 21",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5022,8 +5022,8 @@
                             "unk3": "04 22",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5512,10 +5512,10 @@
                             "unk3": "FC 5A",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 13,
+                                "scenefid": 13,
                                 "itemid": 160,
-                                "areaflag": "scene flag: 0x0 20",
-                                "item": "Baby Rattle"
+                                "item": "Baby Rattle",
+                                "scenef": "scene flag: 0x0 20"
                             }
                         },
                         {
@@ -5531,10 +5531,10 @@
                             "unk3": "FC 5B",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 2,
-                                "areaflag": "no flag",
-                                "item": "green rupee"
+                                "item": "green rupee",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5550,10 +5550,10 @@
                             "unk3": "FC 5C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 3,
-                                "areaflag": "no flag",
-                                "item": "Blue rupee"
+                                "item": "Blue rupee",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5569,10 +5569,10 @@
                             "unk3": "FC 5D",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 2,
-                                "areaflag": "no flag",
-                                "item": "green rupee"
+                                "item": "green rupee",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5588,10 +5588,10 @@
                             "unk3": "FC 5E",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 3,
-                                "areaflag": "no flag",
-                                "item": "Blue rupee"
+                                "item": "Blue rupee",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6114,8 +6114,8 @@
                             "unk3": "FC 86",
                             "name": "FrmLand",
                             "extra_info": {
-                                "flagid": 137,
-                                "areaflag": "temp flag: 0x0 02"
+                                "scenefid": 137,
+                                "scenef": "temp flag: 0x0 02"
                             }
                         },
                         {
@@ -6131,8 +6131,8 @@
                             "unk3": "FC 87",
                             "name": "FrmLand",
                             "extra_info": {
-                                "flagid": 138,
-                                "areaflag": "temp flag: 0x0 04"
+                                "scenefid": 138,
+                                "scenef": "temp flag: 0x0 04"
                             }
                         },
                         {
@@ -6148,8 +6148,8 @@
                             "unk3": "04 88",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6165,8 +6165,8 @@
                             "unk3": "04 89",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6182,8 +6182,8 @@
                             "unk3": "04 8A",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6199,8 +6199,8 @@
                             "unk3": "04 8B",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6216,8 +6216,8 @@
                             "unk3": "04 8C",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6233,8 +6233,8 @@
                             "unk3": "04 8D",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6250,8 +6250,8 @@
                             "unk3": "04 8E",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6267,8 +6267,8 @@
                             "unk3": "04 8F",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6362,10 +6362,10 @@
                             "unk3": "FC 9C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 106,
+                                "scenefid": 106,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xC 04",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xC 04"
                             }
                         },
                         {
@@ -6381,10 +6381,10 @@
                             "unk3": "FC 9D",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 108,
+                                "scenefid": 108,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xC 10",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xC 10"
                             }
                         },
                         {
@@ -6400,10 +6400,10 @@
                             "unk3": "FC 9E",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 109,
+                                "scenefid": 109,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xC 20",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xC 20"
                             }
                         },
                         {
@@ -6419,10 +6419,10 @@
                             "unk3": "FC 9F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 110,
+                                "scenefid": 110,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xC 40",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xC 40"
                             }
                         },
                         {
@@ -6438,10 +6438,10 @@
                             "unk3": "FC A0",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 111,
+                                "scenefid": 111,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xC 80",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xC 80"
                             }
                         },
                         {
@@ -6457,10 +6457,10 @@
                             "unk3": "FC A1",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 112,
+                                "scenefid": 112,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xF 01",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xF 01"
                             }
                         },
                         {
@@ -6476,10 +6476,10 @@
                             "unk3": "FC A2",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 113,
+                                "scenefid": 113,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xF 02",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xF 02"
                             }
                         },
                         {
@@ -7076,8 +7076,8 @@
                             "unk3": "FC CF",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 94,
+                                "scenef": "scene flag: 0xA 40"
                             }
                         },
                         {
@@ -7093,10 +7093,10 @@
                             "unk3": "FC D0",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 102,
+                                "scenefid": 102,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xD 40",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xD 40"
                             }
                         },
                         {
@@ -7112,10 +7112,10 @@
                             "unk3": "FC D1",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 103,
+                                "scenefid": 103,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xD 80",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xD 80"
                             }
                         },
                         {
@@ -7131,10 +7131,10 @@
                             "unk3": "FC D2",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 104,
+                                "scenefid": 104,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xC 01",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xC 01"
                             }
                         },
                         {
@@ -7150,10 +7150,10 @@
                             "unk3": "FC D3",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 115,
+                                "scenefid": 115,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xF 08",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xF 08"
                             }
                         },
                         {
@@ -7169,10 +7169,10 @@
                             "unk3": "FC D4",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 114,
+                                "scenefid": 114,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xF 04",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xF 04"
                             }
                         },
                         {
@@ -7188,8 +7188,8 @@
                             "unk3": "FC D5",
                             "name": "HrpHint",
                             "extra_info": {
-                                "flagid": 7,
-                                "areaflag": "scene flag: 0x1 80"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -7205,8 +7205,8 @@
                             "unk3": "FC D6",
                             "name": "HrpHint",
                             "extra_info": {
-                                "flagid": 99,
-                                "areaflag": "scene flag: 0xD 08"
+                                "scenefid": 99,
+                                "scenef": "scene flag: 0xD 08"
                             }
                         },
                         {
@@ -7222,10 +7222,10 @@
                             "unk3": "FC D7",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -7241,10 +7241,10 @@
                             "unk3": "FC D8",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -7260,10 +7260,10 @@
                             "unk3": "FC D9",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -7279,10 +7279,10 @@
                             "unk3": "FC DA",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -7298,10 +7298,10 @@
                             "unk3": "FC DB",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -7317,10 +7317,10 @@
                             "unk3": "FC DC",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -7336,8 +7336,8 @@
                             "unk3": "04 DD",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -7353,8 +7353,8 @@
                             "unk3": "04 DE",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -7370,10 +7370,10 @@
                             "unk3": "FC DF",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -7389,10 +7389,10 @@
                             "unk3": "FC E0",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -7973,10 +7973,10 @@
                             "unk3": "FD 1C",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 149,
+                                "scenefid": 149,
                                 "tgreactitemid": 19,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x3 20"
+                                "scenef": "temp flag: 0x3 20"
                             }
                         },
                         {
@@ -7995,10 +7995,10 @@
                             "unk3": "FD 1D",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 150,
+                                "scenefid": 150,
                                 "tgreactitemid": 19,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x3 40"
+                                "scenef": "temp flag: 0x3 40"
                             }
                         },
                         {
@@ -8017,10 +8017,10 @@
                             "unk3": "FD 1E",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 151,
+                                "scenefid": 151,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x3 80"
+                                "scenef": "temp flag: 0x3 80"
                             }
                         },
                         {
@@ -8039,10 +8039,10 @@
                             "unk3": "FD 1F",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 152,
+                                "scenefid": 152,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x2 01"
+                                "scenef": "temp flag: 0x2 01"
                             }
                         },
                         {
@@ -8061,10 +8061,10 @@
                             "unk3": "FD 2E",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 153,
+                                "scenefid": 153,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 02"
+                                "scenef": "temp flag: 0x2 02"
                             }
                         },
                         {
@@ -8083,10 +8083,10 @@
                             "unk3": "FD 2F",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 154,
+                                "scenefid": 154,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 04"
+                                "scenef": "temp flag: 0x2 04"
                             }
                         },
                         {
@@ -8105,10 +8105,10 @@
                             "unk3": "FD 30",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 155,
+                                "scenefid": 155,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 08"
+                                "scenef": "temp flag: 0x2 08"
                             }
                         },
                         {
@@ -8127,10 +8127,10 @@
                             "unk3": "FD 31",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 156,
+                                "scenefid": 156,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 10"
+                                "scenef": "temp flag: 0x2 10"
                             }
                         },
                         {
@@ -8149,10 +8149,10 @@
                             "unk3": "FD 33",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 157,
+                                "scenefid": 157,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x2 20"
+                                "scenef": "temp flag: 0x2 20"
                             }
                         },
                         {
@@ -8171,10 +8171,10 @@
                             "unk3": "FD 34",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 158,
+                                "scenefid": 158,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x2 40"
+                                "scenef": "temp flag: 0x2 40"
                             }
                         },
                         {
@@ -8193,10 +8193,10 @@
                             "unk3": "FD 35",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 168,
+                                "scenefid": 168,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x4 01"
+                                "scenef": "temp flag: 0x4 01"
                             }
                         },
                         {
@@ -8215,10 +8215,10 @@
                             "unk3": "FD 36",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 169,
+                                "scenefid": 169,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x4 02"
+                                "scenef": "temp flag: 0x4 02"
                             }
                         },
                         {
@@ -8237,10 +8237,10 @@
                             "unk3": "FD 37",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 170,
+                                "scenefid": 170,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x4 04"
+                                "scenef": "temp flag: 0x4 04"
                             }
                         },
                         {
@@ -8259,10 +8259,10 @@
                             "unk3": "FD 38",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 171,
+                                "scenefid": 171,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x4 08"
+                                "scenef": "temp flag: 0x4 08"
                             }
                         },
                         {
@@ -8281,10 +8281,10 @@
                             "unk3": "FD 39",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 172,
+                                "scenefid": 172,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x4 10"
+                                "scenef": "temp flag: 0x4 10"
                             }
                         },
                         {
@@ -8303,10 +8303,10 @@
                             "unk3": "FD 3A",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 173,
+                                "scenefid": 173,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x4 20"
+                                "scenef": "temp flag: 0x4 20"
                             }
                         },
                         {
@@ -8325,10 +8325,10 @@
                             "unk3": "FD 3B",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 174,
+                                "scenefid": 174,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x4 40"
+                                "scenef": "temp flag: 0x4 40"
                             }
                         },
                         {
@@ -8784,10 +8784,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -8809,10 +8809,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -8834,10 +8834,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 5,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -8859,10 +8859,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 6,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -8884,10 +8884,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 7,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -8909,10 +8909,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 19,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -9190,10 +9190,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 57,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -9311,10 +9311,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 58,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 372,
                                 "untrigstoryfid": 373,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Sets after Sprapper picked the Crystal Ball up",
                                 "untrigstoryf": "Sets before the Fortune Teller gives his Crystals"
                             }
@@ -10362,11 +10362,11 @@
                                 "setstoryfid": 837,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -10418,10 +10418,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 13,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 643,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
                                 "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) "
                             }
@@ -10443,10 +10443,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 14,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
                                 "untrigstoryf": "-"
                             }
@@ -10468,10 +10468,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 15,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 643,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
                                 "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) "
                             }
@@ -10493,10 +10493,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 16,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
                                 "untrigstoryf": "-"
                             }
@@ -10582,10 +10582,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 29,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -10751,10 +10751,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 28,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 643,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
                                 "untrigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) "
                             }
@@ -10776,10 +10776,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 13,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 642,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Spiral Charge Training Complete",
                                 "untrigstoryf": "-"
                             }
@@ -10801,10 +10801,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 15,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 642,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Spiral Charge Training Complete",
                                 "untrigstoryf": "-"
                             }
@@ -10826,10 +10826,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 28,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 642,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Spiral Charge Training Complete",
                                 "untrigstoryf": "-"
                             }
@@ -10851,10 +10851,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 14,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
                                 "untrigstoryf": "-"
                             }
@@ -11382,12 +11382,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 4,
                                 "chestid": 71,
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -11405,10 +11405,10 @@
                             "unk3": "FD C3",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -11504,10 +11504,10 @@
                                 "untrigstoryfid": 37,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Horwell Z-target tutorial"
+                                "untrigstoryf": "Horwell Z-target tutorial",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -11527,10 +11527,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 27,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x2 08"
                             }
                         },
                         {
@@ -11947,10 +11947,10 @@
                                 "untrigstoryfid": 197,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Box Cutscene during Remlit Quest"
+                                "untrigstoryf": "Box Cutscene during Remlit Quest",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -12034,10 +12034,10 @@
                                 "untrigstoryfid": 770,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Start Remlit quest"
+                                "untrigstoryf": "Start Remlit quest",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         }
                     ],
@@ -12221,10 +12221,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 40,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 29,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)"
                             }
@@ -12246,10 +12246,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 11,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 23,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Meeting Zelda Cutscene"
                             }
@@ -12273,11 +12273,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 38,
-                                "setscenef": "scene flag: 0x5 40",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0x5 40",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -12685,12 +12685,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 4,
                                 "chestid": 71,
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -12723,7 +12723,7 @@
                             "extra_info": {
                                 "trigstoryfid": 32,
                                 "untrigstoryfid": 672,
-                                "trigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase)",
+                                "trigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase, required for scene flags to be set in Link's room)",
                                 "untrigstoryf": "Goddess Statue Opened"
                             }
                         },
@@ -13240,10 +13240,10 @@
                             "unk3": "FD EC",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -13750,7 +13750,7 @@
                                 "trigstoryfid": 31,
                                 "untrigstoryfid": 32,
                                 "trigstoryf": "Wing Ceremony Cutscene Part 2 (Sky layer 1)",
-                                "untrigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase)"
+                                "untrigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase, required for scene flags to be set in Link's room)"
                             }
                         },
                         {
@@ -13770,10 +13770,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 4,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x1 10",
                                 "trigstoryf": "Set after landing in the circle after getting sailcloth",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x1 10"
                             }
                         },
                         {
@@ -13869,10 +13869,10 @@
                                 "untrigstoryfid": 41,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Wing Ceremony Cutscene Part 1"
+                                "untrigstoryf": "Wing Ceremony Cutscene Part 1",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -13911,10 +13911,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 3,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0x1 08",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0x1 08",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -14049,10 +14049,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Wing Ceremony Cutscene Part 1",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -14430,10 +14430,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 8,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -14745,12 +14745,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 55,
                                 "chestid": 127,
-                                "item": "Mushroom spores"
+                                "item": "Mushroom spores",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -14767,12 +14767,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 62,
                                 "chestid": 127,
-                                "item": "Dusk Relic"
+                                "item": "Dusk Relic",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -14789,12 +14789,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 64,
                                 "chestid": 127,
-                                "item": "Blue Bird Feather, Golden Skull or Goddess Plume"
+                                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -14811,12 +14811,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 116,
                                 "chestid": 127,
-                                "item": "Wooden Shield"
+                                "item": "Wooden Shield",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -14833,12 +14833,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 4,
                                 "chestid": 71,
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -14855,12 +14855,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 125,
                                 "chestid": 127,
-                                "item": "Hylian Shield"
+                                "item": "Hylian Shield",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -15010,10 +15010,10 @@
                                 "untrigstoryfid": 202,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Set after Fi text before going to sky for first time"
+                                "untrigstoryf": "Set after Fi text before going to sky for first time",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -15033,10 +15033,10 @@
                                 "untrigstoryfid": 24,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Fi cutscene around Faron light pillar before landing for first time (also set by Sealed Grounds intro cutscene)"
+                                "untrigstoryf": "Fi cutscene around Faron light pillar before landing for first time (also set by Sealed Grounds intro cutscene)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -15075,10 +15075,10 @@
                                 "untrigstoryfid": 299,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Eldin light pillar",
-                                "untrigstoryf": "Wryna asks Link for help"
+                                "untrigstoryf": "Wryna asks Link for help",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -15162,10 +15162,10 @@
                                 "untrigstoryfid": 363,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Talk to Professor Owlan inside Academy to locate Levias",
-                                "untrigstoryf": "Prof Owlan explains Spiral Charge on Skyloft"
+                                "untrigstoryf": "Prof Owlan explains Spiral Charge on Skyloft",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -15294,10 +15294,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 77,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 20",
                                 "trigstoryf": "Spiral Charge Training Introductory Cutscene",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x8 20"
                             }
                         },
                         {
@@ -15317,10 +15317,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 77,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 20",
                                 "trigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x8 20"
                             }
                         },
                         {
@@ -15378,10 +15378,10 @@
                                 "untrigstoryfid": 322,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Talk to Headmaster to learn about Windmills",
-                                "untrigstoryf": "Learn about Scrapper near Village Windmill"
+                                "untrigstoryf": "Learn about Scrapper near Village Windmill",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -15646,10 +15646,10 @@
                                 "untrigstoryfid": 769,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Hylia's Trial Completed",
-                                "untrigstoryf": "Set after completing Hylia's Trial"
+                                "untrigstoryf": "Set after completing Hylia's Trial",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -15695,10 +15695,10 @@
                                 "untrigstoryfid": 838,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                                "untrigstoryf": "CS of Parrow asking were his Sister is"
+                                "untrigstoryf": "CS of Parrow asking were his Sister is",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -15714,10 +15714,10 @@
                             "unk3": "FD FA",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -15733,10 +15733,10 @@
                             "unk3": "FD FB",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -15752,10 +15752,10 @@
                             "unk3": "FD FC",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -15941,10 +15941,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 56,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 643,
                                 "untrigstoryfid": 642,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
                                 "untrigstoryf": "Spiral Charge Training Complete"
                             }
@@ -15984,11 +15984,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 8,
-                                "unsetscenef": "scene flag: 0x0 01",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "scene flag: 0x0 01"
                             }
                         },
                         {
@@ -16347,12 +16347,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 4,
                                 "chestid": 71,
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -16372,8 +16372,8 @@
                             "extra_info": {
                                 "trigstoryfid": 577,
                                 "untrigstoryfid": 578,
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "trigstoryf": "[related to pipit scolding]",
+                                "untrigstoryf": "[related to pipit talking after hearing him scolding]"
                             }
                         },
                         {
@@ -16393,10 +16393,10 @@
                                 "untrigstoryfid": 576,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -16506,10 +16506,10 @@
                                 "untrigstoryfid": 301,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
-                                "untrigstoryf": "Kukiel screams"
+                                "untrigstoryf": "Kukiel screams",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -17073,8 +17073,8 @@
                             "extra_info": {
                                 "trigstoryfid": 577,
                                 "untrigstoryfid": 578,
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "trigstoryf": "[related to pipit scolding]",
+                                "untrigstoryf": "[related to pipit talking after hearing him scolding]"
                             }
                         },
                         {
@@ -17211,10 +17211,10 @@
                                 "untrigstoryfid": 769,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Hylia's Trial Completed",
-                                "untrigstoryf": "Set after completing Hylia's Trial"
+                                "untrigstoryf": "Set after completing Hylia's Trial",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -17303,10 +17303,10 @@
                             "unk3": "FE 05",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -17341,10 +17341,10 @@
                             "unk3": "FE 07",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -17360,10 +17360,10 @@
                             "unk3": "FE 08",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -18075,12 +18075,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 55,
                                 "chestid": 127,
-                                "item": "Mushroom spores"
+                                "item": "Mushroom spores",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -18097,12 +18097,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 62,
                                 "chestid": 127,
-                                "item": "Dusk Relic"
+                                "item": "Dusk Relic",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -18119,12 +18119,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 64,
                                 "chestid": 127,
-                                "item": "Blue Bird Feather, Golden Skull or Goddess Plume"
+                                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -18371,10 +18371,10 @@
                                 "untrigstoryfid": 299,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Eldin light pillar",
-                                "untrigstoryf": "Wryna asks Link for help"
+                                "untrigstoryf": "Wryna asks Link for help",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -18684,10 +18684,10 @@
                                 "untrigstoryfid": 838,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                                "untrigstoryf": "CS of Parrow asking were his Sister is"
+                                "untrigstoryf": "CS of Parrow asking were his Sister is",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -18703,10 +18703,10 @@
                             "unk3": "FD EB",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -18722,10 +18722,10 @@
                             "unk3": "FD EC",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -18741,10 +18741,10 @@
                             "unk3": "FD ED",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -18930,10 +18930,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 48,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 22,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Place Stone of Trials in Statue / Sky Keep appears (Also gives Stone of Trials in Inventory) (Skyloft layers 6&7)",
                                 "untrigstoryf": "-"
                             }
@@ -19679,8 +19679,8 @@
                             "extra_info": {
                                 "trigstoryfid": 577,
                                 "untrigstoryfid": 578,
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "trigstoryf": "[related to pipit scolding]",
+                                "untrigstoryf": "[related to pipit talking after hearing him scolding]"
                             }
                         },
                         {
@@ -19700,10 +19700,10 @@
                                 "untrigstoryfid": 576,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -19813,10 +19813,10 @@
                                 "untrigstoryfid": 301,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
-                                "untrigstoryf": "Kukiel screams"
+                                "untrigstoryf": "Kukiel screams",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -19925,8 +19925,8 @@
                             "extra_info": {
                                 "trigstoryfid": 577,
                                 "untrigstoryfid": 578,
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "trigstoryf": "[related to pipit scolding]",
+                                "untrigstoryf": "[related to pipit talking after hearing him scolding]"
                             }
                         },
                         {
@@ -20151,10 +20151,10 @@
                             "unk3": "FE 00",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -20189,10 +20189,10 @@
                             "unk3": "FE 02",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -20208,10 +20208,10 @@
                             "unk3": "FE 03",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -20847,12 +20847,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 55,
                                 "chestid": 127,
-                                "item": "Mushroom spores"
+                                "item": "Mushroom spores",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -20869,12 +20869,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 62,
                                 "chestid": 127,
-                                "item": "Dusk Relic"
+                                "item": "Dusk Relic",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -20891,12 +20891,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 64,
                                 "chestid": 127,
-                                "item": "Blue Bird Feather, Golden Skull or Goddess Plume"
+                                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -21217,10 +21217,10 @@
                                 "untrigstoryfid": 299,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Eldin light pillar",
-                                "untrigstoryf": "Wryna asks Link for help"
+                                "untrigstoryf": "Wryna asks Link for help",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -21240,10 +21240,10 @@
                                 "untrigstoryfid": 838,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                                "untrigstoryf": "CS of Parrow asking were his Sister is"
+                                "untrigstoryf": "CS of Parrow asking were his Sister is",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -21259,10 +21259,10 @@
                             "unk3": "FD D9",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -21278,10 +21278,10 @@
                             "unk3": "FD DA",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -21742,8 +21742,8 @@
                             "extra_info": {
                                 "trigstoryfid": 577,
                                 "untrigstoryfid": 578,
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "trigstoryf": "[related to pipit scolding]",
+                                "untrigstoryf": "[related to pipit talking after hearing him scolding]"
                             }
                         },
                         {
@@ -21763,10 +21763,10 @@
                                 "untrigstoryfid": 576,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -21876,10 +21876,10 @@
                                 "untrigstoryfid": 301,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
-                                "untrigstoryf": "Kukiel screams"
+                                "untrigstoryf": "Kukiel screams",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -21975,8 +21975,8 @@
                             "extra_info": {
                                 "trigstoryfid": 577,
                                 "untrigstoryfid": 578,
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "trigstoryf": "[related to pipit scolding]",
+                                "untrigstoryf": "[related to pipit talking after hearing him scolding]"
                             }
                         },
                         {
@@ -22116,10 +22116,10 @@
                             "unk3": "FD F7",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -22135,10 +22135,10 @@
                             "unk3": "FD F8",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -22376,12 +22376,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 4,
                                 "chestid": 71,
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -22441,10 +22441,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 54,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x7 40",
                                 "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x7 40"
                             }
                         },
                         {
@@ -22496,10 +22496,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 55,
                                 "untrigscenefid": 56,
-                                "trigscenef": "scene flag: 0x7 80",
-                                "untrigscenef": "scene flag: 0x6 01",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0x7 80",
+                                "untrigscenef": "scene flag: 0x6 01"
                             }
                         },
                         {
@@ -22557,10 +22557,10 @@
                                 "untrigstoryfid": 26,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Zelda sees Loftwing in Prison"
+                                "untrigstoryf": "Zelda sees Loftwing in Prison",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -22580,10 +22580,10 @@
                                 "untrigstoryfid": 25,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Zelda joins you before rescuing Loftwing"
+                                "untrigstoryf": "Zelda joins you before rescuing Loftwing",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -22907,8 +22907,8 @@
                             "unk3": "FD E1",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -22924,8 +22924,8 @@
                             "unk3": "FD E2",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -22941,8 +22941,8 @@
                             "unk3": "FD E3",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -22996,10 +22996,10 @@
                             "unk3": "FD E7",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -23215,10 +23215,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 22,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }

@@ -2679,12 +2679,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 17,
                                 "chestid": 127,
-                                "item": "Spirit Vessel"
+                                "item": "Spirit Vessel",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2701,12 +2701,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 68,
                                 "chestid": 66,
-                                "item": "Water scale + Storyflag"
+                                "item": "Water scale + Storyflag",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -2880,10 +2880,10 @@
                             "unk3": "FC 84",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2899,10 +2899,10 @@
                             "unk3": "FC 85",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2918,10 +2918,10 @@
                             "unk3": "FC 86",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2937,10 +2937,10 @@
                             "unk3": "FC 87",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2956,10 +2956,10 @@
                             "unk3": "FC 88",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2975,10 +2975,10 @@
                             "unk3": "FC 89",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2994,10 +2994,10 @@
                             "unk3": "FC 8A",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3013,10 +3013,10 @@
                             "unk3": "FC 8B",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3032,10 +3032,10 @@
                             "unk3": "FC 8C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3051,10 +3051,10 @@
                             "unk3": "FC 8D",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3070,10 +3070,10 @@
                             "unk3": "FC 8E",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3089,10 +3089,10 @@
                             "unk3": "FC 8F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3108,10 +3108,10 @@
                             "unk3": "FC 90",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3127,10 +3127,10 @@
                             "unk3": "FC 91",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3146,10 +3146,10 @@
                             "unk3": "FC 92",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 43,
-                                "areaflag": "no flag",
-                                "item": "Tear of Farore (first and last)"
+                                "item": "Tear of Farore (first and last)",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3211,10 +3211,10 @@
                             "unk3": "FC 96",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3230,8 +3230,8 @@
                             "unk3": "04 97",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3260,10 +3260,10 @@
                             "unk3": "FC 99",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3279,10 +3279,10 @@
                             "unk3": "FC 9A",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3298,10 +3298,10 @@
                             "unk3": "FC 9B",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3317,10 +3317,10 @@
                             "unk3": "FC 9C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3336,10 +3336,10 @@
                             "unk3": "FC 9D",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3368,10 +3368,10 @@
                             "unk3": "FC 9F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3387,8 +3387,8 @@
                             "unk3": "1C A0",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3404,10 +3404,10 @@
                             "unk3": "FC A1",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3423,10 +3423,10 @@
                             "unk3": "FC A2",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3442,10 +3442,10 @@
                             "unk3": "FC A3",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3474,10 +3474,10 @@
                             "unk3": "FC A5",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3519,10 +3519,10 @@
                             "unk3": "FC A8",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3551,10 +3551,10 @@
                             "unk3": "FC AA",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3583,10 +3583,10 @@
                             "unk3": "FC AC",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3797,10 +3797,10 @@
                             "unk3": "FC BE",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3816,10 +3816,10 @@
                             "unk3": "FC BF",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3835,10 +3835,10 @@
                             "unk3": "FC C0",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3854,10 +3854,10 @@
                             "unk3": "FC C1",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3873,10 +3873,10 @@
                             "unk3": "FC C2",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3892,10 +3892,10 @@
                             "unk3": "FC C3",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3911,8 +3911,8 @@
                             "unk3": "FC C4",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4032,10 +4032,10 @@
                             "unk3": "FC CD",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4051,10 +4051,10 @@
                             "unk3": "FC CE",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4083,10 +4083,10 @@
                             "unk3": "FC D0",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4102,10 +4102,10 @@
                             "unk3": "FC D1",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 47,
-                                "areaflag": "no flag",
-                                "item": "Light Fruit"
+                                "item": "Light Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4242,10 +4242,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 80,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xB 01",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xB 01"
                             }
                         },
                         {
@@ -4265,10 +4265,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 254,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0xE 40",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "loadzone temp flag: 0xE 40"
                             }
                         },
                         {
@@ -4315,8 +4315,8 @@
                             "unk3": "FC DE",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4335,8 +4335,8 @@
                             "unk3": "04 DF",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         }
                     ],

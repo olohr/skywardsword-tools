@@ -76,8 +76,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 },
                 {
@@ -620,12 +620,12 @@
                             "unk3": "FC 2A",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 75,
+                                "scenefid": 75,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
                                 "subtype": "dungeon",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x8 08"
+                                "scenef": "scene flag: 0x8 08"
                             }
                         },
                         {
@@ -1280,8 +1280,8 @@
                             "unk3": "FC 34",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1297,8 +1297,8 @@
                             "unk3": "FC 35",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1437,11 +1437,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 693,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": ""
+                                "unsetstoryf": "Going near first door in Sky keep",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -1799,11 +1799,11 @@
                                 "setstoryfid": 698,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         }
                     ]

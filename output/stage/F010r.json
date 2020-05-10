@@ -305,12 +305,12 @@
                             "unk3": "FC 01",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 53,
+                                "scenefid": 53,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x7 20"
+                                "scenef": "scene flag: 0x7 20"
                             }
                         }
                     ],
@@ -345,10 +345,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 71,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 80",
                                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x9 80"
                             }
                         },
                         {
@@ -368,10 +368,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 72,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 01",
                                 "trigstoryf": "Learn Nayru's Wisdom",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x8 01"
                             }
                         },
                         {
@@ -391,10 +391,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 73,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x8 02",
                                 "trigstoryf": "Learn Din's Power",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x8 02"
                             }
                         }
                     ],
@@ -416,10 +416,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }

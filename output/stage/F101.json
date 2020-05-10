@@ -159,8 +159,8 @@
                     "unk3": "FC 04",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 179,
-                        "areaflag": "temp flag: 0x7 08"
+                        "scenefid": 179,
+                        "scenef": "temp flag: 0x7 08"
                     }
                 },
                 {
@@ -2135,12 +2135,12 @@
                             "unk3": "FC 44",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 103,
+                                "scenefid": 103,
                                 "tosky_scen_link": 2,
                                 "name_id": 6,
                                 "subtype": "overworld",
                                 "name": "Deep Woods",
-                                "areaflag": "scene flag: 0xD 80"
+                                "scenef": "scene flag: 0xD 80"
                             }
                         },
                         {
@@ -2156,12 +2156,12 @@
                             "unk3": "FC 45",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 104,
+                                "scenefid": 104,
                                 "tosky_scen_link": 2,
                                 "name_id": 5,
                                 "subtype": "overworld",
                                 "name": "Forest Temple",
-                                "areaflag": "scene flag: 0xC 01"
+                                "scenef": "scene flag: 0xC 01"
                             }
                         },
                         {
@@ -2178,12 +2178,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 4,
                                 "chestid": 74,
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -2227,8 +2227,8 @@
                             "unk3": "FC 46",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 26,
-                                "areaflag": "scene flag: 0x2 04"
+                                "scenefid": 26,
+                                "scenef": "scene flag: 0x2 04"
                             }
                         },
                         {
@@ -2572,10 +2572,10 @@
                             "unk3": "FC 61",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 42,
-                                "areaflag": "no flag",
-                                "item": "Stamina Fruit"
+                                "item": "Stamina Fruit",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2799,8 +2799,8 @@
                             "unk3": "FC 72",
                             "name": "HrpHint",
                             "extra_info": {
-                                "flagid": 66,
-                                "areaflag": "scene flag: 0x9 04"
+                                "scenefid": 66,
+                                "scenef": "scene flag: 0x9 04"
                             }
                         },
                         {
@@ -3145,10 +3145,10 @@
                             "unk3": "FC DC",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 138,
+                                "scenefid": 138,
                                 "tgreactitemid": 13,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 04"
+                                "scenef": "temp flag: 0x0 04"
                             }
                         },
                         {
@@ -3167,10 +3167,10 @@
                             "unk3": "FC DD",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 138,
+                                "scenefid": 138,
                                 "tgreactitemid": 13,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 04"
+                                "scenef": "temp flag: 0x0 04"
                             }
                         },
                         {
@@ -3189,10 +3189,10 @@
                             "unk3": "FC DE",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 139,
+                                "scenefid": 139,
                                 "tgreactitemid": 13,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 08"
+                                "scenef": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -3211,10 +3211,10 @@
                             "unk3": "FC DF",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 139,
+                                "scenefid": 139,
                                 "tgreactitemid": 13,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 08"
+                                "scenef": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -3233,10 +3233,10 @@
                             "unk3": "FC E0",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 140,
+                                "scenefid": 140,
                                 "tgreactitemid": 19,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x0 10"
+                                "scenef": "temp flag: 0x0 10"
                             }
                         },
                         {
@@ -3255,10 +3255,10 @@
                             "unk3": "FC E1",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 141,
+                                "scenefid": 141,
                                 "tgreactitemid": 4,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x0 20"
+                                "scenef": "temp flag: 0x0 20"
                             }
                         },
                         {
@@ -3277,10 +3277,10 @@
                             "unk3": "FC E2",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 142,
+                                "scenefid": 142,
                                 "tgreactitemid": 18,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 40"
+                                "scenef": "temp flag: 0x0 40"
                             }
                         },
                         {
@@ -3299,10 +3299,10 @@
                             "unk3": "FC E3",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 143,
+                                "scenefid": 143,
                                 "tgreactitemid": 4,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 80"
+                                "scenef": "temp flag: 0x0 80"
                             }
                         },
                         {
@@ -3321,10 +3321,10 @@
                             "unk3": "FC E4",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 144,
+                                "scenefid": 144,
                                 "tgreactitemid": 18,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x3 01"
+                                "scenef": "temp flag: 0x3 01"
                             }
                         },
                         {
@@ -3343,10 +3343,10 @@
                             "unk3": "FC E5",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 145,
+                                "scenefid": 145,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 02"
+                                "scenef": "temp flag: 0x3 02"
                             }
                         }
                     ],
@@ -4090,10 +4090,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -4115,10 +4115,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -4137,7 +4137,11 @@
                             "angle": 20891,
                             "talk_behaviour": 0,
                             "unk3": "FC 8B",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 192,
+                                "setscenef": "loadzone temp flag: 0x9 01"
+                            }
                         },
                         {
                             "unk1": "FF FF FC 10",
@@ -4153,7 +4157,11 @@
                             "angle": 64672,
                             "talk_behaviour": 0,
                             "unk3": "FC 8C",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 193,
+                                "setscenef": "loadzone temp flag: 0x9 02"
+                            }
                         },
                         {
                             "unk1": "FF FF FC 20",
@@ -4169,7 +4177,11 @@
                             "angle": 64626,
                             "talk_behaviour": 0,
                             "unk3": "FC 8D",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 194,
+                                "setscenef": "loadzone temp flag: 0x9 04"
+                            }
                         },
                         {
                             "unk1": "FF CF FF 02",
@@ -4809,7 +4821,11 @@
                             "angle": 62868,
                             "talk_behaviour": 0,
                             "unk3": "FC E8",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 195,
+                                "setscenef": "loadzone temp flag: 0x9 08"
+                            }
                         },
                         {
                             "unk1": "FF FF F1 04",
@@ -4841,7 +4857,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC EA",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 196,
+                                "setscenef": "loadzone temp flag: 0x9 10"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C4",
@@ -4998,8 +5018,8 @@
                             "unk3": "FC F8",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 25,
-                                "areaflag": "scene flag: 0x2 02"
+                                "scenefid": 25,
+                                "scenef": "scene flag: 0x2 02"
                             }
                         },
                         {
@@ -5032,10 +5052,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 27,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x2 08"
                             }
                         },
                         {
@@ -5172,10 +5192,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 34,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 04",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x5 04"
                             }
                         },
                         {
@@ -5195,10 +5215,10 @@
                                 "untrigstoryfid": 227,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)"
+                                "untrigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -5218,10 +5238,10 @@
                                 "untrigstoryfid": 227,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)"
+                                "untrigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -5241,10 +5261,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 35,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 08",
                                 "trigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x5 08"
                             }
                         },
                         {
@@ -5283,10 +5303,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 48,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x7 01",
                                 "trigstoryf": "Deep Woods Introductory cutscene",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x7 01"
                             }
                         }
                     ],
@@ -5307,10 +5327,10 @@
                             "unk3": "FD 0B",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 146,
+                                "scenefid": 146,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 04"
+                                "scenef": "temp flag: 0x3 04"
                             }
                         },
                         {
@@ -5329,10 +5349,10 @@
                             "unk3": "FD 0C",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 147,
+                                "scenefid": 147,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 08"
+                                "scenef": "temp flag: 0x3 08"
                             }
                         }
                     ],
@@ -5420,11 +5440,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 47,
-                                "setscenef": "scene flag: 0x4 80",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0x4 80",
+                                "unsetscenef": "no flag"
                             }
                         }
                     ]
@@ -5496,8 +5516,8 @@
                             "unk3": "FC F7",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 25,
-                                "areaflag": "scene flag: 0x2 02"
+                                "scenefid": 25,
+                                "scenef": "scene flag: 0x2 02"
                             }
                         },
                         {
@@ -5647,10 +5667,10 @@
                                 "untrigstoryfid": 69,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
-                                "untrigstoryf": "Machi Cutscene after Skyview"
+                                "untrigstoryf": "Machi Cutscene after Skyview",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -5769,8 +5789,8 @@
                             "unk3": "FC F7",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 25,
-                                "areaflag": "scene flag: 0x2 02"
+                                "scenefid": 25,
+                                "scenef": "scene flag: 0x2 02"
                             }
                         },
                         {
@@ -5920,10 +5940,10 @@
                                 "untrigstoryfid": 121,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)"
+                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         }
                     ],
@@ -6010,8 +6030,8 @@
                             "unk3": "FC F5",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6312,8 +6332,8 @@
                             "unk3": "FC F5",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {

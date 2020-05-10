@@ -273,10 +273,10 @@
                                 "untrigstoryfid": 783,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "(not implemented yet -- 7771)",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         }
                     ],

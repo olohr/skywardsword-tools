@@ -62,8 +62,8 @@
                     "unk3": "FC 01",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 255,
-                        "areaflag": "no flag"
+                        "scenefid": 255,
+                        "scenef": "no flag"
                     }
                 }
             ]
@@ -279,12 +279,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 2,
-                                "trigscenef": "scene flag: 0x1 04",
+                                "setscenefid": 2,
                                 "itemid": 10,
                                 "chestid": 66,
-                                "item": "Practice Sword"
+                                "item": "Practice Sword",
+                                "spawnscenef": "no flag",
+                                "setscenef": "scene flag: 0x1 04"
                             }
                         },
                         {
@@ -300,9 +300,9 @@
                             "unk3": "FC 02",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -318,9 +318,9 @@
                             "unk3": "FC 03",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -336,9 +336,9 @@
                             "unk3": "FC 04",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 255,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -379,10 +379,10 @@
                                 "untrigstoryfid": 199,
                                 "trigscenefid": 2,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0x1 04",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Sword Instructor talks to Link before he attempts to leave the Sparring Hall"
+                                "untrigstoryf": "Sword Instructor talks to Link before he attempts to leave the Sparring Hall",
+                                "trigscenef": "scene flag: 0x1 04",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -476,10 +476,10 @@
                             "unk3": "FC 0C",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 115,
+                                "scenefid": 115,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xF 08",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xF 08"
                             }
                         }
                     ],

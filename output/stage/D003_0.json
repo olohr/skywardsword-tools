@@ -101,8 +101,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 }
             ]
@@ -542,10 +542,10 @@
                             "unk3": "FC 04",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 64,
+                                "scenefid": 64,
                                 "itemid": 96,
-                                "areaflag": "scene flag: 0x9 01",
-                                "item": "Triforce of Power"
+                                "item": "Triforce of Power",
+                                "scenef": "scene flag: 0x9 01"
                             }
                         },
                         {
@@ -695,10 +695,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 43,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x4 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x4 08"
                             }
                         },
                         {
@@ -731,10 +731,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 24,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 01",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x2 01"
                             }
                         },
                         {
@@ -899,11 +899,11 @@
                                 "setstoryfid": 693,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
-                                "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "setstoryf": "Going near first door in Sky keep",
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -968,7 +968,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 1F",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 204,
+                                "setscenef": "loadzone temp flag: 0x8 10"
+                            }
                         },
                         {
                             "unk1": "FF FF FC B0",
@@ -984,7 +988,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 20",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 203,
+                                "setscenef": "loadzone temp flag: 0x8 08"
+                            }
                         },
                         {
                             "unk1": "FF FF FC A0",
@@ -1000,7 +1008,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 21",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 202,
+                                "setscenef": "loadzone temp flag: 0x8 04"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -1021,11 +1033,11 @@
                                 "setstoryfid": 694,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -1438,12 +1450,12 @@
                             "unk3": "FC 28",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 71,
+                                "scenefid": 71,
                                 "tosky_scen_link": 3,
                                 "name_id": 255,
                                 "subtype": "dungeon",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x9 80"
+                                "scenef": "scene flag: 0x9 80"
                             }
                         }
                     ],
@@ -1537,10 +1549,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 96,
+                                "trigscenefid": 96,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "scene flag: 0xD 01",
+                                "trigscenef": "scene flag: 0xD 01",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }

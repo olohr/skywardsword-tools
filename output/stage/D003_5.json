@@ -69,8 +69,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 }
             ]
@@ -1277,12 +1277,12 @@
                             "unk3": "FC 45",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 76,
+                                "scenefid": 76,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
                                 "subtype": "dungeon",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x8 10"
+                                "scenef": "scene flag: 0x8 10"
                             }
                         }
                     ],
@@ -1963,11 +1963,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 127,
-                                "setscenef": "scene flag: 0xE 80",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0xE 80",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -1989,11 +1989,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 126,
-                                "setscenef": "scene flag: 0xE 40",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0xE 40",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -2015,11 +2015,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 125,
-                                "setscenef": "scene flag: 0xE 20",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0xE 20",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -2169,11 +2169,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 693,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": ""
+                                "unsetstoryf": "Going near first door in Sky keep",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -2195,11 +2195,11 @@
                                 "setstoryfid": 699,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         }
                     ],

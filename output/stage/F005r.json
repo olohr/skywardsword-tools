@@ -364,9 +364,9 @@
                             "unk3": "FC 0B",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -431,10 +431,10 @@
                             "unk3": "FC 0F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 114,
+                                "scenefid": 114,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xF 04",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xF 04"
                             }
                         }
                     ],
@@ -474,11 +474,11 @@
                                 "setstoryfid": 715,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "Orielle and Parrow's House entered (name on map appears)",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {

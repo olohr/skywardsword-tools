@@ -500,9 +500,9 @@
                             "unk3": "FC 14",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 10,
+                                "scenefid": 10,
                                 "scen_link": 0,
-                                "areaflag": "scene flag: 0x0 04"
+                                "scenef": "scene flag: 0x0 04"
                             }
                         }
                     ],
@@ -590,11 +590,11 @@
                                 "setstoryfid": 714,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "Kukiel's House entered (name on map appears)",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {

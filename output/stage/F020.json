@@ -108,8 +108,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 149,
-                        "areaflag": "temp flag: 0x3 20"
+                        "scenefid": 149,
+                        "scenef": "temp flag: 0x3 20"
                     }
                 }
             ]
@@ -1563,9 +1563,9 @@
                             "unk3": "FC 05",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 18,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1581,9 +1581,9 @@
                             "unk3": "FC 06",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 19,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1599,9 +1599,9 @@
                             "unk3": "FC 07",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 20,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1618,12 +1618,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 153,
                                 "chestid": 127,
-                                "item": "Bottle / Treasure Medal"
+                                "item": "Bottle / Treasure Medal",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1640,12 +1640,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 398,
                                 "chestid": 64,
-                                "item": "Pouch Expansion"
+                                "item": "Pouch Expansion",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1662,12 +1662,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 417,
                                 "chestid": 65,
-                                "item": "Heart Piece"
+                                "item": "Heart Piece",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1684,12 +1684,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 383,
                                 "chestid": 66,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1706,12 +1706,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 411,
                                 "chestid": 67,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1728,12 +1728,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 417,
                                 "chestid": 68,
-                                "item": "Heart Piece"
+                                "item": "Heart Piece",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1750,12 +1750,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 479,
                                 "chestid": 71,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1772,12 +1772,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 479,
                                 "chestid": 72,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1794,12 +1794,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 478,
                                 "chestid": 87,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1816,12 +1816,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 409,
                                 "chestid": 74,
-                                "item": "Treasure Medal"
+                                "item": "Treasure Medal",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1838,12 +1838,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 408,
                                 "chestid": 75,
-                                "item": "Some Medal"
+                                "item": "Some Medal",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1860,12 +1860,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 410,
                                 "chestid": 81,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1882,12 +1882,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 478,
                                 "chestid": 82,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1904,12 +1904,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 411,
                                 "chestid": 83,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1926,12 +1926,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 397,
                                 "chestid": 84,
-                                "item": "Life Medal"
+                                "item": "Life Medal",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1948,12 +1948,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 478,
                                 "chestid": 86,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1970,12 +1970,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 94,
                                 "chestid": 127,
-                                "item": "Heart piece"
+                                "item": "Heart piece",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1992,12 +1992,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 417,
                                 "chestid": 89,
-                                "item": "Heart Piece"
+                                "item": "Heart Piece",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2014,12 +2014,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 32,
                                 "chestid": 69,
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2036,12 +2036,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 32,
                                 "chestid": 70,
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2057,12 +2057,12 @@
                             "unk3": "FC 6E",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 32,
+                                "scenefid": 32,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x5 01"
+                                "scenef": "scene flag: 0x5 01"
                             }
                         },
                         {
@@ -2079,12 +2079,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 377,
                                 "chestid": 85,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2101,12 +2101,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 410,
                                 "chestid": 73,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2123,12 +2123,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 478,
                                 "chestid": 92,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2145,12 +2145,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 417,
                                 "chestid": 88,
-                                "item": "Heart Piece"
+                                "item": "Heart Piece",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2167,12 +2167,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 358,
                                 "chestid": 77,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2189,12 +2189,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 380,
                                 "chestid": 76,
-                                "item": "?"
+                                "item": "?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -2667,10 +2667,10 @@
                             "unk3": "FC 38",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 119,
+                                "scenefid": 119,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xF 80",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xF 80"
                             }
                         },
                         {
@@ -3128,8 +3128,8 @@
                             "unk3": "FC 5D",
                             "name": "FrmLand",
                             "extra_info": {
-                                "flagid": 157,
-                                "areaflag": "temp flag: 0x2 20"
+                                "scenefid": 157,
+                                "scenef": "temp flag: 0x2 20"
                             }
                         },
                         {
@@ -3158,8 +3158,8 @@
                             "unk3": "FC 5F",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3175,8 +3175,8 @@
                             "unk3": "FC 60",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3270,8 +3270,8 @@
                             "unk3": "FC 67",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3287,8 +3287,8 @@
                             "unk3": "FC 68",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3304,8 +3304,8 @@
                             "unk3": "FC 69",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3321,8 +3321,8 @@
                             "unk3": "FC 6A",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3364,8 +3364,8 @@
                             "unk3": "FC 6D",
                             "name": "Tubo",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3381,8 +3381,8 @@
                             "unk3": "FC 6F",
                             "name": "HrpHint",
                             "extra_info": {
-                                "flagid": 44,
-                                "areaflag": "scene flag: 0x4 10"
+                                "scenefid": 44,
+                                "scenef": "scene flag: 0x4 10"
                             }
                         },
                         {
@@ -3398,8 +3398,8 @@
                             "unk3": "FC 70",
                             "name": "HrpHint",
                             "extra_info": {
-                                "flagid": 45,
-                                "areaflag": "scene flag: 0x4 20"
+                                "scenefid": 45,
+                                "scenef": "scene flag: 0x4 20"
                             }
                         },
                         {
@@ -3415,10 +3415,10 @@
                             "unk3": "FC 77",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 100,
+                                "scenefid": 100,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xD 10",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xD 10"
                             }
                         },
                         {
@@ -3434,10 +3434,10 @@
                             "unk3": "FC 78",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 116,
+                                "scenefid": 116,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xF 10",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xF 10"
                             }
                         },
                         {
@@ -3510,8 +3510,8 @@
                             "unk3": "FC 82",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 40,
-                                "areaflag": "scene flag: 0x4 01"
+                                "scenefid": 40,
+                                "scenef": "scene flag: 0x4 01"
                             }
                         }
                     ],
@@ -3740,10 +3740,10 @@
                             "unk3": "FC A2",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 134,
+                                "scenefid": 134,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x1 40"
+                                "scenef": "temp flag: 0x1 40"
                             }
                         },
                         {
@@ -3762,10 +3762,10 @@
                             "unk3": "FC A3",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 147,
+                                "scenefid": 147,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 08"
+                                "scenef": "temp flag: 0x3 08"
                             }
                         },
                         {
@@ -3784,10 +3784,10 @@
                             "unk3": "FC A4",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 148,
+                                "scenefid": 148,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 10"
+                                "scenef": "temp flag: 0x3 10"
                             }
                         },
                         {
@@ -3806,10 +3806,10 @@
                             "unk3": "FC A5",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 135,
+                                "scenefid": 135,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x1 80"
+                                "scenef": "temp flag: 0x1 80"
                             }
                         },
                         {
@@ -3828,10 +3828,10 @@
                             "unk3": "FC A6",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 136,
+                                "scenefid": 136,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x0 01"
+                                "scenef": "temp flag: 0x0 01"
                             }
                         },
                         {
@@ -3850,10 +3850,10 @@
                             "unk3": "FC A7",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 137,
+                                "scenefid": 137,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x0 02"
+                                "scenef": "temp flag: 0x0 02"
                             }
                         },
                         {
@@ -3872,10 +3872,10 @@
                             "unk3": "FC A8",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 138,
+                                "scenefid": 138,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x0 04"
+                                "scenef": "temp flag: 0x0 04"
                             }
                         },
                         {
@@ -3894,10 +3894,10 @@
                             "unk3": "FC A9",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 139,
+                                "scenefid": 139,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x0 08"
+                                "scenef": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -4433,10 +4433,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 46,
                                 "untrigstoryfid": 9,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Faron light pillar",
                                 "untrigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)"
                             }
@@ -4458,10 +4458,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 48,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Lanayru light pillar (Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall layer 2 / Lanayru Mines layer 1 / Temple of Time layer 1)",
                                 "untrigstoryf": "-"
                             }
@@ -4483,10 +4483,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 47,
                                 "untrigstoryfid": 169,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Eldin light pillar",
                                 "untrigstoryf": "Eldin Eruption Cutscene ready to play (set when Levias explains SotH quest, set and unset by Faron and Lanayru SotH)"
                             }
@@ -4508,10 +4508,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 4,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 17,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)"
                             }
@@ -4533,10 +4533,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 5,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -4558,10 +4558,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 6,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -4583,10 +4583,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 7,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -4608,10 +4608,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 4,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 17,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)"
                             }
@@ -4633,10 +4633,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 8,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 169,
                                 "untrigstoryfid": 19,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Eldin Eruption Cutscene ready to play (set when Levias explains SotH quest, set and unset by Faron and Lanayru SotH)",
                                 "untrigstoryf": "Fire Dragon Text after SotH part Cutscene (Eldin Volcano, Digging Mitts Cave, Volcano Summit Waterfall layer 4)"
                             }
@@ -4658,10 +4658,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 13,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -4683,10 +4683,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 15,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 9,
                                 "untrigstoryfid": 140,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
                                 "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)"
                             }
@@ -4708,10 +4708,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 140,
                                 "untrigstoryfid": 342,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
                                 "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)"
                             }
@@ -4733,10 +4733,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 16,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -4758,10 +4758,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 17,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -4815,10 +4815,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 21,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 324,
                                 "untrigstoryfid": 325,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Windmill Propeller picked up",
                                 "untrigstoryf": "Village Windmill reparation cutscene"
                             }
@@ -4856,10 +4856,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 25,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 194,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Thunderhead opened (needs scene flag 2x20 to trigger cutscene)",
                                 "untrigstoryf": "-"
                             }
@@ -4897,10 +4897,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 19,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Fire Dragon Text after SotH part Cutscene (Eldin Volcano, Digging Mitts Cave, Volcano Summit Waterfall layer 4)",
                                 "untrigstoryf": "-"
                             }
@@ -5274,10 +5274,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 7,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -5299,10 +5299,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 12,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 342,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
                                 "untrigstoryf": "-"
                             }
@@ -5772,12 +5772,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 21,
                                 "chestid": 127,
-                                "item": "Bird statuette"
+                                "item": "Bird statuette",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -6116,10 +6116,10 @@
                                 "untrigstoryfid": 24,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Fi cutscene around Faron light pillar before landing for first time (also set by Sealed Grounds intro cutscene)"
+                                "untrigstoryf": "Fi cutscene around Faron light pillar before landing for first time (also set by Sealed Grounds intro cutscene)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -6281,10 +6281,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 11,
                                 "untrigscenefid": 13,
-                                "trigscenef": "scene flag: 0x0 08",
-                                "untrigscenef": "scene flag: 0x0 20",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0x0 08",
+                                "untrigscenef": "scene flag: 0x0 20"
                             }
                         },
                         {
@@ -7058,11 +7058,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 18,
-                                "setscenef": "scene flag: 0x3 04",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0x3 04",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {

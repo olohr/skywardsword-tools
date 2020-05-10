@@ -648,9 +648,9 @@
                             "unk3": "FC 1A",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -667,12 +667,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 61,
                                 "chestid": 127,
-                                "item": "Dusk Relic?"
+                                "item": "Dusk Relic?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -713,10 +713,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 193,
                                 "untrigscenefid": 255,
-                                "trigscenef": "loadzone temp flag: 0x9 02",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "loadzone temp flag: 0x9 02",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -819,11 +819,11 @@
                                 "setstoryfid": 716,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "Gear Peddler Rupin's House entered (name on map appears)",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {

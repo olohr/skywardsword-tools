@@ -113,8 +113,8 @@
                     "unk3": "FC 01",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 170,
-                        "areaflag": "temp flag: 0x4 04"
+                        "scenefid": 170,
+                        "scenef": "temp flag: 0x4 04"
                     }
                 }
             ]
@@ -140,8 +140,8 @@
                     "unk3": "FC 01",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 170,
-                        "areaflag": "temp flag: 0x4 04"
+                        "scenefid": 170,
+                        "scenef": "temp flag: 0x4 04"
                     }
                 }
             ]
@@ -253,10 +253,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1486,10 +1486,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1543,10 +1543,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 463,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Cutscene of Guld getting picked up"
                             }
@@ -1570,11 +1570,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 145,
-                                "unsetscenef": "temp flag: 0x3 02",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "temp flag: 0x3 02"
                             }
                         },
                         {
@@ -1799,10 +1799,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 37,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x5 20",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x5 20"
                             }
                         },
                         {
@@ -1841,10 +1841,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 194,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "loadzone temp flag: 0x9 04",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "loadzone temp flag: 0x9 04"
                             }
                         },
                         {
@@ -1864,10 +1864,10 @@
                                 "untrigstoryfid": 773,
                                 "trigscenefid": 195,
                                 "untrigscenefid": 36,
-                                "trigscenef": "loadzone temp flag: 0x9 08",
-                                "untrigscenef": "scene flag: 0x5 10",
                                 "trigstoryf": "-",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "",
+                                "trigscenef": "loadzone temp flag: 0x9 08",
+                                "untrigscenef": "scene flag: 0x5 10"
                             }
                         }
                     ],

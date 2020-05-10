@@ -84,8 +84,8 @@
                     "unk3": "FC 01",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 },
                 {
@@ -408,12 +408,12 @@
                             "unk3": "FC 0D",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 10,
+                                "scenefid": 10,
                                 "tosky_scen_link": 3,
                                 "name_id": 23,
                                 "subtype": "overworld",
                                 "name": "Ancient Harbor",
-                                "areaflag": "scene flag: 0x0 04"
+                                "scenef": "scene flag: 0x0 04"
                             }
                         }
                     ],
@@ -610,10 +610,10 @@
                                 "untrigstoryfid": 815,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
+                                "trigstoryf": "obtaining the Goddess White Sword (Unlocks 4 new dowsing slots)",
+                                "untrigstoryf": "Skipper's text after beating Sandship (changes Sandship layer)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
-                                "trigstoryf": "Set when beating Sandship (Unlocks 4 new dowsing slots)",
-                                "untrigstoryf": "Skipper's text after beating Sandship"
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -889,10 +889,10 @@
                             "unk3": "FC 24",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 91,
+                                "scenefid": 91,
                                 "itemid": 32,
-                                "areaflag": "scene flag: 0xA 08",
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "scenef": "scene flag: 0xA 08"
                             }
                         },
                         {
@@ -908,10 +908,10 @@
                             "unk3": "FC 25",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 93,
+                                "scenefid": 93,
                                 "itemid": 32,
-                                "areaflag": "scene flag: 0xA 20",
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "scenef": "scene flag: 0xA 20"
                             }
                         },
                         {
@@ -927,10 +927,10 @@
                             "unk3": "FC 26",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 92,
+                                "scenefid": 92,
                                 "itemid": 4,
-                                "areaflag": "scene flag: 0xA 10",
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "scenef": "scene flag: 0xA 10"
                             }
                         },
                         {
@@ -1050,8 +1050,8 @@
                             "unk3": "FC 2F",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 127,
-                                "areaflag": "scene flag: 0xE 80"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1067,8 +1067,8 @@
                             "unk3": "FC 30",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 127,
-                                "areaflag": "scene flag: 0xE 80"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1150,10 +1150,10 @@
                             "unk3": "FC 3C",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 162,
+                                "scenefid": 162,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x5 04"
+                                "scenef": "temp flag: 0x5 04"
                             }
                         },
                         {
@@ -1172,10 +1172,10 @@
                             "unk3": "FC 3D",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 163,
+                                "scenefid": 163,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x5 08"
+                                "scenef": "temp flag: 0x5 08"
                             }
                         },
                         {
@@ -1194,10 +1194,10 @@
                             "unk3": "FC 3E",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 164,
+                                "scenefid": 164,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x5 10"
+                                "scenef": "temp flag: 0x5 10"
                             }
                         },
                         {
@@ -1216,10 +1216,10 @@
                             "unk3": "FC 3F",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 165,
+                                "scenefid": 165,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x5 20"
+                                "scenef": "temp flag: 0x5 20"
                             }
                         },
                         {
@@ -1238,10 +1238,10 @@
                             "unk3": "FC 40",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 166,
+                                "scenefid": 166,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x5 40"
+                                "scenef": "temp flag: 0x5 40"
                             }
                         },
                         {
@@ -1260,10 +1260,10 @@
                             "unk3": "FC 41",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 167,
+                                "scenefid": 167,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x5 80"
+                                "scenef": "temp flag: 0x5 80"
                             }
                         },
                         {
@@ -1282,10 +1282,10 @@
                             "unk3": "FC 42",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 174,
+                                "scenefid": 174,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x4 40"
+                                "scenef": "temp flag: 0x4 40"
                             }
                         },
                         {
@@ -1304,10 +1304,10 @@
                             "unk3": "FC 43",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 175,
+                                "scenefid": 175,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x4 80"
+                                "scenef": "temp flag: 0x4 80"
                             }
                         }
                     ],
@@ -1411,10 +1411,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1454,11 +1454,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 143,
-                                "setscenef": "temp flag: 0x0 80",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "temp flag: 0x0 80",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -1528,11 +1528,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 154,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": ""
+                                "unsetstoryf": "",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {

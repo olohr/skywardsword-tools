@@ -156,8 +156,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 141,
-                        "areaflag": "temp flag: 0x0 20"
+                        "scenefid": 141,
+                        "scenef": "temp flag: 0x0 20"
                     }
                 },
                 {
@@ -1875,12 +1875,12 @@
                             "unk3": "FC 2B",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 31,
+                                "scenefid": 31,
                                 "tosky_scen_link": 5,
                                 "name_id": 0,
                                 "subtype": "overworld",
                                 "name": "Behind the Temple",
-                                "areaflag": "scene flag: 0x2 80"
+                                "scenef": "scene flag: 0x2 80"
                             }
                         },
                         {
@@ -1896,9 +1896,9 @@
                             "unk3": "FC 2C",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1914,9 +1914,9 @@
                             "unk3": "FC 2D",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1933,12 +1933,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 61,
                                 "chestid": 127,
-                                "item": "Dusk Relic?"
+                                "item": "Dusk Relic?",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1955,12 +1955,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 62,
                                 "chestid": 127,
-                                "item": "Dusk Relic"
+                                "item": "Dusk Relic",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1977,12 +1977,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 63,
                                 "chestid": 127,
-                                "item": "evil crystal"
+                                "item": "evil crystal",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1999,12 +1999,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 64,
                                 "chestid": 127,
-                                "item": "Blue Bird Feather, Golden Skull or Goddess Plume"
+                                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2020,12 +2020,12 @@
                             "unk3": "FC 4F",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 32,
+                                "scenefid": 32,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x5 01"
+                                "scenef": "scene flag: 0x5 01"
                             }
                         },
                         {
@@ -2041,9 +2041,9 @@
                             "unk3": "FC 50",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 13,
+                                "scenefid": 13,
                                 "scen_link": 0,
-                                "areaflag": "scene flag: 0x0 20"
+                                "scenef": "scene flag: 0x0 20"
                             }
                         },
                         {
@@ -2059,9 +2059,9 @@
                             "unk3": "FC 51",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 23,
+                                "scenefid": 23,
                                 "scen_link": 1,
-                                "areaflag": "scene flag: 0x3 80"
+                                "scenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -2077,9 +2077,9 @@
                             "unk3": "FC 52",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 23,
+                                "scenefid": 23,
                                 "scen_link": 1,
-                                "areaflag": "scene flag: 0x3 80"
+                                "scenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -2095,12 +2095,12 @@
                             "unk3": "FC 58",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 35,
+                                "scenefid": 35,
                                 "tosky_scen_link": 19,
                                 "name_id": 28,
                                 "subtype": "overworld",
                                 "name": "Sealed Grounds",
-                                "areaflag": "scene flag: 0x5 08"
+                                "scenef": "scene flag: 0x5 08"
                             }
                         },
                         {
@@ -2117,12 +2117,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 126,
                                 "chestid": 64,
-                                "item": "Revitalizing Potion (does Crash)"
+                                "item": "Revitalizing Potion (does Crash)",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2139,12 +2139,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 172,
                                 "chestid": 127,
-                                "item": "Ornamental Skull"
+                                "item": "Ornamental Skull",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -2160,9 +2160,9 @@
                             "unk3": "FC 69",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 13,
+                                "scenefid": 13,
                                 "scen_link": 0,
-                                "areaflag": "scene flag: 0x0 20"
+                                "scenef": "scene flag: 0x0 20"
                             }
                         }
                     ],
@@ -2180,8 +2180,8 @@
                             "unk3": "FC 2A",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 4,
-                                "areaflag": "scene flag: 0x1 10"
+                                "scenefid": 4,
+                                "scenef": "scene flag: 0x1 10"
                             }
                         },
                         {
@@ -2258,10 +2258,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
+                                "trigstoryf": "drawing a rupee on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 08"
                             }
                         },
                         {
@@ -2281,10 +2281,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
+                                "trigstoryf": "drawing a heart on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 10"
                             }
                         },
                         {
@@ -2304,10 +2304,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
+                                "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -2327,10 +2327,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
+                                "trigstoryf": "drawing a Bomb on Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 20"
                             }
                         },
                         {
@@ -2350,10 +2350,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
+                                "trigstoryf": "drawing a Arrow on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 40"
                             }
                         },
                         {
@@ -2373,10 +2373,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
+                                "trigstoryf": "drawing a heart on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 08"
                             }
                         },
                         {
@@ -2396,10 +2396,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
+                                "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 08"
                             }
                         },
                         {
@@ -2419,10 +2419,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
+                                "trigstoryf": "drawing a Bomb on Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 08"
                             }
                         },
                         {
@@ -2442,10 +2442,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
+                                "trigstoryf": "drawing a Arrow on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 08"
                             }
                         },
                         {
@@ -2465,10 +2465,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
+                                "trigstoryf": "drawing a rupee on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 10"
                             }
                         },
                         {
@@ -2488,10 +2488,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
+                                "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 10"
                             }
                         },
                         {
@@ -2511,10 +2511,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
+                                "trigstoryf": "drawing a Bomb on Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 10"
                             }
                         },
                         {
@@ -2534,10 +2534,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
+                                "trigstoryf": "drawing a Arrow on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 10"
                             }
                         },
                         {
@@ -2557,10 +2557,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
+                                "trigstoryf": "drawing a rupee on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 20"
                             }
                         },
                         {
@@ -2580,10 +2580,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
+                                "trigstoryf": "drawing a heart on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 20"
                             }
                         },
                         {
@@ -2603,10 +2603,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
+                                "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 20"
                             }
                         },
                         {
@@ -2626,10 +2626,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
+                                "trigstoryf": "drawing a Arrow on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 20"
                             }
                         },
                         {
@@ -2649,10 +2649,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
+                                "trigstoryf": "drawing a rupee on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 40"
                             }
                         },
                         {
@@ -2672,10 +2672,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
+                                "trigstoryf": "drawing a heart on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 40"
                             }
                         },
                         {
@@ -2695,10 +2695,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
+                                "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 40"
                             }
                         },
                         {
@@ -2718,10 +2718,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
+                                "trigstoryf": "drawing a Bomb on Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 40"
                             }
                         },
                         {
@@ -2741,10 +2741,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
+                                "trigstoryf": "drawing a rupee on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -2764,10 +2764,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
+                                "trigstoryf": "drawing a heart on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -2787,10 +2787,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
+                                "trigstoryf": "drawing a Bomb on Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -2810,10 +2810,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
+                                "trigstoryf": "drawing a Arrow on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -2833,10 +2833,10 @@
                                 "untrigstoryfid": 427,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 112,
+                                "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
+                                "untrigstoryf": "set after getting Gorko's request for goddess Wall (unsets after S&Q)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xF 01",
-                                "trigstoryf": "",
-                                "untrigstoryf": ""
+                                "untrigscenef": "scene flag: 0xF 01"
                             }
                         },
                         {
@@ -2856,10 +2856,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
+                                "trigstoryf": "drawing random shape on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 08",
-                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 08"
                             }
                         },
                         {
@@ -2879,10 +2879,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
+                                "trigstoryf": "drawing random shape on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 10",
-                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 10"
                             }
                         },
                         {
@@ -2902,10 +2902,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
+                                "trigstoryf": "drawing random shape on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 20",
-                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 20"
                             }
                         },
                         {
@@ -2925,10 +2925,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
+                                "trigstoryf": "drawing random shape on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x1 40",
-                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x1 40"
                             }
                         },
                         {
@@ -2948,10 +2948,10 @@
                                 "untrigstoryfid": 491,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
+                                "trigstoryf": "drawing random shape on Sealed grounds goddess wall (unsets after S&Q)",
+                                "untrigstoryf": "sets after finishing request for gorko at goddess wall (or S&Q) (unsets after getting new request)",
                                 "trigscenef": "no flag",
-                                "untrigscenef": "temp flag: 0x0 08",
-                                "trigstoryf": "Exhausting Goddess Walls in Faron related",
-                                "untrigstoryf": ""
+                                "untrigscenef": "temp flag: 0x0 08"
                             }
                         },
                         {
@@ -2971,10 +2971,10 @@
                                 "untrigstoryfid": 121,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)"
+                                "untrigstoryf": "Fi Text About Faron Trial Dowsing (triggered by Farore's Courage flag)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -2990,8 +2990,8 @@
                             "unk3": "FC 63",
                             "name": "HrpHint",
                             "extra_info": {
-                                "flagid": 72,
-                                "areaflag": "scene flag: 0x8 01"
+                                "scenefid": 72,
+                                "scenef": "scene flag: 0x8 01"
                             }
                         },
                         {
@@ -3281,10 +3281,10 @@
                             "unk3": "FC 8E",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 144,
+                                "scenefid": 144,
                                 "tgreactitemid": 4,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x3 01"
+                                "scenef": "temp flag: 0x3 01"
                             }
                         },
                         {
@@ -3303,10 +3303,10 @@
                             "unk3": "FC 8F",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 145,
+                                "scenefid": 145,
                                 "tgreactitemid": 4,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x3 02"
+                                "scenef": "temp flag: 0x3 02"
                             }
                         },
                         {
@@ -3325,10 +3325,10 @@
                             "unk3": "FC 90",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 146,
+                                "scenefid": 146,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 04"
+                                "scenef": "temp flag: 0x3 04"
                             }
                         },
                         {
@@ -3347,10 +3347,10 @@
                             "unk3": "FC 91",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 147,
+                                "scenefid": 147,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 08"
+                                "scenef": "temp flag: 0x3 08"
                             }
                         },
                         {
@@ -3369,10 +3369,10 @@
                             "unk3": "FC 92",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 148,
+                                "scenefid": 148,
                                 "tgreactitemid": 18,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 10"
+                                "scenef": "temp flag: 0x3 10"
                             }
                         },
                         {
@@ -3391,10 +3391,10 @@
                             "unk3": "FC 93",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 149,
+                                "scenefid": 149,
                                 "tgreactitemid": 18,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x3 20"
+                                "scenef": "temp flag: 0x3 20"
                             }
                         }
                     ],
@@ -3562,10 +3562,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 342,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)"
                             }
@@ -3605,11 +3605,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 22,
-                                "setscenef": "scene flag: 0x3 40",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0x3 40",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -3645,10 +3645,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -3686,10 +3686,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 7,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 342,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
                                 "untrigstoryf": "-"
                             }
@@ -3980,10 +3980,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 14,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x0 40",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x0 40"
                             }
                         },
                         {
@@ -4055,10 +4055,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 3,
                                 "untrigscenefid": 14,
-                                "trigscenef": "scene flag: 0x1 08",
-                                "untrigscenef": "scene flag: 0x0 40",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0x1 08",
+                                "untrigscenef": "scene flag: 0x0 40"
                             }
                         },
                         {
@@ -4078,10 +4078,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 94,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 40",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xA 40"
                             }
                         },
                         {
@@ -4177,7 +4177,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC A3",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 3,
+                                "setscenef": "scene flag: 0x1 08"
+                            }
                         },
                         {
                             "unk1": "C4 10 93 0B",
@@ -4356,10 +4360,10 @@
                                 "untrigstoryfid": 15,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20",
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "Beat Sandship (Sand Sea layer 3)"
+                                "untrigstoryf": "Beat Sandship (Sand Sea layer 3)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xA 20"
                             }
                         },
                         {
@@ -4398,10 +4402,10 @@
                                 "untrigstoryfid": 140,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
-                                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)"
+                                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -4434,10 +4438,10 @@
                                 "untrigstoryfid": 15,
                                 "trigscenefid": 72,
                                 "untrigscenefid": 73,
-                                "trigscenef": "scene flag: 0x8 01",
-                                "untrigscenef": "scene flag: 0x8 02",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Beat Sandship (Sand Sea layer 3)"
+                                "untrigstoryf": "Beat Sandship (Sand Sea layer 3)",
+                                "trigscenef": "scene flag: 0x8 01",
+                                "untrigscenef": "scene flag: 0x8 02"
                             }
                         },
                         {
@@ -4457,10 +4461,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 66,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x9 04",
                                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x9 04"
                             }
                         }
                     ],
@@ -4632,10 +4636,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20",
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xA 20"
                             }
                         },
                         {
@@ -4673,7 +4677,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 9D",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 193,
+                                "setscenef": "loadzone temp flag: 0x9 02"
+                            }
                         },
                         {
                             "unk1": "FF FF FF A6",
@@ -4761,10 +4769,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20",
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xA 20"
                             }
                         },
                         {
@@ -4881,10 +4889,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20",
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xA 20"
                             }
                         }
                     ],
@@ -4988,10 +4996,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20",
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xA 20"
                             }
                         }
                     ],
@@ -5095,10 +5103,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xA 20",
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xA 20"
                             }
                         }
                     ],

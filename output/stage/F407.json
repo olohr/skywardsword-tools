@@ -289,9 +289,9 @@
                             "unk3": "FC 05",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 23,
+                                "scenefid": 23,
                                 "scen_link": 1,
-                                "areaflag": "scene flag: 0x3 80"
+                                "scenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -307,9 +307,9 @@
                             "unk3": "FC 06",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 23,
+                                "scenefid": 23,
                                 "scen_link": 1,
-                                "areaflag": "scene flag: 0x3 80"
+                                "scenef": "scene flag: 0x3 80"
                             }
                         }
                     ],
@@ -340,8 +340,8 @@
                             "unk3": "FC 02",
                             "name": "FrmLand",
                             "extra_info": {
-                                "flagid": 37,
-                                "areaflag": "scene flag: 0x5 20"
+                                "scenefid": 37,
+                                "scenef": "scene flag: 0x5 20"
                             }
                         },
                         {
@@ -407,9 +407,9 @@
                             "unk3": "FC 07",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         }
                     ]

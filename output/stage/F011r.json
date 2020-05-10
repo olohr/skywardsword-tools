@@ -78,8 +78,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 151,
-                        "areaflag": "temp flag: 0x3 80"
+                        "scenefid": 151,
+                        "scenef": "temp flag: 0x3 80"
                     }
                 }
             ]
@@ -1317,9 +1317,9 @@
                             "unk3": "FC 33",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1335,9 +1335,9 @@
                             "unk3": "FC 34",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1353,9 +1353,9 @@
                             "unk3": "FC 36",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 2,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1372,12 +1372,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 195,
                                 "chestid": 127,
-                                "item": "Hot Pumpkin Soup"
+                                "item": "Hot Pumpkin Soup",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -1394,12 +1394,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 94,
                                 "chestid": 127,
-                                "item": "Heart piece"
+                                "item": "Heart piece",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -1500,10 +1500,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 20,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 10",
                                 "trigstoryf": "set after breaking chandelier in Lumpy pumkin",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x3 10"
                             }
                         },
                         {
@@ -1523,10 +1523,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 20,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 10",
                                 "trigstoryf": "set after breaking chandelier in Lumpy pumkin",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x3 10"
                             }
                         },
                         {
@@ -1555,10 +1555,10 @@
                             "unk3": "FC 3F",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 116,
+                                "scenefid": 116,
                                 "itemid": 48,
-                                "areaflag": "scene flag: 0xF 10",
-                                "item": "one Gratitude crystal"
+                                "item": "one Gratitude crystal",
+                                "scenef": "scene flag: 0xF 10"
                             }
                         },
                         {
@@ -1577,7 +1577,7 @@
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 367,
                                 "trigstoryf": "-",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "[conected to a disapearence of a npc in lumpy pumpkin]"
                             }
                         },
                         {
@@ -1597,10 +1597,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 23,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 80",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -1620,10 +1620,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 23,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 80",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -1643,10 +1643,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 24,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 01",
                                 "trigstoryf": "Reloading somehow after Finishing Pumm's 3rd Quest (play harp with Kina) (activates the new chandelier CS)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x2 01"
                             }
                         },
                         {
@@ -1666,10 +1666,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 24,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x2 01",
                                 "trigstoryf": "Reloading somehow after Finishing Pumm's 3rd Quest (play harp with Kina) (activates the new chandelier CS)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x2 01"
                             }
                         },
                         {
@@ -1807,11 +1807,11 @@
                                 "setstoryfid": 725,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "Set when going near Beds in the Lumpy Pumkin / unsets upon leaving",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -1833,11 +1833,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 725,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "Set when going near Beds in the Lumpy Pumkin / unsets upon leaving"
+                                "unsetstoryf": "Set when going near Beds in the Lumpy Pumkin / unsets upon leaving",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -2190,7 +2190,7 @@
                             "extra_info": {
                                 "trigstoryfid": 472,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "",
+                                "trigstoryf": "Set after sleeping (needs 8Ex40)",
                                 "untrigstoryf": "-"
                             }
                         },
@@ -2209,7 +2209,7 @@
                             "extra_info": {
                                 "trigstoryfid": 472,
                                 "untrigstoryfid": 2047,
-                                "trigstoryf": "",
+                                "trigstoryf": "Set after sleeping (needs 8Ex40)",
                                 "untrigstoryf": "-"
                             }
                         },
@@ -2229,7 +2229,7 @@
                                 "trigstoryfid": 292,
                                 "untrigstoryfid": 472,
                                 "trigstoryf": "Set after delivering hot pumpkin soup",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "Set after sleeping (needs 8Ex40)"
                             }
                         },
                         {
@@ -2248,7 +2248,7 @@
                                 "trigstoryfid": 292,
                                 "untrigstoryfid": 472,
                                 "trigstoryf": "Set after delivering hot pumpkin soup",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "Set after sleeping (needs 8Ex40)"
                             }
                         },
                         {

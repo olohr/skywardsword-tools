@@ -83,8 +83,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 146,
-                        "areaflag": "temp flag: 0x3 04"
+                        "scenefid": 146,
+                        "scenef": "temp flag: 0x3 04"
                     }
                 }
             ]
@@ -290,10 +290,10 @@
                                 "untrigstoryfid": 270,
                                 "trigscenefid": 87,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0xB 80",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "Fi Text after Molderach 2's defeat (Shipyard Construction Bay layer 2)"
+                                "untrigstoryf": "Fi Text after Molderach 2's defeat (Shipyard Construction Bay layer 2)",
+                                "trigscenef": "scene flag: 0xB 80",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -313,10 +313,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 19,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0x3 08",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x3 08"
                             }
                         },
                         {
@@ -394,10 +394,10 @@
                             "unk3": "FC 08",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 138,
+                                "scenefid": 138,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 04"
+                                "scenef": "temp flag: 0x0 04"
                             }
                         },
                         {
@@ -416,10 +416,10 @@
                             "unk3": "FC 09",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 139,
+                                "scenefid": 139,
                                 "tgreactitemid": 19,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x0 08"
+                                "scenef": "temp flag: 0x0 08"
                             }
                         }
                     ],
@@ -505,10 +505,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -530,10 +530,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -568,7 +568,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 11",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 87,
+                                "setscenef": "scene flag: 0xB 80"
+                            }
                         }
                     ]
                 },
@@ -602,10 +606,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 88,
                                 "untrigscenefid": 89,
-                                "trigscenef": "scene flag: 0xA 01",
-                                "untrigscenef": "scene flag: 0xA 02",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0xA 01",
+                                "untrigscenef": "scene flag: 0xA 02"
                             }
                         },
                         {
@@ -703,10 +707,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 88,
                                 "untrigscenefid": 89,
-                                "trigscenef": "scene flag: 0xA 01",
-                                "untrigscenef": "scene flag: 0xA 02",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0xA 01",
+                                "untrigscenef": "scene flag: 0xA 02"
                             }
                         }
                     ],

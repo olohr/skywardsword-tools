@@ -81,8 +81,8 @@
                     "unk3": "FC 01",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 128,
-                        "areaflag": "temp flag: 0x1 01"
+                        "scenefid": 128,
+                        "scenef": "temp flag: 0x1 01"
                     }
                 },
                 {
@@ -1195,12 +1195,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 193,
                                 "chestid": 127,
-                                "item": "Song of the Hero"
+                                "item": "Song of the Hero",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -1267,10 +1267,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -1309,10 +1309,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -1359,8 +1359,8 @@
                             "unk3": "FC 35",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 28,
-                                "areaflag": "scene flag: 0x2 10"
+                                "scenefid": 28,
+                                "scenef": "scene flag: 0x2 10"
                             }
                         },
                         {
@@ -1379,8 +1379,8 @@
                             "unk3": "FC 36",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 29,
-                                "areaflag": "scene flag: 0x2 20"
+                                "scenefid": 29,
+                                "scenef": "scene flag: 0x2 20"
                             }
                         }
                     ],
@@ -1773,10 +1773,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 6,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 80,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)"
                             }
@@ -1798,10 +1798,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 80,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)"
                             }
@@ -1823,10 +1823,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 6,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 80,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)"
                             }
@@ -1918,10 +1918,10 @@
                             "unk3": "FC 44",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 4,
-                                "areaflag": "no flag",
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1937,10 +1937,10 @@
                             "unk3": "FC 45",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "itemid": 4,
-                                "areaflag": "no flag",
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -1978,10 +1978,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 8,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 80,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)",
                                 "untrigstoryf": "-"
                             }
@@ -2003,10 +2003,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 80,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "Water Dragon Cutscene in Flooded Faron Woods starting Tadtones watched + tadtones appear (Flooded Great Tree layer 2)",
                                 "untrigstoryf": "-"
                             }

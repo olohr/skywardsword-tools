@@ -332,10 +332,10 @@
                             "unk3": "FC 08",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 62,
+                                "scenefid": 62,
                                 "itemid": 97,
-                                "areaflag": "scene flag: 0x6 40",
-                                "item": "Triforce of Wisdom"
+                                "item": "Triforce of Wisdom",
+                                "scenef": "scene flag: 0x6 40"
                             }
                         }
                     ]
@@ -362,10 +362,10 @@
                             "unk3": "FC 08",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 61,
+                                "scenefid": 61,
                                 "itemid": 96,
-                                "areaflag": "scene flag: 0x6 20",
-                                "item": "Triforce of Power"
+                                "item": "Triforce of Power",
+                                "scenef": "scene flag: 0x6 20"
                             }
                         }
                     ]
@@ -392,10 +392,10 @@
                             "unk3": "FC 08",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 64,
+                                "scenefid": 64,
                                 "itemid": 95,
-                                "areaflag": "scene flag: 0x9 01",
-                                "item": "Triforce of Courage"
+                                "item": "Triforce of Courage",
+                                "scenef": "scene flag: 0x9 01"
                             }
                         }
                     ]
@@ -423,10 +423,10 @@
                                 "untrigstoryfid": 646,
                                 "trigscenefid": 60,
                                 "untrigscenefid": 255,
-                                "trigscenef": "scene flag: 0x6 10",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Set when beating Sky Keep",
-                                "untrigstoryf": ""
+                                "untrigstoryf": "[Was intended to set after beating Sky keep in the triforce room on layer 5]",
+                                "trigscenef": "scene flag: 0x6 10",
+                                "untrigscenef": "no flag"
                             }
                         }
                     ]

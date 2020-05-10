@@ -155,8 +155,8 @@
                     "unk3": "FC 06",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 180,
-                        "areaflag": "temp flag: 0x7 10"
+                        "scenefid": 180,
+                        "scenef": "temp flag: 0x7 10"
                     }
                 }
             ]
@@ -1245,12 +1245,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 33,
                                 "chestid": 84,
-                                "item": "Gold rupee"
+                                "item": "Gold rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -1507,10 +1507,10 @@
                             "unk3": "FC 54",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 148,
+                                "scenefid": 148,
                                 "tgreactitemid": 15,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x3 10"
+                                "scenef": "temp flag: 0x3 10"
                             }
                         },
                         {
@@ -1529,10 +1529,10 @@
                             "unk3": "FC 55",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 149,
+                                "scenefid": 149,
                                 "tgreactitemid": 13,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x3 20"
+                                "scenef": "temp flag: 0x3 20"
                             }
                         },
                         {
@@ -1551,10 +1551,10 @@
                             "unk3": "FC 56",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 150,
+                                "scenefid": 150,
                                 "tgreactitemid": 18,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x3 40"
+                                "scenef": "temp flag: 0x3 40"
                             }
                         },
                         {
@@ -1573,10 +1573,10 @@
                             "unk3": "FC 57",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 151,
+                                "scenefid": 151,
                                 "tgreactitemid": 4,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x3 80"
+                                "scenef": "temp flag: 0x3 80"
                             }
                         },
                         {
@@ -1595,10 +1595,10 @@
                             "unk3": "FC 58",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 152,
+                                "scenefid": 152,
                                 "tgreactitemid": 19,
                                 "subtype": "gust bellow blow",
-                                "areaflag": "temp flag: 0x2 01"
+                                "scenef": "temp flag: 0x2 01"
                             }
                         }
                     ],
@@ -1782,10 +1782,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1807,10 +1807,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1832,10 +1832,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 3,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1857,10 +1857,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 4,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -2446,7 +2446,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 70",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 60,
+                                "setscenef": "scene flag: 0x6 10"
+                            }
                         },
                         {
                             "unk1": "02 FF FF 02",
@@ -2499,11 +2503,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 67,
-                                "setscenef": "scene flag: 0x9 08",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0x9 08",
+                                "unsetscenef": "no flag"
                             }
                         }
                     ]
@@ -2614,7 +2618,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 6D",
-                            "name": "DieTag"
+                            "name": "DieTag",
+                            "extra_info": {
+                                "setscenefid": 169,
+                                "setscenef": "temp flag: 0x4 02"
+                            }
                         },
                         {
                             "unk1": "02 FF FF 02",

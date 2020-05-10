@@ -70,8 +70,8 @@
                     "unk3": "FC 02",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 },
                 {
@@ -381,12 +381,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 21,
-                                "trigscenef": "scene flag: 0x3 20",
+                                "setscenefid": 21,
                                 "itemid": 50,
                                 "chestid": 64,
-                                "item": "Dungeon Map (and fi text)"
+                                "item": "Dungeon Map (and fi text)",
+                                "spawnscenef": "no flag",
+                                "setscenef": "scene flag: 0x3 20"
                             }
                         },
                         {
@@ -402,12 +402,12 @@
                             "unk3": "FC 06",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 78,
+                                "scenefid": 78,
                                 "tosky_scen_link": 2,
                                 "name_id": 255,
                                 "subtype": "dungeon",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x8 40"
+                                "scenef": "scene flag: 0x8 40"
                             }
                         }
                     ],
@@ -520,10 +520,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 26,
                                 "untrigscenefid": 23,
-                                "trigscenef": "scene flag: 0x2 04",
-                                "untrigscenef": "scene flag: 0x3 80",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0x2 04",
+                                "untrigscenef": "scene flag: 0x3 80"
                             }
                         }
                     ],
@@ -579,11 +579,11 @@
                                 "setstoryfid": 693,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
-                                "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "setstoryf": "Going near first door in Sky keep",
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -701,11 +701,11 @@
                                 "setstoryfid": 701,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "Set after entering Sky Keep for first time",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         }
                     ]

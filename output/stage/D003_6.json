@@ -117,8 +117,8 @@
                     "unk3": "FC 03",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 }
             ]
@@ -933,12 +933,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 95,
-                                "trigscenef": "scene flag: 0xA 80",
+                                "setscenefid": 95,
                                 "itemid": 1,
                                 "chestid": 65,
-                                "item": "Small Key"
+                                "item": "Small Key",
+                                "spawnscenef": "no flag",
+                                "setscenef": "scene flag: 0xA 80"
                             }
                         }
                     ],
@@ -1155,11 +1155,11 @@
                                 "setstoryfid": 700,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         }
                     ]

@@ -128,8 +128,8 @@
                     "unk3": "FC 03",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 179,
-                        "areaflag": "temp flag: 0x7 08"
+                        "scenefid": 179,
+                        "scenef": "temp flag: 0x7 08"
                     }
                 },
                 {
@@ -558,12 +558,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 178,
                                 "chestid": 127,
-                                "item": "Rupy Tablet"
+                                "item": "Rupy Tablet",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -776,10 +776,10 @@
                             "unk3": "FC 1E",
                             "name": "Item",
                             "extra_info": {
-                                "flagid": 109,
+                                "scenefid": 109,
                                 "itemid": 4,
-                                "areaflag": "scene flag: 0xC 20",
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "scenef": "scene flag: 0xC 20"
                             }
                         },
                         {
@@ -936,10 +936,10 @@
                             "unk3": "FC 32",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 148,
+                                "scenefid": 148,
                                 "tgreactitemid": 18,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x3 10"
+                                "scenef": "temp flag: 0x3 10"
                             }
                         },
                         {
@@ -958,10 +958,10 @@
                             "unk3": "FC 33",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 149,
+                                "scenefid": 149,
                                 "tgreactitemid": 18,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x3 20"
+                                "scenef": "temp flag: 0x3 20"
                             }
                         },
                         {
@@ -980,10 +980,10 @@
                             "unk3": "FC 34",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 150,
+                                "scenefid": 150,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 40"
+                                "scenef": "temp flag: 0x3 40"
                             }
                         },
                         {
@@ -1002,10 +1002,10 @@
                             "unk3": "FC 35",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 151,
+                                "scenefid": 151,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 80"
+                                "scenef": "temp flag: 0x3 80"
                             }
                         },
                         {
@@ -1024,10 +1024,10 @@
                             "unk3": "FC 36",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 152,
+                                "scenefid": 152,
                                 "tgreactitemid": 6,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 01"
+                                "scenef": "temp flag: 0x2 01"
                             }
                         }
                     ],
@@ -1307,10 +1307,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1382,11 +1382,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 192,
-                                "setscenef": "loadzone temp flag: 0x9 01",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "loadzone temp flag: 0x9 01",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -2367,10 +2367,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 106,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xC 04",
                                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xC 04"
                             }
                         }
                     ],
@@ -2392,10 +2392,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 195,
+                                "trigscenefid": 195,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "loadzone temp flag: 0x9 08",
+                                "trigscenef": "loadzone temp flag: 0x9 08",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -2430,10 +2430,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 196,
                                 "untrigscenefid": 194,
-                                "trigscenef": "loadzone temp flag: 0x9 10",
-                                "untrigscenef": "loadzone temp flag: 0x9 04",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "loadzone temp flag: 0x9 10",
+                                "untrigscenef": "loadzone temp flag: 0x9 04"
                             }
                         },
                         {
@@ -2453,10 +2453,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 108,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "scene flag: 0xC 10",
                                 "trigstoryf": "Set when Water Dragon asks for Sacred Water (Sacred Water dowsing)",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0xC 10"
                             }
                         }
                     ],
@@ -2478,10 +2478,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 4,
-                                "flagid": 195,
+                                "trigscenefid": 195,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "loadzone temp flag: 0x9 08",
+                                "trigscenef": "loadzone temp flag: 0x9 08",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }

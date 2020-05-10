@@ -165,8 +165,8 @@
                     "unk3": "FC 03",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 178,
-                        "areaflag": "temp flag: 0x7 04"
+                        "scenefid": 178,
+                        "scenef": "temp flag: 0x7 04"
                     }
                 },
                 {
@@ -1342,12 +1342,12 @@
                             "unk3": "FC 4B",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 28,
+                                "scenefid": 28,
                                 "tosky_scen_link": 0,
                                 "name_id": 24,
                                 "subtype": "overworld",
                                 "name": "Skipper's Retreat",
-                                "areaflag": "scene flag: 0x2 10"
+                                "scenef": "scene flag: 0x2 10"
                             }
                         },
                         {
@@ -1363,12 +1363,12 @@
                             "unk3": "FC 4C",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 85,
+                                "scenefid": 85,
                                 "tosky_scen_link": 0,
                                 "name_id": 25,
                                 "subtype": "overworld",
                                 "name": "Shipyard",
-                                "areaflag": "scene flag: 0xB 20"
+                                "scenef": "scene flag: 0xB 20"
                             }
                         },
                         {
@@ -1384,12 +1384,12 @@
                             "unk3": "FC 4D",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 84,
+                                "scenefid": 84,
                                 "tosky_scen_link": 0,
                                 "name_id": 26,
                                 "subtype": "overworld",
                                 "name": "Pirate Stronghold",
-                                "areaflag": "scene flag: 0xB 10"
+                                "scenef": "scene flag: 0xB 10"
                             }
                         },
                         {
@@ -1405,12 +1405,12 @@
                             "unk3": "FC 4E",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 10,
+                                "scenefid": 10,
                                 "tosky_scen_link": 0,
                                 "name_id": 23,
                                 "subtype": "overworld",
                                 "name": "Ancient Harbor",
-                                "areaflag": "scene flag: 0x0 04"
+                                "scenef": "scene flag: 0x0 04"
                             }
                         },
                         {
@@ -1426,12 +1426,12 @@
                             "unk3": "FC 4F",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 86,
+                                "scenefid": 86,
                                 "tosky_scen_link": 0,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0xB 40"
+                                "scenef": "scene flag: 0xB 40"
                             }
                         }
                     ],
@@ -1449,8 +1449,8 @@
                             "unk3": "FC 01",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1466,8 +1466,8 @@
                             "unk3": "FC 02",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1483,8 +1483,8 @@
                             "unk3": "FC 03",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1523,10 +1523,10 @@
                                 "untrigstoryfid": 499,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "First Time in Sand Sea",
-                                "untrigstoryf": "First Quest from Skipper given in the Sand Sea (to Skipper's Retreat)"
+                                "untrigstoryf": "First Quest from Skipper given in the Sand Sea (to Skipper's Retreat)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -1546,10 +1546,10 @@
                                 "untrigstoryfid": 519,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Sea Chart in Skipper's Retreat obtained",
-                                "untrigstoryf": "Ancient Sea Chart activates"
+                                "untrigstoryf": "Ancient Sea Chart activates",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -1569,10 +1569,10 @@
                                 "untrigstoryfid": 520,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Fi Text after Molderach 2's defeat (Shipyard Construction Bay layer 2)",
-                                "untrigstoryf": "Skipper's Text in Sand Sea after Shipyard"
+                                "untrigstoryf": "Skipper's Text in Sand Sea after Shipyard",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -1592,10 +1592,10 @@
                                 "untrigstoryfid": 521,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "Set at Fi text for Ship Dowsing",
-                                "untrigstoryf": "Skipper's Text in Sand Sea after Pirate Stronghold"
+                                "untrigstoryf": "Skipper's Text in Sand Sea after Pirate Stronghold",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -1611,8 +1611,8 @@
                             "unk3": "FC 09",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1628,8 +1628,8 @@
                             "unk3": "FC 0A",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1645,8 +1645,8 @@
                             "unk3": "FC 0B",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1662,8 +1662,8 @@
                             "unk3": "FC 0C",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1679,8 +1679,8 @@
                             "unk3": "FC 0D",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1696,8 +1696,8 @@
                             "unk3": "FC 0E",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1713,8 +1713,8 @@
                             "unk3": "FC 0F",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1730,8 +1730,8 @@
                             "unk3": "FC 10",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1747,8 +1747,8 @@
                             "unk3": "FC 11",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1855,8 +1855,8 @@
                             "unk3": "FC 19",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1872,8 +1872,8 @@
                             "unk3": "FC 1A",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1889,8 +1889,8 @@
                             "unk3": "FC 1B",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1906,8 +1906,8 @@
                             "unk3": "FC 1C",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1923,8 +1923,8 @@
                             "unk3": "FC 1D",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1940,8 +1940,8 @@
                             "unk3": "FC 1E",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1957,8 +1957,8 @@
                             "unk3": "FC 1F",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -2704,10 +2704,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -2729,10 +2729,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -2754,10 +2754,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 3,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -2779,10 +2779,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 4,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -2870,11 +2870,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 154,
                                 "setscenefid": 255,
-                                "setscenef": "no flag",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": ""
+                                "unsetstoryf": "",
+                                "setscenef": "no flag",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -3004,10 +3004,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 110,
+                                "trigscenefid": 110,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "scene flag: 0xC 40",
+                                "trigscenef": "scene flag: 0xC 40",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -3061,8 +3061,8 @@
                             "unk3": "FC 6A",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3078,8 +3078,8 @@
                             "unk3": "FC 6B",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3095,8 +3095,8 @@
                             "unk3": "FC 6C",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3112,8 +3112,8 @@
                             "unk3": "FC 6D",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3129,8 +3129,8 @@
                             "unk3": "FC 6E",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3146,8 +3146,8 @@
                             "unk3": "FC 6F",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3163,8 +3163,8 @@
                             "unk3": "FC 70",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3698,10 +3698,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 110,
+                                "trigscenefid": 110,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "scene flag: 0xC 40",
+                                "trigscenef": "scene flag: 0xC 40",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -3757,8 +3757,8 @@
                             "unk3": "FC 6A",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3774,8 +3774,8 @@
                             "unk3": "FC 6B",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3791,8 +3791,8 @@
                             "unk3": "FC 6C",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3808,8 +3808,8 @@
                             "unk3": "FC 6D",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3825,8 +3825,8 @@
                             "unk3": "FC 6E",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3842,8 +3842,8 @@
                             "unk3": "FC 6F",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3859,8 +3859,8 @@
                             "unk3": "FC 70",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3876,8 +3876,8 @@
                             "unk3": "FC 71",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3893,8 +3893,8 @@
                             "unk3": "FC 72",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3910,8 +3910,8 @@
                             "unk3": "FC 73",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3927,8 +3927,8 @@
                             "unk3": "FC 74",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3944,8 +3944,8 @@
                             "unk3": "FC 75",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -3961,8 +3961,8 @@
                             "unk3": "FC 76",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -4821,10 +4821,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 5,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -5192,8 +5192,8 @@
                             "unk3": "FC 82",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5209,8 +5209,8 @@
                             "unk3": "FC 83",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5226,8 +5226,8 @@
                             "unk3": "FC 84",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5269,8 +5269,8 @@
                             "unk3": "FC 87",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5286,8 +5286,8 @@
                             "unk3": "FC 88",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5303,8 +5303,8 @@
                             "unk3": "FC 89",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5398,8 +5398,8 @@
                             "unk3": "FC 90",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5415,8 +5415,8 @@
                             "unk3": "FC 91",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5432,8 +5432,8 @@
                             "unk3": "FC 92",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5449,8 +5449,8 @@
                             "unk3": "FC 93",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5622,8 +5622,8 @@
                             "unk3": "FC A0",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5639,8 +5639,8 @@
                             "unk3": "FC A1",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5656,8 +5656,8 @@
                             "unk3": "FC A2",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -5944,10 +5944,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 110,
+                                "trigscenefid": 110,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "scene flag: 0xC 40",
+                                "trigscenef": "scene flag: 0xC 40",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -6003,8 +6003,8 @@
                             "unk3": "FC 6A",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6020,8 +6020,8 @@
                             "unk3": "FC 6B",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6037,8 +6037,8 @@
                             "unk3": "FC 6C",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6054,8 +6054,8 @@
                             "unk3": "FC 6D",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6071,8 +6071,8 @@
                             "unk3": "FC 6E",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6088,8 +6088,8 @@
                             "unk3": "FC 6F",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6105,8 +6105,8 @@
                             "unk3": "FC 70",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6122,8 +6122,8 @@
                             "unk3": "FC 71",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6139,8 +6139,8 @@
                             "unk3": "FC 72",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6156,8 +6156,8 @@
                             "unk3": "FC 73",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6173,8 +6173,8 @@
                             "unk3": "FC 74",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6190,8 +6190,8 @@
                             "unk3": "FC 75",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -6207,8 +6207,8 @@
                             "unk3": "FC 76",
                             "name": "Barrel",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -7067,10 +7067,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 110,
+                                "trigscenefid": 110,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "scene flag: 0xC 40",
+                                "trigscenef": "scene flag: 0xC 40",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }

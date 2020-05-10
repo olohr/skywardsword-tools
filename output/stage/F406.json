@@ -125,8 +125,8 @@
                     "unk3": "FC 03",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 141,
-                        "areaflag": "temp flag: 0x0 20"
+                        "scenefid": 141,
+                        "scenef": "temp flag: 0x0 20"
                     }
                 }
             ]
@@ -711,9 +711,9 @@
                             "unk3": "FC 00",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 0,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -729,12 +729,12 @@
                             "unk3": "FC 01",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 31,
+                                "scenefid": 31,
                                 "tosky_scen_link": 5,
                                 "name_id": 0,
                                 "subtype": "overworld",
                                 "name": "Behind the Temple",
-                                "areaflag": "scene flag: 0x2 80"
+                                "scenef": "scene flag: 0x2 80"
                             }
                         },
                         {
@@ -750,9 +750,9 @@
                             "unk3": "FC 02",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -768,9 +768,9 @@
                             "unk3": "FC 03",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 1,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -786,12 +786,12 @@
                             "unk3": "FC 04",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 32,
+                                "scenefid": 32,
                                 "tosky_scen_link": 255,
                                 "name_id": 255,
                                 "subtype": "normal",
                                 "name": "Bird Statue",
-                                "areaflag": "scene flag: 0x5 01"
+                                "scenef": "scene flag: 0x5 01"
                             }
                         },
                         {
@@ -807,9 +807,9 @@
                             "unk3": "FC 05",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 23,
+                                "scenefid": 23,
                                 "scen_link": 1,
-                                "areaflag": "scene flag: 0x3 80"
+                                "scenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -825,9 +825,9 @@
                             "unk3": "FC 06",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 23,
+                                "scenefid": 23,
                                 "scen_link": 1,
-                                "areaflag": "scene flag: 0x3 80"
+                                "scenef": "scene flag: 0x3 80"
                             }
                         },
                         {
@@ -843,12 +843,12 @@
                             "unk3": "FC 08",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 35,
+                                "scenefid": 35,
                                 "tosky_scen_link": 16,
                                 "name_id": 29,
                                 "subtype": "overworld",
                                 "name": "Sealed Grounds",
-                                "areaflag": "scene flag: 0x5 08"
+                                "scenef": "scene flag: 0x5 08"
                             }
                         },
                         {
@@ -865,12 +865,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 126,
                                 "chestid": 64,
-                                "item": "Revitalizing Potion (does Crash)"
+                                "item": "Revitalizing Potion (does Crash)",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         }
                     ],
@@ -888,8 +888,8 @@
                             "unk3": "FC 07",
                             "name": "Log",
                             "extra_info": {
-                                "flagid": 39,
-                                "areaflag": "scene flag: 0x5 80"
+                                "scenefid": 39,
+                                "scenef": "scene flag: 0x5 80"
                             }
                         },
                         {
@@ -1194,10 +1194,10 @@
                             "unk3": "FC 26",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 163,
+                                "scenefid": 163,
                                 "tgreactitemid": 4,
                                 "subtype": "bonk",
-                                "areaflag": "temp flag: 0x5 08"
+                                "scenef": "temp flag: 0x5 08"
                             }
                         }
                     ],
@@ -1235,10 +1235,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 1,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -1495,8 +1495,8 @@
                             "unk3": "FC 2F",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1515,8 +1515,8 @@
                             "unk3": "FC 30",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1535,8 +1535,8 @@
                             "unk3": "FC 31",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1555,8 +1555,8 @@
                             "unk3": "FC 32",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1575,8 +1575,8 @@
                             "unk3": "FC 33",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1595,8 +1595,8 @@
                             "unk3": "FC 34",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1615,8 +1615,8 @@
                             "unk3": "FC 35",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         }
                     ]
@@ -1663,8 +1663,8 @@
                             "unk3": "FC 2F",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1683,8 +1683,8 @@
                             "unk3": "FC 30",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1703,8 +1703,8 @@
                             "unk3": "FC 31",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1723,8 +1723,8 @@
                             "unk3": "FC 32",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1743,8 +1743,8 @@
                             "unk3": "FC 33",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1763,8 +1763,8 @@
                             "unk3": "FC 34",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         },
                         {
@@ -1783,8 +1783,8 @@
                             "unk3": "FC 35",
                             "name": "Wind",
                             "extra_info": {
-                                "flagid": 255,
-                                "areaflag": "no flag"
+                                "scenefid": 7,
+                                "scenef": "scene flag: 0x1 80"
                             }
                         }
                     ]

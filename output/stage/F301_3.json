@@ -104,8 +104,8 @@
                     "unk3": "FC 03",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 145,
-                        "areaflag": "temp flag: 0x3 02"
+                        "scenefid": 145,
+                        "scenef": "temp flag: 0x3 02"
                     }
                 }
             ]
@@ -686,12 +686,12 @@
                             "unk3": "FC 07",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 28,
+                                "scenefid": 28,
                                 "tosky_scen_link": 1,
                                 "name_id": 24,
                                 "subtype": "overworld",
                                 "name": "Skipper's Retreat",
-                                "areaflag": "scene flag: 0x2 10"
+                                "scenef": "scene flag: 0x2 10"
                             }
                         },
                         {
@@ -708,12 +708,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 63,
                                 "chestid": 76,
-                                "item": "evil crystal"
+                                "item": "evil crystal",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -730,12 +730,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 32,
                                 "chestid": 77,
-                                "item": " Silver rupee"
+                                "item": " Silver rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -751,9 +751,9 @@
                             "unk3": "FC 24",
                             "name": "Door",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "scen_link": 3,
-                                "areaflag": "no flag"
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -770,12 +770,12 @@
                             "name": "TBox",
                             "extra_info": {
                                 "spawnscenefid": 255,
-                                "spawnscenef": "no flag",
-                                "trigscenefid": 255,
-                                "trigscenef": "no flag",
+                                "setscenefid": 255,
                                 "itemid": 4,
                                 "chestid": 78,
-                                "item": "Red Rupee"
+                                "item": "Red Rupee",
+                                "spawnscenef": "no flag",
+                                "setscenef": "no flag"
                             }
                         },
                         {
@@ -791,8 +791,8 @@
                             "unk3": "FC 31",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 25,
-                                "areaflag": "scene flag: 0x2 02"
+                                "scenefid": 25,
+                                "scenef": "scene flag: 0x2 02"
                             }
                         }
                     ],
@@ -1379,10 +1379,10 @@
                                 "untrigstoryfid": 278,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
-                                "trigscenef": "no flag",
-                                "untrigscenef": "no flag",
                                 "trigstoryf": "",
-                                "untrigstoryf": "Finish Talking to Skipper in Skipper's Retreat (name on map appears)"
+                                "untrigstoryf": "Finish Talking to Skipper in Skipper's Retreat (name on map appears)",
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
                             }
                         },
                         {
@@ -1398,8 +1398,8 @@
                             "unk3": "FC 32",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 242,
-                                "areaflag": "loadzone temp flag: 0xF 04"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1532,8 +1532,8 @@
                             "unk3": "FC 5C",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 127,
-                                "areaflag": "scene flag: 0xE 80"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         },
                         {
@@ -1549,8 +1549,8 @@
                             "unk3": "FC 5D",
                             "name": "Soil",
                             "extra_info": {
-                                "flagid": 127,
-                                "areaflag": "scene flag: 0xE 80"
+                                "scenefid": 255,
+                                "scenef": "no flag"
                             }
                         }
                     ],
@@ -1875,10 +1875,10 @@
                             "unk3": "FC 58",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 150,
+                                "scenefid": 150,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 40"
+                                "scenef": "temp flag: 0x3 40"
                             }
                         },
                         {
@@ -1897,10 +1897,10 @@
                             "unk3": "FC 59",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 151,
+                                "scenefid": 151,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x3 80"
+                                "scenef": "temp flag: 0x3 80"
                             }
                         },
                         {
@@ -1919,10 +1919,10 @@
                             "unk3": "FC 5A",
                             "name": "TgReact",
                             "extra_info": {
-                                "flagid": 152,
+                                "scenefid": 152,
                                 "tgreactitemid": 19,
                                 "subtype": "slingshot",
-                                "areaflag": "temp flag: 0x2 01"
+                                "scenef": "temp flag: 0x2 01"
                             }
                         }
                     ],
@@ -2092,11 +2092,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 127,
-                                "setscenef": "scene flag: 0xE 80",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "scene flag: 0xE 80",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -2134,11 +2134,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 129,
-                                "setscenef": "temp flag: 0x1 02",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "temp flag: 0x1 02",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {

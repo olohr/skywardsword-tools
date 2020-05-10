@@ -111,8 +111,8 @@
                     "unk3": "FC 01",
                     "name": "TlpTag",
                     "extra_info": {
-                        "flagid": 255,
-                        "areaflag": "no flag"
+                        "scenefid": 255,
+                        "scenef": "no flag"
                     }
                 },
                 {
@@ -3434,13 +3434,13 @@
                             "unk3": "FC 7C",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "setstoryfid": 803,
                                 "tosky_scen_link": 1,
                                 "name_id": 9,
                                 "subtype": "overworld",
                                 "name": "Great Tree Top",
-                                "areaflag": "no flag",
+                                "scenef": "no flag",
                                 "setstoryf": "Check Great Tree Statue"
                             }
                         },
@@ -3457,13 +3457,13 @@
                             "unk3": "FC 80",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "setstoryfid": 800,
                                 "tosky_scen_link": 1,
                                 "name_id": 1,
                                 "subtype": "normal",
                                 "name": "Faron Woods Entry",
-                                "areaflag": "no flag",
+                                "scenef": "no flag",
                                 "setstoryf": "Check Faron Woods Entry Statue"
                             }
                         },
@@ -3480,13 +3480,13 @@
                             "unk3": "FC 81",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "setstoryfid": 801,
                                 "tosky_scen_link": 1,
                                 "name_id": 2,
                                 "subtype": "normal",
                                 "name": "In the Woods",
-                                "areaflag": "no flag",
+                                "scenef": "no flag",
                                 "setstoryf": "Check In The Woods Statue"
                             }
                         },
@@ -3503,13 +3503,13 @@
                             "unk3": "FC 82",
                             "name": "saveObj",
                             "extra_info": {
-                                "flagid": 255,
+                                "scenefid": 255,
                                 "setstoryfid": 802,
                                 "tosky_scen_link": 1,
                                 "name_id": 3,
                                 "subtype": "normal",
                                 "name": "Viewing Platform",
-                                "areaflag": "no flag",
+                                "scenef": "no flag",
                                 "setstoryf": "Check Viewing Platform Statue"
                             }
                         },
@@ -6279,10 +6279,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 0,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -6304,10 +6304,10 @@
                             "name": "ScChang",
                             "extra_info": {
                                 "scen_link": 2,
-                                "flagid": 255,
+                                "trigscenefid": 255,
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
-                                "areaflag": "no flag",
+                                "trigscenef": "no flag",
                                 "trigstoryf": "-",
                                 "untrigstoryf": "-"
                             }
@@ -8429,10 +8429,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 26,
                                 "untrigscenefid": 20,
-                                "trigscenef": "scene flag: 0x2 04",
-                                "untrigscenef": "scene flag: 0x3 10",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0x2 04",
+                                "untrigscenef": "scene flag: 0x3 10"
                             }
                         },
                         {
@@ -8859,10 +8859,10 @@
                                 "untrigstoryfid": 2047,
                                 "trigscenefid": 25,
                                 "untrigscenefid": 60,
-                                "trigscenef": "scene flag: 0x2 02",
-                                "untrigscenef": "scene flag: 0x6 10",
                                 "trigstoryf": "-",
-                                "untrigstoryf": "-"
+                                "untrigstoryf": "-",
+                                "trigscenef": "scene flag: 0x2 02",
+                                "untrigscenef": "scene flag: 0x6 10"
                             }
                         }
                     ],
@@ -8883,8 +8883,8 @@
                             "unk3": "01 E6",
                             "name": "BlsRock",
                             "extra_info": {
-                                "flagid": 139,
-                                "areaflag": "temp flag: 0x0 08"
+                                "scenefid": 139,
+                                "scenef": "temp flag: 0x0 08"
                             }
                         }
                     ],
@@ -8940,11 +8940,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 138,
-                                "setscenef": "temp flag: 0x0 04",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "temp flag: 0x0 04",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -9014,11 +9014,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 138,
-                                "setscenef": "temp flag: 0x0 04",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "temp flag: 0x0 04",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
@@ -9056,11 +9056,11 @@
                                 "setstoryfid": 2047,
                                 "unsetstoryfid": 2047,
                                 "setscenefid": 143,
-                                "setscenef": "temp flag: 0x0 80",
                                 "unsetscenefid": 255,
-                                "unsetscenef": "no flag",
                                 "setstoryf": "-",
-                                "unsetstoryf": "-"
+                                "unsetstoryf": "-",
+                                "setscenef": "temp flag: 0x0 80",
+                                "unsetscenef": "no flag"
                             }
                         },
                         {
