@@ -3932,7 +3932,15 @@
                             "angle": 16384,
                             "talk_behaviour": 0,
                             "unk3": "FC 8D",
-                            "name": "TDoorB"
+                            "name": "TDoorB",
+                            "extra_info": {
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "setscenefid": 255,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-",
+                                "setscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -4636,7 +4644,15 @@
                             "angle": 16384,
                             "talk_behaviour": 0,
                             "unk3": "FC 86",
-                            "name": "TDoorB"
+                            "name": "TDoorB",
+                            "extra_info": {
+                                "trigstoryfid": 2047,
+                                "untrigstoryfid": 2047,
+                                "setscenefid": 255,
+                                "trigstoryf": "-",
+                                "untrigstoryf": "-",
+                                "setscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -5283,7 +5299,11 @@
                             "angle": 16384,
                             "talk_behaviour": 0,
                             "unk3": "FC 81",
-                            "name": "TDoor"
+                            "name": "TDoor",
+                            "extra_info": {
+                                "trigstoryfid": 211,
+                                "trigstoryf": "LMF Introductory Cutscene (The loading zone to LMF now exists AND the opened Lanayru Gate of Time now appears in the Harp Cutscene)"
+                            }
                         }
                     ]
                 },

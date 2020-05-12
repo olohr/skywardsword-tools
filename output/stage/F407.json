@@ -325,7 +325,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 01",
-                            "name": "TDoor"
+                            "name": "TDoor",
+                            "extra_info": {
+                                "trigstoryfid": 341,
+                                "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)"
+                            }
                         },
                         {
                             "unk1": "FF 26 25 01",

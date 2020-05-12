@@ -3275,7 +3275,15 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 4A",
-                            "name": "TDoorB"
+                            "name": "TDoorB",
+                            "extra_info": {
+                                "trigstoryfid": 340,
+                                "untrigstoryfid": 341,
+                                "setscenefid": 30,
+                                "trigstoryf": "Gate of Time raised",
+                                "untrigstoryf": "Gate of Time opened (Hylia's Temple layer 1)",
+                                "setscenef": "scene flag: 0x2 40"
+                            }
                         },
                         {
                             "unk1": "10 E2 33 FF",
@@ -3664,7 +3672,15 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 50",
-                            "name": "TDoorB"
+                            "name": "TDoorB",
+                            "extra_info": {
+                                "trigstoryfid": 340,
+                                "untrigstoryfid": 341,
+                                "setscenefid": 30,
+                                "trigstoryf": "Gate of Time raised",
+                                "untrigstoryf": "Gate of Time opened (Hylia's Temple layer 1)",
+                                "setscenef": "scene flag: 0x2 40"
+                            }
                         },
                         {
                             "unk1": "FF E0 37 FF",
@@ -3778,7 +3794,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 4A",
-                            "name": "TDoor"
+                            "name": "TDoor",
+                            "extra_info": {
+                                "trigstoryfid": 341,
+                                "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)"
+                            }
                         },
                         {
                             "unk1": "2B C2 13 FF",
@@ -3943,7 +3963,15 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 54",
-                            "name": "TDoorB"
+                            "name": "TDoorB",
+                            "extra_info": {
+                                "trigstoryfid": 340,
+                                "untrigstoryfid": 341,
+                                "setscenefid": 30,
+                                "trigstoryf": "Gate of Time raised",
+                                "untrigstoryf": "Gate of Time opened (Hylia's Temple layer 1)",
+                                "setscenef": "scene flag: 0x2 40"
+                            }
                         }
                     ],
                     "STAG": [
@@ -4062,7 +4090,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 4D",
-                            "name": "TDoor"
+                            "name": "TDoor",
+                            "extra_info": {
+                                "trigstoryfid": 341,
+                                "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)"
+                            }
                         },
                         {
                             "unk1": "63 5F FF 11",
@@ -4306,7 +4338,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 51",
-                            "name": "TDoor"
+                            "name": "TDoor",
+                            "extra_info": {
+                                "trigstoryfid": 341,
+                                "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)"
+                            }
                         },
                         {
                             "unk1": "63 5F FF 11",
@@ -4487,7 +4523,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 4D",
-                            "name": "TDoor"
+                            "name": "TDoor",
+                            "extra_info": {
+                                "trigstoryfid": 341,
+                                "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)"
+                            }
                         }
                     ]
                 },
@@ -4647,7 +4687,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 4C",
-                            "name": "TDoor"
+                            "name": "TDoor",
+                            "extra_info": {
+                                "trigstoryfid": 341,
+                                "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)"
+                            }
                         }
                     ],
                     "STAG": [
@@ -4689,7 +4733,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 49",
-                            "name": "TDoor"
+                            "name": "TDoor",
+                            "extra_info": {
+                                "trigstoryfid": 341,
+                                "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)"
+                            }
                         }
                     ],
                     "STAG": [
@@ -4829,7 +4877,15 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 4C",
-                            "name": "TDoorB"
+                            "name": "TDoorB",
+                            "extra_info": {
+                                "trigstoryfid": 340,
+                                "untrigstoryfid": 341,
+                                "setscenefid": 30,
+                                "trigstoryf": "Gate of Time raised",
+                                "untrigstoryf": "Gate of Time opened (Hylia's Temple layer 1)",
+                                "setscenef": "scene flag: 0x2 40"
+                            }
                         }
                     ],
                     "STAG": [
@@ -4895,7 +4951,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 4A",
-                            "name": "TDoor"
+                            "name": "TDoor",
+                            "extra_info": {
+                                "trigstoryfid": 341,
+                                "trigstoryf": "Gate of Time opened (Hylia's Temple layer 1)"
+                            }
                         }
                     ],
                     "STAG": [
