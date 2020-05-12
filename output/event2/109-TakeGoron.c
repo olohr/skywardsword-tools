@@ -308,12 +308,12 @@ void entrypoint_109_01() {
 					goto flw_152
 				  case 2:
 					printf("######Hoo-wee! That's what I'm talking\nabout! You really brutalized that\nbamboo, boy. Here's your prize!")
-					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 63), ('next', 132), ('param3', 9)])
+					give_item(63 0x3F);
 					printf("######I want to see you do #####28 chops #####next time!")
 					goto flw_27
 				  case 3:
 					printf("######That is one humding-alinger of a score!\nI only reached that number a few\ntimes myself. Here's your prize!")
-					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 27), ('param3', 9)])
+					give_item(64 0x40);
 					goto flw_27
 				}
 			  case 1:

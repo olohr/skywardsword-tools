@@ -355,7 +355,7 @@ void entrypoint_200_90() {
 							goto flw_490
 						  case 1:
 							printf("######OK, I get the picture. I will make sure\nthis is worth your while.")
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 161), ('next', 497), ('param3', 9)])
+							give_item(161 0xA1);
 							printf("######You would have to be crazy to refuse\nme now! Unless you are... You are not\ncrazy, are you?")
 							goto flw_493
 						}

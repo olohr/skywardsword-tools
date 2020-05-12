@@ -78,7 +78,7 @@ void entrypoint_450_00() {
 			printf("As you know by now, I cannot follow\nyou. The trial calls out to your mind######\nalone, as it is in every #####Silent Realm#####.\n\nThis is the second trial, known as\n#####Nayru's Silent Realm#####. It will test\nyour #####wisdom#####, ######Master.\n\nYou must overcome this trial to find\nthe flames that will enhance your\nsword.")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 9), ('param2', 0), ('next', 6), ('param3', 39)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 62), ('param2', 1), ('next', 2), ('param3', 40)])
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 17), ('next', 5), ('param3', 9)])
+			give_item(17 0x11);
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 0), ('next', 4), ('param3', 39)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 31), ('param2', 1), ('next', 8), ('param3', 40)])
 			printf("When your vessel is full, your spirit\nwill grow and you will be entrusted\nwith a #####new power #####by the goddess.\n\nDo you have any questions?\n#####Yes!#####No.")

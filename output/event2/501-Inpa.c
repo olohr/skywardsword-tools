@@ -631,7 +631,7 @@ void entrypoint_501_20() {
 
 void entrypoint_501_03() {
 	start()
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 186), ('next', 268), ('param3', 9)])
+	give_item(186 0xBA);
 	story_flags[343 /* us: 805A9AFE 0x20, jp: 805ACD7E 0x20 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 33)])
 }

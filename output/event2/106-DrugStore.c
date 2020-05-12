@@ -118,7 +118,7 @@ void entrypoint_106_01() {
 			  case 0:
 				printf("######Dear, your pouch is full! You're quite\nthe little shopper, aren't you?\n\n\n####\n#Why don't you leave some of your\nthings with that nice Item Check girl?\nThen you won't have to carry all that\njunk around with you!")
 			  case 1:
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 153), ('next', 41), ('param3', 9)])
+				give_item(153 0x99);
 				story_flags[35 /* us: 805A9ADD 0x08, jp: 805ACD5D 0x08 */] = true;
 				switch (scene_flags[89 /* 0xA 02 */]) {
 				  case 0:

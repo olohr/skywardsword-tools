@@ -173,6 +173,8 @@ if __name__ == "__main__":
                 lines.append((itemId,indent,"story_flags[%d /* %s */] = true;"%(item['param2'],idx_to_story_flag(item['param2']))))
             elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==1:
                 lines.append((itemId,indent,"story_flags[%d /* %s */] = false;"%(item['param2'],idx_to_story_flag(item['param2']))))
+            elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==9:
+                lines.append((itemId,indent,"give_item(%d 0x%02X);"%(item['param2'],item['param2'])))
             elif item['type']=='type3' and item['subType']==1 and item['param3']==2:
                 lines.append((itemId,indent,"scene_flags[%d '%s'][%d /* %s */] = true;"%(item['param2'],flagindex_names[item['param2']],item['param1'],idx_to_scene_flag(item['param1']))))
                 cumulative_flags_set[item['param2']] = setBit(cumulative_flags_set[item['param2']],item['param1'])

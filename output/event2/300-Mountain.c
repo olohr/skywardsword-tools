@@ -443,7 +443,7 @@ void entrypoint_300_03() {
 		  case 0:
 			printf("Oh, right. You're trying to find your\nfriend, aren'tcha?\n\n\n######In that case, take these things!\nThey're something pretty special, if I\nsay so myself.")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 6), ('param3', 42)])
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 56), ('next', 7), ('param3', 9)])
+			give_item(56 0x38);
 			printf("With these, you should be able to get to\nthe top of that ledge right behind me.##\n###\nJust try digging in that hole below the\nledge. You're in for a surprise!")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 137), ('param3', 39)])
 			flw_137:
@@ -453,7 +453,7 @@ void entrypoint_300_03() {
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 18), ('param2', 3599), ('next', 134), ('param3', 13)])
 			printf("Huh? Rupees? Is that really what\nyou're after?\n\n\n###########I mean, it's his reward and all, but...really?\nJust Rupees? Seems like a waste of a reward\nopportunity to me. And I don't even have any.\n#####Oh wait, I know. I got something good instead.\n######So, hey...uh...#####I don't exactly have any\nRupees on me...\n\n\n######But I got something better! Didn't you\nsay you were looking for a friend?\nWell, I got something that can help you\nreach this friend... Take these instead!")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 135), ('param3', 42)])
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 56), ('next', 136), ('param3', 9)])
+			give_item(56 0x38);
 			printf("With these, you should be able to get to\nthe top of that ledge right behind me.##\n###\nJust try digging in that hole below the\nledge. You're in for a surprise!")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 160), ('param3', 39)])
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 21), ('param2', 2048), ('next', 139), ('param3', 13)])

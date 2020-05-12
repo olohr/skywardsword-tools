@@ -191,7 +191,7 @@ void entrypoint_116_02() {
 				printf("######OK! Time! Hey... This is incredible!\n\n\n\n######I think you might be in the running for\nsecond place as the best bug catcher\nafter me. You should aim for #####under two\nminutes#####.\nDo that, and a prize package of #####five\nfabulous bugs##### is yours to take home!")
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 129), ('param3', 45)])
 				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = true;
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 23), ('next', 130), ('param3', 9)])
+				give_item(23 0x17);
 				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = false;
 				printf("######Take good care of them for me...")
 			  case 1:
@@ -208,14 +208,14 @@ void entrypoint_116_02() {
 				printf("######OK, time's up! ...Th-this is amazing!\n\n\n\n######I don't have any choice. I'm forced to\nadmit you're one of the all-time greats\nof bug catching! I bow down to your\nbug-wrangling skills.\n######Let me give you your prize! You get\na set of insects... #####Five##### rare ones at that!")
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 131), ('param3', 45)])
 				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = true;
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 24), ('next', 133), ('param3', 9)])
+				give_item(24 0x18);
 				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = false;
 				printf("######Take good care of them for me...")
 			  case 1:
 				printf("######Stop! Stop! Time's up! That was just... \nincredible!\n\n\n######Oh, but let me just remind you that you\nwere doing the Bug Beginner level\nof difficulty.\n\n######Next time, try Bug Wrangler! As a\nprize, here are #####five##### of my absolute\nfavorite #####bugs#####!")
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 132), ('param3', 45)])
 				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = true;
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 22), ('next', 134), ('param3', 9)])
+				give_item(22 0x16);
 				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = false;
 				printf("######Take good care of them for me...")
 			}
@@ -245,7 +245,7 @@ void entrypoint_116_02() {
 				printf("OK, you're done!\n######Heh heh heh... Who would have thought\nit would be so easy for you to break the\nrecord time!")
 				printf("######OK, OK... As I promised, here's the\n#####Horned Colossus Beetle#####.\n\n\n######I have to admit, you're a pretty tough\ncompetitor. I guess I won't be able to\n#####bug #####you anymore.\n\n######Heh heh heh...")
 				story_flags[476 /* us: 805A9B11 0x01, jp: 805ACD91 0x01 */] = true;
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 159), ('next', 74), ('param3', 9)])
+				give_item(159 0x9F);
 				printf("######Make sure to tell Beedle that, bug\nlover to bug lover, I feel sort of bad\nfor causing him so much stress.")
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 45)])
 			  case 3:

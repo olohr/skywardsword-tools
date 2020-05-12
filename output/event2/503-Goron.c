@@ -257,7 +257,7 @@ void entrypoint_503_09() {
 		scene_flags[10 'Sealed Grounds'][63 /* 0x6 80 */] = true;
 		scene_flags[10 'Sealed Grounds'][112 /* 0xF 01 */] = true;
 		printf("######Now I have seen everything that those\nancient writings described!\n\n\nI really owe you, bud, so let me give you\nthis! Just my way of saying thanks.")
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 33), ('next', 615), ('param3', 9)])
+		give_item(33 0x21);
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 556), ('param3', 12)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 0), ('next', 588), ('param3', 39)])
 		switch (story_flags[15 /* us: 805A9ADB 0x01, jp: 805ACD5B 0x01 */]) {
@@ -727,7 +727,7 @@ void entrypoint_503_17() {
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 13), ('param4', 4), ('param5', 86)])) {
 			  case 0:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 62), ('next', 554), ('param3', 9)])
+				give_item(62 0x3E);
 				flw_554:
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 0), ('next', 596), ('param3', 39)])
 				switch (story_flags[15 /* us: 805A9ADB 0x01, jp: 805ACD5B 0x01 */]) {
@@ -741,77 +741,77 @@ void entrypoint_503_17() {
 				}
 			  case 1:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 616), ('param3', 9)])
+				give_item(4 0x04);
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 554), ('param3', 12)])
 				goto flw_554
 			  case 2:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 62), ('next', 554), ('param3', 9)])
+				give_item(62 0x3E);
 				goto flw_554
 			  case 3:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 62), ('next', 554), ('param3', 9)])
+				give_item(62 0x3E);
 				goto flw_554
 			}
 		  case 1:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 13), ('param4', 4), ('param5', 90)])) {
 			  case 0:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 63), ('next', 554), ('param3', 9)])
+				give_item(63 0x3F);
 				goto flw_554
 			  case 1:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 617), ('param3', 9)])
+				give_item(4 0x04);
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 554), ('param3', 12)])
 				goto flw_554
 			  case 2:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 62), ('next', 554), ('param3', 9)])
+				give_item(62 0x3E);
 				goto flw_554
 			  case 3:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 63), ('next', 554), ('param3', 9)])
+				give_item(63 0x3F);
 				goto flw_554
 			}
 		  case 2:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 13), ('param4', 4), ('param5', 94)])) {
 			  case 0:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 63), ('next', 554), ('param3', 9)])
+				give_item(63 0x3F);
 				goto flw_554
 			  case 1:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 618), ('param3', 9)])
+				give_item(4 0x04);
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 554), ('param3', 12)])
 				goto flw_554
 			  case 2:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 554), ('param3', 9)])
+				give_item(64 0x40);
 				goto flw_554
 			  case 3:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 63), ('next', 554), ('param3', 9)])
+				give_item(63 0x3F);
 				goto flw_554
 			}
 		  case 3:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 13), ('param4', 4), ('param5', 98)])) {
 			  case 0:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 554), ('param3', 9)])
+				give_item(64 0x40);
 				goto flw_554
 			  case 1:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 619), ('param3', 9)])
+				give_item(4 0x04);
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 554), ('param3', 12)])
 				goto flw_554
 			  case 2:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 32), ('next', 629), ('param3', 9)])
+				give_item(32 0x20);
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 554), ('param3', 12)])
 				goto flw_554
 			  case 3:
 				printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 32), ('next', 620), ('param3', 9)])
+				give_item(32 0x20);
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 554), ('param3', 12)])
 				goto flw_554
 			}
@@ -819,7 +819,7 @@ void entrypoint_503_17() {
 	  case 1:
 		scene_flags[10 'Sealed Grounds'][113 /* 0xF 02 */] = true;
 		printf("######For helping me out with my research,\nI would like to give you a little\nsomething!")
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 94), ('next', 638), ('param3', 9)])
+		give_item(94 0x5E);
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 640), ('param3', 39)])
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 24), ('next', 639), ('param3', 32)])
 		printf("######The magical power of the goddess walls\n#####returns##### after a little time has passed,\nso come by and help me with my\nresearch again sometime, OK?")
@@ -1294,7 +1294,7 @@ void entrypoint_503_20() {
 	scene_flags[10 'Sealed Grounds'][68 /* 0x9 10 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 0), ('next', 488), ('param3', 39)])
 	printf("######Let me give you a little token of my\nappreciation for assisting with\nmy research!")
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 168), ('next', 567), ('param3', 9)])
+	give_item(168 0xA8);
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 24), ('next', 566), ('param3', 32)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 489), ('param3', 39)])
 	printf("######This answers all the mysteries from\nthose ancient texts!\n\n\n...At least, except for the mysteries\nthat followed after that. Do you want\nto know what else was written in\nthere?!\n#####Absolutely!#####I'll pass.")

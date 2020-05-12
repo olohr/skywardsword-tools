@@ -134,7 +134,7 @@ void entrypoint_121_30() {
 											printf("Oh, my! You've gathered #####80##### #####Gratitude\nCrystals#####! If I'm not mistaken, that's all\nthe Gratitude Crystals in the whole\nwonderful world!\n######Thank you! Thank you ever so much!\n\n\n\nPlease accept this final gift with all\nof my gratitude.")
 											flw_166:
 											OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 37), ('param3', 12)])
-											OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 111), ('next', 20), ('param3', 9)])
+											give_item(111 0x6F);
 											printf("This is an embarrassingly small token\nof my gratitude, but I hope it will be\nuseful to you.")
 											OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 9), ('param2', 3072), ('next', 15), ('param3', 13)])
 											printf("Oh, dear... With this, I now have all the\n#####Gratitude Crystals##### I require to\nbecome human!\n\n######I wonder if I'll really be able to make\nthe transformation... My heart is\naflutter!")
@@ -148,9 +148,9 @@ void entrypoint_121_30() {
 											printf("######Oh! You've gathered quite a lot of\n#####Gratitude Crystals#####, haven't you?\nHow magnificent!\n\n######Please take this as a token of this\ndemon's deepest appreciation!")
 											flw_127:
 											OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 161), ('param3', 12)])
-											OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 33), ('next', 162), ('param3', 9)])
+											give_item(33 0x21);
 											printf("######But that's not all I want you to have.\nGoodness, no. I have so much more\nthanks to give!\n\n######Here, take this too!")
-											OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 33), ('next', 60), ('param3', 9)])
+											give_item(33 0x21);
 											printf("I only require a few more #####Gratitude\nCrystals##### to become human. Please\nhelp this needy demon a bit more...")
 											scene_flags[0 'Skyloft'][75 /* 0x8 08 */] = true;
 											switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 6), ('param3', 14), ('param4', 2), ('param5', 60)])) {
@@ -170,7 +170,7 @@ void entrypoint_121_30() {
 										printf("######Oh! You've gathered quite a lot of\n#####Gratitude Crystals#####, haven't you?\nHow magnificent!\n\n######Please take this as a token of this\ndemon's deepest appreciation!")
 										flw_165:
 										OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 27), ('param3', 12)])
-										OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 110), ('next', 29), ('param3', 9)])
+										give_item(110 0x6E);
 										printf("I only require a few more #####Gratitude\nCrystals##### to become human. Please\nhelp this needy demon a bit more...")
 										scene_flags[0 'Skyloft'][74 /* 0x8 04 */] = true;
 										switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 5), ('param3', 14), ('param4', 2), ('param5', 58)])) {
@@ -190,7 +190,7 @@ void entrypoint_121_30() {
 									printf("######Oh! You've gathered quite a lot of\n#####Gratitude Crystals#####, haven't you?\nHow magnificent!\n\n######Please take this as a token of this\ndemon's deepest appreciation!")
 									flw_164:
 									OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 49), ('param3', 12)])
-									OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 33), ('next', 51), ('param3', 9)])
+									give_item(33 0x21);
 									printf("You have made such magnificent\nprogress gathering #####Gratitude Crystals#####.\n\n\nPlease just continue helping me a bit\nlonger...")
 									scene_flags[0 'Skyloft'][73 /* 0x8 02 */] = true;
 									switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 4), ('param3', 14), ('param4', 2), ('param5', 56)])) {
@@ -209,7 +209,7 @@ void entrypoint_121_30() {
 							  case 0:
 								printf("######Oh! You've gathered quite a lot of\n#####Gratitude Crystals#####, haven't you?\nHow magnificent!\n\n######Please take this as a token of this\ndemon's deepest appreciation!")
 								flw_24:
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 109), ('next', 26), ('param3', 9)])
+								give_item(109 0x6D);
 								printf("You have made such magnificent\nprogress gathering #####Gratitude Crystals#####.\n\n\nPlease just continue helping me a bit\nlonger...")
 								scene_flags[0 'Skyloft'][72 /* 0x8 01 */] = true;
 								switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 3), ('param3', 14), ('param4', 2), ('param5', 54)])) {
@@ -228,7 +228,7 @@ void entrypoint_121_30() {
 						  case 0:
 							printf("######Oh! You've gathered quite a lot of\n#####Gratitude Crystals#####, haven't you?\nHow magnificent!\n\n######Please take this as a token of this\ndemon's deepest appreciation!")
 							flw_42:
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 94), ('next', 44), ('param3', 9)])
+							give_item(94 0x5E);
 							printf("I'm still going to need more #####Gratitude\nCrystals##### to become a human.\n\n\nPlease, won't you aid a poor,\nunfortunate demon in need?")
 							scene_flags[0 'Skyloft'][71 /* 0x9 80 */] = true;
 							switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 2), ('param3', 14), ('param4', 2), ('param5', 52)])) {
@@ -245,7 +245,7 @@ void entrypoint_121_30() {
 					switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 14), ('param4', 2), ('param5', 32)])) {
 					  case 0:
 						printf("######Oh! You've gathered quite a lot of\n#####Gratitude Crystals#####, haven't you?\nHow magnificent!\n\n######Please take this as a token of this\ndemon's deepest appreciation!")
-						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 108), ('next', 23), ('param3', 9)])
+						give_item(108 0x6C);
 						printf("I'm still going to need more #####Gratitude\nCrystals##### to become a human.\n\n\nPlease, won't you aid a poor,\nunfortunate demon in need?")
 						scene_flags[0 'Skyloft'][70 /* 0x9 40 */] = true;
 						switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 1), ('param3', 14), ('param4', 2), ('param5', 50)])) {

@@ -78,7 +78,7 @@ void entrypoint_350_00() {
 			printf("You stand within #####Din's Silent Realm#####,\nthe third trial. It will test the limits of\nyour #####power#####.\n\nTo locate the last flame that will\nenhance your sword, you must first\ncomplete this final challenge and\nachieve spiritual growth once again.")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 9), ('param2', 0), ('next', 7), ('param3', 39)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 62), ('param2', 1), ('next', 11), ('param3', 40)])
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 17), ('next', 8), ('param3', 9)])
+			give_item(17 0x11);
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 0), ('next', 9), ('param3', 39)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 31), ('param2', 1), ('next', 6), ('param3', 40)])
 			printf("When your vessel is full, your spirit\nwill grow and you will be entrusted\nwith a #####new power #####by the goddess.\n\nDo you have any questions?\n#####Yes!#####No.")

@@ -50,7 +50,7 @@ void entrypoint_301_05() {
 		printf("######Seriously? Can't depend on anybody\nthese days...\n\n\n######Let me take that back. Looks like your\nfriend can count on you, though, right?\nYou've risked life and limb to get here.\n\n######I'm not letting you borrow my bag,\nthough. Nope. I'm GIVING it to you!\nJust don't blow yourself up...")
 		flw_105:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 19), ('param3', 42)])
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 92), ('next', 26), ('param3', 9)])
+		give_item(92 0x5C);
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -245), ('next', 18), ('param3', 13)])
 		printf("Now you've got my #####Bomb Bag#####.\nGo find your friend!")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
@@ -68,7 +68,7 @@ void entrypoint_301_06() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 27), ('param3', 33)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 10), ('param3', 17)])
 	printf("######Hold up! I forgot to tell you something!\n\n\n\n######Knowing me, that bag's probably\nempty, so let me give you a little\nsomething to get you started.")
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 40), ('next', 17), ('param3', 9)])
+	give_item(40 0x28);
 	printf("If you run out of bombs, just find some\nmore and fill the bag back up.\n\n\n######When you've got a bomb flower, press\n########## to put it in the bag#####. Don't forget!#####\n\n\n######That bag can #####hold up to 10 bombs#####.\nSo if you run across bomb flowers,\nbe sure to fill up the bag.")
 }
 

@@ -250,7 +250,7 @@ void entrypoint_110_02() {
 				  case 0:
 					OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 19), ('param3', 12)])
 					flw_19:
-					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 94), ('next', 23), ('param3', 9)])
+					give_item(94 0x5E);
 					goto flw_23
 				  case 1:
 					goto flw_19

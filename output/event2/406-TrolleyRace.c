@@ -163,7 +163,7 @@ void entrypoint_406_01() {
 							switch (story_flags[529 /* us: 805A9B14 0x40, jp: 805ACD94 0x40 */]) {
 							  case 0:
 								flw_5:
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 68), ('param3', 9)])
+								give_item(4 0x04);
 								goto flw_68
 							  case 1:
 								goto flw_5
@@ -173,7 +173,7 @@ void entrypoint_406_01() {
 							switch (story_flags[529 /* us: 805A9B14 0x40, jp: 805ACD94 0x40 */]) {
 							  case 0:
 								printf("Not a bad time. Nope, not bad at all!\nHere is your prize!")
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 63), ('next', 68), ('param3', 9)])
+								give_item(63 0x3F);
 								goto flw_68
 							  case 1:
 								printf("Not a bad time, but you are nowhere\nnear as fast as I am. Here are\n50 Rupees!")
@@ -189,18 +189,18 @@ void entrypoint_406_01() {
 								switch (story_flags[667 /* us: 805A9B1E 0x02, jp: 805ACD9E 0x02 */]) {
 								  case 0:
 									printf("This is something I have been saving\njust for you.")
-									OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 68), ('param3', 9)])
+									give_item(64 0x40);
 									goto flw_68
 								  case 1:
 									printf("Here you go! I found this treasure\nright here on this very island.")
-									OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 94), ('next', 79), ('param3', 9)])
+									give_item(94 0x5E);
 									story_flags[667 /* us: 805A9B1E 0x02, jp: 805ACD9E 0x02 */] = true;
 									goto flw_68
 								}
 							  case 1:
 								printf("You get a Rupee I have taken really\ngood care of! I have been holding on to\nthis one forever, but it is yours now.")
 								OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 7), ('param3', 12)])
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 32), ('next', 68), ('param3', 9)])
+								give_item(32 0x20);
 								goto flw_68
 							}
 						}

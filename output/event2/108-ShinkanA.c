@@ -231,7 +231,7 @@ void entrypoint_108_11() {
 		  case 0:
 			printf("So that's the famous sword... Ah, and\na shield####\n.####\n.####\n.####\n It looks like you have one\nalready. Very good!\n\nHere--take this as a little gift from me.")
 			flw_172:
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 256), ('param3', 9)])
+			give_item(4 0x04);
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 173), ('param3', 12)])
 			flw_173:
 			printf("If you're not sure how to use a shield,\n#####Knight Commander Eagus #####at the\nSparring Hall will happily teach you.")
@@ -249,7 +249,7 @@ void entrypoint_108_11() {
 				goto flw_172
 			  case 1:
 				printf("So that's the famous sword... Ah, but\nit won't do you much good if you don't\nhave a shield to protect yourself with!\n\nHere--take this with you!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 116), ('next', 165), ('param3', 9)])
+				give_item(116 0x74);
 				printf("The Wooden Shield is light and\nmaneuverable, but it's the weakest\nof all the shields. Also, keep in mind\nthat it's particularly vulnerable to fire.\nIf it breaks, you can buy a new one\nat the bazaar.\n\n\nTo equip the shield, #####hold ########## ##########and #####point\n#####at it with the Wii Remote.#####")
 				goto flw_173
 			}

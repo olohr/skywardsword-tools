@@ -103,7 +103,7 @@ void entrypoint_400_16() {
 				printf("######If you hadn't come along, they would\nhave sucked all of the electricity out\nof me, vrrm!\n\nOh...##### Look at that, zrrpt... You have a\n#########5#####. It appears to be an older model\nof Lanayru fabrication.\n\nAs thanks for saving me, I will upgrade \n#####that##### for you, zwooop. ######Give it here for a\nsecond, phwing!")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 284), ('param3', 33)])
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', 8), ('param3', 42)])
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 75), ('next', 11), ('param3', 9)])
+				give_item(75 0x4B);
 				story_flags[90 /* us: 805A9AEF 0x80, jp: 805ACD6F 0x80 */] = true;
 				goto flw_10
 			  case 1:

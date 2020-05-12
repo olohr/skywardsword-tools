@@ -194,7 +194,7 @@ void entrypoint_302_01() {
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 99), ('param3', 33)])
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 21), ('param2', 6415), ('next', 41), ('param3', 13)])
 		printf("Well, I'm just stupefied! You dug up all\nthe Rupees! Listen--you earned this\nprize. Take it!")
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 102), ('param3', 9)])
+		give_item(64 0x40);
 		goto flw_102
 	}
 }

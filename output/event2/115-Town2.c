@@ -809,7 +809,7 @@ void entrypoint_115_09() {
 						flw_735:
 						story_flags[382 /* us: 805A9B0D 0x01, jp: 805ACD8D 0x01 */] = true;
 						story_flags[384 /* us: 805A9B0D 0x04, jp: 805ACD8D 0x04 */] = true;
-						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 153), ('next', 787), ('param3', 9)])
+						give_item(153 0x99);
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 11), ('param2', 0), ('next', 813), ('param3', 28)])
 						printf("######It may not look like much, but believe\nme, there's a dozen uses for a fine\nbottle like that. Thanks again!")
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 43)])
@@ -844,7 +844,7 @@ void entrypoint_115_09() {
 							story_flags[395 /* us: 805A9B0C 0x80, jp: 805ACD8C 0x80 */] = true;
 						  case 1:
 							story_flags[827 /* us: 805A9B33 0x08, jp: 805ACDB3 0x08 */] = true;
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 55), ('next', 748), ('param3', 9)])
+							give_item(55 0x37);
 							story_flags[827 /* us: 805A9B33 0x08, jp: 805ACDB3 0x08 */] = false;
 							printf("######If she uses this, it will quickly heal\nthe bird. She should then be able to\nmake her own way home.\n######Take it to my sister!\n######You can keep the #####Empty Bottle #####once\nshe's had a chance to use the stuff\ninside.\n\nI'm counting on you, \n####!")
 							story_flags[382 /* us: 805A9B0D 0x01, jp: 805ACD8D 0x01 */] = true;
@@ -1240,7 +1240,7 @@ void entrypoint_115_14() {
 			printf("Here it is. I'm entrusting this letter\nto you. So don't read what's inside!\nDo you hear me?!")
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 109), ('next', 165), ('param3', 24)])
 			story_flags[547 /* us: 805A9B17 0x10, jp: 805ACD97 0x10 */] = true;
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 158), ('next', 164), ('param3', 9)])
+			give_item(158 0x9E);
 			printf("I'm counting on you,\n####! Get to it!\nIf you don't mess this up, maybe I'll let\nyou be my sidekick!")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 		  case 1:

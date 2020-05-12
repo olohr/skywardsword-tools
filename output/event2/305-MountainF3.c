@@ -59,7 +59,7 @@ void entrypoint_305_02() {
 		flw_17:
 		printf("######Don't you gotta take care of your own\nbusiness first?\n\n\nHaven't ya noticed? They swiped all\nyour stuff!\n\n\n######While you were out, they shook you\ndown good, pal! You're gonna want to\nget your stuff back before ya go and\ntry anything else.\n######I can get you started. I stole these back\nfor ya...")
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 27), ('param2', 7167), ('next', 11), ('param3', 13)])
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 99), ('next', 39), ('param3', 9)])
+		give_item(99 0x63);
 		story_flags[177 /* us: 805A9AE5 0x01, jp: 805ACD65 0x01 */] = true;
 		printf("######Time for me to tunnel out, pal!\nYou got your work cut out for you!\n\n\n######Good luck out there!")
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 18), ('param2', -1), ('next', -1), ('param3', 13)])

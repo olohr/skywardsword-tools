@@ -55,7 +55,7 @@ void entrypoint_404_55() {
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', 126), ('param3', 39)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 128), ('param3', 39)])
 		printf("######If you want to get to the Lanayru Sand\nSea, you are going to need this key!")
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1), ('next', 129), ('param3', 9)])
+		give_item(1 0x01);
 		printf("######Good luck to you!")
 		goto flw_99
 	}

@@ -126,7 +126,7 @@ void entrypoint_250_00() {
 			printf("As expected, I cannot follow you into\nthis realm, for this trial calls out to\nyour mind###### alone.\n\nThis is the nature of places known as\n#####Silent Realms#####. They are domains of the\nspirit, accessible only to the goddess's\nchosen hero.\nThis particular trial, #####Farore's Silent\nRealm#####, tests the limits of your #####courage#####.\n\n\n######Your spirit has temporarily separated\nfrom your physical body so that you\nmay undertake this challenge.\n\nTo reach the location of the flames\nthat will enhance your sword, it is\nnecessary for ######you to overcome this\ntrial and undergo spiritual growth.")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 9), ('param2', 0), ('next', 20), ('param3', 39)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 62), ('param2', 1), ('next', 24), ('param3', 40)])
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 17), ('next', 5), ('param3', 9)])
+			give_item(17 0x11);
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 0), ('next', 4), ('param3', 39)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 31), ('param2', 1), ('next', 3), ('param3', 40)])
 			printf("That is your ###############.\n\n\n\nWhen this vessel is full, it will signify\nyou have successfully completed the\ntrial, allowing your spirit to grow.\n\nThis, in turn, will allow the goddess\nto bless you with a #####new power#####.")

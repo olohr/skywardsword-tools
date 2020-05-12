@@ -297,7 +297,7 @@ void entrypoint_123_08() {
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 190), ('param3', 33)])
 		flw_190:
 		printf("######...I can't let you go without your\nreward. Watch out--there's some big\nmoney coming... BAM, #####20 Rupees#####!####\n#")
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 428), ('param3', 9)])
+		give_item(4 0x04);
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 192), ('param3', 12)])
 		printf("######If the place gets dusty again, I might\nneed you to come back and tidy it up\nfor me. But I'll pay you again, OK?")
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 429), ('param3', 12)])

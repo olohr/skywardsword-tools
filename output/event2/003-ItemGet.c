@@ -1,7 +1,7 @@
 void entrypoint_003_062() {
 	start()
 	printf("")
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 62), ('next', -1), ('param3', 9)])
+	give_item(62 0x3E);
 }
 
 void entrypoint_003_028() {
@@ -123,7 +123,7 @@ void entrypoint_003_190() {
 void entrypoint_003_063() {
 	start()
 	printf("")
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 63), ('next', -1), ('param3', 9)])
+	give_item(63 0x3F);
 }
 
 void entrypoint_003_029() {
@@ -208,7 +208,7 @@ void entrypoint_003_191() {
 void entrypoint_003_064() {
 	start()
 	printf("")
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', -1), ('param3', 9)])
+	give_item(64 0x40);
 }
 
 void entrypoint_003_047() {
@@ -1432,7 +1432,7 @@ void entrypoint_003_189() {
 void entrypoint_003_061() {
 	start()
 	printf("")
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 61), ('next', -1), ('param3', 9)])
+	give_item(61 0x3D);
 }
 
 void entrypoint_003_027() {

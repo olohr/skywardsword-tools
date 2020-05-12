@@ -123,7 +123,7 @@ void entrypoint_401_06() {
 		OrderedDict([('type', 'type3'), ('subType', 2), ('param1', 0), ('param2', 356), ('next', 143), ('param3', 15)])
 		printf("######Please take this #####key #####as thanks for\nrescuing us, vrrrrm.\n\n\n######This #####key##### will open the door to the\n#####captain's cabin#####, vweep.")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', 14), ('param3', 42)])
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1), ('next', 129), ('param3', 9)])
+		give_item(1 0x01);
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 1), ('param2', 256), ('next', 128), ('param3', 13)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 43), ('param3', 39)])
 		printf("######You can get to the captain's cabin\nthrough a door on the deck in the\nback, vrrm.")

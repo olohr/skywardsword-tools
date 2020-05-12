@@ -182,7 +182,7 @@ void entrypoint_460_00() {
 			switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 5), ('param3', 16), ('param4', 4), ('param5', 72)])) {
 			  case 0:
 				printf("######Amazing, ####!\nThat's a very fast time!\nYou deserve something special.\nHere you go!######")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 470), ('param3', 9)])
+				give_item(64 0x40);
 				flw_470:
 				switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 6), ('param3', 14), ('param4', 2), ('param5', 239)])) {
 				  case 0:
@@ -682,7 +682,7 @@ void entrypoint_460_02() {
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 20), ('param2', 0), ('next', 995), ('param3', 33)])
 							printf("######Come back for a battle anytime!\nYou know where to find me.")
 						  case 1:
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 61), ('next', 648), ('param3', 9)])
+							give_item(61 0x3D);
 							goto flw_648
 						  case 2:
 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 516), ('param3', 12)])
@@ -697,7 +697,7 @@ void entrypoint_460_02() {
 								printf("Here's 200 Rupees! Well, look at you\nnow!")
 								goto flw_648
 							  case 1:
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 94), ('next', 991), ('param3', 9)])
+								give_item(94 0x5E);
 								story_flags[511 /* us: 805A9B15 0x20, jp: 805ACD95 0x20 */] = true;
 								goto flw_648
 							}
@@ -710,7 +710,7 @@ void entrypoint_460_02() {
 							printf("Here's 300 Rupees! Go buy something\nnice for yourself!")
 							goto flw_648
 						  case 1:
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 648), ('param3', 9)])
+							give_item(64 0x40);
 							goto flw_648
 						  case 2:
 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 525), ('param3', 12)])
@@ -736,7 +736,7 @@ void entrypoint_460_02() {
 										goto flw_648
 									  case 1:
 										flw_505:
-										OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 125), ('next', 527), ('param3', 9)])
+										give_item(125 0x7D);
 										story_flags[512 /* us: 805A9B15 0x40, jp: 805ACD95 0x40 */] = true;
 										goto flw_648
 									}
@@ -753,11 +753,11 @@ void entrypoint_460_02() {
 							printf("Gah, 2,000 Rupees! It's robbery!")
 							goto flw_648
 						  case 1:
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 536), ('param3', 9)])
+							give_item(64 0x40);
 							printf("######Here's your prize!")
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 537), ('param3', 9)])
+							give_item(64 0x40);
 							printf("######You've won this fabulous prize!")
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 648), ('param3', 9)])
+							give_item(64 0x40);
 							goto flw_648
 						  case 2:
 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 540), ('param3', 12)])
@@ -858,7 +858,7 @@ void entrypoint_460_03() {
 				goto flw_647
 			  case 1:
 				flw_547:
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 125), ('next', 550), ('param3', 9)])
+				give_item(125 0x7D);
 				story_flags[512 /* us: 805A9B15 0x40, jp: 805ACD95 0x40 */] = true;
 				goto flw_647
 			}
@@ -941,11 +941,11 @@ void entrypoint_460_05() {
 	start()
 	printf("######You pulled off 10 victories in a row?!\nYou're something else!")
 	printf("######Hey! Take this!")
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 560), ('param3', 9)])
+	give_item(64 0x40);
 	printf("######Here's your prize!")
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 561), ('param3', 9)])
+	give_item(64 0x40);
 	printf("######You've won this fabulous prize!")
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 647), ('param3', 9)])
+	give_item(64 0x40);
 	goto flw_647
 }
 

@@ -134,7 +134,7 @@ void entrypoint_114_20() {
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 29), ('param2', 9728), ('next', 81), ('param3', 13)])
 			printf("######Wow, ####### #####! That's great,\n####!\n\n\nYou're good at everything you do,\n####.\n\n\n######Here's your prize!")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 88), ('param3', 42)])
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 62), ('next', 115), ('param3', 9)])
+			give_item(62 0x3E);
 			printf("######It would be great to see you hit #####600\npoints##### and set a record next time.\nGive it your best shot!")
 			goto flw_91
 		  case 3:
@@ -143,13 +143,13 @@ void entrypoint_114_20() {
 			  case 0:
 				printf("######You got ####### #####! That's beyond\namazing, ####!\n\n\n######The pride of the Knight Academy is\ntruly riding on your shoulders,\n####! Here, take this!")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 89), ('param3', 42)])
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 64), ('next', 91), ('param3', 9)])
+				give_item(64 0x40);
 				goto flw_91
 			  case 1:
 				story_flags[359 /* us: 805A9B00 0x20, jp: 805ACD80 0x20 */] = true;
 				printf("######You got ####### #####! That's beyond\namazing, ####!\n\n\nThe hopes of the Knight Academy are\ntruly riding on your shoulders,\n####!\n\n######Take this##### symbol of friendship\n#####between you and me,\n####!")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 99), ('param3', 42)])
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 94), ('next', 86), ('param3', 9)])
+				give_item(94 0x5E);
 				goto flw_86
 			}
 		}
@@ -169,7 +169,7 @@ void entrypoint_114_05() {
 	switch (scene_flags[22 /* 0x3 40 */]) {
 	  case 0:
 		printf("######Thanks! That was a huge help,\n####!\n\n\n######I know it's not much, but here's half of\nthe pay the old lady offered me to\ndo that.")
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 116), ('param3', 9)])
+		give_item(4 0x04);
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 44), ('param3', 12)])
 		printf("######I have to hang back and watch the\nacademy today. Good luck with the\n#####ceremony#####, ####!")
 		scene_flags[0 'Skyloft'][23 /* 0x3 80 */] = true;
@@ -207,7 +207,7 @@ void entrypoint_114_01() {
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 14), ('param2', 4096), ('next', 52), ('param3', 13)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 20), ('next', 50), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 16), ('param3', 42)])
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 112), ('next', 19), ('param3', 9)])
+	give_item(112 0x70);
 	printf("It's an##### Adventure Pouch#####. It's for...\nadventures. It's neat because you can\nfit #####four##### things in it that you'll need\non your big journey.\nYou can buy all kinds of stuff at the\nbazaar that you can put in this pouch.\nYou should go look!\n\n######You could buy some #####potions #####and a\n#####shield#####. They'd fit in the pouch, and they\nmight come in handy on an adventure.")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', 21), ('param3', 39)])
 	printf("########! ######I just know you'll\nfind Zelda for us.")

@@ -66,7 +66,7 @@ void entrypoint_119_01() {
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 10), ('next', 142), ('param3', 48)])
 						printf("######Thank you, ####! \nHere's a token of my appreciation.")
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 64), ('param3', 42)])
-						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 71), ('param3', 9)])
+						give_item(4 0x04);
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', -1), ('param3', 4)])
 					  case 1:
 						printf("#####...\n...#####\n\n\n######HAH! Just joking around with you!")

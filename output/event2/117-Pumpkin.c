@@ -81,7 +81,7 @@ void entrypoint_117_24() {
 					switch (bottles[1 0x0001]) {
 					  case 0:
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 322), ('param3', 42)])
-						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 195), ('next', 550), ('param3', 9)])
+						give_item(195 0xC3);
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -10), ('next', 552), ('param3', 8)])
 						printf("The soup is meant to be enjoyed hot!\nJust so you know, it'll be cold in just\nfive minutes.")
 					  case 1:
@@ -246,7 +246,7 @@ void entrypoint_117_26() {
 				  case 0:
 					printf("It's about time! Take this!")
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 117), ('param3', 42)])
-					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 195), ('next', 549), ('param3', 9)])
+					give_item(195 0xC3);
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -10), ('next', 551), ('param3', 8)])
 					printf("The soup is meant to be enjoyed hot!\nJust so you know, it'll be cold in just\nfive minutes.")
 				  case 1:
@@ -475,7 +475,7 @@ void entrypoint_117_10() {
 										  case 0:
 											flw_532:
 											OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 29), ('param3', 42)])
-											OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 195), ('next', 156), ('param3', 9)])
+											give_item(195 0xC3);
 											printf("But you'll have to pay me for it!\nThat'll be #####10 rupees#####!")
 											switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 10), ('param3', 10), ('param4', 2), ('param5', 90)])) {
 											  case 0:
@@ -510,7 +510,7 @@ void entrypoint_117_10() {
 										OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 11), ('param2', 4100), ('next', 22), ('param3', 13)])
 										printf("All right, then! Here's the\n###############!\n\n\n######Deliver that to the Knight Commander!")
 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 30), ('param3', 42)])
-										OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 195), ('next', 77), ('param3', 9)])
+										give_item(195 0xC3);
 										printf("######Listen up, kid. The Knight Commander\nhates cold soup!\n\n\nSo you're gonna take this hot soup over\nto him.\n\n\nI'd say you've got to deliver it in #####less\nthan five########## minutes #####or the soup will\nget cold!")
 										story_flags[291 /* us: 805A9AFA 0x20, jp: 805ACD7A 0x20 */] = true;
 									  case 1:
@@ -1204,7 +1204,7 @@ void entrypoint_117_22() {
 			flw_258:
 			printf("######With this, I say we're even! You don't\nhave to work for me anymore.\nGreat job!\n\n######You know, I'm going to buy a new\nchandelier to replace that old one!\nIt really fancied up the place.\n\n######Considering all the hard work you put\nin around here, I feel like I should\ngive you a little something. Take this!")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 305), ('param3', 42)])
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 94), ('next', 304), ('param3', 9)])
+			give_item(94 0x5E);
 			printf("######Maybe you can swing by later. Yep,\nas a customer next time.")
 			story_flags[296 /* us: 805A9AFD 0x04, jp: 805ACD7D 0x04 */] = true;
 		  case 2:

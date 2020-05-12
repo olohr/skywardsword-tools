@@ -73,7 +73,7 @@ void entrypoint_203_04() {
 				printf("######Hiding from you isn't even fun. You're\ntoo good at finding me.")
 			  case 1:
 				printf("######You found me again. Sheesh, there's\njust no hiding from those eagle eyes\nof yours.\n\n######You know, I think you deserve a\nreward. Here--take this. I found it\nwhile I was hiding.")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 176), ('next', 429), ('param3', 9)])
+				give_item(176 0xB0);
 				printf("######Don't forget: it's a secret to everybody!")
 				story_flags[55 /* us: 805A9ADC 0x04, jp: 805ACD5C 0x04 */] = true;
 			}
