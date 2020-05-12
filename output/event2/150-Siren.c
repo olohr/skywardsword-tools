@@ -1,15 +1,15 @@
 void entrypoint_150_00() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 0), ('next', 29), ('param3', 39)])
-	switch (story_flags[531 0x0213]) {
+	switch (story_flags[531 /* us: 805A9B17 0x01, jp: 805ACD97 0x01 */]) {
 	  case 0:
-		scene_flags[25 'Skyloft: Silent Realm'][100 0x64] = true;
+		scene_flags[25 'Skyloft: Silent Realm'][100 /* 0xD 10 */] = true;
 		printf("Here we are, ####!\nShow me what you got!")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 0), ('next', 30), ('param3', 39)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 32), ('param3', 40)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', -1), ('param3', 42)])
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 101), ('param3', 6), ('param4', 2), ('param5', 0)])) {
+		switch (scene_flags[101 /* 0xD 20 */]) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 9), ('param4', 2), ('param5', 2)])) {
 			  case 0:
@@ -121,8 +121,8 @@ void entrypoint_150_00() {
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 0), ('next', 75), ('param3', 39)])
 					printf("######Master, I await your return in the\noutside world.")
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 74), ('param3', 40)])
-					scene_flags[25 'Skyloft: Silent Realm'][100 0x64] = true;
-					scene_flags[25 'Skyloft: Silent Realm'][101 0x65] = true;
+					scene_flags[25 'Skyloft: Silent Realm'][100 /* 0xD 10 */] = true;
+					scene_flags[25 'Skyloft: Silent Realm'][101 /* 0xD 20 */] = true;
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 25), ('next', 72), ('param3', 28)])
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', -1), ('param3', 42)])
 				}

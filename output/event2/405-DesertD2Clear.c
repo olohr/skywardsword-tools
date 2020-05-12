@@ -125,24 +125,24 @@ void entrypoint_405_15() {
 
 void entrypoint_405_16() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 114), ('param3', 6), ('param4', 2), ('param5', 0)])) {
+	switch (scene_flags[114 /* 0xF 04 */]) {
 	  case 0:
 		flw_31:
 		printf("Our precious treasure is gone, brrzrrt!\nWho stole it, vrrm?!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 115), ('param3', 6), ('param4', 2), ('param5', 4)])) {
+		switch (scene_flags[115 /* 0xF 08 */]) {
 		  case 0:
 			goto flw_31
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 116), ('param3', 6), ('param4', 2), ('param5', 6)])) {
+			switch (scene_flags[116 /* 0xF 10 */]) {
 			  case 0:
 				goto flw_31
 			  case 1:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 117), ('param3', 6), ('param4', 2), ('param5', 2)])) {
+				switch (scene_flags[117 /* 0xF 20 */]) {
 				  case 0:
 					goto flw_31
 				  case 1:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 118), ('param3', 6), ('param4', 2), ('param5', 8)])) {
+					switch (scene_flags[118 /* 0xF 40 */]) {
 					  case 0:
 						goto flw_31
 					  case 1:

@@ -1,6 +1,6 @@
 void entrypoint_006_950() {
 	start()
-	switch (story_flags[208 0x00D0]) {
+	switch (story_flags[208 /* us: 805A9AF0 0x10, jp: 805ACD70 0x10 */]) {
 	  case 0:
 		printf("Additionally, #####Clawshots##### have the\nability to latch on to vines, so you may\nwant to use them in order to reach\nvines from a distance.")
 	  case 1:
@@ -9,7 +9,7 @@ void entrypoint_006_950() {
 
 void entrypoint_006_916() {
 	start()
-	switch (story_flags[58 0x003A]) {
+	switch (story_flags[58 /* us: 805A9ADC 0x20, jp: 805ACD5C 0x20 */]) {
 	  case 0:
 		printf("You can check your #####map #####to locate\nBeedle's airborne shop. You will need\nto ring the #####large bell #####hanging from the\nshop to gain access.")
 	  case 1:
@@ -24,10 +24,10 @@ void entrypoint_006_900() {
 
 void entrypoint_006_918() {
 	start()
-	switch (story_flags[304 0x0130]) {
+	switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 	  case 0:
 		printf("I now calculate a 95% chance that it is\n#####Batreaux##### who lives under the shed next\nto the graveyard.")
-		switch (story_flags[360 0x0168]) {
+		switch (story_flags[360 /* us: 805A9B00 0x40, jp: 805ACD80 0x40 */]) {
 		  case 0:
 			printf("You collected enough #####Gratitude\nCrystals##### for Batreaux to become a\nhuman. I estimate a 60% chance that\nthe Skyloft-demon rumor will die.\nBut there is still a 40% probability that\nthe rumor will not fade, based upon the\npossibility that people will still find\nBatreaux's new human face terrifying.")
 		  case 1:
@@ -40,7 +40,7 @@ void entrypoint_006_918() {
 
 void entrypoint_006_902() {
 	start()
-	switch (story_flags[194 0x00C2]) {
+	switch (story_flags[194 /* us: 805A9AEC 0x10, jp: 805ACD6C 0x10 */]) {
 	  case 0:
 		printf("The knight apprentice known as #####Strich#####\nis looking for this island and is often\nobserved exploring in the sky.\n\nIt seems that he recently found an\nisland #####inside the thunderhead #####suitable\nfor insect habitation.")
 	  case 1:
@@ -50,7 +50,7 @@ void entrypoint_006_902() {
 
 void entrypoint_006_955() {
 	start()
-	switch (story_flags[702 0x02BE]) {
+	switch (story_flags[702 /* us: 805A9B22 0x04, jp: 805ACDA2 0x04 */]) {
 	  case 0:
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 12), ('param4', 3), ('param5', 29)])) {
 		  case 0:
@@ -69,7 +69,7 @@ void entrypoint_006_955() {
 
 void entrypoint_006_904() {
 	start()
-	switch (story_flags[398 0x018E]) {
+	switch (story_flags[398 /* us: 805A9B0E 0x01, jp: 805ACD8E 0x01 */]) {
 	  case 0:
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 20), ('param3', 10), ('param4', 2), ('param5', 4)])) {
 		  case 0:
@@ -84,7 +84,7 @@ void entrypoint_006_904() {
 
 void entrypoint_006_940() {
 	start()
-	switch (story_flags[89 0x0059]) {
+	switch (story_flags[89 /* us: 805A9AEC 0x08, jp: 805ACD6C 0x08 */]) {
 	  case 0:
 		printf("Technically speaking, this is no rumor,\nbut I will pass on this information\nnonetheless.\n\nWhen energy is released from the\n#####Goddess Cubes #####scattered across the\nland and it launches into the sky,\nI can calculate its trajectory.\nThen I will note the location in the sky\nthat the energy has returned to on your\nmap, ######Master.")
 	  case 1:
@@ -94,7 +94,7 @@ void entrypoint_006_940() {
 
 void entrypoint_006_908() {
 	start()
-	switch (story_flags[58 0x003A]) {
+	switch (story_flags[58 /* us: 805A9ADC 0x20, jp: 805ACD5C 0x20 */]) {
 	  case 0:
 		printf("The flying shop cannot be observed\nin #####Skyloft #####after sundown. This leads me\nto infer that it moves to another island\nat night.\n#####If you were to stay in the airborne shop\nuntil nightfall#####, there is a possibility you\nwill discover where it travels to.")
 	  case 1:
@@ -104,7 +104,7 @@ void entrypoint_006_908() {
 
 void entrypoint_006_943() {
 	start()
-	switch (story_flags[702 0x02BE]) {
+	switch (story_flags[702 /* us: 805A9B22 0x04, jp: 805ACDA2 0x04 */]) {
 	  case 0:
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 12), ('param4', 3), ('param5', 26)])) {
 		  case 0:
@@ -131,7 +131,7 @@ void entrypoint_006_943() {
 
 void entrypoint_006_944() {
 	start()
-	switch (story_flags[206 0x00CE]) {
+	switch (story_flags[206 /* us: 805A9AF0 0x04, jp: 805ACD70 0x04 */]) {
 	  case 0:
 		printf("If you return to places you previously\nvisited, you may be able to reach new\nareas using the power of the\n#####Water Dragon's Scale#####.\nSince you already possess this item,\nyou can easily dive underwater.\n")
 	  case 1:
@@ -141,7 +141,7 @@ void entrypoint_006_944() {
 
 void entrypoint_006_945() {
 	start()
-	switch (story_flags[207 0x00CF]) {
+	switch (story_flags[207 /* us: 805A9AF0 0x08, jp: 805ACD70 0x08 */]) {
 	  case 0:
 		printf("Of course, you already possess the\n#####Fireshield Earrings#####, so you can freely\nenter extremely hot areas.\n\nI recommend thoroughly exploring\nplaces that were previously too hot\nto travel through safely.")
 	  case 1:
@@ -151,7 +151,7 @@ void entrypoint_006_945() {
 
 void entrypoint_006_928() {
 	start()
-	switch (story_flags[368 0x0170]) {
+	switch (story_flags[368 /* us: 805A9B03 0x40, jp: 805ACD83 0x40 */]) {
 	  case 0:
 		printf("If you get too close to Levias, there is a\ndanger that your Loftwing will collide\nwith one of his fins or his tail.")
 	  case 1:

@@ -1,6 +1,6 @@
 void entrypoint_006_510() {
 	start()
-	switch (story_flags[323 0x0143]) {
+	switch (story_flags[323 /* us: 805A9AFF 0x02, jp: 805ACD7F 0x02 */]) {
 	  case 0:
 		printf("######Master, you are permitted to use the\nrepaired robot at your discretion.")
 	  case 1:
@@ -10,7 +10,7 @@ void entrypoint_006_510() {
 
 void entrypoint_006_511() {
 	start()
-	switch (story_flags[636 0x027C]) {
+	switch (story_flags[636 /* us: 805A9B1A 0x40, jp: 805ACD9A 0x40 */]) {
 	  case 0:
 		printf("######Master, your interest in this young\nwoman is clear. I can see your aura\nshining brightly with joy in her\npresence.\n...I strongly recommend that you do\nnot mention this when you next\nencounter #####Zelda#####.")
 	  case 1:
@@ -20,11 +20,11 @@ void entrypoint_006_511() {
 
 void entrypoint_006_547() {
 	start()
-	switch (story_flags[52 0x0034]) {
+	switch (story_flags[52 /* us: 805A9ADD 0x80, jp: 805ACD5D 0x80 */]) {
 	  case 0:
 		printf("His name is #####Machi#####. He is the most\nrelaxed member of the herbivorous\nKikwi race.")
 	  case 1:
-		switch (story_flags[50 0x0032]) {
+		switch (story_flags[50 /* us: 805A9ADD 0x20, jp: 805ACD5D 0x20 */]) {
 		  case 0:
 			printf("Analysis indicates a 100% match with\nthe Kikwis, a gentle and intelligent\nrace of woodland creatures.")
 		  case 1:
@@ -35,7 +35,7 @@ void entrypoint_006_547() {
 
 void entrypoint_006_548() {
 	start()
-	switch (story_flags[53 0x0035]) {
+	switch (story_flags[53 /* us: 805A9ADC 0x01, jp: 805ACD5C 0x01 */]) {
 	  case 0:
 		printf("His name is #####Oolo#####. He is the most easily\nflustered of the herbivorous Kikwi\nrace.")
 	  case 1:
@@ -45,7 +45,7 @@ void entrypoint_006_548() {
 
 void entrypoint_006_549() {
 	start()
-	switch (story_flags[54 0x0036]) {
+	switch (story_flags[54 /* us: 805A9ADC 0x02, jp: 805ACD5C 0x02 */]) {
 	  case 0:
 		printf("His name is #####Lopsa#####. He is the most\ncowardly of the herbivorous Kikwi\nrace.")
 	  case 1:
@@ -55,7 +55,7 @@ void entrypoint_006_549() {
 
 void entrypoint_006_550() {
 	start()
-	switch (story_flags[55 0x0037]) {
+	switch (story_flags[55 /* us: 805A9ADC 0x04, jp: 805ACD5C 0x04 */]) {
 	  case 0:
 		printf("His name is #####Erla#####. He is the most\ncareless of the herbivorous Kikwi race.")
 	  case 1:
@@ -65,7 +65,7 @@ void entrypoint_006_550() {
 
 void entrypoint_006_551() {
 	start()
-	switch (story_flags[56 0x0038]) {
+	switch (story_flags[56 /* us: 805A9ADC 0x08, jp: 805ACD5C 0x08 */]) {
 	  case 0:
 		printf("His name is #####Bucha#####. He is the elder of\nthe herbivorous Kikwi race.\nHe can hide objects in the structure\non his back.")
 	  case 1:
@@ -80,7 +80,7 @@ void entrypoint_006_500() {
 
 void entrypoint_006_501() {
 	start()
-	switch (story_flags[323 0x0143]) {
+	switch (story_flags[323 /* us: 805A9AFF 0x02, jp: 805ACD7F 0x02 */]) {
 	  case 0:
 		printf("This is an ancient robot repaired by\n#####Gondo#####, the Scrap Shop owner.\n\n\nBecause it can freely travel between\nthe sky and the ground below, this\nunit's function is to transport various\nobjects.\nApparently, it is highly interested in\nmy approval.")
 	  case 1:
@@ -90,7 +90,7 @@ void entrypoint_006_501() {
 
 void entrypoint_006_502() {
 	start()
-	switch (story_flags[636 0x027C]) {
+	switch (story_flags[636 /* us: 805A9B1A 0x40, jp: 805ACD9A 0x40 */]) {
 	  case 0:
 		printf("######Master, your interest in this young\nwoman is clear. I can see your aura\nshine bright with joy in her presence.\n\n...I strongly recommend you do not\nmention this when you next encounter\n#####Zelda#####.")
 	  case 1:
@@ -100,7 +100,7 @@ void entrypoint_006_502() {
 
 void entrypoint_006_505() {
 	start()
-	switch (story_flags[149 0x0095]) {
+	switch (story_flags[149 /* us: 805A9AEE 0x80, jp: 805ACD6E 0x80 */]) {
 	  case 0:
 		printf("Previously, he attempted to intimidate\neveryone in his vicinity, but after\nseeing you fight, ######Master, his attitude\nhas changed considerably.")
 	  case 1:
@@ -110,7 +110,7 @@ void entrypoint_006_505() {
 
 void entrypoint_006_522() {
 	start()
-	switch (story_flags[394 0x018A]) {
+	switch (story_flags[394 /* us: 805A9B0C 0x10, jp: 805ACD8C 0x10 */]) {
 	  case 0:
 		printf("#####...#####But that is no longer the case.\nHe increased his muscle mass by 500%.\nThese days, he can no longer fit any\nknown definition of #weakling.\"\nCurrently, he is testing other training\nmethods in order to increase his\nstrength even further.")
 	  case 1:

@@ -14,7 +14,7 @@ void entrypoint_006_652() {
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 84)])) {
 	  case 0:
 		flw_239:
-		switch (story_flags[786 0x0312]) {
+		switch (story_flags[786 /* us: 805A9B2C 0x04, jp: 805ACDAC 0x04 */]) {
 		  case 0:
 			flw_89:
 			printf("I can confirm that the #####sealing spike\n#####observed at the top of its head is the\nsame object originally found in the\n#####Sealed Grounds#####.\nI hypothesize that damage can be\ninflicted by driving the stone pillar\ninto the monster's head.\n\nBut first, I recommend attacking the\nbeast's feet--where your sword can\nreach--to stop it from moving.\n#####Tell me more!#####Got it.")
@@ -29,7 +29,7 @@ void entrypoint_006_652() {
 			  case 1:
 			}
 		  case 1:
-			switch (story_flags[530 0x0212]) {
+			switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 			  case 0:
 				goto flw_89
 			  case 1:
@@ -46,7 +46,7 @@ void entrypoint_006_653() {
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 90)])) {
 	  case 0:
 		flw_240:
-		switch (story_flags[786 0x0312]) {
+		switch (story_flags[786 /* us: 805A9B2C 0x04, jp: 805ACDAC 0x04 */]) {
 		  case 0:
 			flw_98:
 			printf("Analysis indicates that you should be\nable to use the same basic strategy as in\nthe previous encounter to seal the\nmonster in its prison once more.\nThe fingers and toes on its limbs can be\ndestroyed with a physical attack, but\nyou should wait to do so until these\ntargets become a very high priority.\n#####More info!#####Got it.")
@@ -61,7 +61,7 @@ void entrypoint_006_653() {
 			  case 1:
 			}
 		  case 1:
-			switch (story_flags[530 0x0212]) {
+			switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 			  case 0:
 				goto flw_98
 			  case 1:
@@ -74,7 +74,7 @@ void entrypoint_006_653() {
 
 void entrypoint_006_601() {
 	start()
-	switch (story_flags[360 0x0168]) {
+	switch (story_flags[360 /* us: 805A9B00 0x40, jp: 805ACD80 0x40 */]) {
 	  case 0:
 		printf("These small animals dwell in #####Skyloft#####.\nDue to #####Batreaux#####'s transformation into\na human, they no longer exhibit\naggressive tendencies at night.")
 	  case 1:
@@ -88,7 +88,7 @@ void entrypoint_006_654() {
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 96)])) {
 	  case 0:
 		flw_241:
-		switch (story_flags[786 0x0312]) {
+		switch (story_flags[786 /* us: 805A9B2C 0x04, jp: 805ACDAC 0x04 */]) {
 		  case 0:
 			flw_107:
 			printf("You must attempt to seal this beast\naway again. I suggest a plan of attack\nsimilar to what you used in previous\nencounters.\nThe monster's fingers, like its toes, are\ncomparatively soft targets and can be\ndestroyed by physical attack.\n#####Tell me more!#####Got it.")
@@ -103,7 +103,7 @@ void entrypoint_006_654() {
 			  case 1:
 			}
 		  case 1:
-			switch (story_flags[530 0x0212]) {
+			switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 			  case 0:
 				goto flw_107
 			  case 1:
@@ -119,7 +119,7 @@ void entrypoint_006_689() {
 	printf("There is a 90% change in outward\nappearance compared to previous\nencounters with him. I detect a dark\naura emanating from his entire body.\nI can confirm a change in Ghirahim's\nfighting style, likely as a result of the\nminor damage he has suffered.#####More info!#####Understood.")
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 108)])) {
 	  case 0:
-		switch (story_flags[788 0x0314]) {
+		switch (story_flags[788 /* us: 805A9B2C 0x10, jp: 805ACDAC 0x10 */]) {
 		  case 0:
 			flw_125:
 			printf("I project that the #####weak spot revealed\non his chest #####from the previous attack\nwill continue to be an effective target.\n\nHowever, there is a 100% probability\nthat Ghirahim will block all attacks\ntargeting this area while he is in his\nstandard state.\n#####More info!#####Got it.")
@@ -134,7 +134,7 @@ void entrypoint_006_689() {
 			  case 1:
 			}
 		  case 1:
-			switch (story_flags[530 0x0212]) {
+			switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 			  case 0:
 				goto flw_125
 			  case 1:
@@ -147,7 +147,7 @@ void entrypoint_006_689() {
 
 void entrypoint_006_602() {
 	start()
-	switch (story_flags[360 0x0168]) {
+	switch (story_flags[360 /* us: 805A9B00 0x40, jp: 805ACD80 0x40 */]) {
 	  case 0:
 		printf("These small animals dwell in #####Skyloft#####.\nDue to #####Batreaux#####'s transformation into\na human, they no longer exhibit\naggressive tendencies at night.")
 	  case 1:
@@ -165,7 +165,7 @@ void entrypoint_006_655() {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 22), ('param4', 4), ('param5', 124)])) {
 			  case 0:
-				switch (story_flags[530 0x0212]) {
+				switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 				  case 0:
 					flw_151:
 					printf("The probability that a single, standard\nattack of yours will injure Demise,\n######Master, is exactly 0%.\n\nA series of attacks that can overwhelm\nDemise's guard is required, such as\n#####repeated slashing from various angles#####.\n#####Tell me more!#####Got it.")
@@ -201,7 +201,7 @@ void entrypoint_006_690() {
 	printf("There has been a 90% change in his\noutward appearance since our last\nmeeting. I detect a black aura\nemanating from his entire body.\nI have also confirmed that he is\nusing a new weapon.\n#####More info!#####Understood.")
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 114)])) {
 	  case 0:
-		switch (story_flags[788 0x0314]) {
+		switch (story_flags[788 /* us: 805A9B2C 0x10, jp: 805ACDAC 0x10 */]) {
 		  case 0:
 			flw_137:
 			printf("Results from my analysis confirm that\nthe sword Ghirahim wields #####can be\nbroken #####by your sword, ######Master.\n\nI theorize that Ghirahim used magic\nto call this weapon into existence.\n\n\nNow that he is deeply wounded,\nthe sword he wields appears to\nhave become brittle.\n#####More info!#####Got it.")
@@ -211,7 +211,7 @@ void entrypoint_006_690() {
 			  case 1:
 			}
 		  case 1:
-			switch (story_flags[530 0x0212]) {
+			switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 			  case 0:
 				goto flw_137
 			  case 1:
@@ -228,12 +228,12 @@ void entrypoint_006_656() {
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 140)])) {
 	  case 0:
 		printf("It is clear that #####Skyward Strikes #####cannot\nbe called down to your sword because\nthis place is under the magical\ninfluence of Demise.\nAttacks using #####Skyward Strike energy\n#####will not be possible here.\n#####Tell me more.#####Got it.")
-		scene_flags[10 'Sealed Grounds'][120 0x78] = true;
+		scene_flags[10 'Sealed Grounds'][120 /* 0xE 01 */] = true;
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 178)])) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 22), ('param4', 4), ('param5', 132)])) {
 			  case 0:
-				switch (story_flags[530 0x0212]) {
+				switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 				  case 0:
 					flw_154:
 					printf("######Master, I see no reason why you cannot\nmake use of the lightning strikes the\nsame way Demise does.\n#####Tell me more!#####Got it.")
@@ -269,7 +269,7 @@ void entrypoint_006_605() {
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
 	  case 0:
 		flw_242:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 37), ('param3', 6), ('param4', 2), ('param5', 188)])) {
+		switch (scene_flags[37 /* 0x5 20 */]) {
 		  case 0:
 			printf("My analysis indicates the projectiles\nspit by the #####Bilocyte #####can be #####repelled#####\nby your sword, ######Master.\n\nFurthermore, I infer that repelling the\nBilocyte's own projectiles back toward\nit could become a very effective means\nof attack.\n#####Tell me more!#####Got it.")
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
@@ -292,15 +292,15 @@ void entrypoint_006_605() {
 void entrypoint_006_657() {
 	start()
 	printf("I have something to report, ######Master.\nMy analysis of this enemy's movement\npatterns is complete.\n\nWhile holding ##### to lock on to the\nenemy, press ##### to call me. I will\ngive you my analysis.########## Would you like to\nhear it now?#####Yes.#####No.")
-	story_flags[772 0x0304] = true;
+	story_flags[772 /* us: 805A9B2A 0x10, jp: 805ACDAA 0x10 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 142)])) {
 	  case 0:
 		flw_69:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 5), ('param4', 2), ('param5', 62)])) {
+		switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 22), ('param4', 4), ('param5', 46)])) {
 			  case 0:
-				switch (story_flags[530 0x0212]) {
+				switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 				  case 0:
 					flw_53:
 					printf("Analysis indicates that the daggers\nGhirahim shoots will align on a single\nplane in one of three orientations:\nhorizontal, vertical, or diagonal.\nWith good timing, you might be able to\nrepel them with a single swing of your\nsword, but my judgment shows that this\nmaneuver will be difficult.#####Anything else?#####Got it.")
@@ -332,7 +332,7 @@ void entrypoint_006_657() {
 		  case 1:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 22), ('param4', 4), ('param5', 54)])) {
 			  case 0:
-				switch (story_flags[530 0x0212]) {
+				switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 				  case 0:
 					flw_62:
 					printf("Speech analysis indicates absolute\nconfidence in his own abilities.\n\n\n######Master, you must watch for Ghirahim's\nability to grasp your sword with his\nbare #####right hand#####.\n\nIt is highly probable that he observes\nthe #####angle you hold your sword at##### and\nprepares his defense accordingly.\n\nI recommend attacking from the\ndirection opposite his hand.\n#####More info!#####I'm ready.")
@@ -370,11 +370,11 @@ void entrypoint_006_657() {
 void entrypoint_006_658() {
 	start()
 	printf("I have something to report, ######Master.\nMy analysis of this enemy's movement\npatterns is complete.\n\nWhile holding ##### to lock on to the\nenemy, press ##### to call me. I will\ngive you my analysis.########## Would you like to\nhear it now?#####Yes.#####No.")
-	story_flags[773 0x0305] = true;
+	story_flags[773 /* us: 805A9B2A 0x20, jp: 805ACDAA 0x20 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 144)])) {
 	  case 0:
 		flw_231:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 3), ('param3', 5), ('param4', 2), ('param5', 172)])) {
+		switch (loadzone_temp_flags[3 /* 0x9 08 */]) {
 		  case 0:
 			flw_34:
 			printf("There is a 0% probability that your\nsword will be effective against the\nrock that covers this target's body.\n\nI strongly recommend using items with\npowerful destructive properties.\n#####More info!#####Got it.")
@@ -389,7 +389,7 @@ void entrypoint_006_658() {
 			  case 1:
 			}
 		  case 1:
-			switch (story_flags[530 0x0212]) {
+			switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 			  case 0:
 				goto flw_34
 			  case 1:
@@ -404,13 +404,13 @@ void entrypoint_006_658() {
 void entrypoint_006_659() {
 	start()
 	printf("I have something to report, ######Master.\nMy analysis of this enemy's movement\npatterns is complete.\n\nWhile holding ##### to lock on to the\nenemy, press ##### to call me. I will\ngive you my analysis.########## Would you like to\nhear it now?#####Yes.#####No.")
-	story_flags[774 0x0306] = true;
+	story_flags[774 /* us: 805A9B2A 0x40, jp: 805ACDAA 0x40 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 146)])) {
 	  case 0:
 		flw_17:
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 22), ('param4', 4), ('param5', 10)])) {
 		  case 0:
-			switch (story_flags[530 0x0212]) {
+			switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 			  case 0:
 				flw_14:
 				printf("The #####weak points #####are its overdeveloped\npincers, but you must hit each at the\nright angle relative to the pincer's \nposition to be effective.\n#####Tell me more.#####Got it.")
@@ -445,11 +445,11 @@ void entrypoint_006_677() {
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 34)])) {
 	  case 0:
 		flw_268:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 20), ('param3', 5), ('param4', 2), ('param5', 234)])) {
+		switch (loadzone_temp_flags[20 /* 0xB 10 */]) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 22), ('param4', 4), ('param5', 226)])) {
 			  case 0:
-				switch (story_flags[530 0x0212]) {
+				switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 				  case 0:
 					flw_261:
 					printf("In order to attack Tentalus's weak\nspot, its #####eye#####, you must first deal with\nthe tentacles attempting to latch on\nto you.\nMy analysis shows you can easily\nslice the tip of the tentacles with\nyour sword.\n#####More info!#####Got it.")
@@ -476,7 +476,7 @@ void entrypoint_006_677() {
 		  case 1:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 22), ('param4', 4), ('param5', 36)])) {
 			  case 0:
-				switch (story_flags[530 0x0212]) {
+				switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 				  case 0:
 					flw_43:
 					printf("My analysis shows that by repelling\na number of its aggressive tentacles,\nthe beast will reveal itself.\n\nThere is a 99% probability that the\ntentacles that attacked you on the ship,\nMaster, can be attributed to Tentalus.\n\nI theorize that using a #####sacred power##### \nwill be the most effective means\nof repelling the tentacles.\n#####More info!#####Got it.")
@@ -508,13 +508,13 @@ void entrypoint_006_677() {
 void entrypoint_006_660() {
 	start()
 	printf("A report, ######Master. My analysis of this\nenemy's movement patterns is\ncomplete.\n\nWould you like to hear my analysis\nnow?\n#####Yes.#####No.")
-	story_flags[775 0x0307] = true;
+	story_flags[775 /* us: 805A9B2A 0x80, jp: 805ACDAA 0x80 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 148)])) {
 	  case 0:
 		flw_27:
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 22), ('param4', 4), ('param5', 20)])) {
 		  case 0:
-			switch (story_flags[530 0x0212]) {
+			switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 			  case 0:
 				flw_24:
 				printf("It is highly probable that if the #####red\ncores #####in its arms were to be ejected,\nthe unit would lose integrity and the\nlimbs would sever from the body.\nHowever, during normal operation the\ncores are likely hidden below the\nforearm plating.\n#####More info!#####Got it.")
@@ -546,7 +546,7 @@ void entrypoint_006_660() {
 void entrypoint_006_661() {
 	start()
 	printf("A report, ######Master. My analysis of this\nenemy's movement patterns is\ncomplete.\n\nWould you like to hear my analysis\nnow?\n#####Yes.#####No.")
-	story_flags[776 0x0308] = true;
+	story_flags[776 /* us: 805A9B2D 0x01, jp: 805ACDAD 0x01 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 150)])) {
 	  case 0:
 		goto flw_268
@@ -568,15 +568,15 @@ void entrypoint_006_610() {
 void entrypoint_006_662() {
 	start()
 	printf("A report, ######Master. My analysis of this\nenemy's movement patterns is\ncomplete.\n\nWould you like to hear my analysis\nnow?\n#####Yes.#####No.")
-	story_flags[777 0x0309] = true;
+	story_flags[777 /* us: 805A9B2D 0x02, jp: 805ACDAD 0x02 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 152)])) {
 	  case 0:
 		flw_87:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 5), ('param4', 2), ('param5', 82)])) {
+		switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 22), ('param4', 4), ('param5', 66)])) {
 			  case 0:
-				switch (story_flags[530 0x0212]) {
+				switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 				  case 0:
 					flw_71:
 					printf("When Ghirahim shoots his daggers,\nI recommend repelling them by\nswinging your sword along the line\nthe knives are positioned in.\nLogically, if surrounded by daggers,\nusing #####a sword technique that attacks in \nall directions #####would be effective.\n#####Anything else?#####I'm ready.")
@@ -608,7 +608,7 @@ void entrypoint_006_662() {
 		  case 1:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 22), ('param4', 4), ('param5', 74)])) {
 			  case 0:
-				switch (story_flags[530 0x0212]) {
+				switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 				  case 0:
 					flw_80:
 					printf("Analysis indicates that the daggers that\nappear around Ghirahim also act as a\ndefensive barrier.\n\nRemoving these daggers before\nattacking should be an effective means\nof breaking down his defenses.\n#####More info!#####Got it.")
@@ -641,7 +641,7 @@ void entrypoint_006_662() {
 void entrypoint_006_663() {
 	start()
 	printf("A report, ######Master. My analysis of this\nenemy's movement patterns is\ncomplete.\n\nWould you like to hear my analysis\nnow?\n#####Yes.#####No.")
-	story_flags[778 0x030A] = true;
+	story_flags[778 /* us: 805A9B2D 0x04, jp: 805ACDAD 0x04 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 154)])) {
 	  case 0:
 		goto flw_239
@@ -653,7 +653,7 @@ void entrypoint_006_663() {
 void entrypoint_006_664() {
 	start()
 	printf("A report, ######Master. My analysis of this\nenemy's movement patterns is\ncomplete.\n\nWould you like to hear my analysis\nnow?\n#####Yes.#####No.")
-	story_flags[779 0x030B] = true;
+	story_flags[779 /* us: 805A9B2D 0x08, jp: 805ACDAD 0x08 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 156)])) {
 	  case 0:
 		goto flw_240
@@ -664,12 +664,12 @@ void entrypoint_006_664() {
 
 void entrypoint_006_699() {
 	start()
-	switch (story_flags[844 0x034C]) {
+	switch (story_flags[844 /* us: 805A9B35 0x08, jp: 805ACDB5 0x08 */]) {
 	  case 0:
 		printf("This giant species of spider inhabits the\ndeepest areas of forests. It attacks\nwith highly adhesive webbing in order\nto prevent its prey from escaping.\nIt has a tough outer carapace, but its\nstomach may be vulnerable to attack.\n#####Tell me more!#####Got it.")
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 240)])) {
 		  case 0:
-			switch (story_flags[845 0x034D]) {
+			switch (story_flags[845 /* us: 805A9B35 0x10, jp: 805ACDB5 0x10 */]) {
 			  case 0:
 				printf("I have observed that it has a tendency\nto move with its back toward its prey\nto prevent its weak point from being\nexposed.\nTherefore, you must find a way to flip\nit over to attack its weak point.\n#####Anything else?#####Got it.")
 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 242)])) {
@@ -686,7 +686,7 @@ void entrypoint_006_699() {
 				}
 			  case 1:
 				printf("I have observed that it has a tendency\nto move with its back toward its prey\nto prevent its weak point from being\nexposed.\nTherefore, you must find a way to flip\nthe beast over to access its weak point.")
-				story_flags[845 0x034D] = true;
+				story_flags[845 /* us: 805A9B35 0x10, jp: 805ACDB5 0x10 */] = true;
 				goto flw_279
 			}
 		  case 1:
@@ -694,7 +694,7 @@ void entrypoint_006_699() {
 		}
 	  case 1:
 		printf("This giant species of spider inhabits the\ndeepest areas of forests. It attacks\nwith highly adhesive webbing in order\nto prevent its prey from escaping.\nIt has a tough outer carapace, but its\nstomach may be vulnerable to attack.\n\n\nI am currently conducting additional\nanalysis into its movement patterns.")
-		story_flags[844 0x034C] = true;
+		story_flags[844 /* us: 805A9B35 0x08, jp: 805ACDB5 0x08 */] = true;
 		goto flw_279
 	}
 }
@@ -732,7 +732,7 @@ void entrypoint_006_649() {
 void entrypoint_006_666() {
 	start()
 	printf("A report, ######Master. My analysis of this\nenemy's movement patterns is\ncomplete.\n\nWould you like to hear my analysis\nnow?\n#####Yes.#####No.")
-	story_flags[780 0x030C] = true;
+	story_flags[780 /* us: 805A9B2D 0x10, jp: 805ACDAD 0x10 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 158)])) {
 	  case 0:
 		goto flw_241
@@ -744,7 +744,7 @@ void entrypoint_006_666() {
 void entrypoint_006_667() {
 	start()
 	printf("A report, ######Master. My analysis of this\nenemy's movement patterns is\ncomplete.\n\nWould you like to hear my analysis\nnow?\n#####Yes.#####No.")
-	story_flags[781 0x030D] = true;
+	story_flags[781 /* us: 805A9B2D 0x20, jp: 805ACDAD 0x20 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 160)])) {
 	  case 0:
 		goto flw_242
@@ -766,11 +766,11 @@ void entrypoint_006_650() {
 void entrypoint_006_668() {
 	start()
 	printf("A report, ######Master. My analysis of this\nenemy's movement patterns is\ncomplete.\n\nWould you like to hear my analysis\nnow?\n#####Yes.#####No.")
-	story_flags[782 0x030E] = true;
+	story_flags[782 /* us: 805A9B2D 0x40, jp: 805ACDAD 0x40 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 162)])) {
 	  case 0:
 		flw_238:
-		switch (story_flags[788 0x0314]) {
+		switch (story_flags[788 /* us: 805A9B2C 0x10, jp: 805ACDAC 0x10 */]) {
 		  case 0:
 			flw_116:
 			printf("He is now revealing his true power.\nI am detecting a significant increase\nin muscular strength.\n\nUnfortunately, I must also conclude\nthat none of your weapons will be\neffective against him.\n#####Tell me more!#####Got it.")
@@ -790,7 +790,7 @@ void entrypoint_006_668() {
 			  case 1:
 			}
 		  case 1:
-			switch (story_flags[530 0x0212]) {
+			switch (story_flags[530 /* us: 805A9B14 0x80, jp: 805ACD94 0x80 */]) {
 			  case 0:
 				goto flw_116
 			  case 1:
@@ -830,7 +830,7 @@ void entrypoint_006_651() {
 void entrypoint_006_669() {
 	start()
 	printf("A report, ######Master. My preliminary\nanalysis of #####Demise##### is now complete.\nWould you like to hear what I have\ndiscovered?\n#####Yes.#####No.")
-	story_flags[783 0x030F] = true;
+	story_flags[783 /* us: 805A9B2D 0x80, jp: 805ACDAD 0x80 */] = true;
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 164)])) {
 	  case 0:
 		printf("It is clear that #####Skyward Strikes #####cannot\nbe called down to your sword because\nthis place is under the magical\ninfluence of Demise.\nAttacks using #####Skyward Strike energy\n#####will not be possible here.\n#####Tell me more.#####Got it.")
@@ -839,7 +839,7 @@ void entrypoint_006_669() {
 			printf("It is highly probable that the only\nweapon capable of wounding Demise\nis the #####Master Sword #####itself. No other\nweapon can affect it.\n#####Tell me more!#####Got it.")
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 166)])) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 120), ('param3', 6), ('param4', 2), ('param5', 168)])) {
+				switch (scene_flags[120 /* 0xE 01 */]) {
 				  case 0:
 					printf("I can confirm it is possible for Demise\nto store the electrical energy of a\nlightning strike in his sword and use it\nto his advantage.\n######Master, should your sword come into\ncontact with Demise's sword once it\nhas electrified, you will receive a\npainful shock.#####Tell me more.#####Understood.")
 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 170)])) {

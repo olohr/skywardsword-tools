@@ -10,7 +10,7 @@ void entrypoint_107_21() {
 
 void entrypoint_107_56() {
 	start()
-	story_flags[104 0x0068] = true;
+	story_flags[104 /* us: 805A9ADE 0x20, jp: 805ACD5E 0x20 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 502), ('param2', 80), ('next', 152), ('param3', 23)])
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 26)])) {
 	  case 0:
@@ -53,12 +53,12 @@ void entrypoint_107_58() {
 	printf("A report, ######Master.\n\n\n\nI have determined that there is a #####Trial\nGate##### somewhere among these floating\nislands that can be opened by the\nSong of the Hero.\nI suggest you use your #####dowsing #####ability\nto locate it.")
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 162), ('param3', 58)])
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 6), ('next', 163), ('param3', 56)])
-	story_flags[818 0x0332] = true;
+	story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = true;
 }
 
 void entrypoint_107_23() {
 	start()
-	switch (story_flags[712 0x02C8]) {
+	switch (story_flags[712 /* us: 805A9B25 0x04, jp: 805ACDA5 0x04 */]) {
 	  case 0:
 		printf("#####Item Check Girl\n#####Peatrice's House")
 	  case 1:
@@ -77,7 +77,7 @@ void entrypoint_107_07() {
 
 void entrypoint_107_24() {
 	start()
-	switch (story_flags[713 0x02C9]) {
+	switch (story_flags[713 /* us: 805A9B25 0x08, jp: 805ACDA5 0x08 */]) {
 	  case 0:
 		printf("Piper's House")
 	  case 1:
@@ -89,7 +89,7 @@ void entrypoint_107_59() {
 	printf("######Congratulations, Master.\n\n\n\nYou have passed all of the trials.")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 0), ('next', 119), ('param3', 39)])
 	printf("The ############### you just obtained is\nactually one of a pair, ######Master.\n\n\nAnother similar object with a mark\njust like the one you hold exists\nsomewhere on this island.\n\nCombining the two should open the\nway to the #####Triforce#####.\n\n\n##\n###I suggest that you search for that\nmatching stone.")
-	story_flags[769 0x0301] = true;
+	story_flags[769 /* us: 805A9B2A 0x02, jp: 805ACDAA 0x02 */] = true;
 }
 
 void entrypoint_107_41() {
@@ -99,7 +99,7 @@ void entrypoint_107_41() {
 
 void entrypoint_107_25() {
 	start()
-	switch (story_flags[714 0x02CA]) {
+	switch (story_flags[714 /* us: 805A9B25 0x10, jp: 805ACDA5 0x10 */]) {
 	  case 0:
 		printf("Kukiel's House")
 	  case 1:
@@ -118,7 +118,7 @@ void entrypoint_107_42() {
 
 void entrypoint_107_26() {
 	start()
-	switch (story_flags[715 0x02CB]) {
+	switch (story_flags[715 /* us: 805A9B25 0x20, jp: 805ACDA5 0x20 */]) {
 	  case 0:
 		printf("Orielle & Parrow's House")
 	  case 1:
@@ -149,7 +149,7 @@ void entrypoint_107_43() {
 
 void entrypoint_107_27() {
 	start()
-	switch (story_flags[716 0x02CC]) {
+	switch (story_flags[716 /* us: 805A9B25 0x40, jp: 805ACDA5 0x40 */]) {
 	  case 0:
 		printf("#####Gear Peddler\n#####Rupin's House")
 	  case 1:
@@ -173,7 +173,7 @@ void entrypoint_107_10() {
 
 void entrypoint_107_28() {
 	start()
-	switch (story_flags[717 0x02CD]) {
+	switch (story_flags[717 /* us: 805A9B25 0x80, jp: 805ACDA5 0x80 */]) {
 	  case 0:
 		printf("Pipit's House")
 	  case 1:
@@ -197,7 +197,7 @@ void entrypoint_107_11() {
 
 void entrypoint_107_29() {
 	start()
-	switch (story_flags[718 0x02CE]) {
+	switch (story_flags[718 /* us: 805A9B24 0x01, jp: 805ACDA4 0x01 */]) {
 	  case 0:
 		printf("#####Fortune-teller\n#####Sparrot's House")
 	  case 1:
@@ -221,7 +221,7 @@ void entrypoint_107_12() {
 
 void entrypoint_107_64() {
 	start()
-	switch (story_flags[649 0x0289]) {
+	switch (story_flags[649 /* us: 805A9B1C 0x04, jp: 805ACD9C 0x04 */]) {
 	  case 0:
 		printf("######Master ####...\n\n\n\n##\n###This treasure-chest-like object is a\nrelic of ancient times, left by the\ngoddess for her chosen hero.")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 177), ('param3', 39)])
@@ -255,7 +255,7 @@ void entrypoint_107_14() {
 
 void entrypoint_107_31() {
 	start()
-	switch (story_flags[719 0x02CF]) {
+	switch (story_flags[719 /* us: 805A9B24 0x02, jp: 805ACDA4 0x02 */]) {
 	  case 0:
 		printf("#####Scrap Shop Owner\n#####Gondo's House")
 	  case 1:
@@ -269,7 +269,7 @@ void entrypoint_107_15() {
 
 void entrypoint_107_32() {
 	start()
-	switch (story_flags[720 0x02D0]) {
+	switch (story_flags[720 /* us: 805A9B24 0x04, jp: 805ACDA4 0x04 */]) {
 	  case 0:
 		printf("#####Potion Shop Owner\n#####Bertie's House")
 	  case 1:
@@ -283,7 +283,7 @@ void entrypoint_107_50() {
 	printf("You can confirm your current\nlocation on the map. Please see\nwhere you are in relation to Skyloft.")
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 73), ('param3', 34)])
 	printf("It appears that you will be able to reach\nthe surface by passing through the\nportal in the clouds at the column's\nbase.")
-	story_flags[198 0x00C6] = true;
+	story_flags[198 /* us: 805A9AEF 0x01, jp: 805ACD6F 0x01 */] = true;
 }
 
 void entrypoint_107_16() {
@@ -293,7 +293,7 @@ void entrypoint_107_16() {
 
 void entrypoint_107_33() {
 	start()
-	switch (story_flags[304 0x0130]) {
+	switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 	  case 0:
 		printf("Batreaux's House")
 	  case 1:
@@ -305,11 +305,11 @@ void entrypoint_107_51() {
 	printf("######Master, I have an update regarding\nthe stone tablet and the resulting\ncolumn of light it created.\n\nA column of light has appeared to the\nsouth of our location, and signs\nindicate that it has created an opening\nin the cloud barrier to the land below.")
 	printf("I must also caution you that descending\nto the surface armed only with a sword\nwould result in a decreased probability\nof survival.\nIf you have not already done so, I\nadvise you to purchase a #####shield##### and\n#####potions #####at the bazaar in preparation\nfor your journey.")
 	printf("Another subject to discuss, ######Master...\n\n\n\n######Once you are accustomed to the\ncontrols, you are free to modify the\non-screen #####interface#####.\n\nOn the #####Gear Screen#####, select #####Interface\n#####to change the on-screen display to suit\nyour preferences.")
-	story_flags[198 0x00C6] = true;
-	story_flags[679 0x02A7] = true;
-	story_flags[358 0x0166] = true;
-	story_flags[570 0x023A] = true;
-	story_flags[571 0x023B] = true;
+	story_flags[198 /* us: 805A9AEF 0x01, jp: 805ACD6F 0x01 */] = true;
+	story_flags[679 /* us: 805A9B22 0x02, jp: 805ACDA2 0x02 */] = true;
+	story_flags[358 /* us: 805A9B00 0x10, jp: 805ACD80 0x10 */] = true;
+	story_flags[570 /* us: 805A9B18 0x02, jp: 805ACD98 0x02 */] = true;
+	story_flags[571 /* us: 805A9B18 0x04, jp: 805ACD98 0x04 */] = true;
 }
 
 void entrypoint_107_17() {
@@ -348,7 +348,7 @@ void entrypoint_107_01() {
 
 void entrypoint_107_19() {
 	start()
-	switch (story_flags[32 0x0020]) {
+	switch (story_flags[32 /* us: 805A9ADD 0x01, jp: 805ACD5D 0x01 */]) {
 	  case 0:
 		printf("######## Claims\nWinner's Perch in the\nWing Ceremony!\nSadly, Tragedy Also Strikes")
 	  case 1:
@@ -358,11 +358,11 @@ void entrypoint_107_19() {
 
 void entrypoint_107_53() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 30)])) {
+	switch (scene_flags[25 /* 0x2 02 */]) {
 	  case 0:
 		printf("######Master ####, please\ninsert the #####stone tablet #####you recently\nacquired into the altar.")
 	  case 1:
-		switch (story_flags[38 0x0026]) {
+		switch (story_flags[38 /* us: 805A9AE5 0x10, jp: 805ACD65 0x10 */]) {
 		  case 0:
 			printf("######Master ####, I suggest\nyou imbue that crest with the power of\nyour #####Skyward Strike##### and then insert\nthe tablet I gave you a moment ago.\nTo gather energy from the heavens\nand charge up a #####Skyward Strike#####,\n#####point your sword skyward#####.")
 		  case 1:
@@ -373,7 +373,7 @@ void entrypoint_107_53() {
 
 void entrypoint_107_36() {
 	start()
-	switch (story_flags[688 0x02B0]) {
+	switch (story_flags[688 /* us: 805A9B21 0x20, jp: 805ACDA1 0x20 */]) {
 	  case 0:
 		printf("Kina's Stage\nNot-so-regularly-scheduled\nnighttime performances")
 	  case 1:
@@ -394,7 +394,7 @@ void entrypoint_107_54() {
 	printf("The location I have marked on your\nmap indicates the spot where I sensed\nan energy reaction.")
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 57), ('param3', 34)])
 	printf("I advise you to investigate the area\naround this location.")
-	scene_flags[21 'The Sky'][13 0x0D] = true;
+	scene_flags[21 'The Sky'][13 /* 0x0 20 */] = true;
 }
 
 void entrypoint_107_37() {

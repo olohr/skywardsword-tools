@@ -1,10 +1,10 @@
 void entrypoint_300_24() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 73), ('param3', 6), ('param4', 2), ('param5', 42)])) {
+	switch (scene_flags[73 /* 0x8 02 */]) {
 	  case 0:
 		printf("I just know your friend's waiting on\nyou. That's why ya can't ever, ever\ngive up!")
 	  case 1:
-		scene_flags[4 'Eldin Volcano'][73 0x49] = true;
+		scene_flags[4 'Eldin Volcano'][73 /* 0x8 02 */] = true;
 		printf("######Hey, you! Long time no see. Thanks\nfor helping me earlier.\n\n\nSpeaking of helping, did you find that\nfriend you were looking for?\n#####Sure did!#####Not yet...")
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 44)])) {
 		  case 0:
@@ -19,14 +19,14 @@ void entrypoint_300_07() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 326), ('param3', 33)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 327), ('param3', 17)])
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 16), ('param3', 5), ('param4', 2), ('param5', 70)])) {
+	switch (loadzone_temp_flags[16 /* 0xB 01 */]) {
 	  case 0:
 		flw_329:
 		printf("######Hey! No running away! Take care of\nthese creeps, will ya?")
 		flw_334:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 42)])
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 18), ('param3', 5), ('param4', 2), ('param5', 74)])) {
+		switch (loadzone_temp_flags[18 /* 0xB 04 */]) {
 		  case 0:
 			goto flw_329
 		  case 1:
@@ -44,7 +44,7 @@ void entrypoint_300_08() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 16), ('next', 155), ('param3', 33)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 59), ('param3', 17)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', 339), ('param3', 39)])
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 27), ('param3', 6), ('param4', 2), ('param5', 78)])) {
+	switch (scene_flags[27 /* 0x2 08 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4114), ('param2', 3590), ('next', 340), ('param3', 13)])
 		printf("Gyaah! Sneak attack! Hey, where'd all\nthe lava go? Now the road's open\nagain! You won't get away with this!")
@@ -73,7 +73,7 @@ void entrypoint_300_09() {
 		printf("Oh, hey! Sometimes these##### red, blobby\nthings #####will pop out too. Disgusting!\nBe careful not to let 'em grab you.")
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 1), ('param2', 2559), ('next', 350), ('param3', 13)])
-		switch (story_flags[226 0x00E2]) {
+		switch (story_flags[226 /* us: 805A9AF2 0x08, jp: 805ACD72 0x08 */]) {
 		  case 0:
 			printf("Whoa! You scared me silly! ###########You can't\njust start digging right above my head,\nyou know?\n\n######But I get where you're coming from.\nYou never know what you're going to\nfind when you dig. That's what makes\nit so impossible to stop!\n###########Rupees #####are the most common thing\nyou'll dig up, but you might get some\n#####Eldin Ore #####as well!\n\n######Used to be plenty of hearts buried down\nhere too, but weirdly enough I haven't\nseen any recently. Go figure.\n\n######Anyhow, if you run across a hole and\nyou've got the time, dig, dig, dig!")
 			flw_75:
@@ -87,49 +87,49 @@ void entrypoint_300_09() {
 
 void entrypoint_300_26() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 44), ('param3', 6), ('param4', 2), ('param5', 46)])) {
+	switch (scene_flags[44 /* 0x4 10 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 74), ('param3', 6), ('param4', 2), ('param5', 48)])) {
+		switch (scene_flags[74 /* 0x8 04 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 75), ('param3', 6), ('param4', 2), ('param5', 50)])) {
+			switch (scene_flags[75 /* 0x8 08 */]) {
 			  case 0:
 				flw_236:
 				printf("######You can find caves aboveground\nand belowground. I bet you can sniff\nout thin walls wherever you go!")
 			  case 1:
 				printf("######Huh? It was right there all along?\nNice work, greenie.")
-				scene_flags[4 'Eldin Volcano'][75 0x4B] = true;
+				scene_flags[4 'Eldin Volcano'][75 /* 0x8 08 */] = true;
 				goto flw_236
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 76), ('param3', 6), ('param4', 2), ('param5', 54)])) {
+			switch (scene_flags[76 /* 0x8 10 */]) {
 			  case 0:
 				printf("Around here, you can find little\npockets or caves hidden behind thin,\ncracked walls. Who knows what\nyou might find in those places...")
 			  case 1:
 				printf("######You're looking pretty chipper, pal.\nYou come back to do some treasure\nhunting?\n\n######You may already know this, but #####Eldin\nVolcano #####is riddled with hidden\ncaves.\n\n######You can find 'em by checking around\nfor thin, cracked walls.\n\n\nYou can find all kinds of things in these\ncaves. It's mostly #####Rupees#####, sure, but ya\nnever know. ######If you get the itch for loot,\nyou should try some cave hunting.")
-				scene_flags[4 'Eldin Volcano'][76 0x4C] = true;
-				scene_flags[4 'Eldin Volcano'][79 0x4F] = true;
+				scene_flags[4 'Eldin Volcano'][76 /* 0x8 10 */] = true;
+				scene_flags[4 'Eldin Volcano'][79 /* 0x8 80 */] = true;
 			}
 		}
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 74), ('param3', 6), ('param4', 2), ('param5', 52)])) {
+		switch (scene_flags[74 /* 0x8 04 */]) {
 		  case 0:
 			printf("######I got a hunch there's one around here\nsomewhere...")
 		  case 1:
 			printf("######You're looking pretty chipper, pal.\n\n\n\n######You come back here to do some\ntreasure hunting this time? In that\ncase, I'll let you in on a little secret.\n\n###########Eldin Volcano #####is riddled with hidden\ncaves. You can find 'em by checking\naround for thin walls with cracks.\n\nYou can find all kinds of things in these\ncaves. It's mostly #####Rupees#####, but ya never\nknow. ######I got a hunch there's one right\naround here somewhere...")
-			scene_flags[4 'Eldin Volcano'][74 0x4A] = true;
-			scene_flags[4 'Eldin Volcano'][79 0x4F] = true;
+			scene_flags[4 'Eldin Volcano'][74 /* 0x8 04 */] = true;
+			scene_flags[4 'Eldin Volcano'][79 /* 0x8 80 */] = true;
 		}
 	}
 }
 
 void entrypoint_300_27() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 77), ('param3', 6), ('param4', 2), ('param5', 56)])) {
+	switch (scene_flags[77 /* 0x8 20 */]) {
 	  case 0:
 		printf("######Long-lost ruins in the heart of a\nvolcano... Heh... Now that's a tale to\nget any #####treasure hunter#####'s heart\npumping!")
 	  case 1:
 		printf("######Hey, you! I hope you're taking good\ncare of my #####Bomb Bag#####.\n\n\n######By the way, you ever been to the\nheart of #####Eldin Volcano#####?\n\n\n######It's so hot down there it'll burn the\nclothes right off your back. POOF!\nYour average traveler will be dead in\nminutes.\n######But if you survive... Well, rumor has it\nthere are amazing ruins overflowing\nwith piles and mountains of treasure.\n\n######Course, it's nothing for my people\nto just tunnel right in there, ya know?\nYeah... I may have to make the effort\nsometime in the near future.")
-		scene_flags[4 'Eldin Volcano'][77 0x4D] = true;
+		scene_flags[4 'Eldin Volcano'][77 /* 0x8 20 */] = true;
 	}
 }
 
@@ -185,7 +185,7 @@ void entrypoint_300_10() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 30), ('next', 34), ('param3', 6)])
 	printf("You ain't as dumb as you look!")
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 45), ('next', 145), ('param3', 6)])
-	scene_flags[4 'Eldin Volcano'][72 0x48] = true;
+	scene_flags[4 'Eldin Volcano'][72 /* 0x8 01 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 45), ('next', 345), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 }
@@ -207,9 +207,9 @@ void entrypoint_300_11() {
 		printf("Additionally, I calculate there is a 95%\nprobability that the key to this door is\nmade of the same material composition\nas this mechanism that bars it. ")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 94), ('param3', 39)])
 		printf("I have detected objects of the same\nmaterial in the surrounding area.\n\n\nAscertaining the location of these\nobjects will aid in our search for\n#####Zelda#####. I have registered them as\n#####dowsing #####targets.######")
-		story_flags[106 0x006A] = true;
+		story_flags[106 /* us: 805A9ADE 0x80, jp: 805ACD5E 0x80 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 2), ('next', 344), ('param3', 56)])
-		story_flags[818 0x0332] = true;
+		story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = true;
 	  case 1:
 		printf("The woman in black? The probability\nof your assessment being correct\nis...#####10%. #####Rounded up.\n\nI conclude the subject was likely\n#####Zelda#####.")
 		goto flw_92
@@ -223,11 +223,11 @@ void entrypoint_300_29() {
 
 void entrypoint_300_12() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 55), ('param3', 6), ('param4', 2), ('param5', 10)])) {
+	switch (scene_flags[55 /* 0x7 80 */]) {
 	  case 0:
 		printf("You listening? You've gotta remember\nthis. There are #####no bad holes #####around a\n#####green Rupee#####.\n\nA #####blue Rupee #####will have #####one or two bad\nholes #####around it, and a##### red Rupee #####will\nhave #####three or four#####.\n\nA ####\nsilver Rupee##### will be surrounded by\n#####five or six bad holes##### and a #####gold Rupee\n#####by #####seven or eight#####. Those are the rules!\n\nThe only thing standing between you\nand being filthy rich is luck. ######Here's\nhoping you're luckier than you look.\nHeh heh.")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 54), ('param3', 6), ('param4', 2), ('param5', 6)])) {
+		switch (scene_flags[54 /* 0x7 40 */]) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 17), ('param2', 2059), ('next', 53), ('param3', 13)])
 			printf("What? You looking to buy what I'm\nselling?")
@@ -245,7 +245,7 @@ void entrypoint_300_12() {
 					printf("######The color of the Rupee you dig up will\ntell you how many bad holes are\naround you.\n\n######Like if you dig up a##### green Rupee#####, there\nare #####no bad holes #####around it!\n\n\nA #####blue Rupee #####will have #####one or two bad\nholes#####. A##### red Rupee #####will have##### three or\nfour#####, and a ####\nsilver Rupee##### has got #####five or\nsix#####.\nIf you're lucky enough to dig up a rare\n#####gold Rupee#####, there will be #####seven or eight\nbad holes #####nearby. There are almost no\ngood holes!")
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 17), ('param2', -245), ('next', 54), ('param3', 13)])
 					printf("What do you think? Makes planning\nwhere to dig a bit easier, don't it?\n\n\n######But at the end of the day, it comes down\nto luck. YOUR luck. So just do the\nbest you can, and cross your fingers\nor something.")
-					scene_flags[4 'Eldin Volcano'][55 0x37] = true;
+					scene_flags[4 'Eldin Volcano'][55 /* 0x7 80 */] = true;
 				  case 1:
 					printf("C'mon, pal! You ain't got enough\nRupees.\n\n\n######Unless you bring me exactly\n#####20 Rupees#####, I'm not telling you a thing.")
 				}
@@ -254,7 +254,7 @@ void entrypoint_300_12() {
 				printf("Why you gotta be such a Rupee\npincher? Fortune's knocking at your\ndoor, pal.\n\n######All right, it's your call. You change\nyour mind, come see me. The info\nwill cost you #####20 Rupees#####.")
 			}
 		  case 1:
-			scene_flags[4 'Eldin Volcano'][54 0x36] = true;
+			scene_flags[4 'Eldin Volcano'][54 /* 0x7 40 */] = true;
 			printf("Hey, you! You're gonna try your mitts\nat #####Tubert's ##########Thrill Digger #####game, right?\n\n\n######Pssst. You want some #####top-secret info#####?\nIt's guaranteed to make you rich!\n######R-####\nI-####\nC-####\nH####\n.\n\nNow since you'll be lining your pockets\nwith Rupees, it's only fair I get a little\npiece of the pie. And I want my pie\nnow, thank you.")
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 307), ('param3', 12)])
 			printf("######I've got a super-discount price just\nfor you, buddy. How does #####20 Rupees\n#####sound?\n#####Deal!#####No, thanks.")
@@ -274,7 +274,7 @@ void entrypoint_300_13() {
 		flw_296:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 4), ('next', -1), ('param3', 5)])
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 5), ('param4', 2), ('param5', 38)])) {
+		switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 		  case 0:
 			goto flw_207
 		  case 1:
@@ -292,7 +292,7 @@ void entrypoint_300_30() {
 
 void entrypoint_300_14() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 22), ('param3', 6), ('param4', 2), ('param5', 14)])) {
+	switch (scene_flags[22 /* 0x3 40 */]) {
 	  case 0:
 		printf("I'm pretty sure the getup was blackish.\nBesides that, I don't remember much.")
 	  case 1:
@@ -304,7 +304,7 @@ void entrypoint_300_14() {
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 17), ('param2', 3342), ('next', 80), ('param3', 13)])
 		printf("It might be the friend you're looking\nfor? You want to know what this\nkook was wearing?")
 		printf("######Let's see...##### Yeah, I'm pretty sure the\ngetup was #####blackish#####. Other than that, I\ndon't remember much.")
-		scene_flags[4 'Eldin Volcano'][22 0x16] = true;
+		scene_flags[4 'Eldin Volcano'][22 /* 0x3 40 */] = true;
 	}
 }
 
@@ -315,44 +315,44 @@ void entrypoint_300_31() {
 
 void entrypoint_300_15() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 36), ('param3', 6), ('param4', 2), ('param5', 2)])) {
+	switch (scene_flags[36 /* 0x5 10 */]) {
 	  case 0:
 		printf("The one that went running through\nhere looked kinda like you.\n\n\nI don't think he was dressed in green,\nthough.")
 	  case 1:
 		printf("######Huh? You're looking for a friend?\nNOT treasure?\n\n\n######So that must have been your pal that\npassed by earlier, #####sprinting by #####without\nso much as a glance in this direction.######\n\nIt was sorta a blur of movement, so I\ndidn't get a real good look, but I knew\nit wasn't one of those red creeps.\n\nYour pal must have gone straight up\nhere, so why don't you follow?")
-		scene_flags[4 'Eldin Volcano'][36 0x24] = true;
+		scene_flags[4 'Eldin Volcano'][36 /* 0x5 10 */] = true;
 	}
 }
 
 void entrypoint_300_32() {
 	start()
 	printf("######Master, the abilities of your sword have\nincreased. It is now possible to #####dowse\n#####for #####Rupees#####.\n\nI have registered #####Rupees #####as a viable\n#####dowsing##### target. ######Use this exciting new\nfeature as you deem necessary.")
-	story_flags[105 0x0069] = true;
+	story_flags[105 /* us: 805A9ADE 0x40, jp: 805ACD5E 0x40 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 20), ('next', -1), ('param3', 56)])
 }
 
 void entrypoint_300_16() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 36), ('param3', 6), ('param4', 2), ('param5', 18)])) {
+	switch (scene_flags[36 /* 0x5 10 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 61), ('param3', 6), ('param4', 2), ('param5', 20)])) {
+		switch (scene_flags[61 /* 0x6 20 */]) {
 		  case 0:
 			printf("There are loads of these red, blue, and\ngreen stones called #####Rupees #####around\nhere. Sometimes you can even find\n#####silver #####and##### gold #####ones too.\nAnd while they ain't technically\ntreasure, you can also find these tough\n#####crystals#####. I bet you could #####use them to\nmake stuff#####.")
 		  case 1:
 			printf("Us #####Mogmas #####have claimed this territory\nto search around for riches. We're\nwhat you'd call #####treasure hunters#####.\n\nThere are loads of these red, blue, and\ngreen stones called #####Rupees #####around\nhere. Sometimes you can even find\n#####silver #####and##### gold #####ones too.\nAnd while they ain't technically\ntreasure, you can also find these tough\n#####mineral chunks#####. I bet you could #####use 'em\nto make stuff#####.\nSince you're here and all, you might as\nwell look around, right?")
-			scene_flags[4 'Eldin Volcano'][61 0x3D] = true;
+			scene_flags[4 'Eldin Volcano'][61 /* 0x6 20 */] = true;
 		}
 	  case 1:
 		printf("######Huh? You're looking for a friend?\nNOT treasure?\n\n\n######So that must have been your pal that\npassed by earlier, #####sprinting by #####without\nso much as a glance in this direction.######\n\nIt was sorta a blur of movement, so I\ndidn't get a real good look, but I knew\nit wasn't one of those red creeps.\n\nYour pal must have gone straight up\nhere, so why don't you follow?")
-		scene_flags[4 'Eldin Volcano'][36 0x24] = true;
+		scene_flags[4 'Eldin Volcano'][36 /* 0x5 10 */] = true;
 	}
 }
 
 void entrypoint_300_33() {
 	start()
-	switch (story_flags[676 0x02A4]) {
+	switch (story_flags[676 /* us: 805A9B20 0x20, jp: 805ACDA0 0x20 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 5), ('param4', 2), ('param5', 62)])) {
+		switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 		  case 0:
 			printf("Wonder where the next treasure might\nbe... Gotta remember not to forget\nabout the whole digging thing.")
 		  case 1:
@@ -360,7 +360,7 @@ void entrypoint_300_33() {
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 4), ('next', -1), ('param3', 4)])
 		}
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 5), ('param4', 2), ('param5', 66)])) {
+		switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 		  case 0:
 			printf("Wonder where my search for riches\nwill lead me next... A #####treasure hunter's\njourney never ends#####. Heh heh...")
 		  case 1:
@@ -395,11 +395,11 @@ void entrypoint_300_01() {
 	  case 0:
 		printf("######Of course you do. My apologies. Please\ncontinue your search for Zelda.")
 		flw_311:
-		scene_flags[4 'Eldin Volcano'][121 0x79] = true;
+		scene_flags[4 'Eldin Volcano'][121 /* 0xE 02 */] = true;
 	  case 1:
 		printf("######Understood, Master. To begin #####dowsing#####,\npress and hold #####.#####\n\n\nUse the Wii Remote to select a dowsing\ntarget. You will be able to sense the\ntarget through the tip of your sword.\n\nThe closer you get to the target, the\n#####stronger the sword's reaction will\nbecome#####. You will be alerted with a\nvibration and audible cue.\nYou may also use the #####cursor #####to gauge\nan accurate direction of the target's\nlocation.\n\nPlease select Zelda as your dowsing\ntarget and commence your search.")
-		story_flags[100 0x0064] = true;
-		story_flags[818 0x0332] = true;
+		story_flags[100 /* us: 805A9ADE 0x02, jp: 805ACD5E 0x02 */] = true;
+		story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = true;
 		goto flw_311
 	}
 }
@@ -407,7 +407,7 @@ void entrypoint_300_01() {
 void entrypoint_300_19() {
 	start()
 	printf("Zelda is ahead... #####Hurry.")
-	story_flags[184 0x00B8] = true;
+	story_flags[184 /* us: 805A9AE6 0x80, jp: 805ACD66 0x80 */] = true;
 }
 
 void entrypoint_300_02() {
@@ -423,12 +423,12 @@ void entrypoint_300_02() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 158), ('param3', 39)])
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 19), ('param2', 4103), ('next', 55), ('param3', 13)])
 	printf("Ahh... #####Wish someone would chase these\nclowns outta here.")
-	scene_flags[4 'Eldin Volcano'][58 0x3A] = true;
+	scene_flags[4 'Eldin Volcano'][58 /* 0x6 04 */] = true;
 }
 
 void entrypoint_300_03() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 19), ('param3', 5), ('param4', 2), ('param5', 76)])) {
+	switch (loadzone_temp_flags[19 /* 0xB 08 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 26), ('param2', 0), ('next', 314), ('param3', 39)])
 		flw_314:
@@ -483,17 +483,17 @@ void entrypoint_300_04() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 323), ('param3', 33)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 14), ('param3', 17)])
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 4), ('param3', 6), ('param4', 2), ('param5', 0)])) {
+	switch (scene_flags[4 /* 0x1 10 */]) {
 	  case 0:
 		printf("Hey, I'm hoping you find your friend\nall in one piece!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 17), ('param3', 5), ('param4', 2), ('param5', 22)])) {
+		switch (loadzone_temp_flags[17 /* 0xB 02 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 18), ('param3', 5), ('param4', 2), ('param5', 24)])) {
+			switch (loadzone_temp_flags[18 /* 0xB 04 */]) {
 			  case 0:
 				printf("When that creep in the #####blue hat #####blows\nhis horn, it starts a bad-guy stampede.\nWhat're you gonna do about it?")
 			  case 1:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 16), ('param3', 5), ('param4', 2), ('param5', 72)])) {
+				switch (loadzone_temp_flags[16 /* 0xB 01 */]) {
 				  case 0:
 					printf("######You got those creeps all worked up, so\nnow you've got to take care of 'em!\n\n\n######But they keep using that #####horn to call\nin reinforcements#####. They just keep\ncoming and coming!\n\nI bet the horn blower in the##### blue hat###########\nis the leader.")
 					flw_114:
@@ -511,14 +511,14 @@ void entrypoint_300_04() {
 
 void entrypoint_300_21() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 65), ('param3', 6), ('param4', 2), ('param5', 32)])) {
+	switch (scene_flags[65 /* 0x9 02 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 97), ('param3', 6), ('param4', 2), ('param5', 34)])) {
+		switch (scene_flags[97 /* 0xD 02 */]) {
 		  case 0:
 			printf("I'm stating the obvious here, but you\ncan #####pick up and put down ##########bomb flowers\n#####with #####, the same way you do with jars.\n\nWhen you're holding something,\n#####point up and swing #####the Wii Remote\ndown to throw it.\n\nTo roll it, #####point down and swing #####the\nWii Remote up.\n\n\nGo on and practice a bit with those\n#####bomb flowers #####over there.")
 		  case 1:
 			printf("######You, uh...know you don't have\na #####Bomb Bag#####, don'tcha?\n\n\n######Without a #####Bomb Bag#####, you can't safely\ncarry #####bomb flowers #####with you when\nyou're out and about. You won't find a\n#####Mogma #####without one.\n######What?##### Why are you staring at me\nlike that?\n\n\n######No! No way, no how. You are not\ngetting my bag. You'll have to be\nsatisfied with blowing up stuff\nright around here.")
-			scene_flags[4 'Eldin Volcano'][97 0x61] = true;
+			scene_flags[4 'Eldin Volcano'][97 /* 0xD 02 */] = true;
 		}
 	  case 1:
 		printf("######Huh? Who're you supposed to be?\nNever seen you around here before...\n\n\nWhoa, hold it right there! ######Are you a\nfriend of those red creeps?\n#####No way! #####Red creeps?")
@@ -536,7 +536,7 @@ void entrypoint_300_21() {
 				  case 0:
 					printf("######Of course you do! You use the\nWii Remote. #####Point it up and swing it\nforward #####to #####throw #####things. #####Point it down\nand swing it forward #####to##### roll #####'em.\nI mean, hey, everyone knows that!")
 					flw_192:
-					scene_flags[4 'Eldin Volcano'][65 0x41] = true;
+					scene_flags[4 'Eldin Volcano'][65 /* 0x9 02 */] = true;
 				  case 1:
 					printf("######Don't know any of this stuff, huh?#####\nNo worries, pal. I gotcha covered with\nall the info you need.\n\n######When you've got a #####bomb flower#####, point\nthe Wii Remote##### up#####!\n\n\nThe trajectory of the bomb will show\nup for ya, so all ya do is line it up with\nyour target and##### swing it down #####to\nchuck it!\nA trajectory guide will also show up if\nyou point the Wii Remote #####down#####.\n#####Swing it up #####to roll the bomb along that\nguideline!\n######To reach places up #####high#####, it's best to\nthrow bombs, but to #####cover distances #####or\n#####pass through narrow spaces#####, rolling is\ndefinitely the way to go.")
 					goto flw_192
@@ -572,13 +572,13 @@ void entrypoint_300_05() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 163), ('param3', 33)])
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -1), ('next', 120), ('param3', 13)])
 	printf("Anyway, if you're looking for treasure,\nyou should stay clear of those red guys.")
-	scene_flags[4 'Eldin Volcano'][121 0x79] = true;
+	scene_flags[4 'Eldin Volcano'][121 /* 0xE 02 */] = true;
 }
 
 void entrypoint_300_22() {
 	start()
 	printf("######Master, I am detecting##### extremely high\ntemperatures #####from the area directly\nahead.\n\nI calculate a 95% chance your clothing\nwill immediately combust upon\nentrance. Please proceed with caution. \n\nYou may be able to pass through safely\nif you##### run#####. I recommend confirming\nyour direction by #####dowsing #####before\nmaking the attempt.")
-	scene_flags[4 'Eldin Volcano'][101 0x65] = true;
+	scene_flags[4 'Eldin Volcano'][101 /* 0xD 20 */] = true;
 }
 
 void entrypoint_300_06() {
@@ -590,7 +590,7 @@ void entrypoint_300_23() {
 	start()
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 33), ('param3', 9), ('param4', 2), ('param5', 40)])) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 16), ('param3', 5), ('param4', 2), ('param5', 68)])) {
+		switch (loadzone_temp_flags[16 /* 0xB 01 */]) {
 		  case 0:
 			printf("Do me a favor, will ya? Try not to go\ncrazy and##### roll around #####all over the\nplace. Dust bunnies, ya know?")
 		  case 1:

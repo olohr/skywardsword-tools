@@ -1,6 +1,6 @@
 void entrypoint_299_00() {
 	start()
-	story_flags[82 0x0052] = true;
+	story_flags[82 /* us: 805A9AEB 0x08, jp: 805ACD6B 0x08 */] = true;
 	printf("If you haven't already guessed,\n####, here's your task:\ntake this score and #####collect##### all my little\nmusical friends out there.")
 }
 
@@ -12,7 +12,7 @@ void entrypoint_299_01() {
 
 void entrypoint_299_02() {
 	start()
-	story_flags[82 0x0052] = false;
+	story_flags[82 /* us: 805A9AEB 0x08, jp: 805ACD6B 0x08 */] = false;
 	printf("If you can do that, well, then I'll just\nhave to see you as someone worthy of\nlearning the #####Song of the Hero#####.")
 }
 

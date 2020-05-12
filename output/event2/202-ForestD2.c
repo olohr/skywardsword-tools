@@ -6,7 +6,7 @@ void entrypoint_202_04() {
 void entrypoint_202_05() {
 	start()
 	printf("Carved into the #####great statue\n#####are inscriptions of gratitude.\nThey reveal the #####secret order #####of\nthis temple.\nFirst the #####back#####, then the #####rear#####,\nthen the #####back of the right hand#####,\nand finally the #####back of the left\nhand#####.")
-	story_flags[1195 0x04AB] = true;
+	story_flags[1195 /* us: 805A9B61 0x02, jp: 805ACDE1 0x02 */] = true;
 }
 
 void entrypoint_202_11() {
@@ -59,7 +59,7 @@ void entrypoint_202_14() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 13), ('param3', 46)])
 	printf("######Master, I have taken the liberty to\nconfirm that a door is located at\nthe uppermost section of this statue.\nThe lock is unfamiliar to me.")
-	scene_flags[12 'Faron: Ancient Cistern'][107 0x6B] = true;
+	scene_flags[12 'Faron: Ancient Cistern'][107 /* 0xC 08 */] = true;
 }
 
 void entrypoint_202_01() {

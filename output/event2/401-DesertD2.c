@@ -5,11 +5,11 @@ void entrypoint_401_00() {
 
 void entrypoint_401_01() {
 	start()
-	switch (story_flags[259 0x0103]) {
+	switch (story_flags[259 /* us: 805A9AF6 0x20, jp: 805ACD76 0x20 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 60), ('param3', 6), ('param4', 2), ('param5', 18)])) {
+		switch (scene_flags[60 /* 0x6 10 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 61), ('param3', 6), ('param4', 2), ('param5', 20)])) {
+			switch (scene_flags[61 /* 0x6 20 */]) {
 			  case 0:
 				printf("You activated both power generators,\nvrrm! You should now be able to get\nthrough the engine room and come\nsave us, zrrt! So hurry up, bzzt!")
 			  case 1:
@@ -17,7 +17,7 @@ void entrypoint_401_01() {
 				printf("You turned on one of the power\ngenerators, vrrm! But you still need to\nactivate one more to be able to get\nthrough the engine room to us, zrrt.\nHurry up and activate the other #####power\ngenerator#####, then come rescue us, bzzt!")
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 61), ('param3', 6), ('param4', 2), ('param5', 22)])) {
+			switch (scene_flags[61 /* 0x6 20 */]) {
 			  case 0:
 				goto flw_103
 			  case 1:
@@ -25,10 +25,10 @@ void entrypoint_401_01() {
 			}
 		}
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 109), ('param3', 6), ('param4', 2), ('param5', 2)])) {
+		switch (scene_flags[109 /* 0xC 20 */]) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3), ('param2', 2304), ('next', 106), ('param3', 13)])
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 69), ('param3', 6), ('param4', 2), ('param5', 24)])) {
+			switch (scene_flags[69 /* 0x9 20 */]) {
 			  case 0:
 				printf("######That was scary, vrrm!\n\n\n\n######You're a human, aren't you, brrzrrt?\nSo how did you get in here, vweep?")
 				flw_1:
@@ -41,22 +41,22 @@ void entrypoint_401_01() {
 				printf("######There's a corridor from the engine\nroom that connects to this brig, vrrm.")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 35), ('param3', 39)])
 				printf("######But to get through the engine room to\nhere, bzzt, you need to activate the two\n###########power generators##### in the engine room.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 60), ('param3', 6), ('param4', 2), ('param5', 26)])) {
+				switch (scene_flags[60 /* 0x6 10 */]) {
 				  case 0:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 61), ('param3', 6), ('param4', 2), ('param5', 28)])) {
+					switch (scene_flags[61 /* 0x6 20 */]) {
 					  case 0:
 						printf("######Huh#####.#####.#####.? Oh! It looks like the engine\nroom is up and running, vrrm.\n\n\n######Did you turn on the #####power#####, vweep?\n######OK, then I'm sure you can get through\nthe engine room to here now, zrrt!\n\n######We'll be waiting, phoo-weep!")
-						story_flags[263 0x0107] = true;
+						story_flags[263 /* us: 805A9AF9 0x02, jp: 805ACD79 0x02 */] = true;
 						flw_19:
-						story_flags[259 0x0103] = true;
+						story_flags[259 /* us: 805A9AF6 0x20, jp: 805ACD76 0x20 */] = true;
 					  case 1:
 						flw_112:
 						printf("######Huh#####.#####.#####.? Oh hey, did you turn on one\nof the #####power generators#####, vrrm?\n\n\n######You still need to activate the other one,\nzrrt! There are two #####power generators#####,\nvweep!")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 60), ('param3', 6), ('param4', 2), ('param5', 36)])) {
+						switch (scene_flags[60 /* 0x6 10 */]) {
 						  case 0:
 							OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 511), ('param2', 0), ('next', 115), ('param3', 30)])
 							flw_115:
-							story_flags[263 0x0107] = true;
+							story_flags[263 /* us: 805A9AF9 0x02, jp: 805ACD79 0x02 */] = true;
 							printf("######The last #####power generator##### is here, vrrm.")
 							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 118), ('param3', 34)])
 							printf("######You can do it, phoo-weep!")
@@ -67,13 +67,13 @@ void entrypoint_401_01() {
 						}
 					}
 				  case 1:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 61), ('param3', 6), ('param4', 2), ('param5', 30)])) {
+					switch (scene_flags[61 /* 0x6 20 */]) {
 					  case 0:
 						goto flw_112
 					  case 1:
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', 0), ('next', 47), ('param3', 30)])
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 511), ('param2', 0), ('next', 24), ('param3', 30)])
-						story_flags[263 0x0107] = true;
+						story_flags[263 /* us: 805A9AF9 0x02, jp: 805ACD79 0x02 */] = true;
 						printf("######You will need to activate the #####power\ngenerators #####in two different locations,\nzrrt.")
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 21), ('param3', 34)])
 						printf("######You can do it, phoo-weep!")
@@ -86,7 +86,7 @@ void entrypoint_401_01() {
 			}
 		  case 1:
 			printf("######I'm scared, brrzrrt... Please remove\nthose monsters and get us out of here,\nphoo-weep.")
-			scene_flags[-1 'Skyloft: Silent Realm'][69 0x45] = true;
+			scene_flags[-1 'Skyloft: Silent Realm'][69 /* 0x9 20 */] = true;
 		}
 	}
 }
@@ -114,7 +114,7 @@ void entrypoint_401_05() {
 void entrypoint_401_06() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 1), ('param2', 256), ('next', 121), ('param3', 13)])
-	switch (story_flags[259 0x0103]) {
+	switch (story_flags[259 /* us: 805A9AF6 0x20, jp: 805ACD76 0x20 */]) {
 	  case 0:
 		printf("######You really came to save us, vweep!\nMy circuits are glowing with\nhappiness, vrrm!")
 		flw_15:
@@ -137,10 +137,10 @@ void entrypoint_401_06() {
 		OrderedDict([('type', 'type3'), ('subType', 2), ('param1', 1), ('param2', 0), ('next', 127), ('param3', 14)])
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 2), ('param2', 0), ('next', 59), ('param3', 13)])
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 30), ('next', 16), ('param3', 6)])
-		story_flags[262 0x0106] = true;
-		scene_flags[18 'Lanayru: Sandship'][108 0x6C] = true;
+		story_flags[262 /* us: 805A9AF9 0x01, jp: 805ACD79 0x01 */] = true;
+		scene_flags[18 'Lanayru: Sandship'][108 /* 0xC 10 */] = true;
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 69), ('param3', 6), ('param4', 2), ('param5', 34)])) {
+		switch (scene_flags[69 /* 0x9 20 */]) {
 		  case 0:
 			printf("######I've seen you before, vweep#####.#####.#####.\n######You're the one who left me here\nearlier, vrrm. That's pretty cold\nfor a human, zrrt!\n######But how did you get in here anyway,\nphoo-weep?")
 			flw_125:
@@ -162,8 +162,8 @@ void entrypoint_401_07() {
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 766), ('param2', 0), ('next', 40), ('param3', 30)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 27), ('param3', 34)])
 	printf("######It's still pretty dangerous here, so I'll\njust wait in the boat, zrrt.\n\n\n######You can do it, vrrm!")
-	story_flags[277 0x0115] = true;
-	scene_flags[18 'Lanayru: Sandship'][19 0x13] = true;
+	story_flags[277 /* us: 805A9AF8 0x80, jp: 805ACD78 0x80 */] = true;
+	scene_flags[18 'Lanayru: Sandship'][19 /* 0x3 08 */] = true;
 }
 
 void entrypoint_401_08() {
@@ -179,16 +179,16 @@ void entrypoint_401_09() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 52), ('param3', 35)])
 	printf("A report, ######Master. Judging by their size,\nthese #####tentacles #####belong to a monster\nof considerable size.\n\nThe current situation is difficult to\ndetermine with complete accuracy,\nbut signs indicate that this ship is\nunder attack.\nIf we do nothing, there is an 80%\nchance the ship will capsize.\n\n\nI recommend forcing it back with\n#####################sacred power#####, then exiting to further\nassess the current situation.")
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 53), ('param3', 36)])
-	scene_flags[18 'Lanayru: Sandship'][79 0x4F] = true;
+	scene_flags[18 'Lanayru: Sandship'][79 /* 0x8 80 */] = true;
 }
 
 void entrypoint_401_10() {
 	start()
-	switch (story_flags[259 0x0103]) {
+	switch (story_flags[259 /* us: 805A9AF6 0x20, jp: 805ACD76 0x20 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 60), ('param3', 6), ('param4', 2), ('param5', 6)])) {
+		switch (scene_flags[60 /* 0x6 10 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 61), ('param3', 6), ('param4', 2), ('param5', 8)])) {
+			switch (scene_flags[61 /* 0x6 20 */]) {
 			  case 0:
 				printf("######Master, I can confirm that the engine\nroom is now fully operational.\n\n\nI suggest hurrying to the brig through\nthe engine room and #####freeing##### the crew\nimmediately.")
 			  case 1:
@@ -196,7 +196,7 @@ void entrypoint_401_10() {
 				printf("######Master, I can confirm that, as\nmentioned by the crew, the engine\nroom is now fully operational.\n\nBut the corridor to the brig will not be\npassable until you activate the other\n#####power generator#####. I suggest hurrying\nto the second #####power generator#####.")
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 61), ('param3', 6), ('param4', 2), ('param5', 10)])) {
+			switch (scene_flags[61 /* 0x6 20 */]) {
 			  case 0:
 				goto flw_69
 			  case 1:
@@ -204,9 +204,9 @@ void entrypoint_401_10() {
 			}
 		}
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 60), ('param3', 6), ('param4', 2), ('param5', 12)])) {
+		switch (scene_flags[60 /* 0x6 10 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 61), ('param3', 6), ('param4', 2), ('param5', 14)])) {
+			switch (scene_flags[61 /* 0x6 20 */]) {
 			  case 0:
 				printf("######Master, I am detecting strong\nvibrations again.\n\n\nThe current situation is difficult\nto accurately assess, but I suggest\nhurrying to the area beneath the\n#####crew in the brig #####first.")
 			  case 1:
@@ -214,7 +214,7 @@ void entrypoint_401_10() {
 				printf("######Master, I am detecting very strong\nvibrations.\n\n\nSigns indicate that activating this\nmechanism has caused something\nwithin the ship to begin moving.\n\nThe current situation is difficult\nto accurately assess, but I suggest\nhurrying to the #####crew in the brig#####\nand freeing them first.")
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 61), ('param3', 6), ('param4', 2), ('param5', 16)])) {
+			switch (scene_flags[61 /* 0x6 20 */]) {
 			  case 0:
 				goto flw_71
 			  case 1:
@@ -292,6 +292,6 @@ void entrypoint_401_17() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 18), ('param2', 0), ('next', 160), ('param3', 39)])
 	printf("You can reach the Timeshift Stone\non the deck through the ventilation\nshaft in the ceiling.\n\nI believe it will be possible to shoot\nthrough the grate with a small\nprojectile, such as an arrow.")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 159), ('param3', 39)])
-	scene_flags[18 'Lanayru: Sandship'][56 0x38] = true;
+	scene_flags[18 'Lanayru: Sandship'][56 /* 0x6 01 */] = true;
 }
 

@@ -1,8 +1,8 @@
 void entrypoint_402_17() {
 	start()
 	printf("This is easily as scary as I thought it\nwould be, vrrm#####.#####.#####.\n\n\n######But if you think about it, they should\nall be dead, brrzrrt!\n\n\n######The only reason I'm up and about like\nthis is because of that Timeshift Stone\non the boat, phoo-weep!\n\n######So I have nothing to worry about, vrrm!\nI feel better now, ########.\nAnd so it's time for you to go look for\nmy ship, zrt!\n######I'll wait here, of course, bzzt.")
-	story_flags[280 0x0118] = true;
-	scene_flags[8 'Lanayru Sand Sea'][47 0x2F] = true;
+	story_flags[280 /* us: 805A9AFB 0x04, jp: 805ACD7B 0x04 */] = true;
+	scene_flags[8 'Lanayru Sand Sea'][47 /* 0x4 80 */] = true;
 }
 
 void entrypoint_402_51() {
@@ -17,12 +17,12 @@ void entrypoint_402_18() {
 	printf("There is a 60% probability that these\nmasts and these sails are from the ship\nthat protects #####Nayru's Flame#####.")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 75), ('param3', 39)])
 	printf("You can now set your #####dowsing##### ability\nto search for the ship that holds\n#####################Nayru's Flame#####.")
-	story_flags[275 0x0113] = true;
-	story_flags[271 0x010F] = true;
+	story_flags[275 /* us: 805A9AF8 0x20, jp: 805ACD78 0x20 */] = true;
+	story_flags[271 /* us: 805A9AF8 0x02, jp: 805ACD78 0x02 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 7), ('next', 278), ('param3', 56)])
-	story_flags[818 0x0332] = true;
-	scene_flags[8 'Lanayru Sand Sea'][112 0x70] = true;
-	story_flags[647 0x0287] = true;
+	story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = true;
+	scene_flags[8 'Lanayru Sand Sea'][112 /* 0xF 01 */] = true;
+	story_flags[647 /* us: 805A9B1C 0x01, jp: 805ACD9C 0x01 */] = true;
 }
 
 void entrypoint_402_52() {
@@ -38,8 +38,8 @@ void entrypoint_402_01() {
 void entrypoint_402_19() {
 	start()
 	printf("######Master, it would appear that in the\nmany years this factory went unused,\nmonsters have moved in and built\na nest.\nI now estimate that the chance of \nfinding a clue in the sand here as to the\nship's location is extremely low.")
-	story_flags[270 0x010E] = true;
-	story_flags[741 0x02E5] = true;
+	story_flags[270 /* us: 805A9AF8 0x01, jp: 805ACD78 0x01 */] = true;
+	story_flags[741 /* us: 805A9B26 0x20, jp: 805ACDA6 0x20 */] = true;
 }
 
 void entrypoint_402_53() {
@@ -54,13 +54,13 @@ void entrypoint_402_70() {
 
 void entrypoint_402_02() {
 	start()
-	switch (story_flags[264 0x0108]) {
+	switch (story_flags[264 /* us: 805A9AF9 0x04, jp: 805ACD79 0x04 */]) {
 	  case 0:
-		switch (story_flags[273 0x0111]) {
+		switch (story_flags[273 /* us: 805A9AF8 0x08, jp: 805ACD78 0x08 */]) {
 		  case 0:
-			switch (story_flags[15 0x000F]) {
+			switch (story_flags[15 /* us: 805A9ADB 0x01, jp: 805ACD5B 0x01 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 5), ('param4', 2), ('param5', 43)])) {
+				switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
 				  case 0:
 					printf("Let's get going quick, vrrm! Don't you\nneed to find that person you're looking\nfor, brrzt?\n\nOr do you need me to take the boat\nsomewhere else on this sea?\n#####To sea!#####To the Sandship!#####Never mind.")
 					flw_263:
@@ -75,22 +75,22 @@ void entrypoint_402_02() {
 						printf("######Come and visit again sometime, vrrm!")
 					}
 				  case 1:
-					switch (story_flags[200 0x00C8]) {
+					switch (story_flags[200 /* us: 805A9AEF 0x04, jp: 805ACD6F 0x04 */]) {
 					  case 0:
-						switch (story_flags[526 0x020E]) {
+						switch (story_flags[526 /* us: 805A9B14 0x08, jp: 805ACD94 0x08 */]) {
 						  case 0:
 							flw_222:
 							printf("You made it, zrrt! Did you find who\nyou were looking for, phaweep?\n\n\nDo you want me to take you somewhere\nby boat, brrzrrt?\n#####To sea!#####To the Sandship!#####Never mind.")
 							goto flw_263
 						  case 1:
-							switch (story_flags[848 0x0350]) {
+							switch (story_flags[848 /* us: 805A9B35 0x40, jp: 805ACDB5 0x40 */]) {
 							  case 0:
 								flw_282:
 								printf("You are looking for a dragon god,\nvrrm?\n\n\n######If it's #####Master Thunder Dragon #####you \nwant to meet, he's to the south of \n#####Lanayru Caves#####, bzzt. I don't know any \nother dragon gods, though, brrzrrt.\n######Do you want me to take you somewhere\nby boat?\n#####To sea!#####To the Sandship!#####Never mind.")
 								goto flw_263
 							  case 1:
 								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 294), ('param3', 31)])
-								story_flags[848 0x0350] = true;
+								story_flags[848 /* us: 805A9B35 0x40, jp: 805ACDB5 0x40 */] = true;
 								goto flw_282
 							}
 						}
@@ -100,7 +100,7 @@ void entrypoint_402_02() {
 				}
 			  case 1:
 				flw_150:
-				switch (story_flags[272 0x0110]) {
+				switch (story_flags[272 /* us: 805A9AF8 0x04, jp: 805ACD78 0x04 */]) {
 				  case 0:
 					printf("######Ready to shove off, brrzt?\n#####To sea.#####To the Sandship.#####Never mind.")
 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 4)])) {
@@ -131,14 +131,14 @@ void entrypoint_402_02() {
 			  case 0:
 				printf("######Really, vrrm? Well, in that case, bzzt...")
 				printf("Hmm####\n.####\n.####\n. There's something weird about\nthat map of yours...vrrm.\n\n\n######If you're going to navigate these\ntreacherous waters, then you need a\nproper #####sea chart#####, doo-weep!\n\nThere is a #####sea chart #####in my shack\nat #####Skipper's Retreat#####, bzzzt. So first\nyou need to get on this boat and set a\ncourse for #####Skipper's Retreat#####!")
-				story_flags[273 0x0111] = true;
+				story_flags[273 /* us: 805A9AF8 0x08, jp: 805ACD78 0x08 */] = true;
 				goto flw_150
 			  case 1:
 				printf("######Then I'm not letting you on board,\nbrrt!\n\n\nAnd you won't be able to get anywhere\nwithout getting on this boat, vweep!")
 			}
 		}
 	  case 1:
-		story_flags[264 0x0108] = true;
+		story_flags[264 /* us: 805A9AF9 0x04, jp: 805ACD79 0x04 */] = true;
 		printf("Hmm####\n.####\n.####\n. Who are you, bzzt?\nSome human, vrrrm?\n\n\nWho am I, brrzrrt#####.#####.#####.?\n\n\n\n############I am the proud skipper of the ship\nthat protects #####Nayru's Flame#####, phweep!\n#####Nayru's Flame?#####Protector ship?")
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 37)])) {
 		  case 0:
@@ -200,13 +200,13 @@ void entrypoint_402_72() {
 
 void entrypoint_402_04() {
 	start()
-	switch (story_flags[269 0x010D]) {
+	switch (story_flags[269 /* us: 805A9AF9 0x80, jp: 805ACD79 0x80 */]) {
 	  case 0:
-		switch (story_flags[496 0x01F0]) {
+		switch (story_flags[496 /* us: 805A9B13 0x40, jp: 805ACD93 0x40 */]) {
 		  case 0:
-			switch (story_flags[200 0x00C8]) {
+			switch (story_flags[200 /* us: 805A9AEF 0x04, jp: 805ACD6F 0x04 */]) {
 			  case 0:
-				switch (story_flags[526 0x020E]) {
+				switch (story_flags[526 /* us: 805A9B14 0x08, jp: 805ACD94 0x08 */]) {
 				  case 0:
 					flw_44:
 					printf("That house holds many dear memories\nof my family, vrrm.\n\n\nI wonder when I will be able to go\nhome, zrrt. I really want to see my\nfamily again, phweep.#####.#####.")
@@ -221,14 +221,14 @@ void entrypoint_402_04() {
 						printf("######I see, phweep...")
 					}
 				  case 1:
-					switch (story_flags[848 0x0350]) {
+					switch (story_flags[848 /* us: 805A9B35 0x40, jp: 805ACDB5 0x40 */]) {
 					  case 0:
 						flw_285:
 						printf("You are looking for a dragon god,\nvrrm?\n\n\n######If it's #####Master Thunder Dragon #####you \nwant to meet, he's to the south of \n#####Lanayru Caves#####, bzzt. I don't know any \nother dragon gods, though, brrzrrt.")
 						goto flw_46
 					  case 1:
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 297), ('param3', 31)])
-						story_flags[848 0x0350] = true;
+						story_flags[848 /* us: 805A9B35 0x40, jp: 805ACDB5 0x40 */] = true;
 						goto flw_285
 					}
 				}
@@ -237,7 +237,7 @@ void entrypoint_402_04() {
 			}
 		  case 1:
 			printf("You got the #####sea chart#####, vrrm! Now we\ncan finally navigate properly, zrrt!\n\n\nPhweep! Let's go look for my ship!")
-			story_flags[496 0x01F0] = true;
+			story_flags[496 /* us: 805A9B13 0x40, jp: 805ACD93 0x40 */] = true;
 			goto flw_46
 		}
 	  case 1:
@@ -259,7 +259,7 @@ void entrypoint_402_56() {
 void entrypoint_402_05() {
 	start()
 	printf("Thank you for getting me my ship back,\nvrrm.\n\n\n######It may have been half wrecked, but my\ncrew and I got it shaped up to almost\nproper working order in no time, vrrt.\n\n######I wish you good luck in finding\nwhomever it is you're looking\nfor, phweep!\n\n######Come visit again. You're welcome\nanytime, vweep!")
-	story_flags[815 0x032F] = true;
+	story_flags[815 /* us: 805A9B31 0x80, jp: 805ACDB1 0x80 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 8), ('next', -1), ('param3', 4)])
 }
 
@@ -268,14 +268,14 @@ void entrypoint_402_22() {
 	printf("Open up the #####sea chart #####you brought\nwith you, zrrt!")
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 768), ('param2', 6), ('next', 192), ('param3', 30)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 105), ('next', 102), ('param3', 6)])
-	story_flags[519 0x0207] = true;
+	story_flags[519 /* us: 805A9B15 0x01, jp: 805ACD95 0x01 */] = true;
 	printf("The #####################Shipyard #####is at this location,\nvrrt. Let me mark it for you with an\n#####, vweep.")
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 142), ('param3', 34)])
 	printf("######The Shipyard is where we used to build\nour ships, vrrt. My ship was built there\ntoo, vweep!\n\n######If you go to the Shipyard, you might\nfind some clues to the location of my\nship, brrzrrt!")
 	printf("######OK! Set sail, vrrm!")
-	scene_flags[8 'Lanayru Sand Sea'][30 0x1E] = false;
-	scene_flags[8 'Lanayru Sand Sea'][31 0x1F] = true;
-	story_flags[496 0x01F0] = true;
+	scene_flags[8 'Lanayru Sand Sea'][30 /* 0x2 40 */] = false;
+	scene_flags[8 'Lanayru Sand Sea'][31 /* 0x2 80 */] = true;
+	story_flags[496 /* us: 805A9B13 0x40, jp: 805ACD93 0x40 */] = true;
 }
 
 void entrypoint_402_57() {
@@ -285,7 +285,7 @@ void entrypoint_402_57() {
 
 void entrypoint_402_23() {
 	start()
-	switch (story_flags[497 0x01F1]) {
+	switch (story_flags[497 /* us: 805A9B13 0x80, jp: 805ACD93 0x80 */]) {
 	  case 0:
 		printf("This is pretty scary, vweep#####.#####.#####.\n\n\n\nThe pirate captain is a mechanical\nmaniac, zrrt! He's got no shortage\nof evil underlings too, vrrm!\n\n######I never wanted to lay eyes on him\nagain, brrzrrt. But#####.#####.#####.\n\n\n######If we want to take the ship back, then\nwe have no choice, phoo-weep!")
 		flw_106:
@@ -293,11 +293,11 @@ void entrypoint_402_23() {
 		printf("The ###########Pirate Stronghold #####is here at this\n##### mark, zrrt.")
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 109), ('param3', 34)])
 		printf("######Tighten up whatever you humans have\ninstead of bolts, and let's get going,\nphoo-weep!")
-		story_flags[520 0x0208] = true;
-		scene_flags[8 'Lanayru Sand Sea'][31 0x1F] = false;
+		story_flags[520 /* us: 805A9B15 0x02, jp: 805ACD95 0x02 */] = true;
+		scene_flags[8 'Lanayru Sand Sea'][31 /* 0x2 80 */] = false;
 	  case 1:
 		printf("######So my ship wasn't here, zrrt?\nThen there is only one place left for us\nto look for clues, vrrm#####.#####.#####.\n\n######Brrzrrt. This could be scary, but...\nwe'll head to the stronghold of the\npirates who stole my ship, phweep!\n\n######The pirate captain is a mechanical\nmaniac, zrrt! Worse, he has plenty of\nevil underlings too, vrrm!\n\n######I never wanted to lay my optical\nreceptors on him again, brrzrrt. But#####.#####.#####.\n\n\n######If we want to take the ship back, then\nwe have no choice, phoo-weep!")
-		story_flags[497 0x01F1] = true;
+		story_flags[497 /* us: 805A9B13 0x80, jp: 805ACD93 0x80 */] = true;
 		goto flw_106
 	}
 }
@@ -317,12 +317,12 @@ void entrypoint_402_58() {
 
 void entrypoint_402_24() {
 	start()
-	switch (story_flags[498 0x01F2]) {
+	switch (story_flags[498 /* us: 805A9B12 0x01, jp: 805ACD92 0x01 */]) {
 	  case 0:
 		flw_99:
 		printf("######How are we going to search this whole\nhuge sea, vrrm?\n\n\n######I have no choice but to ask you to do\nit for me, brrzrrt! So get cracking,\nvweep!\n\n######There is a high probability that the ship\nis currently hidden from our view,\nphoo-weep. But ###########if we attack it#####, then we\nmight catch a glimpse of it, zrrt!")
-		story_flags[521 0x0209] = true;
-		story_flags[498 0x01F2] = true;
+		story_flags[521 /* us: 805A9B15 0x04, jp: 805ACD95 0x04 */] = true;
+		story_flags[498 /* us: 805A9B12 0x01, jp: 805ACD92 0x01 */] = true;
 	  case 1:
 		printf("So my ship wasn't at the Pirate\nStronghold either, vrrm#####.#####.#####.\n\n\nWhat's that, bzzt? You found a clue?\n\n\n\n######You know the place, vrrm? Something\ncalled #####dowsing#####, phweeep? Wow, that's\namazing, brrzrrt!")
 		goto flw_99
@@ -336,8 +336,8 @@ void entrypoint_402_41() {
 	printf("That is the ship containing Nayru's\nFlame. There is a 90% chance that the\nsynthetic life-forms assembled here\nare the crew.")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 175), ('param3', 39)])
 	printf("This image would indicate that the\nship's captain spent many happy days\namong his many crew members.")
-	story_flags[738 0x02E2] = true;
-	story_flags[739 0x02E3] = true;
+	story_flags[738 /* us: 805A9B26 0x04, jp: 805ACDA6 0x04 */] = true;
+	story_flags[739 /* us: 805A9B26 0x08, jp: 805ACDA6 0x08 */] = true;
 }
 
 void entrypoint_402_59() {
@@ -389,18 +389,18 @@ void entrypoint_402_44() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 229), ('param3', 39)])
 	printf("######I recommend waiting until after you\nhave achieved your objective before\ntaking a rest. First we need to find the\nsea chart.")
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 235), ('param3', 36)])
-	story_flags[738 0x02E2] = true;
+	story_flags[738 /* us: 805A9B26 0x04, jp: 805ACDA6 0x04 */] = true;
 }
 
 void entrypoint_402_10() {
 	start()
-	switch (story_flags[270 0x010E]) {
+	switch (story_flags[270 /* us: 805A9AF8 0x01, jp: 805ACD78 0x01 */]) {
 	  case 0:
-		switch (story_flags[275 0x0113]) {
+		switch (story_flags[275 /* us: 805A9AF8 0x20, jp: 805ACD78 0x20 */]) {
 		  case 0:
-			switch (story_flags[200 0x00C8]) {
+			switch (story_flags[200 /* us: 805A9AEF 0x04, jp: 805ACD6F 0x04 */]) {
 			  case 0:
-				switch (story_flags[526 0x020E]) {
+				switch (story_flags[526 /* us: 805A9B14 0x08, jp: 805ACD94 0x08 */]) {
 				  case 0:
 					flw_275:
 					printf("I remember when my ship was finished\nbeing built here, vrrm. I was so happy.\nAh, the good old days, voo-weeet.#####.#####.")
@@ -415,14 +415,14 @@ void entrypoint_402_10() {
 						printf("######I see, phweep...")
 					}
 				  case 1:
-					switch (story_flags[848 0x0350]) {
+					switch (story_flags[848 /* us: 805A9B35 0x40, jp: 805ACDB5 0x40 */]) {
 					  case 0:
 						flw_288:
 						printf("You are looking for a dragon god,\nvrrm?\n\n\n######If it's #####Master Thunder Dragon #####you \nwant to meet, he's to the south of \n#####Lanayru Caves#####, bzzt. I don't know any \nother dragon gods, though, brrzrrt.")
 						goto flw_67
 					  case 1:
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 303), ('param3', 31)])
-						story_flags[848 0x0350] = true;
+						story_flags[848 /* us: 805A9B35 0x40, jp: 805ACDB5 0x40 */] = true;
 						goto flw_288
 					}
 				}
@@ -430,12 +430,12 @@ void entrypoint_402_10() {
 				goto flw_275
 			}
 		  case 1:
-			switch (story_flags[497 0x01F1]) {
+			switch (story_flags[497 /* us: 805A9B13 0x80, jp: 805ACD93 0x80 */]) {
 			  case 0:
 				printf("Prepare yourself, brrzrrt! We're\nheading to the #####Pirate Stronghold#####,\nphweep!")
 				goto flw_67
 			  case 1:
-				story_flags[497 0x01F1] = true;
+				story_flags[497 /* us: 805A9B13 0x80, jp: 805ACD93 0x80 */] = true;
 				printf("######So my ship wasn't here, zrrt?\nThen there is only one place left for us\nto look for clues, vrrm#####.#####.#####.\n\n######Brrzrrt. This could be scary, but...\nwe have to head to the stronghold of\nthe pirates who stole my ship, phweep!\n\n######So let's not waste any time, vrrm!\n#####Let's go!#####Wait.")
 				goto flw_68
 			}
@@ -458,12 +458,12 @@ void entrypoint_402_45() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 0), ('next', 227), ('param3', 39)])
 	printf("I have detected a bug infestation in\nthe upper area of the house.")
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 236), ('param3', 36)])
-	story_flags[740 0x02E4] = true;
+	story_flags[740 /* us: 805A9B26 0x10, jp: 805ACDA6 0x10 */] = true;
 }
 
 void entrypoint_402_11() {
 	start()
-	switch (story_flags[269 0x010D]) {
+	switch (story_flags[269 /* us: 805A9AF9 0x80, jp: 805ACD79 0x80 */]) {
 	  case 0:
 		printf("#####dThat's the stronghold of those\nfearsome pirates, vweep!\n\n\nZrrrt! It's dangerous, so we should stay\nfar away for now. We need to go to the\n#####Shipyard #####first anyway, vrrm!")
 	  case 1:
@@ -488,8 +488,8 @@ void entrypoint_402_12() {
 	printf("I placed an ##### mark over on the \nisland where my house is, vrrm!\n\n\nThere's a #####pier##### on the island where we\ncan dock, brrzrrt!")
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 88), ('param3', 34)])
 	printf("######Right, let's go, vrrm!")
-	story_flags[499 0x01F3] = true;
-	scene_flags[8 'Lanayru Sand Sea'][30 0x1E] = true;
+	story_flags[499 /* us: 805A9B12 0x02, jp: 805ACD92 0x02 */] = true;
+	scene_flags[8 'Lanayru Sand Sea'][30 /* 0x2 40 */] = true;
 }
 
 void entrypoint_402_13() {
@@ -500,18 +500,18 @@ void entrypoint_402_13() {
 void entrypoint_402_30() {
 	start()
 	printf("######A report, Master. I calculate a 0%\nchance that searching further in this\nlocation will lead to the appearance\nof the ship.\nBecause of those substantially\nunfavorable odds, I suggest reporting\nto the ship's captain and leaving this\nisland.")
-	scene_flags[8 'Lanayru Sand Sea'][89 0x59] = true;
+	scene_flags[8 'Lanayru Sand Sea'][89 /* 0xA 02 */] = true;
 }
 
 void entrypoint_402_14() {
 	start()
-	switch (story_flags[275 0x0113]) {
+	switch (story_flags[275 /* us: 805A9AF8 0x20, jp: 805ACD78 0x20 */]) {
 	  case 0:
-		switch (story_flags[272 0x0110]) {
+		switch (story_flags[272 /* us: 805A9AF8 0x04, jp: 805ACD78 0x04 */]) {
 		  case 0:
-			switch (story_flags[200 0x00C8]) {
+			switch (story_flags[200 /* us: 805A9AEF 0x04, jp: 805ACD6F 0x04 */]) {
 			  case 0:
-				switch (story_flags[526 0x020E]) {
+				switch (story_flags[526 /* us: 805A9B14 0x08, jp: 805ACD94 0x08 */]) {
 				  case 0:
 					flw_277:
 					printf("Brrzrrrt... I still have nightmares\nabout the day the pirates took my ship,\nvrrm. I was so scared I was fused.#####.#####.")
@@ -526,14 +526,14 @@ void entrypoint_402_14() {
 						printf("######I see, phweep...")
 					}
 				  case 1:
-					switch (story_flags[848 0x0350]) {
+					switch (story_flags[848 /* us: 805A9B35 0x40, jp: 805ACDB5 0x40 */]) {
 					  case 0:
 						flw_291:
 						printf("You are looking for a dragon god,\nvrrm?\n\n\n######If it's #####Master Thunder Dragon #####you \nwant to meet, he's to the south of \n#####Lanayru Caves#####, bzzt. I don't know any \nother dragon gods, though, brrzrrt.")
 						goto flw_56
 					  case 1:
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 300), ('param3', 31)])
-						story_flags[848 0x0350] = true;
+						story_flags[848 /* us: 805A9B35 0x40, jp: 805ACDB5 0x40 */] = true;
 						goto flw_291
 					}
 				}
@@ -541,23 +541,23 @@ void entrypoint_402_14() {
 				goto flw_277
 			}
 		  case 1:
-			switch (story_flags[498 0x01F2]) {
+			switch (story_flags[498 /* us: 805A9B12 0x01, jp: 805ACD92 0x01 */]) {
 			  case 0:
 				printf("We need to hurry up, vweeeet, and look\nfor my ship!")
 				goto flw_56
 			  case 1:
 				printf("So my ship wasn't here either, vrrm#####.#####.#####.\n\n\n\nZrrt? Vweeeeet? You found a clue?\n\n\n\n######You know the place? Some kind of\nthing called #####dowsing#####, vrrm?\nThat's amazing, phoo-weep!\n\n######This time we'll definitely find my ship,\nvoo-whooot!\n\n\n######Ready to set sail, vweep?\n#####To sea!#####Not yet.")
-				story_flags[498 0x01F2] = true;
+				story_flags[498 /* us: 805A9B12 0x01, jp: 805ACD92 0x01 */] = true;
 				goto flw_57
 			}
 		}
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 76), ('param3', 6), ('param4', 2), ('param5', 33)])) {
+		switch (scene_flags[76 /* 0x8 10 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 88), ('param3', 6), ('param4', 2), ('param5', 35)])) {
+			switch (scene_flags[88 /* 0xA 01 */]) {
 			  case 0:
 				printf("######There's something at the bridge inside\nthe mouth, vweep!\n\n\nCould be a clue to my ship, zrrt!\nI'm just going to have a look, brzzt!")
-				scene_flags[-1 'Skyloft: Silent Realm'][88 0x58] = true;
+				scene_flags[-1 'Skyloft: Silent Realm'][88 /* 0xA 01 */] = true;
 				flw_194:
 				printf("######Or do you want to head back out to sea,\nvrrm?\n#####To sea.#####Never mind.")
 				goto flw_57
@@ -584,8 +584,8 @@ void entrypoint_402_15() {
 	printf("My shack is at the very top, vrrm!")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', 157), ('param3', 39)])
 	printf("######The ###########sea chart #####we need is in my shack,\nzrrt. But you're the one who will have\nto go get it, bzzt!\n\nThere are more monsters about than\nbefore, so be careful, vweep!\n\n\n######I can't wander far from the boat,\nso I'll just stay here, vrrm.")
-	story_flags[278 0x0116] = true;
-	scene_flags[8 'Lanayru Sand Sea'][45 0x2D] = true;
+	story_flags[278 /* us: 805A9AFB 0x01, jp: 805ACD7B 0x01 */] = true;
+	scene_flags[8 'Lanayru Sand Sea'][45 /* 0x4 20 */] = true;
 }
 
 void entrypoint_402_16() {
@@ -604,8 +604,8 @@ void entrypoint_402_16() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 163), ('param3', 54)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 0), ('next', 141), ('param3', 39)])
 	printf("######You should head to the station first.\nI'll wait here, phoo-weep!")
-	story_flags[279 0x0117] = true;
-	scene_flags[8 'Lanayru Sand Sea'][46 0x2E] = true;
+	story_flags[279 /* us: 805A9AFB 0x02, jp: 805ACD7B 0x02 */] = true;
+	scene_flags[8 'Lanayru Sand Sea'][46 /* 0x4 40 */] = true;
 }
 
 void entrypoint_402_50() {

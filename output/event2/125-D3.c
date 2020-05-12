@@ -31,12 +31,12 @@ void entrypoint_125_07() {
 	printf("The symbol visible on the floor here is\nthe #####mark of Din#####.\n\n\nI detect the sacred power of the\n#####Triforce##### emanating from its vicinity.")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 32), ('param3', 39)])
 	printf("Unfortunately, there seems to be no\nway to reach the mark from your\ncurrent position.\n\nI recommend you find another\nentrance into this chamber.")
-	scene_flags[20 'Skyloft: Sky Keep'][122 0x7A] = true;
+	scene_flags[20 'Skyloft: Sky Keep'][122 /* 0xE 04 */] = true;
 }
 
 void entrypoint_125_08() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 122), ('param3', 6), ('param4', 2), ('param5', 2)])) {
+	switch (scene_flags[122 /* 0xE 04 */]) {
 	  case 0:
 		printf("######Master, I have information for you.\nThe chamber you stand in now is the\nsame one where you previously spotted\nthe #####mark of Din#####.")
 		flw_39:
@@ -75,13 +75,13 @@ void entrypoint_125_01() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 53), ('param3', 16)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', 1), ('param3', 6)])
 	printf("######Master, I have information to report.\nI've detected three sources of sacred\npower within this building. This power\nclearly radiates from the ###########Triforce#####.\nI've triangulated the three sources of\npower and marked them on your map\nas #.")
-	scene_flags[20 'Skyloft: Sky Keep'][29 0x1D] = true;
+	scene_flags[20 'Skyloft: Sky Keep'][29 /* 0x2 20 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 36)])
 }
 
 void entrypoint_125_03() {
 	start()
-	switch (story_flags[685 0x02AD]) {
+	switch (story_flags[685 /* us: 805A9B21 0x04, jp: 805ACDA1 0x04 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 0), ('param2', 0), ('next', 9), ('param3', 30)])
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 34)])
@@ -89,13 +89,13 @@ void entrypoint_125_03() {
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 100), ('param2', 3), ('next', 3), ('param3', 17)])
 		printf("######Master, I have new information for\nyou. Analysis indicates that the shaking\nyou felt just now was caused by a\n#####################change in the building's structure#####.")
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 0), ('param2', 0), ('next', 55), ('param3', 30)])
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 13), ('param3', 6), ('param4', 2), ('param5', 4)])) {
+		switch (scene_flags[13 /* 0x0 20 */]) {
 		  case 0:
 			printf("Now that the building's structure has\nbeen altered, it appears you can\nenter the adjacent room.")
 			flw_5:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 11), ('param3', 34)])
 			printf("I propose you use this #####control panel##### to\nmove through the structure and collect\nthe components of the #####Triforce#####.")
-			story_flags[685 0x02AD] = true;
+			story_flags[685 /* us: 805A9B21 0x04, jp: 805ACDA1 0x04 */] = true;
 		  case 1:
 			printf("By altering the internal structure of\nthis building, you will be able to gain\naccess to other chambers.")
 			goto flw_5

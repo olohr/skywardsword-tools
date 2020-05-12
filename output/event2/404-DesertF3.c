@@ -1,6 +1,6 @@
 void entrypoint_404_03() {
 	start()
-	switch (story_flags[21 0x0015]) {
+	switch (story_flags[21 /* us: 805A9ADB 0x20, jp: 805ACD5B 0x20 */]) {
 	  case 0:
 		printf("I love the view from here, vweep.")
 	  case 1:
@@ -12,7 +12,7 @@ void entrypoint_404_03() {
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 497), ('param2', 1), ('next', 31), ('param3', 23)])
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 10)])) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 23), ('param3', 6), ('param4', 2), ('param5', 46)])) {
+				switch (scene_flags[23 /* 0x3 80 */]) {
 				  case 0:
 					printf("######I don't think there's any way that\nseedling would ever mature if you\nplanted it in the #####Lanayru area#####, vrrm...\n\n######We need your help, brrzrrt! ######Master\nThunder Dragon needs the #####fruit from\nthe Tree of Life #####to regain his strength!")
 				  case 1:
@@ -22,8 +22,8 @@ void entrypoint_404_03() {
 					  case 0:
 						printf("######Really, vrrm?! Thank you, zrrt!\nMake sure you plant the seedling\nsomewhere it will be sure to thrive,\nphoo-weep.\n######I fear growing the seedling to maturity\nin #####Lanayru Province is impossible#####,######\nbrrzrrt. We're counting on you, vweep!")
 						flw_72:
-						scene_flags[9 'Lanayru Gorge'][11 0x0B] = true;
-						scene_flags[9 'Lanayru Gorge'][23 0x17] = true;
+						scene_flags[9 'Lanayru Gorge'][11 /* 0x0 08 */] = true;
+						scene_flags[9 'Lanayru Gorge'][23 /* 0x3 80 */] = true;
 					  case 1:
 						printf("######Well, since you uprooted it, it's your\nresponsibility now, vrrm! Make sure\nyou plant that seedling where it can\ngrow to maturity, phoo-weep.\n######And that means taking it somewhere\n#####outside of the Lanayru area#####, bzzt!######\nWe're all counting on you, vweep!")
 						goto flw_72
@@ -38,14 +38,14 @@ void entrypoint_404_03() {
 
 void entrypoint_404_55() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 107), ('param3', 6), ('param4', 2), ('param5', 44)])) {
+	switch (scene_flags[107 /* 0xC 08 */]) {
 	  case 0:
-		switch (story_flags[525 0x020D]) {
+		switch (story_flags[525 /* us: 805A9B14 0x04, jp: 805ACD94 0x04 */]) {
 		  case 0:
 			printf("######You have certainly proved your passion\nfor digging, my friend! If you find\nout anything about the legend of the\nthree dragons, be sure to let me know.")
 			flw_99:
-			scene_flags[9 'Lanayru Gorge'][107 0x6B] = true;
-			scene_flags[9 'Lanayru Gorge'][108 0x6C] = true;
+			scene_flags[9 'Lanayru Gorge'][107 /* 0xC 08 */] = true;
+			scene_flags[9 'Lanayru Gorge'][108 /* 0xC 10 */] = true;
 		  case 1:
 			printf("######Is there anything else I can help you\nwith? If you find out anything about\nthe legend of the three dragons,\nbe sure to let me know!")
 			goto flw_99
@@ -68,26 +68,26 @@ void entrypoint_404_04() {
 
 void entrypoint_404_56() {
 	start()
-	switch (story_flags[526 0x020E]) {
+	switch (story_flags[526 /* us: 805A9B14 0x08, jp: 805ACD94 0x08 */]) {
 	  case 0:
 		printf("######You made it to the dragon's home,\n####?####T\n\n\n###########I am so jealous!####Z\n\n\n\n###########You beat me to the punch!")
 		flw_154:
-		scene_flags[9 'Lanayru Gorge'][36 0x24] = true;
+		scene_flags[9 'Lanayru Gorge'][36 /* 0x5 10 */] = true;
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 35), ('param3', 6), ('param4', 2), ('param5', 66)])) {
+		switch (scene_flags[35 /* 0x5 08 */]) {
 		  case 0:
 			printf("######I was able to dig a tunnel to the place\nwhere the #####Thunder Dragon##### lives, but...####-\n###########It is too narrow for me to go through.\n###########What am I going to do?")
 			goto flw_154
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 144), ('param3', 31)])
-			switch (story_flags[525 0x020D]) {
+			switch (story_flags[525 /* us: 805A9B14 0x04, jp: 805ACD94 0x04 */]) {
 			  case 0:
 				printf("######Nice to see you, ####.\n\n\n\nSay, you ever find that #####sacred flame#####\nyou were looking for? Really?\nYou did?! Great! I was pretty curious\nabout it, so spill all the details!\n######.#####.#####.#####I see. So after all that adventuring,\nyou finally found it! \n\n\n########, I have to say... \nYou are pretty amazing!")
 				printf("######You are not the only one! I found \nout some more about the legend of the\nthree dragons. This news is going to\nblow your mind!\n...I have found out that there is indeed\na hidden area beyond here! There is a\n#####narrow path##### ######that I cannot fit through\nwithout losing a few pounds!\n######My theory is that it probably links to\nthe home of the #####Thunder Dragon#####, one\nof the three dragons in the legend.\n\n######And I am convinced that these robots\nmust have something to do with it as\nwell.#####\n\n###########The #####Thunder Dragon#####, a bunch of\nrobots, and Timeshift Stones#####.#####.#####.\n\n\n###########What a story!")
 				printf("######Oh, I almost forgot, ####!\nDo you remember that excavation\nproject you invested in?#####\n\nWell, we hit the jackpot! I found a\nlarge cache of Timeshift Stones.\n######I can pay you back tenfold now!")
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 100), ('next', 148), ('param3', 8)])
 				flw_148:
-				scene_flags[9 'Lanayru Gorge'][35 0x23] = true;
+				scene_flags[9 'Lanayru Gorge'][35 /* 0x5 08 */] = true;
 				goto flw_154
 			  case 1:
 				printf("######Nice to see you, ####.\n\n\n\nSay, you ever find that #####sacred flame#####\nyou were looking for? Really?\nYou did?! Great! I was pretty curious\nabout it, so spill all the details!\n######.#####.#####.#####I see. So after all that adventuring,\nyou finally found it! \n\n\n########, I have to say... \nYou are pretty amazing!")
@@ -100,7 +100,7 @@ void entrypoint_404_56() {
 
 void entrypoint_404_05() {
 	start()
-	switch (story_flags[21 0x0015]) {
+	switch (story_flags[21 /* us: 805A9ADB 0x20, jp: 805ACD5B 0x20 */]) {
 	  case 0:
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 63), ('param3', 9), ('param4', 2), ('param5', 60)])) {
 		  case 0:
@@ -119,9 +119,9 @@ void entrypoint_404_05() {
 			  case 0:
 				printf("######This area is only good for growing\ngrass and flowers, zrrt.##### ######If we can't find\na way to grow the seedling quickly...\n#####Our master will not make it, bzzt...")
 			  case 1:
-				switch (story_flags[524 0x020C]) {
+				switch (story_flags[524 /* us: 805A9B14 0x02, jp: 805ACD94 0x02 */]) {
 				  case 0:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 23), ('param3', 6), ('param4', 2), ('param5', 70)])) {
+					switch (scene_flags[23 /* 0x3 80 */]) {
 					  case 0:
 						printf("######Master Thunder Dragon's present\ncondition concerns me greatly, vwerp.\nFind him #####fruit from the Tree of Life#####,\nor his systems may fail...")
 					  case 1:
@@ -138,11 +138,11 @@ void entrypoint_404_05() {
 void entrypoint_404_57() {
 	start()
 	printf("######################Hey, over there! Is that you,\n####?\n\n\n##########Nice timing!##### I have been \nmeaning to look for you!#####\n\n\n##########Come over here for a minute!")
-	scene_flags[9 'Lanayru Gorge'][36 0x24] = true;
-	story_flags[829 0x033D] = true;
-	story_flags[169 0x00A9] = false;
-	story_flags[175 0x00AF] = true;
-	story_flags[823 0x0337] = true;
+	scene_flags[9 'Lanayru Gorge'][36 /* 0x5 10 */] = true;
+	story_flags[829 /* us: 805A9B33 0x20, jp: 805ACDB3 0x20 */] = true;
+	story_flags[169 /* us: 805A9AE2 0x01, jp: 805ACD62 0x01 */] = false;
+	story_flags[175 /* us: 805A9AE2 0x40, jp: 805ACD62 0x40 */] = true;
+	story_flags[823 /* us: 805A9B30 0x80, jp: 805ACDB0 0x80 */] = true;
 }
 
 void entrypoint_404_06() {
@@ -176,7 +176,7 @@ void entrypoint_404_08() {
 
 void entrypoint_404_09() {
 	start()
-	switch (story_flags[21 0x0015]) {
+	switch (story_flags[21 /* us: 805A9ADB 0x20, jp: 805ACD5B 0x20 */]) {
 	  case 0:
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 63), ('param3', 9), ('param4', 2), ('param5', 58)])) {
 		  case 0:
@@ -195,7 +195,7 @@ void entrypoint_404_09() {
 			  case 0:
 				printf("######The #####Lanayru area##### is terrible for\ngrowing trees, zrrt.##### ######Do you know\nof a place where trees grow quickly,\nvweep?")
 			  case 1:
-				switch (story_flags[524 0x020C]) {
+				switch (story_flags[524 /* us: 805A9B14 0x02, jp: 805ACD94 0x02 */]) {
 				  case 0:
 					printf("On the other side of the bridge, we\nplanted a #####seedling from the Tree of\nLife#####, which is said to bear fruit that\ncan cure any illness, vrrm.#####\n######But trees don't grow so well around\nhere, vweep...")
 				  case 1:
@@ -208,27 +208,27 @@ void entrypoint_404_09() {
 
 void entrypoint_404_10() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 14), ('param3', 6), ('param4', 2), ('param5', 50)])) {
+	switch (scene_flags[14 /* 0x0 40 */]) {
 	  case 0:
 		printf("#####.#####.#####.")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 9), ('param3', 6), ('param4', 2), ('param5', 48)])) {
+		switch (scene_flags[9 /* 0x0 02 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 52)])) {
+			switch (scene_flags[26 /* 0x2 04 */]) {
 			  case 0:
 				printf("#####.#####.#####.")
 			  case 1:
 				printf("#####.#####.#####.")
-				scene_flags[9 'Lanayru Gorge'][26 0x1A] = true;
+				scene_flags[9 'Lanayru Gorge'][26 /* 0x2 04 */] = true;
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 18), ('param3', 6), ('param4', 2), ('param5', 38)])) {
+			switch (scene_flags[18 /* 0x3 04 */]) {
 			  case 0:
 				printf("#####.#####.#####.")
 			  case 1:
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 95), ('param3', 31)])
 				printf("#####.#####.#####.")
-				scene_flags[9 'Lanayru Gorge'][18 0x12] = true;
+				scene_flags[9 'Lanayru Gorge'][18 /* 0x3 04 */] = true;
 			}
 		}
 	}
@@ -237,18 +237,18 @@ void entrypoint_404_10() {
 void entrypoint_404_11() {
 	start()
 	printf("##############! I owe you my life!\nYou have to let me repay you.\n\n\n######Give me some time to prepare, and\nwhen you next return to visit me...\nI believe you will be mightily pleased!")
-	scene_flags[9 'Lanayru Gorge'][29 0x1D] = true;
+	scene_flags[9 'Lanayru Gorge'][29 /* 0x2 20 */] = true;
 }
 
 void entrypoint_404_30() {
 	start()
-	switch (story_flags[16 0x0010]) {
+	switch (story_flags[16 /* us: 805A9ADB 0x02, jp: 805ACD5B 0x02 */]) {
 	  case 0:
-		switch (story_flags[19 0x0013]) {
+		switch (story_flags[19 /* us: 805A9ADB 0x08, jp: 805ACD5B 0x08 */]) {
 		  case 0:
-			story_flags[20 0x0014] = true;
+			story_flags[20 /* us: 805A9ADB 0x10, jp: 805ACD5B 0x10 */] = true;
 			flw_79:
-			story_flags[21 0x0015] = true;
+			story_flags[21 /* us: 805A9ADB 0x20, jp: 805ACD5B 0x20 */] = true;
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 63), ('param2', 9), ('next', 122), ('param3', 28)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 4), ('next', -1), ('param3', 7)])
 		  case 1:
@@ -272,7 +272,7 @@ void entrypoint_404_32() {
 
 void entrypoint_404_50() {
 	start()
-	switch (story_flags[525 0x020D]) {
+	switch (story_flags[525 /* us: 805A9B14 0x04, jp: 805ACD94 0x04 */]) {
 	  case 0:
 		printf("######You have certainly proved your passion\nfor digging, my good friend! I will \nmake sure these funds are put to good\nuse, and I appreciate your patience.")
 	  case 1:
@@ -284,9 +284,9 @@ void entrypoint_404_50() {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -10), ('next', 66), ('param3', 8)])
 				printf("######Thanks! I will put these funds to good\nuse!")
-				story_flags[525 0x020D] = true;
+				story_flags[525 /* us: 805A9B14 0x04, jp: 805ACD94 0x04 */] = true;
 				flw_98:
-				scene_flags[9 'Lanayru Gorge'][106 0x6A] = true;
+				scene_flags[9 'Lanayru Gorge'][106 /* 0xC 04 */] = true;
 			  case 1:
 				printf("Little goro, it seems you do not have \nenough Rupees. Well, you could always \ncome back later to make a small \ninvestment. My research needs you!")
 				goto flw_98
@@ -323,31 +323,31 @@ void entrypoint_404_01() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 198), ('param2', 1), ('next', 89), ('param3', 23)])
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 36)])) {
 	  case 0:
-		story_flags[175 0x00AF] = false;
+		story_flags[175 /* us: 805A9AE2 0x40, jp: 805ACD62 0x40 */] = false;
 		changeScene(18, 0) // 
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 497), ('param2', 1), ('next', 41), ('param3', 23)])
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 16)])) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 22), ('param3', 6), ('param4', 2), ('param5', 42)])) {
+			switch (scene_flags[22 /* 0x3 40 */]) {
 			  case 0:
 				printf("What's that, ####?\nYou say you will find a place where\nthe seedling #####will ##########grow quickly #####for me?\n\n######That would be a great help... All I\nwould need to do is eat one piece of\n#####fruit from the Tree of Life##### to recover\nmy full strength.\n######But that seedling cannot be planted\njust anywhere. Look for a place with\n#####very rich soil#####.")
 			  case 1:
 				printf("######Hello there, ####.#####\nIt looks like you've found a #####seedling\nfrom the Tree of Life#####, haven't you?\n\nBut it's too late. I'm done for.#####\nI won't live long enough for the tree to\ngrow large and produce the fruit that\ncould save me.###### Cough...cough...\nIt's such a shame. If I had the strength,\nI could sing you as many songs as you\nwanted.##### ######Cough...cough...")
-				scene_flags[9 'Lanayru Gorge'][22 0x16] = true;
+				scene_flags[9 'Lanayru Gorge'][22 /* 0x3 40 */] = true;
 			}
 		  case 1:
-			switch (story_flags[794 0x031A]) {
+			switch (story_flags[794 /* us: 805A9B2F 0x04, jp: 805ACDAF 0x04 */]) {
 			  case 0:
 				printf("########... Please bring me\nthe #####fruit from the Tree of Life #####as soon\nas you...can.")
 			  case 1:
-				switch (story_flags[524 0x020C]) {
+				switch (story_flags[524 /* us: 805A9B14 0x02, jp: 805ACD94 0x02 */]) {
 				  case 0:
 					printf("The robots were worried about me, so\nthey planted a #####seedling from the Tree\nof Life#####. The fruit of this tree is said to\nbe able to cure any illness...\nThey planted the seedling over there.#####\nCough...########### ######But it just won't grow.#####\nCough...##########- ######I think this is the end for me.#####")
 				  case 1:
 					printf("################Cough...cough...#####\n\n\n\n######Oh, hello...##### I haven't had a visitor like\nyou here in...quite a while.\n\n\n######You're a human, aren't you? You must\nhave some reason for coming this far.\nWhat is it?\n\n#####.#####.#####.\n\n\n\n######I see. So you're ####\nfrom the sky... #####Cough...#####\nThat's not much of a name, is it?\n\n######How about I add a model number to\nyour name like my friends have got?\nMaybe #####LD-####-16#####.#####.#####.#####?\n\nOh. I can tell you don't like the sound\nof that.##### That's a shame...\n###########Cough...cough...\nSo, what can I do for you?\n######Ohh...##### You say you need me to teach\nyou a song? Cough...")
 					printf("######Hold on, now. Didn't you just say you\ncame from the sky, ####?\nSo then you're the hero chosen by the\ngoddess, aren't you?\nI see... Well, that is something...\n\n\n\n####\n#Although I must apologize. You see,\nI can't really help you.\n\n\n####\n#I may have enough strength for a brief\nchat like this, but... Well, as you can\nsee, I am quite ill.##### ######Cough...\n\n####\n#I'm in no shape to sing.\n\n\n\n######And to think it was the goddess herself\nwho entrusted me with this important\nduty... I feel the deepest shame...\nCough...")
-					story_flags[524 0x020C] = true;
+					story_flags[524 /* us: 805A9B14 0x02, jp: 805ACD94 0x02 */] = true;
 				}
 			}
 		}

@@ -1,14 +1,14 @@
 void entrypoint_122_01() {
 	start()
-	switch (story_flags[375 0x0177]) {
+	switch (story_flags[375 /* us: 805A9B02 0x20, jp: 805ACD82 0x20 */]) {
 	  case 0:
 		printf("With the fortune-teller back on the\njob, this place feels alive again. \nIt's just not the same without him.")
 	  case 1:
-		switch (story_flags[370 0x0172]) {
+		switch (story_flags[370 /* us: 805A9B02 0x01, jp: 805ACD82 0x01 */]) {
 		  case 0:
-			switch (story_flags[834 0x0342]) {
+			switch (story_flags[834 /* us: 805A9B32 0x04, jp: 805ACDB2 0x04 */]) {
 			  case 0:
-				switch (story_flags[371 0x0173]) {
+				switch (story_flags[371 /* us: 805A9B02 0x02, jp: 805ACD82 0x02 */]) {
 				  case 0:
 					printf("So the fortune-teller's at home with\na case of the blues, eh?\n\n\nI wonder if he'd come back if we found\nhim a new crystal ball...")
 				  case 1:
@@ -17,19 +17,19 @@ void entrypoint_122_01() {
 			  case 1:
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 127), ('param3', 31)])
 				printf("I haven't seen the #####fortune-teller #####much\nthese days...\n\n\nYou knew his crystal ball got broken,\nright? I just hope he's not sitting at\nhome kicking himself for not\nforeseeing this.")
-				switch (story_flags[371 0x0173]) {
+				switch (story_flags[371 /* us: 805A9B02 0x02, jp: 805ACD82 0x02 */]) {
 				  case 0:
 					printf("What?")
 					printf("So the fortune-teller's at home with\na case of the blues, eh?\n\n\nI wonder if he'd come back if we found\nhim a new crystal ball...")
 					flw_129:
-					story_flags[834 0x0342] = true;
+					story_flags[834 /* us: 805A9B32 0x04, jp: 805ACDB2 0x04 */] = true;
 				  case 1:
 					printf("Would you mind running over and\nchecking in on him?\n\n\nHis house is on the##### eastern edge #####of\nSkyloft.")
 					goto flw_129
 				}
 			}
 		  case 1:
-			switch (story_flags[5 0x0005]) {
+			switch (story_flags[5 /* us: 805A9AD9 0x40, jp: 805ACD59 0x40 */]) {
 			  case 0:
 				printf("Have you explored Skyloft at night?\nIt's a different place under the cover\nof darkness.\n\nFor example, if you go to the Gear \nShop owner's house at night, he'll buy \nyour treasures.\n\nNow it's true there are dangers to be\nfound at night, but a student at the\nKnight Academy should have no\ntrouble with that.\nAll you have to do is #####nap in a bed #####until\nnightfall.##### That's it!")
 			  case 1:
@@ -50,16 +50,16 @@ void entrypoint_122_19() {
 
 void entrypoint_122_02() {
 	start()
-	switch (story_flags[304 0x0130]) {
+	switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 	  case 0:
-		switch (story_flags[140 0x008C]) {
+		switch (story_flags[140 /* us: 805A9AE7 0x04, jp: 805ACD67 0x04 */]) {
 		  case 0:
-			switch (story_flags[550 0x0226]) {
+			switch (story_flags[550 /* us: 805A9B17 0x80, jp: 805ACD97 0x80 */]) {
 			  case 0:
 				printf("I've been hearing a weird rumor.\nApparently, after #####nightfall#####, people\nhave been hearing a woman sobbing\nin the##### dormitory#####.\nI tell you, it gives even a big guy like\nme the creeps.")
 				printf("Huh? A hand? Reaching out of the\nstall?\n\n\nThat...#####that's one way of going about\nit, I guess.")
 			  case 1:
-				switch (story_flags[546 0x0222]) {
+				switch (story_flags[546 /* us: 805A9B17 0x08, jp: 805ACD97 0x08 */]) {
 				  case 0:
 					printf("I've been hearing a weird rumor.\nApparently, after #####nightfall#####, people\nhave been hearing a woman sobbing\nin the##### dormitory#####.\nI tell you, it gives even a big guy like\nme the creeps.")
 					printf("What? #####Calling out for toilet paper\nwhile you're stuck in the restroom?\n\n\nYikes, that's rough. I should know--\nI've been there before.")
@@ -70,7 +70,7 @@ void entrypoint_122_02() {
 			}
 		  case 1:
 			flw_137:
-			switch (story_flags[5 0x0005]) {
+			switch (story_flags[5 /* us: 805A9AD9 0x40, jp: 805ACD59 0x40 */]) {
 			  case 0:
 				printf("Hi there! I hope you're pressing #####\nwhenever you need help.#####")
 			  case 1:
@@ -123,7 +123,7 @@ void entrypoint_122_05() {
 void entrypoint_122_22() {
 	start()
 	printf("######This is unbelievable... The goddess\nstatue is gone!\n\n\n######Would somebody please explain just\nwhat's going on here in Skyloft?")
-	switch (story_flags[304 0x0130]) {
+	switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 	  case 0:
 	  case 1:
 		printf("And my little girl, Kukiel, still hasn't\ncome home. I'm starting to get\nworried.\n\n######Would you please go and look for\nher, ####?")
@@ -132,7 +132,7 @@ void entrypoint_122_22() {
 
 void entrypoint_122_06() {
 	start()
-	switch (story_flags[323 0x0143]) {
+	switch (story_flags[323 /* us: 805A9AFF 0x02, jp: 805ACD7F 0x02 */]) {
 	  case 0:
 		printf("######Heyyy, kid! I hope you're putting ol'\nScrapper to good use.\n\n\nHe's got a bit of a mouth on him, but\nhe's a robot with a good heart. Well,\nif robots had hearts...\n\nJust remember to treat him kindly,\nand everything will work out fine!")
 	  case 1:
@@ -149,7 +149,7 @@ void entrypoint_122_07() {
 	start()
 	printf("#####VGood grief! Will you talk to that boy\nof mine for me?")
 	flw_85:
-	switch (story_flags[323 0x0143]) {
+	switch (story_flags[323 /* us: 805A9AFF 0x02, jp: 805ACD7F 0x02 */]) {
 	  case 0:
 		printf("I thought he would settle down a bit\nand maybe even wash his hands now\nthat he's got that robot up and running,\nbut he's still tinkering away!\nI'm telling you, that boy will never get\nthe grease out from beneath his\nfingernails. Ah...")
 	  case 1:
@@ -178,9 +178,9 @@ void entrypoint_122_08() {
 
 void entrypoint_122_25() {
 	start()
-	switch (story_flags[29 0x001D]) {
+	switch (story_flags[29 /* us: 805A9ADA 0x20, jp: 805ACD5A 0x20 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 45), ('param3', 6), ('param4', 2), ('param5', 18)])) {
+		switch (scene_flags[45 /* 0x4 20 */]) {
 		  case 0:
 			printf("######Hey! Shouldn't you rush off and look\nfor your bird? I think you should.")
 		  case 1:
@@ -193,7 +193,7 @@ void entrypoint_122_25() {
 
 void entrypoint_122_09() {
 	start()
-	switch (story_flags[36 0x0024]) {
+	switch (story_flags[36 /* us: 805A9ADD 0x10, jp: 805ACD5D 0x10 */]) {
 	  case 0:
 		printf("######Hi, ####. Have you seen\nKukiel anywhere?\n\n\nI swear that child can disappear in the\nblink of an eye! She's quite a magician.")
 	  case 1:
@@ -209,15 +209,15 @@ void entrypoint_122_26() {
 
 void entrypoint_122_27() {
 	start()
-	switch (story_flags[360 0x0168]) {
+	switch (story_flags[360 /* us: 805A9B00 0x40, jp: 805ACD80 0x40 */]) {
 	  case 0:
-		switch (story_flags[1116 0x045C]) {
+		switch (story_flags[1116 /* us: 805A9B57 0x04, jp: 805ACDD7 0x04 */]) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 118), ('param2', 12), ('next', -1), ('param3', 7)])
 		  case 1:
 			flw_102:
 			printf("######Hey, mister! Did you know the goddess\nis gone?\n\n\n######Do you think she got mad and left\n'cause I never listen to my mom\nand dad?")
-			story_flags[1116 0x045C] = true;
+			story_flags[1116 /* us: 805A9B57 0x04, jp: 805ACDD7 0x04 */] = true;
 		}
 	  case 1:
 		goto flw_102
@@ -247,25 +247,25 @@ void entrypoint_122_29() {
 
 void entrypoint_122_12() {
 	start()
-	switch (story_flags[360 0x0168]) {
+	switch (story_flags[360 /* us: 805A9B00 0x40, jp: 805ACD80 0x40 */]) {
 	  case 0:
 		printf("######Hey, ####! Have you\ntaken a look here recently?\n\n\nThere's not a Keese to be seen.\nNo other angry monsters either...\n\n\nBeen a while since I could take a quiet\nwalk out in the dark...")
 	  case 1:
-		switch (story_flags[326 0x0146]) {
+		switch (story_flags[326 /* us: 805A9AFF 0x10, jp: 805ACD7F 0x10 */]) {
 		  case 0:
 			flw_42:
 			printf("######I heard you're the one responsible\nfor finding Kukiel!\n\n\n######Thank you so much! Just look at her...\nShe puts her parents through all\nthat worry and heartache, and now\nshe's out like a light.")
 		  case 1:
-			switch (story_flags[304 0x0130]) {
+			switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 			  case 0:
-				switch (story_flags[329 0x0149]) {
+				switch (story_flags[329 /* us: 805A9AFF 0x80, jp: 805ACD7F 0x80 */]) {
 				  case 0:
 					goto flw_42
 				  case 1:
 					printf("######What? Are you serious? You found\nKukiel?\n\n\nWhat did I tell you? Nobody here in\nSkyloft would harm a hair on her head!")
 				}
 			  case 1:
-				switch (story_flags[303 0x012F]) {
+				switch (story_flags[303 /* us: 805A9AFC 0x02, jp: 805ACD7C 0x02 */]) {
 				  case 0:
 					printf("######I wonder where that little mischief\nmaker Kukiel's gone off to now.\n\n\nHer mom thinks she was kidnapped,\nbut I'm not so sure.\n\n\n######I mean, there's nobody here in Skyloft\nwho would do such a thing, right?\n\n\n######I bet she'll show up sooner or later.\n\n\n\nAnyway, keep your eyes peeled, and let\nus know right away if you see her.")
 				  case 1:
@@ -278,7 +278,7 @@ void entrypoint_122_12() {
 
 void entrypoint_122_13() {
 	start()
-	switch (story_flags[303 0x012F]) {
+	switch (story_flags[303 /* us: 805A9AFC 0x02, jp: 805ACD7C 0x02 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1), ('next', 60), ('param3', 31)])
 		printf("######I still can't find Kukiel!\n\n\n\nWould you please help me find her?\nJust...hurry!")
@@ -295,16 +295,16 @@ void entrypoint_122_30() {
 
 void entrypoint_122_14() {
 	start()
-	switch (story_flags[329 0x0149]) {
+	switch (story_flags[329 /* us: 805A9AFF 0x80, jp: 805ACD7F 0x80 */]) {
 	  case 0:
 		printf("######Hey, ####! Kukiel's come\nhome!\n\n\nI heard you were the one who found\nmy girl!\n\n\n######Thanks a lot! The missus is grinning\nfrom ear to ear.")
 	  case 1:
-		switch (story_flags[303 0x012F]) {
+		switch (story_flags[303 /* us: 805A9AFC 0x02, jp: 805ACD7C 0x02 */]) {
 		  case 0:
 			printf("######Oh, it's you, ####.\nLooks like Kukiel's run off again.\n\n\n######My wife's in hysterics. She's telling\nfolks our girl's been kidnapped.\n\n\n######But it's Kukiel we're talking about\nhere!####\n You can bet she's just off playing\nsomewhere.")
 			printf("######Let me know if you see her, OK?")
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 14), ('param3', 5), ('param4', 2), ('param5', 60)])) {
+			switch (loadzone_temp_flags[14 /* 0x8 40 */]) {
 			  case 0:
 				printf("######Hi, ####!\n\n\n\nThis is the##### Light Tower#####! You should try\nclimbing to the top. It is sooooo cool\nup there!")
 			  case 1:
@@ -326,7 +326,7 @@ void entrypoint_122_15() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 38), ('next', 46), ('param3', 32)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 39), ('next', 62), ('param3', 32)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 179), ('param3', 39)])
-	switch (story_flags[33 0x0021]) {
+	switch (story_flags[33 /* us: 805A9ADD 0x02, jp: 805ACD5D 0x02 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 37), ('param2', -1), ('next', 173), ('param3', 16)])
 		printf("######Did you hear the news? One of the\nstudents in the Wing Ceremony has\nlost his bird. It's gone missing!")
@@ -386,7 +386,7 @@ void entrypoint_122_16() {
 				printf("Let me give you some information you\nmight find useful somewhere down\nthe line.\n\nThe Knight Academy you and your\nfriends attend produces some\nfirst-class Loftwing riders.\n\nKeep your nose to the grindstone,\nand you might find yourself soaring\nthrough the skies and protecting the\ngood folk of Skyloft too.\nDon't know if you've met 'em or not,\nbut the rescue knights save anyone\nclumsy enough to fall off of Skyloft.\n\n######Only the Knight Academy's seniors are\ninvited to join that group. They're the\nbest of the best!\n\nYou might just have what it takes to\njoin them, but don't think it'll be easy.\nNo slacking, you hear!\n\n######Guess I should tell you my grandson's\none of 'em! Heh #####heh #####heh.")
 				goto flw_151
 			  case 3:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 85), ('param3', 6), ('param4', 2), ('param5', 50)])) {
+				switch (scene_flags[85 /* 0xB 20 */]) {
 				  case 0:
 					printf("Listen--here's a little information you\nmay find useful.\n\n\nAre you using those #####Stamina Potions\n#####they're selling over at the bazaar?\n\n\n######It's great stuff! Drink some of that,\nand your stamina gauge doesn't empty\nout so darn fast.\n\nAnd it's not just for running, either!\n\n\n\n######You can do spin attacks without getting\ntired so easily! I suggest you carry one\naround in case you tangle with\nsomething big and nasty.")
 					goto flw_151

@@ -5,6 +5,7 @@ import collections
 import os
 import re
 from util import *
+from storyflag import idx_to_story_flag
 
 cumulative_flags_set = [b'\x00'*0x10]*len(flagindex_names)
 
@@ -148,7 +149,16 @@ if __name__ == "__main__":
                 lines.append((itemId,indent,'start()'))
             elif item['type']=='switch':
                 if item['subType']==6 and item['param3'] == 3:
-                    lines.append((itemId,indent,'switch (story_flags[%d 0x%04X]) {'%(item['param2'],item['param2'])))
+                    lines.append((itemId,indent,'switch (story_flags[%d /* %s */]) {'%(item['param2'],idx_to_story_flag(item['param2']))))
+                elif item['subType']==6 and item['param3']==6:
+                    assert item['param4']==2
+                    lines.append((itemId,indent,'switch (scene_flags[%d /* %s */]) {'%(item['param2'],idx_to_scene_flag(item['param2']))))
+                elif item['subType']==6 and item['param3']==5:
+                    assert item['param4']==2
+                    lines.append((itemId,indent,'switch (loadzone_temp_flags[%d /* %s */]) {'%(item['param2'],idx_to_scene_flag(64+item['param2']))))
+                elif item['subType']==6 and item['param3']==19:
+                    assert item['param4']==2
+                    lines.append((itemId,indent,'switch (bottles[%d 0x%04X]) {'%(item['param2'],item['param2'])))
                 else:
                     lines.append((itemId,indent,'switch ('+str(item)+') {'))
                 for i in range(item['param4']):
@@ -160,14 +170,14 @@ if __name__ == "__main__":
                 string = re.sub(r'[^\x20-\x7e]','#', strings[msbt_line].replace('\n','\\n').replace('"','\\"'))
                 lines.append((itemId,indent,'printf("%s")'%string))
             elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==0:
-                lines.append((itemId,indent,"story_flags[%d 0x%04X] = true;"%(item['param2'],item['param2'])))
+                lines.append((itemId,indent,"story_flags[%d /* %s */] = true;"%(item['param2'],idx_to_story_flag(item['param2']))))
             elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==1:
-                lines.append((itemId,indent,"story_flags[%d 0x%04X] = false;"%(item['param2'],item['param2'])))
+                lines.append((itemId,indent,"story_flags[%d /* %s */] = false;"%(item['param2'],idx_to_story_flag(item['param2']))))
             elif item['type']=='type3' and item['subType']==1 and item['param3']==2:
-                lines.append((itemId,indent,"scene_flags[%d '%s'][%d 0x%02X] = true;"%(item['param2'],flagindex_names[item['param2']],item['param1'],item['param1'])))
+                lines.append((itemId,indent,"scene_flags[%d '%s'][%d /* %s */] = true;"%(item['param2'],flagindex_names[item['param2']],item['param1'],idx_to_scene_flag(item['param1']))))
                 cumulative_flags_set[item['param2']] = setBit(cumulative_flags_set[item['param2']],item['param1'])
             elif item['type']=='type3' and item['subType']==1 and item['param3']==3:
-                lines.append((itemId,indent,"scene_flags[%d '%s'][%d 0x%02X] = false;"%(item['param2'],flagindex_names[item['param2']],item['param1'],item['param1'])))
+                lines.append((itemId,indent,"scene_flags[%d '%s'][%d /* %s */] = false;"%(item['param2'],flagindex_names[item['param2']],item['param1'],idx_to_scene_flag(item['param1']))))
             elif item['type']=='type3' and item['subType']==1 and item['param3']==10:
                 scen = None
                 if '460' in fname:

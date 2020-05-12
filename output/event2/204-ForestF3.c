@@ -1,21 +1,21 @@
 void entrypoint_204_25() {
 	start()
-	switch (story_flags[18 0x0012]) {
+	switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 	  case 0:
 		printf("Hurry back! The #####Water Dragon #####is\nwaiting!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 36)])) {
+		switch (scene_flags[25 /* 0x2 02 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 56)])) {
+			switch (scene_flags[26 /* 0x2 04 */]) {
 			  case 0:
 				flw_116:
-				switch (story_flags[78 0x004E]) {
+				switch (story_flags[78 /* us: 805A9AE8 0x80, jp: 805ACD68 0x80 */]) {
 				  case 0:
 					flw_119:
 					printf("If you make those spiky things #####explode#####,\nyou're in for a world of hurt. They're\nlike bombs!")
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 118), ('param3', 31)])
-					story_flags[78 0x004E] = true;
+					story_flags[78 /* us: 805A9AE8 0x80, jp: 805ACD68 0x80 */] = true;
 					goto flw_119
 				}
 			  case 1:
@@ -29,22 +29,22 @@ void entrypoint_204_25() {
 
 void entrypoint_204_26() {
 	start()
-	switch (story_flags[18 0x0012]) {
+	switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 	  case 0:
 		printf("Hurry back! The #####Water Dragon #####is\nwaiting!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 74)])) {
+		switch (scene_flags[25 /* 0x2 02 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 76)])) {
+			switch (scene_flags[26 /* 0x2 04 */]) {
 			  case 0:
 				flw_138:
-				switch (story_flags[79 0x004F]) {
+				switch (story_flags[79 /* us: 805A9AEB 0x01, jp: 805ACD6B 0x01 */]) {
 				  case 0:
 					flw_141:
 					printf("Tadtones get along with everybody.\nYou can usually find them where\n#####other fish are swimming#####.")
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 140), ('param3', 31)])
-					story_flags[79 0x004F] = true;
+					story_flags[79 /* us: 805A9AEB 0x01, jp: 805ACD6B 0x01 */] = true;
 					goto flw_141
 				}
 			  case 1:
@@ -69,7 +69,7 @@ void entrypoint_204_27() {
 void entrypoint_204_10() {
 	start()
 	printf("######Oh, ####! \nYou've gathered all the Tadtones,\nhaven't you? That's no small feat! Or \nshould I say no small beat, kewwwww!\nAhem... Anyway, hurry and return to\nthe #####Water Dragon#####!")
-	story_flags[818 0x0332] = false;
+	story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = false;
 }
 
 void entrypoint_204_28() {
@@ -92,11 +92,11 @@ void entrypoint_204_30() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 23), ('param2', 0), ('next', 145), ('param3', 35)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 42), ('param3', 16)])
 	printf("Signs indicate this is a reference to\nyour #####dowsing##### ability.\n\n\nIt is a valid suggestion, ######Master. I am\nfamiliar with the unique aura\nsignatures of Tadtones.")
-	story_flags[81 0x0051] = true;
+	story_flags[81 /* us: 805A9AEB 0x04, jp: 805ACD6B 0x04 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 9), ('next', 53), ('param3', 56)])
 	printf("I will calibrate your ###########dowsing##### ability to\nlocate Tadtones. This capability should\nprove to be quite useful in your search.\n\nHowever, please note that you #####cannot\nuse your dowsing ability underwater#####.")
-	story_flags[818 0x0332] = true;
-	scene_flags[3 'Flooded Faron Woods'][20 0x14] = true;
+	story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = true;
+	scene_flags[3 'Flooded Faron Woods'][20 /* 0x3 10 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 36)])
 }
 
@@ -112,7 +112,7 @@ void entrypoint_204_31() {
 
 void entrypoint_204_14() {
 	start()
-	switch (story_flags[80 0x0050]) {
+	switch (story_flags[80 /* us: 805A9AEB 0x02, jp: 805ACD6B 0x02 */]) {
 	  case 0:
 		printf("")
 	  case 1:
@@ -122,22 +122,22 @@ void entrypoint_204_14() {
 
 void entrypoint_204_32() {
 	start()
-	switch (story_flags[18 0x0012]) {
+	switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 	  case 0:
 		printf("Hurry back! The #####Water Dragon #####is\nwaiting!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 114)])) {
+		switch (scene_flags[25 /* 0x2 02 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 116)])) {
+			switch (scene_flags[26 /* 0x2 04 */]) {
 			  case 0:
 				flw_191:
-				switch (story_flags[79 0x004F]) {
+				switch (story_flags[79 /* us: 805A9AEB 0x01, jp: 805ACD6B 0x01 */]) {
 				  case 0:
 					flw_194:
 					printf("Tadtones store oxygen in their bodies,\nso when you catch one, it will #####restore\nsome of your air#####.")
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 193), ('param3', 31)])
-					story_flags[79 0x004F] = true;
+					story_flags[79 /* us: 805A9AEB 0x01, jp: 805ACD6B 0x01 */] = true;
 					goto flw_194
 				}
 			  case 1:
@@ -151,15 +151,15 @@ void entrypoint_204_32() {
 
 void entrypoint_204_01() {
 	start()
-	switch (story_flags[80 0x0050]) {
+	switch (story_flags[80 /* us: 805A9AEB 0x02, jp: 805ACD6B 0x02 */]) {
 	  case 0:
-		switch (story_flags[18 0x0012]) {
+		switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 		  case 0:
 			printf("######Yeah, the forest's flooded, ka-roo, but\nI'm holding up! Give my best to the\n#####Water Dragon#####!")
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 86)])) {
+			switch (scene_flags[25 /* 0x2 02 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 88)])) {
+				switch (scene_flags[26 /* 0x2 04 */]) {
 				  case 0:
 					flw_123:
 					printf("######I'll teach you something useful.\nSome rocks will roll away if you\nattack them, kwi-koo!")
@@ -178,15 +178,15 @@ void entrypoint_204_01() {
 
 void entrypoint_204_02() {
 	start()
-	switch (story_flags[80 0x0050]) {
+	switch (story_flags[80 /* us: 805A9AEB 0x02, jp: 805ACD6B 0x02 */]) {
 	  case 0:
-		switch (story_flags[18 0x0012]) {
+		switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 		  case 0:
 			printf("######Oh, when will this water go away?!\nI can't swim, kik-kwoo!")
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 90)])) {
+			switch (scene_flags[25 /* 0x2 02 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 92)])) {
+				switch (scene_flags[26 /* 0x2 04 */]) {
 				  case 0:
 					printf("######I don't care if you go dowsing or\ndiving or what, kwi-koo. Just please\nfind those Tadtones!")
 				  case 1:
@@ -204,15 +204,15 @@ void entrypoint_204_02() {
 
 void entrypoint_204_03() {
 	start()
-	switch (story_flags[80 0x0050]) {
+	switch (story_flags[80 /* us: 805A9AEB 0x02, jp: 805ACD6B 0x02 */]) {
 	  case 0:
-		switch (story_flags[18 0x0012]) {
+		switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 		  case 0:
 			printf("######Yeah, the forest's flooded, karoo, but\nI'm holding up! Give my regards to the\n#####Water Dragon#####!")
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 94)])) {
+			switch (scene_flags[25 /* 0x2 02 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 96)])) {
+				switch (scene_flags[26 /* 0x2 04 */]) {
 				  case 0:
 					flw_131:
 					printf("######Kik-kwee! If you want to know more\nabout Tadtones, you should talk to the\nParella. They know all about them.\n#####Parella?#####I know.")
@@ -239,22 +239,22 @@ void entrypoint_204_03() {
 
 void entrypoint_204_20() {
 	start()
-	switch (story_flags[18 0x0012]) {
+	switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 	  case 0:
 		printf("Hurry back! The #####Water Dragon #####is\nwaiting!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 28)])) {
+		switch (scene_flags[25 /* 0x2 02 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 50)])) {
+			switch (scene_flags[26 /* 0x2 04 */]) {
 			  case 0:
 				flw_105:
-				switch (story_flags[74 0x004A]) {
+				switch (story_flags[74 /* us: 805A9AE8 0x08, jp: 805ACD68 0x08 */]) {
 				  case 0:
 					flw_31:
 					printf("You can catch those rogue #####Tadtones#####\nwith a #####spin#####! It will pull them toward\nyou so you can grab them.\n\nOh... #####But I guess you humans #####use up air\n#####when you do that, so don't go\noverboard!")
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 107), ('param3', 31)])
-					story_flags[74 0x004A] = true;
+					story_flags[74 /* us: 805A9AE8 0x08, jp: 805ACD68 0x08 */] = true;
 					goto flw_31
 				}
 			  case 1:
@@ -268,15 +268,15 @@ void entrypoint_204_20() {
 
 void entrypoint_204_04() {
 	start()
-	switch (story_flags[80 0x0050]) {
+	switch (story_flags[80 /* us: 805A9AEB 0x02, jp: 805ACD6B 0x02 */]) {
 	  case 0:
-		switch (story_flags[18 0x0012]) {
+		switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 		  case 0:
 			printf("######Hurry back to the #####Water Dragon#####, kwee!")
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 98)])) {
+			switch (scene_flags[25 /* 0x2 02 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 100)])) {
+				switch (scene_flags[26 /* 0x2 04 */]) {
 				  case 0:
 					printf("######Try dowsing, kwook, and find the\nTadtones!")
 				  case 1:
@@ -294,22 +294,22 @@ void entrypoint_204_04() {
 
 void entrypoint_204_21() {
 	start()
-	switch (story_flags[18 0x0012]) {
+	switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 	  case 0:
 		printf("Hurry back! The #####Water Dragon #####is\nwaiting!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 40)])) {
+		switch (scene_flags[25 /* 0x2 02 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 52)])) {
+			switch (scene_flags[26 /* 0x2 04 */]) {
 			  case 0:
 				flw_108:
-				switch (story_flags[75 0x004B]) {
+				switch (story_flags[75 /* us: 805A9AE8 0x10, jp: 805ACD68 0x10 */]) {
 				  case 0:
 					flw_111:
 					printf("The pretty bubbles are #####poisonous#####.\nBe careful! If you breathe one in,\nyou'll #####choke#####!")
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 110), ('param3', 31)])
-					story_flags[75 0x004B] = true;
+					story_flags[75 /* us: 805A9AE8 0x10, jp: 805ACD68 0x10 */] = true;
 					goto flw_111
 				}
 			  case 1:
@@ -323,28 +323,28 @@ void entrypoint_204_21() {
 
 void entrypoint_204_05() {
 	start()
-	switch (story_flags[80 0x0050]) {
+	switch (story_flags[80 /* us: 805A9AEB 0x02, jp: 805ACD6B 0x02 */]) {
 	  case 0:
-		switch (story_flags[18 0x0012]) {
+		switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 		  case 0:
 			printf("######Off you go, now! Hurry and return to\nthe #####Water Dragon#####!")
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 32)])) {
+			switch (scene_flags[26 /* 0x2 04 */]) {
 			  case 0:
 				printf("######Yes, yes! That's it! Dowsing! Use your\ndowsing ability, and you'll find the rest\nof those Tadtones in no time flat! ...Or\nis it sharp? Ahem...kewww...")
 			  case 1:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 30)])) {
+				switch (scene_flags[25 /* 0x2 02 */]) {
 				  case 0:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 52), ('param3', 31)])
 					printf("######Kewwww... How nice to see you again,\n####!\n\n\nHow goes the #####Tadtone##### gathering?\nI'd actually thought of something\nyou might be interested to know.\n\n######You see, it's like...hrmm... How\nshould I explain this, kewwww?\n\n\nThere was a technique you used when\nsearching for the others of my tribe,\nremember? That!\n\n######Use that thing you do, kewww, and\nyou'll have a much easier time getting\nthose Tadtones!")
-					scene_flags[3 'Flooded Faron Woods'][26 0x1A] = true;
+					scene_flags[3 'Flooded Faron Woods'][26 /* 0x2 04 */] = true;
 				  case 1:
 					printf("######Oh, ####.\n\n\n\n######What's this? The #####Water Dragon##### caused\nthis flood? So the old girl finally grew\nangry with all the monsters running\nabout the forest, kewwww?\n######...The woods won't be getting drier\nanytime soon, kewwww...")
 				}
 			}
 		}
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 27), ('param3', 6), ('param4', 2), ('param5', 106)])) {
+		switch (scene_flags[27 /* 0x2 08 */]) {
 		  case 0:
 			printf("######All of a sudden water came gushing\nfrom the #####base of the tree #####and flooded\nthe entire woods, kewwwww.\n\n######But, you know...I rather like it this\nway! Oh ho ho!")
 		  case 1:
@@ -355,7 +355,7 @@ void entrypoint_204_05() {
 				flw_162:
 				printf("######Kewwww, it's good to see you again!\nYes, things look a bit different here,\ndon't they?\n\n######The water came gushing out of the #####base\nof the tree##### behind me###### and flooded the\nentire woods.\n\n######I don't know what caused it,\nbut I suppose it will clear out the\nmonster infestation, kewww, so you\nwon't hear me complaining!")
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1), ('next', 165), ('param3', 6)])
-				scene_flags[3 'Flooded Faron Woods'][27 0x1B] = true;
+				scene_flags[3 'Flooded Faron Woods'][27 /* 0x2 08 */] = true;
 			  case 1:
 				goto flw_162
 			}
@@ -365,15 +365,15 @@ void entrypoint_204_05() {
 
 void entrypoint_204_22() {
 	start()
-	switch (story_flags[18 0x0012]) {
+	switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 	  case 0:
 		printf("Hurry back! The #####Water Dragon #####is\nwaiting!")
 	  case 1:
-		switch (story_flags[76 0x004C]) {
+		switch (story_flags[76 /* us: 805A9AE8 0x20, jp: 805ACD68 0x20 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 48)])) {
+			switch (scene_flags[25 /* 0x2 02 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 54)])) {
+				switch (scene_flags[26 /* 0x2 04 */]) {
 				  case 0:
 					flw_76:
 					printf("Some Tadtones hang out in groups.\nYou have to catch those similar\nTadtones #####one right after the other#####, or\nthey'll swim out of your score.\nIf you want to catch a bunch at once,\nuse a #####spin maneuver##### to #####draw in##### nearby\nTadtones. That's your best bet.")
@@ -389,7 +389,7 @@ void entrypoint_204_22() {
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 46)])) {
 			  case 0:
 				printf("I'll let you in on a secret, then.\n\n\n\nSome Tadtones hang out in groups.\nYou have to catch those similar\nTadtones #####one right after the other#####, or\nthey'll swim out of your score.\nIf you want to catch a bunch at once,\nuse a #####spin maneuver##### to #####draw in##### nearby\nTadtones. That's your best bet.\n\nAside from that...#####it's really just a\nmatter of keeping at it!")
-				story_flags[76 0x004C] = true;
+				story_flags[76 /* us: 805A9AE8 0x20, jp: 805ACD68 0x20 */] = true;
 			  case 1:
 				printf("Oh...sorry.")
 			}
@@ -399,16 +399,16 @@ void entrypoint_204_22() {
 
 void entrypoint_204_06() {
 	start()
-	switch (story_flags[18 0x0012]) {
+	switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 	  case 0:
-		story_flags[16 0x0010] = true;
-		story_flags[176 0x00B0] = false;
-		story_flags[55 0x0037] = false;
-		switch (story_flags[19 0x0013]) {
+		story_flags[16 /* us: 805A9ADB 0x02, jp: 805ACD5B 0x02 */] = true;
+		story_flags[176 /* us: 805A9AE2 0x80, jp: 805ACD62 0x80 */] = false;
+		story_flags[55 /* us: 805A9ADC 0x04, jp: 805ACD5C 0x04 */] = false;
+		switch (story_flags[19 /* us: 805A9ADB 0x08, jp: 805ACD5B 0x08 */]) {
 		  case 0:
-			switch (story_flags[21 0x0015]) {
+			switch (story_flags[21 /* us: 805A9ADB 0x20, jp: 805ACD5B 0x20 */]) {
 			  case 0:
-				story_flags[20 0x0014] = true;
+				story_flags[20 /* us: 805A9ADB 0x10, jp: 805ACD5B 0x10 */] = true;
 				flw_34:
 				changeScene(7, 0) // 
 			  case 1:
@@ -424,22 +424,22 @@ void entrypoint_204_06() {
 
 void entrypoint_204_23() {
 	start()
-	switch (story_flags[18 0x0012]) {
+	switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 	  case 0:
 		printf("Hurry back! The #####Water Dragon #####is\nwaiting!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 60)])) {
+		switch (scene_flags[25 /* 0x2 02 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 62)])) {
+			switch (scene_flags[26 /* 0x2 04 */]) {
 			  case 0:
 				flw_112:
-				switch (story_flags[77 0x004D]) {
+				switch (story_flags[77 /* us: 805A9AE8 0x40, jp: 805ACD68 0x40 */]) {
 				  case 0:
 					flw_115:
 					printf("If you don't collect Tadtones of the\nsame color #####one right after another#####,\nthey'll wriggle out of your score.\nBut don't work yourself into a panic!")
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 114), ('param3', 31)])
-					story_flags[77 0x004D] = true;
+					story_flags[77 /* us: 805A9AE8 0x40, jp: 805ACD68 0x40 */] = true;
 					goto flw_115
 				}
 			  case 1:
@@ -453,24 +453,24 @@ void entrypoint_204_23() {
 
 void entrypoint_204_24() {
 	start()
-	switch (story_flags[18 0x0012]) {
+	switch (story_flags[18 /* us: 805A9AD9 0x08, jp: 805ACD59 0x08 */]) {
 	  case 0:
 		printf("Hurry back! The #####Water Dragon #####is\nwaiting!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 25), ('param3', 6), ('param4', 2), ('param5', 66)])) {
+		switch (scene_flags[25 /* 0x2 02 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 68)])) {
+			switch (scene_flags[26 /* 0x2 04 */]) {
 			  case 0:
 				flw_96:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 24), ('param3', 6), ('param4', 2), ('param5', 70)])) {
+				switch (scene_flags[24 /* 0x2 01 */]) {
 				  case 0:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 70), ('param3', 6), ('param4', 2), ('param5', 120)])) {
+					switch (scene_flags[70 /* 0x9 40 */]) {
 					  case 0:
 						flw_98:
 						printf("The #####ferocious fish##### are baaaaack!\nSWIM FOR YOUR LIFE!\n\n\nThey can't follow you if you dive\n#####deep#####!")
 					  case 1:
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 197), ('param3', 31)])
-						scene_flags[3 'Flooded Faron Woods'][70 0x46] = true;
+						scene_flags[3 'Flooded Faron Woods'][70 /* 0x9 40 */] = true;
 						goto flw_98
 					}
 				  case 1:

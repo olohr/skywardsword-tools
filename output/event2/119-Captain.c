@@ -1,6 +1,6 @@
 void entrypoint_119_10() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 4), ('param3', 5), ('param4', 2), ('param5', 41)])) {
+	switch (loadzone_temp_flags[4 /* 0x9 10 */]) {
 	  case 0:
 		printf("###########Good one!")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 125), ('param3', 39)])
@@ -31,15 +31,15 @@ void entrypoint_119_13() {
 
 void entrypoint_119_01() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 5), ('param4', 2), ('param5', 37)])) {
+	switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
 	  case 0:
 		printf("######Send my regards to the owner of\nthe Lumpy Pumpkin!")
 	  case 1:
-		switch (story_flags[292 0x0124]) {
+		switch (story_flags[292 /* us: 805A9AFA 0x40, jp: 805ACD7A 0x40 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 19), ('param4', 2), ('param5', 31)])) {
+			switch (bottles[2 0x0002]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 5), ('param4', 2), ('param5', 35)])) {
+				switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 				  case 0:
 					flw_57:
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 119), ('param2', 3), ('next', -1), ('param3', 7)])
@@ -77,9 +77,9 @@ void entrypoint_119_01() {
 				goto flw_57
 			}
 		  case 1:
-			switch (story_flags[291 0x0123]) {
+			switch (story_flags[291 /* us: 805A9AFA 0x20, jp: 805ACD7A 0x20 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 19), ('param4', 2), ('param5', 17)])) {
+				switch (bottles[2 0x0002]) {
 				  case 0:
 					printf("######Hey! ########! Have you been\nworking hard on your swordsmanship?\n\n\n######Hmm? I smell something...\n\n\n\n######I know that earthy aroma! Isn't that\nmy favorite #####pumpkin soup#####?!\n\n\n######I asked the owner of the Lumpy\nPumpkin to bring me some, but...\n\n\nYou went out of your way to deliver\nsome to me?!\n#####That's right!#####Uh, no...")
 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 23)])) {
@@ -104,7 +104,7 @@ void entrypoint_119_01() {
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 12), ('param2', 0), ('next', 152), ('param3', 39)])
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 10), ('next', 140), ('param3', 48)])
 							printf("######Well done! Say thanks to the owner\nfor me!")
-							story_flags[292 0x0124] = true;
+							story_flags[292 /* us: 805A9AFA 0x40, jp: 805ACD7A 0x40 */] = true;
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 153), ('param3', 4)])
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 						  case 1:
@@ -114,7 +114,7 @@ void entrypoint_119_01() {
 						printf("######Huh... I told Pumm to bring some\nright away, so what is he doing?\n######You do not want to be around me when\nI don't get my daily pumpkin soup.")
 					}
 				  case 1:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 3), ('param3', 19), ('param4', 2), ('param5', 19)])) {
+					switch (bottles[3 0x0003]) {
 					  case 0:
 						printf("######Hey! ########! Have you been\nworking hard on your swordsmanship?\n\n\n######Hmm? I smell something...\n\n\n\n######I know that earthy aroma! Isn't that\nmy favorite #####pumpkin soup#####?!\n\n\n######I asked the owner of the Lumpy\nPumpkin to bring me some, but...\n\n\nYou went out of your way to deliver\nsome to me?!\n#####That's right!#####Uh, no...")
 						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 21)])) {
@@ -169,15 +169,15 @@ void entrypoint_119_02() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 100), ('param2', 11), ('next', 26), ('param3', 17)])
 	printf("######What? ####(Your Loftwing is missing?\n####(You want to go look for it?\n\n\nWell I guess I could make an exception\njust this once. ######But remember that\nSkyloft is a peaceful place. Only\nknights carry swords!\nSo I don't want to see you swinging\nit around like crazy out there!\nI don't want to get in a ton of trouble\nover this, so here's the deal...\nMake sure you get plenty of practice\non these logs first, and once you get\noutside with that sword, only use it\nwhen you absolutely have to, got it?")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 27), ('param3', 42)])
-	story_flags[199 0x00C7] = true;
-	scene_flags[0 'Skyloft'][56 0x38] = true;
+	story_flags[199 /* us: 805A9AEF 0x02, jp: 805ACD6F 0x02 */] = true;
+	scene_flags[0 'Skyloft'][56 /* 0x6 01 */] = true;
 }
 
 void entrypoint_119_03() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 9), ('param3', 19), ('param4', 2), ('param5', 8)])) {
+	switch (bottles[9 0x0009]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 60), ('param3', 6), ('param4', 2), ('param5', 43)])) {
+		switch (scene_flags[60 /* 0x6 10 */]) {
 		  case 0:
 			printf("######Oh? Ready to talk more about the\n#####secrets of defense#####?\n#####Practical stuff.#####Basics!#####No, thanks.")
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 10)])) {
@@ -192,13 +192,13 @@ void entrypoint_119_03() {
 				printf("######I see... Well, trying it out for yourself\nis the best way to learn. Why don't\nyou practice on that defense log?")
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 59), ('param3', 6), ('param4', 2), ('param5', 13)])) {
+			switch (scene_flags[59 /* 0x6 08 */]) {
 			  case 0:
 				printf("######Impressive, ####! That's\na nice shield you have there.\n######Well then, it's time I taught you the\n#####art of defense#####!\nWe'll start with #####basic training#####!")
 				flw_15:
 				printf("###########Give your Nunchuk a shake #####to take\nyour #####shield##### out. Simple stuff, I know,\nbut you need to review the basics!\n\n######To lower your shield, #####swing your sword\nwith the Wii Remote#####, or press ##### to put\nyour sword and shield away entirely.\n\n######Just be careful when trying to attack\nwhile on the defensive. Every time you \n#####swing your sword#####, you move your shield\nout of the way, #####lowering your guard#####!")
 				printf("######Why don't you try that first!")
-				scene_flags[0 'Skyloft'][60 0x3C] = true;
+				scene_flags[0 'Skyloft'][60 /* 0x6 10 */] = true;
 			  case 1:
 				printf("##############... The headmaster\ntold me about Zelda. Poor girl...\nI'm worried about her...\n\nNow, I don't know all the details of\nwhat's going on here...\n\n\nBut that sword you're carrying isn't\nfrom Skyloft. It's an #####ancient artifact#####\nthat can only be carried by the chosen\none.\nAnd since you happen to be the one\ncarrying it, I guess I can figure out\na lot of the rest of this crazy story...")
 				printf("######You know, ####...\nI just wish there was more I could do\nfor you...\n\nBut I can offer this as a parting gift...\n######Get ready to learn some new moves!\nIt's time to learn the #####secrets of\ndefense#####.\n######First, we should start with the #####basics#####!")
@@ -206,17 +206,17 @@ void entrypoint_119_03() {
 			}
 		}
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 59), ('param3', 6), ('param4', 2), ('param5', 6)])) {
+		switch (scene_flags[59 /* 0x6 08 */]) {
 		  case 0:
 			printf("######The art of the shield is the art of\ndefense. You don't have a chance of\nwinning a battle if your attack and\ndefense aren't balanced.\n######You can get a #####shield #####at the##### bazaar#####.\nAlways practice with a shield in your\nhand. It will lead you to the way of\nthe sword!\n######I'm telling you all this for your\nbenefit, so pay attention!")
 		  case 1:
-			switch (story_flags[30 0x001E]) {
+			switch (story_flags[30 /* us: 805A9ADA 0x40, jp: 805ACD5A 0x40 */]) {
 			  case 0:
 				printf("##############... The headmaster\ntold me about Zelda. Poor girl...\nI'm worried about her...\n\nNow, I don't know all the details of\nwhat's going on here...\n\n\nBut that sword you're carrying isn't\nfrom Skyloft. It's an #####ancient artifact#####\nthat can only be carried by the chosen\none.\nAnd since you happen to be the one\ncarrying it, I guess I can figure out\na lot of the rest of this crazy story...")
 				printf("######I wish there was something else I could\ndo for you, ####...\nWait, maybe there is... Yes! Get a\n#####shield #####and come back here!\n######Then I'll be able to teach you the\n#####secrets of defense#####! It's the least\nI can do for you.")
-				scene_flags[0 'Skyloft'][59 0x3B] = true;
+				scene_flags[0 'Skyloft'][59 /* 0x6 08 */] = true;
 			  case 1:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 6), ('param4', 2), ('param5', 2)])) {
+				switch (scene_flags[2 /* 0x1 04 */]) {
 				  case 0:
 					printf("######Oh yeah? You want to learn about how\nto use a sword?\n#####Yes, please. #####No, thanks.")
 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
@@ -258,11 +258,11 @@ void entrypoint_119_07() {
 
 void entrypoint_119_08() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 19), ('param4', 2), ('param5', 45)])) {
+	switch (bottles[0 0x0000]) {
 	  case 0:
 		printf("######That log is used to practice defense.\n\n\n\n######Hit the log with your sword, and then\n#####sharply move the Nunchuk forward #####to\nexecute a #####shield bash #####when it swings\nback at you.")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 9), ('param3', 19), ('param4', 2), ('param5', 39)])) {
+		switch (bottles[9 0x0009]) {
 		  case 0:
 			printf("######That log is used to practice #####defense#####.\nYou don't have a #####shield##### equipped,\nthough, so don't mess with it, or it'll\nsend you flying!")
 		  case 1:

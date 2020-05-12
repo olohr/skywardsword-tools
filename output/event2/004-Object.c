@@ -5,7 +5,7 @@ void entrypoint_004_106() {
 
 void entrypoint_004_107() {
 	start()
-	switch (story_flags[19 0x0013]) {
+	switch (story_flags[19 /* us: 805A9ADB 0x08, jp: 805ACD5B 0x08 */]) {
 	  case 0:
 		printf("Deep underground, below this volcano,\nyou'll find treasure-loving #####Mogmas#####.\n\n\nThese days, most of them are content\nwith staying down in their lair, where\nthey do nothing but relax all day.")
 	  case 1:
@@ -37,7 +37,7 @@ void entrypoint_004_014() {
 
 void entrypoint_004_108() {
 	start()
-	switch (story_flags[19 0x0013]) {
+	switch (story_flags[19 /* us: 805A9ADB 0x08, jp: 805ACD5B 0x08 */]) {
 	  case 0:
 		printf("I hear the #####dragon##### that lives at the\ntop of the volcano is awfully chatty.\n\n\nSo chatty, they say, that he's even\nwilling to talk about matters outside\nhis own realm!")
 	  case 1:
@@ -109,12 +109,12 @@ void entrypoint_004_112() {
 
 void entrypoint_004_019() {
 	start()
-	switch (story_flags[843 0x034B]) {
+	switch (story_flags[843 /* us: 805A9B35 0x04, jp: 805ACDB5 0x04 */]) {
 	  case 0:
 		printf("Point to your preferred descent area\nwith #####, and confirm your destination\nby pressing #####.")
 	  case 1:
 		printf("A report, ######Master.\n\n\n\nIt is possible to descend to a specific\n#####bird statue##### on ######the surface after you\nhave already visited it and I have\nmemorized its location.\nTo do this, point to the area you want\nto descend to with ##### and press #####\nto confirm your destination.")
-		story_flags[843 0x034B] = true;
+		story_flags[843 /* us: 805A9B35 0x04, jp: 805ACDB5 0x04 */] = true;
 	}
 }
 
@@ -156,7 +156,7 @@ void entrypoint_004_116() {
 void entrypoint_004_117() {
 	start()
 	printf("Rumor has it there's a #####Piece of Heart\n#####hidden somewhere nearby.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 104), ('param3', 6), ('param4', 2), ('param5', 21)])) {
+	switch (scene_flags[104 /* 0xC 01 */]) {
 	  case 0:
 		printf("Oh, but since you've already picked it\nup, this obviously doesn't come as a\nbig surprise to you. Hmph.")
 	  case 1:

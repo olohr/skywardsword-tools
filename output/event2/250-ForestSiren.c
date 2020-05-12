@@ -32,7 +32,7 @@ void entrypoint_250_03() {
 			printf("######Understood, Master.\n\n\n\nI will be eagerly awaiting your return\nin the outside world.\n\n\nMay the goddess watch over you,\n######Master.")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 86), ('param3', 40)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 22), ('next', 80), ('param3', 5)])
-			scene_flags[22 'Faron: Silent Realm'][100 0x64] = true;
+			scene_flags[22 'Faron: Silent Realm'][100 /* 0xD 10 */] = true;
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 22), ('next', 82), ('param3', 28)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', -1), ('param3', 42)])
 		}
@@ -49,14 +49,14 @@ void entrypoint_250_04() {
 void entrypoint_250_00() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 0), ('next', 15), ('param3', 39)])
-	switch (story_flags[531 0x0213]) {
+	switch (story_flags[531 /* us: 805A9B17 0x01, jp: 805ACD97 0x01 */]) {
 	  case 0:
 		printf("We're here, ####!\nShow me what you've got!")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 0), ('next', 17), ('param3', 39)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 19), ('param3', 40)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', -1), ('param3', 42)])
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 100), ('param3', 6), ('param4', 2), ('param5', 0)])) {
+		switch (scene_flags[100 /* 0xD 10 */]) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 9), ('param4', 2), ('param5', 4)])) {
 			  case 0:
@@ -139,7 +139,7 @@ void entrypoint_250_00() {
 			printf("That is a #########+#####.\nYou will need to collect #####15 #####of them.")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 31), ('param2', 1), ('next', 14), ('param3', 40)])
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', 71), ('param3', 6)])
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 10), ('param3', 5), ('param4', 2), ('param5', 18)])) {
+			switch (loadzone_temp_flags[10 /* 0x8 04 */]) {
 			  case 0:
 				goto flw_74
 			  case 1:
@@ -158,7 +158,7 @@ void entrypoint_250_01() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 30), ('next', 62), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 11), ('param2', 0), ('next', 60), ('param3', 39)])
 	printf("The unusual liquid substance that\ncovers that area is known as #####Waking\nWater#####, and it has certain unique\nproperties.\nIf you make contact with Waking\nWater, the #####Guardians will be\nimmediately alerted to your presence#####.\n\nPools of Waking Water are located all\nthroughout the area. I suggest you\nwatch where you step...")
-	scene_flags[22 'Faron: Silent Realm'][80 0x50] = true;
+	scene_flags[22 'Faron: Silent Realm'][80 /* 0xB 01 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', -1), ('next', -1), ('param3', 42)])
 }
 

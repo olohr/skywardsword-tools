@@ -21,7 +21,7 @@ void entrypoint_199_71() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 14), ('param3', 58)])
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 4), ('next', 21), ('param3', 56)])
 	flw_21:
-	story_flags[818 0x0332] = true;
+	story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = true;
 }
 
 void entrypoint_199_03() {

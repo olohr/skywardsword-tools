@@ -2,12 +2,12 @@ void entrypoint_116_01() {
 	start()
 	switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 1), ('param3', 16), ('param4', 4), ('param5', 9)])) {
 	  case 0:
-		switch (story_flags[474 0x01DA]) {
+		switch (story_flags[474 /* us: 805A9B0E 0x40, jp: 805ACD8E 0x40 */]) {
 		  case 0:
-			switch (story_flags[476 0x01DC]) {
+			switch (story_flags[476 /* us: 805A9B11 0x01, jp: 805ACD91 0x01 */]) {
 			  case 0:
 				flw_5:
-				switch (story_flags[201 0x00C9]) {
+				switch (story_flags[201 /* us: 805A9AEF 0x08, jp: 805ACD6F 0x08 */]) {
 				  case 0:
 					OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 115), ('param3', 12)])
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 71), ('param2', 1), ('next', 114), ('param3', 23)])
@@ -23,7 +23,7 @@ void entrypoint_116_01() {
 								  case 0:
 									OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -20), ('next', 91), ('param3', 8)])
 									printf("######I'm going to be timing you while you're\nin the course. If you get a decent time,\nI'll give you a prize!\n\n######In the Bug Beginner course, I will show\nyou pictures of five different bugs.\nCatch one of each to finish! Got it?\nOK, get ready!")
-									story_flags[684 0x02AC] = false;
+									story_flags[684 /* us: 805A9B21 0x02, jp: 805ACDA1 0x02 */] = false;
 									OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 33)])
 								  case 1:
 									printf("######Looks like you don't have enough\nmoney. So what if we went to the\nKnight Academy together? I'm not\ncutting you any deals.")
@@ -39,7 +39,7 @@ void entrypoint_116_01() {
 								  case 0:
 									OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -50), ('next', 92), ('param3', 8)])
 									printf("######I'm going to be timing you while you're\nin the course. If you get a decent time,\nI'll give you a prize!\n\n######In the Bug Wrangler course, you will\nneed to catch a total of 10 bugs that\nI specify from among eight different\ntypes. Got all that? OK, get ready!")
-									story_flags[684 0x02AC] = true;
+									story_flags[684 /* us: 805A9B21 0x02, jp: 805ACDA1 0x02 */] = true;
 									OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', -1), ('param3', 33)])
 								  case 1:
 									printf("######Looks like you don't have enough\nmoney. So what if we went to the\nKnight Academy together? I'm not\ncutting you any deals.")
@@ -55,8 +55,8 @@ void entrypoint_116_01() {
 					}
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 7), ('param3', 12)])
-					story_flags[201 0x00C9] = true;
-					story_flags[286 0x011E] = true;
+					story_flags[201 /* us: 805A9AEF 0x08, jp: 805ACD6F 0x08 */] = true;
+					story_flags[286 /* us: 805A9AFA 0x01, jp: 805ACD7A 0x01 */] = true;
 					printf("##############? I wasn't expecting\nto see you here.\n\n\n######I flew into this thick fog and ended up\non this island.\n\n\n######But once I got here, I looked around\nand realized...this is some kind of\ninsect paradise!\n\n######So I decided to go after my dream and\nraise a bunch of bugs here. Now I can\nspend my days catching all the bugs\nI want!\n######You want to try catching some bugs?\nI'll release a few for you, so why don't\nyou give it a shot?")
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 71), ('param2', 1), ('next', 111), ('param3', 23)])
 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 62)])) {
@@ -68,7 +68,7 @@ void entrypoint_116_01() {
 					}
 				}
 			  case 1:
-				switch (story_flags[475 0x01DB]) {
+				switch (story_flags[475 /* us: 805A9B0E 0x80, jp: 805ACD8E 0x80 */]) {
 				  case 0:
 					printf("######Heh heh heh... You've come to take\nback the #####Horned Colossus Beetle#####, eh?\n#####Of course!#####Nope.")
 					flw_50:
@@ -109,7 +109,7 @@ void entrypoint_116_01() {
 					printf("######Heh heh heh heh. Well well, it's\n####! How's life?\n\n\n######Oh, you think I look happy? Heh heh...\nWell, I guess I can't help it.\n\n\nI mean, I did discover an insanely rare\ninsect, after all.\n#####Tell me!#####Who cares?")
 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 25)])) {
 					  case 0:
-						story_flags[475 0x01DB] = true;
+						story_flags[475 /* us: 805A9B0E 0x80, jp: 805ACD8E 0x80 */] = true;
 						printf("######You want to know more, huh?\n\n\n\nWell...##### ######Let's just say I managed to land\na legendary #####Horned Colossus Beetle#####.#####\n\n\n###########It's pretty much a miracle that I found\nit! I can't stop laughing or smiling.\nI'm so happy, my face hurts!")
 						printf("######What?! You're saying this is Beedle's\npet bug?! The same Beedle who flies\naround in that shack selling his junk?\n#####Give it back!#####Poor Beedle...")
 						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 27)])) {
@@ -151,7 +151,7 @@ void entrypoint_116_01() {
 void entrypoint_116_02() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 61), ('param3', 42)])
-	switch (story_flags[476 0x01DC]) {
+	switch (story_flags[476 /* us: 805A9B11 0x01, jp: 805ACD91 0x01 */]) {
 	  case 0:
 		flw_9:
 		switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 16), ('param4', 4), ('param5', 5)])) {
@@ -170,7 +170,7 @@ void entrypoint_116_02() {
 			}
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 2), ('next', 77), ('param3', 44)])
-			switch (story_flags[684 0x02AC]) {
+			switch (story_flags[684 /* us: 805A9B21 0x02, jp: 805ACDA1 0x02 */]) {
 			  case 0:
 				printf("######Time's up! That was pretty decent,\nI have to admit.\n\n\n######Your times will get even better if you\nremember where the bugs live. Next\ntime, shoot for #####under three minutes#####.")
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 120), ('param3', 12)])
@@ -186,13 +186,13 @@ void entrypoint_116_02() {
 			}
 		  case 2:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 2), ('next', 87), ('param3', 44)])
-			switch (story_flags[684 0x02AC]) {
+			switch (story_flags[684 /* us: 805A9B21 0x02, jp: 805ACDA1 0x02 */]) {
 			  case 0:
 				printf("######OK! Time! Hey... This is incredible!\n\n\n\n######I think you might be in the running for\nsecond place as the best bug catcher\nafter me. You should aim for #####under two\nminutes#####.\nDo that, and a prize package of #####five\nfabulous bugs##### is yours to take home!")
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 129), ('param3', 45)])
-				story_flags[1093 0x0445] = true;
+				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = true;
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 23), ('next', 130), ('param3', 9)])
-				story_flags[1093 0x0445] = false;
+				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = false;
 				printf("######Take good care of them for me...")
 			  case 1:
 				printf("######That's it--time's up! Whoa...\nI'm impressed. You might just be a\nnatural at this!\n\n######Don't get full of yourself, though.\nYou're still not good enough to win\nany of my rare insects.")
@@ -203,25 +203,25 @@ void entrypoint_116_02() {
 			}
 		  case 3:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 2), ('next', 89), ('param3', 44)])
-			switch (story_flags[684 0x02AC]) {
+			switch (story_flags[684 /* us: 805A9B21 0x02, jp: 805ACDA1 0x02 */]) {
 			  case 0:
 				printf("######OK, time's up! ...Th-this is amazing!\n\n\n\n######I don't have any choice. I'm forced to\nadmit you're one of the all-time greats\nof bug catching! I bow down to your\nbug-wrangling skills.\n######Let me give you your prize! You get\na set of insects... #####Five##### rare ones at that!")
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 131), ('param3', 45)])
-				story_flags[1093 0x0445] = true;
+				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = true;
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 24), ('next', 133), ('param3', 9)])
-				story_flags[1093 0x0445] = false;
+				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = false;
 				printf("######Take good care of them for me...")
 			  case 1:
 				printf("######Stop! Stop! Time's up! That was just... \nincredible!\n\n\n######Oh, but let me just remind you that you\nwere doing the Bug Beginner level\nof difficulty.\n\n######Next time, try Bug Wrangler! As a\nprize, here are #####five##### of my absolute\nfavorite #####bugs#####!")
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 132), ('param3', 45)])
-				story_flags[1093 0x0445] = true;
+				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = true;
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 22), ('next', 134), ('param3', 9)])
-				story_flags[1093 0x0445] = false;
+				story_flags[1093 /* us: 805A9B52 0x08, jp: 805ACDD2 0x08 */] = false;
 				printf("######Take good care of them for me...")
 			}
 		}
 	  case 1:
-		switch (story_flags[475 0x01DB]) {
+		switch (story_flags[475 /* us: 805A9B0E 0x80, jp: 805ACD8E 0x80 */]) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 16), ('param4', 4), ('param5', 39)])) {
 			  case 0:
@@ -244,7 +244,7 @@ void entrypoint_116_02() {
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 2), ('next', 71), ('param3', 44)])
 				printf("OK, you're done!\n######Heh heh heh... Who would have thought\nit would be so easy for you to break the\nrecord time!")
 				printf("######OK, OK... As I promised, here's the\n#####Horned Colossus Beetle#####.\n\n\n######I have to admit, you're a pretty tough\ncompetitor. I guess I won't be able to\n#####bug #####you anymore.\n\n######Heh heh heh...")
-				story_flags[476 0x01DC] = true;
+				story_flags[476 /* us: 805A9B11 0x01, jp: 805ACD91 0x01 */] = true;
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 159), ('next', 74), ('param3', 9)])
 				printf("######Make sure to tell Beedle that, bug\nlover to bug lover, I feel sort of bad\nfor causing him so much stress.")
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 45)])

@@ -1,6 +1,6 @@
 void entrypoint_100_11() {
 	start()
-	switch (story_flags[36 0x0024]) {
+	switch (story_flags[36 /* us: 805A9ADD 0x10, jp: 805ACD5D 0x10 */]) {
 	  case 0:
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 16), ('param3', 9), ('param4', 2), ('param5', 62)])) {
 		  case 0:
@@ -11,22 +11,22 @@ void entrypoint_100_11() {
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 0), ('next', -1), ('param3', 28)])
 		}
 	  case 1:
-		switch (story_flags[23 0x0017]) {
+		switch (story_flags[23 /* us: 805A9ADB 0x80, jp: 805ACD5B 0x80 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 18), ('param3', 6), ('param4', 2), ('param5', 18)])) {
+			switch (scene_flags[18 /* 0x3 04 */]) {
 			  case 0:
 				printf("######You won't find your bird hanging\naround here unless he's enrolling in\nthe academy. You should stick with\nsearching outside for now.\nI'll be asking around for leads too,\nand I'll let you know if I find out\nanything that'll help.")
 			  case 1:
 				printf("######You're not still wandering around\nthe academy, are you?!\n\n\n######What?!##### Your Loftwing won't come\nwhen you call for it? ######Why would a\nguardian bird not come when it's\ncalled?\nYou know, I've never heard of this\never happening before, so I can't even\ntell you what you're doing wrong...\n\n######But a good senior never hangs an\nunderclassman out to dry. We'll figure\nthis out together!\n\n######You go to the plaza, and ask people\nthere if they know anything. In the\nmeantime, I'll ask around here.")
-				scene_flags[0 'Skyloft'][18 0x12] = true;
+				scene_flags[0 'Skyloft'][18 /* 0x3 04 */] = true;
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 35), ('param3', 6), ('param4', 2), ('param5', 16)])) {
+			switch (scene_flags[35 /* 0x5 08 */]) {
 			  case 0:
 				printf("######If you need to know anything about\nbirds, you just let ol' #####Pipit##### know!")
 			  case 1:
 				printf("######Morning, ####!\n\n\n\n######So...today's the #####Wing Ceremony#####.\nAre you ready?\n\n\nAll I'm saying is everyone else is out\npracticing at the plaza, but you seem\npretty...relaxed about the whole thing.\n\n######Of course, that #####Crimson Loftwing #####of\nyours is something special. I'd feel\npretty confident riding him, too!\n\nMy bird won the last ceremony, but\neven I don't think he could beat that\nred terror of yours...\n\n######Of course, a bird's true speed in a\nrace always comes down to the skill\nof the rider.\n\nI'm something of a bird researcher\naround here. ######So, you know, if you\never find yourself in need of some\nbird expertise, come see ol' #####Pipit#####. ")
-				scene_flags[0 'Skyloft'][35 0x23] = true;
+				scene_flags[0 'Skyloft'][35 /* 0x5 08 */] = true;
 			}
 		}
 	}
@@ -34,19 +34,19 @@ void entrypoint_100_11() {
 
 void entrypoint_100_12() {
 	start()
-	switch (story_flags[29 0x001D]) {
+	switch (story_flags[29 /* us: 805A9ADA 0x20, jp: 805ACD5A 0x20 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 64), ('param3', 6), ('param4', 2), ('param5', 52)])) {
+		switch (scene_flags[64 /* 0x9 01 */]) {
 		  case 0:
 			printf("###########Pipit##### should be in front of the #####Sparring\nHall#####. You know, at the back of the\nKnight Academy.")
 		  case 1:
 			printf("######Huh?####( Why do you want to know where\n#####Groose #####hangs out?\n\n\n######Is he up to no good again?\n\n\n\nI###### have no clue where he hangs out.\n#####Pipit##### probably does, though.\nYou should talk to him.\n\n######And I think he was looking for you\njust now#####...##### He should be in front of the\n#####Sparring Hall#####.")
-			scene_flags[0 'Skyloft'][64 0x40] = true;
+			scene_flags[0 'Skyloft'][64 /* 0x9 01 */] = true;
 		}
 	  case 1:
-		switch (story_flags[23 0x0017]) {
+		switch (story_flags[23 /* us: 805A9ADB 0x80, jp: 805ACD5B 0x80 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 63), ('param3', 6), ('param4', 2), ('param5', 50)])) {
+			switch (scene_flags[63 /* 0x6 80 */]) {
 			  case 0:
 				printf("###########Pipit##### is the one to ask about birds.\nI saw him downstairs a minute ago.\nWhy don't you look for him there?")
 			  case 1:
@@ -57,15 +57,15 @@ void entrypoint_100_12() {
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 24), ('param3', 33)])
 				printf("######Oh! It's you, ####... Say,\nyou look all flustered. Did something\nhappen?\n\n######What?! ####(You can't find your Loftwing?\n\n\n\n######Umm#####...##### I don't know what to tell you.\nI've been here at school the whole time.")
 				printf("###########Pipit##### is the one to ask about birds.\nI saw him downstairs a minute ago.\nWhy don't you look for him there?")
-				scene_flags[0 'Skyloft'][63 0x3F] = true;
+				scene_flags[0 'Skyloft'][63 /* 0x6 80 */] = true;
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 62), ('param3', 6), ('param4', 2), ('param5', 48)])) {
+			switch (scene_flags[62 /* 0x6 40 */]) {
 			  case 0:
 				printf("######If you win today's #####ceremony#####, you'll\nbecome a #####senior #####like us. Good luck!")
 			  case 1:
 				printf("######Good morning, ####!\nGood luck in the #####Wing Ceremony\n#####today!\n\n######Just think: if you win today, you'll\nbecome a #####senior##### like us and you'll be\na very big step closer to graduating as\na #####knight#####.\n######You'll even get a #####knight's uniform##### like\nI'm wearing. Something tells me you'll\nbe pretty handsome in it!\n\n######But still not as dreamy as...him...")
-				scene_flags[0 'Skyloft'][62 0x3E] = true;
+				scene_flags[0 'Skyloft'][62 /* 0x6 40 */] = true;
 			}
 		}
 	}
@@ -85,7 +85,7 @@ void entrypoint_100_30() {
 
 void entrypoint_100_14() {
 	start()
-	switch (story_flags[36 0x0024]) {
+	switch (story_flags[36 /* us: 805A9ADD 0x10, jp: 805ACD5D 0x10 */]) {
 	  case 0:
 		printf("######Mmm-MMM! Another day, another\ntasty soup!")
 	  case 1:
@@ -100,20 +100,20 @@ void entrypoint_100_15() {
 
 void entrypoint_100_16() {
 	start()
-	switch (story_flags[557 0x022D]) {
+	switch (story_flags[557 /* us: 805A9B16 0x40, jp: 805ACD96 0x40 */]) {
 	  case 0:
 		printf("######Ah! ########! Thank you\nso much! I'm so happy now...and it's\nall because of you.\n\nMy guy is going out on patrol again\ntonight. It's not even required of\nhim--it's just something he feels he\nhas to do...\n######Just thinking about him makes my\nheart start pounding like I just ran\nup a flight of stairs!")
 	  case 1:
-		switch (story_flags[555 0x022B]) {
+		switch (story_flags[555 /* us: 805A9B16 0x10, jp: 805ACD96 0x10 */]) {
 		  case 0:
 			printf("######This letter from Cawlin... I don't know\nwhat to do about it!\n\n\n######What will Pipit think if he finds out\nabout this?")
 		  case 1:
-			switch (story_flags[36 0x0024]) {
+			switch (story_flags[36 /* us: 805A9ADD 0x10, jp: 805ACD5D 0x10 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 16), ('param3', 5), ('param4', 2), ('param5', 76)])) {
+				switch (loadzone_temp_flags[16 /* 0xB 01 */]) {
 				  case 0:
 					flw_193:
-					switch (story_flags[552 0x0228]) {
+					switch (story_flags[552 /* us: 805A9B16 0x02, jp: 805ACD96 0x02 */]) {
 					  case 0:
 					  case 1:
 						printf("######You need to talk to me? Just come find\nme sometime during the day tomorrow.")
@@ -121,7 +121,7 @@ void entrypoint_100_16() {
 					}
 				  case 1:
 					printf("####\n#What do you think you're doing in a\ngirl's room at this time of night?!\n\n\nI need to take a bath, so get out of\nhere, ####!\n\n\n######Well...I mean I WOULD take a bath if\nwhoever is in there now would hurry\nup and get out. They've been in there\na loooong time...")
-					switch (story_flags[547 0x0223]) {
+					switch (story_flags[547 /* us: 805A9B17 0x10, jp: 805ACD97 0x10 */]) {
 					  case 0:
 						goto flw_193
 					  case 1:
@@ -145,14 +145,14 @@ void entrypoint_100_17() {
 
 void entrypoint_100_18() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 55), ('param3', 6), ('param4', 2), ('param5', 38)])) {
+	switch (scene_flags[55 /* 0x7 80 */]) {
 	  case 0:
-		switch (story_flags[28 0x001C]) {
+		switch (story_flags[28 /* us: 805A9ADA 0x10, jp: 805ACD5A 0x10 */]) {
 		  case 0:
 			printf("######Listen. As an upperclassman, I've got\nsome advice for you. There's something\nyou should always do before you\ngo somewhere dangerous.\nYou should find a bird statue and #####send\nyour prayers to the goddess to save\nyour progress#####. Make it part of your\nroutine!\nThe #####bird statues##### you can pray to are\nmarked on your map. It should be easy\nto find one.")
 		  case 1:
 			printf("######If you're going out to the waterfall,\nremember that there are some\ndangerous things there. Creepy, crawly\nthings. You'll need to carry a #####sword#####.\n######I think I saw the##### Knight Commander #####go\ninto the Sparring Hall a while ago.\nYou should go ask him if you can\nborrow one!")
-			scene_flags[0 'Skyloft'][56 0x38] = true;
+			scene_flags[0 'Skyloft'][56 /* 0x6 01 */] = true;
 		}
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 74), ('param3', 31)])
@@ -162,7 +162,7 @@ void entrypoint_100_18() {
 		OrderedDict([('type', 'type3'), ('subType', 2), ('param1', 21), ('param2', 100), ('next', 203), ('param3', 15)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 202), ('param3', 16)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 20), ('next', 72), ('param3', 48)])
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 54), ('param3', 6), ('param4', 2), ('param5', 36)])) {
+		switch (scene_flags[54 /* 0x7 40 */]) {
 		  case 0:
 			printf("######Hey, ####! I was just\nlooking for you.")
 			flw_73:
@@ -182,20 +182,20 @@ void entrypoint_100_18() {
 			printf("######Just a little while ago, when I was\ncleaning the dining hall, Groose and\nhis buddies came in.\n\n######They didn't notice I was there and\nstarted talking about their #####plan ##########to hide\n#####your Loftwing.\n\n######I wanted to warn you,\n####. But just as I\ntried to sneak away...\n\n######Groose and his gang grabbed me...\n\n\n\n######They said that if I told you, they'd\nmake sure I would never be able to\nride a bird ever again!")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', -1), ('next', 82), ('param3', 16)])
 			printf("######It sounds like Groose and his buddies\nhad a plan to capture your bird and\nhide him near a #####################waterfall#####.\n\n######Well, near a waterfall would mean#####...#####\n####(Quick--let's take a look at your #####map#####.")
-			scene_flags[0 'Skyloft'][14 0x0E] = true;
+			scene_flags[0 'Skyloft'][14 /* 0x0 40 */] = true;
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 0), ('param2', 0), ('next', 85), ('param3', 30)])
 			printf("That's it! Right there. I think it means\nthe #####waterfall #####marked here with #####.")
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 86), ('param3', 34)])
 			printf("######You know how to read a map, right?\nPress ##### at any time to see a map of\nthe area.##### ######If you get lost, just press #####!#####")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 12), ('param2', -1), ('next', 89), ('param3', 16)])
 			printf("######Forgive me, ####! I can't\nhelp being such a coward...\nI'm really sorry.")
-			scene_flags[0 'Skyloft'][55 0x37] = true;
-			story_flags[567 0x0237] = true;
-			story_flags[33 0x0021] = true;
+			scene_flags[0 'Skyloft'][55 /* 0x7 80 */] = true;
+			story_flags[567 /* us: 805A9B19 0x40, jp: 805ACD99 0x40 */] = true;
+			story_flags[33 /* us: 805A9ADD 0x02, jp: 805ACD5D 0x02 */] = true;
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 		  case 1:
 			printf("##############! Perfect timing.")
-			scene_flags[0 'Skyloft'][54 0x36] = true;
+			scene_flags[0 'Skyloft'][54 /* 0x7 40 */] = true;
 			goto flw_73
 		}
 	}
@@ -203,22 +203,22 @@ void entrypoint_100_18() {
 
 void entrypoint_100_01() {
 	start()
-	switch (story_flags[29 0x001D]) {
+	switch (story_flags[29 /* us: 805A9ADA 0x20, jp: 805ACD5A 0x20 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 45), ('param3', 6), ('param4', 2), ('param5', 30)])) {
+		switch (scene_flags[45 /* 0x4 20 */]) {
 		  case 0:
 			printf("######If you're talking Loftwings, talk to\n#####Pipit#####. That guy knows almost\neverything about anything with wings.\n\nYou know Pipit, right? He's one of\nthe top students at the Knight\nAcademy.")
 		  case 1:
 			printf("######What's wrong, ####?######\nWhat?! Your Loftwing is ####2missing?\n\n\n######That's terrible! I was so looking\nforward to seeing that red blur\nstreak through the sky.\n\nNo, no#####...#####I haven't seen him.\n\n\n\n####\n#Hmm#####...##### Why not check with\nSkyloft's##### bird expert#####, ###########Pipit#####?\n######He might be able to help.")
-			scene_flags[0 'Skyloft'][45 0x2D] = true;
+			scene_flags[0 'Skyloft'][45 /* 0x4 20 */] = true;
 		}
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 44), ('param3', 6), ('param4', 2), ('param5', 28)])) {
+		switch (scene_flags[44 /* 0x4 10 */]) {
 		  case 0:
 			printf("####\n#I'm looking forward to seeing your\nLoftwing in action!")
 		  case 1:
 			printf("######Hey, ####!\nHow's it going? The Wing Ceremony's\nabout to begin, right?\n\nRemember when #####Pipit##### won the last\none right at the last second? It was\nsoooo close. Now, that was a race...\n\n####\n#Hey, your Crimson Loftwing will be\nin the race, right? ####(I'm looking forward\nto seeing what he can do.")
-			scene_flags[0 'Skyloft'][44 0x2C] = true;
+			scene_flags[0 'Skyloft'][44 /* 0x4 10 */] = true;
 		}
 	}
 }
@@ -232,16 +232,16 @@ void entrypoint_100_19() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 12), ('next', 147), ('param3', 33)])
 	printf("#####Over here!#####\n\n\n\n##\n###I have some information about\nyour Loftwing. Come over here!")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 98), ('param3', 42)])
-	scene_flags[0 'Skyloft'][54 0x36] = true;
+	scene_flags[0 'Skyloft'][54 /* 0x7 40 */] = true;
 }
 
 void entrypoint_100_02() {
 	start()
-	switch (story_flags[23 0x0017]) {
+	switch (story_flags[23 /* us: 805A9ADB 0x80, jp: 805ACD5B 0x80 */]) {
 	  case 0:
 		printf("######Are you talking to me about your\nLoftwing? Right now?\n\n\n######I'm a little busy here, so buzz off!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 22), ('param3', 6), ('param4', 2), ('param5', 64)])) {
+		switch (scene_flags[22 /* 0x3 40 */]) {
 		  case 0:
 			printf("######The #####Wing Ceremony #####is starting soon.\nQuit with the dillyin' and dallyin', and\nget your tail over there!")
 		  case 1:
@@ -253,7 +253,7 @@ void entrypoint_100_02() {
 void entrypoint_100_03() {
 	start()
 	printf("######Master, there is a high probability\nthat this beam of light will lead us to\nclues as to the whereabouts of the\nthree flames.\nI recommend that you investigate what\nlies at the end of this beam of light.")
-	story_flags[195 0x00C3] = true;
+	story_flags[195 /* us: 805A9AEC 0x20, jp: 805ACD6C 0x20 */] = true;
 }
 
 void entrypoint_100_20() {
@@ -264,19 +264,19 @@ void entrypoint_100_20() {
 
 void entrypoint_100_04() {
 	start()
-	switch (story_flags[23 0x0017]) {
+	switch (story_flags[23 /* us: 805A9ADB 0x80, jp: 805ACD5B 0x80 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 53), ('param3', 6), ('param4', 2), ('param5', 34)])) {
+		switch (scene_flags[53 /* 0x7 20 */]) {
 		  case 0:
 			printf("######Still got more questions, eh?\n#####My bird! #####Groose?")
 			flw_16:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
 			  case 0:
 				printf("######Uh, I think...uh... Well, to be honest,\nI don't really know where they went.")
-				scene_flags[0 'Skyloft'][53 0x35] = true;
+				scene_flags[0 'Skyloft'][53 /* 0x7 20 */] = true;
 			  case 1:
 				printf("######Oh, #####Groose #####and his little cronies were\nsaying they were headed down to the\nWing Ceremony.\n\nSo my guess is they might be in town.\nNormally, the fastest way there is just\ndown this path...\n\nBut this gate here still needs some work\nbefore it'll open. Can you go around\nthrough the academy?")
-				scene_flags[0 'Skyloft'][53 0x35] = true;
+				scene_flags[0 'Skyloft'][53 /* 0x7 20 */] = true;
 			}
 		  case 1:
 			printf("######Is something wrong? What's the\nbig hurry?\n\n\nWhat?! Your Loftwing is missing?!\n####2But ######I just #####saw##### him. #####Groose's bird #####was\nchasing off after your feathered fella.\n#####Which way?#####Where's Groose?")
@@ -284,7 +284,7 @@ void entrypoint_100_04() {
 		}
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 58), ('param3', 31)])
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 52), ('param3', 6), ('param4', 2), ('param5', 32)])) {
+		switch (scene_flags[52 /* 0x7 10 */]) {
 		  case 0:
 			printf("######I'm still workin' on the gate here, so\nit'll be out of commission for a little\nbit until I finish up.\n#####Where's Zelda? #####Ceremony?")
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
@@ -295,14 +295,14 @@ void entrypoint_100_04() {
 			}
 		  case 1:
 			printf("######Mornin', ####. How's\nlife? Did you manage to get even a\nwink of sleep last night?\n\nFigured you might've been tossin' and\nturnin' all night thinkin' about the big\n#####ceremony##### today.\n\nWhat am I doin'? ####(Oh, just fixin' this\ngate here...\n\n\nIt's been squeaky lately, and we can't\nhave that on the day of the ceremony!\n\n\n######Hey, you haven't already forgotten to\n#####send your ##########prayers #####to the goddess this\nmorning, have you?\n\n##\n###Just face the #####bird statue #####over there,\nand say a short prayer to #####save##### your\nprogress.\n\n########\n###As you know, those bird statues are all\nover Skyloft. It's about time you get in\nthe habit of stoppin' at a statue every\ntime you run by one.\n###########A prayer in time saves nine#####, if you\nknow what I'm sayin'!")
-			scene_flags[0 'Skyloft'][52 0x34] = true;
+			scene_flags[0 'Skyloft'][52 /* 0x7 10 */] = true;
 		}
 	}
 }
 
 void entrypoint_100_21() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 55), ('param3', 6), ('param4', 2), ('param5', 42)])) {
+	switch (scene_flags[55 /* 0x7 80 */]) {
 	  case 0:
 		printf("###########...#####Do you think you'll make it in time,\n####?\n\n\n######I'm such a wimp#####...##### I'm so sorry.")
 	  case 1:
@@ -312,7 +312,7 @@ void entrypoint_100_21() {
 
 void entrypoint_100_56() {
 	start()
-	switch (story_flags[36 0x0024]) {
+	switch (story_flags[36 /* us: 805A9ADD 0x10, jp: 805ACD5D 0x10 */]) {
 	  case 0:
 		printf("######Watch your step there! Haven't they\ntaught you at the academy that knights\nmust always be vigilant? Sharpen up,\nor you'll never make it to knighthood!")
 	  case 1:
@@ -322,7 +322,7 @@ void entrypoint_100_56() {
 
 void entrypoint_100_05() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 58), ('param3', 6), ('param4', 2), ('param5', 14)])) {
+	switch (scene_flags[58 /* 0x6 04 */]) {
 	  case 0:
 		printf("######Awwww! My #####Sky Stag Beetle#####...\nSo close... ####\n#Oh well. To catch it, I would\nneed a ####G, anyway.\n\nI wish I hadn't thrown out the one I\nbought at #####Beedle's Airshop#####.\n######Awwww...")
 	  case 1:
@@ -332,11 +332,11 @@ void entrypoint_100_05() {
 
 void entrypoint_100_22() {
 	start()
-	switch (story_flags[304 0x0130]) {
+	switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 	  case 0:
-		switch (story_flags[140 0x008C]) {
+		switch (story_flags[140 /* us: 805A9AE7 0x04, jp: 805ACD67 0x04 */]) {
 		  case 0:
-			switch (story_flags[663 0x0297]) {
+			switch (story_flags[663 /* us: 805A9B1F 0x20, jp: 805ACD9F 0x20 */]) {
 			  case 0:
 				flw_220:
 				printf("######I don't hear that voice from the\nrestroom anymore. I wonder who\nit was...")
@@ -346,11 +346,11 @@ void entrypoint_100_22() {
 			}
 		  case 1:
 			flw_222:
-			switch (story_flags[11 0x000B]) {
+			switch (story_flags[11 /* us: 805A9AD8 0x10, jp: 805ACD58 0x10 */]) {
 			  case 0:
 				printf("######I haven't seen Groose around recently.\nI wonder how that boy's doing.")
 			  case 1:
-				switch (story_flags[4 0x0004]) {
+				switch (story_flags[4 /* us: 805A9AD9 0x20, jp: 805ACD59 0x20 */]) {
 				  case 0:
 					printf("######How are things? Now that you're here,\nyou should find yourself a #####bed #####to lie\ndown in and take a rest.")
 				  case 1:
@@ -365,7 +365,7 @@ void entrypoint_100_22() {
 
 void entrypoint_100_57() {
 	start()
-	switch (story_flags[36 0x0024]) {
+	switch (story_flags[36 /* us: 805A9ADD 0x10, jp: 805ACD5D 0x10 */]) {
 	  case 0:
 		printf("######Whoa there, trainee! You'll never be\npromoted to full knighthood if you\ncan't learn to keep your wits about you.\n\nOh, and don't let me catch you going\nout flying at night. Only trained\nknights such as myself should be doing\nthat. You take care now!")
 	  case 1:
@@ -380,22 +380,22 @@ void entrypoint_100_23() {
 
 void entrypoint_100_07() {
 	start()
-	switch (story_flags[36 0x0024]) {
+	switch (story_flags[36 /* us: 805A9ADD 0x10, jp: 805ACD5D 0x10 */]) {
 	  case 0:
-		switch (story_flags[663 0x0297]) {
+		switch (story_flags[663 /* us: 805A9B1F 0x20, jp: 805ACD9F 0x20 */]) {
 		  case 0:
-			switch (story_flags[559 0x022F]) {
+			switch (story_flags[559 /* us: 805A9B19 0x01, jp: 805ACD99 0x01 */]) {
 			  case 0:
 				printf("######I don't hear any voices coming from\nthe restroom anymore.\n\n\nBut now Cawlin has been crying\nhimself to sleep in Groose's room...\nIs there anything we can do?")
 			  case 1:
 				goto flw_220
 			}
 		  case 1:
-			switch (story_flags[11 0x000B]) {
+			switch (story_flags[11 /* us: 805A9AD8 0x10, jp: 805ACD58 0x10 */]) {
 			  case 0:
 				printf("######I haven't seen Groose around recently.\nI wonder how that boy's doing.")
 			  case 1:
-				switch (story_flags[140 0x008C]) {
+				switch (story_flags[140 /* us: 805A9AE7 0x04, jp: 805ACD67 0x04 */]) {
 				  case 0:
 					printf("######How are things? Now that you're here,\nyou should find yourself a #####bed #####to lie\ndown in and take a rest.")
 				  case 1:
@@ -411,16 +411,16 @@ void entrypoint_100_07() {
 void entrypoint_100_24() {
 	start()
 	printf("######Whooooooooa!##### You did it! \nA #####Sky Stag Beetle#####!\n\n\nWait up!")
-	scene_flags[0 'Skyloft'][58 0x3A] = true;
+	scene_flags[0 'Skyloft'][58 /* 0x6 04 */] = true;
 }
 
 void entrypoint_100_25() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 13), ('param3', 5), ('param4', 2), ('param5', 44)])) {
+	switch (loadzone_temp_flags[13 /* 0x8 20 */]) {
 	  case 0:
 		printf("###########I've had it!\n#####\n\n\n##\n###I'm going to have a word with\nthe headmaster about having you\nexpelled!")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 12), ('param3', 5), ('param4', 2), ('param5', 46)])) {
+		switch (loadzone_temp_flags[12 /* 0x8 10 */]) {
 		  case 0:
 			printf("###########Enough already! #####You little brat!\n\n\n\n##\n###Do that again, and you'll be mopping\nsoup stains for a week!")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 0), ('next', -1), ('param3', 4)])
@@ -433,29 +433,29 @@ void entrypoint_100_25() {
 
 void entrypoint_100_09() {
 	start()
-	switch (story_flags[29 0x001D]) {
+	switch (story_flags[29 /* us: 805A9ADA 0x20, jp: 805ACD5A 0x20 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 43), ('param3', 6), ('param4', 2), ('param5', 24)])) {
+		switch (scene_flags[43 /* 0x4 08 */]) {
 		  case 0:
 			printf("######Press ##### to check your #####map #####and find\nyour way to the Statue of the Goddess.\nLook for your bird there!#####")
 		  case 1:
 			printf("#####WWhat's up, ####? You\nseem to be in a hurry...\n\n\nWhat's this about your bird? Oh, that\nunusual Crimson Loftwing...\n####(Have I seen him?########## ######I'm sorry. I haven't.\n\n######Why don't you look for him by the\nStatue of the Goddess? You'll have a\ngood view of the whole town from way\nup there.\nJust check your #####map #####using #####.\nKnowing you, that's the best way to\navoid getting lost...again.#####")
-			scene_flags[0 'Skyloft'][43 0x2B] = true;
+			scene_flags[0 'Skyloft'][43 /* 0x4 08 */] = true;
 		}
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 42), ('param3', 6), ('param4', 2), ('param5', 22)])) {
+		switch (scene_flags[42 /* 0x4 04 */]) {
 		  case 0:
 			printf("######I dream of playing the part of the\ngoddess at the Wing Ceremony!\nJust to have a romantic ceremony\nwith the handsome, winning knight.\nJust once is all I ask...")
 		  case 1:
 			printf("######Hiya, ####! Nice breeze\ntoday, huh? Perfect for the ceremony!\n\n\n######So who do you think will win today?\nI guess #####Groose##### is a strong contender,\nbut...\n\n######The winner will get blessed by a village\ngirl chosen to represent the goddess...\n######How romantic!")
-			scene_flags[0 'Skyloft'][42 0x2A] = true;
+			scene_flags[0 'Skyloft'][42 /* 0x4 04 */] = true;
 		}
 	}
 }
 
 void entrypoint_100_26() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 22), ('param3', 6), ('param4', 2), ('param5', 54)])) {
+	switch (scene_flags[22 /* 0x3 40 */]) {
 	  case 0:
 		printf("######What's all this? I thought I told #####Fledge\n#####to carry that! Bah, it's probably for\nthe best... That skinny boy would\nprobably have gotten flattened.\n####\n#Say...don't you have some important\nceremony or some such today? Hmph!\nWell, thanks for the help.")
 	  case 1:

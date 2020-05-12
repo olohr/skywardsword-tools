@@ -1,45 +1,45 @@
 void entrypoint_111_01() {
 	start()
-	switch (story_flags[45 0x002D]) {
+	switch (story_flags[45 /* us: 805A9AE7 0x40, jp: 805ACD67 0x40 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 3), ('param3', 5), ('param4', 2), ('param5', 10)])) {
+		switch (loadzone_temp_flags[3 /* 0x9 08 */]) {
 		  case 0:
 			flw_19:
 			printf("What? I just told you what your\nfortune was. I described everything I\nsaw in detail! Didn't you hear me the\nfirst time?!\nFine. Fine... I'll tell you one more time,\nso listen up! And don't think I can't\nsee when you're not paying attention.")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 74), ('param3', 5)])
 			flw_74:
-			switch (story_flags[17 0x0011]) {
+			switch (story_flags[17 /* us: 805A9ADB 0x04, jp: 805ACD5B 0x04 */]) {
 			  case 0:
 				printf("Young man, whatever have you done?\n\n\n\nIf my eyes do not betray me, then you\nare the one behind the disappearance\nof the Isle of the Goddess! Yess...\nNothing escapes my gaze.\nWell, worry not. I can see that you did\nnot make the isle disappear just for\nidle amusement!\n\nStill, I am afraid that it will be up to\nyou to find the proper path from here.\nTrust yourself!")
 				flw_127:
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 5), ('next', -1), ('param3', 7)])
 			  case 1:
-				switch (story_flags[22 0x0016]) {
+				switch (story_flags[22 /* us: 805A9ADB 0x40, jp: 805ACD5B 0x40 */]) {
 				  case 0:
 					printf("Ah, yesss... My vision reveals that you\nwill find what you seek on the Isle of\nthe Goddess.\n\nHowever, these great big eyes also see\nmuch peril. Your path will not be an\neasy one. Prepare yourself well!")
 					goto flw_127
 				  case 1:
-					switch (story_flags[209 0x00D1]) {
+					switch (story_flags[209 /* us: 805A9AF0 0x20, jp: 805ACD70 0x20 */]) {
 					  case 0:
 						printf("So I see you have finally passed the\nfinal trial... Oh, yessss, all is revealed\nto my uncanny vision.\n\nI can see what you're after. You want\nto know what to do with the item you\ngot from the trial, don't you? \n\nSomewhere here in Skyloft is a #####statue\nof an odd bird #####with #####gem-like eyes#####.\nOh, but one of the gems is missing.\nSurely you've seen it before...\nAhem... If you place the item you have\nin the socket, your path will be clear!\nYessss...I see it all now...")
 						goto flw_127
 					  case 1:
-						switch (story_flags[369 0x0171]) {
+						switch (story_flags[369 /* us: 805A9B03 0x80, jp: 805ACD83 0x80 */]) {
 						  case 0:
 							printf("You will use the song you obtained\nfrom the great swimmer above the\nclouds to discover #####the location of the\nnext trial#####.\nMy vision shows me that this next trial\nawaits you #####somewhere in this very town\nof Skyloft#####.\n\nStrange... I have no idea what that\neven means!")
 							goto flw_127
 						  case 1:
-							switch (story_flags[19 0x0013]) {
+							switch (story_flags[19 /* us: 805A9ADB 0x08, jp: 805ACD5B 0x08 */]) {
 							  case 0:
-								switch (story_flags[16 0x0010]) {
+								switch (story_flags[16 /* us: 805A9ADB 0x02, jp: 805ACD5B 0x02 */]) {
 								  case 0:
-									switch (story_flags[21 0x0015]) {
+									switch (story_flags[21 /* us: 805A9ADB 0x20, jp: 805ACD5B 0x20 */]) {
 									  case 0:
 										printf("Oh, there it is! Yesss, I see you have\ngathered three parts of the song you\nseek, and the fourth... It is held by\nsomeone very, very big!\nMake haste, for when you find this\nmassive creature, your song will be\ncomplete. I have foreseen it!")
 										goto flw_127
 									  case 1:
 										flw_71:
-										switch (story_flags[200 0x00C8]) {
+										switch (story_flags[200 /* us: 805A9AEF 0x04, jp: 805ACD6F 0x04 */]) {
 										  case 0:
 											OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 497), ('param2', 1), ('next', 78), ('param3', 23)])
 											switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 52)])) {
@@ -52,36 +52,36 @@ void entrypoint_111_01() {
 												goto flw_88
 											}
 										  case 1:
-											switch (story_flags[146 0x0092]) {
+											switch (story_flags[146 /* us: 805A9AEE 0x10, jp: 805ACD6E 0x10 */]) {
 											  case 0:
 												printf("I see you've finally found the one\nyou've been searching for! That is\nwonderful news.\n\nHowever, your trials are not yet ended!\nNow you must speak to the great giant\nwho swims above the clouds.\n\nIf you wish to know more, you should\ntalk to the #####headmaster of the Knight\nAcademy#####.")
 												flw_126:
 												OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 5), ('next', -1), ('param3', 7)])
 											  case 1:
-												switch (story_flags[13 0x000D]) {
+												switch (story_flags[13 /* us: 805A9AD8 0x40, jp: 805ACD58 0x40 */]) {
 												  case 0:
 													printf("Gulp... Again I see the shadow of a\ntowering monster...\n\n\nMy boy...no matter how many times I\npeer into your future, it never provides\na dull moment!\n\nOh, do forgive me... I didn't mean to\nimply your fate was entertaining, even\nif it is... Just take plenty of #####potions#####.\nThe fortunes tell me you'll be fine!")
 													goto flw_126
 												  case 1:
-													switch (story_flags[73 0x0049]) {
+													switch (story_flags[73 /* us: 805A9AE9 0x40, jp: 805ACD69 0x40 */]) {
 													  case 0:
-														switch (story_flags[207 0x00CF]) {
+														switch (story_flags[207 /* us: 805A9AF0 0x08, jp: 805ACD70 0x08 */]) {
 														  case 0:
-															switch (story_flags[467 0x01D3]) {
+															switch (story_flags[467 /* us: 805A9B0F 0x10, jp: 805ACD8F 0x10 */]) {
 															  case 0:
-																switch (story_flags[187 0x00BB]) {
+																switch (story_flags[187 /* us: 805A9AE9 0x04, jp: 805ACD69 0x04 */]) {
 																  case 0:
 																	printf("Aha! The task before you is as clear as\nmy unblinking eyes, young man!\n\n\nIt is also as hot as ever within the\nmountain of fire. To go there with\nan #####Iron Shield##### would be most wise!")
 																	flw_186:
 																	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 5), ('next', -1), ('param3', 7)])
 																  case 1:
-																	switch (story_flags[186 0x00BA]) {
+																	switch (story_flags[186 /* us: 805A9AE9 0x02, jp: 805ACD69 0x02 */]) {
 																	  case 0:
 																		printf("I see a vision, yesss... I see you at a\nmountain of fire, guiding a basin of\nwater.\n\nAnd...ah, yes! Failure to deliver it will\nspell trouble for a certain someone!")
 																		goto flw_186
 																	  case 1:
 																		printf("Water, water nowhere...and so great\nthe need! Such a thirst to quench!\nThis is a vexing circumstance indeed. \n\nBut, young man, you have already\ndiscovered the basin needed in order\nto carry the water.\n\nYes, yes...it's all clear to me now.\nNever forget...these eyes see ALL!\nGo to the woods, for it is there that\nyou will find what you seek.")
-																		switch (story_flags[669 0x029D]) {
+																		switch (story_flags[669 /* us: 805A9B1E 0x08, jp: 805ACD9E 0x08 */]) {
 																		  case 0:
 																			goto flw_186
 																		  case 1:
@@ -90,15 +90,15 @@ void entrypoint_111_01() {
 																			printf("I calculate a 60% probability that the\nobject you seek is in the woods.\nI advise you to search there.\n\n######Do you want me to calibrate your\n#####dowsing##### ability to search for the\n#####Water Basin#####?\n#####Yep!#####No, thanks.")
 																			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 60)])) {
 																			  case 0:
-																				story_flags[669 0x029D] = true;
-																				story_flags[668 0x029C] = false;
-																				story_flags[670 0x029E] = false;
-																				story_flags[680 0x02A8] = false;
-																				story_flags[681 0x02A9] = false;
-																				story_flags[682 0x02AA] = false;
+																				story_flags[669 /* us: 805A9B1E 0x08, jp: 805ACD9E 0x08 */] = true;
+																				story_flags[668 /* us: 805A9B1E 0x04, jp: 805ACD9E 0x04 */] = false;
+																				story_flags[670 /* us: 805A9B1E 0x10, jp: 805ACD9E 0x10 */] = false;
+																				story_flags[680 /* us: 805A9B1E 0x20, jp: 805ACD9E 0x20 */] = false;
+																				story_flags[681 /* us: 805A9B1E 0x40, jp: 805ACD9E 0x40 */] = false;
+																				story_flags[682 /* us: 805A9B1E 0x80, jp: 805ACD9E 0x80 */] = false;
 																				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 13), ('next', 96), ('param3', 56)])
 																				printf("######Yes, Master. Your #####dowsing##### ability\nis now set to detect the #####Water Basin#####.\nI suggest you begin searching at once.")
-																				story_flags[818 0x0332] = true;
+																				story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = true;
 																				flw_105:
 																				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 125), ('param3', 36)])
 																				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', -1), ('next', 124), ('param3', 16)])
@@ -120,15 +120,15 @@ void entrypoint_111_01() {
 															goto flw_89
 														}
 													  case 1:
-														switch (story_flags[15 0x000F]) {
+														switch (story_flags[15 /* us: 805A9ADB 0x01, jp: 805ACD5B 0x01 */]) {
 														  case 0:
 															printf("My big, crystal-clear eyes...they see\na path before you! You must learn a\n#####song #####within a holy sanctum!\n\nAnd what's this? My vision shows me\nit is a place you've visited before.\nA sacred place among the clouds...")
 															flw_185:
 															OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 5), ('next', -1), ('param3', 7)])
 														  case 1:
-															switch (story_flags[72 0x0048]) {
+															switch (story_flags[72 /* us: 805A9AE9 0x20, jp: 805ACD69 0x20 */]) {
 															  case 0:
-																switch (story_flags[208 0x00D0]) {
+																switch (story_flags[208 /* us: 805A9AF0 0x10, jp: 805ACD70 0x10 */]) {
 																  case 0:
 																	printf("Oho! You appear to have passed a\ngreat trial in a sandy place. No time\nfor congratulations--more visions\napproach!\nHmm... You must go to a place with\neven MORE sand. But I also see\n#####an expanse of water#####...##### And a #####ship#####!#####\nThis is all very confusing to behold...\nAnyway, you need to get to another\nsandy place!")
 																	goto flw_185
@@ -137,15 +137,15 @@ void entrypoint_111_01() {
 																	goto flw_185
 																}
 															  case 1:
-																switch (story_flags[11 0x000B]) {
+																switch (story_flags[11 /* us: 805A9AD8 0x10, jp: 805ACD58 0x10 */]) {
 																  case 0:
 																	printf("My big, crystal-clear eyes...they see\na path before you! You must learn a\n#####song #####within a holy sanctum!\n\nAnd what's this? My vision shows me\nit is a place you've visited before.\nA sacred place among the clouds...")
 																	flw_87:
 																	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 5), ('next', -1), ('param3', 7)])
 																  case 1:
-																	switch (story_flags[71 0x0047]) {
+																	switch (story_flags[71 /* us: 805A9AE5 0x80, jp: 805ACD65 0x80 */]) {
 																	  case 0:
-																		switch (story_flags[206 0x00CE]) {
+																		switch (story_flags[206 /* us: 805A9AF0 0x04, jp: 805ACD70 0x04 */]) {
 																		  case 0:
 																			printf("Oh! I see that you've safely cleared the\ntrial in the woods. Yessss...you can hide\nnothing from these eyes!\n\nMy visions...they show me a##### large tree\n#####in the middle of that forest. There is\nan important individual there.\n\nAnd a large stone statue...#####yesss...\nUnderground...##### Going up, going\ndown... Oh, yes, I see a flurry of\nactivity in your future.\nAnyway, just get yourself to the place\nwith many trees!")
 																			goto flw_87
@@ -154,17 +154,17 @@ void entrypoint_111_01() {
 																			goto flw_87
 																		}
 																	  case 1:
-																		switch (story_flags[325 0x0145]) {
+																		switch (story_flags[325 /* us: 805A9AFF 0x08, jp: 805ACD7F 0x08 */]) {
 																		  case 0:
 																			printf("Two whirling sails face a great tower,\nand atop that tower you play a tune.\nThen I see...light! A great light!\n\nThe light illuminates the path you\nmust follow!")
 																			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 5), ('next', -1), ('param3', 7)])
 																		  case 1:
-																			switch (story_flags[49 0x0031]) {
+																			switch (story_flags[49 /* us: 805A9AE6 0x04, jp: 805ACD66 0x04 */]) {
 																			  case 0:
-																				switch (story_flags[323 0x0143]) {
+																				switch (story_flags[323 /* us: 805A9AFF 0x02, jp: 805ACD7F 0x02 */]) {
 																				  case 0:
 																					printf("Ahhhh, yesss... You are searching\nfor something. Allow me to gaze into\nyour future...\n\nI see...a propeller falling through a\nsea of clouds... It is discarded, left to\nthe elements...\n\nAhhh, I see a #####mountain of fire#####...\nI see a temple on this burning\nmountain! What you seek is #####just down\nthe mountain from this temple#####...\nA burning mountain... Could such a\nthing truly exist?")
-																					switch (story_flags[668 0x029C]) {
+																					switch (story_flags[668 /* us: 805A9B1E 0x04, jp: 805ACD9E 0x04 */]) {
 																					  case 0:
 																						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 5), ('next', -1), ('param3', 7)])
 																					  case 1:
@@ -173,15 +173,15 @@ void entrypoint_111_01() {
 																						printf("")
 																						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 64)])) {
 																						  case 0:
-																							story_flags[668 0x029C] = true;
-																							story_flags[669 0x029D] = false;
-																							story_flags[670 0x029E] = false;
-																							story_flags[680 0x02A8] = false;
-																							story_flags[681 0x02A9] = false;
-																							story_flags[682 0x02AA] = false;
+																							story_flags[668 /* us: 805A9B1E 0x04, jp: 805ACD9E 0x04 */] = true;
+																							story_flags[669 /* us: 805A9B1E 0x08, jp: 805ACD9E 0x08 */] = false;
+																							story_flags[670 /* us: 805A9B1E 0x10, jp: 805ACD9E 0x10 */] = false;
+																							story_flags[680 /* us: 805A9B1E 0x20, jp: 805ACD9E 0x20 */] = false;
+																							story_flags[681 /* us: 805A9B1E 0x40, jp: 805ACD9E 0x40 */] = false;
+																							story_flags[682 /* us: 805A9B1E 0x80, jp: 805ACD9E 0x80 */] = false;
 																							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 13), ('next', 193), ('param3', 56)])
 																							printf("")
-																							story_flags[818 0x0332] = true;
+																							story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = true;
 																							flw_118:
 																							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 122), ('param3', 36)])
 																							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', -1), ('next', 119), ('param3', 16)])
@@ -192,7 +192,7 @@ void entrypoint_111_01() {
 																						}
 																					}
 																				  case 1:
-																					switch (story_flags[321 0x0141]) {
+																					switch (story_flags[321 /* us: 805A9AFC 0x80, jp: 805ACD7C 0x80 */]) {
 																					  case 0:
 																						printf("Let me see... You seek a certain\nsomething in order to repair a broken\nobject. Yesss...\n\nAh... I see an #####Ancient Flower##########...#####\n\n\n\nIn my visions, I have seen Ancient\nFlowers blossoming in ages past where\nthere is now #####sand#####.##### If you scour the\nsands, you will find one!")
 																						flw_86:
@@ -203,23 +203,23 @@ void entrypoint_111_01() {
 																					}
 																				}
 																			  case 1:
-																				switch (story_flags[131 0x0083]) {
+																				switch (story_flags[131 /* us: 805A9AE4 0x02, jp: 805ACD64 0x02 */]) {
 																				  case 0:
 																					printf("Ah, yesss... You have overcome a major\nobstacle and are understandably\npleased.\n\nYour next endeavor will be... #####Ohhhh!\nThe #####Ballad of the Goddess#####... #####I see you\nwant to learn about it!\n\nSo who would be able to tell you about\nsuch a thing, you might wonder?\n\n\nGazing into my crystal ball, I see the...\n#####headmaster of the Knight Academy#####!\nHe is the one to whom you should\nspeak, yesssss...")
 																					flw_85:
 																					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 5), ('next', -1), ('param3', 7)])
 																				  case 1:
-																					switch (story_flags[9 0x0009]) {
+																					switch (story_flags[9 /* us: 805A9AD8 0x04, jp: 805ACD58 0x04 */]) {
 																					  case 0:
 																						printf("The place you are traveling to...\n\n\n\nSomething large awakens? Hmm?#####\nIt's huge... #####Whatever it is, it's big!\n####(It's bigger than huge!\n\nI'm seeing that you should take extra\n#####Heart Potions#####. Oh, yesss... I foresee\nthat will help you succeed.")
 																						goto flw_85
 																					  case 1:
-																						switch (story_flags[7 0x0007]) {
+																						switch (story_flags[7 /* us: 805A9AD8 0x01, jp: 805ACD58 0x01 */]) {
 																						  case 0:
 																							printf("I see a place...yes, it's coming into\nfocus now... SAND! Hmm, sand?\nA sandbox? A giant sandbox?\n\nWell, whatever it is, I see it's a desolate\nplace that will cause you troubles with\nelectricity...\n\nIron won't do you any good there. I see\nyou'll need a #####Wooden Shield #####or one\nthat's stronger...\n\nAnd you might find yourself in need of\nbombs there. Make sure to carry\nseveral #####Bomb Bags#####.")
 																							goto flw_85
 																						  case 1:
-																							switch (story_flags[5 0x0005]) {
+																							switch (story_flags[5 /* us: 805A9AD9 0x40, jp: 805ACD59 0x40 */]) {
 																							  case 0:
 																								printf("Young man, my visions see...\nFlames! Burning! Smoke! Scorching\nheat! This is in your future...\n\nThe thought of taking a Wooden\nShield to such a place is madness...\nIron! You will need an #####Iron Shield #####to\nprotect yourself!\nAnd you should also take with you some\n#####potions to restore your vitality#####...")
 																								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 5), ('next', -1), ('param3', 7)])
@@ -260,10 +260,10 @@ void entrypoint_111_01() {
 				  case 0:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -10), ('next', 160), ('param3', 8)])
 					flw_160:
-					switch (story_flags[131 0x0083]) {
+					switch (story_flags[131 /* us: 805A9AE4 0x02, jp: 805ACD64 0x02 */]) {
 					  case 0:
 						printf("So, what information do you seek?\nWhat is it that you want to know?\n#####Where to next?#####Treasure!")
-						scene_flags[0 'Skyloft'][86 0x56] = true;
+						scene_flags[0 'Skyloft'][86 /* 0xB 40 */] = true;
 						OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 142), ('param3', 12)])
 						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 76)])) {
 						  case 0:
@@ -293,7 +293,7 @@ void entrypoint_111_01() {
 			}
 		}
 	  case 1:
-		scene_flags[0 'Skyloft'][26 0x1A] = true;
+		scene_flags[0 'Skyloft'][26 /* 0x2 04 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 1), ('param3', 12)])
 		printf("######Gaze into my eyes... Stare deeply into\nmy eyes... These eyes see many things.\nOh yes, these lovely, round eyes can\neven see...into the future!\nAllow me to tell your fortune, boy!\nDo you doubt these eyes? I look upon\nyour shirt, boy, and I see a single\nthread loose on your sleeve stitching!\nNothing can hide from these eyes!\nNormally, I seek 10 Rupees to tell a\nfortune, but this time I will charge but\n#####1 Rupee#####.\nSo do you want me to tell your\nfortune? Do you dare discover what\nfate these eyes see? Only #####1 Rupee#####!\n#####OK.#####Maybe later.")
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
@@ -342,26 +342,26 @@ void entrypoint_111_04() {
 
 void entrypoint_111_05() {
 	start()
-	switch (story_flags[681 0x02A9]) {
+	switch (story_flags[681 /* us: 805A9B1E 0x40, jp: 805ACD9E 0x40 */]) {
 	  case 0:
 		printf("Also, if you happen to be looking for a\n#####plant##### of some kind, then I also saw\na great green #####forest#####. #####Hmm... I can\nhardly imagine such a place...")
 		flw_132:
-		switch (story_flags[680 0x02A8]) {
+		switch (story_flags[680 /* us: 805A9B1E 0x20, jp: 805ACD9E 0x20 */]) {
 		  case 0:
 			printf("Also...you are searching for someone\nto plow a field for you, are you not?\n\n\nYou will find no such person in Skyloft!\nInstead, you must go to the #####caves##### where\n#####those who are skilled at digging##### dwell!\n\nThere you will find the right person for\nthe job. I have foreseen it!")
 			flw_134:
-			switch (story_flags[682 0x02AA]) {
+			switch (story_flags[682 /* us: 805A9B1E 0x80, jp: 805ACD9E 0x80 */]) {
 			  case 0:
 				printf("Ah! Yes, yes! I see it! You are searching\nfor something lost. A shiny, whirling\nthing...\n\nI see #####a dry place with sand#####! You will\nfind it there in a place that is, itself,\nnot easy to find. These big, dewy\neyes...they do not lie!")
 				flw_170:
-				switch (story_flags[474 0x01DA]) {
+				switch (story_flags[474 /* us: 805A9B0E 0x40, jp: 805ACD8E 0x40 */]) {
 				  case 0:
-					switch (story_flags[476 0x01DC]) {
+					switch (story_flags[476 /* us: 805A9B11 0x01, jp: 805ACD91 0x01 */]) {
 					  case 0:
 						flw_33:
 						printf("######That's all I can see for the moment...\nMy eyes, they grow weary. Come see\nme again if you should lose your way.")
 						printf("############Good luck, young man!")
-						story_flags[45 0x002D] = true;
+						story_flags[45 /* us: 805A9AE7 0x40, jp: 805ACD67 0x40 */] = true;
 					  case 1:
 						printf("Oh! The mists are parting... I also see a\nperson who has lost a rare bug...\n\n\nMy crystal ball reveals that this bug \nis being held in secret on an island\nby #####one with a love for insects#####!")
 						goto flw_33
@@ -397,7 +397,7 @@ void entrypoint_111_06() {
 		printf("And then there's the #####Amber Relic #####and\nthe #####Dusk Relic#####. These can be found in\nevery region, I see...\n\nBut for some reason, the #####Dusk Relic\n#####can only be found during some kind\nof trial...\n\nAnd my eyes, they see that the\n#####Goddess Plume #####is the rarest of all\ntreasures! If you should find one, you\nwill be the luckiest man alive!")
 		printf("######That's all I can see for the moment...\nMy eyes, they grow weary. Come see\nme again if you should lose your way.")
 		printf("############Good luck, young man!")
-		story_flags[45 0x002D] = true;
+		story_flags[45 /* us: 805A9AE7 0x40, jp: 805ACD67 0x40 */] = true;
 	  case 1:
 		printf("The land of sands, eh... In the land of\nsands, I see you will find #####Tumbleweeds#####.\nYessss... And something called an\n#####Ancient Flower#####.\nTo catch a #####Tumbleweed#####, I foresee you\nswinging a net quickly just as one\nrolls across your path.\n\nAs the name suggests, I see you can\npick an #####Ancient Flower##### only by\ntraveling back to ancient times.")
 		goto flw_155
@@ -418,11 +418,11 @@ void entrypoint_111_07() {
 
 void entrypoint_111_11() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 3), ('param3', 5), ('param4', 2), ('param5', 26)])) {
+	switch (loadzone_temp_flags[3 /* 0x9 08 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 4), ('next', -1), ('param3', 7)])
 	  case 1:
-		switch (story_flags[374 0x0176]) {
+		switch (story_flags[374 /* us: 805A9B02 0x10, jp: 805ACD82 0x10 */]) {
 		  case 0:
 			printf("#####\nYesssss! The young man is here!\nWelcome! I've been waiting!\n\n\nAnd you've got that smirk on your face,\nyesssss... The one that says you want\nme to see what the future will bring!")
 			flw_140:
@@ -443,7 +443,7 @@ void entrypoint_111_11() {
 			}
 		  case 1:
 			printf("#####\nAhhh! You're that young man from\nbefore!\n\n\nThanks to you, I've been able to return\nto a life of gazing into the future to\ntell people's fortunes!\n\nWhat do you say I tell you yours, hm?\nAnd I'll even cut you a deal... From now\non, it's just half price!")
-			story_flags[374 0x0176] = true;
+			story_flags[374 /* us: 805A9B02 0x10, jp: 805ACD82 0x10 */] = true;
 			goto flw_140
 		}
 	}
@@ -451,7 +451,7 @@ void entrypoint_111_11() {
 
 void entrypoint_111_30() {
 	start()
-	switch (story_flags[375 0x0177]) {
+	switch (story_flags[375 /* us: 805A9B02 0x20, jp: 805ACD82 0x20 */]) {
 	  case 0:
 		printf("######Yesss, thanks to you, young man,\nmy life is full of happiness!\n\n\nI have not yet foreseen how your life\nwill fare, but if you'd like to find out,\ncome to the bazaar during the daylight\nhours and we shall see!")
 	  case 1:

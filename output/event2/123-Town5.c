@@ -1,40 +1,40 @@
 void entrypoint_123_06() {
 	start()
-	switch (story_flags[629 0x0275]) {
+	switch (story_flags[629 /* us: 805A9B1A 0x01, jp: 805ACD9A 0x01 */]) {
 	  case 0:
-		switch (story_flags[630 0x0276]) {
+		switch (story_flags[630 /* us: 805A9B1A 0x02, jp: 805ACD9A 0x02 */]) {
 		  case 0:
-			switch (story_flags[691 0x02B3]) {
+			switch (story_flags[691 /* us: 805A9B20 0x01, jp: 805ACDA0 0x01 */]) {
 			  case 0:
-				switch (story_flags[304 0x0130]) {
+				switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 				  case 0:
-					switch (story_flags[633 0x0279]) {
+					switch (story_flags[633 /* us: 805A9B1A 0x08, jp: 805ACD9A 0x08 */]) {
 					  case 0:
-						switch (story_flags[634 0x027A]) {
+						switch (story_flags[634 /* us: 805A9B1A 0x10, jp: 805ACD9A 0x10 */]) {
 						  case 0:
-							switch (story_flags[635 0x027B]) {
+							switch (story_flags[635 /* us: 805A9B1A 0x20, jp: 805ACD9A 0x20 */]) {
 							  case 0:
-								switch (story_flags[636 0x027C]) {
+								switch (story_flags[636 /* us: 805A9B1A 0x40, jp: 805ACD9A 0x40 */]) {
 								  case 0:
-									switch (story_flags[637 0x027D]) {
+									switch (story_flags[637 /* us: 805A9B1A 0x80, jp: 805ACD9A 0x80 */]) {
 									  case 0:
 										printf("######Hello, darling! I'll store anything you\nwant me to here.\n#####Great!#####No, thanks.")
 										flw_273:
 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 112), ('param2', 6), ('next', -1), ('param3', 7)])
 									  case 1:
 										printf("######Welcome, darling!\n\n\n\nI'm happy to hold on to anything my\nprecious darling needs me to!\nAnything at all!\n#####Great!#####No, thanks.")
-										story_flags[637 0x027D] = true;
+										story_flags[637 /* us: 805A9B1A 0x80, jp: 805ACD9A 0x80 */] = true;
 										goto flw_273
 									}
 								  case 1:
-									switch (story_flags[637 0x027D]) {
+									switch (story_flags[637 /* us: 805A9B1A 0x80, jp: 805ACD9A 0x80 */]) {
 									  case 0:
 										printf("######Welcome, ####. Do you\nhave something to deposit with me, the\nwoman who got over her broken heart\nand is getting prettier by the day?\n#####Yes, please!#####No, thanks.")
 										flw_272:
 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 112), ('param2', 6), ('next', -1), ('param3', 7)])
 									  case 1:
 										printf("######Oh... Welcome, ####.\n\n\n\nSorry for acting so crazy the other day.\nI thought long and hard about it, and\nI'm completely over it now.\n\nThere's an old saying that women grow\nmore beautiful after their heart's been\nbroken. I think I know what that\nmeans now...\nAnd I fully intend to make myself\nmore and more beautiful every day.\n\n\nNo regrets, OK?\n\n\n\nSo...where were we? Anything to\ndeposit today?\n#####Yes, please!#####No, thanks.")
-										story_flags[637 0x027D] = true;
+										story_flags[637 /* us: 805A9B1A 0x80, jp: 805ACD9A 0x80 */] = true;
 										goto flw_272
 									}
 								}
@@ -43,7 +43,7 @@ void entrypoint_123_06() {
 								printf("######Hello, darling!\n\n\n\n######Umm... I, uhh... #####I want you to visit me\nat my house tonight#####. I have something\nI need to say.\n\n######My house is just next to the bazaar.\nYou'll definitely come, right?\nI'll be waiting!")
 								flw_79:
 								printf("Oh, and do you have something you\nwant to pick up or have me store?\n#####Yes, please!#####No, thanks.")
-								story_flags[634 0x027A] = true;
+								story_flags[634 /* us: 805A9B1A 0x10, jp: 805ACD9A 0x10 */] = true;
 								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 112), ('param2', 6), ('next', -1), ('param3', 7)])
 							}
 						  case 1:
@@ -79,7 +79,7 @@ void entrypoint_123_06() {
 							printf("######Really...? That makes me so happy...")
 							flw_72:
 							printf("######Oh no! I am SO sorry! I need to learn\nhow to keep these delirious dreams\nin check.\n\n######...No, wait... Ahh! I mean, are there\nsome items you want me to check?\n#####Darling#####?\n#####Please!#####No, thanks.")
-							story_flags[691 0x02B3] = true;
+							story_flags[691 /* us: 805A9B20 0x01, jp: 805ACDA0 0x01 */] = true;
 							goto flw_270
 						  case 1:
 							goto flw_72
@@ -94,7 +94,7 @@ void entrypoint_123_06() {
 				}
 			}
 		  case 1:
-			switch (story_flags[690 0x02B2]) {
+			switch (story_flags[690 /* us: 805A9B21 0x80, jp: 805ACDA1 0x80 */]) {
 			  case 0:
 				printf("######Oh. You're back. I'll hold on to\nanything of yours you want me to.\n\n\nSomething in your pouch today that\nyou want to deposit? Or something\nyou want to pick up?\n#####Yes, please!#####No, thanks.")
 				flw_60:
@@ -108,7 +108,7 @@ void entrypoint_123_06() {
 					printf("####\n#Um... Nothing... There's nothing\nwrong...")
 					flw_76:
 					printf("It's not like #Oh, hey, that guy's back!\nI'm so happy!\" or anything like that...\n\n\nBut...if you think about how often\nwe meet, you have to admit that our\nrelationship has gone beyond employee\nand customer, you know?\n######Oh no... I didn't mean to... What am\nI saying?!\n\n\nPlease forget everything I just said.\nOK?\n\n\n######OK, get it together... Be professional...\nDo you have anything you want me to\nhold on to?\n#####Yes, please.#####No, thanks.")
-					story_flags[690 0x02B2] = true;
+					story_flags[690 /* us: 805A9B21 0x80, jp: 805ACDA1 0x80 */] = true;
 					goto flw_60
 				  case 1:
 					printf("####\n#I... I do? I don't think I do...\nMaybe you're mistaken?")
@@ -117,7 +117,7 @@ void entrypoint_123_06() {
 			}
 		}
 	  case 1:
-		switch (story_flags[689 0x02B1]) {
+		switch (story_flags[689 /* us: 805A9B21 0x40, jp: 805ACDA1 0x40 */]) {
 		  case 0:
 			printf("######Oh. Hey. This is the Item Check.\nBut I bet you're here just to check me\nout, right? Well don't make a habit of\nit, OK?\nAnyway, you need to grab something?\nOr drop something off?\n#####Yes, please!#####No, thanks.")
 			flw_263:
@@ -129,7 +129,7 @@ void entrypoint_123_06() {
 				printf("######Oh... Right...\n\n\n\nWell, of course. That wouldn't even\nmake sense, right?\n\n\n####\n#Oh, it's no big deal that you don't.\nNot at all.")
 				flw_53:
 				printf("######...Oh! I almost forgot. I still have a\njob to do. Do you have something\nfor me to hold on to?\n#####Yes, please.#####No, thanks.")
-				story_flags[689 0x02B1] = true;
+				story_flags[689 /* us: 805A9B21 0x40, jp: 805ACDA1 0x40 */] = true;
 				goto flw_263
 			  case 1:
 				printf("######What?! Really?\n\n\n\nYeah, right... You think I'm going to\nfall for that old line?\n\n\n####\n#But...if it were true, that might be\nkind of nice...")
@@ -141,19 +141,19 @@ void entrypoint_123_06() {
 
 void entrypoint_123_07() {
 	start()
-	switch (story_flags[628 0x0274]) {
+	switch (story_flags[628 /* us: 805A9B1B 0x80, jp: 805ACD9B 0x80 */]) {
 	  case 0:
-		switch (story_flags[629 0x0275]) {
+		switch (story_flags[629 /* us: 805A9B1A 0x01, jp: 805ACD9A 0x01 */]) {
 		  case 0:
-			switch (story_flags[630 0x0276]) {
+			switch (story_flags[630 /* us: 805A9B1A 0x02, jp: 805ACD9A 0x02 */]) {
 			  case 0:
-				switch (story_flags[634 0x027A]) {
+				switch (story_flags[634 /* us: 805A9B1A 0x10, jp: 805ACD9A 0x10 */]) {
 				  case 0:
-					switch (story_flags[635 0x027B]) {
+					switch (story_flags[635 /* us: 805A9B1A 0x20, jp: 805ACD9A 0x20 */]) {
 					  case 0:
-						switch (story_flags[636 0x027C]) {
+						switch (story_flags[636 /* us: 805A9B1A 0x40, jp: 805ACD9A 0x40 */]) {
 						  case 0:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 5), ('param4', 2), ('param5', 66)])) {
+							switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 							  case 0:
 								printf("######I'm glad you told me how you feel,\ndarling. See you soon at the shop!")
 							  case 1:
@@ -168,13 +168,13 @@ void entrypoint_123_07() {
 								}
 							}
 						  case 1:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 5), ('param4', 2), ('param5', 64)])) {
+							switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 							  case 0:
 								printf("######I'm strong. I'll get over you. Please let\nme be alone with the cold night now...")
 							  case 1:
-								switch (story_flags[637 0x027D]) {
+								switch (story_flags[637 /* us: 805A9B1A 0x80, jp: 805ACD9A 0x80 */]) {
 								  case 0:
-									switch (story_flags[639 0x027F]) {
+									switch (story_flags[639 /* us: 805A9B1D 0x02, jp: 805ACD9D 0x02 */]) {
 									  case 0:
 										printf("######I don't know why, but my father\nhas been in a great mood lately...\n\n\nDoes he even realize that his only\ndaughter has just had her heart\nbroken for the very first time?\nHow annoying...")
 									  case 1:
@@ -218,9 +218,9 @@ void entrypoint_123_07() {
 										OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 30), ('next', 314), ('param3', 6)])
 										printf("######...But I understand your true feelings.\nBetter than you know.\n\n\nYou're saying that you cannot give\nyourself over to love just yet...\nThat you have much more important\nthings to do right now.\n######You have some kind of serious job you\nhave to attend to first, right?\n\n\n######If you weren't off on an adventure,\nyou probably wouldn't need to come\nby the Item Check so often.\n\nAnd that's why I won't ask any more of\nyou. I'll just watch over you, protecting\nyou from afar, keeping a vigilant eye\non your items.\n######And when your important work is done,\nwe'll tell my dad we're in love!\n\n\n######Until then, we'll keep our love secret!\nDarling, I... I'll see you again at the\nItem Check.")
 										OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 315), ('param3', 43)])
-										story_flags[636 0x027C] = true;
+										story_flags[636 /* us: 805A9B1A 0x40, jp: 805ACD9A 0x40 */] = true;
 										flw_333:
-										story_flags[635 0x027B] = true;
+										story_flags[635 /* us: 805A9B1A 0x20, jp: 805ACD9A 0x20 */] = true;
 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 335), ('param3', 4)])
 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 									  case 1:
@@ -291,7 +291,7 @@ void entrypoint_123_07() {
 
 void entrypoint_123_08() {
 	start()
-	switch (story_flags[575 0x023F]) {
+	switch (story_flags[575 /* us: 805A9B18 0x40, jp: 805ACD98 0x40 */]) {
 	  case 0:
 		printf("######Thank you so much, ####!\n\n\n\n####\n#My home is sparkling clean again!\nIt feels so much better when the\nplace isn't under a blanket of dust.")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 190), ('param3', 33)])
@@ -302,16 +302,16 @@ void entrypoint_123_08() {
 		printf("######If the place gets dusty again, I might\nneed you to come back and tidy it up\nfor me. But I'll pay you again, OK?")
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 429), ('param3', 12)])
 		printf("####\n#Oh...one more thing.\nDon't tell Pipit about this.\n\n\n######He'll only get angry at me for spending\nmoney on something he thinks I should\nbe doing myself. You can keep a secret,\nright?")
-		story_flags[581 0x0245] = true;
+		story_flags[581 /* us: 805A9B1B 0x10, jp: 805ACD9B 0x10 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 196), ('param3', 5)])
-		story_flags[377 0x0179] = false;
+		story_flags[377 /* us: 805A9B02 0x80, jp: 805ACD82 0x80 */] = false;
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', -1), ('next', -1), ('param3', 42)])
 	  case 1:
 		printf("######Thank you so much, ####!\n\n\n\n####\n#My home is sparkling clean again!\nIt feels so much better when the\nplace isn't under a blanket of dust.")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 186), ('param3', 33)])
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 198), ('param3', 43)])
-		story_flags[575 0x023F] = true;
-		story_flags[361 0x0169] = true;
+		story_flags[575 /* us: 805A9B18 0x40, jp: 805ACD98 0x40 */] = true;
+		story_flags[361 /* us: 805A9B00 0x80, jp: 805ACD80 0x80 */] = true;
 		goto flw_190
 	}
 }
@@ -324,7 +324,7 @@ void entrypoint_123_09() {
 		printf("#####\nWell, that's too bad... Oh well.\nLet me know if you can help out\nnext time, OK?")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 206), ('param3', 33)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 207), ('param3', 5)])
-		story_flags[377 0x0179] = false;
+		story_flags[377 /* us: 805A9B02 0x80, jp: 805ACD82 0x80 */] = false;
 	  case 1:
 		printf("####\n#Oh, well then by all means, please\ncontinue. I'd start with the floor, as\nit could really use some work...\n\nThere's probably still some dust around\nthe #####window#####, the #####shelves#####, and the #####bed##### as\nwell. You have to keep a sharp eye out\nto get all of it!")
 	}
@@ -335,7 +335,7 @@ void entrypoint_123_10() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 139), ('param3', 17)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', 219), ('param3', 39)])
 	flw_219:
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 8), ('param3', 5), ('param4', 2), ('param5', 111)])) {
+	switch (loadzone_temp_flags[8 /* 0x8 01 */]) {
 	  case 0:
 		printf("Hold on there, ####.\nI've got your reward for cleaning the\nplace. Just come on over here.")
 	  case 1:
@@ -346,7 +346,7 @@ void entrypoint_123_10() {
 			OrderedDict([('type', 'type3'), ('subType', 2), ('param1', 0), ('param2', 356), ('next', 137), ('param3', 15)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 138), ('param3', 33)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 150), ('param3', 5)])
-			story_flags[377 0x0179] = false;
+			story_flags[377 /* us: 805A9B02 0x80, jp: 805ACD82 0x80 */] = false;
 			flw_140:
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', -1), ('next', -1), ('param3', 42)])
 		  case 1:
@@ -361,10 +361,10 @@ void entrypoint_123_11() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 147), ('param3', 17)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', 142), ('param3', 39)])
-	switch (story_flags[576 0x0240]) {
+	switch (story_flags[576 /* us: 805A9B18 0x80, jp: 805ACD98 0x80 */]) {
 	  case 0:
 		flw_164:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 5), ('param4', 2), ('param5', 99)])) {
+		switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 		  case 0:
 			goto flw_219
 		  case 1:
@@ -373,9 +373,9 @@ void entrypoint_123_11() {
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', -1), ('next', -1), ('param3', 42)])
 		}
 	  case 1:
-		switch (story_flags[361 0x0169]) {
+		switch (story_flags[361 /* us: 805A9B00 0x80, jp: 805ACD80 0x80 */]) {
 		  case 0:
-			story_flags[361 0x0169] = false;
+			story_flags[361 /* us: 805A9B00 0x80, jp: 805ACD80 0x80 */] = false;
 			goto flw_164
 		  case 1:
 			goto flw_164
@@ -453,7 +453,7 @@ void entrypoint_123_14() {
 	start()
 	flw_246:
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 247), ('param3', 5)])
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 5), ('param4', 2), ('param5', 120)])) {
+	switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 	  case 0:
 		flw_248:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', -1), ('next', -1), ('param3', 42)])
@@ -577,25 +577,25 @@ void entrypoint_123_16() {
 
 void entrypoint_123_00() {
 	start()
-	switch (story_flags[304 0x0130]) {
+	switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 49), ('param2', 1), ('next', 6), ('param3', 23)])
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 6)])) {
 		  case 0:
-			switch (story_flags[574 0x023E]) {
+			switch (story_flags[574 /* us: 805A9B18 0x20, jp: 805ACD98 0x20 */]) {
 			  case 0:
-				switch (story_flags[575 0x023F]) {
+				switch (story_flags[575 /* us: 805A9B18 0x40, jp: 805ACD98 0x40 */]) {
 				  case 0:
-					switch (story_flags[576 0x0240]) {
+					switch (story_flags[576 /* us: 805A9B18 0x80, jp: 805ACD98 0x80 */]) {
 					  case 0:
-						switch (story_flags[580 0x0244]) {
+						switch (story_flags[580 /* us: 805A9B1B 0x08, jp: 805ACD9B 0x08 */]) {
 						  case 0:
 							flw_19:
-							switch (story_flags[581 0x0245]) {
+							switch (story_flags[581 /* us: 805A9B1B 0x10, jp: 805ACD9B 0x10 */]) {
 							  case 0:
 								printf("######Welcome, ####.\n\n\n\nIf my house gets dirty again, you'll be\nthe first to know!")
 							  case 1:
-								switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 5), ('param4', 2), ('param5', 81)])) {
+								switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 								  case 0:
 									switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 14), ('param4', 2), ('param5', 109)])) {
 									  case 0:
@@ -604,7 +604,7 @@ void entrypoint_123_00() {
 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 123), ('param2', 9), ('next', -1), ('param3', 7)])
 									}
 								  case 1:
-									switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 5), ('param4', 2), ('param5', 79)])) {
+									switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
 									  case 0:
 										printf("######Do you think you could do some light\ncleaning for me? I've always hated\ncleaning...\n\n####\n#I'll give you some money, OK?\n#####Sure!#####No, sorry.")
 										flw_126:
@@ -612,7 +612,7 @@ void entrypoint_123_00() {
 										  case 0:
 											printf("######Oh, that makes me so happy! I knew\nyou wouldn't leave me to a life of dirt,\n####.\n\n######So I'll just leave you to it, then!")
 											OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 149), ('param3', 33)])
-											story_flags[377 0x0179] = true;
+											story_flags[377 /* us: 805A9B02 0x80, jp: 805ACD82 0x80 */] = true;
 											OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 4)])
 										  case 1:
 											printf("######Oh...####, I was sure\nyou'd help me out!")
@@ -628,14 +628,14 @@ void entrypoint_123_00() {
 						  case 1:
 							OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 10), ('param2', 2304), ('next', 45), ('param3', 13)])
 							printf("######Hi there, ####.\n\n\n\n######Pipit is really angry with me...\n\n\n\n####\n#He said I shouldn't be spending our\nmoney on a housekeeper.\n\n\n######...\n\n\n\n######But...you're not exactly a housekeeper,\nare you, ####?\nThat makes it OK, doesn't it?\n\n######Anyway, that's good enough for me.\nAs far as I'm concerned, I'll pay you to\nclean my house anytime it gets dusty.")
-							story_flags[580 0x0244] = true;
+							story_flags[580 /* us: 805A9B1B 0x08, jp: 805ACD9B 0x08 */] = true;
 						}
 					  case 1:
 						goto flw_19
 					}
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1), ('next', 120), ('param3', 31)])
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 5), ('param4', 2), ('param5', 75)])) {
+					switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 					  case 0:
 						switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 14), ('param4', 2), ('param5', 105)])) {
 						  case 0:
@@ -644,7 +644,7 @@ void entrypoint_123_00() {
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 123), ('param2', 9), ('next', -1), ('param3', 7)])
 						}
 					  case 1:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 5), ('param4', 2), ('param5', 10)])) {
+						switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
 						  case 0:
 							printf("######Do you think you could do some light\ncleaning for me? I've always hated\ncleaning...\n\n####\n#I'll give you some money, OK?\n#####Sure!#####No, sorry.")
 							flw_2:
@@ -652,15 +652,15 @@ void entrypoint_123_00() {
 							  case 0:
 								printf("####\n#You will?! Great! I knew you wouldn't\nleave me to sit in this dusty house,\n####.\n\n######What's that? ...A broom? You know,\nI don't even remember where we keep\nthe crazy thing...\n#####...Or if we ever owned one...\n######Most of the time I just wait for a good\nstrong wind to come along and #####blow the\ndust away#####.\n\n######So look, I don't really care how you get\nthe job done--I just want you to #####blow it\nall away #####for me.\n\n######So I'll just leave you to it, then!")
 								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 148), ('param3', 33)])
-								story_flags[377 0x0179] = true;
+								story_flags[377 /* us: 805A9B02 0x80, jp: 805ACD82 0x80 */] = true;
 								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 122), ('param3', 4)])
 								flw_122:
-								switch (story_flags[574 0x023E]) {
+								switch (story_flags[574 /* us: 805A9B18 0x20, jp: 805ACD98 0x20 */]) {
 								  case 0:
 									flw_121:
 									OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', -1), ('param3', 4)])
 								  case 1:
-									story_flags[574 0x023E] = true;
+									story_flags[574 /* us: 805A9B18 0x20, jp: 805ACD98 0x20 */] = true;
 									goto flw_121
 								}
 							  case 1:
@@ -681,7 +681,7 @@ void entrypoint_123_00() {
 			}
 		  case 1:
 			flw_17:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 5), ('param4', 2), ('param5', 12)])) {
+			switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
 			  case 0:
 				printf("######How's my Pipit doing at school?\n\n\n\nHe's a real go-getter, unlike myself,\nso I'm sure I have no reason to worry.\n#####Such a mess!#####...")
 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 101)])) {
@@ -711,7 +711,7 @@ void entrypoint_123_01() {
 	OrderedDict([('type', 'type3'), ('subType', 2), ('param1', 24), ('param2', 100), ('next', 25), ('param3', 14)])
 	printf("Calm down, Pipit. Don't get so mad...")
 	printf("How could I not be mad?!\n\n\n\nIt's been obvious lately that you've\nbeen #####giving someone Rupees #####to\nclean the house!\n\nI gave you that money so you could buy\nsome bread!\n\n\nIf you keep spending money like this,\nI won't have any money to go to the\nKnight Academy!\n\nI didn't take that job patrolling just so\nyou could live a life of luxury!\n\n\nYou've got to stop doing this!")
-	story_flags[577 0x0241] = true;
+	story_flags[577 /* us: 805A9B1B 0x01, jp: 805ACD9B 0x01 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1), ('next', 28), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 18), ('next', 286), ('param3', 32)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 101), ('next', 33), ('param3', 32)])
@@ -731,40 +731,40 @@ void entrypoint_123_01() {
 		flw_181:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', 30), ('param3', 39)])
 		OrderedDict([('type', 'type3'), ('subType', 2), ('param1', 26), ('param2', 18), ('next', 31), ('param3', 14)])
-		story_flags[576 0x0240] = true;
-		story_flags[578 0x0242] = true;
+		story_flags[576 /* us: 805A9B18 0x80, jp: 805ACD98 0x80 */] = true;
+		story_flags[578 /* us: 805A9B1B 0x02, jp: 805ACD9B 0x02 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 	  case 1:
 		printf("######Oh... You heard!\n\n\n\n######It's true. I'm working the night patrol\nto earn some money!\n\n\n######But don't look at me like that!\nYou're not exactly Mr. Perfect either,\nare you, Mr. Eavesdropper!\n\n######Maybe we should just forget about\neverything that happened here tonight!")
-		scene_flags[0 'Skyloft'][76 0x4C] = true;
+		scene_flags[0 'Skyloft'][76 /* 0x8 10 */] = true;
 		goto flw_181
 	}
 }
 
 void entrypoint_123_02() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 16), ('param3', 5), ('param4', 2), ('param5', 192)])) {
+	switch (loadzone_temp_flags[16 /* 0xB 01 */]) {
 	  case 0:
 		printf("######Hmm...##### Recently the monsters that\nusually roam the town at night are\nnowhere to be seen.\n\n######I wonder what's going on... Not that\nI'm complaining or anything!\nPeaceful nights are the best.")
 	  case 1:
-		switch (story_flags[576 0x0240]) {
+		switch (story_flags[576 /* us: 805A9B18 0x80, jp: 805ACD98 0x80 */]) {
 		  case 0:
-			switch (story_flags[579 0x0243]) {
+			switch (story_flags[579 /* us: 805A9B1B 0x04, jp: 805ACD9B 0x04 */]) {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 8), ('param2', 1025), ('next', 41), ('param3', 13)])
 				printf("Hey, ####! It can be\ndangerous out here at night, so be\ncareful.\n\n######Oh, and about that thing the other\nnight... We agreed to keep that secret,\nright?!")
 				flw_431:
-				switch (story_flags[360 0x0168]) {
+				switch (story_flags[360 /* us: 805A9B00 0x40, jp: 805ACD80 0x40 */]) {
 				  case 0:
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 0), ('next', -1), ('param3', 4)])
 				  case 1:
 				}
 			  case 1:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 76), ('param3', 6), ('param4', 2), ('param5', 97)])) {
+				switch (scene_flags[76 /* 0x8 10 */]) {
 				  case 0:
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 15), ('param2', 4376), ('next', 39), ('param3', 13)])
 					printf("####You...weren't supposed to see that\nwhole spectacle, ####. \nHow embarrassing...\n\n######I feel so ashamed of my mother\nsometimes. She's just so lazy\nsometimes. I don't know what to do.\n\n######But I'll be fine. You don't need to\nworry about me.\n\n\n######I still haven't worked out who did the\ncleaning for my mother, though...\n\n\n######Who do they think they are, getting\ninvolved in our business like that?")
-					story_flags[579 0x0243] = true;
+					story_flags[579 /* us: 805A9B1B 0x04, jp: 805ACD9B 0x04 */] = true;
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 8), ('param2', 1025), ('next', 162), ('param3', 13)])
 					printf("Hey, ####. I'm protecting\nthe peace in Skyloft!\n\n\n######Let's make this a safe place to live,\nwhere we all can live in peace!\n\n\n######Umm...##### Why are you looking at me so\nsuspiciously?")
@@ -772,7 +772,7 @@ void entrypoint_123_02() {
 				}
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 4), ('param3', 5), ('param4', 2), ('param5', 95)])) {
+			switch (loadzone_temp_flags[4 /* 0x9 10 */]) {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 8), ('param2', 1029), ('next', 160), ('param3', 13)])
 				printf("########! One day you'll\nunderstand what it is to be a knight!\nDon't you worry.")
@@ -796,7 +796,7 @@ void entrypoint_123_02() {
 
 void entrypoint_123_03() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 5), ('param4', 2), ('param5', 122)])) {
+	switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 9), ('param2', 768), ('next', 254), ('param3', 13)])
 		printf("######You broke my antique!\n\n\n\nNext time that happens, we're going to\nhave words!")
@@ -814,9 +814,9 @@ void entrypoint_123_04() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 31), ('param2', 100), ('next', 242), ('param3', 16)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 336), ('param3', 39)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 8), ('next', 232), ('param3', 24)])
-	switch (story_flags[378 0x017A]) {
+	switch (story_flags[378 /* us: 805A9B05 0x01, jp: 805ACD85 0x01 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 5), ('param4', 2), ('param5', 115)])) {
+		switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 		  case 0:
 			printf("######YOU! Did I do something horrible to\nyou in a past life?! Why are you\npunishing me like this?!")
 			flw_401:
@@ -832,7 +832,7 @@ void entrypoint_123_04() {
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 123), ('param2', 16), ('next', -1), ('param3', 7)])
 				}
 			  case 1:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 5), ('param4', 2), ('param5', 184)])) {
+				switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 				  case 0:
 					printf("...Look, I already know you don't have\neven a single Rupee to your name...\nSO STOP BREAKING THINGS!\n\nGet out of here!")
 					goto flw_246
@@ -858,7 +858,7 @@ void entrypoint_123_04() {
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -18), ('next', 234), ('param3', 8)])
 				printf("######Next time that happens, we're going to\nhave words!")
 				flw_235:
-				story_flags[378 0x017A] = true;
+				story_flags[378 /* us: 805A9B05 0x01, jp: 805ACD85 0x01 */] = true;
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 243), ('param3', 4)])
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 248), ('param3', 5)])
 				goto flw_248

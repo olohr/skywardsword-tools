@@ -22,17 +22,17 @@ void entrypoint_510_03() {
 void entrypoint_510_04() {
 	start()
 	printf("######Master, I suggest that we also return to\nthe sky and collect the propeller as\nsoon as possible.")
-	story_flags[668 0x029C] = false;
-	story_flags[324 0x0144] = true;
-	story_flags[818 0x0332] = false;
-	story_flags[186 0x00BA] = false;
-	story_flags[365 0x016D] = false;
-	story_flags[397 0x018D] = false;
-	story_flags[471 0x01D7] = false;
-	story_flags[480 0x01E0] = false;
-	story_flags[372 0x0174] = false;
-	story_flags[366 0x016E] = false;
-	story_flags[1108 0x0454] = true;
+	story_flags[668 /* us: 805A9B1E 0x04, jp: 805ACD9E 0x04 */] = false;
+	story_flags[324 /* us: 805A9AFF 0x04, jp: 805ACD7F 0x04 */] = true;
+	story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = false;
+	story_flags[186 /* us: 805A9AE9 0x02, jp: 805ACD69 0x02 */] = false;
+	story_flags[365 /* us: 805A9B03 0x08, jp: 805ACD83 0x08 */] = false;
+	story_flags[397 /* us: 805A9B0F 0x80, jp: 805ACD8F 0x80 */] = false;
+	story_flags[471 /* us: 805A9B0E 0x08, jp: 805ACD8E 0x08 */] = false;
+	story_flags[480 /* us: 805A9B11 0x10, jp: 805ACD91 0x10 */] = false;
+	story_flags[372 /* us: 805A9B02 0x04, jp: 805ACD82 0x04 */] = false;
+	story_flags[366 /* us: 805A9B03 0x10, jp: 805ACD83 0x10 */] = false;
+	story_flags[1108 /* us: 805A9B54 0x04, jp: 805ACDD4 0x04 */] = true;
 }
 
 void entrypoint_510_05() {

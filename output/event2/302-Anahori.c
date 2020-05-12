@@ -3,7 +3,7 @@ void entrypoint_302_01() {
 	switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 15), ('param4', 3), ('param5', 9)])) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 13), ('param2', 3585), ('next', 16), ('param3', 13)])
-		switch (story_flags[180 0x00B4]) {
+		switch (story_flags[180 /* us: 805A9AE6 0x08, jp: 805ACD66 0x08 */]) {
 		  case 0:
 			printf("Welcome!")
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -1), ('next', 53), ('param3', 13)])
@@ -124,11 +124,11 @@ void entrypoint_302_01() {
 			printf("Hello there! Thanks for stopping by.\nFirst time here, am I right?")
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -1), ('next', 154), ('param3', 13)])
 			printf("The name's #####Tubert#####. Nice to meet you! \nI run this little game I like to call\n#####Thrill Digger#####!")
-			story_flags[180 0x00B4] = true;
+			story_flags[180 /* us: 805A9AE6 0x08, jp: 805ACD66 0x08 */] = true;
 			goto flw_53
 		}
 	  case 1:
-		story_flags[185 0x00B9] = true;
+		story_flags[185 /* us: 805A9AE9 0x01, jp: 805ACD69 0x01 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 72), ('param3', 44)])
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 20), ('param3', 12)])
 		printf("Here's your grand Rupee total: #################!")
@@ -143,7 +143,7 @@ void entrypoint_302_01() {
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -1), ('next', 81), ('param3', 13)])
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 108), ('param3', 12)])
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 50), ('param3', 45)])
-				switch (story_flags[181 0x00B5]) {
+				switch (story_flags[181 /* us: 805A9AE6 0x10, jp: 805ACD66 0x10 */]) {
 				  case 0:
 					flw_55:
 					switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 1), ('param3', 14), ('param4', 2), ('param5', 29)])) {
@@ -158,7 +158,7 @@ void entrypoint_302_01() {
 					}
 				  case 1:
 					printf("Here's a useful tip: #####low-value Rupees \n#####have only #####a few bad spots #####nearby, \nso you can relax a little.\n\nBut the #####higher the value of the Rupee#####,\nthe #####more bad spots #####are nearby.\nBe careful of the spaces surrounding\na valuable Rupee!\nIf your first burrow digs up a bomb...#####\nyou'll just have to admit defeat and\ntry again. But don't let it get to you!")
-					story_flags[181 0x00B5] = true;
+					story_flags[181 /* us: 805A9AE6 0x10, jp: 805ACD66 0x10 */] = true;
 					goto flw_55
 				}
 			  case 1:
@@ -223,14 +223,14 @@ void entrypoint_302_05() {
 		flw_123:
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 43)])) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 5), ('param4', 2), ('param5', 47)])) {
+			switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 			  case 0:
 				printf("######My name is #####Tubert#####! I run this game I\nlike to call #####Thrill Digger#####! Yep, I'm kind\nof important around here.\n\nYou could even call me #####Mr. Tubert#####.\nYou know, ######if you want to. Thanks, kid.")
 				flw_128:
 				printf("######So what do you want to ask me next?#####Who are you?#####Are you floating?#####Is it too bright for you?#####Nothing.")
 				goto flw_123
 			  case 1:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 26), ('param3', 6), ('param4', 2), ('param5', 61)])) {
+				switch (scene_flags[26 /* 0x2 04 */]) {
 				  case 0:
 					printf("######My name is #####Tubert#####! I run this game I\nlike to call #####Thrill Digger#####! Yep, I'm kind\nof important around here.\n\nYou could even call me #####Mr. Tubert#####.\nYou know, ######if you want to. Thanks, kid.\n\n\n######I want everyone to get their hands on\nplenty of Rupees, so I made up this\n#####Thrill Digger##### thing!\n\n######The sad thing is all my #####Mogma##### friends\nthink Rupees are easy to find. They\nnever come and play...\n\n######So that's why I need you to step up and\nbecome not just a repeat customer,\nbut my only customer!")
 					flw_124:
@@ -242,7 +242,7 @@ void entrypoint_302_05() {
 				}
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 5), ('param4', 2), ('param5', 49)])) {
+			switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
 			  case 0:
 				printf("######I'm not floating, no. I just want\ncustomers to see my cute little #####paws#####,\nso I'm standing on my tail.")
 				goto flw_128
@@ -257,7 +257,7 @@ void entrypoint_302_05() {
 				goto flw_128
 			}
 		  case 2:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 5), ('param4', 2), ('param5', 51)])) {
+			switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 			  case 0:
 				printf("######No, it's not too bright. I just wear these\nto look cool.")
 				goto flw_128
@@ -272,19 +272,19 @@ void entrypoint_302_05() {
 				goto flw_128
 			}
 		  case 3:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 5), ('param4', 2), ('param5', 55)])) {
+			switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 5), ('param4', 2), ('param5', 57)])) {
+				switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
 				  case 0:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 5), ('param4', 2), ('param5', 53)])) {
+					switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 					  case 0:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 39), ('param3', 6), ('param4', 2), ('param5', 59)])) {
+						switch (scene_flags[39 /* 0x5 80 */]) {
 						  case 0:
 							flw_139:
 							printf("######Really? That's a shame. Well, take\na nice break. #####Thrill Digger #####is waiting\nfor you whenever you're in the mood\nto poke around for Rupees and bombs!")
 						  case 1:
 							printf("######Really? What a shame...\n\n\n\n######But thanks for asking all those\ngreat questions! Actually, here,\nlet me tell you something.\n\n######You see the shining stone sticking out\nof the wall? That's pure #####Rupee Ore#####!\nIt's also why there are so many Rupees\nto dig up here.\nIf you sling something at it, it'll #####pop\n#####right out.###### Go on and give it a try!")
-							scene_flags[4 'Eldin Volcano'][39 0x27] = true;
+							scene_flags[4 'Eldin Volcano'][39 /* 0x5 80 */] = true;
 						}
 					  case 1:
 						goto flw_139

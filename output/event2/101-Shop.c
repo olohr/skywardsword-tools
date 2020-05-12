@@ -66,7 +66,7 @@ void entrypoint_101_35() {
 
 void entrypoint_101_01() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 5), ('param4', 2), ('param5', 12)])) {
+	switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
 	  case 0:
 		flw_41:
 		printf("######Ahaa! How can I assist you, friend?\n#####How do I shop?#####I'm fine.")
@@ -74,7 +74,7 @@ void entrypoint_101_01() {
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
 		  case 0:
 			printf("Oh, yes, yes! Allow me to explain!\n\n\n\nAll you need to do is stand in front of\nany of my wares and press ##### to\nexamine its beauty. Take your time\nand shop to your heart's delight!\nIt's always free to look, my friend, and\nthere's no pressure to buy!\nNo pressure at all...")
-			switch (story_flags[809 0x0329]) {
+			switch (story_flags[809 /* us: 805A9B31 0x02, jp: 805ACDB1 0x02 */]) {
 			  case 0:
 				printf("You may also wish to take certain\nitems you purchased here to the\nScrap Shop to have them upgraded!\n\nFor example, you can take one of my\nfinely crafted shields and even further\nenhance its durability.")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', -1), ('param3', 4)])
@@ -85,71 +85,71 @@ void entrypoint_101_01() {
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', -1), ('param3', 4)])
 		}
 	  case 1:
-		switch (story_flags[1114 0x045A]) {
+		switch (story_flags[1114 /* us: 805A9B57 0x01, jp: 805ACDD7 0x01 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 123), ('param3', 6), ('param4', 2), ('param5', 42)])) {
+			switch (scene_flags[123 /* 0xE 08 */]) {
 			  case 0:
 				goto flw_41
 			  case 1:
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 110), ('param3', 31)])
 				printf("######Ahaa! My friend, I just got a #####new item\n#####in today!\n\n\nMy latest treasure is a finely crafted\n###############! For discerning\nbow owners, it's simply a must.\n\nTake a look for yourself!")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 115), ('param3', 4)])
-				scene_flags[0 'Skyloft'][123 0x7B] = true;
+				scene_flags[0 'Skyloft'][123 /* 0xE 08 */] = true;
 			}
 		  case 1:
-			switch (story_flags[131 0x0083]) {
+			switch (story_flags[131 /* us: 805A9AE4 0x02, jp: 805ACD64 0x02 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 122), ('param3', 6), ('param4', 2), ('param5', 40)])) {
+				switch (scene_flags[122 /* 0xE 04 */]) {
 				  case 0:
 					goto flw_41
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 107), ('param3', 31)])
 					printf("######Ahaa! I've got something #####new##### in stock\nfor you, friend.\n\n\nIt's a very mysterious shield called a\n#########z#####. I suggest you\nlinger and give it a good look.")
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 114), ('param3', 4)])
-					scene_flags[0 'Skyloft'][122 0x7A] = true;
+					scene_flags[0 'Skyloft'][122 /* 0xE 04 */] = true;
 				}
 			  case 1:
-				switch (story_flags[1115 0x045B]) {
+				switch (story_flags[1115 /* us: 805A9B57 0x02, jp: 805ACDD7 0x02 */]) {
 				  case 0:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 121), ('param3', 6), ('param4', 2), ('param5', 38)])) {
+					switch (scene_flags[121 /* 0xE 02 */]) {
 					  case 0:
 						goto flw_41
 					  case 1:
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 104), ('param3', 31)])
 						printf("######Oh, yes, my friend! I've got something\n#####new##### to show you!\n\n\nToday, I was able to procure a fine\n###############! I do hope that it\ndelights you.")
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 113), ('param3', 4)])
-						scene_flags[0 'Skyloft'][121 0x79] = true;
+						scene_flags[0 'Skyloft'][121 /* 0xE 02 */] = true;
 					}
 				  case 1:
-					switch (story_flags[5 0x0005]) {
+					switch (story_flags[5 /* us: 805A9AD9 0x40, jp: 805ACD59 0x40 */]) {
 					  case 0:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 120), ('param3', 6), ('param4', 2), ('param5', 36)])) {
+						switch (scene_flags[120 /* 0xE 01 */]) {
 						  case 0:
 							goto flw_41
 						  case 1:
 							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 123), ('param3', 31)])
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 124), ('param3', 6), ('param4', 2), ('param5', 48)])) {
+							switch (scene_flags[124 /* 0xE 10 */]) {
 							  case 0:
 								printf("######Ahaa! You are quite lucky, as I have\na #####new item #####just in today, friend.\n\n\nIt's a splendid #########w#####!\nLook at the expert craftsmanship.\nIt steals your breath away, doesn't it?")
 								flw_95:
 								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 112), ('param3', 4)])
-								scene_flags[0 'Skyloft'][120 0x78] = true;
+								scene_flags[0 'Skyloft'][120 /* 0xE 01 */] = true;
 							  case 1:
 								printf("######Ahaa! I've got some #####new##### gear in stock#####\n#####to show you, friend.\n\n\nAvailable now, you can purchase an\n#########w #####and a ###############.\nI hope they meet with your approval!")
 								goto flw_95
 							}
 						}
 					  case 1:
-						switch (story_flags[58 0x003A]) {
+						switch (story_flags[58 /* us: 805A9ADC 0x20, jp: 805ACD5C 0x20 */]) {
 						  case 0:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 124), ('param3', 6), ('param4', 2), ('param5', 46)])) {
+							switch (scene_flags[124 /* 0xE 10 */]) {
 							  case 0:
 								goto flw_41
 							  case 1:
 								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 122), ('param3', 31)])
 								printf("######Ahaa! You are in luck, because I'm\ncarrying a #####new##### #####item#####.\n\n\nToday's new addition is an expertly\nwoven ###############!\n\n\nTruly, any serious slingshot enthusiast\nwould be embarrassed not to own this,\ndon't you agree? Take a look, friend!")
 								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 121), ('param3', 4)])
-								scene_flags[0 'Skyloft'][124 0x7C] = true;
+								scene_flags[0 'Skyloft'][124 /* 0xE 10 */] = true;
 							}
 						  case 1:
 							printf("######Ahaa! A customer! Hello there, friend.\n\n\n\nMy shop carries the finest products\nyou'll find anywhere!\n\n\nPlease, take a moment for your senses\nto savor the wonderful treasures I have\nprepared just for you, friend!\n\nIf you have any questions, please don't\nhesitate to ask.\n#####How do I buy?#####OK.######")
@@ -265,21 +265,21 @@ void entrypoint_101_07() {
 	  case 0:
 		printf("######Ahaa! Thank you for your loyal and\ncontinued patronage, friend.")
 		flw_144:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 5), ('param3', 5), ('param4', 2), ('param5', 56)])) {
+		switch (loadzone_temp_flags[5 /* 0x9 20 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 89), ('param3', 6), ('param4', 2), ('param5', 26)])) {
+			switch (scene_flags[89 /* 0xA 02 */]) {
 			  case 0:
-				switch (story_flags[809 0x0329]) {
+				switch (story_flags[809 /* us: 805A9B31 0x02, jp: 805ACDB1 0x02 */]) {
 				  case 0:
 					flw_70:
 					printf("I've taken the liberty of placing your\npurchases in your pouch. Press ##########\n#####to open it, then##### equip #####what you need!#####")
 					flw_137:
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 0), ('next', -1), ('param3', 5)])
 				  case 1:
-					switch (story_flags[87 0x0057]) {
+					switch (story_flags[87 /* us: 805A9AEC 0x02, jp: 805ACD6C 0x02 */]) {
 					  case 0:
 						printf("If you have any doubts about the\n#####durability of your shield#####, I suggest you\nhave it examined at the #####Scrap Shop#####.\n\nProvided you take good Gondo there\nthe necessary treasures and the like,\nhe will happily upgrade your items!")
-						story_flags[809 0x0329] = true;
+						story_flags[809 /* us: 805A9B31 0x02, jp: 805ACDB1 0x02 */] = true;
 						goto flw_137
 					  case 1:
 						goto flw_70
@@ -287,8 +287,8 @@ void entrypoint_101_07() {
 				}
 			  case 1:
 				printf("I've taken the liberty of placing the\nitem in your pouch. To open your\npouch, press and hold #####...#####\n\nThen #####move #####the Wii Remote to point\nthe cursor. Point at the item you\nwant to equip and #####release ##########.\nThat's all there is to it.#####\nFor example, to equip an item like a\nshield, it's as simple as selecting it\nin your pouch!")
-				story_flags[568 0x0238] = true;
-				scene_flags[0 'Skyloft'][89 0x59] = true;
+				story_flags[568 /* us: 805A9B19 0x80, jp: 805ACD99 0x80 */] = true;
+				scene_flags[0 'Skyloft'][89 /* 0xA 02 */] = true;
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 0), ('next', -1), ('param3', 5)])
 			}
 		  case 1:

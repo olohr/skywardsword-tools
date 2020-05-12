@@ -10,13 +10,13 @@ void entrypoint_301_01() {
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -255), ('next', 33), ('param3', 13)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 32), ('param3', 17)])
 	printf("Oh, it's you again. Come all this way\nin search of your friend, eh?\n\n\nThat reminds me...##### Before I came in\nhere, I saw a##### weird-looking blonde girl\n#####get dragged away.\n\nBut ######don't even dream about going to\nthe rescue. Those baddies are\neverywhere!\n\n######If you wanna live to...live again one\nday, you should head for home, pal!")
-	scene_flags[14 'Eldin: Earth Temple'][51 0x33] = true;
+	scene_flags[14 'Eldin: Earth Temple'][51 /* 0x7 08 */] = true;
 }
 
 void entrypoint_301_03() {
 	start()
 	printf("######Master ####. It appears\nZelda has cleansed herself in the\nwaters of this fountain.\n\nBased on the information from the\nmessage I just imparted, I project she\nis traveling to a region known as\n#####Lanayru#####.\nIf you transport this tablet back to the\nstatue in Skyloft, a new column of\nlight will appear that will allow you to\ntravel to the #####Lanayru region#####.\nI suggest you return at once to #####Skyloft\n#####and then set out for the Lanayru\nregion.")
-	story_flags[7 0x0007] = true;
+	story_flags[7 /* us: 805A9AD8 0x01, jp: 805ACD58 0x01 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 14), ('next', 59), ('param3', 4)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 60), ('param3', 36)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', -1), ('param3', 6)])
@@ -81,7 +81,7 @@ void entrypoint_301_07() {
 	  case 0:
 		printf("######Let me ask you something. You ever\nbeen set on fire when you're fighting\nbad guys?\n\n######Do yourself a favor and put the fire\nout quick! Oh, and never, EVER pull\nout a #####bomb##### when you're covered in\nflames. Trust me on that.")
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 6), ('param4', 2), ('param5', 9)])) {
+		switch (scene_flags[1 /* 0x1 02 */]) {
 		  case 0:
 			printf("######Heh heh, nice work. Rolling #####bomb\nflowers #####through there--that's the mark\nof a real professional adventurer!\n\n######Keep it up, and go grab my #####Bomb Bag#####!")
 		  case 1:
@@ -104,8 +104,8 @@ void entrypoint_301_08() {
 void entrypoint_301_09() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1006), ('next', 54), ('param3', 24)])
-	story_flags[686 0x02AE] = true;
-	story_flags[748 0x02EC] = true;
+	story_flags[686 /* us: 805A9B21 0x08, jp: 805ACDA1 0x08 */] = true;
+	story_flags[748 /* us: 805A9B29 0x10, jp: 805ACDA9 0x10 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 13), ('next', 49), ('param3', 32)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 99), ('next', 56), ('param3', 16)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 1), ('next', 52), ('param3', 40)])
@@ -135,16 +135,16 @@ void entrypoint_301_09() {
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3337), ('param2', 1791), ('next', 69), ('param3', 13)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 0), ('next', 53), ('param3', 39)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 65), ('next', 48), ('param3', 6)])
-	story_flags[189 0x00BD] = true;
-	story_flags[748 0x02EC] = false;
+	story_flags[189 /* us: 805A9AE9 0x10, jp: 805ACD69 0x10 */] = true;
+	story_flags[748 /* us: 805A9B29 0x10, jp: 805ACDA9 0x10 */] = false;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 14), ('next', 84), ('param3', 4)])
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 28), ('param3', 6), ('param4', 2), ('param5', 5)])) {
+	switch (scene_flags[28 /* 0x2 10 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 14), ('next', 57), ('param3', 4)])
 		flw_57:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', -1), ('param3', 42)])
 	  case 1:
-		scene_flags[14 'Eldin: Earth Temple'][28 0x1C] = true;
+		scene_flags[14 'Eldin: Earth Temple'][28 /* 0x2 10 */] = true;
 		goto flw_57
 	}
 }

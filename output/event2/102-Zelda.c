@@ -59,22 +59,22 @@ void entrypoint_102_03() {
 
 void entrypoint_102_04() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 3), ('param3', 6), ('param4', 2), ('param5', 7)])) {
+	switch (scene_flags[3 /* 0x1 08 */]) {
 	  case 0:
 		printf("######Oh boy, I see you messed up your\nlanding.\n\n\n######Remember, #####once you dive #####off the edge,\nyou can control the angle of your fall\nby #####tilting #####the Wii Remote. I bet you're\nready to try again, aren't you?\nI won't push you this time, so take\nthe leap when you're ready! \n\n\nJust #####dash #####off the edge to jump into a\ndive. Then, just before you hit the\nground, press and hold #####!#####\n\nOh, and don't forget that you've got to\nland in the #####middle of that round design\nin that courtyard below#####.")
-		scene_flags[0 'Skyloft'][3 0x03] = false;
-		switch (story_flags[1110 0x0456]) {
+		scene_flags[0 'Skyloft'][3 /* 0x1 08 */] = false;
+		switch (story_flags[1110 /* us: 805A9B54 0x10, jp: 805ACDD4 0x10 */]) {
 		  case 0:
 		  case 1:
-			story_flags[1110 0x0456] = true;
-			story_flags[832 0x0340] = true;
+			story_flags[1110 /* us: 805A9B54 0x10, jp: 805ACDD4 0x10 */] = true;
+			story_flags[832 /* us: 805A9B32 0x01, jp: 805ACDB2 0x01 */] = true;
 		}
 	  case 1:
-		switch (story_flags[39 0x0027]) {
+		switch (story_flags[39 /* us: 805A9AE5 0x20, jp: 805ACD65 0x20 */]) {
 		  case 0:
 			printf("######OK, let's try this again, shall we?\nThis time you won't have me to push\nyou over the edge, so gather up some\ncourage and JUMP!\nJust #####dash #####off the edge to leap into\na dive.\n\n\nOh, and just before you land, be sure\nyou press ##### to open up your\nSailcloth and slow your fall, or it's\ngoing to be an ugly landing...#####\nAnd don't forget that you've got to\nland in the #####middle of that round\ndesign in the courtyard below#####!")
 		  case 1:
-			switch (story_flags[26 0x001A]) {
+			switch (story_flags[26 /* us: 805A9ADA 0x04, jp: 805ACD5A 0x04 */]) {
 			  case 0:
 				printf("######That's so cruel! They've boarded him\nup in there!\n\n\n########, can you do\nsomething to get all those planks out of\nthe way?")
 			  case 1:
@@ -86,7 +86,7 @@ void entrypoint_102_04() {
 
 void entrypoint_102_05() {
 	start()
-	story_flags[32 0x0020] = true;
+	story_flags[32 /* us: 805A9ADD 0x01, jp: 805ACD5D 0x01 */] = true;
 	changeScene(9, 0) // 
 }
 
@@ -216,64 +216,64 @@ void entrypoint_102_11() {
 
 void entrypoint_102_12() {
 	start()
-	story_flags[737 0x02E1] = true;
-	switch (story_flags[304 0x0130]) {
+	story_flags[737 /* us: 805A9B26 0x02, jp: 805ACDA6 0x02 */] = true;
+	switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 	  case 0:
-		story_flags[329 0x0149] = true;
-		switch (story_flags[373 0x0175]) {
+		story_flags[329 /* us: 805A9AFF 0x80, jp: 805ACD7F 0x80 */] = true;
+		switch (story_flags[373 /* us: 805A9B02 0x08, jp: 805ACD82 0x08 */]) {
 		  case 0:
-			story_flags[375 0x0177] = true;
+			story_flags[375 /* us: 805A9B02 0x20, jp: 805ACD82 0x20 */] = true;
 			flw_152:
-			switch (story_flags[472 0x01D8]) {
+			switch (story_flags[472 /* us: 805A9B0E 0x10, jp: 805ACD8E 0x10 */]) {
 			  case 0:
-				story_flags[473 0x01D9] = true;
+				story_flags[473 /* us: 805A9B0E 0x20, jp: 805ACD8E 0x20 */] = true;
 				flw_195:
-				switch (story_flags[725 0x02D5]) {
+				switch (story_flags[725 /* us: 805A9B24 0x20, jp: 805ACDA4 0x20 */]) {
 				  case 0:
 					flw_174:
-					switch (story_flags[304 0x0130]) {
+					switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 					  case 0:
-						switch (story_flags[140 0x008C]) {
+						switch (story_flags[140 /* us: 805A9AE7 0x04, jp: 805ACD67 0x04 */]) {
 						  case 0:
-							story_flags[376 0x0178] = true;
+							story_flags[376 /* us: 805A9B02 0x40, jp: 805ACD82 0x40 */] = true;
 							flw_131:
-							switch (story_flags[545 0x0221]) {
+							switch (story_flags[545 /* us: 805A9B17 0x04, jp: 805ACD97 0x04 */]) {
 							  case 0:
-								switch (story_flags[725 0x02D5]) {
+								switch (story_flags[725 /* us: 805A9B24 0x20, jp: 805ACDA4 0x20 */]) {
 								  case 0:
 									flw_159:
-									switch (story_flags[554 0x022A]) {
+									switch (story_flags[554 /* us: 805A9B16 0x08, jp: 805ACD96 0x08 */]) {
 									  case 0:
-										story_flags[558 0x022E] = true;
-										story_flags[559 0x022F] = true;
+										story_flags[558 /* us: 805A9B16 0x80, jp: 805ACD96 0x80 */] = true;
+										story_flags[559 /* us: 805A9B19 0x01, jp: 805ACD99 0x01 */] = true;
 										flw_166:
-										switch (story_flags[635 0x027B]) {
+										switch (story_flags[635 /* us: 805A9B1A 0x20, jp: 805ACD9A 0x20 */]) {
 										  case 0:
-											story_flags[638 0x027E] = true;
+											story_flags[638 /* us: 805A9B1D 0x01, jp: 805ACD9D 0x01 */] = true;
 											flw_182:
-											story_flags[653 0x028D] = false;
-											story_flags[632 0x0278] = false;
-											story_flags[679 0x02A7] = true;
-											switch (story_flags[548 0x0224]) {
+											story_flags[653 /* us: 805A9B1C 0x20, jp: 805ACD9C 0x20 */] = false;
+											story_flags[632 /* us: 805A9B1A 0x04, jp: 805ACD9A 0x04 */] = false;
+											story_flags[679 /* us: 805A9B22 0x02, jp: 805ACDA2 0x02 */] = true;
+											switch (story_flags[548 /* us: 805A9B17 0x20, jp: 805ACD97 0x20 */]) {
 											  case 0:
-												switch (story_flags[551 0x0227]) {
+												switch (story_flags[551 /* us: 805A9B16 0x01, jp: 805ACD96 0x01 */]) {
 												  case 0:
 													flw_225:
-													switch (story_flags[389 0x0185]) {
+													switch (story_flags[389 /* us: 805A9B0D 0x80, jp: 805ACD8D 0x80 */]) {
 													  case 0:
-														switch (story_flags[11 0x000B]) {
+														switch (story_flags[11 /* us: 805A9AD8 0x10, jp: 805ACD58 0x10 */]) {
 														  case 0:
-															story_flags[390 0x0186] = true;
+															story_flags[390 /* us: 805A9B0C 0x01, jp: 805ACD8C 0x01 */] = true;
 															flw_227:
-															switch (story_flags[392 0x0188]) {
+															switch (story_flags[392 /* us: 805A9B0C 0x04, jp: 805ACD8C 0x04 */]) {
 															  case 0:
-																switch (story_flags[15 0x000F]) {
+																switch (story_flags[15 /* us: 805A9ADB 0x01, jp: 805ACD5B 0x01 */]) {
 																  case 0:
-																	story_flags[393 0x0189] = true;
+																	story_flags[393 /* us: 805A9B0C 0x08, jp: 805ACD8C 0x08 */] = true;
 																	flw_231:
-																	switch (story_flags[360 0x0168]) {
+																	switch (story_flags[360 /* us: 805A9B00 0x40, jp: 805ACD80 0x40 */]) {
 																	  case 0:
-																		story_flags[1200 0x04B0] = true;
+																		story_flags[1200 /* us: 805A9B61 0x40, jp: 805ACDE1 0x40 */] = true;
 																	  case 1:
 																	}
 																  case 1:
@@ -289,7 +289,7 @@ void entrypoint_102_12() {
 														goto flw_227
 													}
 												  case 1:
-													story_flags[549 0x0225] = true;
+													story_flags[549 /* us: 805A9B17 0x40, jp: 805ACD97 0x40 */] = true;
 													goto flw_225
 												}
 											  case 1:
@@ -302,15 +302,15 @@ void entrypoint_102_12() {
 										goto flw_166
 									}
 								  case 1:
-									switch (story_flags[548 0x0224]) {
+									switch (story_flags[548 /* us: 805A9B17 0x20, jp: 805ACD97 0x20 */]) {
 									  case 0:
 										goto flw_159
 									  case 1:
-										switch (story_flags[551 0x0227]) {
+										switch (story_flags[551 /* us: 805A9B16 0x01, jp: 805ACD96 0x01 */]) {
 										  case 0:
 											goto flw_159
 										  case 1:
-											scene_flags[0 'Skyloft'][65 0x41] = true;
+											scene_flags[0 'Skyloft'][65 /* 0x9 02 */] = true;
 											goto flw_159
 										}
 									}
@@ -340,63 +340,63 @@ void entrypoint_102_12() {
 
 void entrypoint_102_13() {
 	start()
-	story_flags[737 0x02E1] = false;
-	switch (story_flags[304 0x0130]) {
+	story_flags[737 /* us: 805A9B26 0x02, jp: 805ACDA6 0x02 */] = false;
+	switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 	  case 0:
-		story_flags[329 0x0149] = true;
-		switch (story_flags[373 0x0175]) {
+		story_flags[329 /* us: 805A9AFF 0x80, jp: 805ACD7F 0x80 */] = true;
+		switch (story_flags[373 /* us: 805A9B02 0x08, jp: 805ACD82 0x08 */]) {
 		  case 0:
-			story_flags[375 0x0177] = true;
+			story_flags[375 /* us: 805A9B02 0x20, jp: 805ACD82 0x20 */] = true;
 			flw_154:
-			switch (story_flags[472 0x01D8]) {
+			switch (story_flags[472 /* us: 805A9B0E 0x10, jp: 805ACD8E 0x10 */]) {
 			  case 0:
-				story_flags[473 0x01D9] = true;
+				story_flags[473 /* us: 805A9B0E 0x20, jp: 805ACD8E 0x20 */] = true;
 				flw_196:
-				switch (story_flags[725 0x02D5]) {
+				switch (story_flags[725 /* us: 805A9B24 0x20, jp: 805ACDA4 0x20 */]) {
 				  case 0:
 					flw_198:
-					switch (story_flags[725 0x02D5]) {
+					switch (story_flags[725 /* us: 805A9B24 0x20, jp: 805ACDA4 0x20 */]) {
 					  case 0:
 						flw_156:
-						switch (story_flags[389 0x0185]) {
+						switch (story_flags[389 /* us: 805A9B0D 0x80, jp: 805ACD8D 0x80 */]) {
 						  case 0:
-							switch (story_flags[11 0x000B]) {
+							switch (story_flags[11 /* us: 805A9AD8 0x10, jp: 805ACD58 0x10 */]) {
 							  case 0:
-								story_flags[390 0x0186] = true;
+								story_flags[390 /* us: 805A9B0C 0x01, jp: 805ACD8C 0x01 */] = true;
 								flw_158:
-								switch (story_flags[392 0x0188]) {
+								switch (story_flags[392 /* us: 805A9B0C 0x04, jp: 805ACD8C 0x04 */]) {
 								  case 0:
-									switch (story_flags[15 0x000F]) {
+									switch (story_flags[15 /* us: 805A9ADB 0x01, jp: 805ACD5B 0x01 */]) {
 									  case 0:
-										story_flags[393 0x0189] = true;
+										story_flags[393 /* us: 805A9B0C 0x08, jp: 805ACD8C 0x08 */] = true;
 										flw_161:
-										switch (story_flags[554 0x022A]) {
+										switch (story_flags[554 /* us: 805A9B16 0x08, jp: 805ACD96 0x08 */]) {
 										  case 0:
-											story_flags[558 0x022E] = true;
-											story_flags[559 0x022F] = true;
+											story_flags[558 /* us: 805A9B16 0x80, jp: 805ACD96 0x80 */] = true;
+											story_flags[559 /* us: 805A9B19 0x01, jp: 805ACD99 0x01 */] = true;
 											flw_165:
-											switch (story_flags[581 0x0245]) {
+											switch (story_flags[581 /* us: 805A9B1B 0x10, jp: 805ACD9B 0x10 */]) {
 											  case 0:
-												story_flags[581 0x0245] = false;
+												story_flags[581 /* us: 805A9B1B 0x10, jp: 805ACD9B 0x10 */] = false;
 												flw_168:
-												switch (story_flags[635 0x027B]) {
+												switch (story_flags[635 /* us: 805A9B1A 0x20, jp: 805ACD9A 0x20 */]) {
 												  case 0:
-													story_flags[638 0x027E] = true;
+													story_flags[638 /* us: 805A9B1D 0x01, jp: 805ACD9D 0x01 */] = true;
 													flw_177:
-													switch (story_flags[576 0x0240]) {
+													switch (story_flags[576 /* us: 805A9B18 0x80, jp: 805ACD98 0x80 */]) {
 													  case 0:
 														flw_192:
-														switch (story_flags[296 0x0128]) {
+														switch (story_flags[296 /* us: 805A9AFD 0x04, jp: 805ACD7D 0x04 */]) {
 														  case 0:
-															story_flags[688 0x02B0] = true;
+															story_flags[688 /* us: 805A9B21 0x20, jp: 805ACDA1 0x20 */] = true;
 															flw_213:
-															switch (story_flags[549 0x0225]) {
+															switch (story_flags[549 /* us: 805A9B17 0x40, jp: 805ACD97 0x40 */]) {
 															  case 0:
-																story_flags[549 0x0225] = false;
+																story_flags[549 /* us: 805A9B17 0x40, jp: 805ACD97 0x40 */] = false;
 																flw_233:
-																switch (story_flags[360 0x0168]) {
+																switch (story_flags[360 /* us: 805A9B00 0x40, jp: 805ACD80 0x40 */]) {
 																  case 0:
-																	story_flags[1200 0x04B0] = true;
+																	story_flags[1200 /* us: 805A9B61 0x40, jp: 805ACDE1 0x40 */] = true;
 																	flw_238:
 																	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 53), ('param2', 0), ('next', -1), ('param3', 29)])
 																  case 1:
@@ -409,13 +409,13 @@ void entrypoint_102_13() {
 															goto flw_213
 														}
 													  case 1:
-														switch (story_flags[575 0x023F]) {
+														switch (story_flags[575 /* us: 805A9B18 0x40, jp: 805ACD98 0x40 */]) {
 														  case 0:
-															switch (story_flags[361 0x0169]) {
+															switch (story_flags[361 /* us: 805A9B00 0x80, jp: 805ACD80 0x80 */]) {
 															  case 0:
 																goto flw_192
 															  case 1:
-																story_flags[361 0x0169] = true;
+																story_flags[361 /* us: 805A9B00 0x80, jp: 805ACD80 0x80 */] = true;
 																goto flw_192
 															}
 														  case 1:
@@ -444,9 +444,9 @@ void entrypoint_102_13() {
 							goto flw_158
 						}
 					  case 1:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 65), ('param3', 6), ('param4', 2), ('param5', 13)])) {
+						switch (scene_flags[65 /* 0x9 02 */]) {
 						  case 0:
-							scene_flags[0 'Skyloft'][65 0x41] = false;
+							scene_flags[0 'Skyloft'][65 /* 0x9 02 */] = false;
 							goto flw_156
 						  case 1:
 							goto flw_156
@@ -462,12 +462,12 @@ void entrypoint_102_13() {
 			goto flw_154
 		}
 	  case 1:
-		switch (story_flags[725 0x02D5]) {
+		switch (story_flags[725 /* us: 805A9B24 0x20, jp: 805ACDA4 0x20 */]) {
 		  case 0:
 			goto flw_198
 		  case 1:
-			story_flags[301 0x012D] = false;
-			scene_flags[0 'Skyloft'][66 0x42] = false;
+			story_flags[301 /* us: 805A9AFD 0x80, jp: 805ACD7D 0x80 */] = false;
+			scene_flags[0 'Skyloft'][66 /* 0x9 04 */] = false;
 			goto flw_198
 		}
 	}

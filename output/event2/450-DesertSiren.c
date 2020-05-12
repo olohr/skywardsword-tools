@@ -1,14 +1,14 @@
 void entrypoint_450_00() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 0), ('next', 9), ('param3', 39)])
-	switch (story_flags[531 0x0213]) {
+	switch (story_flags[531 /* us: 805A9B17 0x01, jp: 805ACD97 0x01 */]) {
 	  case 0:
 		printf("We're here, ####!\nShow me what you've got!")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 0), ('next', 11), ('param3', 39)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 13), ('param3', 40)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', -1), ('param3', 42)])
 	  case 1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 101), ('param3', 6), ('param4', 2), ('param5', 0)])) {
+		switch (scene_flags[101 /* 0xD 20 */]) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 9), ('param4', 2), ('param5', 6)])) {
 			  case 0:
@@ -120,7 +120,7 @@ void entrypoint_450_00() {
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 0), ('next', 72), ('param3', 39)])
 					printf("######Master, I will await your return in the\noutside world.")
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 75), ('param3', 40)])
-					scene_flags[24 'Lanayru: Silent Realm'][101 0x65] = true;
+					scene_flags[24 'Lanayru: Silent Realm'][101 /* 0xD 20 */] = true;
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 24), ('next', 74), ('param3', 28)])
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', -1), ('param3', 42)])
 				}

@@ -89,6 +89,12 @@ def flagid_to_spreadsheet(us, flagid):
     x = mapping // 0x10
     return '%08X 0x%02X'%((base+x//8)^1,1<<(x%8))
 
+def idx_to_story_flag(flagid):
+    if flagid < len(storyflag_mapping_table):
+        return 'us: %s, jp: %s'%(flagid_to_spreadsheet(True,flagid),flagid_to_spreadsheet(False,flagid))
+    else:
+        return 'error'
+
 if __name__ == "__main__":
     '''
     print(flagid_to_spreadsheet(False,341))

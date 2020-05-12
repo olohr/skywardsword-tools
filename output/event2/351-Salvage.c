@@ -1,6 +1,6 @@
 void entrypoint_351_10() {
 	start()
-	switch (story_flags[473 0x01D9]) {
+	switch (story_flags[473 /* us: 805A9B0E 0x20, jp: 805ACD8E 0x20 */]) {
 	  case 0:
 		printf("######Hey, what gives?! You said you'd take\nme to the sky, but then you backed out\nof our deal! Now I'm back here.\n\nIf you're going to make a promise\nlike that, you better follow through!")
 		flw_19:
@@ -28,16 +28,16 @@ void entrypoint_351_10() {
 void entrypoint_351_11() {
 	start()
 	printf("######Master, I suggest that we also return\nto the sky and accompany the Mogma\nto his destination quickly.")
-	story_flags[680 0x02A8] = false;
-	story_flags[471 0x01D7] = true;
-	story_flags[473 0x01D9] = true;
-	story_flags[324 0x0144] = false;
-	story_flags[186 0x00BA] = false;
-	story_flags[365 0x016D] = false;
-	story_flags[397 0x018D] = false;
-	story_flags[480 0x01E0] = false;
-	story_flags[372 0x0174] = false;
-	story_flags[366 0x016E] = false;
+	story_flags[680 /* us: 805A9B1E 0x20, jp: 805ACD9E 0x20 */] = false;
+	story_flags[471 /* us: 805A9B0E 0x08, jp: 805ACD8E 0x08 */] = true;
+	story_flags[473 /* us: 805A9B0E 0x20, jp: 805ACD8E 0x20 */] = true;
+	story_flags[324 /* us: 805A9AFF 0x04, jp: 805ACD7F 0x04 */] = false;
+	story_flags[186 /* us: 805A9AE9 0x02, jp: 805ACD69 0x02 */] = false;
+	story_flags[365 /* us: 805A9B03 0x08, jp: 805ACD83 0x08 */] = false;
+	story_flags[397 /* us: 805A9B0F 0x80, jp: 805ACD8F 0x80 */] = false;
+	story_flags[480 /* us: 805A9B11 0x10, jp: 805ACD91 0x10 */] = false;
+	story_flags[372 /* us: 805A9B02 0x04, jp: 805ACD82 0x04 */] = false;
+	story_flags[366 /* us: 805A9B03 0x10, jp: 805ACD83 0x10 */] = false;
 }
 
 void entrypoint_351_12() {
@@ -69,15 +69,15 @@ void entrypoint_351_03() {
 void entrypoint_351_04() {
 	start()
 	printf("######Master, I suggest we also return to\nthe sky and collect the crystal ball as\nsoon as possible.")
-	story_flags[670 0x029E] = false;
-	story_flags[372 0x0174] = true;
-	story_flags[324 0x0144] = false;
-	story_flags[186 0x00BA] = false;
-	story_flags[365 0x016D] = false;
-	story_flags[397 0x018D] = false;
-	story_flags[471 0x01D7] = false;
-	story_flags[480 0x01E0] = false;
-	story_flags[366 0x016E] = false;
+	story_flags[670 /* us: 805A9B1E 0x10, jp: 805ACD9E 0x10 */] = false;
+	story_flags[372 /* us: 805A9B02 0x04, jp: 805ACD82 0x04 */] = true;
+	story_flags[324 /* us: 805A9AFF 0x04, jp: 805ACD7F 0x04 */] = false;
+	story_flags[186 /* us: 805A9AE9 0x02, jp: 805ACD69 0x02 */] = false;
+	story_flags[365 /* us: 805A9B03 0x08, jp: 805ACD83 0x08 */] = false;
+	story_flags[397 /* us: 805A9B0F 0x80, jp: 805ACD8F 0x80 */] = false;
+	story_flags[471 /* us: 805A9B0E 0x08, jp: 805ACD8E 0x08 */] = false;
+	story_flags[480 /* us: 805A9B11 0x10, jp: 805ACD91 0x10 */] = false;
+	story_flags[366 /* us: 805A9B03 0x10, jp: 805ACD83 0x10 */] = false;
 }
 
 void entrypoint_351_05() {

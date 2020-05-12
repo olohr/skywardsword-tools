@@ -50,7 +50,7 @@ void entrypoint_106_35() {
 
 void entrypoint_106_52() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 4), ('param3', 5), ('param4', 2), ('param5', 28)])) {
+	switch (loadzone_temp_flags[4 /* 0x9 10 */]) {
 	  case 0:
 		printf("######Thank you very much! Yes, thank you!\nPlease, please come again!")
 	  case 1:
@@ -60,19 +60,19 @@ void entrypoint_106_52() {
 
 void entrypoint_106_01() {
 	start()
-	switch (story_flags[35 0x0023]) {
+	switch (story_flags[35 /* us: 805A9ADD 0x08, jp: 805ACD5D 0x08 */]) {
 	  case 0:
-		switch (story_flags[206 0x00CE]) {
+		switch (story_flags[206 /* us: 805A9AF0 0x04, jp: 805ACD70 0x04 */]) {
 		  case 0:
-			switch (story_flags[1075 0x0433]) {
+			switch (story_flags[1075 /* us: 805A9B50 0x02, jp: 805ACDD0 0x02 */]) {
 			  case 0:
 				flw_105:
-				switch (story_flags[9 0x0009]) {
+				switch (story_flags[9 /* us: 805A9AD8 0x04, jp: 805ACD58 0x04 */]) {
 				  case 0:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 85), ('param3', 6), ('param4', 2), ('param5', 38)])) {
+					switch (scene_flags[85 /* 0xB 20 */]) {
 					  case 0:
 						flw_6:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 5), ('param4', 2), ('param5', 2)])) {
+						switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 						  case 0:
 							printf("######Hmm? Something I can do for you?\n#####Teach me!#####Not really.")
 							flw_2:
@@ -92,7 +92,7 @@ void entrypoint_106_01() {
 					  case 1:
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 106), ('param3', 31)])
 						printf("######Here's something that'll put some fire\nin your belly, young man! The new\npotion I've been concocting is finally\nready!\nI call it a #####Stamina Potion#####!\n\n\n\nIf you drink this up, your stamina\ngauge won't drop as fast as usual!\n\n\nI'll admit it's a bit on the pricey side,\nbut I bet you'll find yourself in a\nsituation where a boost of stamina\nwill make it worthwhile!\nIf you want to buy some, just walk on\nover to the display and take a look!")
-						scene_flags[0 'Skyloft'][85 0x55] = true;
+						scene_flags[0 'Skyloft'][85 /* 0xB 20 */] = true;
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', -1), ('param3', 4)])
 					}
 				  case 1:
@@ -101,7 +101,7 @@ void entrypoint_106_01() {
 			  case 1:
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 129), ('param3', 31)])
 				printf("######Boy, have I got the new potion for you!\nI call it...the Air Potion!\n\n\nOne delicious gulp of this elixir and\nyou'll find that while you are\nunderwater, your #####oxygen gauge##### will\ndrop much more slowly!\nYou'll be like a little fish, young man!\nAnd the price is more than generous,\nif I do say so myself.\n\nIf you're interested in a bottle, young\nman, just examine the blue cauldron,\nand I'll come running!")
-				story_flags[1075 0x0433] = true;
+				story_flags[1075 /* us: 805A9B50 0x02, jp: 805ACDD0 0x02 */] = true;
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', -1), ('param3', 4)])
 			}
 		  case 1:
@@ -119,8 +119,8 @@ void entrypoint_106_01() {
 				printf("######Dear, your pouch is full! You're quite\nthe little shopper, aren't you?\n\n\n####\n#Why don't you leave some of your\nthings with that nice Item Check girl?\nThen you won't have to carry all that\njunk around with you!")
 			  case 1:
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 153), ('next', 41), ('param3', 9)])
-				story_flags[35 0x0023] = true;
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 89), ('param3', 6), ('param4', 2), ('param5', 32)])) {
+				story_flags[35 /* us: 805A9ADD 0x08, jp: 805ACD5D 0x08 */] = true;
+				switch (scene_flags[89 /* 0xA 02 */]) {
 				  case 0:
 					printf("######Empty Bottles fit in your Adventure\nPouch. Press ##### to take a look.#####")
 					printf("If you ever get to the point where you\ncan't fit any more stuff in your pouch\nbecause it's full, you can always drop\nitems off at the Item Check.\n######So what would you like to buy?")
@@ -128,8 +128,8 @@ void entrypoint_106_01() {
 				  case 1:
 					printf("######Empty Bottles fit in your Adventure\nPouch. Press ########## #####to take a look. #####\n\n\nHold ##### and tilt the Wii Remote to\nchoose the item you want to use.#####\n\n\nRelease ##### to select that item.\nEasy, right?#####")
 					printf("If you ever get to the point where you\ncan't fit any more stuff in your pouch\nbecause it's full, you can always drop\nitems off at the Item Check.\n######So what would you like to buy?")
-					story_flags[568 0x0238] = true;
-					scene_flags[0 'Skyloft'][89 0x59] = true;
+					story_flags[568 /* us: 805A9B19 0x80, jp: 805ACD99 0x80 */] = true;
+					scene_flags[0 'Skyloft'][89 /* 0xA 02 */] = true;
 				}
 			}
 		  case 1:
@@ -301,7 +301,7 @@ void entrypoint_106_32() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 153), ('param2', 1), ('next', 14), ('param3', 23)])
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 8)])) {
 	  case 0:
-		switch (story_flags[206 0x00CE]) {
+		switch (story_flags[206 /* us: 805A9AF0 0x04, jp: 805ACD70 0x04 */]) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 24), ('param3', 12)])
 			printf("######That's #########V#####! If you drink that,\nyour #####oxygen gauge #####will reduce less\nquickly when you're underwater\nfor a short time.\nAre you interested, dear? It's only\n#####20 Rupees#####.\n#####Sure!#####No, thanks.")
@@ -319,7 +319,7 @@ void entrypoint_106_33() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 153), ('param2', 1), ('next', 17), ('param3', 23)])
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 10)])) {
 	  case 0:
-		switch (story_flags[9 0x0009]) {
+		switch (story_flags[9 /* us: 805A9AD8 0x04, jp: 805ACD58 0x04 */]) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 25), ('param3', 12)])
 			printf("######Now that amazing concoction is called\n#########T#####.\n\n\nDrinking it will make your #####stamina\ngauge #####decrease more slowly for a\nshort time.\n\nIt's a little pricey but well worth it.\nI'll sell it to you for #####50 Rupees#####!\n#####OK!#####No, thanks.")
@@ -335,10 +335,10 @@ void entrypoint_106_33() {
 void entrypoint_106_50() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', 181), ('param3', 5)])
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 7), ('param3', 5), ('param4', 2), ('param5', 60)])) {
+	switch (loadzone_temp_flags[7 /* 0x9 80 */]) {
 	  case 0:
 		flw_116:
-		switch (story_flags[58 0x003A]) {
+		switch (story_flags[58 /* us: 805A9ADC 0x20, jp: 805ACD5C 0x20 */]) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 71), ('param2', 1), ('next', 119), ('param3', 23)])
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 44)])) {
@@ -358,7 +358,7 @@ void entrypoint_106_50() {
 					printf("####\n#I see... No bother to me... Hope to see\nyou again...someday...")
 				}
 			  case 1:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 6), ('param3', 5), ('param4', 2), ('param5', 46)])) {
+				switch (loadzone_temp_flags[6 /* 0x9 40 */]) {
 				  case 0:
 					printf("######You can buy a #####Bug Net #####from #####Beedle's\nAirshop##### if you don't have one...\n\n\nBeedle is usually flying his shop outside\naround the Bazaar... Yes... If you #####look\naround#####, you should see him up there...")
 				  case 1:
@@ -371,9 +371,9 @@ void entrypoint_106_50() {
 			goto flw_62
 		}
 	  case 1:
-		switch (story_flags[386 0x0182]) {
+		switch (story_flags[386 /* us: 805A9B0D 0x10, jp: 805ACD8D 0x10 */]) {
 		  case 0:
-			switch (story_flags[387 0x0183]) {
+			switch (story_flags[387 /* us: 805A9B0D 0x20, jp: 805ACD8D 0x20 */]) {
 			  case 0:
 				goto flw_116
 			  case 1:
@@ -388,7 +388,7 @@ void entrypoint_106_50() {
 				}
 			}
 		  case 1:
-			switch (story_flags[208 0x00D0]) {
+			switch (story_flags[208 /* us: 805A9AF0 0x10, jp: 805ACD70 0x10 */]) {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 184), ('param3', 31)])
 				printf("######...Welcome!\n#####......#########\n#Sigh...\n\n\n######Sorry--I shouldn't be sighing in front\nof a customer... You see, recently\nI haven't been able to sleep #####at night#####...\n\nAhhh... Sorry, I also shouldn't be\ncomplaining in front of a customer...\nAgain...")

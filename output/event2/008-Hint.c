@@ -5,7 +5,7 @@ void entrypoint_008_002() {
 
 void entrypoint_008_003() {
 	start()
-	switch (story_flags[226 0x00E2]) {
+	switch (story_flags[226 /* us: 805A9AF2 0x08, jp: 805ACD72 0x08 */]) {
 	  case 0:
 		printf("How do you do? I'm what you call a\n#####Sheikah Stone#########\n.#####.#####.####\nbut you knew that\nalready, didn't you?\n\nI'm a stone of few words so I'll get right\nto it. #####I can see you're playing in #####Hero\nMode#####, so clearly you've mastered all\nthe puzzles out there before.\nI think that's pretty impressive! Tell\nyou what, I'm going to go ahead and\ngive you access to #####all the hints##### right\nfrom the start.\nIf you ever get the urge to look over\nhints you've already seen, just come\nand see me.\n\nGood luck to you, friend!")
 	  case 1:
@@ -15,7 +15,7 @@ void entrypoint_008_003() {
 
 void entrypoint_008_004() {
 	start()
-	switch (story_flags[226 0x00E2]) {
+	switch (story_flags[226 /* us: 805A9AF2 0x08, jp: 805ACD72 0x08 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 6), ('next', -1), ('param3', 7)])
 	  case 1:
@@ -36,7 +36,7 @@ void entrypoint_008_005() {
 
 void entrypoint_008_006() {
 	start()
-	switch (story_flags[226 0x00E2]) {
+	switch (story_flags[226 /* us: 805A9AF2 0x08, jp: 805ACD72 0x08 */]) {
 	  case 0:
 		printf("Heya, friend.####\n Just so you know, I've\ngot every hint here ready for you!\nWanna see a hint?\n#####Sure!#####Nah.")
 		flw_9:

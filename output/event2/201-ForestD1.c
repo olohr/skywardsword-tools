@@ -20,14 +20,14 @@ void entrypoint_201_52() {
 
 void entrypoint_201_18() {
 	start()
-	scene_flags[11 'Faron: Skyview Temple'][21 0x15] = true;
-	switch (story_flags[64 0x0040]) {
+	scene_flags[11 'Faron: Skyview Temple'][21 /* 0x3 20 */] = true;
+	switch (story_flags[64 /* us: 805A9ADF 0x08, jp: 805ACD5F 0x08 */]) {
 	  case 0:
 		printf("My readings indicate the presence\nof #####sacred water #####within the temple.\nUnfortunately, it is##### not possible to\nuse your ######dowsing##### ability here.\nBased on my calculations, I estimate\nthe water is located in the deepest\npart of the temple complex.")
-		scene_flags[11 'Faron: Skyview Temple'][98 0x62] = true;
+		scene_flags[11 'Faron: Skyview Temple'][98 /* 0xD 04 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 0), ('param2', 0), ('next', 205), ('param3', 30)])
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', 206), ('param3', 6)])
-		scene_flags[11 'Faron: Skyview Temple'][97 0x61] = true;
+		scene_flags[11 'Faron: Skyview Temple'][97 /* 0xD 02 */] = true;
 		printf("I recommend using the ##### on your\nmap as a guide when revisiting the\ndeepest area of the temple.")
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1), ('next', 78), ('param3', 34)])
 		printf("I am detecting a greater enemy\npresence in the vicinity than I\npreviously observed. You would be\nwise to proceed with caution.")
@@ -47,7 +47,7 @@ void entrypoint_201_53() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 86), ('param3', 39)])
 	printf("My analysis suggests you should take\nthe tablet to the altar in Skyloft.\n\n\nDoing so will likely open a new ###########column\nof light #####on the surface, allowing you to\ndescend to another area and continue\nyour search for Zelda.")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 9), ('param3', 39)])
-	switch (story_flags[86 0x0056]) {
+	switch (story_flags[86 /* us: 805A9AE8 0x04, jp: 805ACD68 0x04 */]) {
 	  case 0:
 		printf("Let's return to the sky once more\nbefore continuing our search. The #####bird\nstatue##### outside can take us back up.")
 		flw_79:
@@ -76,11 +76,11 @@ void entrypoint_201_54() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 330), ('param2', 0), ('next', 168), ('param3', 51)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 100), ('param2', 3), ('next', 169), ('param3', 17)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 9), ('param2', 0), ('next', 26), ('param3', 39)])
-	switch (story_flags[64 0x0040]) {
+	switch (story_flags[64 /* us: 805A9ADF 0x08, jp: 805ACD5F 0x08 */]) {
 	  case 0:
 		printf("There is a 95% probability that the\nwater here is identical to the water\nwithin the Water Dragon's basin.\nI suggest we take it back to her.")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 11), ('next', 264), ('param3', 4)])
-		story_flags[818 0x0332] = false;
+		story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = false;
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 84), ('param3', 36)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 0), ('next', 170), ('param3', 39)])
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', -1), ('param3', 6)])
@@ -103,7 +103,7 @@ void entrypoint_201_55() {
 void entrypoint_201_20() {
 	start()
 	printf("######Master ####, it is likely\nthat I am the servant this tablet is\nreferring to.\n\nTo help you###### with your mission, the\ngoddess gave me a massive quantity\nof knowledge about this land.\n\nShould you find yourself in need of\nanswers, I hope you won't hesitate to\ncall on me by pressing #####.\n#####\nIf you #####target #####an object with ##### and\nthen #####press ##########, I will tell you all the\ninformation I know about it.##########")
-	scene_flags[11 'Faron: Skyview Temple'][68 0x44] = true;
+	scene_flags[11 'Faron: Skyview Temple'][68 /* 0x9 10 */] = true;
 }
 
 void entrypoint_201_04() {
@@ -114,7 +114,7 @@ void entrypoint_201_04() {
 void entrypoint_201_56() {
 	start()
 	printf("I fear I spent far too long teasing and\ntoying with you.\n\n\nThe girl's presence has all but faded\nfrom this place, which means there's\nno reason to linger here.\n\nGood-bye, sky child. Run and play this\ntime. Get in my way again, though,\nand you're dead.")
-	story_flags[83 0x0053] = true;
+	story_flags[83 /* us: 805A9AE9 0x80, jp: 805ACD69 0x80 */] = true;
 }
 
 void entrypoint_201_21() {
@@ -133,10 +133,10 @@ void entrypoint_201_91() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 99), ('next', 198), ('param3', 16)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 5), ('next', 194), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 12), ('param2', 0), ('next', 212), ('param3', 39)])
-	scene_flags[11 'Faron: Skyview Temple'][31 0x1F] = true;
-	story_flags[1112 0x0458] = true;
+	scene_flags[11 'Faron: Skyview Temple'][31 /* 0x2 80 */] = true;
+	story_flags[1112 /* us: 805A9B54 0x40, jp: 805ACDD4 0x40 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 16), ('next', 255), ('param3', 33)])
-	switch (story_flags[1111 0x0457]) {
+	switch (story_flags[1111 /* us: 805A9B54 0x20, jp: 805ACDD4 0x20 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 201), ('param2', 96), ('next', -1), ('param3', 7)])
 	  case 1:
@@ -144,7 +144,7 @@ void entrypoint_201_91() {
 		printf("Just fantastic. I work like a weasel\njust to swipe a key from that monster,\nand then I hafta go and lose it.")
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4117), ('param2', 4103), ('next', 43), ('param3', 13)])
 		printf("I just can't remember which hole\nI hid it in.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 15), ('param3', 6), ('param4', 2), ('param5', 29)])) {
+		switch (scene_flags[15 /* 0x0 80 */]) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 201), ('param2', 96), ('next', -1), ('param3', 7)])
 		  case 1:
@@ -163,7 +163,7 @@ void entrypoint_201_57() {
 void entrypoint_201_22() {
 	start()
 	printf("######Master, I detect targetable objects in\nyour immediate vicinity.\n\n\nIf you press ##### while #####targeting##### a\nperson or object with #####, I will provide\nyou with information on that subject.##########")
-	scene_flags[11 'Faron: Skyview Temple'][113 0x71] = true;
+	scene_flags[11 'Faron: Skyview Temple'][113 /* 0xF 02 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 101), ('next', 224), ('param3', 32)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 100), ('param2', 101), ('next', 225), ('param3', 17)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', 226), ('param3', 6)])
@@ -194,7 +194,7 @@ void entrypoint_201_92() {
 		printf("So I get here, and I let loose with\nsome of the most gorgeous humming\nI've done in my entire life, and\nnothing happens!")
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4105), ('param2', 2050), ('next', 100), ('param3', 13)])
 		printf("But seeing how I've come this far,\nthere's no chance I'm gonna give\nup the hunt for treasure just yet!")
-		story_flags[493 0x01ED] = true;
+		story_flags[493 /* us: 805A9B13 0x08, jp: 805ACD93 0x08 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4116), ('param2', 4617), ('next', 54), ('param3', 13)])
@@ -262,7 +262,7 @@ void entrypoint_201_95() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 100), ('param2', 17), ('next', 144), ('param3', 17)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', 162), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 17), ('param2', -1), ('next', 115), ('param3', 16)])
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 58), ('param3', 6), ('param4', 2), ('param5', 10)])) {
+	switch (scene_flags[58 /* 0x6 04 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4369), ('param2', 3346), ('next', 117), ('param3', 13)])
 		printf("Whoa there, buddy. I bet you think\nyou're going to run ahead and swipe\nall the best treasure for yourself.")
@@ -287,7 +287,7 @@ void entrypoint_201_95() {
 			printf("Did the big stone guy out there tip ya\noff to the loot too?\n#####Stone guy?#####Tip?")
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4369), ('param2', 3339), ('next', 135), ('param3', 13)])
 			printf("No one's beatin' me to all the sweet\nloot piled up in this place!")
-			story_flags[493 0x01ED] = true;
+			story_flags[493 /* us: 805A9B13 0x08, jp: 805ACD93 0x08 */] = true;
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4372), ('param2', 4617), ('next', 130), ('param3', 13)])
@@ -301,9 +301,9 @@ void entrypoint_201_96() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 16), ('next', 261), ('param3', 32)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 99), ('next', 173), ('param3', 16)])
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 15), ('param3', 6), ('param4', 2), ('param5', 16)])) {
+	switch (scene_flags[15 /* 0x0 80 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 69), ('param3', 6), ('param4', 2), ('param5', 18)])) {
+		switch (scene_flags[69 /* 0x9 20 */]) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4113), ('param2', 3345), ('next', 177), ('param3', 13)])
 			printf("What?! Ya found my key and then\nused it already?")
@@ -312,7 +312,7 @@ void entrypoint_201_96() {
 			printf("Hmm. I was just thinkin', what use do\nus Mogmas have for keys? We can dig\nour way in and out of anything!")
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4105), ('param2', 2050), ('next', 179), ('param3', 13)])
 			printf("Well, good to know where that key\nwent. I gotta get back to hunting for\ntreasure. Here's hoping we both\nstrike it rich in here! See ya!")
-			scene_flags[11 'Faron: Skyview Temple'][55 0x37] = true;
+			scene_flags[11 'Faron: Skyview Temple'][55 /* 0x7 80 */] = true;
 			flw_256:
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 		  case 1:
@@ -321,11 +321,11 @@ void entrypoint_201_96() {
 			goto flw_182
 		}
 	  case 1:
-		switch (story_flags[1111 0x0457]) {
+		switch (story_flags[1111 /* us: 805A9B54 0x20, jp: 805ACDD4 0x20 */]) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4115), ('param2', 4100), ('next', 251), ('param3', 13)])
 			printf("Huh? I can't find it anywhere...")
-			story_flags[1111 0x0457] = false;
+			story_flags[1111 /* us: 805A9B54 0x20, jp: 805ACDD4 0x20 */] = false;
 			flw_189:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4105), ('param2', 2050), ('next', 188), ('param3', 13)])
 			printf("It's the darnedest thing. I buried a key\naround here, but I can't recall where\nexactly I put it.")
@@ -358,14 +358,14 @@ void entrypoint_201_97() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 5), ('next', 240), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 12), ('param2', 0), ('next', 245), ('param3', 39)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 55), ('param2', 11), ('next', 266), ('param3', 4)])
-	story_flags[1112 0x0458] = true;
-	story_flags[1111 0x0457] = true;
+	story_flags[1112 /* us: 805A9B54 0x40, jp: 805ACDD4 0x40 */] = true;
+	story_flags[1111 /* us: 805A9B54 0x20, jp: 805ACDD4 0x20 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 16), ('next', 237), ('param3', 33)])
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4115), ('param2', 4100), ('next', 235), ('param3', 13)])
 	printf("Just fantastic. I work like a weasel\njust to swipe a key from that monster,\nand then I hafta go and lose it.")
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4117), ('param2', 4103), ('next', 232), ('param3', 13)])
 	printf("I just can't remember which hole\nI hid it in.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 15), ('param3', 6), ('param4', 2), ('param5', 23)])) {
+	switch (scene_flags[15 /* 0x0 80 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 201), ('param2', 96), ('next', -1), ('param3', 7)])
 	  case 1:
@@ -378,7 +378,7 @@ void entrypoint_201_97() {
 void entrypoint_201_11() {
 	start()
 	printf("I detect Zelda's aura! There is a high\nprobability that she is beyond this\nlarge door.")
-	scene_flags[11 'Faron: Skyview Temple'][32 0x20] = true;
+	scene_flags[11 'Faron: Skyview Temple'][32 /* 0x5 01 */] = true;
 }
 
 void entrypoint_201_12() {
@@ -390,7 +390,7 @@ void entrypoint_201_99() {
 	start()
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 63), ('param3', 9), ('param4', 2), ('param5', 14)])) {
 	  case 0:
-		scene_flags[11 'Faron: Skyview Temple'][16 0x10] = true;
+		scene_flags[11 'Faron: Skyview Temple'][16 /* 0x3 01 */] = true;
 	  case 1:
 	}
 }
@@ -398,14 +398,14 @@ void entrypoint_201_99() {
 void entrypoint_201_13() {
 	start()
 	printf("The mechanism controlling the lock on\nthis door appears to have been\ndeactivated.")
-	scene_flags[11 'Faron: Skyview Temple'][34 0x22] = true;
+	scene_flags[11 'Faron: Skyview Temple'][34 /* 0x5 04 */] = true;
 }
 
 void entrypoint_201_14() {
 	start()
 	printf("######Master, I have bad news. The auras of\nmany creatures reverberate\nthroughout this temple.\n\nAs a result, I can't isolate Zelda's aura#####.\n#####You will #####not be able to track her##### here.\n\n\n######Given the situation, I suggest you\n#####look around #####to see where we should\nmove next.")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 50), ('param2', 11), ('next', 262), ('param3', 28)])
-	story_flags[818 0x0332] = false;
+	story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = false;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', -1), ('param3', 42)])
 }
 
@@ -417,6 +417,6 @@ void entrypoint_201_15() {
 void entrypoint_201_16() {
 	start()
 	printf("It appears one of Ghirahim's \nunderlings has reengaged the lock\nhere. You will need to search the\narea for the key once again.")
-	scene_flags[11 'Faron: Skyview Temple'][20 0x14] = true;
+	scene_flags[11 'Faron: Skyview Temple'][20 /* 0x3 10 */] = true;
 }
 
