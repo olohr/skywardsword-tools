@@ -136,6 +136,7 @@ def objAddExtraInfo(parsed_item):
         extraInfo['untrigstoryfid']=untriggerstoryf
         # there might be more Npc actors with this sceneflag behaviour but needs testing
         if parsed_item['name']=='NpcTke':
+            extraInfo['triggerarea']=parsed_item['angle'] & 0xFF
             extraInfo['trigscenefid']=parsed_item['transition_type']
             extraInfo['untrigscenefid']=parsed_item['event_flag']
     elif parsed_item['name']=='Door':
@@ -271,7 +272,12 @@ def parseObj(objtype, quantity, data):
             elif objtype == 'BPNT':
                 parsed_item = unpack('pos1x pos1y pos1z pos2x pos2y pos2z pos3x pos3y pos3z unk','>3f3f3f4s',item)
             elif objtype == 'AREA':
-                parsed_item = unpack('posx posy posz sizex sizey sizez unk','>3f3f8s',item)
+                # byte 1,2,4 very variable
+                # byte 3 FF or 00
+                # byte 5 01 or 00
+                # byte 6, 7, 8 FF
+                parsed_item = unpack('posx posy posz sizex sizey sizez angle area_link unk3 dummy','>3f3fHhb3s',item)
+                parsed_item['index']=i
             elif objtype == 'EVNT':
                 parsed_item = unpack('unk1 story_flag1 story_flag2 unk2 exit_id unk3 name','>2shh3sb14s32s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])

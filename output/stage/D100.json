@@ -707,7 +707,11 @@
                     "sizex": 1200.0,
                     "sizey": 800.0,
                     "sizez": 1400.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 550.0,
@@ -716,7 +720,11 @@
                     "sizex": 200.0,
                     "sizey": 800.0,
                     "sizez": 1000.0,
-                    "unk": "0C CC FF FF 00 FF FF FF"
+                    "angle": 3276,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 }
             ],
             "EVNT": [
@@ -2039,6 +2047,7 @@
                             "extra_info": {
                                 "trigstoryfid": 89,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 3,
                                 "trigstoryf": "Skyview Introductory cutscene",
@@ -2284,6 +2293,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 61,
                                 "trigstoryf": "-",
@@ -2307,6 +2317,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 249,
                                 "untrigscenefid": 58,
                                 "trigstoryf": "-",
@@ -2366,6 +2377,7 @@
                             "extra_info": {
                                 "trigstoryfid": 433,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 94,
                                 "trigstoryf": "Reveal Goddess Wall in Skyview 2",
@@ -2806,7 +2818,11 @@
                     "sizex": 480.0,
                     "sizey": 250.0,
                     "sizez": 480.0,
-                    "unk": "00 00 00 01 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": 1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 3.0,
@@ -2815,7 +2831,11 @@
                     "sizex": 530.0,
                     "sizey": 250.0,
                     "sizez": 466.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 }
             ],
             "EVNT": [
@@ -3299,6 +3319,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 194,
                                 "untrigscenefid": 68,
                                 "trigstoryf": "-",
@@ -4018,7 +4039,11 @@
                     "sizex": 600.0,
                     "sizey": 200.0,
                     "sizez": 600.0,
-                    "unk": "00 00 00 01 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -1100.0,
@@ -4027,7 +4052,11 @@
                     "sizex": 1300.0,
                     "sizey": 300.0,
                     "sizez": 600.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 0.0,
@@ -4036,7 +4065,11 @@
                     "sizex": 300.0,
                     "sizey": 300.0,
                     "sizez": 300.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 }
             ],
             "EVNT": [
@@ -6507,6 +6540,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 192,
                                 "untrigscenefid": 8,
                                 "trigstoryf": "-",
@@ -6762,6 +6796,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 2,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 20,
                                 "trigstoryf": "-",
@@ -8452,6 +8487,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 245,
                                 "untrigscenefid": 54,
                                 "trigstoryf": "-",
@@ -8925,7 +8961,11 @@
                     "sizex": 900.0,
                     "sizey": 200.0,
                     "sizez": 600.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 3590.0,
@@ -8934,7 +8974,11 @@
                     "sizex": 460.0,
                     "sizey": 100.0,
                     "sizez": 1225.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 }
             ],
             "EVNT": [
@@ -10413,6 +10457,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 53,
                                 "untrigscenefid": 57,
                                 "trigstoryf": "-",
@@ -10436,6 +10481,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 1,
                                 "trigscenefid": 200,
                                 "untrigscenefid": 113,
                                 "trigstoryf": "-",
@@ -10752,6 +10798,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 246,
                                 "untrigscenefid": 127,
                                 "trigstoryf": "-",
@@ -14226,7 +14273,11 @@
                     "sizex": 450.0,
                     "sizey": 450.0,
                     "sizez": 600.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -15309,6 +15360,7 @@
                             "extra_info": {
                                 "trigstoryfid": 64,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 119,
                                 "trigstoryf": "Set when Water Dragon asks for Sacred Water (Sacred Water dowsing)",
@@ -17928,7 +17980,11 @@
                     "sizex": 500.0,
                     "sizey": 300.0,
                     "sizez": 400.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -19980,6 +20036,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 32,
                                 "trigstoryf": "-",
@@ -20094,6 +20151,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 247,
                                 "untrigscenefid": 56,
                                 "trigstoryf": "-",
@@ -20487,7 +20545,11 @@
                     "sizex": 600.0,
                     "sizey": 200.0,
                     "sizez": 200.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -21016,6 +21078,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 33,
                                 "untrigscenefid": 34,
                                 "trigstoryf": "-",
@@ -21039,6 +21102,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 33,
                                 "untrigscenefid": 43,
                                 "trigstoryf": "-",

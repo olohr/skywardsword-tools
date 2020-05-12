@@ -661,7 +661,11 @@
                     "sizex": 600.0,
                     "sizey": 400.0,
                     "sizez": 600.0,
-                    "unk": "00 00 00 01 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": 1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -1500.0,
@@ -670,7 +674,11 @@
                     "sizex": 1600.0,
                     "sizey": 400.0,
                     "sizez": 600.0,
-                    "unk": "0D 27 00 02 00 FF FF FF"
+                    "angle": 3367,
+                    "area_link": 2,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": -110.0,
@@ -679,7 +687,11 @@
                     "sizex": 1400.0,
                     "sizey": 400.0,
                     "sizez": 600.0,
-                    "unk": "00 00 00 03 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 3,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": 890.0,
@@ -688,7 +700,11 @@
                     "sizex": 1800.0,
                     "sizey": 400.0,
                     "sizez": 600.0,
-                    "unk": "E5 56 FF FF 00 FF FF FF"
+                    "angle": 58710,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 },
                 {
                     "posx": -2250.0,
@@ -697,7 +713,11 @@
                     "sizex": 500.0,
                     "sizey": 400.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 4
                 },
                 {
                     "posx": -1739.7938232421875,
@@ -706,7 +726,11 @@
                     "sizex": 800.0,
                     "sizey": 400.0,
                     "sizez": 700.0,
-                    "unk": "F0 FF FF FF 00 FF FF FF"
+                    "angle": 61695,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 5
                 },
                 {
                     "posx": -2532.803955078125,
@@ -715,7 +739,11 @@
                     "sizex": 900.0,
                     "sizey": 400.0,
                     "sizez": 700.0,
-                    "unk": "F0 FF FF FF 00 FF FF FF"
+                    "angle": 61695,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 6
                 }
             ],
             "EVNT": [
@@ -5050,6 +5078,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 27,
                                 "trigstoryf": "-",
@@ -5190,6 +5219,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 4,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 34,
                                 "trigstoryf": "-",
@@ -5213,6 +5243,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 227,
+                                "triggerarea": 5,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -5236,6 +5267,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 227,
+                                "triggerarea": 6,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -5259,6 +5291,7 @@
                             "extra_info": {
                                 "trigstoryfid": 227,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 35,
                                 "trigstoryf": "First Goddess Cube (Unlocks ability to skyward strike Goddess Cubes)",
@@ -5301,6 +5334,7 @@
                             "extra_info": {
                                 "trigstoryfid": 91,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 48,
                                 "trigstoryf": "Deep Woods Introductory cutscene",
@@ -5672,6 +5706,7 @@
                             "extra_info": {
                                 "trigstoryfid": 5,
                                 "untrigstoryfid": 69,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
@@ -5945,6 +5980,7 @@
                             "extra_info": {
                                 "trigstoryfid": 71,
                                 "untrigstoryfid": 121,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",

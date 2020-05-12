@@ -8808,6 +8808,7 @@
                             "extra_info": {
                                 "trigstoryfid": 265,
                                 "untrigstoryfid": 279,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Shipyard Introductory Cutscene (Sand Sea layer 4)",

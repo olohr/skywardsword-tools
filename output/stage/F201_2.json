@@ -315,7 +315,11 @@
                     "sizex": 500.0,
                     "sizey": 300.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -1209,6 +1213,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 44,
                                 "untrigscenefid": 45,
                                 "trigstoryf": "-",

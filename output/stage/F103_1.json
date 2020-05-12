@@ -426,7 +426,11 @@
                     "sizex": 700.0,
                     "sizey": 1000.0,
                     "sizez": 700.0,
-                    "unk": "27 D2 FF FF 00 FF FF FF"
+                    "angle": 10194,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -2006.134765625,
@@ -435,7 +439,11 @@
                     "sizex": 700.0,
                     "sizey": 700.0,
                     "sizez": 300.0,
-                    "unk": "31 11 FF FF 00 FF FF FF"
+                    "angle": 12561,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 }
             ],
             "EVNT": [
@@ -1265,6 +1273,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -1307,6 +1316,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",

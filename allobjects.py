@@ -26,10 +26,11 @@ all_stages={}
 totally_all_objects=[]
 raw_stages={}
 all_ENVTS=[]
+all_AREAS=[]
 
 sizeobjs = ('SOBS','SOBJ','STAS','STAG','SNDT')
 objs = ('OBJS','OBJ ','DOOR')
-allobjtypes = sizeobjs + objs
+allobjtypes = sizeobjs + objs + ('AREA',)
 
 # iterate through all object to attach some extra info/get bounds
 for stagefile in glob.glob(basepath + '/output/stage/*.json'):
@@ -63,17 +64,25 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
                     obj['roomid'] = -1
                     obj['layerid'] = int(lid[1:])
                     obj['stageid'] = output['stageid']
-                    if obj['talk_behaviour'] in foundevents:
-                        if not 'extra_info' in obj:
-                            obj['extra_info'] = {}
-                        obj['extra_info']['eventSrc'] = foundevents[obj['talk_behaviour']]
-                    if obj.get('extra_info',{}).get('talk_behaviour',None) in foundevents:
-                        obj['extra_info']['eventSrc'] = foundevents[obj['extra_info']['talk_behaviour']]
                     all_objects.append(obj)
                     totally_all_objects.append(obj)
         for (rid, room) in stage['rooms'].items():
             if 'EVNT' in room:
                 all_ENVTS.extend(room['EVNT'])
+            for obj in room.get('AREA',[]):
+                # find min max bounds
+                maxx=max(maxx,obj['posx'])
+                maxz=max(maxz,obj['posz'])
+                minx=min(minx,obj['posx'])
+                minz=min(minz,obj['posz'])
+
+                obj['type'] = 'AREA'
+                obj['name'] = 'AREA'
+                obj['roomid'] = int(rid[1:])
+                obj['layerid'] = 0 # no layer would be more accurate
+                obj['stageid'] = output['stageid']
+                all_objects.append(obj)
+                totally_all_objects.append(obj)
             for (lid, layer) in room['LAY '].items():
                 for (objt, objects) in layer.items():
                     if not objt in allobjtypes:
@@ -89,12 +98,6 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
                         obj['roomid'] = int(rid[1:])
                         obj['layerid'] = int(lid[1:])
                         obj['stageid'] = output['stageid']
-                        if obj['talk_behaviour'] in foundevents:
-                            if not 'extra_info' in obj:
-                                obj['extra_info'] = {}
-                            obj['extra_info']['eventSrc'] = foundevents[obj['talk_behaviour']]
-                        if obj.get('extra_info',{}).get('talk_behaviour',None) in foundevents:
-                            obj['extra_info']['eventSrc'] = foundevents[obj['extra_info']['talk_behaviour']]
                         all_objects.append(obj)
                         totally_all_objects.append(obj)
     
@@ -111,6 +114,14 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
     output['allObjects']=all_objects
 
     all_stages[output['stageid']]=output
+
+for obj in totally_all_objects:
+    if obj.get('talk_behaviour',None) in foundevents:
+        if not 'extra_info' in obj:
+            obj['extra_info'] = {}
+        obj['extra_info']['eventSrc'] = foundevents[obj['talk_behaviour']]
+    if obj.get('extra_info',{}).get('talk_behaviour',None) in foundevents:
+        obj['extra_info']['eventSrc'] = foundevents[obj['extra_info']['talk_behaviour']]
 
 # typnamemap = collections.OrderedDict()
 # for typ in allobjtypes:

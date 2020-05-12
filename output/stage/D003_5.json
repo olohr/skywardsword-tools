@@ -346,7 +346,11 @@
                     "sizex": 600.0,
                     "sizey": 2000.0,
                     "sizez": 600.0,
-                    "unk": "00 00 00 01 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": 1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 1469.8577880859375,
@@ -355,7 +359,11 @@
                     "sizex": 600.0,
                     "sizey": 2000.0,
                     "sizez": 600.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 }
             ],
             "EVNT": [

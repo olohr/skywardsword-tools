@@ -2237,7 +2237,11 @@
                     "sizex": 250.0,
                     "sizey": 300.0,
                     "sizez": 250.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 0.0,
@@ -2246,7 +2250,11 @@
                     "sizex": 10000.0,
                     "sizey": 20000.0,
                     "sizez": 10000.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 1225.7642822265625,
@@ -2255,7 +2263,11 @@
                     "sizex": 2000.0,
                     "sizey": 500.0,
                     "sizez": 1000.0,
-                    "unk": "4C 16 FF FF 00 FF FF FF"
+                    "angle": 19478,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": -2765.438720703125,
@@ -2264,7 +2276,11 @@
                     "sizex": 3000.0,
                     "sizey": 500.0,
                     "sizez": 1000.0,
-                    "unk": "06 66 FF FF 00 FF FF FF"
+                    "angle": 1638,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 }
             ],
             "EVNT": [
@@ -3977,6 +3993,7 @@
                             "extra_info": {
                                 "trigstoryfid": 788,
                                 "untrigstoryfid": 782,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "",
@@ -4000,6 +4017,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 196,
                                 "trigstoryf": "-",
@@ -5445,6 +5463,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 2,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -5468,6 +5487,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 3,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",

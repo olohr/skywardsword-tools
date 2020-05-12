@@ -517,6 +517,7 @@
                             "extra_info": {
                                 "trigstoryfid": 47,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 95,
                                 "trigstoryf": "Eldin light pillar",
@@ -540,6 +541,7 @@
                             "extra_info": {
                                 "trigstoryfid": 48,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 96,
                                 "trigstoryf": "Lanayru light pillar (Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall layer 2 / Lanayru Mines layer 1 / Temple of Time layer 1)",

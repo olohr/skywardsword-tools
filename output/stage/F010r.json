@@ -343,6 +343,7 @@
                             "extra_info": {
                                 "trigstoryfid": 71,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 71,
                                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
@@ -366,6 +367,7 @@
                             "extra_info": {
                                 "trigstoryfid": 72,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 72,
                                 "trigstoryf": "Learn Nayru's Wisdom",
@@ -389,6 +391,7 @@
                             "extra_info": {
                                 "trigstoryfid": 73,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 73,
                                 "trigstoryf": "Learn Din's Power",

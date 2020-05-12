@@ -436,6 +436,7 @@
                             "extra_info": {
                                 "trigstoryfid": 692,
                                 "untrigstoryfid": 777,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 125,
                                 "trigstoryf": "(not implemented yet -- 7771)",

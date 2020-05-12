@@ -409,7 +409,11 @@
                     "sizex": 400000.0,
                     "sizey": 50000.0,
                     "sizez": 300000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -125870.890625,
@@ -418,7 +422,11 @@
                     "sizex": 45000.0,
                     "sizey": 100000.0,
                     "sizez": 45000.0,
-                    "unk": "1C 71 FF FF 01 FF FF FF"
+                    "angle": 7281,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": -125442.1484375,
@@ -427,7 +435,11 @@
                     "sizex": 50000.0,
                     "sizey": 50000.0,
                     "sizez": 50000.0,
-                    "unk": "1C 71 FF FF 01 FF FF FF"
+                    "angle": 7281,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": -135319.46875,
@@ -436,7 +448,11 @@
                     "sizex": 5000.0,
                     "sizey": 1000.0,
                     "sizez": 5000.0,
-                    "unk": "1D 27 FF FF 00 FF FF FF"
+                    "angle": 7463,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 }
             ],
             "EVNT": [
@@ -2855,6 +2871,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 3,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 35,
                                 "trigstoryf": "-",
@@ -4480,6 +4497,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 781,
+                                "triggerarea": 2,
                                 "trigscenefid": 37,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -4820,6 +4838,7 @@
                             "extra_info": {
                                 "trigstoryfid": 369,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 34,
                                 "trigstoryf": "Learn Song of the Hero (Waterfall Cave layer 1)",

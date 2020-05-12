@@ -514,7 +514,11 @@
                     "sizex": 2000.0,
                     "sizey": 2000.0,
                     "sizez": 5000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -2560.510498046875,
@@ -523,7 +527,11 @@
                     "sizex": 3000.0,
                     "sizey": 2000.0,
                     "sizez": 3000.0,
-                    "unk": "80 00 FF FF 00 FF FF FF"
+                    "angle": 32768,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 }
             ],
             "EVNT": [
@@ -1377,6 +1385,7 @@
                             "extra_info": {
                                 "trigstoryfid": 266,
                                 "untrigstoryfid": 278,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "",

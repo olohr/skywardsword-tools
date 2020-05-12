@@ -270,7 +270,11 @@
                     "sizex": 306.0,
                     "sizey": 479.0,
                     "sizez": 432.0,
-                    "unk": "06 66 FF FF 00 FF FF FF"
+                    "angle": 1638,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 44.71609115600586,
@@ -279,7 +283,11 @@
                     "sizex": 145.0,
                     "sizey": 100.0,
                     "sizez": 671.0,
-                    "unk": "1D 27 FF FF 00 FF FF FF"
+                    "angle": 7463,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 1134.4451904296875,
@@ -288,7 +296,11 @@
                     "sizex": 719.0,
                     "sizey": 100.0,
                     "sizez": 384.0,
-                    "unk": "0F A4 FF FF 00 FF FF FF"
+                    "angle": 4004,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 }
             ],
             "EVNT": [
@@ -2662,6 +2674,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 826,
+                                "triggerarea": 2,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -3050,6 +3063,7 @@
                             "extra_info": {
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 26,
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
@@ -3092,6 +3106,7 @@
                             "extra_info": {
                                 "trigstoryfid": 131,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 86,
                                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
@@ -3162,6 +3177,7 @@
                             "extra_info": {
                                 "trigstoryfid": 36,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 26,
                                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
@@ -3185,6 +3201,7 @@
                             "extra_info": {
                                 "trigstoryfid": 131,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 86,
                                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",

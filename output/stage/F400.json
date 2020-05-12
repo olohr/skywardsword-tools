@@ -793,7 +793,11 @@
                     "sizex": 1000.0,
                     "sizey": 50.0,
                     "sizez": 1000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -13412.71484375,
@@ -802,7 +806,11 @@
                     "sizex": 4000.0,
                     "sizey": 500.0,
                     "sizez": 3541.0,
-                    "unk": "FF 4A FF FF 00 FF FF FF"
+                    "angle": 65354,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": -12942.6591796875,
@@ -811,7 +819,11 @@
                     "sizex": 2000.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "D1 12 FF FF 00 FF FF FF"
+                    "angle": 53522,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": -3312.38720703125,
@@ -820,7 +832,11 @@
                     "sizex": 500.0,
                     "sizey": 300.0,
                     "sizez": 800.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 },
                 {
                     "posx": -17221.693359375,
@@ -829,7 +845,11 @@
                     "sizex": 3000.0,
                     "sizey": 500.0,
                     "sizez": 200.0,
-                    "unk": "20 B6 FF FF 00 FF FF FF"
+                    "angle": 8374,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 4
                 },
                 {
                     "posx": -9670.6591796875,
@@ -838,7 +858,11 @@
                     "sizex": 9000.0,
                     "sizey": 2000.0,
                     "sizez": 9000.0,
-                    "unk": "2F A4 FF FF 00 FF FF FF"
+                    "angle": 12196,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 5
                 },
                 {
                     "posx": -8538.84765625,
@@ -847,7 +871,11 @@
                     "sizex": 800.0,
                     "sizey": 500.0,
                     "sizez": 3000.0,
-                    "unk": "E0 00 FF FF 00 FF FF FF"
+                    "angle": 57344,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 6
                 },
                 {
                     "posx": -6427.79443359375,
@@ -856,7 +884,11 @@
                     "sizex": 500.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 7
                 }
             ],
             "EVNT": [
@@ -2256,6 +2288,7 @@
                             "extra_info": {
                                 "trigstoryfid": 422,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigstoryf": "drawing a rupee on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2279,6 +2312,7 @@
                             "extra_info": {
                                 "trigstoryfid": 423,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigstoryf": "drawing a heart on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2302,6 +2336,7 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2325,6 +2360,7 @@
                             "extra_info": {
                                 "trigstoryfid": 425,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigstoryf": "drawing a Bomb on Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2348,6 +2384,7 @@
                             "extra_info": {
                                 "trigstoryfid": 426,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigstoryf": "drawing a Arrow on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2371,6 +2408,7 @@
                             "extra_info": {
                                 "trigstoryfid": 423,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigstoryf": "drawing a heart on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2394,6 +2432,7 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2417,6 +2456,7 @@
                             "extra_info": {
                                 "trigstoryfid": 425,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigstoryf": "drawing a Bomb on Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2440,6 +2480,7 @@
                             "extra_info": {
                                 "trigstoryfid": 426,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigstoryf": "drawing a Arrow on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2463,6 +2504,7 @@
                             "extra_info": {
                                 "trigstoryfid": 422,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigstoryf": "drawing a rupee on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2486,6 +2528,7 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2509,6 +2552,7 @@
                             "extra_info": {
                                 "trigstoryfid": 425,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigstoryf": "drawing a Bomb on Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2532,6 +2576,7 @@
                             "extra_info": {
                                 "trigstoryfid": 426,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigstoryf": "drawing a Arrow on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2555,6 +2600,7 @@
                             "extra_info": {
                                 "trigstoryfid": 422,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigstoryf": "drawing a rupee on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2578,6 +2624,7 @@
                             "extra_info": {
                                 "trigstoryfid": 423,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigstoryf": "drawing a heart on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2601,6 +2648,7 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2624,6 +2672,7 @@
                             "extra_info": {
                                 "trigstoryfid": 426,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigstoryf": "drawing a Arrow on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2647,6 +2696,7 @@
                             "extra_info": {
                                 "trigstoryfid": 422,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigstoryf": "drawing a rupee on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2670,6 +2720,7 @@
                             "extra_info": {
                                 "trigstoryfid": 423,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigstoryf": "drawing a heart on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2693,6 +2744,7 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2716,6 +2768,7 @@
                             "extra_info": {
                                 "trigstoryfid": 425,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigstoryf": "drawing a Bomb on Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2739,6 +2792,7 @@
                             "extra_info": {
                                 "trigstoryfid": 422,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigstoryf": "drawing a rupee on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2762,6 +2816,7 @@
                             "extra_info": {
                                 "trigstoryfid": 423,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigstoryf": "drawing a heart on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2785,6 +2840,7 @@
                             "extra_info": {
                                 "trigstoryfid": 425,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigstoryf": "drawing a Bomb on Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2808,6 +2864,7 @@
                             "extra_info": {
                                 "trigstoryfid": 426,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigstoryf": "drawing a Arrow on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2831,6 +2888,7 @@
                             "extra_info": {
                                 "trigstoryfid": 424,
                                 "untrigstoryfid": 427,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 112,
                                 "trigstoryf": "drawing a Triforce on  Sealed grounds goddess wall  (unsets after S&Q)",
@@ -2854,6 +2912,7 @@
                             "extra_info": {
                                 "trigstoryfid": 421,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 131,
                                 "trigstoryf": "drawing random shape on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2877,6 +2936,7 @@
                             "extra_info": {
                                 "trigstoryfid": 421,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 132,
                                 "trigstoryf": "drawing random shape on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2900,6 +2960,7 @@
                             "extra_info": {
                                 "trigstoryfid": 421,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 133,
                                 "trigstoryf": "drawing random shape on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2923,6 +2984,7 @@
                             "extra_info": {
                                 "trigstoryfid": 421,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 134,
                                 "trigstoryf": "drawing random shape on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2946,6 +3008,7 @@
                             "extra_info": {
                                 "trigstoryfid": 421,
                                 "untrigstoryfid": 491,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 139,
                                 "trigstoryf": "drawing random shape on Sealed grounds goddess wall (unsets after S&Q)",
@@ -2969,6 +3032,7 @@
                             "extra_info": {
                                 "trigstoryfid": 71,
                                 "untrigstoryfid": 121,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
@@ -3978,6 +4042,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 2,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 14,
                                 "trigstoryf": "-",
@@ -4053,6 +4118,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 3,
                                 "untrigscenefid": 14,
                                 "trigstoryf": "-",
@@ -4076,6 +4142,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 6,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 94,
                                 "trigstoryf": "-",
@@ -4365,6 +4432,7 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 15,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
@@ -4407,6 +4475,7 @@
                             "extra_info": {
                                 "trigstoryfid": 9,
                                 "untrigstoryfid": 140,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
@@ -4443,6 +4512,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 15,
+                                "triggerarea": 255,
                                 "trigscenefid": 72,
                                 "untrigscenefid": 73,
                                 "trigstoryf": "-",
@@ -4466,6 +4536,7 @@
                             "extra_info": {
                                 "trigstoryfid": 131,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 6,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 66,
                                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
@@ -4641,6 +4712,7 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
@@ -4774,6 +4846,7 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
@@ -4894,6 +4967,7 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
@@ -5001,6 +5075,7 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",
@@ -5108,6 +5183,7 @@
                             "extra_info": {
                                 "trigstoryfid": 431,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 93,
                                 "trigstoryf": "Reveal Goddess Wall in Sealed Grounds",

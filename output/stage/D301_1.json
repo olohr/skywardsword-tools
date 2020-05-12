@@ -285,7 +285,11 @@
                     "sizex": 500.0,
                     "sizey": 500.0,
                     "sizez": 600.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 251.98788452148438,
@@ -294,7 +298,11 @@
                     "sizex": 500.0,
                     "sizey": 500.0,
                     "sizez": 2500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": -1073.9508056640625,
@@ -303,7 +311,11 @@
                     "sizex": 500.0,
                     "sizey": 500.0,
                     "sizez": 600.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": -3400.0,
@@ -312,7 +324,11 @@
                     "sizex": 700.0,
                     "sizey": 500.0,
                     "sizez": 700.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 }
             ],
             "EVNT": [
@@ -858,6 +874,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 79,
                                 "trigstoryf": "-",
@@ -881,6 +898,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 3,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 48,
                                 "trigstoryf": "-",

@@ -421,6 +421,7 @@
                             "extra_info": {
                                 "trigstoryfid": 645,
                                 "untrigstoryfid": 646,
+                                "triggerarea": 255,
                                 "trigscenefid": 60,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Set when beating Sky Keep",

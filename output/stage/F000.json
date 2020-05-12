@@ -2167,7 +2167,11 @@
                     "sizex": 1341.000244140625,
                     "sizey": 192.0,
                     "sizez": 1101.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -25.32341957092285,
@@ -2176,7 +2180,11 @@
                     "sizex": 2010.0,
                     "sizey": 1532.0001220703125,
                     "sizez": 1675.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 5958.98486328125,
@@ -2185,7 +2193,11 @@
                     "sizex": 1101.0,
                     "sizey": 384.0,
                     "sizez": 1245.0,
-                    "unk": "11 11 FF FF 00 FF FF FF"
+                    "angle": 4369,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": 8254.927734375,
@@ -2194,7 +2206,11 @@
                     "sizex": 384.0,
                     "sizey": 671.0,
                     "sizez": 384.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 },
                 {
                     "posx": 885.3126831054688,
@@ -2203,7 +2219,11 @@
                     "sizex": 432.0,
                     "sizey": 432.0,
                     "sizez": 432.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 4
                 },
                 {
                     "posx": 1142.3558349609375,
@@ -2212,7 +2232,11 @@
                     "sizex": 814.0,
                     "sizey": 100.0,
                     "sizez": 384.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 5
                 },
                 {
                     "posx": -3465.19921875,
@@ -2221,7 +2245,11 @@
                     "sizex": 814.0,
                     "sizey": 329.0,
                     "sizez": 814.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 6
                 },
                 {
                     "posx": -3491.558349609375,
@@ -2230,7 +2258,11 @@
                     "sizex": 3446.0,
                     "sizey": 100.0,
                     "sizez": 336.0,
-                    "unk": "37 77 FF FF 00 FF FF FF"
+                    "angle": 14199,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 7
                 },
                 {
                     "posx": -3719.6337890625,
@@ -2239,7 +2271,11 @@
                     "sizex": 430.0,
                     "sizey": 100.0,
                     "sizez": 432.0,
-                    "unk": "13 E9 FF FF 00 FF FF FF"
+                    "angle": 5097,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 8
                 },
                 {
                     "posx": 3016.009033203125,
@@ -2248,7 +2284,11 @@
                     "sizex": 1054.0,
                     "sizey": 308.21929931640625,
                     "sizez": 1054.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 9
                 },
                 {
                     "posx": -4525.634765625,
@@ -2257,7 +2297,11 @@
                     "sizex": 1484.0,
                     "sizey": 300.0,
                     "sizez": 336.0,
-                    "unk": "00 00 00 0B 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 11,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 10
                 },
                 {
                     "posx": -2017.2353515625,
@@ -2266,7 +2310,11 @@
                     "sizex": 3684.999755859375,
                     "sizey": 432.0,
                     "sizez": 671.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 11
                 },
                 {
                     "posx": -1039.2353515625,
@@ -2275,7 +2323,11 @@
                     "sizex": 910.0,
                     "sizey": 479.0,
                     "sizez": 862.0,
-                    "unk": "08 88 00 0D 00 FF FF FF"
+                    "angle": 2184,
+                    "area_link": 13,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 12
                 },
                 {
                     "posx": -5373.31005859375,
@@ -2284,7 +2336,11 @@
                     "sizex": 2776.0,
                     "sizey": 1532.0,
                     "sizez": 1819.0001220703125,
-                    "unk": "0E EE 00 1A 00 FF FF FF"
+                    "angle": 3822,
+                    "area_link": 26,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 13
                 },
                 {
                     "posx": 993.0243530273438,
@@ -2293,7 +2349,11 @@
                     "sizex": 6173.0,
                     "sizey": 479.0,
                     "sizez": 3254.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 14
                 },
                 {
                     "posx": 2.835050106048584,
@@ -2302,7 +2362,11 @@
                     "sizex": 3000.0,
                     "sizey": 500.0,
                     "sizez": 910.0,
-                    "unk": "00 00 00 12 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 18,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 15
                 },
                 {
                     "posx": 5480.8486328125,
@@ -2311,7 +2375,11 @@
                     "sizex": 1500.0,
                     "sizey": 500.0,
                     "sizez": 750.0,
-                    "unk": "03 8E FF FF 00 FF FF FF"
+                    "angle": 910,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 16
                 },
                 {
                     "posx": 7900.0,
@@ -2320,7 +2388,11 @@
                     "sizex": 200.0,
                     "sizey": 500.0,
                     "sizez": 200.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 17
                 },
                 {
                     "posx": -200.0,
@@ -2329,7 +2401,11 @@
                     "sizex": 3000.0,
                     "sizey": 1000.0,
                     "sizez": 500.0,
-                    "unk": "F1 C8 FF FF 00 FF FF FF"
+                    "angle": 61896,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 18
                 },
                 {
                     "posx": 940.1011962890625,
@@ -2338,7 +2414,11 @@
                     "sizex": 1000.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 19
                 },
                 {
                     "posx": 8264.6376953125,
@@ -2347,7 +2427,11 @@
                     "sizex": 600.0,
                     "sizey": 575.0,
                     "sizez": 600.0,
-                    "unk": "F2 7E FF FF 01 FF FF FF"
+                    "angle": 62078,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 20
                 },
                 {
                     "posx": 6787.697265625,
@@ -2356,7 +2440,11 @@
                     "sizex": 1341.0001220703125,
                     "sizey": 336.0,
                     "sizez": 814.0,
-                    "unk": "F5 56 FF FF 00 FF FF FF"
+                    "angle": 62806,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 21
                 },
                 {
                     "posx": 1138.468505859375,
@@ -2365,7 +2453,11 @@
                     "sizex": 2967.0,
                     "sizey": 288.0,
                     "sizez": 766.0,
-                    "unk": "00 00 00 17 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 23,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 22
                 },
                 {
                     "posx": 34.84620666503906,
@@ -2374,7 +2466,11 @@
                     "sizex": 1245.0,
                     "sizey": 192.0,
                     "sizez": 432.0,
-                    "unk": "40 00 00 18 00 FF FF FF"
+                    "angle": 16384,
+                    "area_link": 24,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 23
                 },
                 {
                     "posx": 2272.009765625,
@@ -2383,7 +2479,11 @@
                     "sizex": 1197.0,
                     "sizey": 192.0,
                     "sizez": 1006.0,
-                    "unk": "C0 00 FF FF 00 FF FF FF"
+                    "angle": 49152,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 24
                 },
                 {
                     "posx": 11224.3359375,
@@ -2392,7 +2492,11 @@
                     "sizex": 350.0,
                     "sizey": 700.0,
                     "sizez": 350.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 25
                 },
                 {
                     "posx": -544.3341674804688,
@@ -2401,7 +2505,11 @@
                     "sizex": 910.0,
                     "sizey": 575.0,
                     "sizez": 862.0,
-                    "unk": "F1 12 FF FF 00 FF FF FF"
+                    "angle": 61714,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 26
                 },
                 {
                     "posx": -8220.7275390625,
@@ -2410,7 +2518,11 @@
                     "sizex": 388.0,
                     "sizey": 288.0,
                     "sizez": 388.0,
-                    "unk": "1F 49 FF FF 00 FF FF FF"
+                    "angle": 8009,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 27
                 },
                 {
                     "posx": -5068.14794921875,
@@ -2419,7 +2531,11 @@
                     "sizex": 288.0,
                     "sizey": 192.0,
                     "sizez": 719.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 28
                 },
                 {
                     "posx": 3153.500732421875,
@@ -2428,7 +2544,11 @@
                     "sizex": 1000.0,
                     "sizey": 623.0,
                     "sizez": 527.0,
-                    "unk": "00 00 00 1E 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 30,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 29
                 },
                 {
                     "posx": 3984.732177734375,
@@ -2437,7 +2557,11 @@
                     "sizex": 671.0,
                     "sizey": 240.0,
                     "sizez": 1484.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 30
                 },
                 {
                     "posx": 10161.2529296875,
@@ -2446,7 +2570,11 @@
                     "sizex": 500.0,
                     "sizey": 300.0,
                     "sizez": 671.0,
-                    "unk": "00 00 00 20 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 32,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 31
                 },
                 {
                     "posx": 10828.8701171875,
@@ -2455,7 +2583,11 @@
                     "sizex": 814.0,
                     "sizey": 300.0,
                     "sizez": 1770.9998779296875,
-                    "unk": "00 00 00 21 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 33,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 32
                 },
                 {
                     "posx": 10161.2529296875,
@@ -2464,7 +2596,11 @@
                     "sizex": 500.0,
                     "sizey": 300.0,
                     "sizez": 766.0,
-                    "unk": "00 00 00 22 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 34,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 33
                 },
                 {
                     "posx": 9499.8095703125,
@@ -2473,7 +2609,11 @@
                     "sizex": 814.0,
                     "sizey": 300.0,
                     "sizez": 1770.9998779296875,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 34
                 },
                 {
                     "posx": 4898.09912109375,
@@ -2482,7 +2622,11 @@
                     "sizex": 750.0,
                     "sizey": 300.0,
                     "sizez": 750.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 35
                 },
                 {
                     "posx": 332.3165283203125,
@@ -2491,7 +2635,11 @@
                     "sizex": 4594.0,
                     "sizey": 407.0,
                     "sizez": 1341.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 36
                 },
                 {
                     "posx": -2521.640380859375,
@@ -2500,7 +2648,11 @@
                     "sizex": 800.0,
                     "sizey": 200.0,
                     "sizez": 800.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 37
                 }
             ],
             "EVNT": [
@@ -11502,6 +11654,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 37,
+                                "triggerarea": 6,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -11525,6 +11678,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 8,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 27,
                                 "trigstoryf": "-",
@@ -11945,6 +12099,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 197,
+                                "triggerarea": 27,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -12032,6 +12187,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 770,
+                                "triggerarea": 28,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -13775,6 +13931,7 @@
                             "extra_info": {
                                 "trigstoryfid": 40,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 4,
                                 "trigstoryf": "Set after landing in the circle after getting sailcloth",
@@ -13874,6 +14031,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 41,
+                                "triggerarea": 4,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -13916,6 +14074,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 3,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -14054,6 +14213,7 @@
                             "extra_info": {
                                 "trigstoryfid": 41,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 22,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Wing Ceremony Cutscene Part 1",
@@ -15015,6 +15175,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 202,
+                                "triggerarea": 12,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -15038,6 +15199,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 24,
+                                "triggerarea": 14,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -15080,6 +15242,7 @@
                             "extra_info": {
                                 "trigstoryfid": 47,
                                 "untrigstoryfid": 299,
+                                "triggerarea": 15,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Eldin light pillar",
@@ -15167,6 +15330,7 @@
                             "extra_info": {
                                 "trigstoryfid": 362,
                                 "untrigstoryfid": 363,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Talk to Professor Owlan inside Academy to locate Levias",
@@ -15299,6 +15463,7 @@
                             "extra_info": {
                                 "trigstoryfid": 641,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 77,
                                 "trigstoryf": "Spiral Charge Training Introductory Cutscene",
@@ -15322,6 +15487,7 @@
                             "extra_info": {
                                 "trigstoryfid": 643,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 21,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 77,
                                 "trigstoryf": "Prof Owlan ready to teach Spiral Charge (can be unset) (Sky layer 6) ",
@@ -15383,6 +15549,7 @@
                             "extra_info": {
                                 "trigstoryfid": 49,
                                 "untrigstoryfid": 322,
+                                "triggerarea": 25,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Talk to Headmaster to learn about Windmills",
@@ -15651,6 +15818,7 @@
                             "extra_info": {
                                 "trigstoryfid": 209,
                                 "untrigstoryfid": 769,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Hylia's Trial Completed",
@@ -15700,6 +15868,7 @@
                             "extra_info": {
                                 "trigstoryfid": 326,
                                 "untrigstoryfid": 838,
+                                "triggerarea": 36,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
@@ -16398,6 +16567,7 @@
                             "extra_info": {
                                 "trigstoryfid": 361,
                                 "untrigstoryfid": 576,
+                                "triggerarea": 20,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
@@ -16511,6 +16681,7 @@
                             "extra_info": {
                                 "trigstoryfid": 303,
                                 "untrigstoryfid": 301,
+                                "triggerarea": 16,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
@@ -17216,6 +17387,7 @@
                             "extra_info": {
                                 "trigstoryfid": 209,
                                 "untrigstoryfid": 769,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Hylia's Trial Completed",
@@ -18376,6 +18548,7 @@
                             "extra_info": {
                                 "trigstoryfid": 47,
                                 "untrigstoryfid": 299,
+                                "triggerarea": 15,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Eldin light pillar",
@@ -18689,6 +18862,7 @@
                             "extra_info": {
                                 "trigstoryfid": 326,
                                 "untrigstoryfid": 838,
+                                "triggerarea": 36,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
@@ -19705,6 +19879,7 @@
                             "extra_info": {
                                 "trigstoryfid": 361,
                                 "untrigstoryfid": 576,
+                                "triggerarea": 20,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
@@ -19818,6 +19993,7 @@
                             "extra_info": {
                                 "trigstoryfid": 303,
                                 "untrigstoryfid": 301,
+                                "triggerarea": 16,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
@@ -21222,6 +21398,7 @@
                             "extra_info": {
                                 "trigstoryfid": 47,
                                 "untrigstoryfid": 299,
+                                "triggerarea": 35,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Eldin light pillar",
@@ -21245,6 +21422,7 @@
                             "extra_info": {
                                 "trigstoryfid": 326,
                                 "untrigstoryfid": 838,
+                                "triggerarea": 36,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
@@ -21768,6 +21946,7 @@
                             "extra_info": {
                                 "trigstoryfid": 361,
                                 "untrigstoryfid": 576,
+                                "triggerarea": 20,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
@@ -21881,6 +22060,7 @@
                             "extra_info": {
                                 "trigstoryfid": 303,
                                 "untrigstoryfid": 301,
+                                "triggerarea": 16,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
@@ -22446,6 +22626,7 @@
                             "extra_info": {
                                 "trigstoryfid": 29,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 10,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 54,
                                 "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
@@ -22501,6 +22682,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 7,
                                 "trigscenefid": 55,
                                 "untrigscenefid": 56,
                                 "trigstoryf": "-",
@@ -22562,6 +22744,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 26,
+                                "triggerarea": 3,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -22585,6 +22768,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 25,
+                                "triggerarea": 2,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",

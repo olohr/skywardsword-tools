@@ -719,7 +719,11 @@
                     "sizex": 1500.0,
                     "sizey": 700.0,
                     "sizez": 1000.0,
-                    "unk": "1D DD 00 02 00 FF FF FF"
+                    "angle": 7645,
+                    "area_link": 2,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -684.6385498046875,
@@ -728,7 +732,11 @@
                     "sizex": 2300.0,
                     "sizey": 700.0,
                     "sizez": 1300.0,
-                    "unk": "06 66 FF FF 00 FF FF FF"
+                    "angle": 1638,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": -3676.06640625,
@@ -737,7 +745,11 @@
                     "sizex": 1500.0,
                     "sizey": 700.0,
                     "sizez": 1000.0,
-                    "unk": "1D DD FF FF 00 FF FF FF"
+                    "angle": 7645,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 }
             ],
             "EVNT": [
@@ -3730,6 +3742,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 62,
                                 "untrigscenefid": 63,
                                 "trigstoryf": "-",
@@ -6843,7 +6856,11 @@
                     "sizex": 1000.0,
                     "sizey": 1000.0,
                     "sizez": 1000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -8189,6 +8206,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 47,
                                 "untrigscenefid": 64,
                                 "trigstoryf": "-",
@@ -9867,6 +9885,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -12428,6 +12447,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 60,
                                 "untrigscenefid": 61,
                                 "trigstoryf": "-",
@@ -12490,6 +12510,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 106,
                                 "untrigscenefid": 107,
                                 "trigstoryf": "-",

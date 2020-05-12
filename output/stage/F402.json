@@ -1208,7 +1208,11 @@
                     "sizex": 1000.0,
                     "sizey": 1000.0,
                     "sizez": 1000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 7.542970180511475,
@@ -1217,7 +1221,11 @@
                     "sizex": 500.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": -105.31072235107422,
@@ -1226,7 +1234,11 @@
                     "sizex": 500.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": 191.73146057128906,
@@ -1235,7 +1247,11 @@
                     "sizex": 8000.0,
                     "sizey": 2000.0,
                     "sizez": 8000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 },
                 {
                     "posx": 3.9336209297180176,
@@ -1244,7 +1260,11 @@
                     "sizex": 1000.0,
                     "sizey": 1000.0,
                     "sizez": 1000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 4
                 },
                 {
                     "posx": 191.73146057128906,
@@ -1253,7 +1273,11 @@
                     "sizex": 8000.0,
                     "sizey": 500.0,
                     "sizez": 8000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 5
                 },
                 {
                     "posx": 191.73146057128906,
@@ -1262,7 +1286,11 @@
                     "sizex": 8000.0,
                     "sizey": 500.0,
                     "sizez": 8000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 6
                 },
                 {
                     "posx": 0.0,
@@ -1271,7 +1299,11 @@
                     "sizex": 250.0,
                     "sizey": 270.0,
                     "sizez": 450.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 7
                 },
                 {
                     "posx": 4.202599048614502,
@@ -1280,7 +1312,11 @@
                     "sizex": 850.0,
                     "sizey": 500.0,
                     "sizez": 850.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 8
                 },
                 {
                     "posx": -1947.37939453125,
@@ -1289,7 +1325,11 @@
                     "sizex": 500.0,
                     "sizey": 1000.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 9
                 },
                 {
                     "posx": 1632.9498291015625,
@@ -1298,7 +1338,11 @@
                     "sizex": 700.0,
                     "sizey": 500.0,
                     "sizez": 2500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 10
                 }
             ],
             "EVNT": [
@@ -2999,6 +3043,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 130,
+                                "triggerarea": 8,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -3256,6 +3301,7 @@
                             "extra_info": {
                                 "trigstoryfid": 340,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 9,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 107,
                                 "trigstoryf": "Gate of Time raised",
@@ -3319,6 +3365,7 @@
                             "extra_info": {
                                 "trigstoryfid": 149,
                                 "untrigstoryfid": 142,
+                                "triggerarea": 3,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Post Imp 1 defeat cutscene",
@@ -3342,6 +3389,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 141,
+                                "triggerarea": 1,
                                 "trigscenefid": 21,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -3365,6 +3413,7 @@
                             "extra_info": {
                                 "trigstoryfid": 140,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 28,
                                 "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
@@ -3414,6 +3463,7 @@
                             "extra_info": {
                                 "trigstoryfid": 140,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 4,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 28,
                                 "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
@@ -3604,6 +3654,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 30,
                                 "untrigscenefid": 57,
                                 "trigstoryf": "-",
@@ -3627,6 +3678,7 @@
                             "extra_info": {
                                 "trigstoryfid": 13,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 80,
                                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
@@ -3716,6 +3768,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 795,
+                                "triggerarea": 255,
                                 "trigscenefid": 30,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -3834,6 +3887,7 @@
                             "extra_info": {
                                 "trigstoryfid": 132,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 4,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 70,
                                 "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
@@ -3857,6 +3911,7 @@
                             "extra_info": {
                                 "trigstoryfid": 132,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 70,
                                 "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
@@ -3899,6 +3954,7 @@
                             "extra_info": {
                                 "trigstoryfid": 350,
                                 "untrigstoryfid": 146,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "True Master Sword Cutscene",
@@ -4111,6 +4167,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 794,
+                                "triggerarea": 255,
                                 "trigscenefid": 37,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -4153,6 +4210,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 794,
+                                "triggerarea": 10,
                                 "trigscenefid": 38,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -4232,6 +4290,7 @@
                             "extra_info": {
                                 "trigstoryfid": 133,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 4,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 71,
                                 "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
@@ -4255,6 +4314,7 @@
                             "extra_info": {
                                 "trigstoryfid": 133,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 71,
                                 "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
@@ -4359,6 +4419,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 794,
+                                "triggerarea": 255,
                                 "trigscenefid": 37,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -4401,6 +4462,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 794,
+                                "triggerarea": 10,
                                 "trigscenefid": 38,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",

@@ -326,7 +326,11 @@
                     "sizex": 500.0,
                     "sizey": 100.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -15.200987815856934,
@@ -335,7 +339,11 @@
                     "sizex": 1054.0,
                     "sizey": 240.0,
                     "sizez": 384.0,
-                    "unk": "00 00 00 02 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 2,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 549.6411743164062,
@@ -344,7 +352,11 @@
                     "sizex": 1054.0,
                     "sizey": 240.0,
                     "sizez": 384.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": 322.5919189453125,
@@ -353,7 +365,11 @@
                     "sizex": 200.0,
                     "sizey": 300.0,
                     "sizez": 200.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 },
                 {
                     "posx": 0.0,
@@ -362,7 +378,11 @@
                     "sizex": 300.0,
                     "sizey": 300.0,
                     "sizez": 300.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 4
                 },
                 {
                     "posx": 391.117919921875,
@@ -371,7 +391,11 @@
                     "sizex": 300.0,
                     "sizey": 300.0,
                     "sizez": 100.0,
-                    "unk": "EE EF FF FF 00 FF FF FF"
+                    "angle": 61167,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 5
                 }
             ],
             "PLY ": [
@@ -1498,6 +1522,7 @@
                             "extra_info": {
                                 "trigstoryfid": 290,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 3,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 20,
                                 "trigstoryf": "set after breaking chandelier in Lumpy pumkin",
@@ -1521,6 +1546,7 @@
                             "extra_info": {
                                 "trigstoryfid": 290,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 4,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 20,
                                 "trigstoryf": "set after breaking chandelier in Lumpy pumkin",
@@ -1595,6 +1621,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 4,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 23,
                                 "trigstoryf": "-",
@@ -1618,6 +1645,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 5,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 23,
                                 "trigstoryf": "-",
@@ -1641,6 +1669,7 @@
                             "extra_info": {
                                 "trigstoryfid": 688,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 4,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 24,
                                 "trigstoryf": "Reloading somehow after Finishing Pumm's 3rd Quest (play harp with Kina) (activates the new chandelier CS)",
@@ -1664,6 +1693,7 @@
                             "extra_info": {
                                 "trigstoryfid": 688,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 5,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 24,
                                 "trigstoryf": "Reloading somehow after Finishing Pumm's 3rd Quest (play harp with Kina) (activates the new chandelier CS)",

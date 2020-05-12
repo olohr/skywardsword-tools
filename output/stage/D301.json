@@ -2500,6 +2500,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 100,
                                 "untrigscenefid": 47,
                                 "trigstoryf": "-",
@@ -2685,6 +2686,7 @@
                             "extra_info": {
                                 "trigstoryfid": 508,
                                 "untrigstoryfid": 277,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 19,
                                 "trigstoryf": "",
@@ -4344,7 +4346,11 @@
                     "sizex": 800.0,
                     "sizey": 500.0,
                     "sizez": 1300.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -4973,6 +4979,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 56,
                                 "trigstoryf": "-",
@@ -5713,7 +5720,11 @@
                     "sizex": 700.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -6111,6 +6122,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 54,
                                 "untrigscenefid": 53,
                                 "trigstoryf": "-",
@@ -6756,7 +6768,11 @@
                     "sizex": 700.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -7132,6 +7148,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 55,
                                 "untrigscenefid": 52,
                                 "trigstoryf": "-",
@@ -7799,7 +7816,11 @@
                     "sizex": 2000.0,
                     "sizey": 1000.0,
                     "sizez": 1000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -8935,6 +8956,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 23,
                                 "trigstoryf": "-",
@@ -9744,7 +9766,11 @@
                     "sizex": 500.0,
                     "sizey": 500.0,
                     "sizez": 1200.0,
-                    "unk": "00 00 00 01 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 3157.5751953125,
@@ -9753,7 +9779,11 @@
                     "sizex": 500.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 }
             ],
             "EVNT": [
@@ -10268,6 +10298,7 @@
                             "extra_info": {
                                 "trigstoryfid": 154,
                                 "untrigstoryfid": 262,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "",
@@ -12665,6 +12696,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 18,
                                 "untrigscenefid": 24,
                                 "trigstoryf": "-",
@@ -13381,6 +13413,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 99,
                                 "untrigscenefid": 49,
                                 "trigstoryf": "-",
@@ -13404,6 +13437,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 92,
                                 "untrigscenefid": 31,
                                 "trigstoryf": "-",

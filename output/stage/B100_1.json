@@ -2372,6 +2372,7 @@
                             "extra_info": {
                                 "trigstoryfid": 5,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 106,
                                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
@@ -2435,6 +2436,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 196,
                                 "untrigscenefid": 194,
                                 "trigstoryf": "-",
@@ -2458,6 +2460,7 @@
                             "extra_info": {
                                 "trigstoryfid": 64,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 108,
                                 "trigstoryf": "Set when Water Dragon asks for Sacred Water (Sacred Water dowsing)",

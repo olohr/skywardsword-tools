@@ -2801,7 +2801,11 @@
                     "sizex": 650.0,
                     "sizey": 100.0,
                     "sizez": 650.0,
-                    "unk": "0A AA FF FF 01 FF FF FF"
+                    "angle": 2730,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 304.6045227050781,
@@ -2810,7 +2814,11 @@
                     "sizex": 750.0,
                     "sizey": 100.0,
                     "sizez": 750.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 8297.994140625,
@@ -2819,7 +2827,11 @@
                     "sizex": 850.0,
                     "sizey": 100.0,
                     "sizez": 850.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 }
             ],
             "EVNT": [
@@ -9015,7 +9027,11 @@
                     "sizex": 650.0,
                     "sizey": 100.0,
                     "sizez": 650.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -12265,7 +12281,11 @@
                     "sizex": 1500.0,
                     "sizey": 500.0,
                     "sizez": 1500.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "PLY ": [
@@ -12851,6 +12871,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 0,
                                 "trigstoryf": "-",

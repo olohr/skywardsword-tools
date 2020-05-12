@@ -1031,7 +1031,11 @@
                     "sizex": 600.0,
                     "sizey": 500.0,
                     "sizez": 600.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 67.31086730957031,
@@ -1040,7 +1044,11 @@
                     "sizex": 30000.0,
                     "sizey": 20000.0,
                     "sizez": 30000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 8531.9794921875,
@@ -1049,7 +1057,11 @@
                     "sizex": 4000.0,
                     "sizey": 5000.0,
                     "sizez": 4000.0,
-                    "unk": "2E EE 00 03 00 FF FF FF"
+                    "angle": 12014,
+                    "area_link": 3,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": -12695.3330078125,
@@ -1058,7 +1070,11 @@
                     "sizex": 25000.0,
                     "sizey": 5000.0,
                     "sizez": 20000.0,
-                    "unk": "F1 12 00 04 00 FF FF FF"
+                    "angle": 61714,
+                    "area_link": 4,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 },
                 {
                     "posx": 5388.99560546875,
@@ -1067,7 +1083,11 @@
                     "sizex": 10000.0,
                     "sizey": 5000.0,
                     "sizez": 30000.0,
-                    "unk": "F1 12 00 05 00 FF FF FF"
+                    "angle": 61714,
+                    "area_link": 5,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 4
                 },
                 {
                     "posx": -2480.80322265625,
@@ -1076,7 +1096,11 @@
                     "sizex": 15000.0,
                     "sizey": 5000.0,
                     "sizez": 15000.0,
-                    "unk": "F1 12 00 06 00 FF FF FF"
+                    "angle": 61714,
+                    "area_link": 6,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 5
                 },
                 {
                     "posx": 4961.39404296875,
@@ -1085,7 +1109,11 @@
                     "sizex": 4000.0,
                     "sizey": 5000.0,
                     "sizez": 4000.0,
-                    "unk": "2E EE 00 07 00 FF FF FF"
+                    "angle": 12014,
+                    "area_link": 7,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 6
                 },
                 {
                     "posx": 1215.4227294921875,
@@ -1094,7 +1122,11 @@
                     "sizex": 5000.0,
                     "sizey": 5000.0,
                     "sizez": 5000.0,
-                    "unk": "2E EE 00 08 00 FF FF FF"
+                    "angle": 12014,
+                    "area_link": 8,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 7
                 },
                 {
                     "posx": -6678.23828125,
@@ -1103,7 +1135,11 @@
                     "sizex": 3000.0,
                     "sizey": 3000.0,
                     "sizez": 3000.0,
-                    "unk": "2E EE 00 09 00 FF FF FF"
+                    "angle": 12014,
+                    "area_link": 9,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 8
                 },
                 {
                     "posx": -9891.171875,
@@ -1112,7 +1148,11 @@
                     "sizex": 10000.0,
                     "sizey": 10000.0,
                     "sizez": 2500.0,
-                    "unk": "39 99 00 0A 00 FF FF FF"
+                    "angle": 14745,
+                    "area_link": 10,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 9
                 },
                 {
                     "posx": -8628.1162109375,
@@ -1121,7 +1161,11 @@
                     "sizex": 9000.0,
                     "sizey": 10000.0,
                     "sizez": 4000.0,
-                    "unk": "58 E3 00 0B 00 FF FF FF"
+                    "angle": 22755,
+                    "area_link": 11,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 10
                 },
                 {
                     "posx": -2351.22265625,
@@ -1130,7 +1174,11 @@
                     "sizex": 10000.0,
                     "sizey": 10000.0,
                     "sizez": 4000.0,
-                    "unk": "02 D8 00 0C 00 FF FF FF"
+                    "angle": 728,
+                    "area_link": 12,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 11
                 },
                 {
                     "posx": 3700.0,
@@ -1139,7 +1187,11 @@
                     "sizex": 10000.0,
                     "sizey": 10000.0,
                     "sizez": 2000.0,
-                    "unk": "30 5B 00 0D 00 FF FF FF"
+                    "angle": 12379,
+                    "area_link": 13,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 12
                 },
                 {
                     "posx": 8185.74169921875,
@@ -1148,7 +1200,11 @@
                     "sizex": 10000.0,
                     "sizey": 10000.0,
                     "sizez": 2000.0,
-                    "unk": "21 6C 00 0E 00 FF FF FF"
+                    "angle": 8556,
+                    "area_link": 14,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 13
                 },
                 {
                     "posx": 9200.0,
@@ -1157,7 +1213,11 @@
                     "sizex": 6002.0,
                     "sizey": 10000.0,
                     "sizez": 2000.0,
-                    "unk": "DD 28 00 0F 00 FF FF FF"
+                    "angle": 56616,
+                    "area_link": 15,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 14
                 },
                 {
                     "posx": 10076.400390625,
@@ -1166,7 +1226,11 @@
                     "sizex": 10000.0,
                     "sizey": 10000.0,
                     "sizez": 2000.0,
-                    "unk": "28 88 00 10 00 FF FF FF"
+                    "angle": 10376,
+                    "area_link": 16,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 15
                 },
                 {
                     "posx": 8455.8349609375,
@@ -1175,7 +1239,11 @@
                     "sizex": 10000.0,
                     "sizey": 10000.0,
                     "sizez": 2000.0,
-                    "unk": "6D 82 00 11 00 FF FF FF"
+                    "angle": 28034,
+                    "area_link": 17,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 16
                 },
                 {
                     "posx": 3900.0,
@@ -1184,7 +1252,11 @@
                     "sizex": 3781.0,
                     "sizey": 10000.0,
                     "sizez": 2000.0,
-                    "unk": "8B 61 00 12 00 FF FF FF"
+                    "angle": 35681,
+                    "area_link": 18,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 17
                 },
                 {
                     "posx": -4900.0,
@@ -1193,7 +1265,11 @@
                     "sizex": 5216.0,
                     "sizey": 10000.0,
                     "sizez": 2000.0,
-                    "unk": "1E 93 00 13 00 FF FF FF"
+                    "angle": 7827,
+                    "area_link": 19,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 18
                 },
                 {
                     "posx": -3483.229248046875,
@@ -1202,7 +1278,11 @@
                     "sizex": 5000.0,
                     "sizey": 10000.0,
                     "sizez": 2000.0,
-                    "unk": "30 5B 00 14 00 FF FF FF"
+                    "angle": 12379,
+                    "area_link": 20,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 19
                 },
                 {
                     "posx": -6598.9130859375,
@@ -1211,7 +1291,11 @@
                     "sizex": 1979.9998779296875,
                     "sizey": 10000.0,
                     "sizez": 1500.0,
-                    "unk": "4A AA 00 15 00 FF FF FF"
+                    "angle": 19114,
+                    "area_link": 21,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 20
                 },
                 {
                     "posx": -2259.939697265625,
@@ -1220,7 +1304,11 @@
                     "sizex": 2345.0,
                     "sizey": 10000.0,
                     "sizez": 2000.0,
-                    "unk": "07 1C 00 16 00 FF FF FF"
+                    "angle": 1820,
+                    "area_link": 22,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 21
                 },
                 {
                     "posx": 720.8800048828125,
@@ -1229,7 +1317,11 @@
                     "sizex": 4259.0,
                     "sizey": 10000.0,
                     "sizez": 2000.0,
-                    "unk": "0B 60 00 17 00 FF FF FF"
+                    "angle": 2912,
+                    "area_link": 23,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 22
                 },
                 {
                     "posx": -6793.44970703125,
@@ -1238,7 +1330,11 @@
                     "sizex": 2001.0,
                     "sizey": 10000.0,
                     "sizez": 1500.0,
-                    "unk": "26 66 00 18 00 FF FF FF"
+                    "angle": 9830,
+                    "area_link": 24,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 23
                 },
                 {
                     "posx": -7961.65185546875,
@@ -1247,7 +1343,11 @@
                     "sizex": 2001.0,
                     "sizey": 10000.0,
                     "sizez": 1500.0,
-                    "unk": "0E EE 00 19 00 FF FF FF"
+                    "angle": 3822,
+                    "area_link": 25,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 24
                 },
                 {
                     "posx": -6500.0,
@@ -1256,7 +1356,11 @@
                     "sizex": 1979.9998779296875,
                     "sizey": 10000.0,
                     "sizez": 1000.0,
-                    "unk": "33 E9 00 1A 00 FF FF FF"
+                    "angle": 13289,
+                    "area_link": 26,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 25
                 },
                 {
                     "posx": -1880.865966796875,
@@ -1265,7 +1369,11 @@
                     "sizex": 2000.0,
                     "sizey": 1400.0,
                     "sizez": 1800.0,
-                    "unk": "28 88 FF FF 00 FF FF FF"
+                    "angle": 10376,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 26
                 }
             ],
             "EVNT": [
@@ -8448,6 +8556,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 26,
                                 "untrigscenefid": 20,
                                 "trigstoryf": "-",
@@ -8878,6 +8987,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 25,
                                 "untrigscenefid": 60,
                                 "trigstoryf": "-",

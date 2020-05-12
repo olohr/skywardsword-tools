@@ -445,7 +445,11 @@
                     "sizex": 1000.0,
                     "sizey": 1000.0,
                     "sizez": 1000.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 0.0,
@@ -454,7 +458,11 @@
                     "sizex": 2000.0,
                     "sizey": 1000.0,
                     "sizez": 1000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 0.0,
@@ -463,7 +471,11 @@
                     "sizex": 1400.0,
                     "sizey": 1400.0,
                     "sizez": 1400.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": 0.0,
@@ -472,7 +484,11 @@
                     "sizex": 1400.0,
                     "sizey": 1000.0,
                     "sizez": 600.0,
-                    "unk": "00 00 00 04 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 4,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 },
                 {
                     "posx": -1700.0,
@@ -481,7 +497,11 @@
                     "sizex": 1000.0,
                     "sizey": 1000.0,
                     "sizez": 1600.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 4
                 },
                 {
                     "posx": 400.0,
@@ -490,7 +510,11 @@
                     "sizex": 4000.0,
                     "sizey": 1000.0,
                     "sizez": 1600.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 5
                 }
             ],
             "EVNT": [
@@ -2123,6 +2147,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 468,
+                                "triggerarea": 255,
                                 "trigscenefid": 108,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -2146,6 +2171,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 469,
+                                "triggerarea": 255,
                                 "trigscenefid": 109,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -2169,6 +2195,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 467,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -2192,6 +2219,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 107,
                                 "trigstoryf": "-",
@@ -2215,6 +2243,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 110,
+                                "triggerarea": 255,
                                 "trigscenefid": 192,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -2238,6 +2267,7 @@
                             "extra_info": {
                                 "trigstoryfid": 467,
                                 "untrigstoryfid": 669,
+                                "triggerarea": 2,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 115,
                                 "trigstoryf": "Goron Text near Big Frog",
@@ -2315,6 +2345,7 @@
                             "extra_info": {
                                 "trigstoryfid": 186,
                                 "untrigstoryfid": 187,
+                                "triggerarea": 3,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 156,
                                 "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
@@ -2338,6 +2369,7 @@
                             "extra_info": {
                                 "trigstoryfid": 186,
                                 "untrigstoryfid": 187,
+                                "triggerarea": 5,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 157,
                                 "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",

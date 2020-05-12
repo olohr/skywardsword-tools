@@ -1025,7 +1025,11 @@
                     "sizex": 400.0,
                     "sizey": 200.0,
                     "sizez": 400.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 9900.033203125,
@@ -1034,7 +1038,11 @@
                     "sizex": 1101.0,
                     "sizey": 288.0,
                     "sizez": 1000.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 10745.26953125,
@@ -1043,7 +1051,11 @@
                     "sizex": 1600.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 }
             ],
             "EVNT": [
@@ -1955,6 +1967,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 4,
                                 "untrigscenefid": 5,
                                 "trigstoryf": "-",
@@ -1978,6 +1991,7 @@
                             "extra_info": {
                                 "trigstoryfid": 72,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 74,
                                 "trigstoryf": "Learn Nayru's Wisdom",
@@ -3603,6 +3617,7 @@
                             "extra_info": {
                                 "trigstoryfid": 200,
                                 "untrigstoryfid": 830,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 75,
                                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
@@ -3626,6 +3641,7 @@
                             "extra_info": {
                                 "trigstoryfid": 200,
                                 "untrigstoryfid": 831,
+                                "triggerarea": 2,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 76,
                                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
@@ -4583,6 +4599,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 4,
                                 "untrigscenefid": 5,
                                 "trigstoryf": "-",
@@ -6092,6 +6109,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 4,
                                 "untrigscenefid": 5,
                                 "trigstoryf": "-",

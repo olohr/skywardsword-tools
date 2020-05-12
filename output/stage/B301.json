@@ -385,6 +385,7 @@
                             "extra_info": {
                                 "trigstoryfid": 692,
                                 "untrigstoryfid": 776,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 82,
                                 "trigstoryf": "(not implemented yet -- 7771)",
@@ -782,6 +783,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 86,
                                 "untrigscenefid": 87,
                                 "trigstoryf": "-",

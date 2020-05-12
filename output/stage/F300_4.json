@@ -1075,7 +1075,11 @@
                     "sizex": 500.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -31372.509765625,
@@ -1084,7 +1088,11 @@
                     "sizex": 400.0,
                     "sizey": 400.0,
                     "sizez": 400.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 }
             ],
             "EVNT": [
@@ -1885,6 +1893,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 57,
                                 "trigstoryf": "-",
@@ -1986,6 +1995,7 @@
                             "extra_info": {
                                 "trigstoryfid": 72,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 74,
                                 "trigstoryf": "Learn Nayru's Wisdom",
@@ -3913,6 +3923,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 1,
                                 "trigscenefid": 123,
                                 "untrigscenefid": 53,
                                 "trigstoryf": "-",
@@ -4242,6 +4253,7 @@
                             "extra_info": {
                                 "trigstoryfid": 129,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 88,
                                 "trigstoryf": "",

@@ -345,7 +345,11 @@
                     "sizex": 700.0,
                     "sizey": 700.0,
                     "sizez": 700.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 258.0015869140625,
@@ -354,7 +358,11 @@
                     "sizex": 3000.0,
                     "sizey": 1000.0,
                     "sizez": 2500.0,
-                    "unk": "00 00 00 03 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 3,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 286.75946044921875,
@@ -363,7 +371,11 @@
                     "sizex": 800.0,
                     "sizey": 800.0,
                     "sizez": 800.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": -1124.1988525390625,
@@ -372,7 +384,11 @@
                     "sizex": 500.0,
                     "sizey": 1000.0,
                     "sizez": 1000.0,
-                    "unk": "17 77 FF FF 00 FF FF FF"
+                    "angle": 6007,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 }
             ],
             "EVNT": [
@@ -1101,6 +1117,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 86,
                                 "untrigscenefid": 34,
                                 "trigstoryf": "-",
@@ -2114,6 +2131,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 108,
                                 "trigstoryf": "-",
@@ -2381,6 +2399,7 @@
                             "extra_info": {
                                 "trigstoryfid": 200,
                                 "untrigstoryfid": 830,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 36,
                                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
@@ -2404,6 +2423,7 @@
                             "extra_info": {
                                 "trigstoryfid": 200,
                                 "untrigstoryfid": 831,
+                                "triggerarea": 2,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 35,
                                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",

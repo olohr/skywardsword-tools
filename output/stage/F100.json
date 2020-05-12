@@ -1225,7 +1225,11 @@
                     "sizex": 700.0,
                     "sizey": 400.0,
                     "sizez": 700.0,
-                    "unk": "23 33 FF FF 01 FF FF FF"
+                    "angle": 9011,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": -8920.0,
@@ -1234,7 +1238,11 @@
                     "sizex": 1800.0,
                     "sizey": 400.0,
                     "sizez": 600.0,
-                    "unk": "F1 A3 00 02 00 FF FF FF"
+                    "angle": 61859,
+                    "area_link": 2,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": -8360.0,
@@ -1243,7 +1251,11 @@
                     "sizex": 400.0,
                     "sizey": 400.0,
                     "sizez": 400.0,
-                    "unk": "96 C2 FF FF 01 FF FF FF"
+                    "angle": 38594,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": -9663.990234375,
@@ -1252,7 +1264,11 @@
                     "sizex": 400.0,
                     "sizey": 400.0,
                     "sizez": 400.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 },
                 {
                     "posx": -4528.40185546875,
@@ -1261,7 +1277,11 @@
                     "sizex": 1300.0,
                     "sizey": 400.0,
                     "sizez": 500.0,
-                    "unk": "74 8D FF FF 00 FF FF FF"
+                    "angle": 29837,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 4
                 },
                 {
                     "posx": -350.0,
@@ -1270,7 +1290,11 @@
                     "sizex": 1600.0,
                     "sizey": 400.0,
                     "sizez": 1600.0,
-                    "unk": "0F A4 FF FF 01 FF FF FF"
+                    "angle": 4004,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 5
                 },
                 {
                     "posx": -9795.8359375,
@@ -1279,7 +1303,11 @@
                     "sizex": 1200.0,
                     "sizey": 400.0,
                     "sizez": 500.0,
-                    "unk": "23 33 FF FF 00 FF FF FF"
+                    "angle": 9011,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 6
                 },
                 {
                     "posx": -8565.0,
@@ -1288,7 +1316,11 @@
                     "sizex": 600.0,
                     "sizey": 400.0,
                     "sizez": 400.0,
-                    "unk": "23 57 FF FF 01 FF FF FF"
+                    "angle": 9047,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 7
                 },
                 {
                     "posx": -650.0,
@@ -1297,7 +1329,11 @@
                     "sizex": 1600.0,
                     "sizey": 400.0,
                     "sizez": 400.0,
-                    "unk": "C0 37 FF FF 00 FF FF FF"
+                    "angle": 49207,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 8
                 },
                 {
                     "posx": -5490.0,
@@ -1306,7 +1342,11 @@
                     "sizex": 730.0,
                     "sizey": 400.0,
                     "sizez": 400.0,
-                    "unk": "09 62 00 0A 00 FF FF FF"
+                    "angle": 2402,
+                    "area_link": 10,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 9
                 },
                 {
                     "posx": -4810.0,
@@ -1315,7 +1355,11 @@
                     "sizex": 730.0,
                     "sizey": 400.0,
                     "sizez": 400.0,
-                    "unk": "01 90 FF FF 00 FF FF FF"
+                    "angle": 400,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 10
                 },
                 {
                     "posx": 8205.556640625,
@@ -1324,7 +1368,11 @@
                     "sizex": 4440.0,
                     "sizey": 550.0,
                     "sizez": 4440.0,
-                    "unk": "F1 C8 FF FF 00 FF FF FF"
+                    "angle": 61896,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 11
                 },
                 {
                     "posx": -1200.0,
@@ -1333,7 +1381,11 @@
                     "sizex": 1200.0,
                     "sizey": 400.0,
                     "sizez": 1200.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 12
                 },
                 {
                     "posx": 7550.0,
@@ -1342,7 +1394,11 @@
                     "sizex": 1200.0,
                     "sizey": 400.0,
                     "sizez": 1200.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 13
                 },
                 {
                     "posx": -4319.69091796875,
@@ -1351,7 +1407,11 @@
                     "sizex": 1200.0,
                     "sizey": 400.0,
                     "sizez": 1200.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 14
                 },
                 {
                     "posx": -350.0,
@@ -1360,7 +1420,11 @@
                     "sizex": 1000.0,
                     "sizey": 100.0,
                     "sizez": 1000.0,
-                    "unk": "0F A4 FF FF 01 FF FF FF"
+                    "angle": 4004,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 15
                 },
                 {
                     "posx": 4020.0,
@@ -1369,7 +1433,11 @@
                     "sizex": 1000.0,
                     "sizey": 200.0,
                     "sizez": 1000.0,
-                    "unk": "0F A4 FF FF 01 FF FF FF"
+                    "angle": 4004,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 16
                 },
                 {
                     "posx": -770.0,
@@ -1378,7 +1446,11 @@
                     "sizex": 800.0,
                     "sizey": 400.0,
                     "sizez": 460.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 17
                 },
                 {
                     "posx": -1530.0,
@@ -1387,7 +1459,11 @@
                     "sizex": 800.0,
                     "sizey": 400.0,
                     "sizez": 1600.0,
-                    "unk": "CE 39 FF FF 00 FF FF FF"
+                    "angle": 52793,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 18
                 },
                 {
                     "posx": 7260.0,
@@ -1396,7 +1472,11 @@
                     "sizex": 450.0,
                     "sizey": 100.0,
                     "sizez": 450.0,
-                    "unk": "4E 38 FF FF 01 FF FF FF"
+                    "angle": 20024,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 19
                 },
                 {
                     "posx": 9863.0,
@@ -1405,7 +1485,11 @@
                     "sizex": 300.0,
                     "sizey": 100.0,
                     "sizez": 300.0,
-                    "unk": "4E 38 FF FF 01 FF FF FF"
+                    "angle": 20024,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 20
                 },
                 {
                     "posx": -12260.0,
@@ -1414,7 +1498,11 @@
                     "sizex": 800.0,
                     "sizey": 400.0,
                     "sizez": 800.0,
-                    "unk": "4E 38 FF FF 00 FF FF FF"
+                    "angle": 20024,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 21
                 },
                 {
                     "posx": -744.390380859375,
@@ -1423,7 +1511,11 @@
                     "sizex": 1800.0,
                     "sizey": 800.0,
                     "sizez": 1500.0,
-                    "unk": "10 C2 FF FF 00 FF FF FF"
+                    "angle": 4290,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 22
                 },
                 {
                     "posx": -4705.98046875,
@@ -1432,7 +1524,11 @@
                     "sizex": 1200.0,
                     "sizey": 400.0,
                     "sizez": 1200.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 23
                 },
                 {
                     "posx": -2951.89013671875,
@@ -1441,7 +1537,11 @@
                     "sizex": 900.0,
                     "sizey": 400.0,
                     "sizez": 900.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 24
                 },
                 {
                     "posx": -226.10447692871094,
@@ -1450,7 +1550,11 @@
                     "sizex": 800.0,
                     "sizey": 300.0,
                     "sizez": 800.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 25
                 }
             ],
             "EVNT": [
@@ -13485,6 +13589,7 @@
                             "extra_info": {
                                 "trigstoryfid": 50,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 3,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 11,
                                 "trigstoryf": "Machi saved from bokoblins",
@@ -13508,6 +13613,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 50,
+                                "triggerarea": 7,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -13531,6 +13637,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 52,
+                                "triggerarea": 8,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -13554,6 +13661,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 52,
+                                "triggerarea": 9,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -13577,6 +13685,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 11,
                                 "trigscenefid": 129,
                                 "untrigscenefid": 13,
                                 "trigstoryf": "-",
@@ -13600,6 +13709,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 19,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 14,
                                 "trigstoryf": "-",
@@ -13623,6 +13733,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 46,
                                 "untrigscenefid": 15,
                                 "trigstoryf": "-",
@@ -14106,6 +14217,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 23,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 212,
                                 "trigstoryf": "-",
@@ -14129,6 +14241,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 24,
                                 "trigscenefid": 212,
                                 "untrigscenefid": 69,
                                 "trigstoryf": "-",
@@ -14152,6 +14265,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 25,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 70,
                                 "trigstoryf": "-",
@@ -14543,6 +14657,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 203,
                                 "untrigscenefid": 54,
                                 "trigstoryf": "-",
@@ -15193,6 +15308,7 @@
                             "extra_info": {
                                 "trigstoryfid": 71,
                                 "untrigstoryfid": 121,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
@@ -15216,6 +15332,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 203,
                                 "untrigscenefid": 54,
                                 "trigstoryf": "-",
@@ -16035,6 +16152,7 @@
                             "extra_info": {
                                 "trigstoryfid": 206,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 21,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 56,
                                 "trigstoryf": "Faron Trial Completed (Skyview layer 2 / Outside AC layer 1 / Faron Woods, Deep Woods layer 4 / Skyview Spring layer 3 / Skyview Boss Room layer 3 / Lake Floria layer 1 / Water Dragon's Lair layer 1)",
@@ -16058,6 +16176,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 16,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 57,
                                 "trigstoryf": "-",
@@ -16081,6 +16200,7 @@
                             "extra_info": {
                                 "trigstoryfid": 62,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 20,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 58,
                                 "trigstoryf": "",
@@ -16104,6 +16224,7 @@
                             "extra_info": {
                                 "trigstoryfid": 62,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 17,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 59,
                                 "trigstoryf": "",
@@ -16127,6 +16248,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 203,
                                 "untrigscenefid": 54,
                                 "trigstoryf": "-",
@@ -16813,6 +16935,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 22,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 51,
                                 "trigstoryf": "-",
@@ -16836,6 +16959,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 17,
                                 "trigscenefid": 50,
                                 "untrigscenefid": 52,
                                 "trigstoryf": "-",
@@ -17203,6 +17327,7 @@
                             "extra_info": {
                                 "trigstoryfid": 16,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 38,
                                 "trigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",

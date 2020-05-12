@@ -126,7 +126,11 @@
                     "sizex": 200.0,
                     "sizey": 100.0,
                     "sizez": 150.0,
-                    "unk": "E0 00 FF FF 00 FF FF FF"
+                    "angle": 57344,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "PLY ": [

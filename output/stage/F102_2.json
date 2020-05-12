@@ -569,7 +569,11 @@
                     "sizex": 600.0,
                     "sizey": 300.0,
                     "sizez": 600.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 6131.0,
@@ -578,7 +582,11 @@
                     "sizex": 3000.0,
                     "sizey": 1000.0,
                     "sizez": 3000.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 6131.0,
@@ -587,7 +595,11 @@
                     "sizex": 1700.0,
                     "sizey": 1000.0,
                     "sizez": 1700.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 }
             ],
             "EVNT": [

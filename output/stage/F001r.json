@@ -584,7 +584,11 @@
                     "sizex": 500.0,
                     "sizey": 100.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 115.7939453125,
@@ -593,7 +597,11 @@
                     "sizex": 288.0,
                     "sizey": 240.0,
                     "sizez": 623.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 2794.533203125,
@@ -602,7 +610,11 @@
                     "sizex": 192.0,
                     "sizey": 240.0,
                     "sizez": 1341.0001220703125,
-                    "unk": "00 00 00 03 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": 3,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": 3037.4287109375,
@@ -611,7 +623,11 @@
                     "sizex": 862.0001220703125,
                     "sizey": 192.0,
                     "sizez": 192.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 },
                 {
                     "posx": 3559.411376953125,
@@ -620,7 +636,11 @@
                     "sizex": 1000.0,
                     "sizey": 479.0,
                     "sizez": 1000.0,
-                    "unk": "00 00 00 05 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": 5,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 4
                 },
                 {
                     "posx": 2151.02001953125,
@@ -629,7 +649,11 @@
                     "sizex": 1000.0,
                     "sizey": 479.0,
                     "sizez": 1000.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 5
                 },
                 {
                     "posx": 3464.045654296875,
@@ -638,7 +662,11 @@
                     "sizex": 500.0,
                     "sizey": 200.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 6
                 },
                 {
                     "posx": 3976.85400390625,
@@ -647,7 +675,11 @@
                     "sizex": 100.0,
                     "sizey": 100.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 7
                 },
                 {
                     "posx": 648.408447265625,
@@ -656,7 +688,11 @@
                     "sizex": 500.0,
                     "sizey": 300.0,
                     "sizez": 100.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 8
                 },
                 {
                     "posx": 3549.741455078125,
@@ -665,7 +701,11 @@
                     "sizex": 432.0,
                     "sizey": 192.0,
                     "sizez": 432.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 9
                 }
             ],
             "EVNT": [
@@ -2905,6 +2945,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 51,
                                 "trigstoryf": "-",
@@ -3132,6 +3173,7 @@
                             "extra_info": {
                                 "trigstoryfid": 32,
                                 "untrigstoryfid": 203,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase, required for scene flags to be set in Link's room)",
@@ -3301,6 +3343,7 @@
                             "extra_info": {
                                 "trigstoryfid": 556,
                                 "untrigstoryfid": 557,
+                                "triggerarea": 8,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Talking to Pipit about Cawlin's Letter",
@@ -3343,6 +3386,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 30,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -3682,6 +3726,7 @@
                             "extra_info": {
                                 "trigstoryfid": 376,
                                 "untrigstoryfid": 545,
+                                "triggerarea": 6,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Set after Sleeping after Groose cs in BtT",
@@ -3832,6 +3877,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 30,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -3855,6 +3901,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 202,
+                                "triggerarea": 9,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -3978,7 +4025,11 @@
                     "sizex": 240.0,
                     "sizey": 240.0,
                     "sizez": 240.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [
@@ -4420,6 +4471,7 @@
                             "extra_info": {
                                 "trigstoryfid": 32,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 5,
                                 "trigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase, required for scene flags to be set in Link's room)",
@@ -5254,6 +5306,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 209,
                                 "untrigscenefid": 210,
                                 "trigstoryf": "-",
@@ -5389,7 +5442,11 @@
                     "sizex": 432.0,
                     "sizey": 200.0,
                     "sizez": 575.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "PLY ": [
@@ -5663,6 +5720,7 @@
                             "extra_info": {
                                 "trigstoryfid": 327,
                                 "untrigstoryfid": 328,
+                                "triggerarea": 0,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Talk to the Headmaster to learn more about the Song of the Hero (he doesn't know anything)",
@@ -6410,6 +6468,7 @@
                             "extra_info": {
                                 "trigstoryfid": 362,
                                 "untrigstoryfid": 642,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Talk to Professor Owlan inside Academy to locate Levias",
@@ -6608,7 +6667,11 @@
                     "sizex": 500.0,
                     "sizey": 100.0,
                     "sizez": 300.0,
-                    "unk": "10 5B FF FF 00 FF FF FF"
+                    "angle": 4187,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "EVNT": [

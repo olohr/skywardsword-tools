@@ -518,6 +518,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 26,
                                 "untrigscenefid": 23,
                                 "trigstoryf": "-",

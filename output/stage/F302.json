@@ -2441,7 +2441,11 @@
                     "sizex": 6000.0,
                     "sizey": 2000.0,
                     "sizez": 6000.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 2514.72314453125,
@@ -2450,7 +2454,11 @@
                     "sizex": 600.0,
                     "sizey": 300.0,
                     "sizez": 600.0,
-                    "unk": "15 55 FF FF 01 FF FF FF"
+                    "angle": 5461,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 },
                 {
                     "posx": 0.0,
@@ -2459,7 +2467,11 @@
                     "sizex": 3800.0,
                     "sizey": 2000.0,
                     "sizez": 3800.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 2
                 },
                 {
                     "posx": 10177.6357421875,
@@ -2468,7 +2480,11 @@
                     "sizex": 3000.0,
                     "sizey": 2000.0,
                     "sizez": 3000.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 3
                 }
             ],
             "EVNT": [
@@ -3128,6 +3144,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 524,
+                                "triggerarea": 1,
                                 "trigscenefid": 10,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "-",
@@ -3483,6 +3500,7 @@
                             "extra_info": {
                                 "trigstoryfid": 750,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 11,
                                 "trigstoryf": "Robot text after digging up Life Tree Seedling in Lanayru Gorge",
@@ -6345,6 +6363,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 29,
                                 "untrigscenefid": 15,
                                 "trigstoryf": "-",
@@ -6640,6 +6659,7 @@
                             "extra_info": {
                                 "trigstoryfid": 462,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 255,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 32,
                                 "trigstoryf": "Set when Thunder Dragon teaches SotH part",
@@ -6857,7 +6877,11 @@
                     "sizex": 200.0,
                     "sizey": 500.0,
                     "sizez": 500.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 }
             ],
             "PLY ": [

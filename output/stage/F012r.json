@@ -99,7 +99,11 @@
                     "sizex": 300.0,
                     "sizey": 300.0,
                     "sizez": 300.0,
-                    "unk": "00 00 FF FF 01 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 1,
+                    "dummy": "FF FF FF",
+                    "index": 0
                 },
                 {
                     "posx": 15.930912971496582,
@@ -108,7 +112,11 @@
                     "sizex": 1484.0,
                     "sizey": 100.0,
                     "sizez": 100.0,
-                    "unk": "00 00 FF FF 00 FF FF FF"
+                    "angle": 0,
+                    "area_link": -1,
+                    "unk3": 0,
+                    "dummy": "FF FF FF",
+                    "index": 1
                 }
             ],
             "PLY ": [
@@ -763,6 +771,7 @@
                             "extra_info": {
                                 "trigstoryfid": 2047,
                                 "untrigstoryfid": 2047,
+                                "triggerarea": 0,
                                 "trigscenefid": 83,
                                 "untrigscenefid": 84,
                                 "trigstoryf": "-",
@@ -786,6 +795,7 @@
                             "extra_info": {
                                 "trigstoryfid": 734,
                                 "untrigstoryfid": 104,
+                                "triggerarea": 1,
                                 "trigscenefid": 255,
                                 "untrigscenefid": 255,
                                 "trigstoryf": "Sets when talking to Batreaux after getting Crystals (allows Crystal Dowsing?)",
