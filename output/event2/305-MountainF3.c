@@ -10,7 +10,7 @@ void entrypoint_305_01() {
 			  case 0:
 				printf("######Yes... The #####Water Dragon#####. You see,\nthe goddess gave the Water Dragon\nthe power to protect the woods.\n\n######That power is strong, but the will of the\ndragon is even stronger. ...You may\nwant to be careful with that one, lest\nyou be eaten like an appetizer.\n######Ha ha ha ha!")
 				flw_48:
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 5), ('next', -1), ('param3', 4)])
+				loadzone_temp_flags[0 /* 0x9 01 */] = true;
 			  case 1:
 				printf("######Yes, yes... The #####Thunder Dragon#####.\nThe goddess gave the Thunder Dragon\nthe power to protect the desert.\n\nThis dragon possesses a #####legendary\nshield#####. It is truly one of its most prized\ntreasures.\n\n######It is said that the Thunder Dragon\ndelights in testing those with promise\nin the hopes of someday finding a\nworthy recipient for the shield.\nBut the dragon is a wily one. And his\ntest is not as simple as it may appear!\n\n\n######Ha ha ha ha!")
 				goto flw_48

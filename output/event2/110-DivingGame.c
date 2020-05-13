@@ -23,7 +23,7 @@ void entrypoint_110_01() {
 					  case 0:
 						printf("######Want to play again, little guy?!\nOOOoooooooh, you're hooked!\n\n\nIt'll be #####20 Rupees#####. What do you say?\n#####Yes!#####Rules, please.#####No way.")
 						flw_33:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 14)])) {
+						switch (choice(3)) {
 						  case 0:
 							switch (story_flags[399 /* us: 805A9B11 0x80, jp: 805ACD91 0x80 */]) {
 							  case 0:
@@ -31,13 +31,13 @@ void entrypoint_110_01() {
 								  case 0:
 									OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -20), ('next', 82), ('param3', 8)])
 									flw_82:
-									OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 21), ('next', 5), ('param3', 4)])
+									loadzone_temp_flags[5 /* 0x9 20 */] = true;
 									printf("######RIGHTO! There's a brave little guy!\nOnce you're ready, hop into the cannon \nin the center of the island and plug\nyour ears! I'll prepare the cannon!")
 									switch (loadzone_temp_flags[8 /* 0x8 01 */]) {
 									  case 0:
 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', -1), ('param3', 33)])
 									  case 1:
-										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 21), ('next', 80), ('param3', 4)])
+										loadzone_temp_flags[8 /* 0x8 01 */] = true;
 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 3), ('param3', 39)])
 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 81), ('param3', 33)])
 										OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 80), ('next', -1), ('param3', 6)])
@@ -58,7 +58,7 @@ void entrypoint_110_01() {
 						}
 					  case 1:
 						printf("######YAHAWWWWW! The boy is BACK!\nHow about a little skydiving? I'm just\nitching to shoot YOU out of a cannon!\n\n######Oh, but you're going to have to pay this\ntime. It'll be #####20 Rupees#####. Well?!\n#####I'm in!#####Rules, please.#####No way.")
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 21), ('next', 33), ('param3', 4)])
+						loadzone_temp_flags[6 /* 0x9 40 */] = true;
 						goto flw_33
 					}
 				  case 1:
@@ -129,7 +129,7 @@ void entrypoint_110_01() {
 					switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {
 					  case 0:
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 113), ('param3', 31)])
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 5), ('param3', 9), ('param4', 2), ('param5', 55)])) {
+						switch (temp_flags[5 /* 0x1 20 */]) {
 						  case 0:
 							printf("######Oh...it's nothing, really. I don't want to\nbother you with my shattered dream.\n\n\nIt was just a silly decoration I used\nto pin on to my back, ####\nbut still...####\n\nIt was MY silly decoration...\n#####I'll find it!#####It's gone.")
 							flw_54:
@@ -161,7 +161,7 @@ void entrypoint_110_01() {
 							  case 1:
 								flw_52:
 								printf("######Without it, I can't help make people\nhappy. The smile factory is shut down.\n\n\n####\n#You know...but what can I do?")
-								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 21), ('next', -1), ('param3', 28)])
+								temp_flags[5 /* 0x1 20 */] = true;
 							}
 						  case 1:
 							printf("######Urrrrrghhh... What am I going to do?!\nIt's no use! It's all over...\n#####What's wrong?##### Uh...")
@@ -182,7 +182,7 @@ void entrypoint_110_01() {
 				}
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 4), ('param3', 9), ('param4', 2), ('param5', 51)])) {
+			switch (temp_flags[4 /* 0x1 10 */]) {
 			  case 0:
 				printf("###########FUN FUN########## ISLAND#####! Smells like fun\nand danger already, doesn't it?!\nI'm still getting the place ready, but I\nhope you'll come visit again later!")
 			  case 1:
@@ -190,7 +190,7 @@ void entrypoint_110_01() {
 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 25)])) {
 				  case 0:
 					printf("######Just the answer I was looking for!\nWhat a smart little guy you are!\n\n\n######I'm hoping to make this island a FUN\nplace where everyone can come and be\nhappy...\n\nWhat's it called, you ask? Or even\nif you didn't ask?##### I call it...\n#####FUN FUN ISLAND#####!\n\n######I'm still getting the place set up, so\nhopefully you'll visit again later! You\nmight like what you find! Especially if\nyou like FUN and COLORS!")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 21), ('next', -1), ('param3', 28)])
+					temp_flags[4 /* 0x1 10 */] = true;
 				  case 1:
 					printf("######Well, that's not fun at all.\n\n\n\n######I'm doing everything I can to make \npeople's dreams come true...")
 				}
@@ -202,7 +202,7 @@ void entrypoint_110_01() {
 void entrypoint_110_02() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 5), ('next', 31), ('param3', 44)])
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 21), ('next', 26), ('param3', 5)])
+	loadzone_temp_flags[5 /* 0x9 20 */] = false;
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 14), ('param3', 12)])
 	switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 16), ('param4', 4), ('param5', 6)])) {
 	  case 0:
@@ -275,10 +275,10 @@ void entrypoint_110_04() {
 		switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 		  case 0:
 			printf("######YAHOOOOOOOEY! My party wheel!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 21), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[1 /* 0x9 02 */] = true;
 		  case 1:
 			printf("######IS THIS...?! IS THIS...?!?!\n\n\n\nIT IS! IT IS!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 21), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[0 /* 0x9 01 */] = true;
 		}
 	}
 }

@@ -179,7 +179,7 @@ void entrypoint_108_09() {
 	printf("######First, dive off this platform and call\nyour bird.")
 	story_flags[643 /* us: 805A9B1D 0x10, jp: 805ACD9D 0x10 */] = true;
 	story_flags[364 /* us: 805A9B03 0x04, jp: 805ACD83 0x04 */] = true;
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 0), ('next', -1), ('param3', 4)])
+	loadzone_temp_flags[13 /* 0x8 20 */] = true;
 }
 
 void entrypoint_108_10() {
@@ -227,7 +227,7 @@ void entrypoint_108_11() {
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 124), ('param3', 31)])
 		printf("######I heard the news, ####!\nZelda's fallen down through the clouds,\nand you're going to look for her.\nIs that right?\nThe headmaster told me there's land\nbeneath the clouds... Do you know\nanything about that?")
-		switch (bottles[9 0x0009]) {
+		switch (adventure_pouch_has(9 0x0009)) {
 		  case 0:
 			printf("So that's the famous sword... Ah, and\na shield####\n.####\n.####\n.####\n It looks like you have one\nalready. Very good!\n\nHere--take this as a little gift from me.")
 			flw_172:
@@ -298,10 +298,10 @@ void entrypoint_108_13() {
 				scene_flags[0 'Skyloft'][77 /* 0x8 20 */] = false;
 				story_flags[643 /* us: 805A9B1D 0x10, jp: 805ACD9D 0x10 */] = true;
 				story_flags[364 /* us: 805A9B03 0x04, jp: 805ACD83 0x04 */] = true;
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 0), ('next', -1), ('param3', 4)])
+				loadzone_temp_flags[13 /* 0x8 20 */] = true;
 			  case 1:
 				printf("I think it's fine to wait until you feel\nready!\n\n\nI'll be here for a while. Come back\nanytime!")
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 0), ('next', -1), ('param3', 5)])
+				loadzone_temp_flags[13 /* 0x8 20 */] = false;
 			}
 		  case 1:
 			switch (story_flags[643 /* us: 805A9B1D 0x10, jp: 805ACD9D 0x10 */]) {
@@ -310,12 +310,12 @@ void entrypoint_108_13() {
 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 40)])) {
 				  case 0:
 					printf("######Ah! That's the answer I was looking\nfor. Take to the skies,\n####!")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 0), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[13 /* 0x8 20 */] = true;
 				  case 1:
 					story_flags[643 /* us: 805A9B1D 0x10, jp: 805ACD9D 0x10 */] = false;
 					story_flags[364 /* us: 805A9B03 0x04, jp: 805ACD83 0x04 */] = false;
 					printf("I think it's fine to wait until you feel\nready!\n\n\nI'll be here for a while. Come back\nanytime!")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 0), ('next', -1), ('param3', 5)])
+					loadzone_temp_flags[13 /* 0x8 20 */] = false;
 				}
 			  case 1:
 				goto flw_108
@@ -358,7 +358,7 @@ void entrypoint_108_16() {
 			printf("######This gives me pause... The monsters\nthat usually prowl Skyloft at night are\nnowhere to be seen, and the Remlits\nno longer show aggressive behavior.\nWhat could have happened?")
 		  case 1:
 			printf("######Look, ####! Though night\nhas come, Mia exhibits none of the\nnocturnal aggressiveness we've come\nto expect in Remlits!\nIt's just amazing!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 15), ('param2', 0), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[15 /* 0x8 80 */] = true;
 		}
 	  case 1:
 		switch (story_flags[36 /* us: 805A9ADD 0x10, jp: 805ACD5D 0x10 */]) {
@@ -436,13 +436,13 @@ void entrypoint_108_01() {
 				scene_flags[0 'Skyloft'][30 /* 0x2 40 */] = true;
 			}
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 9), ('param4', 2), ('param5', 14)])) {
+			switch (temp_flags[2 /* 0x1 04 */]) {
 			  case 0:
 				printf("######What is it, ####?")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 14), ('param2', 0), ('next', 60), ('param3', 39)])
 				printf("If you dash at the wall from there,\nyou'll be able to #####hang #####from the edge!\n\n\nDo be careful when you're hanging\noff the ledge, and keep an eye on\nyour #####stamina gauge#####.")
 			  case 1:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 9), ('param4', 2), ('param5', 2)])) {
+				switch (temp_flags[1 /* 0x1 02 */]) {
 				  case 0:
 					printf("######So will you help by finding Mia and\nbringing her back to me?\n#####Sure!#####Nah.")
 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
@@ -451,7 +451,7 @@ void entrypoint_108_01() {
 						printf("######Fantastic! So you'll do it?! I know\nyou're in a hurry, so I really appreciate\nyour taking the time to help.")
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3328), ('param2', 0), ('next', 44), ('param3', 22)])
 						printf("######You should be able to climb up\nsomewhere over there. If you hang off\nthat ledge there, you can climb onto\nthe roof from the other side.\n######I'm terribly sorry, but I know you're\nquite the climber! I really do\nappreciate it.")
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', 235), ('param3', 28)])
+						temp_flags[2 /* 0x1 04 */] = true;
 						story_flags[770 /* us: 805A9B2A 0x04, jp: 805ACDAA 0x04 */] = true;
 					  case 1:
 						printf("######Ah, I see...\n\n\n\nCan you please tell the headmaster\nthat Instructor Horwell has found Mia\nand that he shouldn't worry?")
@@ -471,7 +471,7 @@ void entrypoint_108_01() {
 						  case 1:
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 3), ('param3', 39)])
 							printf("######Ah, I see...\n\n\n\nCan you please tell the headmaster\nthat Instructor Horwell has found Mia\nand that he shouldn't worry?")
-							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 234), ('param3', 28)])
+							temp_flags[1 /* 0x1 02 */] = true;
 							story_flags[770 /* us: 805A9B2A 0x04, jp: 805ACDAA 0x04 */] = true;
 						}
 					  case 1:

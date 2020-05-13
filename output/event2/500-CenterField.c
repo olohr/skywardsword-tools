@@ -472,31 +472,31 @@ void entrypoint_500_29() {
 							  case 0:
 								flw_194:
 								printf("#####&So, where you flying to today?\n#####The sky!#####The surface.#####Never mind!")
-								switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 50)])) {
+								switch (choice(3)) {
 								  case 0:
 									switch (story_flags[394 /* us: 805A9B0C 0x10, jp: 805ACD8C 0x10 */]) {
 									  case 0:
 										printf("Somewhere fun in the sky, huh?\nWhat kind of fun are you looking for?\n#####Skydiving.#####Bug hunting.#####Something else...")
-										switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 117)])) {
+										switch (choice(3)) {
 										  case 0:
 											flw_209:
-											OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 10), ('next', 204), ('param3', 4)])
+											loadzone_temp_flags[1 /* 0x9 02 */] = true;
 											flw_204:
 											OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 199), ('param3', 42)])
 											printf("####B#OK, here we go! Hold on to your little\nhat!")
 										  case 1:
 											flw_202:
-											OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 10), ('next', 204), ('param3', 4)])
+											loadzone_temp_flags[2 /* 0x9 04 */] = true;
 											goto flw_204
 										  case 2:
 											printf("What kind of fun are you looking for?\nAnything in particular?\n#####Cutting!#####Shooting!#####Never mind.")
-											switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 120)])) {
+											switch (choice(3)) {
 											  case 0:
 												flw_203:
-												OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 10), ('next', 204), ('param3', 4)])
+												loadzone_temp_flags[3 /* 0x9 08 */] = true;
 												goto flw_204
 											  case 1:
-												OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 10), ('next', 204), ('param3', 4)])
+												loadzone_temp_flags[4 /* 0x9 10 */] = true;
 												goto flw_204
 											  case 2:
 												flw_200:
@@ -520,13 +520,13 @@ void entrypoint_500_29() {
 									printf("Somewhere fun down here, eh?\nWhat kind of fun are you\nlooking for?\n#####Lightning Round!#####Thrill Digger!#####Rickety Coaster!#####Never mind.")
 									switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 53)])) {
 									  case 0:
-										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 10), ('next', 204), ('param3', 4)])
+										loadzone_temp_flags[5 /* 0x9 20 */] = true;
 										goto flw_204
 									  case 1:
-										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 10), ('next', 204), ('param3', 4)])
+										loadzone_temp_flags[6 /* 0x9 40 */] = true;
 										goto flw_204
 									  case 2:
-										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 10), ('next', 204), ('param3', 4)])
+										loadzone_temp_flags[7 /* 0x9 80 */] = true;
 										goto flw_204
 									  case 3:
 										goto flw_200
@@ -562,7 +562,7 @@ void entrypoint_500_29() {
 						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 6)])) {
 						  case 0:
 							printf("#####BAll right! Hop in, and I'll take care of\nthe flingin'. You just worry about\nthe landing...")
-							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 10), ('next', 96), ('param3', 4)])
+							loadzone_temp_flags[0 /* 0x9 01 */] = true;
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 						  case 1:
 							printf("OK. Let me know if you decide you\nwant a #lift\" to the forest!")

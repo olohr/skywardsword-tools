@@ -6,7 +6,7 @@ void entrypoint_111_01() {
 		  case 0:
 			flw_19:
 			printf("What? I just told you what your\nfortune was. I described everything I\nsaw in detail! Didn't you hear me the\nfirst time?!\nFine. Fine... I'll tell you one more time,\nso listen up! And don't think I can't\nsee when you're not paying attention.")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 74), ('param3', 5)])
+			loadzone_temp_flags[3 /* 0x9 08 */] = false;
 			flw_74:
 			switch (story_flags[17 /* us: 805A9ADB 0x04, jp: 805ACD5B 0x04 */]) {
 			  case 0:
@@ -274,7 +274,7 @@ void entrypoint_111_01() {
 							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 160), ('next', 40), ('param3', 6)])
 							OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -238), ('next', 165), ('param3', 13)])
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 50), ('next', 17), ('param3', 54)])
-							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 21), ('param3', 4)])
+							loadzone_temp_flags[3 /* 0x9 08 */] = true;
 							printf("Ahaaaaaaaaaa. I see many things...\nAll is revealed...")
 							goto flw_74
 						  case 1:

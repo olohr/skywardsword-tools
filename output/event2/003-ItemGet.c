@@ -1012,7 +1012,7 @@ void entrypoint_003_005() {
 void entrypoint_003_074() {
 	start()
 	scene_flags[11 'Faron: Skyview Temple'][119 /* 0xF 80 */] = true;
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 11), ('next', 676), ('param3', 4)])
+	loadzone_temp_flags[1 /* 0x9 02 */] = true;
 	switch (story_flags[65 /* us: 805A9ADF 0x10, jp: 805ACD5F 0x10 */]) {
 	  case 0:
 		flw_156:

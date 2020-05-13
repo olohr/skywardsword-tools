@@ -102,7 +102,7 @@ void entrypoint_404_05() {
 	start()
 	switch (story_flags[21 /* us: 805A9ADB 0x20, jp: 805ACD5B 0x20 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 63), ('param3', 9), ('param4', 2), ('param5', 60)])) {
+		switch (temp_flags[63 /* 0x6 80 */]) {
 		  case 0:
 			printf("Master Thunder Dragon has regained\nhis strength, and it is all thanks to your\nhelp, brrzrrt! We thank you, vweep!")
 		  case 1:
@@ -157,13 +157,13 @@ void entrypoint_404_58() {
 
 void entrypoint_404_07() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 9), ('param4', 2), ('param5', 4)])) {
+	switch (temp_flags[0 /* 0x1 01 */]) {
 	  case 0:
 		printf("You should hurry up before you get left\nbehind, vrrm!")
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 12), ('param3', 31)])
 		printf("######There are lots of big Timeshift Stones\nhere, zrrt.##### ######Did you get permission from\n#####Master Thunder Dragon #####to come here\nlike we did, vrrm?\n######We were just about to transport this\nTimeshift Stone to Master Thunder\nDragon, vweep.")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 9), ('next', 87), ('param3', 28)])
+		temp_flags[0 /* 0x1 01 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 86), ('param3', 39)])
 		printf("####(#There are many monsters, vrrm.#####\n######Practice extreme caution, bzrt!")
 	}
@@ -178,7 +178,7 @@ void entrypoint_404_09() {
 	start()
 	switch (story_flags[21 /* us: 805A9ADB 0x20, jp: 805ACD5B 0x20 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 63), ('param3', 9), ('param4', 2), ('param5', 58)])) {
+		switch (temp_flags[63 /* 0x6 80 */]) {
 		  case 0:
 			printf("Master Thunder Dragon is in very high\nspirits, vweep!")
 		  case 1:
@@ -249,7 +249,7 @@ void entrypoint_404_30() {
 			story_flags[20 /* us: 805A9ADB 0x10, jp: 805ACD5B 0x10 */] = true;
 			flw_79:
 			story_flags[21 /* us: 805A9ADB 0x20, jp: 805ACD5B 0x20 */] = true;
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 63), ('param2', 9), ('next', 122), ('param3', 28)])
+			temp_flags[63 /* 0x6 80 */] = true;
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 4), ('next', -1), ('param3', 7)])
 		  case 1:
 			goto flw_79
@@ -261,7 +261,7 @@ void entrypoint_404_30() {
 
 void entrypoint_404_31() {
 	start()
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 9), ('next', 81), ('param3', 28)])
+	temp_flags[5 /* 0x1 20 */] = true;
 	printf("####K#This is #####Lanayru Gorge#####. Legend tells of\na dragon loyal to the goddess living\nin this area.")
 }
 

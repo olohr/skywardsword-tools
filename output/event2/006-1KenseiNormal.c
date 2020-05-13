@@ -142,7 +142,7 @@ void entrypoint_006_103() {
 				  case 1:
 					switch (story_flags[64 /* us: 805A9ADF 0x08, jp: 805ACD5F 0x08 */]) {
 					  case 0:
-						switch (bottles[7 0x0007]) {
+						switch (adventure_pouch_has(7 0x0007)) {
 						  case 0:
 							printf("You obtained the sacred water said to\nhave the power to cure the Water\nDragon's wounds. I recommend\nreturning to her.")
 						  case 1:
@@ -585,7 +585,7 @@ void entrypoint_006_114() {
 
 void entrypoint_006_131() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 18), ('param3', 9), ('param4', 2), ('param5', 4)])) {
+	switch (temp_flags[18 /* 0x3 04 */]) {
 	  case 0:
 		printf("This is an island known as the\n#####Isle of Songs#####. It is a place mentioned in\nthe Ballad of the Goddess, an ancient\nsong handed down in #####Skyloft#####.")
 	  case 1:

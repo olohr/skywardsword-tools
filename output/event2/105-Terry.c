@@ -60,7 +60,7 @@ void entrypoint_105_01() {
 							flw_27:
 							printf("Oh, sorry! #####...#####I don't mean to be rude!\nPlease have a look around. I've got\nall kinds of great stuff!")
 							scene_flags[0 'Skyloft'][16 /* 0x3 01 */] = true;
-							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 0), ('next', -1), ('param3', 4)])
+							loadzone_temp_flags[13 /* 0x8 20 */] = true;
 						  case 1:
 							OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 12), ('param2', 1558), ('next', 28), ('param3', 13)])
 							printf("Fine, then. Just don't break my\nconcentration!\n\n\nWith you on board, I have to pedal as\nhard as I can because of all the\nEXTRA WEIGHT...")
@@ -79,7 +79,7 @@ void entrypoint_105_01() {
 								  case 1:
 									OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 187), ('param3', 31)])
 									printf("######Oh####\n.####\n.####\n.####\n Valued customer...##### You're back####\n.####\n.####\n.####\n\n\n\n\nWhat?##### I don't seem like my usual self?\n\n\n\nI can't hide anything from you, can I?\n\n\n\nWell, I can't talk about it right now\nbecause I'm busy pedaling.\nWhy don't you lie down on the bed over\nthere and rest? We can talk tonight.")
-									OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 12), ('param2', 0), ('next', -1), ('param3', 4)])
+									loadzone_temp_flags[12 /* 0x8 10 */] = true;
 								}
 							  case 1:
 								goto flw_1
@@ -100,7 +100,7 @@ void entrypoint_105_36() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 138), ('param3', 12)])
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 0), ('param2', 21), ('next', 149), ('param3', 13)])
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 11), ('param2', 0), ('next', 140), ('param3', 4)])
+	loadzone_temp_flags[11 /* 0x8 08 */] = true;
 	switch (story_flags[478 /* us: 805A9B11 0x04, jp: 805ACD91 0x04 */]) {
 	  case 0:
 		flw_145:
@@ -175,14 +175,14 @@ void entrypoint_105_06() {
 	  case 0:
 		flw_5:
 		printf("Oh no! You don't have enough Rupees!\nLook at my face. If that's your idea of\na joke, I'm not laughing!")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 0), ('next', 152), ('param3', 5)])
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 11), ('param2', 0), ('next', -1), ('param3', 5)])
+		loadzone_temp_flags[10 /* 0x8 04 */] = false;
+		loadzone_temp_flags[11 /* 0x8 08 */] = false;
 	  case 1:
 		switch (story_flags[477 /* us: 805A9B11 0x02, jp: 805ACD91 0x02 */]) {
 		  case 0:
 			goto flw_5
 		  case 1:
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 5), ('param3', 4)])
+			loadzone_temp_flags[1 /* 0x9 02 */] = true;
 			goto flw_5
 		}
 	}
@@ -195,7 +195,7 @@ void entrypoint_105_07() {
 	  case 0:
 		printf("Oh! Thank you ever so much! You've\ngiven me the strength to keep pedaling!")
 		flw_33:
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 34), ('param3', 5)])
+		loadzone_temp_flags[1 /* 0x9 02 */] = false;
 		story_flags[1089 /* us: 805A9B53 0x80, jp: 805ACDD3 0x80 */] = true;
 		scene_flags[0 'Skyloft'][16 /* 0x3 01 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 105), ('param2', 11), ('next', -1), ('param3', 7)])
@@ -212,14 +212,14 @@ void entrypoint_105_08() {
 	  case 0:
 		flw_11:
 		printf("Oh! Please take a look at the other\nthings I have for sale.")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 0), ('next', 154), ('param3', 5)])
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 11), ('param2', 0), ('next', -1), ('param3', 5)])
+		loadzone_temp_flags[10 /* 0x8 04 */] = false;
+		loadzone_temp_flags[11 /* 0x8 08 */] = false;
 	  case 1:
 		switch (story_flags[477 /* us: 805A9B11 0x02, jp: 805ACD91 0x02 */]) {
 		  case 0:
 			goto flw_11
 		  case 1:
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 11), ('param3', 4)])
+			loadzone_temp_flags[1 /* 0x9 02 */] = true;
 			goto flw_11
 		}
 	}
@@ -271,7 +271,7 @@ void entrypoint_105_31() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 49), ('param3', 12)])
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 0), ('param2', 21), ('next', 150), ('param3', 13)])
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 0), ('next', 69), ('param3', 4)])
+	loadzone_temp_flags[10 /* 0x8 04 */] = true;
 	switch (story_flags[478 /* us: 805A9B11 0x04, jp: 805ACD91 0x04 */]) {
 	  case 0:
 		flw_19:
@@ -376,10 +376,10 @@ void entrypoint_105_50() {
 								printf("######Ah! Truly? I must thank you! \nI shan't forget this!")
 								printf("######My precious #####Horned Colossus Beetle#####...\n...Please go and find him with all\nhaste. He abides out there, \nsomewhere, all alone in the wild.\n######I beg of you!")
 								story_flags[474 /* us: 805A9B0E 0x40, jp: 805ACD8E 0x40 */] = true;
-								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 21), ('next', -1), ('param3', 4)])
+								loadzone_temp_flags[4 /* 0x9 10 */] = true;
 							  case 1:
 								printf("#####!Simple for you to say, I'm sure, but I\ncan't just forget about him so easily.")
-								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 21), ('next', -1), ('param3', 4)])
+								loadzone_temp_flags[4 /* 0x9 10 */] = true;
 							}
 						}
 					  case 1:
@@ -389,7 +389,7 @@ void entrypoint_105_50() {
 							  case 0:
 								printf("######If you wish to go back to Skyloft,\nsimply sleep in the bed until morning.")
 								flw_98:
-								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 21), ('next', 55), ('param3', 4)])
+								loadzone_temp_flags[3 /* 0x9 08 */] = true;
 								switch (story_flags[201 /* us: 805A9AEF 0x08, jp: 805ACD6F 0x08 */]) {
 								  case 0:
 									switch (story_flags[304 /* us: 805A9AFC 0x04, jp: 805ACD7C 0x04 */]) {

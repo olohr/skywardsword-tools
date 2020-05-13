@@ -8,7 +8,7 @@ void entrypoint_006_300() {
 		printf("######Master, your current selection of\npouch items is ######.")
 		printf("Suitability to current location is #######%.")
 		printf("My projections indicate that equipping\na sword is sufficient for combat at\nthis location.\n\nYou could also consider stocking your\npouch with helpful items.")
-		switch (bottles[6 0x0006]) {
+		switch (adventure_pouch_has(6 0x0006)) {
 		  case 0:
 			printf("To make matters worse, your Wooden\nShield is not well suited to defend you\nfrom fire-based attacks.##### I do not\nrecommend that you equip it.")
 		  case 1:

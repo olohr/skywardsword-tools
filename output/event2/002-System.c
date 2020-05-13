@@ -28,7 +28,7 @@ void entrypoint_002_005() {
 void entrypoint_002_001() {
 	start()
 	printf("######\n#####Save#####Save and #####quit##########Cancel")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 0)])) {
+	switch (choice(3)) {
 	  case 0:
 	  case 1:
 	  case 2:

@@ -27,7 +27,7 @@ void entrypoint_106_51() {
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 71), ('param3', 12)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 72), ('param3', 33)])
 		printf("######All done... Here you are. I hope I didn't\nset your expectations too high...")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', -1), ('param3', 4)])
+		loadzone_temp_flags[4 /* 0x9 10 */] = true;
 	  case 1:
 		printf("####\n#I understand... Is there anything else\nI can infuse for you?")
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 78), ('param3', 12)])
@@ -80,7 +80,7 @@ void entrypoint_106_01() {
 							  case 0:
 								printf("######Such a smart boy you are! Just stand\nin front of the potion you want to hear\nabout, and press #####.\n\nI'll talk you through everything that\npotion will do for you. The potions I\ncarry are pretty basic.\n\nHowever, if you want something\nwith a bit more kick to it...\n\n\n######You can buy one of my potions and\nwalk it a few steps down to my husband\nthere. He'll be able to help you out.\n\n######He might not look like much, but he\nmixes a mean potion, and he's used to\ndealing with kids like you.")
 								flw_7:
-								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', -1), ('param3', 4)])
+								loadzone_temp_flags[2 /* 0x9 04 */] = true;
 							  case 1:
 								printf("######No need to be rude. I'm busy too,\nyou know! But you look like such a\nnice boy, so I'll forgive you.\n\n######If you want some more potent potions,\ngo and talk to my husband. He can mix\nup ingredients to infuse and improve\nthe regular potions I sell here.")
 								goto flw_7
@@ -93,7 +93,7 @@ void entrypoint_106_01() {
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 106), ('param3', 31)])
 						printf("######Here's something that'll put some fire\nin your belly, young man! The new\npotion I've been concocting is finally\nready!\nI call it a #####Stamina Potion#####!\n\n\n\nIf you drink this up, your stamina\ngauge won't drop as fast as usual!\n\n\nI'll admit it's a bit on the pricey side,\nbut I bet you'll find yourself in a\nsituation where a boost of stamina\nwill make it worthwhile!\nIf you want to buy some, just walk on\nover to the display and take a look!")
 						scene_flags[0 'Skyloft'][85 /* 0xB 20 */] = true;
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', -1), ('param3', 4)])
+						loadzone_temp_flags[2 /* 0x9 04 */] = true;
 					}
 				  case 1:
 					goto flw_6
@@ -102,7 +102,7 @@ void entrypoint_106_01() {
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 129), ('param3', 31)])
 				printf("######Boy, have I got the new potion for you!\nI call it...the Air Potion!\n\n\nOne delicious gulp of this elixir and\nyou'll find that while you are\nunderwater, your #####oxygen gauge##### will\ndrop much more slowly!\nYou'll be like a little fish, young man!\nAnd the price is more than generous,\nif I do say so myself.\n\nIf you're interested in a bottle, young\nman, just examine the blue cauldron,\nand I'll come running!")
 				story_flags[1075 /* us: 805A9B50 0x02, jp: 805ACDD0 0x02 */] = true;
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', -1), ('param3', 4)])
+				loadzone_temp_flags[2 /* 0x9 04 */] = true;
 			}
 		  case 1:
 			goto flw_105
@@ -334,7 +334,7 @@ void entrypoint_106_33() {
 
 void entrypoint_106_50() {
 	start()
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', 181), ('param3', 5)])
+	loadzone_temp_flags[4 /* 0x9 10 */] = false;
 	switch (loadzone_temp_flags[7 /* 0x9 80 */]) {
 	  case 0:
 		flw_116:
@@ -364,7 +364,7 @@ void entrypoint_106_50() {
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 120), ('param3', 31)])
 					printf("######Oh, welcome! Our shop is in the potion-\nbrewing-and-infusing business, as\nI'm sure you know...\n\nAnyway, I can improve potions you buy\nover there from my wife.\n\n\n######But of course... Sir, you'll need to\nbring me some insects if you want me\nto improve potions for you. Or bugs...\nYou can call them bugs if you like...\nYou can buy a #####Bug Net #####from #####Beedle's\nAirshop##### if you don't have one...\n\n\n######Beedle is usually flying his shop outside\naround the Bazaar... Yes... If you #####look\naround#####, you should see him up there...")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 0), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[6 /* 0x9 40 */] = true;
 				}
 			}
 		  case 1:
@@ -382,7 +382,7 @@ void entrypoint_106_50() {
 				  case 0:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1), ('next', 179), ('param3', 31)])
 					printf("######Oh, welcome... Sorry, did you just say\nyou have something to give me?\n\n\nYou'll have to forgive me. I'm a little\ntoo busy right now. Do you think...you\ncould come by my house later?\nI'll be there #####tonight#####.\nSorry for the inconvenience... Hope\nto see you later.")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 0), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[7 /* 0x9 80 */] = true;
 				  case 1:
 					goto flw_116
 				}
@@ -392,7 +392,7 @@ void entrypoint_106_50() {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 184), ('param3', 31)])
 				printf("######...Welcome!\n#####......#########\n#Sigh...\n\n\n######Sorry--I shouldn't be sighing in front\nof a customer... You see, recently\nI haven't been able to sleep #####at night#####...\n\nAhhh... Sorry, I also shouldn't be\ncomplaining in front of a customer...\nAgain...")
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 0), ('next', 116), ('param3', 4)])
+				loadzone_temp_flags[7 /* 0x9 80 */] = true;
 				goto flw_116
 			  case 1:
 				goto flw_116

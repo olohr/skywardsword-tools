@@ -31,7 +31,7 @@ void entrypoint_300_07() {
 			goto flw_329
 		  case 1:
 			printf("######Hey, you! You've really got those guys'\nattention. And it looks like they're\nspoiling for a fight.\n\n######Take one for the rest of us and chase\n'em outta here, will you?")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 4), ('next', 334), ('param3', 4)])
+			loadzone_temp_flags[16 /* 0xB 01 */] = true;
 			goto flw_334
 		}
 	}
@@ -68,7 +68,7 @@ void entrypoint_300_25() {
 
 void entrypoint_300_09() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 53), ('param3', 9), ('param4', 2), ('param5', 16)])) {
+	switch (temp_flags[53 /* 0x7 20 */]) {
 	  case 0:
 		printf("Oh, hey! Sometimes these##### red, blobby\nthings #####will pop out too. Disgusting!\nBe careful not to let 'em grab you.")
 	  case 1:
@@ -77,7 +77,7 @@ void entrypoint_300_09() {
 		  case 0:
 			printf("Whoa! You scared me silly! ###########You can't\njust start digging right above my head,\nyou know?\n\n######But I get where you're coming from.\nYou never know what you're going to\nfind when you dig. That's what makes\nit so impossible to stop!\n###########Rupees #####are the most common thing\nyou'll dig up, but you might get some\n#####Eldin Ore #####as well!\n\n######Used to be plenty of hearts buried down\nhere too, but weirdly enough I haven't\nseen any recently. Go figure.\n\n######Anyhow, if you run across a hole and\nyou've got the time, dig, dig, dig!")
 			flw_75:
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 53), ('param2', 4), ('next', -1), ('param3', 28)])
+			temp_flags[53 /* 0x7 20 */] = true;
 		  case 1:
 			printf("Whoa! You scared me silly! ###########You can't\njust start digging right above my head,\nyou know?\n\n######But I get where you're coming from.\nYou never know what you're going to\nfind when you dig, so it's impossible to\nstop!\n###########Rupees #####are the most common treasure\nyou'll dig up, but sometimes you might\neven score #####Eldin Ore##### or some #####hearts#####!\n\nSo if you run across a hole and you've\ngot the time, dig, dig, dig!")
 			goto flw_75
@@ -192,7 +192,7 @@ void entrypoint_300_10() {
 
 void entrypoint_300_28() {
 	start()
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 30), ('param2', 4), ('next', 264), ('param3', 28)])
+	temp_flags[30 /* 0x2 40 */] = true;
 	printf("####K#######Master, this is #####Eldin Volcano#####. It is an\nactive volcano rich with the power\nof the earth.")
 }
 
@@ -265,21 +265,21 @@ void entrypoint_300_12() {
 
 void entrypoint_300_13() {
 	start()
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 4), ('next', 205), ('param3', 4)])
+	loadzone_temp_flags[1 /* 0x9 02 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 505), ('param2', 5), ('next', 204), ('param3', 23)])
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 36)])) {
 	  case 0:
 		flw_207:
 		printf("Master, I am detecting #####extremely high\ntemperatures##### from the area directly\nahead.\n\nYou will not survive this environment\nwith your current ######heart total.\nI recommend you turn back.")
 		flw_296:
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 4), ('next', -1), ('param3', 5)])
+		loadzone_temp_flags[1 /* 0x9 02 */] = false;
 	  case 1:
 		switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 		  case 0:
 			goto flw_207
 		  case 1:
 			printf("######Master, I am detecting##### extremely high\ntemperatures##### from the area ahead.\nYou will not survive this environment\nwith your ######heart total.\nAdditionally, #####dowsing #####results do not\nsupport this path. Please reconfirm\nthe correct direction to proceed.")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 4), ('next', 296), ('param3', 4)])
+			loadzone_temp_flags[2 /* 0x9 04 */] = true;
 			goto flw_296
 		}
 	}
@@ -357,7 +357,7 @@ void entrypoint_300_33() {
 			printf("Wonder where the next treasure might\nbe... Gotta remember not to forget\nabout the whole digging thing.")
 		  case 1:
 			printf("Hey, you! Did ya make it to the ruins?\n\n\n\n######I decided it wasn't worth the trouble.\nBoy, was my partner steamed!\n\n\n######He kept shouting, #All you had to do\nwas dig your way in! How hard could it\nbe?\" #####He's right too. Digging would\nhave made it easy. Heh heh...")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 4), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[2 /* 0x9 04 */] = true;
 		}
 	  case 1:
 		switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
@@ -365,7 +365,7 @@ void entrypoint_300_33() {
 			printf("Wonder where my search for riches\nwill lead me next... A #####treasure hunter's\njourney never ends#####. Heh heh...")
 		  case 1:
 			printf("######Hey, you. Hope you're taking good care\nof my #####Bomb Bag#####.\n\n\n######I was nice enough to give it to you, so\nbe sure you put it to good use.\nOh, and don't burn a hole in it!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 4), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[2 /* 0x9 04 */] = true;
 		}
 	}
 }
@@ -497,7 +497,7 @@ void entrypoint_300_04() {
 				  case 0:
 					printf("######You got those creeps all worked up, so\nnow you've got to take care of 'em!\n\n\n######But they keep using that #####horn to call\nin reinforcements#####. They just keep\ncoming and coming!\n\nI bet the horn blower in the##### blue hat###########\nis the leader.")
 					flw_114:
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 18), ('param2', 4), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[18 /* 0xB 04 */] = true;
 				  case 1:
 					printf("######What's that? You really sent those\ncreeps packing?\n\n\n######Well, seems like they're extra mad at\nyou, so... Guess it's only natural that\nyou had to handle things.\n\n######But did you notice when you start\nwhittling 'em down, they call in\nreinforcements with that #####horn#####?\nThat ain't a fair fight, if you ask me.\nI bet the horn blower in the #####blue cap###########\nis the leader.")
 					goto flw_114
@@ -588,18 +588,18 @@ void entrypoint_300_06() {
 
 void entrypoint_300_23() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 33), ('param3', 9), ('param4', 2), ('param5', 40)])) {
+	switch (temp_flags[33 /* 0x5 02 */]) {
 	  case 0:
 		switch (loadzone_temp_flags[16 /* 0xB 01 */]) {
 		  case 0:
 			printf("Do me a favor, will ya? Try not to go\ncrazy and##### roll around #####all over the\nplace. Dust bunnies, ya know?")
 		  case 1:
 			printf("Back again, huh? Don't mind me or\nanything--it's just MY HOUSE!\n\n\n######What? What do you mean I didn't have\nto tunnel all the way up here?\n\n\n######Look, I know it's a run-down, dirty\nhovel, but it's MINE! And I want to\nknow who's dropping by my dirty hovel.\n\n######Oh, and just 'cause you're all rested\ndoesn't mean you can #####roll around\n#####and bust the place up!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 4), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[16 /* 0xB 01 */] = true;
 		}
 	  case 1:
 		printf("Hey! Welcome to my place! Make\nyourself at home.\n\n\n######What? Of course this is my house!\n\n\n\n######OK, OK, those red creeps built it,\nbut...##### They split, right? So what's\nthe harm?\n\n######Us #####Mogmas #####live in the ground, so we\ndon't have what you would call\n#houses.\" ######I just wanted to see what it\nfelt like to say #Welcome to my place!\"")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 33), ('param2', 4), ('next', -1), ('param3', 28)])
+		temp_flags[33 /* 0x5 02 */] = true;
 	}
 }
 

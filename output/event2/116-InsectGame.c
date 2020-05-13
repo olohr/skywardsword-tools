@@ -15,7 +15,7 @@ void entrypoint_116_01() {
 					  case 0:
 						printf("######You ready to start catching some\nbugs? Maybe you'll get bitten by the\nbug-catching fever, just like me.\nOr maybe you'll just get bitten...\nAnyway, it's #####20 Rupees #####for the Bug\nBeginner level or #####50 #####for the Bug\nWrangler level. What do you say?\n#####Bug Beginner!#####Bug Wrangler!#####No, thanks.")
 						flw_1:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 0)])) {
+						switch (choice(3)) {
 						  case 0:
 							switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 14), ('param4', 2), ('param5', 56)])) {
 							  case 0:

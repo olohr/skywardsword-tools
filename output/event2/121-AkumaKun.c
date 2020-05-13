@@ -269,7 +269,7 @@ void entrypoint_121_30() {
 							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 46)])) {
 							  case 0:
 								printf("######Magnificent! Yes, that is truly a\n#####Gratitude Crystal#####!##### That did not take\nyou long at all.\n\nAs a start, can you please bring me\n#####five##### of them?\n\n\nIf you do a great kindness for someone,\nyou may even get several of them at\nonce!")
-								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', -1), ('param3', 4)])
+								loadzone_temp_flags[1 /* 0x9 02 */] = true;
 							  case 1:
 								goto flw_122
 							}
@@ -305,12 +305,12 @@ void entrypoint_121_00() {
 
 void entrypoint_121_01() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 12), ('param3', 9), ('param4', 2), ('param5', 62)])) {
+	switch (temp_flags[12 /* 0x0 10 */]) {
 	  case 0:
 		printf("######Look how bright and cheery this place\nis! Such a flurry of color and activity--\nit's positively bustling! I could spend\nall day here just taking it in.")
 	  case 1:
 		printf("######Oh, good day, ####!\nI simply can't thank you enough for all\nyour help! I'm overjoyed!\n\nFor so long, I wondered what it would\nbe like to casually stroll through the\nbazaar, and here I am!\n\n######And look around... The best part is\nnobody is screaming in horror!")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 12), ('param2', 0), ('next', -1), ('param3', 28)])
+		temp_flags[12 /* 0x0 10 */] = true;
 	}
 }
 

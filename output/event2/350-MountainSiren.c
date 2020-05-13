@@ -10,26 +10,26 @@ void entrypoint_350_00() {
 	  case 1:
 		switch (scene_flags[102 /* 0xD 40 */]) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 9), ('param4', 2), ('param5', 6)])) {
+			switch (temp_flags[1 /* 0x1 02 */]) {
 			  case 0:
 				printf("######Master ####, I can\nunfortunately confirm that you\nhave failed to pass the trial.")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 31), ('param2', 1), ('next', 22), ('param3', 40)])
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 2), ('param3', 9), ('param4', 2), ('param5', 8)])) {
+				switch (temp_flags[2 /* 0x1 04 */]) {
 				  case 0:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 3), ('param3', 9), ('param4', 2), ('param5', 10)])) {
+					switch (temp_flags[3 /* 0x1 08 */]) {
 					  case 0:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 4), ('param3', 9), ('param4', 2), ('param5', 12)])) {
+						switch (temp_flags[4 /* 0x1 10 */]) {
 						  case 0:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 5), ('param3', 9), ('param4', 2), ('param5', 14)])) {
+							switch (temp_flags[5 /* 0x1 20 */]) {
 							  case 0:
-								switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 6), ('param3', 9), ('param4', 2), ('param5', 16)])) {
+								switch (temp_flags[6 /* 0x1 40 */]) {
 								  case 0:
-									switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 7), ('param3', 9), ('param4', 2), ('param5', 18)])) {
+									switch (temp_flags[7 /* 0x1 80 */]) {
 									  case 0:
 										printf("######Master, in addition to the #####Guardians#####\nwho will attack you, there are also two\ntypes of #####Watchers #####that search for\nintruders #####on the ground and in the sky#####.\nThe two types of Watchers exhibit\ndramatically different behavior, so be\nsure you understand how to avoid\ndetection by both.")
-										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 23), ('next', 44), ('param3', 29)])
-										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 23), ('next', 45), ('param3', 29)])
-										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 23), ('next', 32), ('param3', 29)])
+										temp_flags[5 /* 0x1 20 */] = false;
+										temp_flags[6 /* 0x1 40 */] = false;
+										temp_flags[7 /* 0x1 80 */] = false;
 										flw_32:
 										printf("Collect all the #####tears##### within the Silent\nRealm. I shall await your return here.")
 										flw_49:
@@ -37,39 +37,39 @@ void entrypoint_350_00() {
 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', -1), ('next', -1), ('param3', 42)])
 									  case 1:
 										printf("The locations of #####tears #####that you have\npreviously collected will be #####marked\non the map#####, so make good use of that.\n\nConfirm the locations of all 15 tears\nfirst to increase your chances of\nsuccessfully completing the trial.")
-										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 23), ('next', 32), ('param3', 28)])
+										temp_flags[7 /* 0x1 80 */] = true;
 										goto flw_32
 									}
 								  case 1:
 									printf("I suggest using smart tactics to your\nadvantage. Try #####leaving easy-to-collect\ntears #####for when you are being pursued.")
-									OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 23), ('next', 32), ('param3', 28)])
+									temp_flags[6 /* 0x1 40 */] = true;
 									goto flw_32
 								}
 							  case 1:
 								printf("######Master, the chances of your not being\nthe chosen one are increasing...\n\n\nRepeated attempts at this trial have\nscattered your concentration and made\nyour performance erratic. I suggest\nyou rest awhile before trying again.")
-								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 23), ('next', 32), ('param3', 28)])
+								temp_flags[5 /* 0x1 20 */] = true;
 								goto flw_32
 							}
 						  case 1:
 							printf("#####Two types of Watchers #####patrol the\nrealm, looking for intruders. I highly\nsuggest you take caution.\n\nSo long as you do not step into their\nlight, you will remain undetected\nby #####flying Sky Watchers#####.\n\nHowever, the #####Earth Watchers#####, who\n#####hover near the ground#####, will give chase\nif you come too close to them, so #####stay\nalert #####and maintain a safe distance.")
-							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 23), ('next', 32), ('param3', 28)])
+							temp_flags[4 /* 0x1 10 */] = true;
 							goto flw_32
 						}
 					  case 1:
 						printf("The locations of #####tears##### you have\ngathered during your trial are\n#####marked on the map#####.\n\nYou will have an easier time\ncompleting your task if you\nfirst set out to discover the\nlocations of all 15 tears.")
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 23), ('next', 32), ('param3', 28)])
+						temp_flags[3 /* 0x1 08 */] = true;
 						goto flw_32
 					}
 				  case 1:
 					printf("######Master, so long as you have the will and\ndetermination, you can retry a trial\nas many times as you like.\n\nA good strategy is #####to find, but then\ndeliberately not pick up#####, the most-\neasily-accessible ##########tears##### #####until you are\ndiscovered and really need one.\nCollect the 15 #####tears##### and complete the\ntrial. I will await your return in the\noutside world.")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 23), ('next', 49), ('param3', 28)])
+					temp_flags[2 /* 0x1 04 */] = true;
 					goto flw_49
 				}
 			  case 1:
 				printf("######Master ####...")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 31), ('param2', 1), ('next', 18), ('param3', 40)])
 				printf("When your ############### is filled with\n15 #####tears#####, your spirit will grow and you\nwill be blessed by the goddess with a\nnew power.\n######Master, I will await your return in the\noutside world.")
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 23), ('next', 49), ('param3', 28)])
+				temp_flags[1 /* 0x1 02 */] = true;
 				goto flw_49
 			}
 		  case 1:
@@ -121,7 +121,7 @@ void entrypoint_350_00() {
 					printf("######Master, I await your return in the\noutside world.")
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 75), ('param3', 40)])
 					scene_flags[23 'Eldin: Silent Realm'][102 /* 0xD 40 */] = true;
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 23), ('next', 76), ('param3', 28)])
+					temp_flags[1 /* 0x1 02 */] = true;
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', -1), ('param3', 42)])
 				}
 			  case 1:

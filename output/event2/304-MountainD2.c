@@ -47,7 +47,7 @@ void entrypoint_304_16() {
 		printf("######Those mitts I gave you were one of\nthe finest pieces in my collection.")
 	  case 1:
 		printf("######Hey, pal! How are the mitts I gave ya?\n\n\n\nPress ##### when you're diggin' down\nunderground to get a quick peep at\nwhat's happening aboveground.#####\n\nEven when we're burrowing, we know\nwhat's happening aboveground too!")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 15), ('next', -1), ('param3', 4)])
+		loadzone_temp_flags[0 /* 0x9 01 */] = true;
 	}
 }
 
@@ -62,7 +62,7 @@ void entrypoint_304_17() {
 			printf("######...Did you already figure out where\nthe treasure was from that map?")
 		  case 1:
 			printf("######Seriously? Then what did I give\nyou that map for? And you call\nyourself an adventurer...\n\n######Agh... Well, I must look dumber than\na jug of Moblin drool right now...")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 15), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[1 /* 0x9 02 */] = true;
 		}
 	}
 }
@@ -74,7 +74,7 @@ void entrypoint_304_18() {
 		printf("######As long as those monsters are still\nthere, you and me oughta stay clear!")
 	  case 1:
 		printf("######Hey, guy! Still in one piece, eh?\n\n\n\nDid ya see all the monsters around\nthat place I was talkin' about?\n\n\n######I wonder what in the ever-tunnelin'\nworld those guys are looking for...")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 15), ('next', -1), ('param3', 4)])
+		loadzone_temp_flags[2 /* 0x9 04 */] = true;
 	}
 }
 
@@ -307,7 +307,7 @@ void entrypoint_304_11() {
 	  case 0:
 		printf("######Hey! Where are you tearin' off to right\nthis second?!\n\n\nI've got some pipin'-hot info, and all\nya need to do for it is get me offa\nthis chain!")
 		flw_44:
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 15), ('next', 162), ('param3', 4)])
+		loadzone_temp_flags[0 /* 0x9 01 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', -1), ('param3', 42)])
 	  case 1:
 		printf("######Hey! Hang on there a second!\n\n\n\nWhat kinda right-thinkin' person does\nthat? Just ignores a fella in need?\nThat's just despicable. Terrible,\nisn't it? Isn't it?\nI've got some pipin'-hot info, and all\nya need to do for it is get me offa this\nchain!")
@@ -325,7 +325,7 @@ void entrypoint_304_12() {
 			printf("######ACK! You again?!\n\n\n\n######Heh heh! Doesn't matter how many\ntimes you try to catch me, you'll always\nend up empty handed!")
 		  case 1:
 			printf("Aghhh! A green monster!\n\n\n\n######Ack... I can't believe they're following\nus down here now...\n\n\nGuess I can have some fun with him for\nnow, though...\n\n\n######Heh, heh, heh! You're on Mogma turf\nnow, fiend! You may be scary, but #####as\nlong as the way ahead of me is clear#####,\nyou'll never catch me!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 15), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[0 /* 0x9 01 */] = true;
 		}
 	  case 1:
 		printf("######Ahhh! So busy, so busy... Burning the\nmidnight oil again looking for loot!")

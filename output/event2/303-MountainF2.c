@@ -71,7 +71,7 @@ void entrypoint_303_48() {
 				switch (scene_flags[114 /* 0xF 04 */]) {
 				  case 0:
 					printf("######Hey, pal. You bust up those #####mugs with\nthe big shields #####yet?\n\n\n######Here's all you got to remember:\ncut wooden shields, repel spear \nattacks, and clamber up shields like\nthey were walls.\nIf you keep all that in your head, you'll\ndo just fine. I promise!")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 4), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[7 /* 0x9 80 */] = true;
 				  case 1:
 					printf("Hey, pal. You still haven't figured out\nthose #####mugs with the big shields#####, right?\n\n\n######I've got one #####last bit of secret info #####that\nwill make your life a whole lot easier.")
 					OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 256), ('param3', 12)])
@@ -87,14 +87,14 @@ void entrypoint_303_48() {
 							scene_flags[4 'Eldin Volcano'][114 /* 0xF 04 */] = true;
 							printf("######All right, here goes my last secret.\nThose creeps' shields are huge, right?\nLike a wall?\n\n######Well then, treat 'em like a wall and\njab, jab, jab!\n\n\n######I'm not going to tell ya what happens,\nbut I highly recommend ya try it.\nI think you'll like the results!\n\n######Go get 'em, pal! And thanks again for\nthe business.")
 							scene_flags[4 'Eldin Volcano'][114 /* 0xF 04 */] = true;
-							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 4), ('next', -1), ('param3', 4)])
+							loadzone_temp_flags[7 /* 0x9 80 */] = true;
 						  case 1:
 							printf("######What are you trying to pull, pal? You\ndon't have enough Rupees!\n\n\n######Come back when you've managed to\nscrape together #####50 Rupees#####, all right?")
-							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 4), ('next', -1), ('param3', 4)])
+							loadzone_temp_flags[7 /* 0x9 80 */] = true;
 						}
 					  case 1:
 						printf("######What are you getting all stingy for?\nIt's a lousy #####50 Rupees#####.\n\n\n######Pfft. Whatever. Come see me if you\nchange your mind.")
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 4), ('next', -1), ('param3', 4)])
+						loadzone_temp_flags[7 /* 0x9 80 */] = true;
 					}
 				}
 			  case 1:
@@ -120,11 +120,11 @@ void entrypoint_303_48() {
 						}
 					  case 1:
 						printf("######What's the deal, pal? You don't have\nenough Rupees, so you're getting a\nload of nothing from me.\n\n######Find yourself #####30 Rupees#####, then come\nand see me.")
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 4), ('next', -1), ('param3', 4)])
+						loadzone_temp_flags[7 /* 0x9 80 */] = true;
 					}
 				  case 1:
 					printf("######What're you being so stingy for?\nIt's only #####30 Rupees#####. \n\n\n######All right, whatever. Come see me if you\nchange your mind.")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 4), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[7 /* 0x9 80 */] = true;
 				}
 			}
 		  case 1:
@@ -150,11 +150,11 @@ void entrypoint_303_48() {
 					}
 				  case 1:
 					printf("######What's the deal, pal? You don't have\nenough Rupees, so you're getting a\nload of nothing from me.\n\n######Find yourself #####30 Rupees#####, then come\nand see me.")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 4), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[7 /* 0x9 80 */] = true;
 				}
 			  case 1:
 				printf("######What're you being so stingy for?\nIt's only #####30 Rupees#####. \n\n\n######All right, whatever. Come see me if you\nchange your mind.")
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 4), ('next', -1), ('param3', 4)])
+				loadzone_temp_flags[7 /* 0x9 80 */] = true;
 			}
 		}
 	  case 1:
@@ -205,7 +205,7 @@ void entrypoint_303_33() {
 void entrypoint_303_50() {
 	start()
 	printf("######A report, Master ####.\nThe transport robot is waiting for you\nat the base of the volcano.\n\nI recommend going up into the sky\nagain and returning to the base of\nthe volcano to guide the robot to\nthis location.")
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 29), ('param2', 5), ('next', -1), ('param3', 28)])
+	temp_flags[29 /* 0x2 20 */] = true;
 }
 
 void entrypoint_303_17() {
@@ -248,7 +248,7 @@ void entrypoint_303_01() {
 		printf("I have got a hunch there are still \n#####Goddess Cubes #####on this mountain. \nYou should see if you can find them.")
 	  case 1:
 		printf("######Oh, hey! We meet again. How have you\nbeen, bud?\n\n\nI rumbled over here 'cause I heard\nsomeone had spotted #####Goddess Cubes\n#####in the area.\n\nYou may have already found some,\nbut I got a feeling there are some\nothers hidden away around here.\n\n######You might think about searching for\nthem yourself when you get the time.")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 4), ('next', -1), ('param3', 4)])
+		loadzone_temp_flags[0 /* 0x9 01 */] = true;
 	}
 }
 
@@ -305,7 +305,7 @@ void entrypoint_303_37() {
 		switch (story_flags[669 /* us: 805A9B1E 0x08, jp: 805ACD9E 0x08 */]) {
 		  case 0:
 		  case 1:
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 5), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[0 /* 0x9 01 */] = true;
 		}
 	  case 1:
 		printf("######Well, look who we have here! You still\nlooking for your friend?\n\n\n######Of course, I'm on the hunt for \ntreasure. Heard there were some fancy\nruins out this way...so here I am!\n\n######Believe it or not, I haven't found a\nthing. Got any information for me?\n#####Want to know?#####I'm not telling!")
@@ -351,7 +351,7 @@ void entrypoint_303_38() {
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 13), ('next', 134), ('param3', 56)])
 			flw_134:
 			scene_flags[5 'Eldin Volcano Summit'][114 /* 0xF 04 */] = true;
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 5), ('next', -1), ('param3', 5)])
+			loadzone_temp_flags[0 /* 0x9 01 */] = false;
 		  case 1:
 			printf("######Understood, Master. I will not proceed\nwith registration.")
 			goto flw_134
@@ -372,7 +372,7 @@ void entrypoint_303_04() {
 		printf("######I wish there was something we could do\nto put out these flames...")
 	  case 1:
 		printf("######Oh, hey! We meet again. How have you\nbeen, bud?\n\n\n######I rumbled over here 'cause I heard\nsomeone had spotted some##### Goddess\nCubes #####in the area.\n\n######I have got a hunch they may be down in\nthat direction, but...this flaming\nwall of fire is blocking the way!")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 5), ('next', 17), ('param3', 4)])
+		loadzone_temp_flags[0 /* 0x9 01 */] = true;
 		goto flw_17
 	}
 }
@@ -389,7 +389,7 @@ void entrypoint_303_39() {
 		printf("######If I'm going to retire, I want to live in\na place up high with a glorious view.\n\n\n######I've lived most of my life underground,\nit's true, but I still gaze up at that sky.\nIt's so...big and blue and fluffy.\n\n######If I had my way, I'd like to come back\nin my next life as a bird and spend my\ntime soaring the wild blue yonder.")
 	  case 1:
 		printf("######Oh, you again! It's been a looong time,\nbut I remember that face.\n\n\n######Heh heh heh. How're those gloves I\ninvented treatin' ya? Are they up to\nyour satisfaction?\n\nHow've I been? Awful nice of ya to ask.\nLemme see...\n\n\n######I've been searchin' high and low for\nnew treasure, but I've come up empty\npawed.\n\nI gotta say, I'm tired of diggin' after\nmy fortune in this blast furnace.\n\n\n######I'm startin' to think it's time I gave\nup this life of treasure huntin' and\nsettled down to enjoy my twilight\nyears.")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 4), ('next', -1), ('param3', 4)])
+		loadzone_temp_flags[1 /* 0x9 02 */] = true;
 	}
 }
 
@@ -460,7 +460,7 @@ void entrypoint_303_40() {
 					printf("######Traveling back and forth between here\nand the sky. The elder is soooo cool!")
 				  case 1:
 					printf("######What do you mean, the elder's back?\n\n\n\n######Are you saying he can travel between\nhere and the sky? That is one amazing\nguy, I tell you.")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 4), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[4 /* 0x9 10 */] = true;
 				}
 			  case 1:
 				switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
@@ -473,7 +473,7 @@ void entrypoint_303_40() {
 						  case 0:
 							printf("######Hey, pal, did ya go and visit the elder?\nHow's he doin'?\n\n\n###########What? Twilight years?\n\n\n\nUh...######what are ya talkin' about?\nIs #twilight years\" some sort of\ncode name for a big treasure?\n\n######I gotta tell ya, I've never heard of such\na thing.\n\n\nBut if that's what the elder wants help\nwith, go on and help him out, will ya?")
 							flw_171:
-							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 4), ('next', -1), ('param3', 4)])
+							loadzone_temp_flags[3 /* 0x9 08 */] = true;
 						  case 1:
 							printf("######Whoa! It's my old pal! How've you\nbeen?\n\n\nMe? Ah, my claws are sharp, and my\nnose is tuned in to treasure! I'm great!\n\n\n######One thing's got me worried, though.\nThe tribal elder's been acting odd since\ngoing to those ruins. He's just not\nhimself.\n######You talked to him earlier, right?\nHow was he doing?\n\n\n###########What? Twilight years?\n\n\n\nUh...######what are you talking about?\nIs #twilight years\" some sort of code\nname for treasure?\n\n######I gotta tell you, I've never heard of\nsuch a thing. And I know a thing or two\nabout treasure.\n\nBut if that's what the elder wants, help\nhim out, will ya?")
 							story_flags[1092 /* us: 805A9B52 0x04, jp: 805ACDD2 0x04 */] = true;
@@ -496,13 +496,13 @@ void entrypoint_303_40() {
 
 void entrypoint_303_07() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 9), ('param4', 2), ('param5', 8)])) {
+	switch (temp_flags[0 /* 0x1 01 */]) {
 	  case 0:
 		flw_32:
 		printf("Hate to ask you this, bud, but could\nyou do the fire-extinguisher routine\nagain?")
 	  case 1:
 		printf("######More flames... This is starting to burn\nme up...")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 5), ('next', 32), ('param3', 28)])
+		temp_flags[0 /* 0x1 01 */] = true;
 		goto flw_32
 	}
 }
@@ -523,7 +523,7 @@ void entrypoint_303_41() {
 		  case 0:
 			printf("######Oh, really? We're all cool, then.\n\n\n\nI just hadn't seen his ugly mug in a\nwhile and, well, you know...\n\n\n######I thought maybe he'd gone and gotten\nhimself all tied up again.\n\n\n######Let me tell ya, that guy's like a\ntrouble magnet!")
 			flw_182:
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 4), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[5 /* 0x9 20 */] = true;
 		  case 1:
 			printf("######That dirt-brain... #####I bet he's off on some\nsolo treasure-hunting dig.\n\n\nHe knows he's not supposed to be out\nby himself. This place is dangerous!\n\n\n######What am I supposed to do, huh?\nI guess that's what you get when you're\n#####treasure hunters#####. Bunch of guys who\ndon't know when to quit.\nIf you happen to run into #####Plats#####, give\nhim my best, will you?")
 			goto flw_182
@@ -596,12 +596,12 @@ void entrypoint_303_09() {
 		  case 1:
 			switch (story_flags[467 /* us: 805A9B0F 0x10, jp: 805ACD8F 0x10 */]) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 15), ('param3', 9), ('param4', 2), ('param5', 92)])) {
+				switch (temp_flags[15 /* 0x0 80 */]) {
 				  case 0:
 					printf("######Lots of##### water #####and #####something to carry it\naround in#####... Any bright ideas on where\nto find those things, bud?")
 				  case 1:
 					printf("######How are we supposed to give this fellow\nenough #####water#####? Whatever it is, it is\ngoing to have to be one##### big container#####...\n\n######You have been adventuring all over the\nplace, right? You got any ideas?")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 15), ('param2', 5), ('next', -1), ('param3', 28)])
+					temp_flags[15 /* 0x0 80 */] = true;
 				}
 			  case 1:
 				printf("Do you see this, bud? Talk about\nintriguing! We are definitely off the\nmap here.\n\n######This does not feel like##### Goddess Cube\n#####stuff to me! I bet there is something\n#####super important #####hidden around here!")

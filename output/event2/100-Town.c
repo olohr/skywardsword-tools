@@ -2,13 +2,13 @@ void entrypoint_100_11() {
 	start()
 	switch (story_flags[36 /* us: 805A9ADD 0x10, jp: 805ACD5D 0x10 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 16), ('param3', 9), ('param4', 2), ('param5', 62)])) {
+		switch (temp_flags[16 /* 0x3 01 */]) {
 		  case 0:
 			printf("######You can't go flying at night.\nYou just can't.\n\n\nIf you want to go out flying, tuck\nyourself into bed and sleep until\ntomorrow morning.")
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 173), ('param3', 31)])
 			printf("######What are you doing out here\nso late?!\n\n\n######You what?! You can't seriously think\nyou're going to ride your Loftwing at\nthis time of night, do you?!\n\n######Listen up. Loftwings can't fly at\nnight! They have terrible night vision,\nand only the few who have received\nspecial training can fly in the dark.\n######If you really need to fly, you'll just\nhave to wait for daylight.")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 0), ('next', -1), ('param3', 28)])
+			temp_flags[16 /* 0x3 01 */] = true;
 		}
 	  case 1:
 		switch (story_flags[23 /* us: 805A9ADB 0x80, jp: 805ACD5B 0x80 */]) {
@@ -117,7 +117,7 @@ void entrypoint_100_16() {
 					  case 0:
 					  case 1:
 						printf("######You need to talk to me? Just come find\nme sometime during the day tomorrow.")
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 0), ('next', -1), ('param3', 4)])
+						loadzone_temp_flags[16 /* 0xB 01 */] = true;
 					}
 				  case 1:
 					printf("####\n#What do you think you're doing in a\ngirl's room at this time of night?!\n\n\nI need to take a bath, so get out of\nhere, ####!\n\n\n######Well...I mean I WOULD take a bath if\nwhoever is in there now would hurry\nup and get out. They've been in there\na loooong time...")
@@ -423,10 +423,10 @@ void entrypoint_100_25() {
 		switch (loadzone_temp_flags[12 /* 0x8 10 */]) {
 		  case 0:
 			printf("###########Enough already! #####You little brat!\n\n\n\n##\n###Do that again, and you'll be mopping\nsoup stains for a week!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 0), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[13 /* 0x8 20 */] = true;
 		  case 1:
 			printf("######What do you think you're doing?!\n\n\n\n#######\n###You'd better clean that up!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 12), ('param2', 0), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[12 /* 0x8 10 */] = true;
 		}
 	}
 }

@@ -4,7 +4,7 @@ void entrypoint_502_06() {
 	  case 0:
 		story_flags[788 /* us: 805A9B2C 0x10, jp: 805ACDAC 0x10 */] = true;
 		flw_73:
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 10), ('next', -1), ('param3', 4)])
+		loadzone_temp_flags[4 /* 0x9 10 */] = true;
 	  case 1:
 		story_flags[787 /* us: 805A9B2C 0x08, jp: 805ACDAC 0x08 */] = true;
 		goto flw_73

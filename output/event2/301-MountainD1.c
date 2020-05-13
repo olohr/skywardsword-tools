@@ -17,7 +17,7 @@ void entrypoint_301_03() {
 	start()
 	printf("######Master ####. It appears\nZelda has cleansed herself in the\nwaters of this fountain.\n\nBased on the information from the\nmessage I just imparted, I project she\nis traveling to a region known as\n#####Lanayru#####.\nIf you transport this tablet back to the\nstatue in Skyloft, a new column of\nlight will appear that will allow you to\ntravel to the #####Lanayru region#####.\nI suggest you return at once to #####Skyloft\n#####and then set out for the Lanayru\nregion.")
 	story_flags[7 /* us: 805A9AD8 0x01, jp: 805ACD58 0x01 */] = true;
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 14), ('next', 59), ('param3', 4)])
+	loadzone_temp_flags[0 /* 0x9 01 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 60), ('param3', 36)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', -1), ('param3', 6)])
 }
@@ -45,7 +45,7 @@ void entrypoint_301_05() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 95), ('param3', 17)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 15), ('param2', 0), ('next', 6), ('param3', 39)])
 	printf("######Heyyyyy! You found my #####Bomb Bag#####!\n\n\n\n######Sorry to put you through that. I guess \nI owe you one now! So let me have it...#####\n\n\n######What's this, now? You want to borrow\nit so you can go deeper into the\nvolcano?\n\n######Oh, right. You're looking for your\nfriend. You sure have put yourself out\nthere, getting this far...\n\n######That reminds me!##### How's MY pal?\n#####Gone...#####Worried!#####No idea.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 2)])) {
+	switch (choice(3)) {
 	  case 0:
 		printf("######Seriously? Can't depend on anybody\nthese days...\n\n\n######Let me take that back. Looks like your\nfriend can count on you, though, right?\nYou've risked life and limb to get here.\n\n######I'm not letting you borrow my bag,\nthough. Nope. I'm GIVING it to you!\nJust don't blow yourself up...")
 		flw_105:
@@ -85,12 +85,12 @@ void entrypoint_301_07() {
 		  case 0:
 			printf("######Heh heh, nice work. Rolling #####bomb\nflowers #####through there--that's the mark\nof a real professional adventurer!\n\n######Keep it up, and go grab my #####Bomb Bag#####!")
 		  case 1:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 57), ('param3', 9), ('param4', 2), ('param5', 7)])) {
+			switch (temp_flags[57 /* 0x6 02 */]) {
 			  case 0:
 				printf("I think you should be able to blow your\nway in there. Why don't you search the\narea for some #####bomb flowers#####?")
 			  case 1:
 				printf("Oh, right... #####You can't tunnel, so you\ncan't get back there. Hmm...\n\n\n######You should be able to blow your way\nin there with a #####bomb flower#####. \n\n\n######Why don't you start by seeing if there\nare any #####bomb flowers #####in the area?")
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 57), ('param2', 14), ('next', -1), ('param3', 28)])
+				temp_flags[57 /* 0x6 02 */] = true;
 			}
 		}
 	}
@@ -137,10 +137,10 @@ void entrypoint_301_09() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 65), ('next', 48), ('param3', 6)])
 	story_flags[189 /* us: 805A9AE9 0x10, jp: 805ACD69 0x10 */] = true;
 	story_flags[748 /* us: 805A9B29 0x10, jp: 805ACDA9 0x10 */] = false;
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 14), ('next', 84), ('param3', 4)])
+	loadzone_temp_flags[1 /* 0x9 02 */] = true;
 	switch (scene_flags[28 /* 0x2 10 */]) {
 	  case 0:
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 14), ('next', 57), ('param3', 4)])
+		loadzone_temp_flags[3 /* 0x9 08 */] = true;
 		flw_57:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', -1), ('param3', 42)])
 	  case 1:

@@ -357,7 +357,7 @@ void entrypoint_122_32() {
 
 void entrypoint_122_16() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 52), ('param3', 9), ('param4', 2), ('param5', 44)])) {
+	switch (temp_flags[52 /* 0x7 10 */]) {
 	  case 0:
 		printf("Stop by and chat with me once in a\nwhile, you hear? I may be old, but I'm\nnot boring.")
 	  case 1:
@@ -377,7 +377,7 @@ void entrypoint_122_16() {
 			  case 0:
 				printf("Let me tell you something that may\ncome in handy.\n\n\nWhen you're out on the skies, you might\nsee##### ring-shaped rocks #####now and again.\n\n\n######I've heard there's some kind of \nunknown energy that builds up in the \ncenter of those big rocks.\n\nSo get this: if you fly your Loftwing\nthrough a hole, you'll come blasting\nout like you were shot out of a cannon.\n\n######I hear all the hotshot knights use this\ntrick to cover huge distances in a\nhurry.")
 				flw_151:
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 52), ('param2', 0), ('next', -1), ('param3', 28)])
+				temp_flags[52 /* 0x7 10 */] = true;
 			  case 1:
 				printf("Let me share a bit of wisdom with you.\n\n\n\n######The sky is filled with floating islands\nof all shapes and sizes. Skyloft just\nhappens to be the one we call home.\n\nAnd no one knows when they were\ncreated or just how it is they stay\nairborne.\n\n######The only thing I can tell you with any\ncertainty is that we owe all of it--and\nthat includes our life here--to the\ngenerosity of the goddess.")
 				goto flw_151

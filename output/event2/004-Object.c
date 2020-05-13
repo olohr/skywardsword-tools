@@ -66,7 +66,7 @@ void entrypoint_004_109() {
 void entrypoint_004_016() {
 	start()
 	printf("####How long do you want to sleep?###\n#####Until morning.#####Until night.#####Don't sleep.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 6)])) {
+	switch (choice(3)) {
 	  case 0:
 	  case 1:
 	  case 2:

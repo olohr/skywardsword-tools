@@ -1,6 +1,6 @@
 void entrypoint_201_51() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 9), ('param4', 2), ('param5', 2)])) {
+	switch (temp_flags[0 /* 0x1 01 */]) {
 	  case 0:
 		printf("")
 	  case 1:
@@ -51,7 +51,7 @@ void entrypoint_201_53() {
 	  case 0:
 		printf("Let's return to the sky once more\nbefore continuing our search. The #####bird\nstatue##### outside can take us back up.")
 		flw_79:
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 11), ('next', 80), ('param3', 4)])
+		loadzone_temp_flags[3 /* 0x9 08 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 81), ('param3', 36)])
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', -1), ('param3', 6)])
 	  case 1:
@@ -79,7 +79,7 @@ void entrypoint_201_54() {
 	switch (story_flags[64 /* us: 805A9ADF 0x08, jp: 805ACD5F 0x08 */]) {
 	  case 0:
 		printf("There is a 95% probability that the\nwater here is identical to the water\nwithin the Water Dragon's basin.\nI suggest we take it back to her.")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 11), ('next', 264), ('param3', 4)])
+		loadzone_temp_flags[3 /* 0x9 08 */] = true;
 		story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = false;
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 84), ('param3', 36)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 10), ('param2', 0), ('next', 170), ('param3', 39)])
@@ -215,7 +215,7 @@ void entrypoint_201_93() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 99), ('next', 202), ('param3', 16)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 5), ('next', 160), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 11), ('param2', 0), ('next', 213), ('param3', 39)])
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 56), ('param2', 11), ('next', 203), ('param3', 4)])
+	loadzone_temp_flags[56 /* 0xE 01 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 16), ('next', 69), ('param3', 33)])
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4115), ('param2', 4364), ('next', 67), ('param3', 13)])
 	printf("Sheesh. I dig some serious miles to\nget my paws on treasure, and I've\nfound squat. Talk about bad luck!")
@@ -335,7 +335,7 @@ void entrypoint_201_96() {
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4113), ('param2', 3329), ('next', 250), ('param3', 13)])
 			printf("Hey. What do you want?\n#####Key?#####Treasure?#####Never mind.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 20)])) {
+			switch (choice(3)) {
 			  case 0:
 				goto flw_189
 			  case 1:
@@ -357,7 +357,7 @@ void entrypoint_201_97() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 99), ('next', 244), ('param3', 16)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 5), ('next', 240), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 12), ('param2', 0), ('next', 245), ('param3', 39)])
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 55), ('param2', 11), ('next', 266), ('param3', 4)])
+	loadzone_temp_flags[55 /* 0xF 80 */] = true;
 	story_flags[1112 /* us: 805A9B54 0x40, jp: 805ACDD4 0x40 */] = true;
 	story_flags[1111 /* us: 805A9B54 0x20, jp: 805ACDD4 0x20 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 16), ('next', 237), ('param3', 33)])
@@ -388,7 +388,7 @@ void entrypoint_201_12() {
 
 void entrypoint_201_99() {
 	start()
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 63), ('param3', 9), ('param4', 2), ('param5', 14)])) {
+	switch (temp_flags[63 /* 0x6 80 */]) {
 	  case 0:
 		scene_flags[11 'Faron: Skyview Temple'][16 /* 0x3 01 */] = true;
 	  case 1:
@@ -404,7 +404,7 @@ void entrypoint_201_13() {
 void entrypoint_201_14() {
 	start()
 	printf("######Master, I have bad news. The auras of\nmany creatures reverberate\nthroughout this temple.\n\nAs a result, I can't isolate Zelda's aura#####.\n#####You will #####not be able to track her##### here.\n\n\n######Given the situation, I suggest you\n#####look around #####to see where we should\nmove next.")
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 50), ('param2', 11), ('next', 262), ('param3', 28)])
+	temp_flags[50 /* 0x7 04 */] = true;
 	story_flags[818 /* us: 805A9B30 0x04, jp: 805ACDB0 0x04 */] = false;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', -1), ('next', -1), ('param3', 42)])
 }

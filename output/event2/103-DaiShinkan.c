@@ -41,7 +41,7 @@ void entrypoint_103_06() {
 		  case 0:
 			flw_84:
 			printf("######I have faith that you shall bring my\ndaughter back to me. I desire that\nmore than an explanation of whatever\nit was that transpired here!\nGood luck, ####!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 19), ('param2', 0), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[19 /* 0xB 08 */] = true;
 		  case 1:
 			printf("######It's happened, ####!\n\n\n\nThe goddess...##### The goddess and her\nisle have vanished from Skyloft!\n#####The truth is...#####Err...")
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 24)])) {
@@ -72,7 +72,7 @@ void entrypoint_103_06() {
 					printf("######I'm quite certain I've seen a stone like\nthat before, but I don't recall where.\n\n\nPerhaps the town fortune-teller might\nbe able to put you on the right track?")
 				  case 1:
 					printf("######Hello, ####! I hope your\nsearch is progressing well.\n\n\nYou need to find somewhere to insert\nthis ###############, you say?\n\n\nThat gem...yes, I do believe I have seen\nsomething that it might fit into, but I\njust can't recall where...")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 19), ('param2', 0), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[19 /* 0xB 08 */] = true;
 				}
 			  case 1:
 				switch (story_flags[200 /* us: 805A9AEF 0x04, jp: 805ACD6F 0x04 */]) {

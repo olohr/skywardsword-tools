@@ -35,7 +35,7 @@ void entrypoint_113_01() {
 	  case 0:
 		printf("######Hey, kid! How's #####Scrapper##### treating\nyou? Anything to upgrade today?\n#####Upgrade.#####Repair shield.#####No, thanks.")
 		flw_4:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 0)])) {
+		switch (choice(3)) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 14), ('param4', 2), ('param5', 7)])) {
 			  case 0:
@@ -91,7 +91,7 @@ void entrypoint_113_01() {
 						  case 1:
 							printf("######Yeah, who has, right?\nBut if I just had one #####Ancient Flower#####...")
 							story_flags[321 /* us: 805A9AFC 0x80, jp: 805ACD7C 0x80 */] = true;
-							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', -1), ('param3', 5)])
+							loadzone_temp_flags[3 /* 0x9 08 */] = false;
 						}
 					  case 1:
 						printf("######...Huh? ####(It's about this old robot my\ngrandpa used to tinker around with?\n\n\n######...You probably just came here to make\nfun of the crazy junk guy for believing\nin his grandpa's stupid stories, right?\n\nWell, get in line... I've heard it before.####(\nWait... That's not why you're here?\nYou say you need to pick up something\nfrom below the clouds with this robot?\n######Do you know what that means?!\nThat means...you believe in my\ngrandpa's stories too, don't you?!")
@@ -104,7 +104,7 @@ void entrypoint_113_01() {
 					}
 				  case 1:
 					flw_25:
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', 1), ('param3', 5)])
+					loadzone_temp_flags[4 /* 0x9 10 */] = false;
 					printf("######Heyyyyy! Welcome to the Scrap Shop!\nI can use the stuff you find to upgrade \nyour gear and make it even stronger!\n\nAnd if your shield takes a beating, no\nworries. I can fix that too.\nSo what'll it be?\n#####Upgrade gear.#####Fix shield.#####Never mind.")
 					goto flw_4
 				}
@@ -133,7 +133,7 @@ void entrypoint_113_02() {
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 12), ('param3', 12)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 14), ('param3', 33)])
 		printf("######All done! Here you go!")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', -1), ('param3', 4)])
+		loadzone_temp_flags[4 /* 0x9 10 */] = true;
 	  case 1:
 		printf("######Make up your mind, little buddy!\nTry picking something else.")
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 18), ('param3', 12)])
@@ -251,7 +251,7 @@ void entrypoint_113_21() {
 	printf("######So how do you plan to recover all the\nstuff that fell beneath the clouds?\n\n\nYou know, you could always ask the\n#####fortune-teller #####over there...\n\n\nI know he's kind of goofy looking,\nbut when it comes to finding things,\nhe's always right on the money.")
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 142), ('param3', 42)])
 	story_flags[366 /* us: 805A9B03 0x10, jp: 805ACD83 0x10 */] = true;
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', -1), ('param3', 5)])
+	loadzone_temp_flags[3 /* 0x9 08 */] = false;
 }
 
 void entrypoint_113_39() {

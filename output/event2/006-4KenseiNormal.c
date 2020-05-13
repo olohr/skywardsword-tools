@@ -32,7 +32,7 @@ void entrypoint_006_402() {
 	  case 0:
 		switch (story_flags[841 /* us: 805A9B35 0x01, jp: 805ACDB5 0x01 */]) {
 		  case 0:
-			switch (bottles[8 0x0008]) {
+			switch (adventure_pouch_has(8 0x0008)) {
 			  case 0:
 			  case 1:
 				flw_11:

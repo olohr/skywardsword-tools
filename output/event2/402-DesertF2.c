@@ -64,7 +64,7 @@ void entrypoint_402_02() {
 				  case 0:
 					printf("Let's get going quick, vrrm! Don't you\nneed to find that person you're looking\nfor, brrzt?\n\nOr do you need me to take the boat\nsomewhere else on this sea?\n#####To sea!#####To the Sandship!#####Never mind.")
 					flw_263:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 49)])) {
+					switch (choice(3)) {
 					  case 0:
 						printf("######All right! Let's go, vrrrrm!")
 						changeScene(2, 0) // 
@@ -103,7 +103,7 @@ void entrypoint_402_02() {
 				switch (story_flags[272 /* us: 805A9AF8 0x04, jp: 805ACD78 0x04 */]) {
 				  case 0:
 					printf("######Ready to shove off, brrzt?\n#####To sea.#####To the Sandship.#####Never mind.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 4)])) {
+					switch (choice(3)) {
 					  case 0:
 						printf("######All right! Let's go, vrrrrm!")
 						changeScene(2, 0) // 
@@ -260,7 +260,7 @@ void entrypoint_402_05() {
 	start()
 	printf("Thank you for getting me my ship back,\nvrrm.\n\n\n######It may have been half wrecked, but my\ncrew and I got it shaped up to almost\nproper working order in no time, vrrt.\n\n######I wish you good luck in finding\nwhomever it is you're looking\nfor, phweep!\n\n######Come visit again. You're welcome\nanytime, vweep!")
 	story_flags[815 /* us: 805A9B31 0x80, jp: 805ACDB1 0x80 */] = true;
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 8), ('next', -1), ('param3', 4)])
+	loadzone_temp_flags[1 /* 0x9 02 */] = true;
 }
 
 void entrypoint_402_22() {

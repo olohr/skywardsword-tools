@@ -161,7 +161,7 @@ void entrypoint_102_06() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 5), ('next', 69), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 0), ('next', 36), ('param3', 39)])
 	printf("######Did you hear that guy? A fair race? \nYeah, the chances of that happening\nare just about less than zero.\n\n######Either way, don't let those fools get\nyou down, ####! Just get\nout there and fly the best you can!\n\nI know you've got these guys beat, and\ndeep down I think you do too.\n#####Yeah!#####I dunno...#####Us? Alone?")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 4)])) {
+	switch (choice(3)) {
 	  case 0:
 		printf("######That's the spirit, ####!\nTrust me--you can win this.")
 		flw_101:
@@ -398,7 +398,7 @@ void entrypoint_102_13() {
 																  case 0:
 																	story_flags[1200 /* us: 805A9B61 0x40, jp: 805ACDE1 0x40 */] = true;
 																	flw_238:
-																	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 53), ('param2', 0), ('next', -1), ('param3', 29)])
+																	temp_flags[53 /* 0x7 20 */] = false;
 																  case 1:
 																	goto flw_238
 																}

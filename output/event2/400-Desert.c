@@ -117,7 +117,7 @@ void entrypoint_400_16() {
 
 void entrypoint_400_50() {
 	start()
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 7), ('next', 59), ('param3', 28)])
+	temp_flags[5 /* 0x1 20 */] = true;
 	printf("####Z#######A report, Master ####.\nWe have arrived at #####Lanayru Mine#####.")
 }
 
@@ -565,7 +565,7 @@ void entrypoint_400_24() {
 
 void entrypoint_400_59() {
 	start()
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 7), ('next', 135), ('param3', 28)])
+	temp_flags[6 /* 0x1 40 */] = true;
 	printf("#########Z######We have arrived at #####Lanayru Deser##########t#####.\nThe terrain in this area changed\ndramatically as climate forces rapidly\nturned it into a desert.")
 }
 

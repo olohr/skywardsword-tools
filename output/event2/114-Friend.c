@@ -50,11 +50,11 @@ void entrypoint_114_20() {
 			switch (story_flags[400 /* us: 805A9B10 0x01, jp: 805ACD90 0x01 */]) {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 84), ('param3', 12)])
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 6), ('param3', 9), ('param4', 2), ('param5', 39)])) {
+				switch (temp_flags[6 /* 0x1 40 */]) {
 				  case 0:
 					printf("######Want to try again? It'll cost you\nanother #####20 Rupees#####.\n#####Yep! #####Rules?#####Nah.")
 					flw_74:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 30)])) {
+					switch (choice(3)) {
 					  case 0:
 						flw_67:
 						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 20), ('param3', 10), ('param4', 2), ('param5', 26)])) {
@@ -114,7 +114,7 @@ void entrypoint_114_20() {
 			}
 		}
 	  case 1:
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 6), ('param2', 0), ('next', 90), ('param3', 28)])
+		temp_flags[6 /* 0x1 40 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 78), ('param3', 44)])
 		switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 16), ('param4', 4), ('param5', 35)])) {
 		  case 0:
@@ -185,7 +185,7 @@ void entrypoint_114_05() {
 				printf("######Really? Thanks! OK, so...")
 				printf("######I need you to carry one of these #####barrels#####\nover to the old lady who works in the\nkitchen.\n\nPress ##### to pick up a barrel, then press\n##### again to #####put it down #####at your feet.\n\n\n######If you #####hold the Wii Remote up and\nswing it#####, you can #####throw #####whatever you're\ncarrying.\n\nYou can #####roll #####small items like pots by\n#####holding the Wii Remote down #####and\n#####swinging #####it.\n\n######But we'll get in huge trouble if any of\nthese barrels break, so don't even think\nabout throwing or rolling them.")
 				printf("######If you forget any of this, just #####press ####################.#####\n\n\n\nThat'll bring up an explanation of\nactions available to you at that moment\nin time. Pretty handy, huh?")
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 11), ('param2', 0), ('next', -1), ('param3', 4)])
+				loadzone_temp_flags[11 /* 0x8 08 */] = true;
 			  case 1:
 				printf("######Oh, right#####... #####You've got today's\nWing Ceremony to think about!\nYou can leave that there.")
 			}

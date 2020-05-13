@@ -37,7 +37,7 @@ void entrypoint_119_01() {
 	  case 1:
 		switch (story_flags[292 /* us: 805A9AFA 0x40, jp: 805ACD7A 0x40 */]) {
 		  case 0:
-			switch (bottles[2 0x0002]) {
+			switch (adventure_pouch_has(2 0x0002)) {
 			  case 0:
 				switch (loadzone_temp_flags[2 /* 0x9 04 */]) {
 				  case 0:
@@ -67,10 +67,10 @@ void entrypoint_119_01() {
 						printf("######Thank you, ####! \nHere's a token of my appreciation.")
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 64), ('param3', 42)])
 						give_item(4 0x04);
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', -1), ('param3', 4)])
+						loadzone_temp_flags[1 /* 0x9 02 */] = true;
 					  case 1:
 						printf("#####...\n...#####\n\n\n######HAH! Just joking around with you!")
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', -1), ('param3', 4)])
+						loadzone_temp_flags[2 /* 0x9 04 */] = true;
 					}
 				}
 			  case 1:
@@ -79,7 +79,7 @@ void entrypoint_119_01() {
 		  case 1:
 			switch (story_flags[291 /* us: 805A9AFA 0x20, jp: 805ACD7A 0x20 */]) {
 			  case 0:
-				switch (bottles[2 0x0002]) {
+				switch (adventure_pouch_has(2 0x0002)) {
 				  case 0:
 					printf("######Hey! ########! Have you been\nworking hard on your swordsmanship?\n\n\n######Hmm? I smell something...\n\n\n\n######I know that earthy aroma! Isn't that\nmy favorite #####pumpkin soup#####?!\n\n\n######I asked the owner of the Lumpy\nPumpkin to bring me some, but...\n\n\nYou went out of your way to deliver\nsome to me?!\n#####That's right!#####Uh, no...")
 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 23)])) {
@@ -105,7 +105,7 @@ void entrypoint_119_01() {
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 10), ('next', 140), ('param3', 48)])
 							printf("######Well done! Say thanks to the owner\nfor me!")
 							story_flags[292 /* us: 805A9AFA 0x40, jp: 805ACD7A 0x40 */] = true;
-							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 153), ('param3', 4)])
+							loadzone_temp_flags[1 /* 0x9 02 */] = true;
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', -1), ('param3', 42)])
 						  case 1:
 							printf("######What?! Weren't you asked to bring\nthis to me? You think you can tease\nme like this? You DO NOT tease a man\nabout pumpkin soup!\n######If this soup isn't good anymore, you're\ngoing to have to go get me some more!\n\n\nAnd it had better be hot!")
@@ -114,7 +114,7 @@ void entrypoint_119_01() {
 						printf("######Huh... I told Pumm to bring some\nright away, so what is he doing?\n######You do not want to be around me when\nI don't get my daily pumpkin soup.")
 					}
 				  case 1:
-					switch (bottles[3 0x0003]) {
+					switch (adventure_pouch_has(3 0x0003)) {
 					  case 0:
 						printf("######Hey! ########! Have you been\nworking hard on your swordsmanship?\n\n\n######Hmm? I smell something...\n\n\n\n######I know that earthy aroma! Isn't that\nmy favorite #####pumpkin soup#####?!\n\n\n######I asked the owner of the Lumpy\nPumpkin to bring me some, but...\n\n\nYou went out of your way to deliver\nsome to me?!\n#####That's right!#####Uh, no...")
 						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 21)])) {
@@ -175,12 +175,12 @@ void entrypoint_119_02() {
 
 void entrypoint_119_03() {
 	start()
-	switch (bottles[9 0x0009]) {
+	switch (adventure_pouch_has(9 0x0009)) {
 	  case 0:
 		switch (scene_flags[60 /* 0x6 10 */]) {
 		  case 0:
 			printf("######Oh? Ready to talk more about the\n#####secrets of defense#####?\n#####Practical stuff.#####Basics!#####No, thanks.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 10)])) {
+			switch (choice(3)) {
 			  case 0:
 				printf("#####Practical stuff#####? OK!\n\n\n\n######If you ready your shield right before an\nenemy attacks you, the force from your\nshield arm will #####repel #####the enemy's \nattack. \n######This technique is called a #####shield bash#####,\nand it will make the enemy recoil,\ngiving you an opening in which to\nattack.\n######This technique is very useful against\nenemies who throw weapons at you or\njust refuse to give you an opening\nfor attack.")
 				flw_21:
@@ -258,11 +258,11 @@ void entrypoint_119_07() {
 
 void entrypoint_119_08() {
 	start()
-	switch (bottles[0 0x0000]) {
+	switch (adventure_pouch_has(0 0x0000)) {
 	  case 0:
 		printf("######That log is used to practice defense.\n\n\n\n######Hit the log with your sword, and then\n#####sharply move the Nunchuk forward #####to\nexecute a #####shield bash #####when it swings\nback at you.")
 	  case 1:
-		switch (bottles[9 0x0009]) {
+		switch (adventure_pouch_has(9 0x0009)) {
 		  case 0:
 			printf("######That log is used to practice #####defense#####.\nYou don't have a #####shield##### equipped,\nthough, so don't mess with it, or it'll\nsend you flying!")
 		  case 1:

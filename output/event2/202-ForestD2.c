@@ -51,7 +51,7 @@ void entrypoint_202_30() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 0), ('next', 29), ('param3', 39)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 63), ('next', 31), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 40), ('next', 41), ('param3', 6)])
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 18), ('param2', 12), ('next', 24), ('param3', 4)])
+	loadzone_temp_flags[18 /* 0xB 04 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', -1), ('param3', 42)])
 }
 

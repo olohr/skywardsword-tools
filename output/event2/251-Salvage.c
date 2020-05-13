@@ -64,7 +64,7 @@ void entrypoint_251_01() {
 					  case 0:
 						flw_21:
 						printf("######Oh! That's fantastic news, koo-karoo!\nI want you to take me there as soon as\nyou can!")
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 9), ('param2', 1), ('next', 40), ('param3', 4)])
+						loadzone_temp_flags[9 /* 0x8 02 */] = true;
 						story_flags[1094 /* us: 805A9B52 0x10, jp: 805ACDD2 0x10 */] = true;
 					  case 1:
 						goto flw_21

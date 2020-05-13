@@ -86,7 +86,7 @@ void entrypoint_109_02() {
 		printf("######Thanks for stopping by. Welcome to\nthe home of Skyloft's most popular\nfather-and-daughter dream team.")
 		printf("######What? You tellin' me you don't know\nwho I am? Believe it or not, I used to\nbe the #####most popular guy in the sky#####!\nMr. Skyloft, that was me.\n######But#####...#####you might relate better if I told\nyou I was the proud father of Skyloft's\nmost popular girl: #####Peatrice#####, #####princess\nof the Item Check#####.\n######How's that? Does that clear anything\nup for you, young feller? Ha ha ha ha!")
 		story_flags[644 /* us: 805A9B1D 0x20, jp: 805ACD9D 0x20 */] = true;
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', -1), ('param3', 4)])
+		loadzone_temp_flags[2 /* 0x9 04 */] = true;
 	}
 }
 
@@ -98,7 +98,7 @@ void entrypoint_109_03() {
 	  case 0:
 		printf("######You want to try again? Need to blow\noff steam by mowin' down a tower of\nbamboo? It'll only cost you #####10 Rupees#####!\n#####I'm in!#####Rules?#####No, thanks.")
 		flw_3:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 0)])) {
+		switch (choice(3)) {
 		  case 0:
 			flw_16:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 20), ('param3', 10), ('param4', 2), ('param5', 7)])) {
@@ -226,7 +226,7 @@ void entrypoint_109_01() {
 				}
 			}
 		  case 1:
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 21), ('next', 41), ('param3', 4)])
+			loadzone_temp_flags[2 /* 0x9 04 */] = true;
 			switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
 			  case 0:
 				printf("######Aha! So you're rarin' to go, right?\n#####You bet!#####I'll pass.")
@@ -254,7 +254,7 @@ void entrypoint_109_01() {
 					}
 				  case 1:
 					printf("######You kiddin' me? Girls don't want to\nhit the town with a wet blanket, son.\n\n\n######Not that I want you anywhere near my\nlittle cupcake. No, sir! You lay a finger\non her, and you'll have to buy new\ngloves.")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 21), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[0 /* 0x9 01 */] = true;
 				}
 			  case 1:
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 7), ('param2', -256), ('next', 82), ('param3', 13)])
@@ -296,7 +296,7 @@ void entrypoint_109_01() {
 						story_flags[153 /* us: 805A9AE1 0x20, jp: 805ACD61 0x20 */] = true;
 						printf("######Come on back whenever you feel like\nyou might want to chisel up that\nsword arm!")
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 49), ('param3', 45)])
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 21), ('next', -1), ('param3', 4)])
+						loadzone_temp_flags[1 /* 0x9 02 */] = true;
 					  case 1:
 						printf("######Well, look at that.##### Now that I take a\ngander at the thing, it's clear you got\nyourself a stubby little sword.####\n You did\nmighty well considering that.\nSee, the longer the sword you got, the\neasier it is to zip through that bamboo\nlike a loaf of warm butter!\n\nIf you get yourself a longer blade in\nthe future, come back and try again.\nYou'll be surprised what a little extra\nsteel can do for your chopping score!")
 						goto flw_27

@@ -47,7 +47,7 @@ void entrypoint_117_23() {
 	printf("######I am so grateful that you brought \nthis lovely guy to help me!\n\n\nI'm going to ask him to help with all\nkinds of things! ######Thank##### you##### very,##### very,#####\nvery #####much!")
 	story_flags[472 /* us: 805A9B0E 0x10, jp: 805ACD8E 0x10 */] = true;
 	story_flags[366 /* us: 805A9B03 0x10, jp: 805ACD83 0x10 */] = true;
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 17), ('param2', 21), ('next', 386), ('param3', 28)])
+	temp_flags[17 /* 0x3 02 */] = true;
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 43)])
 }
 
@@ -62,7 +62,7 @@ void entrypoint_117_24() {
 	  case 0:
 		printf("######So what will it be?\n#####Harp.#####Soup.#####Nothing.")
 		flw_312:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 123)])) {
+		switch (choice(3)) {
 		  case 0:
 			switch (story_flags[737 /* us: 805A9B26 0x02, jp: 805ACDA6 0x02 */]) {
 			  case 0:
@@ -78,7 +78,7 @@ void entrypoint_117_24() {
 			  case 0:
 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 10), ('param3', 10), ('param4', 2), ('param5', 128)])) {
 				  case 0:
-					switch (bottles[1 0x0001]) {
+					switch (adventure_pouch_has(1 0x0001)) {
 					  case 0:
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 322), ('param3', 42)])
 						give_item(195 0xC3);
@@ -162,7 +162,7 @@ void entrypoint_117_25() {
 					}
 				}
 			  case 1:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 16), ('param3', 9), ('param4', 2), ('param5', 212)])) {
+				switch (temp_flags[16 /* 0x3 01 */]) {
 				  case 0:
 					printf("######I hope I can count on you when it comes\ntime to harvest the pumpkins again.\n#####You##### strong##### knight, you!")
 				  case 1:
@@ -208,8 +208,8 @@ void entrypoint_117_25() {
 			printf("######Thank##### you##### very##### much! I hope you'll\nstop in again soon.")
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 498), ('param3', 12)])
 			flw_498:
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 21), ('next', 512), ('param3', 28)])
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 21), ('next', -1), ('param3', 5)])
+			temp_flags[16 /* 0x3 01 */] = true;
+			loadzone_temp_flags[2 /* 0x9 04 */] = false;
 		  case 1:
 			printf("######I just knew you would come through.\nYou managed to carry them all!\n\n\n######I guess that means you're done carrying\npumpkins!\n\n\n######Thank##### you##### very##### much#####!")
 			story_flags[294 /* us: 805A9AFD 0x01, jp: 805ACD7D 0x01 */] = true;
@@ -217,7 +217,7 @@ void entrypoint_117_25() {
 		}
 	  case 2:
 		printf("######Awww, you dropped them! You can't\nbe careless like that...\n\n\n######If you want to try again, come on\nover here.")
-		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 21), ('next', -1), ('param3', 4)])
+		loadzone_temp_flags[2 /* 0x9 04 */] = true;
 	}
 }
 
@@ -242,7 +242,7 @@ void entrypoint_117_26() {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 10), ('param3', 10), ('param4', 2), ('param5', 76)])) {
 			  case 0:
-				switch (bottles[1 0x0001]) {
+				switch (adventure_pouch_has(1 0x0001)) {
 				  case 0:
 					printf("It's about time! Take this!")
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 117), ('param3', 42)])
@@ -352,7 +352,7 @@ void entrypoint_117_10() {
 								switch (story_flags[737 /* us: 805A9B26 0x02, jp: 805ACDA6 0x02 */]) {
 								  case 0:
 									printf("######Hey! So you're saying that you'll \nplay one more time for Kina?\n#####I'm in!#####Explain!#####No way.")
-									switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 118)])) {
+									switch (choice(3)) {
 									  case 0:
 										printf("######Great! I was hoping you'd say that.")
 										flw_383:
@@ -464,14 +464,14 @@ void entrypoint_117_10() {
 						  case 1:
 							switch (story_flags[291 /* us: 805A9AFA 0x20, jp: 805ACD7A 0x20 */]) {
 							  case 0:
-								switch (bottles[2 0x0002]) {
+								switch (adventure_pouch_has(2 0x0002)) {
 								  case 0:
 									printf("######That soup will be cold in##### five minutes#####!\nNow get on your way and deliver that\nsoup to the Knight Commander!")
 								  case 1:
-									switch (bottles[3 0x0003]) {
+									switch (adventure_pouch_has(3 0x0003)) {
 									  case 0:
 										printf("######Hey! Did you not hear a thing I said?\nYou let the soup get cold!\n\n\nI can't believe this... I'll fill it up again.")
-										switch (bottles[1 0x0001]) {
+										switch (adventure_pouch_has(1 0x0001)) {
 										  case 0:
 											flw_532:
 											OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 29), ('param3', 42)])
@@ -489,7 +489,7 @@ void entrypoint_117_10() {
 											printf("Hey! You haven't got an #####!\n\n\n\nYou need an ##### if you want\nto carry soup! Go get yourself one and\ncome back here.")
 										}
 									  case 1:
-										switch (bottles[1 0x0001]) {
+										switch (adventure_pouch_has(1 0x0001)) {
 										  case 0:
 											printf("######What's that? You don't have any\n#####?\n\n\n######Don't tell me you drank it!\n\n\n\nI guess there's nothing to be done\nabout it now. Here--take some more!")
 											goto flw_532
@@ -503,7 +503,7 @@ void entrypoint_117_10() {
 							  case 1:
 								switch (scene_flags[48 /* 0x7 01 */]) {
 								  case 0:
-									switch (bottles[1 0x0001]) {
+									switch (adventure_pouch_has(1 0x0001)) {
 									  case 0:
 										printf("######Oh, I see you brought an #####\nwith you like I asked. Great!")
 										flw_189:
@@ -532,7 +532,7 @@ void entrypoint_117_10() {
 											flw_17:
 											switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 10)])) {
 											  case 0:
-												switch (bottles[1 0x0001]) {
+												switch (adventure_pouch_has(1 0x0001)) {
 												  case 0:
 													goto flw_189
 												  case 1:
@@ -565,7 +565,7 @@ void entrypoint_117_10() {
 			  case 0:
 				printf("######Welcome! Can I interest you in a\nlittle #####pumpkin soup #####pick-me-up?\n#####Just a little.#####I'll pass.")
 				flw_558:
-				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 21), ('next', 73), ('param3', 4)])
+				loadzone_temp_flags[4 /* 0x9 10 */] = true;
 				goto flw_73
 			  case 1:
 				printf("######Welcome to every bird rider's favorite\nrest stop, the Lumpy Pumpkin!\n\n\nThis is the one and only place you can\nenjoy some of our famous #####pumpkin\n#####sou###############p#####!\n\nWhat do you think? Want to try a bit\nand see what all the buzz is about?\n#####Just a little.#####I'll pass.")
@@ -824,7 +824,7 @@ void entrypoint_117_30() {
 				}
 			  case 1:
 				printf("######You believe me, don't ya?!\n#####Believe what?#####Sure!#####No chance.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 1), ('param4', 3), ('param5', 35)])) {
+				switch (choice(3)) {
 				  case 0:
 					printf("######There's a fiendish demon living in\nSkyloft!\n\n\nI'm tellin' ya, I came this close to\ngetting eaten by that evil beast!\n\n\n######You look like you've gotten a little\nknight training, but you'd better keep\nyour guard up, or he'll take a bite out\nof you too!")
 				  case 1:
@@ -895,7 +895,7 @@ void entrypoint_117_50() {
 	start()
 	printf("###########WHY WOULD YOU DO\nTHAT?!\n\n\n#####Get down and come here this instant!")
 	story_flags[290 /* us: 805A9AFA 0x10, jp: 805ACD7A 0x10 */] = true;
-	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 21), ('next', -1), ('param3', 4)])
+	loadzone_temp_flags[3 /* 0x9 08 */] = true;
 }
 
 void entrypoint_117_16() {
@@ -943,7 +943,7 @@ void entrypoint_117_01() {
 					  case 0:
 						switch (story_flags[472 /* us: 805A9B0E 0x10, jp: 805ACD8E 0x10 */]) {
 						  case 0:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 17), ('param3', 9), ('param4', 2), ('param5', 218)])) {
+							switch (temp_flags[17 /* 0x3 02 */]) {
 							  case 0:
 								printf("######The fields are in good hands...er,\nclaws? He can easily do the work of a\nhundred people! I'm so lucky to have\nhim around.")
 							  case 1:
@@ -953,7 +953,7 @@ void entrypoint_117_01() {
 									OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 117), ('param2', 25), ('next', -1), ('param3', 7)])
 								  case 1:
 									printf("######Teehee! Ever since the mole man came,\nwork on the patch has been going like a\ndream!\n\nWe can grow way more pumpkins now!")
-									OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 21), ('next', 388), ('param3', 4)])
+									loadzone_temp_flags[7 /* 0x9 80 */] = true;
 									goto flw_388
 								}
 							}
@@ -1234,7 +1234,7 @@ void entrypoint_117_57() {
 					printf("######Flying through the holes in the rocks\nmakes flying so much faster. But it's an\nexperts-only kind of thing.\n\n######You're more likely to smack into the\nrock and have the opposite effect.\nHeh heh heh...\n")
 				  case 1:
 					printf("######Hey, ####. Wanna hear \nsome worthwhile information?\n\n\nEver come across those##### big rocks with\nholes #####while you're out flying?\n\n\nWell, there's a mysterious power or\nvortex or something in them. If you\nfly through it, you'll get a #####temporary#####\nboost of speed.\n######Skilled bird riders use this trick to\nget across that big sky quickly.")
-					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 21), ('next', -1), ('param3', 4)])
+					loadzone_temp_flags[5 /* 0x9 20 */] = true;
 				}
 			  case 1:
 				printf("######Hey, ####!\n\n\n\n######I didn't think I'd see you here.\nBet you're wondering what I'm \ndoing here.\n#####Yep.#####Not really.")

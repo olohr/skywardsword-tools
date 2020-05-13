@@ -111,7 +111,7 @@ void entrypoint_406_01() {
 					  case 1:
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 8), ('param2', 3333), ('next', 36), ('param3', 13)])
 						printf("You could at least let me explain\nthe rules...")
-						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 8), ('next', -1), ('param3', 4)])
+						loadzone_temp_flags[0 /* 0x9 01 */] = true;
 					}
 				  case 1:
 					printf("Hey, you! What are you doing?\n\n\n\nWell, you are here now...so how about a\nlittle fun?\n#####Fun?#####No way.")
@@ -151,7 +151,7 @@ void entrypoint_406_01() {
 								flw_64:
 								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 3), ('next', 50), ('param3', 45)])
 								printf("Hope you come by again soon!")
-								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 8), ('next', -1), ('param3', 4)])
+								loadzone_temp_flags[1 /* 0x9 02 */] = true;
 							  case 1:
 								story_flags[500 /* us: 805A9B12 0x04, jp: 805ACD92 0x04 */] = true;
 								goto flw_64
@@ -222,12 +222,12 @@ void entrypoint_406_01() {
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 106), ('param3', 46)])
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 8), ('param2', 3333), ('next', 49), ('param3', 13)])
 			printf("Well, come back anytime you want to\ngive it a try!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 8), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[1 /* 0x9 02 */] = true;
 		  case 3:
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 107), ('param3', 46)])
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 8), ('param2', 3333), ('next', 99), ('param3', 13)])
 			printf("Time is up. Try again next time!")
-			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 8), ('next', -1), ('param3', 4)])
+			loadzone_temp_flags[1 /* 0x9 02 */] = true;
 		}
 	  case 1:
 		switch (story_flags[507 /* us: 805A9B12 0x40, jp: 805ACD92 0x40 */]) {
