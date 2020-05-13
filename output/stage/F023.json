@@ -4679,7 +4679,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC FB",
-                            "name": "EvfTag"
+                            "name": "EvfTag",
+                            "extra_info": {
+                                "trigstoryfid": 365,
+                                "setstoryfid": 368,
+                                "event": 4,
+                                "trigstoryf": "Pumpkin Soup for Levias Collected, unset by picking up something else",
+                                "setstoryf": "Pumpkin Soup delivered on Rainbow Island"
+                            }
                         },
                         {
                             "unk1": "FF FF 80 91",

@@ -4846,7 +4846,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 9F",
-                            "name": "EvfTag"
+                            "name": "EvfTag",
+                            "extra_info": {
+                                "trigstoryfid": 790,
+                                "setstoryfid": 791,
+                                "event": 12,
+                                "trigstoryf": "Set going close to imp spike first time (unset later)",
+                                "setstoryf": "Set going close to imp spike first time (unset later)"
+                            }
                         },
                         {
                             "unk1": "89 4A CF FF",
@@ -4894,7 +4901,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC A2",
-                            "name": "EvfTag"
+                            "name": "EvfTag",
+                            "extra_info": {
+                                "trigstoryfid": 789,
+                                "setstoryfid": 792,
+                                "event": 13,
+                                "trigstoryf": "Set after skyward striking imp spike first time (allows dowsing option [still needs a goddess sword])",
+                                "setstoryf": "Door to sealed temple unlocking cutscene"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",

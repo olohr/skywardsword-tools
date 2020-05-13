@@ -1434,7 +1434,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 3A",
-                            "name": "EvfTag"
+                            "name": "EvfTag",
+                            "extra_info": {
+                                "trigstoryfid": 1023,
+                                "setstoryfid": 157,
+                                "event": 3,
+                                "trigstoryf": "",
+                                "setstoryf": "Ancient Harbour Introductory Cutscene"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 8F",

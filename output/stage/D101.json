@@ -3774,7 +3774,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC B3",
-                            "name": "EvfTag"
+                            "name": "EvfTag",
+                            "extra_info": {
+                                "trigstoryfid": 1023,
+                                "setstoryfid": 155,
+                                "event": 1,
+                                "trigstoryf": "",
+                                "setstoryf": "Ancient Cistern Introductory Cutscene (lilypad outside AC appears) (Outside AC layer 2)"
+                            }
                         }
                     ]
                 },

@@ -19133,7 +19133,14 @@
                             "angle": 6007,
                             "talk_behaviour": 0,
                             "unk3": "FD EF",
-                            "name": "EvfTag"
+                            "name": "EvfTag",
+                            "extra_info": {
+                                "trigstoryfid": 1023,
+                                "setstoryfid": 678,
+                                "event": 25,
+                                "trigstoryf": "",
+                                "setstoryf": "Entering Sky Keep Cutscene"
+                            }
                         },
                         {
                             "unk1": "FF FF FF E1",
@@ -23428,7 +23435,14 @@
                             "angle": 6371,
                             "talk_behaviour": 0,
                             "unk3": "FD EC",
-                            "name": "EvfTag"
+                            "name": "EvfTag",
+                            "extra_info": {
+                                "trigstoryfid": 1023,
+                                "setstoryfid": 171,
+                                "event": 26,
+                                "trigstoryf": "",
+                                "setstoryf": "Cutscene before entering Waterfall Cave before rescuing Loftwing"
+                            }
                         },
                         {
                             "unk1": "FF F8 AB 1A",
@@ -23444,7 +23458,14 @@
                             "angle": 6371,
                             "talk_behaviour": 0,
                             "unk3": "FD ED",
-                            "name": "EvfTag"
+                            "name": "EvfTag",
+                            "extra_info": {
+                                "trigstoryfid": 1023,
+                                "setstoryfid": 171,
+                                "event": 26,
+                                "trigstoryf": "",
+                                "setstoryf": "Cutscene before entering Waterfall Cave before rescuing Loftwing"
+                            }
                         },
                         {
                             "unk1": "FF FF FF E1",

@@ -177,6 +177,11 @@ def objAddExtraInfo(parsed_item):
         extraInfo['trigscenefid'] = parsed_item['unk1'][1]
         extraInfo['setscenefid'] = parsed_item['unk1'][2]
         extraInfo['event'] = parsed_item['unk1'][3]
+    elif parsed_item['name'] == 'EvfTag':
+        firstword = read_word(parsed_item['unk1'])
+        extraInfo['trigstoryfid'] = (firstword >> 19) & 0x3FF
+        extraInfo['setstoryfid'] = (firstword >> 8) & 0x3FF
+        extraInfo['event'] = parsed_item['unk1'][3]
     elif parsed_item['name'] == 'TDoorB': # closed gate of time
         firstword = read_word(parsed_item['unk1'])
         extraInfo['trigstoryfid'] = firstword & 0x7FF

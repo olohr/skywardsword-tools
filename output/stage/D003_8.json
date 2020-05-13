@@ -306,7 +306,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 06",
-                            "name": "EvfTag"
+                            "name": "EvfTag",
+                            "extra_info": {
+                                "trigstoryfid": 645,
+                                "setstoryfid": 1023,
+                                "event": 0,
+                                "trigstoryf": "Set when beating Sky Keep",
+                                "setstoryf": ""
+                            }
                         }
                     ]
                 },
