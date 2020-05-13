@@ -12,7 +12,7 @@ void entrypoint_004_107() {
 		flw_59:
 		printf("A #####dragon##### is said to live at the #####peak #####of\nthis volcano. You're nowhere near the\npeak, though!")
 		printf("Do you want to hear that again?\n#####Yes.#####No.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 15)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			goto flw_59
 		  case 1:
@@ -44,7 +44,7 @@ void entrypoint_004_108() {
 		flw_52:
 		printf("The word going around is that a #####dragon#####\nwrapped in flames lives atop this\nvolcano.\n\nThe thing is, it isn't so easy to visit.\nHe's made his lair #####somewhere so hot\n#####that normal folks can't bother him.")
 		printf("Do you want to hear that again?\n#####Yes.#####No.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 11)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			goto flw_52
 		  case 1:
@@ -66,7 +66,7 @@ void entrypoint_004_109() {
 void entrypoint_004_016() {
 	start()
 	printf("####How long do you want to sleep?###\n#####Until morning.#####Until night.#####Don't sleep.")
-	switch (choice(3)) {
+	switch (choice(3, 1)) {
 	  case 0:
 	  case 1:
 	  case 2:
@@ -81,7 +81,7 @@ void entrypoint_004_110() {
 void entrypoint_004_017() {
 	start()
 	printf("Descend into this area?\n#####Yes.#####No.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 17)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 	  case 1:
 	}
@@ -172,7 +172,7 @@ void entrypoint_004_100() {
 void entrypoint_004_008() {
 	start()
 	printf("Do you want to leave this\nSilent Realm?\n#####Leave.#####Stay.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 	  case 1:
 	}

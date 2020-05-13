@@ -25,7 +25,7 @@ void entrypoint_502_07() {
 void entrypoint_502_08() {
 	start()
 	printf("######Master ####, have you\nfinished with your preparations for\nthe battle ahead?\n#####All ready!#####Not yet...")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 32)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("######Yes, Master. Let us proceed to the\nbattle at once.")
 		changeScene(11, 0) // 
@@ -37,7 +37,7 @@ void entrypoint_502_08() {
 void entrypoint_502_09() {
 	start()
 	printf("######Master ####, do you wish\nto retreat temporarily in order to\nresupply yourself for the final battle?\n#####Yes!#####I'm fine.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 30)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("######Understood, Master. Please return\nhere when your preparations are\ncomplete.")
 		changeScene(10, 0) // 
@@ -71,7 +71,7 @@ void entrypoint_502_01() {
 						printf("######A tree that grows strong for thousands\nof years... If only I could find the\n#####seedling##### of such a tree...")
 					  case 1:
 						printf("#####.#####.#####.######Hmm...\n\n\n#####What's up?#####See you later.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 18)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							printf("######Oh, it's a matter of no great concern...")
 							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 101), ('next', 58), ('param3', 32)])
@@ -160,7 +160,7 @@ void entrypoint_502_03() {
 void entrypoint_502_04() {
 	start()
 	printf("######Master ####, I have\nimportant information for you.\n\n\nOnce you enter this portal, my analysis\nindicates a 0% chance that you will be\nable to return, unless you are able\nto vanquish your foe.\nAre you ready to proceed?\n#####I'm ready!#####Not yet...")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 24)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("######Understood, Master ####.#####\nKnow that even in the place that lies\nbeyond this portal, I will be with you...\n\n######And, Master...#####good luck.")
 	  case 1:

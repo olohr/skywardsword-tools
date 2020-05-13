@@ -8,20 +8,20 @@ void entrypoint_124_00() {
 		  case 0:
 			printf("So you're looking to buy then, eh?\n#####Please!#####Nah...")
 			flw_3:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 4), ('param3', 12)])
 				printf("Excellent! So, tell me, what kind of\ntreasure are you in the market for?\n###################################Other.")
 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 2)])) {
 				  case 0:
 					printf("OK, one ##### it is!\nFor #####200 Rupees#####, it's all yours!\n#####Sounds good!#####Too much.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 6)])) {
+					switch (choice(2, 0)) {
 					  case 0:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 200), ('param3', 10), ('param4', 2), ('param5', 8)])) {
+						switch (has_rupees(200)) {
 						  case 0:
 							printf("And we have a deal! Here's your\nnot-at-all-shady treasure!")
 							loadzone_temp_flags[0 /* 0x9 01 */] = true;
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -200), ('next', 38), ('param3', 8)])
+							rupees += -200;
 							loadzone_temp_flags[4 /* 0x9 10 */] = true;
 						  case 1:
 							printf("Hmm. Looking a little short on funds\nthere, friend. Oh well. When you\nscrape together the Rupees, you know\nI'll be here.")
@@ -31,13 +31,13 @@ void entrypoint_124_00() {
 					}
 				  case 1:
 					printf("OK, one ##### it is! This baby's\nall yours for just #####200 Rupees#####.\n#####Sounds good!#####Too much.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 10)])) {
+					switch (choice(2, 0)) {
 					  case 0:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 200), ('param3', 10), ('param4', 2), ('param5', 12)])) {
+						switch (has_rupees(200)) {
 						  case 0:
 							printf("And we have a deal! Here's your\nnot-at-all-shady treasure!")
 							loadzone_temp_flags[1 /* 0x9 02 */] = true;
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -200), ('next', 39), ('param3', 8)])
+							rupees += -200;
 							loadzone_temp_flags[4 /* 0x9 10 */] = true;
 						  case 1:
 							printf("Hmm. Looking a little short on funds\nthere, friend. Oh well. When you\nscrape together the Rupees, you know\nI'll be here.")
@@ -47,13 +47,13 @@ void entrypoint_124_00() {
 					}
 				  case 2:
 					printf("OK, one ##### coming right\nup! That'll be just #####200 Rupees#####, friend.\n#####Sounds good!#####Too much.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 14)])) {
+					switch (choice(2, 0)) {
 					  case 0:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 200), ('param3', 10), ('param4', 2), ('param5', 16)])) {
+						switch (has_rupees(200)) {
 						  case 0:
 							printf("And we have a deal! Here's your\nnot-at-all-shady treasure!")
 							loadzone_temp_flags[2 /* 0x9 04 */] = true;
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -200), ('next', 40), ('param3', 8)])
+							rupees += -200;
 							loadzone_temp_flags[4 /* 0x9 10 */] = true;
 						  case 1:
 							printf("Hmm. Looking a little short on funds\nthere, friend. Oh well. When you\nscrape together the Rupees, you know\nI'll be here.")
@@ -66,13 +66,13 @@ void entrypoint_124_00() {
 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 28)])) {
 					  case 0:
 						printf("OK, one ##### it is! It's a steal at\njust #####100 Rupees#####.\n#####Sounds good!#####Too much.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 18)])) {
+						switch (choice(2, 0)) {
 						  case 0:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 100), ('param3', 10), ('param4', 2), ('param5', 26)])) {
+							switch (has_rupees(100)) {
 							  case 0:
 								printf("And we have a deal! Here's your\nnot-at-all-shady treasure!")
 								loadzone_temp_flags[3 /* 0x9 08 */] = true;
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -100), ('next', 41), ('param3', 8)])
+								rupees += -100;
 								loadzone_temp_flags[4 /* 0x9 10 */] = true;
 							  case 1:
 								printf("Hmm. Looking a little short on funds\nthere, friend. Oh well. When you\nscrape together the Rupees, you know\nI'll be here.")
@@ -82,13 +82,13 @@ void entrypoint_124_00() {
 						}
 					  case 1:
 						printf("OK, one ##### it is!\nFor #####100 Rupees##### it's all yours!\n#####Sounds good!#####Too much.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 32)])) {
+						switch (choice(2, 0)) {
 						  case 0:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 100), ('param3', 10), ('param4', 2), ('param5', 34)])) {
+							switch (has_rupees(100)) {
 							  case 0:
 								printf("And we have a deal! Here's your\nnot-at-all-shady treasure!")
 								loadzone_temp_flags[6 /* 0x9 40 */] = true;
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -100), ('next', 62), ('param3', 8)])
+								rupees += -100;
 								loadzone_temp_flags[4 /* 0x9 10 */] = true;
 							  case 1:
 								printf("Hmm. Looking a little short on funds\nthere, friend. Oh well. When you\nscrape together the Rupees, you know\nI'll be here.")
@@ -98,13 +98,13 @@ void entrypoint_124_00() {
 						}
 					  case 2:
 						printf("OK, one ##### it is!\nFor #####100 Rupees##### it's all yours!\n#####Sounds good!#####Too much.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 36)])) {
+						switch (choice(2, 0)) {
 						  case 0:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 100), ('param3', 10), ('param4', 2), ('param5', 38)])) {
+							switch (has_rupees(100)) {
 							  case 0:
 								printf("And we have a deal! Here's your\nnot-at-all-shady treasure!")
 								loadzone_temp_flags[7 /* 0x9 80 */] = true;
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -100), ('next', 71), ('param3', 8)])
+								rupees += -100;
 								loadzone_temp_flags[4 /* 0x9 10 */] = true;
 							  case 1:
 								printf("Hmm. Looking a little short on funds\nthere, friend. Oh well. When you\nscrape together the Rupees, you know\nI'll be here.")

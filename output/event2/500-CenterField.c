@@ -14,12 +14,12 @@ void entrypoint_500_37() {
 			printf("######According to some of the ancient texts\nI have read, there is a place way up in\nthe sky called the #####Isle of the Goddess#####.\n\nOld statues like the one behind me\nwere placed here to provide travelers\nwith a way back up to the island.\n\nMy research seems to suggest this\nparticular statue is special in that\nit alone holds the power to #####activate#####\nall the other statues.\n######Hey, I will be the first one to admit it\nsounds like something out of a fairy\ntale, but I am starting to believe it!\n\n######I mean, if that is not true, then what\nare all these statues doing all over\nthis land?")
 			flw_62:
 			printf("######It is a real head-scratcher, bud. Makes\nyou want to know more, does it not?\n#####Yeah!#####Not really...")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 73)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Ah, sounds like I have a fellow\nconnoisseur of ancient cultures here!\n\n\n######All right, bud, you had better brace\nyourself, because I am about to blow\nyour mind.\n\nSo get this: people actually live on this\nsky island, and they get around by\nflying on the backs of huge birds that\nare way bigger than birds down here!\n######Up there everyone reveres the goddess,\nand the residents of all the islands\nin the sky live in a perfect society,\ntotally free of conflict or unhappiness!\n######Not only that, but from what I can tell,\ntheir civilization is way, way more\nadvanced than ours down here.")
 				printf("######But it does not even stop there, bud!\nThis Isle of the Goddess has even more\nstuff to marvel at!\n\n######The place was crafted by the goddess\nherself, so it figures that it is filled \nwith wonders we do not have here.\n\n######The buildings are all made of gold!\nAn endless spring of mystical water\nfeeds a river through the place. One\nsip of that stuff, and you live forever!\n######The trees are heavy with plump fruit\nthat cures all disease! The fields are \ncrowded with pumpkins that never rot!\nMagic wildflowers bloom everywhere!\n######And the weather. Oh, the weather, bud!\nNot too hot, not too cold. No chance of\nsweaty heat in this garden paradise!\nThat is the Isle of the Goddess...\n###########Amazing, right?##### WRONG!\nIT IS BEYOND AMAZING!\n\n\n####!######You want to hear more \nabout it, don't you, bud?\n#####Sure!#####Nah...")
 				scene_flags[10 'Sealed Grounds'][109 /* 0xC 20 */] = true;
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 75)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("####'#Good to hear, bud! I am completely\nobsessed with this place. I cannot get\nenough of it!\n\n######I wish I had more to tell you now,\nbut I will need to research these statues\nto learn more.\n\n######Next time I bump into you, I will give\nyou the latest info!")
 					flw_433:
@@ -472,12 +472,12 @@ void entrypoint_500_29() {
 							  case 0:
 								flw_194:
 								printf("#####&So, where you flying to today?\n#####The sky!#####The surface.#####Never mind!")
-								switch (choice(3)) {
+								switch (choice(3, 1)) {
 								  case 0:
 									switch (story_flags[394 /* us: 805A9B0C 0x10, jp: 805ACD8C 0x10 */]) {
 									  case 0:
 										printf("Somewhere fun in the sky, huh?\nWhat kind of fun are you looking for?\n#####Skydiving.#####Bug hunting.#####Something else...")
-										switch (choice(3)) {
+										switch (choice(3, 1)) {
 										  case 0:
 											flw_209:
 											loadzone_temp_flags[1 /* 0x9 02 */] = true;
@@ -490,7 +490,7 @@ void entrypoint_500_29() {
 											goto flw_204
 										  case 2:
 											printf("What kind of fun are you looking for?\nAnything in particular?\n#####Cutting!#####Shooting!#####Never mind.")
-											switch (choice(3)) {
+											switch (choice(3, 1)) {
 											  case 0:
 												flw_203:
 												loadzone_temp_flags[3 /* 0x9 08 */] = true;
@@ -559,7 +559,7 @@ void entrypoint_500_29() {
 						}
 					  case 1:
 						printf("######Want to head to Faron Woods, do you?\n\n\n\nNo sweat. Just hop on into the\n#####Groosenator#####, and I'll fling you over!\n#####OK!#####No way.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 6)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							printf("#####BAll right! Hop in, and I'll take care of\nthe flingin'. You just worry about\nthe landing...")
 							loadzone_temp_flags[0 /* 0x9 01 */] = true;
@@ -734,7 +734,7 @@ void entrypoint_500_13() {
 	printf("######Master ####, I'm sensing\na change in the area that was triggered\nby your Skyward Strike.")
 	printf("I have also detected an aura that\ncorrelates closely to your Sailcloth.\nI surmise this aura belongs to Zelda.\n\nI can lead you in the direction of this\naura through a process known as\n###########dowsing#####.\n\nWould you like me to explain this\nprocess to you?\n#####Please!#####Nah...")
 	story_flags[100 /* us: 805A9ADE 0x02, jp: 805ACD5E 0x02 */] = true;
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 81)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("######As you wish, Master.\n\n\n\nDowsing is when I detect the presence \nof the aura of something you wish to\nsearch for using the tip of the sword.\n\nThe nearer you are to an object\nemitting the aura in question, the\n#####stronger the response will be#####.\n\nThis response manifests itself through\nvibration and sound. The direction of\nthe object emitting the aura is\nindicated by the purple #####pointer #####you see.")
 		flw_570:

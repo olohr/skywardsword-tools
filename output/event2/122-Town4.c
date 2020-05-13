@@ -166,7 +166,7 @@ void entrypoint_122_24() {
 void entrypoint_122_08() {
 	start()
 	printf("#####VAll that lug does is make one filthy\nmess after another. I swear he leaves\na grease spot wherever he sits!\n\nI know he likes tinkering around with\nhis oily doodads, but I'm drowning in\ndirty laundry here!\n\n#####That lug? #####Sounds tough.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("That's right! My greasy-fingered son\nwho runs the Scrap Shop in the bazaar!")
 		goto flw_85
@@ -362,7 +362,7 @@ void entrypoint_122_16() {
 		printf("Stop by and chat with me once in a\nwhile, you hear? I may be old, but I'm\nnot boring.")
 	  case 1:
 		printf("Heh heh heh. Seems like you're on the\nroad to success, little friend. How 'bout\nI buy us a beverage?\n#####Thanks! #####Nah.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 42)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######There's a good lad. Cheers!")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 30), ('next', 147), ('param3', 47)])

@@ -88,7 +88,7 @@ void entrypoint_111_01() {
 																			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 90), ('param2', 0), ('next', 178), ('param3', 51)])
 																			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 100), ('next', 95), ('param3', 16)])
 																			printf("I calculate a 60% probability that the\nobject you seek is in the woods.\nI advise you to search there.\n\n######Do you want me to calibrate your\n#####dowsing##### ability to search for the\n#####Water Basin#####?\n#####Yep!#####No, thanks.")
-																			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 60)])) {
+																			switch (choice(2, 0)) {
 																			  case 0:
 																				story_flags[669 /* us: 805A9B1E 0x08, jp: 805ACD9E 0x08 */] = true;
 																				story_flags[668 /* us: 805A9B1E 0x04, jp: 805ACD9E 0x04 */] = false;
@@ -171,7 +171,7 @@ void entrypoint_111_01() {
 																						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 90), ('param2', 0), ('next', 177), ('param3', 51)])
 																						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 100), ('next', 108), ('param3', 16)])
 																						printf("")
-																						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 64)])) {
+																						switch (choice(2, 0)) {
 																						  case 0:
 																							story_flags[668 /* us: 805A9B1E 0x04, jp: 805ACD9E 0x04 */] = true;
 																							story_flags[669 /* us: 805A9B1E 0x08, jp: 805ACD9E 0x08 */] = false;
@@ -254,18 +254,18 @@ void entrypoint_111_01() {
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 13), ('param3', 12)])
 			printf("######You there! I see you, yes! Come, allow\nme to foresee your own fortune. It'll\ncost just##### 10 Rupees #####to light the way\nalong your cloudy path ahead.\nDo you hunger to know what these\nbig, lovely eyes will behold? Shall I\nbegin? It'll cost but #####1##########0 Rupees#####.\n#####Please!#####No, thanks.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 8)])) {
+			switch (choice(2, 0)) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 10), ('param3', 10), ('param4', 2), ('param5', 16)])) {
+				switch (has_rupees(10)) {
 				  case 0:
-					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -10), ('next', 160), ('param3', 8)])
+					rupees += -10;
 					flw_160:
 					switch (story_flags[131 /* us: 805A9AE4 0x02, jp: 805ACD64 0x02 */]) {
 					  case 0:
 						printf("So, what information do you seek?\nWhat is it that you want to know?\n#####Where to next?#####Treasure!")
 						scene_flags[0 'Skyloft'][86 /* 0xB 40 */] = true;
 						OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 142), ('param3', 12)])
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 76)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							printf("Magnificent! Come closer, then! Let us\nsee what I can...see!")
 							flw_38:
@@ -296,12 +296,12 @@ void entrypoint_111_01() {
 		scene_flags[0 'Skyloft'][26 /* 0x2 04 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 1), ('param3', 12)])
 		printf("######Gaze into my eyes... Stare deeply into\nmy eyes... These eyes see many things.\nOh yes, these lovely, round eyes can\neven see...into the future!\nAllow me to tell your fortune, boy!\nDo you doubt these eyes? I look upon\nyour shirt, boy, and I see a single\nthread loose on your sleeve stitching!\nNothing can hide from these eyes!\nNormally, I seek 10 Rupees to tell a\nfortune, but this time I will charge but\n#####1 Rupee#####.\nSo do you want me to tell your\nfortune? Do you dare discover what\nfate these eyes see? Only #####1 Rupee#####!\n#####OK.#####Maybe later.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			flw_25:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 1), ('param3', 10), ('param4', 2), ('param5', 14)])) {
+			switch (has_rupees(1)) {
 			  case 0:
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -1), ('next', 8), ('param3', 8)])
+				rupees += -1;
 				printf("#####\nYessssss! I knew it! Aha... What a treat!\nYou are the first customer I've had in\na while!\n\nOh#####...##### I mean, I'm the best at what I do!\nYou can trust these glistening eyes!")
 				goto flw_160
 			  case 1:
@@ -309,12 +309,12 @@ void entrypoint_111_01() {
 			}
 		  case 1:
 			printf("######I'm hurt! Is this how you respond to\nkindness?\n\n\nDon't you trust these big, round, \nall-seeing eyes? I might not look on\nyou so favorably next time. Are you\nsure you don't want your fortune told?#####Actually...#####No, thanks.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				goto flw_25
 			  case 1:
 				printf("You are stubborn...but I saw that\nfrom across the room. I can also see\non your face that you don't believe in\nfortune-telling.\nGetting your fortune told will aid you\non your path... Aren't you curious\nabout what these large, dewy eyes\nwill behold?\n#####OK, OK.#####No!")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					goto flw_25
 				  case 1:
@@ -428,12 +428,12 @@ void entrypoint_111_11() {
 			flw_140:
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 47), ('param3', 12)])
 			printf("Come now! Let me see into the future\nwith these big, round eyes! And you\nget my special rate--half off!\n\nShall I begin to peer into your future?\nIt'll be #####5 Rupees#####. What do you say?\n#####Sure!#####No, thanks.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 24)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 501), ('param2', 5), ('next', 196), ('param3', 23)])
 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 100)])) {
 				  case 0:
-					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -5), ('next', 49), ('param3', 8)])
+					rupees += -5;
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 111), ('param2', 3), ('next', -1), ('param3', 7)])
 				  case 1:
 					printf("######But what's this, young man?!\nI see you have no money at all!\n\n\nLook into these steely, unflinching eyes\nand you will see that no amount of\npleading will get me to lower my price.\nReturn with money!")

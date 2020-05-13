@@ -26,7 +26,7 @@ void entrypoint_008_004() {
 void entrypoint_008_005() {
 	start()
 	printf("Hey, how's it going? I've got a new\nhint for you! Wanna see it?\n#####Sure!#####No need.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		changeScene(62, 0) // {'name': 'F000', 'room': 0, 'layer': 22, 'entrance': 96, 'byte4': 2, 'byte5': 0, 'flag6': 0, 'zero': 0, 'flag8': 0}
 	  case 1:
@@ -40,7 +40,7 @@ void entrypoint_008_006() {
 	  case 0:
 		printf("Heya, friend.####\n Just so you know, I've\ngot every hint here ready for you!\nWanna see a hint?\n#####Sure!#####Nah.")
 		flw_9:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			changeScene(62, 0) // {'name': 'F000', 'room': 0, 'layer': 22, 'entrance': 96, 'byte4': 2, 'byte5': 0, 'flag6': 0, 'zero': 0, 'flag8': 0}
 		  case 1:

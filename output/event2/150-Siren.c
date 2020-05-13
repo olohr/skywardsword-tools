@@ -83,7 +83,7 @@ void entrypoint_150_00() {
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 0), ('next', 15), ('param3', 39)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 31), ('param2', 1), ('next', 26), ('param3', 40)])
 			printf("When you have filled the ##########\n#####once more, you shall finally be \nrecognized as the true hero of legend.\n\nOnly then will you be shown the door\nthat will lead you to the #####Triforce#####.\n######Master, I wish you success in this trial.\n\nDo you have any questions before you\nface the task ahead of you?\n#####Yes.#####No.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 10)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("Which topic do you wish to review?\n\n\n#####The #####?#####Guardians?#####Waking Water?#####Never mind.")
 				flw_59:

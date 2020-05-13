@@ -10,7 +10,7 @@ void entrypoint_101_31() {
 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 6)])) {
 	  case 0:
 		printf("######You've got quite an eye, friend. Those\n############### do make a\nstrong point!\n\nDo be careful not to accidentally shoot\npeople! That would be quite rude.\nThey cost a mere #####20 Rupees#####.\n#####OK! #####No, thanks.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 26)])
 		  case 1:
@@ -29,7 +29,7 @@ void entrypoint_101_32() {
 	  case 0:
 		printf("######Ahaa! I see you eyeing those\n#########)#####. So loud. So\nsatisfyingly smoky. And, oh yes,\nso very destructive!\nOne good blast, and even a sturdy\nwall can't hope to remain standing.\n\n\nKA-BOOM! All yours for #####20 Rupees#####.\n#####OK!#####No, thanks.")
 		flw_33:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 10)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 26)])
 		  case 1:
@@ -71,7 +71,7 @@ void entrypoint_101_01() {
 		flw_41:
 		printf("######Ahaa! How can I assist you, friend?\n#####How do I shop?#####I'm fine.")
 		flw_1:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("Oh, yes, yes! Allow me to explain!\n\n\n\nAll you need to do is stand in front of\nany of my wares and press ##### to\nexamine its beauty. Take your time\nand shop to your heart's delight!\nIt's always free to look, my friend, and\nthere's no pressure to buy!\nNo pressure at all...")
 			switch (story_flags[809 /* us: 805A9B31 0x02, jp: 805ACDB1 0x02 */]) {

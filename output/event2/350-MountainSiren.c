@@ -82,7 +82,7 @@ void entrypoint_350_00() {
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 0), ('next', 9), ('param3', 39)])
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 31), ('param2', 1), ('next', 6), ('param3', 40)])
 			printf("When your vessel is full, your spirit\nwill grow and you will be entrusted\nwith a #####new power #####by the goddess.\n\nDo you have any questions?\n#####Yes!#####No.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("Which topic do you wish to review?\n\n\n#####The #####?#####Guardians?#####Waking Water?#####Never mind.")
 				flw_51:

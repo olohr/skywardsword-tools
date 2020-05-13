@@ -28,12 +28,12 @@ void entrypoint_302_01() {
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 19), ('param2', 5638), ('next', 59), ('param3', 13)])
 						printf("It's #####30 Rupees #####to play. Want to give\nit a go?\n#####You bet!#####Nope.")
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -1), ('next', 37), ('param3', 13)])
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 18)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 501), ('param2', 30), ('next', 109), ('param3', 23)])
 							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 37)])) {
 							  case 0:
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -30), ('next', 90), ('param3', 8)])
+								rupees += -30;
 								OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 18), ('param2', 5400), ('next', 34), ('param3', 13)])
 								printf("Hope you dig up lots of Rupees!\nJust be careful what you're poking\ndown in the dirt. Could go KA-BOOM!\nSo uh...good luck!")
 								temp_flags[14 /* 0x0 40 */] = true;
@@ -60,11 +60,11 @@ void entrypoint_302_01() {
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 19), ('param2', 5638), ('next', 22), ('param3', 13)])
 						printf("It'll cost you #####50 Rupees #####a go.\nInterested?\n#####Sure.#####Nope.")
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -1), ('next', 31), ('param3', 13)])
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 16)])) {
+						switch (choice(2, 0)) {
 						  case 0:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 50), ('param3', 10), ('param4', 2), ('param5', 14)])) {
+							switch (has_rupees(50)) {
 							  case 0:
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -50), ('next', 96), ('param3', 8)])
+								rupees += -50;
 								OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 18), ('param2', 5400), ('next', 27), ('param3', 13)])
 								printf("Hope you dig up lots of Rupees!\nJust be careful what you're poking\ndown in the dirt. Could go KA-BOOM!\nSo uh...good luck!")
 								temp_flags[15 /* 0x0 80 */] = true;
@@ -91,12 +91,12 @@ void entrypoint_302_01() {
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 19), ('param2', 5638), ('next', 23), ('param3', 13)])
 						printf("Each round costs #####70 Rupees#####. Do you\ndare to try?\n#####Sure.#####Nope.")
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -1), ('next', 24), ('param3', 13)])
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 12)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 501), ('param2', 70), ('next', 112), ('param3', 23)])
 							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 39)])) {
 							  case 0:
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -70), ('next', 98), ('param3', 8)])
+								rupees += -70;
 								OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 18), ('param2', 5400), ('next', 6), ('param3', 13)])
 								printf("Hope you dig up lots of Rupees!\nJust be careful what you're poking\ndown in the dirt. Could go KA-BOOM!\nSo uh...good luck!")
 								temp_flags[16 /* 0x3 01 */] = true;
@@ -217,7 +217,7 @@ void entrypoint_302_04() {
 void entrypoint_302_05() {
 	start()
 	printf("######Ah, you're taking a break? Too much\nsuspense for you?\n\n\nWell then, will you take a load off and\nchat with me a bit?#####OK.#####Not now.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 41)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("######Oh, yes! OK, OK...is there anything\nyou want to ask me?###########Who are you?#####Are you floating?#####Is it too bright for you?#####Nothing.######")
 		flw_123:

@@ -70,7 +70,7 @@ void entrypoint_108_05() {
 	switch (story_flags[226 /* us: 805A9AF2 0x08, jp: 805ACD72 0x08 */]) {
 	  case 0:
 		printf("######Yes. It looks like you've mastered\n#####dashing##### with #####. Just remember, if you\noverdo it, your stamina gauge will run\nout and you'll be huffing and puffing.\nAll right, then. You know what to do\nnext, right?\n#####Tell me!#####I know.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 88)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("You can easily jump a distance like\nthat just by jogging along toward it.\nYou'll #####autojump##### right across.\n\nAutojump#####...##### #####No matter how many\ntimes I say it, I never get tired of\nhearing it! A name for the ages, surely.")
 		  case 1:
@@ -292,7 +292,7 @@ void entrypoint_108_13() {
 		  case 0:
 			flw_108:
 			printf("######Hey, ####! Want to try\nsome Spiral Charge training?\n#####Yep!#####Later.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 38)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Excellent. That's what I want to hear!\nWell then, dive off this platform.")
 				scene_flags[0 'Skyloft'][77 /* 0x8 20 */] = false;
@@ -307,7 +307,7 @@ void entrypoint_108_13() {
 			switch (story_flags[643 /* us: 805A9B1D 0x10, jp: 805ACD9D 0x10 */]) {
 			  case 0:
 				printf("######What's wrong?! Hurry up and dive off\nthe platform! Are you having second\nthoughts?\n#####I'll do it!#####I quit.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 40)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######Ah! That's the answer I was looking\nfor. Take to the skies,\n####!")
 					loadzone_temp_flags[13 /* 0x8 20 */] = true;
@@ -383,7 +383,7 @@ void entrypoint_108_17() {
 void entrypoint_108_18() {
 	start()
 	printf("######Ah, ####! You'd like a\nlesson from me, even at a time like\nthis?\n#####Please!#####No...")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 48)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("Well, well! Such enthusiasm!\n\n\n\nAllow me tell you about the history of\nSkyloft!\n\n\nSkyloft is an island that has floated\nhere for ages... Thousands of years.\n\n\nOur ancestors have always lived on this \nisland, as well as the surrounding\nislands in the sky.\n\n######There is an impenetrable barrier of\nclouds below Skyloft. Nobody who has\nfallen down through the clouds has\never been seen again.\nThey say there is a vast expanse of\npure nothingness beneath the clouds!\n\n\n####\n#Ah, but that's a good place to leave it\ntoday. You'd better go prepare for the\nWing Ceremony.")
 	  case 1:
@@ -417,7 +417,7 @@ void entrypoint_108_01() {
 			switch (scene_flags[30 /* 0x2 40 */]) {
 			  case 0:
 				printf("####\n#Ahhh, I'm so glad Mia is safe.\n\n\n#####\n###########Such an odd creature, the #####Remlit#####.\nShe may look cuddly now, but at night,\nit's another story entirely!\n#####Why?#####At night?")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 8)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("Hmm... You don't know what happens\nto Remlits at night?\n\n\nIt's frightening, really...")
 					flw_13:
@@ -445,7 +445,7 @@ void entrypoint_108_01() {
 				switch (temp_flags[1 /* 0x1 02 */]) {
 				  case 0:
 					printf("######So will you help by finding Mia and\nbringing her back to me?\n#####Sure!#####Nah.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						flw_2:
 						printf("######Fantastic! So you'll do it?! I know\nyou're in a hurry, so I really appreciate\nyour taking the time to help.")
@@ -464,7 +464,7 @@ void entrypoint_108_01() {
 						printf("Perfect timing, then!\n\n\n\nYou see, Zelda's father--Headmaster\n#####Gaepora#####--has a pet named #####Mia#####, and,\nwell...she's scampered off again.")
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 12), ('param2', 0), ('next', 236), ('param3', 39)])
 						printf("Look!##\n### Over there! Do you see her?\n\n\n\n##\n###The headmaster is so busy working\nwith Zelda preparing for the\nceremony...\n\nI thought that maybe I should feed her,\nbut the ceremony is about to start and\nI just put on a fresh set of clothes\nand, well...you see...\n######Will you help me out and go retrieve\nMia for me?\n#####I'm on it!#####I'm busy...")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 2), ('param3', 39)])
 							goto flw_2
@@ -526,7 +526,7 @@ void entrypoint_108_02() {
 		printf("######Your attention, please. At last we are\nready to begin the #####Wing C##########eremony#####.\n\n\nI was beginning to worry that we'd have\nto proceed without ####,\nbut luckily that is no longer a concern.\n\nI'm glad you could all make it. Before\nwe start, I'll explain the rules for\ntoday's competition.")
 		flw_16:
 		printf("I have attached a small statuette to this\nbird, who I will then release to the\nskies.\n\nOn my signal, press ##### to #####dash #####and\n#####dive #####off the ledge. Once you are in the\nair, mount your Loftwing.\n\nRemember to #####call your bird##### promptly\nwith ##### once you dive off the edge.#####\n\n\nWhoever catches the bird and claims\nthe statuette with ##### will be this year's\nchampion.\n\n##\n###Those are the rules. Simple enough,\nI should think, but do you need to hear\nthem again?\n#####Nope!#####Again!")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 10)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 17), ('param3', 39)])
 			printf("###########Excellent.\n\n\n\nAs you well know, today's champion\nwill graduate to the next class, bringing\nhim one step closer to knighthood.\n\nHe will also receive a #####gift #####from the\nyoung woman chosen to play the role\nof the #####goddess #####in this year's ritual.\n\nToday is a special day for many\nreasons, but it is also the 25th\nanniversary of our fine institution.\n\nTo celebrate the occasion, today's\nchampion shall also receive his gift\nhigh #####atop the Statue of the Goddess#####. \n\nI hear the young woman performing\nthe role of the goddess this year has\ncrafted the gift herself.\n\nAnd as you all well know, the role of\nthe goddess this year will be\nperformed by...")

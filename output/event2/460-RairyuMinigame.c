@@ -7,14 +7,14 @@ void entrypoint_460_00() {
 	story_flags[355 /* us: 805A9B00 0x02, jp: 805ACD80 0x02 */] = false;
 	story_flags[356 /* us: 805A9B00 0x01, jp: 805ACD80 0x01 */] = false;
 	story_flags[357 /* us: 805A9B00 0x08, jp: 805ACD80 0x08 */] = false;
-	switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 16), ('param4', 4), ('param5', 0)])) {
+	switch (minigame_related[0]) {
 	  case 0:
 		switch (story_flags[509 /* us: 805A9B15 0x08, jp: 805ACD95 0x08 */]) {
 		  case 0:
 			switch (scene_flags[113 /* 0xF 02 */]) {
 			  case 0:
 				printf("##############! Are you here to do\n#####battle##### or challenge yourself in one\nof the trials in the #####Silent Realm#####?\n#####Battle!#####Silent Realm!#####Neither.")
-				switch (choice(3)) {
+				switch (choice(3, 1)) {
 				  case 0:
 					flw_80:
 					switch (story_flags[522 /* us: 805A9B15 0x80, jp: 805ACD95 0x80 */]) {
@@ -74,7 +74,7 @@ void entrypoint_460_00() {
 									goto flw_13
 								  case 1:
 									printf("######Now then...would you like to face an\nenemy from near the beginning of\nyour journey, or a fairly recent one?\n#####The beginning.#####Fairly recent.#####Never mind.")
-									switch (choice(3)) {
+									switch (choice(3, 1)) {
 									  case 0:
 										goto flw_236
 									  case 1:
@@ -86,7 +86,7 @@ void entrypoint_460_00() {
 							}
 						  case 1:
 							printf("######...#####Hey, hold on a second... You look like\nyou're about to fall over! Are you sure\nyou're really ready for this?\n#####Of course!#####No...")
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 22)])) {
+							switch (choice(2, 0)) {
 							  case 0:
 								goto flw_52
 							  case 1:
@@ -95,7 +95,7 @@ void entrypoint_460_00() {
 						}
 					  case 1:
 						printf("######You want to do #####battle#####? Fantastic!\nI like your moxie.\n\n\nBecause you chose #####battle#####, I will select\nfrom only the toughest opponents\nyou've ever faced...\n\n######And I will use my power to re-create\nthe same battle, so you can face your\ngreatest enemies once more!\n\nYou're being a good sport, so I'll\nreward you. Do well enough, and I\nmight give you something truly special:\nan absurdly sturdy shield!\nOh, but if you lose...\n\n\n\n######Well, let's just say that this isn't just a\ngame... #####If you lose, it's all over#####. You\nwon't be going home in one piece!\n\n######Still interested?\n#####Yes!#####No, thanks.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 11)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							goto flw_17
 						  case 1:
@@ -126,7 +126,7 @@ void entrypoint_460_00() {
 						}
 					  case 1:
 						printf("######You want to take a shot at a trial in the\n#####Silent Realm#####? You got guts, boy!\n\n\n######These #####Silent Realm##### challenges are the\nsame as all the trials you've seen up\nuntil now, and I'll be re-creating them\nright here.\nBut just finishing the trial won't be\nenough. I'll time how long it takes for\nyou to finish, and if you're fast enough,\nI'll give you a reward.\nHowever...#####if you get hit even once by a\nGuardian, you'll fail the Silent Realm\nchallenge and return here #####with \nseverely diminished hearts#####.\n######So...are you up to the challenge?\n#####Yes!#####Not really.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 47)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							goto flw_75
 						  case 1:
@@ -139,11 +139,11 @@ void entrypoint_460_00() {
 			  case 1:
 				printf("######So, ####, tell me... \nAre you ready to have some fun?\n\n\n######We're just going to relive some of the\ngreatest challenges in your young life...\nAre you up for it?\n#####Bring it on!#####Maybe not...")
 				flw_5:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 6)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					scene_flags[9 'Lanayru Gorge'][113 /* 0xF 02 */] = true;
 					printf("######You're a true hero! That's the spirit.\n\n\n\n######Then if you would permit me, I'll take a\npeek at your past experiences.\n\n\n#####...\n\n\n\n######Indeed. Indeed. You have done some\namazing things, like #####battling##### fierce\nfoes and overcoming the daunting\ntrials in the Silent Realm.\n######All right, then! Based on those\nexperiences, you can choose one of two\nexciting challenges!\n\n######Which one would you like to try?\nPick whichever one you like.\n#####Battle!#####Silent Realm!#####Neither.")
-					switch (choice(3)) {
+					switch (choice(3, 1)) {
 					  case 0:
 						goto flw_80
 					  case 1:
@@ -179,7 +179,7 @@ void entrypoint_460_00() {
 			printf("######Way to go! Looks like you made it back\nin one piece.")
 			flw_94:
 			printf("The time it took to finish this trial was\n#######:#######.#######.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 5), ('param3', 16), ('param4', 4), ('param5', 72)])) {
+			switch (minigame_related[5]) {
 			  case 0:
 				printf("######Amazing, ####!\nThat's a very fast time!\nYou deserve something special.\nHere you go!######")
 				give_item(64 0x40);
@@ -192,13 +192,13 @@ void entrypoint_460_00() {
 						printf("######Looks like that was your first time in\na #####Silent Realm #####trial here! We have to\ncelebrate that with a reward.######")
 						flw_638:
 						OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 639), ('param3', 12)])
-						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 50), ('next', 637), ('param3', 8)])
+						rupees += 50;
 						printf("Here's 50 Rupees! Go on, then. Take it!")
 						flw_641:
 						OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 510), ('param3', 12)])
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 6), ('next', 98), ('param3', 45)])
 						printf("#####\nSo what do you say, ####?\nOne more #####Silent Realm##### trial?\n#####Yes!#####No.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 68)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							switch (story_flags[209 /* us: 805A9AF0 0x20, jp: 805ACD70 0x20 */]) {
 							  case 0:
@@ -229,19 +229,19 @@ void entrypoint_460_00() {
 			  case 1:
 				printf("######Very impressive time! Here--this is\nyour prize!######")
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 636), ('param3', 12)])
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 100), ('next', 634), ('param3', 8)])
+				rupees += 100;
 				printf("Here's 100 Rupees! Spend it on\nsomething worthwhile!")
 				goto flw_470
 			  case 2:
 				printf("######Hmm... Nothing to get excited about...#####\nBut you did your best, so have this.######")
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 633), ('param3', 12)])
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 20), ('next', 631), ('param3', 8)])
+				rupees += 20;
 				printf("Here's 20 Rupees. Don't go spending\nit all at once!")
 				goto flw_470
 			  case 3:
 				printf("######Come on, now.##### Are you even trying?\n\n\n\nNext time, put some heart into it! You\nknow, some oomph! I'm sorry to say\nthis is all I can give you this time.######")
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 630), ('param3', 12)])
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 5), ('next', 628), ('param3', 8)])
+				rupees += 5;
 				printf("Here you go. Five Rupees. Hey, don't\ngive me that look!")
 				goto flw_470
 			}
@@ -496,7 +496,7 @@ void entrypoint_460_01() {
 	  case 0:
 		flw_25:
 		printf("######You all set? You've got a shield on\nand everything? If you're ready,\nwe're going to do this for real!\nAre we ready?\n#####Let's do this!#####Maybe not.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 26)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######Psych yourself up for this!")
 			story_flags[522 /* us: 805A9B15 0x80, jp: 805ACD95 0x80 */] = true;
@@ -626,7 +626,7 @@ void entrypoint_460_02() {
 			printf("######Hey, you know what? That was your\nfirst time reliving that battle! Let's\ncelebrate with a little prize for your\nefforts.######")
 			flw_545:
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 546), ('param3', 12)])
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 50), ('next', 544), ('param3', 8)])
+			rupees += 50;
 			printf("Here's 50 Rupees! Go on, then. Take it!")
 			flw_640:
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 508), ('param3', 12)])
@@ -635,7 +635,7 @@ void entrypoint_460_02() {
 			  case 0:
 				flw_64:
 				printf("Quit now, and you'll get yourself a not-\ntoo-shabby ################.\n\n\nBut the next win will net you a\nfabulous ################!\n#####\nWhat'll it be? Do you want to\ncontinue?\n#####Continue!#####Quit...")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 41)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					switch (scene_flags[114 /* 0xF 04 */]) {
 					  case 0:
@@ -672,10 +672,10 @@ void entrypoint_460_02() {
 					printf("######Right...##### No need to knock yourself out\nfighting these enemies here, right?\nMight as well save yourself for the real\nbattles, I suppose...\n######But you battled hard! Just as I\npromised, I'll give you this.")
 					switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 12), ('param3', 15), ('param4', 3), ('param5', 259)])) {
 					  case 0:
-						switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 13), ('param3', 16), ('param4', 4), ('param5', 262)])) {
+						switch (minigame_related[13]) {
 						  case 0:
 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 513), ('param3', 12)])
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 20), ('next', 511), ('param3', 8)])
+							rupees += 20;
 							printf("Here's 20 Rupees. Don't go spending\nit all at once!")
 							flw_648:
 							temp_flags[5 /* 0x1 20 */] = true;
@@ -686,14 +686,14 @@ void entrypoint_460_02() {
 							goto flw_648
 						  case 2:
 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 516), ('param3', 12)])
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 100), ('next', 514), ('param3', 8)])
+							rupees += 100;
 							printf("Here's 100 Rupees! Spend it on\nsomething worthwhile!")
 							goto flw_648
 						  case 3:
 							switch (story_flags[511 /* us: 805A9B15 0x20, jp: 805ACD95 0x20 */]) {
 							  case 0:
 								OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 519), ('param3', 12)])
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 200), ('next', 517), ('param3', 8)])
+								rupees += 200;
 								printf("Here's 200 Rupees! Well, look at you\nnow!")
 								goto flw_648
 							  case 1:
@@ -703,10 +703,10 @@ void entrypoint_460_02() {
 							}
 						}
 					  case 1:
-						switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 14), ('param3', 16), ('param4', 4), ('param5', 266)])) {
+						switch (minigame_related[14]) {
 						  case 0:
 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 522), ('param3', 12)])
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 300), ('next', 520), ('param3', 8)])
+							rupees += 300;
 							printf("Here's 300 Rupees! Go buy something\nnice for yourself!")
 							goto flw_648
 						  case 1:
@@ -714,14 +714,14 @@ void entrypoint_460_02() {
 							goto flw_648
 						  case 2:
 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 525), ('param3', 12)])
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 500), ('next', 523), ('param3', 8)])
+							rupees += 500;
 							printf("Here's 500 Rupees! Must be a fortune\nfor you!")
 							goto flw_648
 						  case 3:
 							switch (story_flags[512 /* us: 805A9B15 0x40, jp: 805ACD95 0x40 */]) {
 							  case 0:
 								OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 530), ('param3', 12)])
-								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1000), ('next', 528), ('param3', 8)])
+								rupees += 1000;
 								printf("Look at this--1,000 Rupees!\nHave you ever seen so much?")
 								goto flw_648
 							  case 1:
@@ -731,7 +731,7 @@ void entrypoint_460_02() {
 									  case 0:
 										OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 1014), ('param3', 12)])
 										printf("######What's this? Your pouch is full, and so\nis your space at the Item Check in\nSkyloft? Then I guess you won't be\ngetting this shield.")
-										OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1000), ('next', 1002), ('param3', 8)])
+										rupees += 1000;
 										printf("Ouch! Can't be helped, I guess. Oh, but\nI will give you 1000 Rupees for that\nimpressive performance!###### You'll just\nhave to try for the shield next time.")
 										goto flw_648
 									  case 1:
@@ -746,10 +746,10 @@ void entrypoint_460_02() {
 							}
 						}
 					  case 2:
-						switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 15), ('param3', 16), ('param4', 4), ('param5', 270)])) {
+						switch (minigame_related[15]) {
 						  case 0:
 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 533), ('param3', 12)])
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 2000), ('next', 531), ('param3', 8)])
+							rupees += 2000;
 							printf("Gah, 2,000 Rupees! It's robbery!")
 							goto flw_648
 						  case 1:
@@ -761,12 +761,12 @@ void entrypoint_460_02() {
 							goto flw_648
 						  case 2:
 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 540), ('param3', 12)])
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 3000), ('next', 538), ('param3', 8)])
+							rupees += 3000;
 							printf("Whoa, now! You get 3,000 Rupees!\nWhat are you going to spend it all on?!")
 							goto flw_648
 						  case 3:
 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 543), ('param3', 12)])
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 9900), ('next', 541), ('param3', 8)])
+							rupees += 9900;
 							printf("This time you win 9,900 Rupees!\nI think you've pretty much cleaned\nme out!")
 							goto flw_648
 						}
@@ -819,7 +819,7 @@ void entrypoint_460_72() {
 		goto flw_460
 	  case 3:
 		printf("######Somewhere else? Where to, then?\n#####Skyloft!#####Previous places.#####I quit.")
-		switch (choice(3)) {
+		switch (choice(3, 1)) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 19), ('param2', 0), ('next', 460), ('param3', 33)])
 			goto flw_460
@@ -839,7 +839,7 @@ void entrypoint_460_03() {
 	switch (story_flags[512 /* us: 805A9B15 0x40, jp: 805ACD95 0x40 */]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 553), ('param3', 12)])
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1000), ('next', 551), ('param3', 8)])
+		rupees += 1000;
 		printf("Look at this--1,000 Rupees!\nHave you ever seen so much?")
 		flw_647:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 649), ('param3', 12)])
@@ -853,7 +853,7 @@ void entrypoint_460_03() {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 1016), ('param3', 12)])
 				printf("######What's this? Your pouch is full, and so\nis your space at the Item Check in\nSkyloft? Then I guess you won't be\ngetting this shield.")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 1000), ('next', 999), ('param3', 8)])
+				rupees += 1000;
 				printf("Ouch! Can't be helped, I guess. Oh, but\nI will give you 1000 Rupees for that\nimpressive performance!###### You'll just\nhave to try for the shield next time.")
 				goto flw_647
 			  case 1:
@@ -902,7 +902,7 @@ void entrypoint_460_04() {
 	start()
 	printf("######Wow! You pulled off nine victories in a\nrow! Who would have thought?")
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 556), ('param3', 12)])
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 2000), ('next', 554), ('param3', 8)])
+	rupees += 2000;
 	printf("Gah, 2,000 Rupees! It's robbery!")
 	goto flw_647
 }
@@ -963,7 +963,7 @@ void entrypoint_460_06() {
 	start()
 	printf("######You keep amazing me, you know that?\nEleven victories in a row... I've never\nseen anything like it!")
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 564), ('param3', 12)])
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 3000), ('next', 562), ('param3', 8)])
+	rupees += 3000;
 	printf("Whoa, now! You get 3,000 Rupees!\nWhat are you going to spend it all on?!")
 	goto flw_647
 }
@@ -1014,7 +1014,7 @@ void entrypoint_460_07() {
 	start()
 	printf("######Twelve battles, twelve victories!\nYou are the real deal... A genuine\nwarrior!")
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 567), ('param3', 12)])
-	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 9900), ('next', 565), ('param3', 8)])
+	rupees += 9900;
 	printf("This time you win 9,900 Rupees!\nI think you've pretty much cleaned\nme out!")
 	goto flw_647
 }
@@ -1059,7 +1059,7 @@ void entrypoint_460_08() {
 		printf("######Hey, you know what? That was your\nfirst time reliving that battle! Let's\ncelebrate with a little prize for your\nefforts.######")
 		flw_576:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 577), ('param3', 12)])
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 50), ('next', 575), ('param3', 8)])
+		rupees += 50;
 		printf("Here's 50 Rupees! Go on, then. Take it!")
 		flw_642:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 574), ('param3', 12)])
@@ -1115,7 +1115,7 @@ void entrypoint_460_09() {
 		printf("######Hey, you know what? That was your\nfirst time reliving that battle! Let's\ncelebrate with a little prize for your\nefforts.######")
 		flw_587:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 588), ('param3', 12)])
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 50), ('next', 586), ('param3', 8)])
+		rupees += 50;
 		printf("Here's 50 Rupees! Go on, then. Take it!")
 		flw_643:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 585), ('param3', 12)])
@@ -1141,7 +1141,7 @@ void entrypoint_460_61() {
 void entrypoint_460_44() {
 	start()
 	printf("######From later on in your journey, huh? \nIn that case, let's see...##### Here we go!\nThese guys look pretty tough.\nWhich one would you like to face?\n#####The Imprisoned!#####Horde battle!#####Ghirahim!")
-	switch (choice(3)) {
+	switch (choice(3, 1)) {
 	  case 0:
 		printf("###########The Imprisoned #####it is! This is the huge\nbeast you battled for a third time at\nthe #####Sealed Grounds#####.")
 		scene_flags[9 'Lanayru Gorge'][123 /* 0xE 08 */] = true;
@@ -1168,7 +1168,7 @@ void entrypoint_460_62() {
 void entrypoint_460_45() {
 	start()
 	printf("######From later on in your journey, huh?\nIn that case, let's see...##### Here we go!\nThese guys look pretty tough.\nWhich one would you like to face?\n#####The Imprisoned!#####Horde battle!")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 118)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("###########The Imprisoned #####it is! This is the huge\nbeast you battled for a third time at\nthe #####Sealed Grounds#####.")
 		scene_flags[9 'Lanayru Gorge'][123 /* 0xE 08 */] = true;
@@ -1190,7 +1190,7 @@ void entrypoint_460_10() {
 		printf("######Hey, you know what? That was your\nfirst time reliving that battle! Let's\ncelebrate with a little prize for your\nefforts.######")
 		flw_598:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 599), ('param3', 12)])
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 50), ('next', 597), ('param3', 8)])
+		rupees += 50;
 		printf("Here's 50 Rupees! Go on, then. Take it!")
 		flw_644:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 596), ('param3', 12)])
@@ -1222,7 +1222,7 @@ void entrypoint_460_11() {
 		printf("######Hey, you know what? That was your\nfirst time reliving that battle! Let's\ncelebrate with a little prize for your\nefforts.######")
 		flw_609:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 610), ('param3', 12)])
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 50), ('next', 608), ('param3', 8)])
+		rupees += 50;
 		printf("Here's 50 Rupees! Go on, then. Take it!")
 		flw_645:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 607), ('param3', 12)])
@@ -1246,7 +1246,7 @@ void entrypoint_460_12() {
 		printf("######Hey, you know what? That was your\nfirst time reliving that battle! Let's\ncelebrate with a little prize for your\nefforts.######")
 		flw_620:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 621), ('param3', 12)])
-		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 50), ('next', 619), ('param3', 8)])
+		rupees += 50;
 		printf("Here's 50 Rupees! Go on, then. Take it!")
 		flw_646:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 618), ('param3', 12)])

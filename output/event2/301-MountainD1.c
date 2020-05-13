@@ -45,7 +45,7 @@ void entrypoint_301_05() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 95), ('param3', 17)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 15), ('param2', 0), ('next', 6), ('param3', 39)])
 	printf("######Heyyyyy! You found my #####Bomb Bag#####!\n\n\n\n######Sorry to put you through that. I guess \nI owe you one now! So let me have it...#####\n\n\n######What's this, now? You want to borrow\nit so you can go deeper into the\nvolcano?\n\n######Oh, right. You're looking for your\nfriend. You sure have put yourself out\nthere, getting this far...\n\n######That reminds me!##### How's MY pal?\n#####Gone...#####Worried!#####No idea.")
-	switch (choice(3)) {
+	switch (choice(3, 1)) {
 	  case 0:
 		printf("######Seriously? Can't depend on anybody\nthese days...\n\n\n######Let me take that back. Looks like your\nfriend can count on you, though, right?\nYou've risked life and limb to get here.\n\n######I'm not letting you borrow my bag,\nthough. Nope. I'm GIVING it to you!\nJust don't blow yourself up...")
 		flw_105:

@@ -463,7 +463,7 @@ void entrypoint_501_18() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 75), ('next', 88), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 2), ('param1', 8), ('param2', 100), ('next', 92), ('param3', 14)])
 	printf("######So, Zelda... How's she holding up?\nWas she OK when you saw her?\n\n#####She's great!#####Actually...")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("She was? Oh, good to hear.\n\n\n\n######...But she's still stuck there till this\nwhole mess blows over, huh?")
 		flw_97:

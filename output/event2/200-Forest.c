@@ -27,12 +27,12 @@ void entrypoint_200_53() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 444), ('param3', 51)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 3), ('param3', 16)])
 	printf("")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("")
 		flw_222:
 		printf("")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 33), ('param2', 0), ('next', 8), ('param3', 39)])
 			printf("")
@@ -134,7 +134,7 @@ void entrypoint_200_02() {
 		printf("######Kee-paleep! I'm #####Machi#####. I'm a Kikwi.\nYou seem OK, even though you're \nscary. Thanks for helping me!")
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 17), ('param2', 0), ('next', 138), ('param3', 13)])
 		printf("######That's weird, kee-koo. A little while\nago I ran into another funny animal\nlike you, but that one was a girl.\n#####Who?#####Zelda?")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 24)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 12), ('param2', 0), ('next', 86), ('param3', 13)])
 			printf("######I don't know who she was, but she\nseemed to be in big trouble when I saw\nher. She a friend of yours, kwee?")
@@ -294,7 +294,7 @@ void entrypoint_200_90() {
 	switch (story_flags[227 /* us: 805A9AF2 0x20, jp: 805ACD72 0x20 */]) {
 	  case 0:
 		printf("######Hmm? What is up, bud? You got a\nquestion? \n#####Cubes?#####Temple?#####Not really.")
-		switch (choice(3)) {
+		switch (choice(3, 1)) {
 		  case 0:
 			printf("######Yeah, hit those cubes with a blast of\nlight from your sword and WHOOSH...\nThey shoot up into the sky.\n\nThe ancient texts I have read say those\ncubes are all over this land.")
 			flw_631:
@@ -341,7 +341,7 @@ void entrypoint_200_90() {
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 504), ('param3', 17)])
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 100), ('param2', 0), ('next', 489), ('param3', 17)])
 					printf("######I see you got yourself a sword there.\nWhat do you say we try and crack the\nmystery of this cube together?\n#####Sure!#####Nah.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 153)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						flw_490:
 						printf("######Hey! Thanks a billion, bud!")
@@ -350,7 +350,7 @@ void entrypoint_200_90() {
 						goto flw_479
 					  case 1:
 						printf("######Aww, come on, I am begging you here!\nHelp me out?\n#####OK.#####Nope.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 155)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							goto flw_490
 						  case 1:
@@ -491,7 +491,7 @@ void entrypoint_200_06() {
 						goto flw_128
 					  case 1:
 						printf("######Kweeeee-heee...##### I am #####Bucha#####, the\nKikwi elder.\n\n\nI saw the way you spotted me through\nmy ingenious camouflage. #####Kweee,\nyou are clearly a master woodsman.\n#####Where's Zelda?#####Others like you?")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 191)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							temp_flags[3 /* 0x1 08 */] = true;
 							printf("######Zelda#####...?#####\n\n\n\nAh, the girl creature with the blonde\nhair. She looked like one of your kind.\nYes, she was with me, kweeee.\n\n######But now is not the time for such talk...\nThe woods are full of monsters. I am\nworried about my missing tribe.\n\nKweeee... The shock and worry has\nmade my memories of the girl quite\nhazy...")
@@ -512,7 +512,7 @@ void entrypoint_200_06() {
 						printf("######So Machi, Oolo, and Lopsa are safe,\neh? Sadly, #####one more ##########Kikwi##### remains\nunaccounted for. Would you mind\nsearching for him to see if he's OK?\n######He likes to hide in grassy areas, so\nsearch any tufts of grass you see...\n\n\nBy the way, I haven't forgotten about\nthe girl you search for. Give me just a\nbit more time, and I'm sure I can recall\nsomething about where she was headed.")
 					  case 1:
 						printf("######Kweeeee-heee...##### I am #####Bucha#####, the\nKikwi elder.\n\n\nI saw the way you spotted me through\nmy ingenious camouflage. #####Kweee,\nyou are clearly a master woodsman.\n#####Where's Zelda?#####Others like you?")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 163)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							temp_flags[3 /* 0x1 08 */] = true;
 							printf("######Zelda#####...?#####\n\n\n\nAh, the girl creature with the blonde\nhair. She looked like one of your kind.\nYes, she was with me, kweeee.\n\n######But now is not the time for such talk...\nThe woods are full of monsters. I am\nworried about my missing tribe.\n\nKweeee... The shock and worry has\nmade my memories of the girl quite\nhazy...")
@@ -546,7 +546,7 @@ void entrypoint_200_06() {
 						printf("######Kwee... So Machi, Oolo, and Erla are\nnow safe?\n\n\nSadly, #####one more ##########Kikwi##### remains\nunaccounted for. Would you mind\nsearching for him to see if he's OK?\n\n######He likes to climb trees, so I'd suggest\nyou search the treetops for him, kwee.\n\n\nBy the way, I haven't forgotten about\nthe girl you search for. Give me just a\nbit more time, and I'm sure I can recall\nsomething about where she was headed.")
 					  case 1:
 						printf("######Kweeeee-heee...##### I am #####Bucha#####, the\nKikwi elder.\n\n\nI saw the way you spotted me through\nmy ingenious camouflage. #####Kweee,\nyou are clearly a master woodsman.\n#####Where's Zelda?#####Others like you?")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 167)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							temp_flags[3 /* 0x1 08 */] = true;
 							printf("######Zelda#####...?#####\n\n\n\nAh, the girl creature with the blonde\nhair. She looked like one of your kind.\nYes, she was with me, kweeee.\n\n######But now is not the time for such talk...\nThe woods are full of monsters. I am\nworried about my missing tribe.\n\nKweeee... The shock and worry has\nmade my memories of the girl quite\nhazy...")
@@ -574,7 +574,7 @@ void entrypoint_200_06() {
 						printf("######I'm glad to hear that Machi and Oolo\nare safe, kwee, but I still worry about\nthe other Kikwis.\n\n#####Two##### Kikwis are still unaccounted for.\nCould I ask you to search the area\nfor them and make sure they are safe?\n\n######Oh, and I believe I remembered\nsomething about the girl you seek.\nShe took off that way, kwee! Or maybe\nit was this way? Oh dear.")
 					  case 1:
 						printf("######Kweeeee-heee...##### I am #####Bucha#####, the\nKikwi elder.\n\n\nI saw the way you spotted me through\nmy ingenious camouflage. #####Kweee,\nyou are clearly a master woodsman.\n#####Where's Zelda?#####Others like you?")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 171)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							temp_flags[3 /* 0x1 08 */] = true;
 							printf("######Zelda#####...?#####\n\n\n\nAh, the girl creature with the blonde\nhair. She looked like one of your kind.\nYes, she was with me, kweeee.\n\n######But now is not the time for such talk...\nThe woods are full of monsters. I am\nworried about my missing tribe.\n\nKweeee... The shock and worry has\nmade my memories of the girl quite\nhazy...")
@@ -608,7 +608,7 @@ void entrypoint_200_06() {
 						printf("######Kwee... So Machi, Lopsa, and Erla are\nsafe, are they? \n\n\nGood news! Oh, but #####one last Kikwi#####\nis still unaccounted for. Could I ask\nyou to search the area for him?\n\n######He has quite a talent for disguising\nhimself as a clump of tall grass, so\nlook for him amongst any lush,\ngrassy tufts you may encounter, kwee.\nOn a separate note, I feel like I'm on\nthe verge of remembering something\nabout that girl you're after and where\nshe went. I need just a little more time.")
 					  case 1:
 						printf("######Kweeeee-heee...##### I am #####Bucha#####, the\nKikwi elder.\n\n\nI saw the way you spotted me through\nmy ingenious camouflage. #####Kweee,\nyou are clearly a master woodsman.\n#####Where's Zelda?#####Others like you?")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 175)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							temp_flags[3 /* 0x1 08 */] = true;
 							printf("######Zelda#####...?#####\n\n\n\nAh, the girl creature with the blonde\nhair. She looked like one of your kind.\nYes, she was with me, kweeee.\n\n######But now is not the time for such talk...\nThe woods are full of monsters. I am\nworried about my missing tribe.\n\nKweeee... The shock and worry has\nmade my memories of the girl quite\nhazy...")
@@ -636,7 +636,7 @@ void entrypoint_200_06() {
 						printf("######I'm glad to hear that Machi and Lopsa\nare safe, kwee, but I still worry about\nthe other Kikwis.\n\n#####Two #####of my tribe are still unaccounted\nfor. Could you please search the area\nfor them and make sure they are safe?\n\n######Oh, and I believe I remembered\nsomething about the girl you seek.\nShe took off that way, kwee!\nOr maybe it was this way? Oh dear.")
 					  case 1:
 						printf("######Kweeeee-heee...##### I am #####Bucha#####, the\nKikwi elder.\n\n\nI saw the way you spotted me through\nmy ingenious camouflage. #####Kweee,\nyou are clearly a master woodsman.\n#####Where's Zelda?#####Others like you?")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 179)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							temp_flags[3 /* 0x1 08 */] = true;
 							printf("######Zelda#####...?#####\n\n\n\nAh, the girl creature with the blonde\nhair. She looked like one of your kind.\nYes, she was with me, kweeee.\n\n######But now is not the time for such talk...\nThe woods are full of monsters. I am\nworried about my missing tribe.\n\nKweeee... The shock and worry has\nmade my memories of the girl quite\nhazy...")
@@ -667,7 +667,7 @@ void entrypoint_200_06() {
 						printf("######I'm relieved to hear that Machi and\nErla are safe, kwee, but I still worry\nabout the other Kikwis.\n\n#####Two #####of my tribe are still unaccounted\nfor. Do you think you could search the\narea for them and make sure they\nare safe?\n######Oh, and I believe I remembered\nsomething about the girl you seek.\nShe took off that way, kweee!\nOr maybe it was this way? Oh dear.")
 					  case 1:
 						printf("######Kweeeee-heee...##### I am #####Bucha#####, the\nKikwi elder.\n\n\nI saw the way you spotted me through\nmy ingenious camouflage. #####Kweee,\nyou are clearly a master woodsman.\n#####Where's Zelda?#####Others like you?")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 183)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							temp_flags[3 /* 0x1 08 */] = true;
 							printf("######Zelda#####...?#####\n\n\n\nAh, the girl creature with the blonde\nhair. She looked like one of your kind.\nYes, she was with me, kweeee.\n\n######But now is not the time for such talk...\nThe woods are full of monsters. I am\nworried about my missing tribe.\n\nKweeee... The shock and worry has\nmade my memories of the girl quite\nhazy...")
@@ -695,7 +695,7 @@ void entrypoint_200_06() {
 						printf("######I'm glad to hear that Machi is safe,\nyes, kwee, but I still worry about the\nother Kikwis.\n\n#####Three #####of my tribe are still unaccounted\nfor. Could I convince you to search the\narea for them and make sure they are\nsafe?\n######Now if I could just recall where that\ngirl went off to, kwee. Hmm...")
 					  case 1:
 						printf("######Kweeeee-heee...##### I am #####Bucha#####, the\nKikwi elder.\n\n\nI saw the way you spotted me through\nmy ingenious camouflage. #####Kweee,\nyou are clearly a master woodsman.\n#####Where's Zelda?#####Others like you?")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 187)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							temp_flags[3 /* 0x1 08 */] = true;
 							printf("######Zelda#####...?#####\n\n\n\nAh, the girl creature with the blonde\nhair. She looked like one of your kind.\nYes, she was with me, kweeee.\n\n######But now is not the time for such talk...\nThe woods are full of monsters. I am\nworried about my missing tribe.\n\nKweeee... The shock and worry has\nmade my memories of the girl quite\nhazy...")
@@ -812,7 +812,7 @@ void entrypoint_200_94() {
 		scene_flags[1 'Faron Woods'][34 /* 0x5 04 */] = true;
 		scene_flags[1 'Faron Woods'][36 /* 0x5 10 */] = true;
 		printf("###########Hold it, bud!\n\n\n\n######Do not walk on by like you do not see\nme when I know you do.##### Are you mad\nat me or something?\n#####Sorry!#####I don't like you.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 138)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######Oh, you are busy searching for your\nfriend. I get it. Sorry to get in your\nway, bud. Really, I am.\n\nBut this will not take long. Come help\nme out, will you?")
 			goto flw_465
@@ -923,7 +923,7 @@ void entrypoint_200_95() {
 		scene_flags[1 'Faron Woods'][34 /* 0x5 04 */] = true;
 		scene_flags[1 'Faron Woods'][36 /* 0x5 10 */] = true;
 		printf("###########Hold it, bud!\n\n\n\n######Do not walk on by like you do not see\nme when I know you do.##### Are you mad\nat me or something?\n#####Sorry!#####I don't like you.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 142)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######Oh, you are busy searching for your\nfriend. I get it. Sorry to get in your\nway, bud. Really, I am.\n\nBut this will not take long. Come help\nme out, will you?")
 			goto flw_474
@@ -943,11 +943,11 @@ void entrypoint_200_61() {
 	printf("Learning that Zelda is no longer with\nthe Kikwi elder is an unfortunate\nsetback.##### But he may still have useful\ninformation.\nTaking this into account, I calculate\nan 85% probability that your quest\nwill be aided if you find the lost Kikwis\nfor the elder.\nTo expedite your search for these\nforest-dwelling creatures, I have\nadded ###########Kikwis##### as a dowsing option.")
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 654), ('param3', 56)])
 	printf("Do you need me to explain how to\nswitch dowsing targets? \n#####Yes!#####No, thanks.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 207)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		flw_524:
 		printf("Press and hold ##### to display the targets\nyou are currently able to dowse for.#####\n\n\n#####Point the Wii Remote##### at the target you\nwant to dowse for, and release #####\nto confirm your selection.#####\n\nIf you do not want to dowse for\nanything, #####look around #####and release #####.\n#####Again, please?#####Got it.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 161)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			goto flw_524
 		  case 1:
@@ -1048,7 +1048,7 @@ void entrypoint_200_10() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 100), ('param2', 0), ('next', 352), ('param3', 17)])
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 11), ('param2', 0), ('next', 313), ('param3', 13)])
 	printf("######Hey! It's me, kwee! Did you find the\ngirl?\n#####Who are you?#####Not yet...")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 118)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 17), ('param2', 0), ('next', 315), ('param3', 13)])
 		printf("######What do you mean, who am I? Don't\ntell me you forgot your old buddy\n#####Machi#####! Now I'm sad... Koo-kwee...")
@@ -1204,7 +1204,7 @@ void entrypoint_200_50() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 0), ('next', 279), ('param3', 39)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 273), ('param3', 39)])
 	printf("However, I have also detected the\npresence of numerous monsters.\nAre you sure you want to proceed?\n#####Of course!#####No.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 114)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("It would be very unwise to display\noverconfidence here. Within the walls\nof this place, no one will come to\nyour aid.")
 		flw_280:
@@ -1229,7 +1229,7 @@ void entrypoint_200_50() {
 void entrypoint_200_51() {
 	start()
 	printf("######Master, I picked up a highly interesting\nspike in #####dowsing readings##### from the\ncreature you just encountered.\n#####Really?#####Zelda?")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 6)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("######Yes, Master. Based on the creature's\ncharacteristics, I must conclude that it\nis a peaceful, forest-dwelling animal\nknown as a #####Kikwi#####.\nKikwis are intelligent beings capable of\nspeech#####. However, such a creature could\nobviously not be confused with Zelda.\n\nIt is unclear why such a creature would\nelicit a dowsing response attuned to\nZelda. You should follow the creature\nand investigate this phenomenon.")
 		flw_134:

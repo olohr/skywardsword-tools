@@ -45,7 +45,7 @@ void entrypoint_119_01() {
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 119), ('param2', 3), ('next', -1), ('param3', 7)])
 				  case 1:
 					printf("######Hey...did you happen to bring more\npiping-hot pumpkin soup?! It looks\nsooo good...\n#####Uh...here.#####...")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 33)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######Oh! For me?! I mean, sorry for just\nassuming it was for me...\n\n\nWell, in that case, I'll help myself!")
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 20), ('next', 108), ('param3', 47)])
@@ -82,10 +82,10 @@ void entrypoint_119_01() {
 				switch (adventure_pouch_has(2 0x0002)) {
 				  case 0:
 					printf("######Hey! ########! Have you been\nworking hard on your swordsmanship?\n\n\n######Hmm? I smell something...\n\n\n\n######I know that earthy aroma! Isn't that\nmy favorite #####pumpkin soup#####?!\n\n\n######I asked the owner of the Lumpy\nPumpkin to bring me some, but...\n\n\nYou went out of your way to deliver\nsome to me?!\n#####That's right!#####Uh, no...")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 23)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######YES! Give it to me!\n#####Here you go!#####Sorry...")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 25)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 20), ('next', 107), ('param3', 47)])
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 48), ('param3', 33)])
@@ -117,10 +117,10 @@ void entrypoint_119_01() {
 					switch (adventure_pouch_has(3 0x0003)) {
 					  case 0:
 						printf("######Hey! ########! Have you been\nworking hard on your swordsmanship?\n\n\n######Hmm? I smell something...\n\n\n\n######I know that earthy aroma! Isn't that\nmy favorite #####pumpkin soup#####?!\n\n\n######I asked the owner of the Lumpy\nPumpkin to bring me some, but...\n\n\nYou went out of your way to deliver\nsome to me?!\n#####That's right!#####Uh, no...")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 21)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							printf("######YES! Give it to me!\n#####Here you go!#####Sorry...")
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 27)])) {
+							switch (choice(2, 0)) {
 							  case 0:
 								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 20), ('next', 106), ('param3', 47)])
 								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 49), ('param3', 33)])
@@ -180,7 +180,7 @@ void entrypoint_119_03() {
 		switch (scene_flags[60 /* 0x6 10 */]) {
 		  case 0:
 			printf("######Oh? Ready to talk more about the\n#####secrets of defense#####?\n#####Practical stuff.#####Basics!#####No, thanks.")
-			switch (choice(3)) {
+			switch (choice(3, 1)) {
 			  case 0:
 				printf("#####Practical stuff#####? OK!\n\n\n\n######If you ready your shield right before an\nenemy attacks you, the force from your\nshield arm will #####repel #####the enemy's \nattack. \n######This technique is called a #####shield bash#####,\nand it will make the enemy recoil,\ngiving you an opening in which to\nattack.\n######This technique is very useful against\nenemies who throw weapons at you or\njust refuse to give you an opening\nfor attack.")
 				flw_21:
@@ -219,7 +219,7 @@ void entrypoint_119_03() {
 				switch (scene_flags[2 /* 0x1 04 */]) {
 				  case 0:
 					printf("######Oh yeah? You want to learn about how\nto use a sword?\n#####Yes, please. #####No, thanks.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######OK! #####Just swing the Wii Remote #####to swing\nyour sword!\n\n\nSwing the Wii Remote vertically to do a\n#####vertical slash#####, and swing it sideways to\ndo a #####side slash#####.\n\nThrust the Wii Remote forward to do a\n#####thrust#####!\n\n\n######And then there's the #####spin attack#####,\na more advanced technique. To do that,\nswing the Wii Remote and Nunchuk\ntogether in a sideways motion.\n######If you remember these moves, you can\nhandle yourself in any fight.\n\n\n######Just remember the fundamentals!\nAlways press##### ########## #####to target##### an enemy\nas soon as you see it.#####")
 						flw_7:

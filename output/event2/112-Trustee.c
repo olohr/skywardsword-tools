@@ -7,7 +7,7 @@ void entrypoint_112_01() {
 	  case 1:
 		printf("######Hello...and welcome to the Item Check.\nWant to put stuff from your pouch into\nstorage? OK. Want to take something\nout of storage? That's fine.\nSo is there anything in your pouch or\nin storage that you want to move?\n#####Yes.#####No.")
 		flw_4:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 14), ('param4', 2), ('param5', 4)])) {
 			  case 0:
@@ -166,7 +166,7 @@ void entrypoint_112_03() {
 	  case 0:
 		printf("Let's see, how many Rupees for that...\nHow about #################?\n\n\nDo we have a deal?\n#####OK.#####No, thanks.")
 		flw_11:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 20), ('param3', 33)])
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 30), ('next', 39), ('param3', 6)])

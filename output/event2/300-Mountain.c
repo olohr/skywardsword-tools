@@ -6,7 +6,7 @@ void entrypoint_300_24() {
 	  case 1:
 		scene_flags[4 'Eldin Volcano'][73 /* 0x8 02 */] = true;
 		printf("######Hey, you! Long time no see. Thanks\nfor helping me earlier.\n\n\nSpeaking of helping, did you find that\nfriend you were looking for?\n#####Sure did!#####Not yet...")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 44)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######You did? Heyyy, that's great news!#####\nHuh? You haven't rescued her?\n\n\n######Don't look so glum, pal. I'm sure you'll\nfigure it out and save her.\nNever give up!")
 		  case 1:
@@ -199,7 +199,7 @@ void entrypoint_300_28() {
 void entrypoint_300_11() {
 	start()
 	printf("######Master ####, I require\nyour confirmation on critical\ninformation obtained from that\n#####Mogma #####conversation.\nThe##### oddly garbed figure #####taken deeper\ninto the region must be...\n#####Zelda! #####Woman in black?")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("######My calculations agree, Master. \nThere is a 90% probability the figure in\nquestion was indeed Zelda.")
 		flw_92:
@@ -234,11 +234,11 @@ void entrypoint_300_12() {
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 309), ('param3', 12)])
 			printf("######Secret information on #####Thrill Digger\n#####can be yours for only #####20 Rupees#####.\n#####Tell me!#####Nah...")
 			flw_44:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 8)])) {
+			switch (choice(2, 0)) {
 			  case 0:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 20), ('param3', 10), ('param4', 2), ('param5', 12)])) {
+				switch (has_rupees(20)) {
 				  case 0:
-					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -20), ('next', 179), ('param3', 8)])
+					rupees += -20;
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 21), ('param2', 2057), ('next', 45), ('param3', 13)])
 					printf("Heh, heh... That's the spirit! Now\nyou've got to promise me this stays\nbetween the two of us. You gotta keep\nyour trap shut. Got it?")
 					OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 306), ('param3', 12)])
@@ -391,7 +391,7 @@ void entrypoint_300_18() {
 void entrypoint_300_01() {
 	start()
 	printf("######Master, I require your confirmation.\nYou are currently attempting to\nascertain the location of #####Zelda#####.\n\nAre you familiar with how to use\n#####dowsing #####to search for Zelda?\n#####Of course! #####I forgot...")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 58)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("######Of course you do. My apologies. Please\ncontinue your search for Zelda.")
 		flw_311:
@@ -439,7 +439,7 @@ void entrypoint_300_03() {
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 150), ('param3', 17)])
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 17), ('param2', 2056), ('next', 5), ('param3', 13)])
 		printf("You're one tough customer! Thanks for\nall your help!\n\n\n######I don't blame you for not knowing\nthis, but us #####Mogmas #####always honor our\ndebts. Let me give you something to\nprove it. Any special requests?\n#####A way forward.#####Rupees!")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 26)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("Oh, right. You're trying to find your\nfriend, aren'tcha?\n\n\n######In that case, take these things!\nThey're something pretty special, if I\nsay so myself.")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 6), ('param3', 42)])
@@ -522,17 +522,17 @@ void entrypoint_300_21() {
 		}
 	  case 1:
 		printf("######Huh? Who're you supposed to be?\nNever seen you around here before...\n\n\nWhoa, hold it right there! ######Are you a\nfriend of those red creeps?\n#####No way! #####Red creeps?")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 28)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######You're not, huh? #####Well, you don't look\nlike 'em, that's for sure. You're not\nTHAT ugly.\n\n######So what then? You here to pick\n#####bomb flowers##### ?\n#####Bomb what?#####Yep.")
 			flw_189:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 30)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("###########Bomb flowers#####. You're joking, right?\n##\n###Those are them growing right over\nthere.")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', -1), ('next', 198), ('param3', 39)])
 				printf("You pick one with #####, and the fuse\nlights. A few seconds later...BOOM!\nYou don't wanna stop and sniff this\nflower. Dangerous plants, believe me.\n######But once you learn to use them, they're\na powerful weapon. Us #####Mogmas #####are\ncrazy about 'em!\n\n######You can #####toss##### and #####roll #####them the same\nway you do jars. See what you can do\nwith those #####bomb flowers #####over there.\n\n#####Um...################ Huh? You do know #####how to roll\nand throw #####stuff, right?\n#####Uh-huh.#####Not really...")
 				flw_283:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 60)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######Of course you do! You use the\nWii Remote. #####Point it up and swing it\nforward #####to #####throw #####things. #####Point it down\nand swing it forward #####to##### roll #####'em.\nI mean, hey, everyone knows that!")
 					flw_192:

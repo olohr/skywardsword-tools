@@ -1,7 +1,7 @@
 void entrypoint_510_01() {
 	start()
 	printf("This is the #####Windmill Propeller #####you\nwere searching for.\n\n\nIt is now possible to retrieve this using\nthe robot whose services we have\nenlisted.\n\nWould you like me to call the robot?\n#####Yes.#####No.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("I will send word to the robot using\ntelepathic transmission, ######Master.")
 	  case 1:

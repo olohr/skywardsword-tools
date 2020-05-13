@@ -1,11 +1,11 @@
 void entrypoint_121_02() {
 	start()
 	printf("######No, I beg you! Stop! That chest is not to\nbe opened, under any circumstance!\nThere's something unspeakable inside!\n#####What?#####I want to open it.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 34)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		flw_106:
 		printf("######That chest contains the infamous evil\nof the dreaded #####Cursed Medal#####.\n\n\nIf you carry that medal with you, you'll\nfind more Rupees than ever before!\n######You'll even have better chances of\ndiscovering treasure!\n######You'll... You'll... Oh, don't make me\nsay it!\n#####Sounds handy!#####Say...what?")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 36)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######Now that you mention it, that does\nsound pretty enticing, but...")
 			flw_107:
@@ -38,7 +38,7 @@ void entrypoint_121_20() {
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 7), ('param2', 2048), ('next', 116), ('param3', 13)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', 80), ('param3', 33)])
 	printf("Won't you please gather #####Gratitude\nCrystals #####and show them to me?\n#####Sure!#####Nope.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		flw_82:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 9), ('param2', 3086), ('next', 117), ('param3', 13)])
@@ -64,7 +64,7 @@ void entrypoint_121_20() {
 		flw_81:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 8), ('param2', 2572), ('next', 6), ('param3', 13)])
 		printf("Please, gentle sir! I beg you. Do not\nmake me bend my wings and grovel.\n#####OK, fine.#####No chance!")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			goto flw_82
 		  case 1:
@@ -80,7 +80,7 @@ void entrypoint_121_03() {
 		printf("######When I figured out that my very\npresence in Skyloft was causing trouble\nfor its good citizens, it was quite a\nmost unpleasant shock.\nBut now I can put that all behind me!\nI feel like I'm finally an ordinary\nresident of Skyloft. Thank you!")
 	  case 1:
 		printf("######Good evening, ####!\nI thought I'd take a refreshing stroll\naround town, and to my surprise \nthere's not a monster to be seen.\nYou don't suppose their disappearance\nhas something to do with me becoming\nhuman, do you?\n#####Could be!#####No way.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 64)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######Goodness, I suppose you are right...")
 			flw_157:

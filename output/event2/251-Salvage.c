@@ -31,7 +31,7 @@ void entrypoint_251_05() {
 void entrypoint_251_06() {
 	start()
 	printf("I can verify with only 40% accuracy\nthat this person is a plant. However,\n#####Owlan#####'s field of study includes\ncataloging unidentified plant species.\nWe can take this creature to Skyloft\nusing the robot. Would you like to call\nthe robot?\n#####Please!#####No, thanks.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("Yes, ######Master. I will signal the robot\nwith a telepathic transmission.")
 	  case 1:
@@ -51,7 +51,7 @@ void entrypoint_251_01() {
 			printf("######Take me to a peaceful place where\nI can live in comfort without having\nto hide, kee-roo!\n\n######I'm counting on you, keek-eep!")
 		  case 1:
 			printf("######Oh, hello again, kweek! I've been\nhiding out so long my shoulders are\nstiff.\n#####What shoulders?#####Poor thing.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######How rude! I do have shoulders,\nkweek--they're just not very\npronounced!\n\n######All I was trying to say is that constantly\nhiding from danger is a stressful way to\nlive, koo-keek!")
 				flw_38:
@@ -60,7 +60,7 @@ void entrypoint_251_01() {
 					printf("######Everyone seems happy that peace\nhas returned to the forest... But I don't\nbelieve it for a second, koo-kakoo!\n\n######There's no way I'm going to give up\nand come out of hiding. Not ever,\nkee-woop!")
 					flw_19:
 					printf("######But sometimes I wonder, keep-eep...\nIsn't there somewhere peaceful I can\nlive without fear, without having to\nhide?\n#####There is!#####I can help.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						flw_21:
 						printf("######Oh! That's fantastic news, koo-karoo!\nI want you to take me there as soon as\nyou can!")

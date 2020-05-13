@@ -10,7 +10,7 @@ void entrypoint_250_03() {
 	flw_74:
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 75), ('param3', 39)])
 	printf("Was my explanation clear, ######Master?\nDo you want me to explain again?\n#####Explain again.#####I got it.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 20)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("Which topic do you wish to review?\n\n\n#####The #####?#####Guardians?#####Silent Realm?#####Never mind.")
 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 22)])) {

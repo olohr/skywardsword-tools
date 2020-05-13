@@ -11,7 +11,7 @@ void entrypoint_118_05() {
 			switch (story_flags[303 /* us: 805A9AFC 0x02, jp: 805ACD7C 0x02 */]) {
 			  case 0:
 				printf("######Whoa! What's the matter,\n####? You look pale!\n\n\n#####It's Kukiel!#####Do I?")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 10)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######What?! Kukiel is missing?\n\n\n\n######She was abducted by a monster?!\n\n\n\n######You don't think this has anything to\ndo with all those silly stories about\na horrifying monster that's been\nliving here in Skyloft for ages, do you?\n####\n#People say the creature appears in\nthe dead of night, scaring folks and\neven taking away children!\n\n######Probably nothing more than a scary\nstory some older brother made up to\nterrorize his younger siblings, but\nstill...it makes me wonder.")
 				  case 1:
@@ -91,7 +91,7 @@ void entrypoint_118_06() {
 					  case 1:
 						OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 36), ('param3', 31)])
 						printf("######Did you hear? A child who'd been\nplaying in the graveyard went missing.\n\n\n######Can you believe it? Do you really think\nthere are monsters abducting children\nin our little town?\n#####I do!#####I dunno...")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 12)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							printf("######What?! So there's a chance she\nwas dragged off by a monster?\n\n\n######Let's not be ridiculous here.\nThis monster business is going a\nbit far. #####Oh####\n.####\n.####\n.####\n\n\n######Now that you mention it, there's an\n###########old man##### who lives near here who's\nalways ranting about hidden monsters\nhere in Skyloft...\n######Everyone knows he's a little loony,\nthough, so no one takes him seriously.")
 							goto flw_46
@@ -202,7 +202,7 @@ void entrypoint_118_07() {
 						printf("######Kukiel?\n\n\n\n######Well, I did see her playing over\nby the #####graveyard##### yesterday...\n\n\n####\n#My mom called me home, so I left.\nI don't know what she did after that.\n\n\n######Why? Did something happen?")
 					  case 1:
 						printf("######Hmm... I wonder how I can get my\nhands on a Bug Net from Beedle's\nAirshop.\n#####Where's Kukiel?#####Airshop?")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 14)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							goto flw_29
 						  case 1:
@@ -280,14 +280,14 @@ void entrypoint_118_25() {
 	  case 0:
 		printf("######Oh no! This is terrible! The Isle of the\nGoddess has fallen! I was just\nsearching there for my Kukiel...\n\nHave you seen her?! My Kukiel?!\n#####Nope.#####Kuki-who?")
 		flw_18:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######I...I see.")
 			flw_21:
 			printf("######Please, ####, won't you\nhelp me look for her? I've been looking\neverywhere, but I can't find her!\n\n######I've asked everyone I could find for\nhelp, and a few people have said she's\nbeen spotted with some unknown\nperson with a scary face.\n######Someone else even said they thought\nthey'd seen her carried off by a\nmonster. A monster!\n\n######She must have been kidnapped!\nShe's so cute and friendly... Someone\nmust have just walked off with her!")
 			flw_22:
 			printf("######Find Kukiel, please! Please! It breaks\nmy heart to think she's somewhere\nout there, crying!\n\n######Please, ####!\n#####You got it.#####Nah...")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Thank you! The Knight Academy\nshould be proud to have a student\nlike you.\n\n######Please, find my daughter quickly!")
 				story_flags[303 /* us: 805A9AFC 0x02, jp: 805ACD7C 0x02 */] = true;
@@ -456,7 +456,7 @@ void entrypoint_118_10() {
 				scene_flags[0 'Skyloft'][31 /* 0x2 80 */] = true;
 			  case 1:
 				printf("######Oh, ####! How's it going?\nAny luck tracking down Zelda?\n\n\n.####\n.####\n.####\nI get it. Well, all of us here are\npulling for you!\n\n\nBy the way, I saw Kukiel's mother\nheading up toward the temple a little\nwhile ago. She looked really upset.\nDo you know if something happened?\n#####Wait, who?#####I know!")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 18)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######You know, she lives in that house\nnear the water with her husband and\ntheir little girl.\n\n######I don't know what was wrong, but\nshe was definitely upset.")
 				  case 1:
@@ -589,7 +589,7 @@ void entrypoint_118_99() {
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 90), ('param2', 0), ('next', 244), ('param3', 51)])
 		printf("")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 78)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			story_flags[668 /* us: 805A9B1E 0x04, jp: 805ACD9E 0x04 */] = true;
 			story_flags[669 /* us: 805A9B1E 0x08, jp: 805ACD9E 0x08 */] = false;
@@ -703,7 +703,7 @@ void entrypoint_118_16() {
 					printf("Come now! What are you doing here?\nHurry and find me a new crystal ball!")
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 45), ('param2', 0), ('next', 215), ('param3', 51)])
 					printf("Your ###########dowsing #####ability is not currently\ncalibrated to search for the #####crystal ball#####\nthat this person seeks.\n\n######Do you wish to calibrate your #####dowsing\n#####ability to search for this #####crystal ball#####?\n#####Yes, please.#####Not now.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 72)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						story_flags[670 /* us: 805A9B1E 0x10, jp: 805ACD9E 0x10 */] = true;
 						story_flags[668 /* us: 805A9B1E 0x04, jp: 805ACD9E 0x04 */] = false;
@@ -725,13 +725,13 @@ void entrypoint_118_16() {
 				printf("######I'm fine. Go on, go on... Please leave\nme be...\n\n\nMy crystal ball has shattered, and\nwithout it, my eyes can no longer gaze\ndeeply into the future...\n\nIt's almost as though these #####exquisite,\nall-seeing eyes##### of mine have begun to\ndull and cloud over with sadness now\nthat my crystal ball is gone.\n#####If only... If only I had a new crystal\nball to gaze into...")
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 1), ('param2', 1798), ('next', 159), ('param3', 13)])
 				printf("Is it not true that you recovered a\npiece of the windmill from beneath\nthe clouds recently, young man?\n\nThis shattered crystal ball was salvaged\nfrom below by Gondo's ancestor long\nbefore it found its way into my\ndelicate hands.\nThere may still be others like it where\nit came from, yes, yes! Would you\nsearch for a new one for me?\n#####Yes.#####No.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 42)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 1), ('param2', 1802), ('next', 97), ('param3', 13)])
 					printf("Yesssss... No doubt you can see the\ngratitude in my eyes!\n\n\nThe robot who originally retrieved this\ncrystal ball was said to have reported\nthat he found it in #####a building atop a\nmountain peak#####! Can you believe it?!")
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 45), ('param2', 0), ('next', 124), ('param3', 51)])
 					printf("Your ###########dowsing##### ability can be calibrated\nto locate the crystal ball that this\nperson is seeking.\n\nHowever, if you are searching for\nanother object that someone has\nasked you to find, that target will be\nremoved when you switch to this target.\nDo you wish to set the #####crystal ball #####as\nyour dowsing target?\n#####Yes!#####Not yet.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 176)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######Understood, Master. I'll set your\ndowsing target to the crystal ball in\nquestion.")
 						story_flags[670 /* us: 805A9B1E 0x10, jp: 805ACD9E 0x10 */] = true;
@@ -801,7 +801,7 @@ void entrypoint_118_17() {
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 270), ('param3', 51)])
 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 100), ('next', 231), ('param3', 50)])
 						printf("Your ###########dowsing #####ability is not currently\ncalibrated to search for the #####plant\n#####that this person seeks.\n\n######Do you wish to calibrate your #####dowsing\n#####ability to search for this #####plant#####?\n#####Sure.#####Not yet.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 76)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							story_flags[681 /* us: 805A9B1E 0x40, jp: 805ACD9E 0x40 */] = true;
 							story_flags[668 /* us: 805A9B1E 0x04, jp: 805ACD9E 0x04 */] = false;
@@ -831,7 +831,7 @@ void entrypoint_118_17() {
 						printf("######Oh! Have you decided to help me\nafter all, ####?\n\n\nCollecting exotic plants is my passion!")
 						flw_118:
 						printf("######But you see...I have begun to fear that\nI have collected everything I can hope\nto collect. My plant collection now\nfeatures every known species.\nI've started wondering if, in light of\nyour travels, there isn't somewhere you\nmight be able to discover something\nnew for me.\n######What do you think? Would you be\nwilling to look for a new plant species\nfor me? Perhaps something exotic...\nThe kind that would turn a few heads?\n#####I'll try.#####Maybe later.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 60)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							printf("####\n#Aha! I knew you would be willing\nto help me out, ####.\n\n\nI'm truly sorry to trouble you, but\nplease try to bring me something\nrare... Something no one will have\nseen before!")
 							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 101), ('next', 266), ('param3', 32)])
@@ -840,7 +840,7 @@ void entrypoint_118_17() {
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 272), ('param3', 51)])
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 100), ('next', 135), ('param3', 50)])
 							printf("Your ###########dowsing##### ability can be calibrated\nto locate the #####plant##### that this person\nseeks.\n\nHowever, if you are searching for\nanother object that someone has\nasked you to find, that target will be\nremoved when you switch to this target.\nDo you wish to set this #####plant##### as your\ncurrent #####dowsing##### target?\n#####Yes!#####Not now.")
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 178)])) {
+							switch (choice(2, 0)) {
 							  case 0:
 								printf("######Understood, Master. I will set the plant\nin question as your current dowsing\ntarget.")
 								story_flags[681 /* us: 805A9B1E 0x40, jp: 805ACD9E 0x40 */] = true;
@@ -880,7 +880,7 @@ void entrypoint_118_17() {
 					switch (story_flags[736 /* us: 805A9B26 0x01, jp: 805ACDA6 0x01 */]) {
 					  case 0:
 						printf("##############! I don't suppose\nyou'd be willing to lend an ear to my\ntroubles this time, would you?\n#####What is it?#####No, sorry.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 58)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							printf("Actually, let's talk about this matter\nanother time. Since Kukiel has gone\nmissing, her mother has asked me to\nhelp with the search.\nIf you have the time, I'm sure she'd\nappreciate your help as well.")
 						  case 1:

@@ -35,7 +35,7 @@ void entrypoint_113_01() {
 	  case 0:
 		printf("######Hey, kid! How's #####Scrapper##### treating\nyou? Anything to upgrade today?\n#####Upgrade.#####Repair shield.#####No, thanks.")
 		flw_4:
-		switch (choice(3)) {
+		switch (choice(3, 1)) {
 		  case 0:
 			switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 14), ('param4', 2), ('param5', 7)])) {
 			  case 0:
@@ -66,13 +66,13 @@ void entrypoint_113_01() {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 40), ('param3', 31)])
 				printf("######Hey, kid! What's up? You look like you\nneed to get something off your chest...\n\n\nI think I know what it is. You've got a\nfavor to ask me, right?\n#####Yes.#####Not really.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 15)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					switch (story_flags[321 /* us: 805A9AFC 0x80, jp: 805ACD7C 0x80 */]) {
 					  case 0:
 						printf("######If you want me to get #####Scrapper##### here\nworking again, I need one #####Ancient\nFlower#####. But I dunno where they are.\n#####I have one!#####Me neither.")
 						flw_84:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 25)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							printf("######WHAT?! You have one?! Are you\nkiddin' me?! That's amazing!")
 							switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 1), ('param3', 14), ('param4', 2), ('param5', 11)])) {
@@ -126,7 +126,7 @@ void entrypoint_113_36() {
 void entrypoint_113_02() {
 	start()
 	printf("######All right. You want to upgrade this?\nThere's no going back, y'hear?\n#####Go for it!#####Never mind.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 3)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 10), ('param3', 33)])
 		printf("######OK! You just wait right there!")
@@ -308,11 +308,11 @@ void entrypoint_113_08() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 73), ('param3', 12)])
 	printf("######OK. One shield in need of patching up.\nThat'll be #####10 rupees#####.\n#####OK!#####No, thanks.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 21)])) {
+	switch (choice(2, 0)) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 10), ('param3', 10), ('param4', 2), ('param5', 23)])) {
+		switch (has_rupees(10)) {
 		  case 0:
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -10), ('next', 78), ('param3', 8)])
+			rupees += -10;
 			printf("######OK! You just wait right there!")
 			OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 121), ('param3', 12)])
 			story_flags[674 /* us: 805A9B20 0x08, jp: 805ACDA0 0x08 */] = true;

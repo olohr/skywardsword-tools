@@ -1,7 +1,7 @@
 void entrypoint_002_003() {
 	start()
 	printf("Do you want to continue adventuring?\n#####Continue#####Quit")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 5)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 	  case 1:
 	}
@@ -10,7 +10,7 @@ void entrypoint_002_003() {
 void entrypoint_002_004() {
 	start()
 	printf("Do you want to continue adventuring?\n#####Continue#####Quit")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 7)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 	  case 1:
 	}
@@ -19,7 +19,7 @@ void entrypoint_002_004() {
 void entrypoint_002_005() {
 	start()
 	printf("Are you sure you want to quit?\n#####Quit#####Cancel")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 9)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 	  case 1:
 	}
@@ -28,7 +28,7 @@ void entrypoint_002_005() {
 void entrypoint_002_001() {
 	start()
 	printf("######\n#####Save#####Save and #####quit##########Cancel")
-	switch (choice(3)) {
+	switch (choice(3, 1)) {
 	  case 0:
 	  case 1:
 	  case 2:
@@ -38,7 +38,7 @@ void entrypoint_002_001() {
 void entrypoint_002_002() {
 	start()
 	printf("Are you sure you want to quit?\n#####Yes#####No")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 3)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 	  case 1:
 	}

@@ -267,7 +267,7 @@ void entrypoint_400_54() {
 				printf("How is your search for that #####sacred\nflame #####going? Did you find it?!\n\n\nI have been dying to hear whether you\nfound it. Well...did you?\n\n\n######.#####.#####.#####So after that wild, long adventure,\nyou found it! ########, you\nare truly amazing.")
 				printf("######You know, I think it is time I tell you\nwhat I found out about the legend of\nthe three dragons.#####\n\nI am certain there is a hidden area just\nbeyond here in the desert!\n\n\nYou see, I found a #####narrow passageway###########\nthat was too tight for me to fit through.\n\n\n######And my gut tells me that one of the\nthree dragons of legend, the #####Thunder\nDragon#####, lives there!\n\n######These robots are connected to him\nsomehow. I am sure of it, bud.#####\n\n\n################The T##########hunder Dragon#####, robots, and\nTimeshift Stones#####.#####.#####.#####\n\n\n################What an adventure!")
 				printf("######I just remembered, ####.\nI have got something to report on the\nexcavation project you invested in\nearlier!#####\nI found loads of Timeshift Stones!\n######Now I can pay you back 10 times what\nyou gave me!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 100), ('next', 285), ('param3', 8)])
+				rupees += 100;
 				flw_285:
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', -1), ('next', 110), ('param3', 42)])
 				scene_flags[7 'Lanayru Desert'][75 /* 0x8 08 */] = true;

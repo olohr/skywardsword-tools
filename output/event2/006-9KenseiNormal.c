@@ -71,7 +71,7 @@ void entrypoint_006_904() {
 	start()
 	switch (story_flags[398 /* us: 805A9B0E 0x01, jp: 805ACD8E 0x01 */]) {
 	  case 0:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 20), ('param3', 10), ('param4', 2), ('param5', 4)])) {
+		switch (has_rupees(20)) {
 		  case 0:
 			printf("It is a place of amusement where you\ncan procure high-value Rupees with\nsurprisingly little exertion.\n\nYou will require room in your wallet to\ncarry Rupees back with you, though,\nso it would be wise to plan accordingly. ")
 		  case 1:
@@ -110,7 +110,7 @@ void entrypoint_006_943() {
 		  case 0:
 			flw_16:
 			printf("In ancient times, a great warrior\ndevised a strategy to collect lots of \narrows. Do you know it, ######Master?\n#####Tell me!#####I know it.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 6)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("The warrior took out his #####Wooden\nShield #####and approached the Bokoblin\nfort.\n\nHe hid behind his shield as the\nBokoblins rained arrows down on\nhim. He then retreated out of range.\n\nMany arrows #####were ##########stuck in his ##########Wooden\nShield#####. All he needed to do then was\npull them out and fire them back at\nhis enemies with his bow.")
 				flw_14:

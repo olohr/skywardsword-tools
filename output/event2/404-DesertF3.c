@@ -18,7 +18,7 @@ void entrypoint_404_03() {
 				  case 1:
 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 32), ('param3', 31)])
 					printf("######What are you doing with that seedling,\nvrrm?!##### #####Master Thunder Dragon##### needs\n#####fruit from the Tree of Life##### to recover!\n\n######Unless you mean to help our master,\nbzzzzt?\n#####Of course.#####Not really.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 56)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######Really, vrrm?! Thank you, zrrt!\nMake sure you plant the seedling\nsomewhere it will be sure to thrive,\nphoo-weep.\n######I fear growing the seedling to maturity\nin #####Lanayru Province is impossible#####,######\nbrrzrrt. We're counting on you, vweep!")
 						flw_72:
@@ -85,7 +85,7 @@ void entrypoint_404_56() {
 				printf("######Nice to see you, ####.\n\n\n\nSay, you ever find that #####sacred flame#####\nyou were looking for? Really?\nYou did?! Great! I was pretty curious\nabout it, so spill all the details!\n######.#####.#####.#####I see. So after all that adventuring,\nyou finally found it! \n\n\n########, I have to say... \nYou are pretty amazing!")
 				printf("######You are not the only one! I found \nout some more about the legend of the\nthree dragons. This news is going to\nblow your mind!\n...I have found out that there is indeed\na hidden area beyond here! There is a\n#####narrow path##### ######that I cannot fit through\nwithout losing a few pounds!\n######My theory is that it probably links to\nthe home of the #####Thunder Dragon#####, one\nof the three dragons in the legend.\n\n######And I am convinced that these robots\nmust have something to do with it as\nwell.#####\n\n###########The #####Thunder Dragon#####, a bunch of\nrobots, and Timeshift Stones#####.#####.#####.\n\n\n###########What a story!")
 				printf("######Oh, I almost forgot, ####!\nDo you remember that excavation\nproject you invested in?#####\n\nWell, we hit the jackpot! I found a\nlarge cache of Timeshift Stones.\n######I can pay you back tenfold now!")
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 100), ('next', 148), ('param3', 8)])
+				rupees += 100;
 				flw_148:
 				scene_flags[9 'Lanayru Gorge'][35 /* 0x5 08 */] = true;
 				goto flw_154
@@ -278,11 +278,11 @@ void entrypoint_404_50() {
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 62), ('param3', 12)])
 		printf("######So...you would not happen to be\ninterested in excavating, would you?####<\nYou are?! Well then, you are going to\nlove this!####<\n######The thing is, these research digs can\nget really expensive...##### But they can\nalso be lucrative! Any interest in\ninvesting 10 Rupees in my dig?\n#####Sure!#####No chance.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 30)])) {
+		switch (choice(2, 0)) {
 		  case 0:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 10), ('param3', 10), ('param4', 2), ('param5', 32)])) {
+			switch (has_rupees(10)) {
 			  case 0:
-				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -10), ('next', 66), ('param3', 8)])
+				rupees += -10;
 				printf("######Thanks! I will put these funds to good\nuse!")
 				story_flags[525 /* us: 805A9B14 0x04, jp: 805ACD94 0x04 */] = true;
 				flw_98:

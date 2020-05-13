@@ -161,7 +161,7 @@ void entrypoint_102_06() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 5), ('next', 69), ('param3', 6)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 0), ('next', 36), ('param3', 39)])
 	printf("######Did you hear that guy? A fair race? \nYeah, the chances of that happening\nare just about less than zero.\n\n######Either way, don't let those fools get\nyou down, ####! Just get\nout there and fly the best you can!\n\nI know you've got these guys beat, and\ndeep down I think you do too.\n#####Yeah!#####I dunno...#####Us? Alone?")
-	switch (choice(3)) {
+	switch (choice(3, 1)) {
 	  case 0:
 		printf("######That's the spirit, ####!\nTrust me--you can win this.")
 		flw_101:
@@ -477,7 +477,7 @@ void entrypoint_102_14() {
 	start()
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 30), ('param2', 0), ('next', 189), ('param3', 39)])
 	printf("This is Zelda's journal. One of the \nentries is unfinished.\nRead the entry?\n#####Read it!#####Don't read.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 51)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("Tomorrow's the big day! The Wing\nCeremony! Finally, ####\ncan take a big step toward becoming\na knight.\nI can't wait to see him promoted\nto full knighthood, but I'm a little\nworried he might have some trouble\nwinning the race.\nLately, #### hasn't taken\nhis flight training seriously. Someone\nneeds to make sure he doesn't mess up\nhis chance!\nSo I've made up my mind. Tomorrow\nI'll wake him up extra early and make\nsure he gets in some last-minute\npractice, whether he likes it or not.\nHe has to win, or we won't be able to\nperform the closing ceremony\ntogether!")
 	  case 1:

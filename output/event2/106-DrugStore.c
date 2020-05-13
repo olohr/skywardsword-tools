@@ -6,7 +6,7 @@ void entrypoint_106_34() {
 	  case 0:
 		printf("######This mysterious elixir is known as\n#########~#####!\n\n\nSimply pour it on a broken shield, and\nin moments the shield will be as good as\nnew! It's amazing!\n\nNot only that, but this multipurpose\nmixture will even restore #####four##### hearts!\n\n\nHow about some to take on your\ntravels? It's only #####30 Rupees#####!\n#####OK!#####No, thanks.")
 		flw_11:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 6)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 26)])
 		  case 1:
@@ -20,7 +20,7 @@ void entrypoint_106_34() {
 void entrypoint_106_51() {
 	start()
 	printf("######Ahh, OK... I can improve this potion.\nYou're sure this is what you want?\n#####Yep.#####Maybe not...")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 24)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 68), ('param3', 33)])
 		printf("######Ah, wonderful... Just a moment...\nSorry to make you wait like this...")
@@ -76,7 +76,7 @@ void entrypoint_106_01() {
 						  case 0:
 							printf("######Hmm? Something I can do for you?\n#####Teach me!#####Not really.")
 							flw_2:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+							switch (choice(2, 0)) {
 							  case 0:
 								printf("######Such a smart boy you are! Just stand\nin front of the potion you want to hear\nabout, and press #####.\n\nI'll talk you through everything that\npotion will do for you. The potions I\ncarry are pretty basic.\n\nHowever, if you want something\nwith a bit more kick to it...\n\n\n######You can buy one of my potions and\nwalk it a few steps down to my husband\nthere. He'll be able to help you out.\n\n######He might not look like much, but he\nmixes a mean potion, and he's used to\ndealing with kids like you.")
 								flw_7:
@@ -345,7 +345,7 @@ void entrypoint_106_50() {
 			  case 0:
 				flw_62:
 				printf("######Ah...hello... Welcome to my humble\nlittle side business over here.\n\n\nI, uh...infuse the potions my wife sells\nwith new ingredients to increase their\npower. It's nothing, really...just\nsomething I like to do.\n######Well...ah, do you have any potions\nyou would like me to infuse?\n#####Sure.#####Nah.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 22)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 14), ('param4', 2), ('param5', 30)])) {
 					  case 0:

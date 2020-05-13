@@ -216,7 +216,7 @@ void entrypoint_204_03() {
 				  case 0:
 					flw_131:
 					printf("######Kik-kwee! If you want to know more\nabout Tadtones, you should talk to the\nParella. They know all about them.\n#####Parella?#####I know.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 110)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######They're those water-dwelling folks with\nthe pointy mouths, kwee-koo!")
 						flw_179:
@@ -350,7 +350,7 @@ void entrypoint_204_05() {
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 13), ('param3', 31)])
 			printf("######Oh, kewwwwww. You.#####.#####.##### You're that one\nfrom before. Come to think of it, I'd\nforgotten to ask your name.\n\n######...#####I see. ########, is it?\nNow there's an odd name, kewwwww.\n######Ah...\n\nWhat brings you to see me?\n#####This water!#####The woods...")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 104)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				flw_162:
 				printf("######Kewwww, it's good to see you again!\nYes, things look a bit different here,\ndon't they?\n\n######The water came gushing out of the #####base\nof the tree##### behind me###### and flooded the\nentire woods.\n\n######I don't know what caused it,\nbut I suppose it will clear out the\nmonster infestation, kewww, so you\nwon't hear me complaining!")
@@ -386,7 +386,7 @@ void entrypoint_204_22() {
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 66), ('param3', 31)])
 			printf("Hey, are you collecting Tadtones?\n#####Yep.#####Nope.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 46)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("I'll let you in on a secret, then.\n\n\n\nSome Tadtones hang out in groups.\nYou have to catch those similar\nTadtones #####one right after the other#####, or\nthey'll swim out of your score.\nIf you want to catch a bunch at once,\nuse a #####spin maneuver##### to #####draw in##### nearby\nTadtones. That's your best bet.\n\nAside from that...#####it's really just a\nmatter of keeping at it!")
 				story_flags[76 /* us: 805A9AE8 0x20, jp: 805ACD68 0x20 */] = true;

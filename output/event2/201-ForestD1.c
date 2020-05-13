@@ -181,7 +181,7 @@ void entrypoint_201_92() {
 	printf("Hold it... You're that guy. That guy\nI met in the volcano!")
 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4117), ('param2', 2065), ('next', 52), ('param3', 13)])
 	printf("Here to do some treasure hunting too?\n#####Yep!#####Nope.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 6)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4113), ('param2', 3346), ('next', 60), ('param3', 13)])
 		printf("I called it! You got treasure hunter\nwritten all over your face.")
@@ -278,7 +278,7 @@ void entrypoint_201_95() {
 		printf("Hold it... You're that guy. That guy\nI met in the volcano!")
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4373), ('param2', 3345), ('next', 125), ('param3', 13)])
 		printf("Here to do some treasure hunting too?\n#####Yep!#####Nope.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 12)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4369), ('param2', 3346), ('next', 133), ('param3', 13)])
 			printf("I called it! You got treasure hunter\nwritten all over your face.")
@@ -335,7 +335,7 @@ void entrypoint_201_96() {
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4113), ('param2', 3329), ('next', 250), ('param3', 13)])
 			printf("Hey. What do you want?\n#####Key?#####Treasure?#####Never mind.")
-			switch (choice(3)) {
+			switch (choice(3, 1)) {
 			  case 0:
 				goto flw_189
 			  case 1:

@@ -8,17 +8,17 @@ void entrypoint_304_14() {
 		printf("############Ho ho ho... Ahhh!\nThe exit at last...")
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 100), ('next', 59), ('param3', 17)])
 		printf("...#########\n#Whoa!\n\n\n\n###########Don't scare me like that! I thought you\nwere one of those monster creeps!\n\n\n...######Oh, hey, what's this?\n\n\n\nYou got yourself a swanky pair of\n#####Digging Mitts#####, don'tcha?\n\n\n######Who are ya, anyway? Whatcha doing\nhere?\n#####On a quest!#####Well...")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 28)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			flw_62:
 			printf("######Hmm... I getcha.\n\n\n\n######Huh? Me?\n\n\n\n######Oh yah, the name's #####Guld#####. I'm the big\nboss of the Mogmas.\n\n\nThose Digging Mitts you got right\nthere... I invented 'em!\n\n\n######Hahah!")
 			printf("...######No offense, pal, but you don't look\nlike the kinda guy I'd send in here on a\ntreasure-huntin' mission...\n\n######But what do I know... Ya might just\nsurprise me.\n\n\nSo here's the deal... Word in the\ntunnels is there's a huge treasure \nhidden in these here ruins...\n\nBut nobody who's ever seen it has\ncome back to tell the tale.\n\n\nCountless treasure hunters have\ndisappeared in here! Poof! Gone.\n\n\n######As a treasure digger, I gotta warn\nyou to just turn around and enjoy the\nmany peaceful years of diggin' left to\nyou, but...\n######You're gonna do this no matter what\nI say, aren't ya?\n#####Pretty much.#####...")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 32)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				flw_76:
 				printf("######All right, then... I'm gonna let you in\non an ancient treasure-hunting legend\npassed down among generations of\nMogmas.\n######Every Mogma worth a handful o' dirt\nknows this one...\n\n\n######Here we go...\n\n\n\n#Ye who seek the entrance to the king's\ntreasure, look for the #####two statues that\nface one another#####.\"\n\n#Show your bravery and #####jump into the\nmouth of the sleeping statue#####. Do this,\nand the path will open before you.\"\n\n######You remember all that, and you're\ngolden.\n#####Thanks.#####Say it again!")
 				flw_78:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 30)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######Some of my guys are searchin' around\nhere for the treasure.\n\n\nIf you get lost, holler at one of 'em.")
 					scene_flags[15 'Eldin: Fire Sanctuary'][107 /* 0xC 08 */] = true;
@@ -125,7 +125,7 @@ void entrypoint_304_02() {
 		printf("######Right, then--I'm outta here!\nSo long!")
 	  case 1:
 		printf("######Oh yaaah! I'm saved!\n\n\n\n######I don't know who ya are or where\nyou're from, but I owe ya big-time!\n\n\nAre ya here looking for treasure too?\n#####Yep!#####Treasure?")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######Ha ha! You were totally caught up in\nthat too, pal!")
 			flw_17:
@@ -243,7 +243,7 @@ void entrypoint_304_09() {
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 109), ('param3', 39)])
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 2), ('param2', 0), ('next', 41), ('param3', 39)])
 		printf("######Ohhh yah! You've come along at the\nright time, pal!\n\n\n######I don't know who ya are or where \nyou're from, but what I need right now\nis for ya to get me offa this chain!\n#####I'm in a hurry.#####...")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 16)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			flw_43:
 			printf("######I'm not asking ya to do it for nothing,\nthough! Set me free, and I'll tell ya the\n#####big, gigantic secret #####about this room!\n\nIt's a secret about treasure! OK?")
@@ -264,7 +264,7 @@ void entrypoint_304_10() {
 			scene_flags[15 'Eldin: Fire Sanctuary'][37 /* 0x5 20 */] = true;
 			scene_flags[15 'Eldin: Fire Sanctuary'][79 /* 0x8 80 */] = true;
 			story_flags[822 /* us: 805A9B30 0x40, jp: 805ACDB0 0x40 */] = true;
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 54)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######All right, then! Go ahead and open\n'er up! But don't forget our deal!")
 				flw_123:
@@ -277,7 +277,7 @@ void entrypoint_304_10() {
 			}
 		  case 1:
 			story_flags[819 /* us: 805A9B30 0x08, jp: 805ACDB0 0x08 */] = true;
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 24)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######All right, then! Go ahead and open\n'er up. But don't forget our deal!\n\n\nLater, then... I said bye now.")
 				flw_131:
@@ -290,7 +290,7 @@ void entrypoint_304_10() {
 		}
 	  case 1:
 		printf("######Hoooo-yah! That is the sweet, sweet\nflavor of freedom, hoss!\n\n\n######And, uhh...heh heh...thanks for\ntaking the trouble to free me...\nSucker!\n\nYou really think I would divulge super-\nsecret info about treasure? My momma\ndidn't raise no patsy! I spent too long\nfindin' that info!\n###########Huh?!\n\n\n\n######Those gloves are from my brother's\nsecret collection! Are ya friends with\nmy brother or something?\n\n#####That's right.#####I helped him!")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 20)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			flw_51:
 			printf("######Wait, wait, wait! There's somethin'\nI want to give you!\n\n\n######I'll just go get it. Wait here!")
@@ -344,7 +344,7 @@ void entrypoint_304_13() {
 		scene_flags[15 'Eldin: Fire Sanctuary'][82 /* 0xB 04 */] = true;
 	  case 1:
 		printf("######Noooooooo... You got me! Go on, then,\nyou monster! Boil me, bake me...\nDo your worst!\n\n...\n\n\n\n######Huh? I know those gloves...\n\n\n\nAin't those from my brother's secret\ncollection?\n#####He gave me 'em.#####That's right.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 8)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			flw_34:
 			printf("######What?! You know my brother?!\n\n\n\nAwww, you're all green. I thought you\nwere a monster!\n\n\n######Hey, don't get all angry! I thought you\nwere one of them. Sorry, guy!\n\n\nLemme give ya something good to make\nup for it. Hang on there a sec.")

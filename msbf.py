@@ -148,8 +148,10 @@ if __name__ == "__main__":
             if item['type']=='start':
                 lines.append((itemId,indent,'start()'))
             elif item['type']=='switch':
-                if item['subType']==6 and item['param2'] == 0 and item['param3'] == 1:
-                    lines.append((itemId,indent,'switch (choice(%d)) {'%(item['param4'])))
+                # if item['subType']==0 and item['param3']==14:
+                #     print(item['param2'])
+                if item['subType']==6 and item['param2'] == 0 and (item['param3'] == 1 or item['param3']==0): #TODO is there a difference in those choices? 
+                    lines.append((itemId,indent,'switch (choice(%d, %d)) {'%(item['param4'], item['param3'])))
                 elif item['subType']==6 and item['param3'] == 3:
                     lines.append((itemId,indent,'switch (story_flags[%d /* %s */]) {'%(item['param2'],idx_to_story_flag(item['param2']))))
                 elif item['subType']==6 and item['param3']==6:
@@ -161,6 +163,11 @@ if __name__ == "__main__":
                 elif item['subType']==6 and item['param3']==9:
                     assert item['param4']==2
                     lines.append((itemId,indent,'switch (temp_flags[%d /* %s */]) {'%(item['param2'],idx_to_scene_flag(item['param2']))))
+                elif item['subType']==6 and item['param3']==10:
+                    assert item['param4']==2
+                    lines.append((itemId,indent,'switch (has_rupees(%d)) {'%(item['param2'])))
+                elif item['subType']==0 and item['param3']==16:
+                    lines.append((itemId,indent,'switch (minigame_related[%d]) {'%(item['param2'])))
                 elif item['subType']==6 and item['param3']==19:
                     assert item['param4']==2
                     lines.append((itemId,indent,'switch (adventure_pouch_has(%d 0x%04X)) {'%(item['param2'],item['param2'])))
@@ -174,6 +181,8 @@ if __name__ == "__main__":
                 msbt_file, msbt_line = item['param3'],item['param4']
                 string = re.sub(r'[^\x20-\x7e]','#', strings[msbt_line].replace('\n','\\n').replace('"','\\"'))
                 lines.append((itemId,indent,'printf("%s")'%string))
+            elif item['type']=='type3' and item['subType']==0 and item['param3']==8:
+                lines.append((itemId,indent,"rupees += %d;"%(item['param2'])))
             elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==0:
                 lines.append((itemId,indent,"story_flags[%d /* %s */] = true;"%(item['param2'],idx_to_story_flag(item['param2']))))
             elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==1:

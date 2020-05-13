@@ -44,11 +44,11 @@ void entrypoint_103_06() {
 			loadzone_temp_flags[19 /* 0xB 08 */] = true;
 		  case 1:
 			printf("######It's happened, ####!\n\n\n\nThe goddess...##### The goddess and her\nisle have vanished from Skyloft!\n#####The truth is...#####Err...")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 24)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				flw_65:
 				printf("No need to explain, ####!\n\n\n\n#####When all catastrophes are overcome,\nonly then will the goddess make her\nreturn to the surface.#####\n\nThese are the last of the #####secret words#####\npassed down here in Skyloft.##### It is only\nnow that I realize the significance of\nthem. Yes...\nTheir meaning is clear to me. This must\nmean it's all over...##### And my Zelda...####\n\nshe's safe at last?\n#####I'm sorry.#####No.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 40)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					flw_99:
 					printf("And...whatever other surprises fate\nmay have in store for you, I'm sure you\nwill triumph. We're counting on you\nafter all!\nJust stay focused on the task at hand. \nPut all your strength into it, and you\ncan't go wrong!")
@@ -102,7 +102,7 @@ void entrypoint_103_06() {
 									printf("#####...#####You want to tell me but you can't?\nHmm. I...understand. I'm sure you\nhave good reason for keeping quiet#####...")
 									OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 30), ('next', 37), ('param3', 6)])
 									printf("########, I've been doing\nsome thinking since we last spoke.\n\n\nYou have had this destiny thrust upon\nyou without warning...or choice, for\nthat matter. But I wish to help you as\nbest I can.\nI'm getting older, and I lack the\nvigor of youth#####...#####but even old men\nhave ways of being useful, too!\n\nI wish to share as much of my\nknowledge with you as I can!\n\n\nIf you have any question...any question\nat all about Skyloft or its history, I will\nbe glad to tell you all that I know.\n#####Actually...#####Not now.")
-									switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 10)])) {
+									switch (choice(2, 0)) {
 									  case 0:
 										flw_25:
 										printf("What do I know of the #####Triforce##########...#####?\n\n\n\n########, where did you hear\nthat word?\n\n\nIt's true that the ancient texts make\nseveral mentions of the Triforce\nwithin their pages.\n\nUnfortunately, the actual location of\nthe Triforce isn't illuminated in\nany of those tomes. Its whereabouts\nare lost to history.")
@@ -132,7 +132,7 @@ void entrypoint_103_06() {
 												printf("######Hmm... I see#####...##### My dear Zelda... \nThings must be terribly trying for her\ndown there.\n\nAnd it can't be easy for you now either,\ncan it?")
 												OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 4), ('param3', 39)])
 												printf("What?####( You want to know the lyrics to\nthe song Zelda sang on the day of the\nWing Ceremony?\n\nYou know, I'm not much of a singer...\n#####Just lyrics!#####Sing it!")
-												switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+												switch (choice(2, 0)) {
 												  case 0:
 													printf("You just want the lyrics? Oh! What a\nrelief. You really put me on the spot\nthere for a moment. I believe the lyrics\ngo something like this...")
 													flw_8:
@@ -171,7 +171,7 @@ void entrypoint_103_07() {
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 44), ('param3', 39)])
 	OrderedDict([('type', 'type3'), ('subType', 2), ('param1', 0), ('param2', 100), ('next', 29), ('param3', 15)])
 	printf("Though, there is one whose vast\nknowledge may be of use...\n\n\nSurely you're familiar with #####Levias#####, the\ngreat##### sky spirit #####who has guarded our\nrealm for ages?\n\n##\n###Levias has served as the protector\nof our skies for a long time, and his\nknowledge of our world is\nencyclopedic, to put it mildly.\nIf anyone in the entirety of Skyloft and\nbeyond were to know about the\nTriforce, it would be him.\n#####Where is he?#####Encyclopedic?")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 14)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("Yes... I feared that might be your next\nquestion. About that...")
 		flw_45:

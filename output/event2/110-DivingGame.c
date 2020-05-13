@@ -5,7 +5,7 @@ void entrypoint_110_01() {
 		switch (loadzone_temp_flags[5 /* 0x9 20 */]) {
 		  case 0:
 			printf("######Want me to explain the rules one more\ntime? I know it's awfully complicated\nfor a fun little guy like you!\n#####OK...#####Nah.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 59)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Heyyyyy, then! Let me tell you all\nabout the rules!\n\n\n######First thing you need to know is you'll be\nshot out of a CANNON! You'll fly\nwaaaaay up there. Don't cry, little\nboy--it's perfectly, mostly safe!\nYour goal is to dive onto a cheery,\ncolorful rotating board. Land on a\nhappy, little colored space, and you'll\nwin Rupees based on the color.\n######BUT! If you land on the gray space--\nI call that the #####LOSER SPACE#####--then I\nget to reach in and take a handful of\nyour Rupees! Isn't that FUN?!\n######You can risk everything to win big here\nat Fun Fun Island, but it's a game of\n#####luck #####so, uh...don't come crying to me if\nyou land on the #####loser space#####! HAWHAW!")
 				printf("######When you're diving, superfun #####Fortune\nRings #####and #####Dodoh Balls #####will appear like\nMAGIC!\n\n######If you can pass through one of those\n#####Fortune Rings#####, you'll increase the\nawesome Rupee score multiplier!\nOOOOOoooh!\nAnd the more rings you pass through,\nthe slower the wheel will spin, making\nit easier to land on your target and\nWIN!\n######But hitting one of those #####Dodoh Balls#####\nwill reset your multiplier and turn\nyour smile upside down!\n\n######Oh, and you #####can't use #####your Sailcloth\nwhile you're diving. Did you get all\nthat, little guy?")
@@ -23,13 +23,13 @@ void entrypoint_110_01() {
 					  case 0:
 						printf("######Want to play again, little guy?!\nOOOoooooooh, you're hooked!\n\n\nIt'll be #####20 Rupees#####. What do you say?\n#####Yes!#####Rules, please.#####No way.")
 						flw_33:
-						switch (choice(3)) {
+						switch (choice(3, 1)) {
 						  case 0:
 							switch (story_flags[399 /* us: 805A9B11 0x80, jp: 805ACD91 0x80 */]) {
 							  case 0:
-								switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 20), ('param3', 10), ('param4', 2), ('param5', 2)])) {
+								switch (has_rupees(20)) {
 								  case 0:
-									OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -20), ('next', 82), ('param3', 8)])
+									rupees += -20;
 									flw_82:
 									loadzone_temp_flags[5 /* 0x9 20 */] = true;
 									printf("######RIGHTO! There's a brave little guy!\nOnce you're ready, hop into the cannon \nin the center of the island and plug\nyour ears! I'll prepare the cannon!")
@@ -75,10 +75,10 @@ void entrypoint_110_01() {
 					printf("######When you're diving, superfun #####Fortune\nRings #####and #####Dodoh Balls #####will appear like\nMAGIC!\n\n######If you can pass through one of those\n#####Fortune Rings#####, you'll increase the\nawesome Rupee score multiplier!\nOOOOOoooh!\nAnd the more rings you pass through,\nthe slower the wheel will spin, making\nit easier to land on your target and\nWIN!\n######But hitting one of those #####Dodoh Balls#####\nwill reset your multiplier and turn\nyour smile upside down!\n\n######Oh, and you #####can't use #####your Sailcloth\nwhile you're diving. Did you get all\nthat, little guy?")
 					story_flags[42 /* us: 805A9AE7 0x08, jp: 805ACD67 0x08 */] = true;
 					printf("######Sounds like FUN, right?! Want to give\nit a try?!\n#####Sure!#####Maybe later.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######Want me to explain the rules one more\ntime? I know it's awfully complicated\nfor a fun little guy like you!\n#####OK...#####Nah.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 61)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							printf("######Heyyyyy, then! Let me tell you all\nabout the rules!\n\n\n######First thing you need to know is you'll be\nshot out of a CANNON! You'll fly\nwaaaaay up there. Don't cry, little\nboy--it's perfectly, mostly safe!\nYour goal is to dive onto a cheery,\ncolorful rotating board. Land on a\nhappy, little colored space, and you'll\nwin Rupees based on the color.\n######BUT! If you land on the gray space--\nI call that the #####LOSER SPACE#####--then I\nget to reach in and take a handful of\nyour Rupees! Isn't that FUN?!\n######You can risk everything to win big here\nat Fun Fun Island, but it's a game of\n#####luck #####so, uh...don't come crying to me if\nyou land on the #####loser space#####! HAWHAW!")
 							printf("######When you're diving, superfun #####Fortune\nRings #####and #####Dodoh Balls #####will appear like\nMAGIC!\n\n######If you can pass through one of those\n#####Fortune Rings#####, you'll increase the\nawesome Rupee score multiplier!\nOOOOOoooh!\nAnd the more rings you pass through,\nthe slower the wheel will spin, making\nit easier to land on your target and\nWIN!\n######But hitting one of those #####Dodoh Balls#####\nwill reset your multiplier and turn\nyour smile upside down!\n\n######Oh, and you #####can't use #####your Sailcloth\nwhile you're diving. Did you get all\nthat, little guy?")
@@ -105,7 +105,7 @@ void entrypoint_110_01() {
 					printf("######Hello there, young man. You think\nyou can find my party wheel?\n\n\nNo? I didn't think so...")
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 45), ('param2', 0), ('next', 92), ('param3', 51)])
 					printf("Your ###########dowsing #####ability is not currently\ncalibrated to search for the #####party\nwheel #####that this person is seeking.\n\n######Do you want to calibrate your #####dowsing\n#####ability to search for this #####party\nwheel#####?\n#####Yes.#####No.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 47)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						story_flags[682 /* us: 805A9B1E 0x80, jp: 805ACD9E 0x80 */] = true;
 						story_flags[668 /* us: 805A9B1E 0x04, jp: 805ACD9E 0x04 */] = false;
@@ -133,12 +133,12 @@ void entrypoint_110_01() {
 						  case 0:
 							printf("######Oh...it's nothing, really. I don't want to\nbother you with my shattered dream.\n\n\nIt was just a silly decoration I used\nto pin on to my back, ####\nbut still...####\n\nIt was MY silly decoration...\n#####I'll find it!#####It's gone.")
 							flw_54:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 29)])) {
+							switch (choice(2, 0)) {
 							  case 0:
 								printf("How am I supposed to go get something\nthat fell below the clouds?\nThat's impossible!")
 								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 45), ('param2', 0), ('next', 57), ('param3', 51)])
 								printf("Your ###########dowsing##### ability can be calibrated\nto locate the item that this person\nseeks.\n\nHowever, if you are searching for\nanother object that someone has\nasked you to find, that target will be\nremoved when you switch to this target.\nDo you wish to set the##### party wheel #####as\nyour #####dowsing##### target?\n#####Yes.#####Not now.")
-								switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 53)])) {
+								switch (choice(2, 0)) {
 								  case 0:
 									printf("######Understood, Master. I will calibrate\nyour #####dowsing##### ability so that you can\nassign the #####party wheel##### as a dowsing\ntarget.")
 									story_flags[682 /* us: 805A9B1E 0x80, jp: 805ACD9E 0x80 */] = true;
@@ -165,7 +165,7 @@ void entrypoint_110_01() {
 							}
 						  case 1:
 							printf("######Urrrrrghhh... What am I going to do?!\nIt's no use! It's all over...\n#####What's wrong?##### Uh...")
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 27)])) {
+							switch (choice(2, 0)) {
 							  case 0:
 								printf("You see, the party wheel that I\npinned to my back flew off the island\nand fell down somewhere below\nthe clouds.\nWithout my party wheel, there's just\nno way I can make this island a place\nwhere people come to have fun!\n\n####\n#What can I do? It fell down below the\nclouds, so I guess I should just give up\non it.\n#####Look for it!#####Give up.")
 								goto flw_54
@@ -187,7 +187,7 @@ void entrypoint_110_01() {
 				printf("###########FUN FUN########## ISLAND#####! Smells like fun\nand danger already, doesn't it?!\nI'm still getting the place ready, but I\nhope you'll come visit again later!")
 			  case 1:
 				printf("######YAHOOOEY! Step right up, boy!\n\n\n\n######Oh. I bet you're wondering what I'm\ndoing here...\n#####A little.#####Nah.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 25)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######Just the answer I was looking for!\nWhat a smart little guy you are!\n\n\n######I'm hoping to make this island a FUN\nplace where everyone can come and be\nhappy...\n\nWhat's it called, you ask? Or even\nif you didn't ask?##### I call it...\n#####FUN FUN ISLAND#####!\n\n######I'm still getting the place set up, so\nhopefully you'll visit again later! You\nmight like what you find! Especially if\nyou like FUN and COLORS!")
 					temp_flags[4 /* 0x1 10 */] = true;
@@ -204,7 +204,7 @@ void entrypoint_110_02() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 5), ('next', 31), ('param3', 44)])
 	loadzone_temp_flags[5 /* 0x9 20 */] = false;
 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 14), ('param3', 12)])
-	switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 16), ('param4', 4), ('param5', 6)])) {
+	switch (minigame_related[0]) {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 21), ('param2', 6912), ('next', 117), ('param3', 13)])
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 50), ('next', 15), ('param3', 6)])

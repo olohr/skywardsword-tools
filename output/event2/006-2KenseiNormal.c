@@ -69,7 +69,7 @@ void entrypoint_006_248() {
 			  case 1:
 				printf("You have learned two parts of the #####Song\nof the ##########Hero###############. Your next move should be\nto seek out the dragon who rules over\n#####Lanayru Province##### as fast as possible.\n#####And after that?#####Got it.")
 				flw_16:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 14)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("When you have collected three parts\nof the Song of the Hero, return to\nthe great sky spirit, #####Levias#####, and\ncomplete the Song of the Hero.\nIf the information you've gathered is\naccurate, doing this will open the path\nto the #####Triforce#####.\n\nShould you go on to successfully obtain\nthe #####Triforce#####, you must use its power to\nvanquish #####Demise#####.\n\nThis is not only your ultimate goal but\nalso your destiny, ######Master.######")
 				  case 1:
@@ -110,7 +110,7 @@ void entrypoint_006_248() {
 void entrypoint_006_249() {
 	start()
 	printf("I recommend returning to #####Levias#####, the \ngreat sky spirit, to hear the final part\nand complete the Song of the Hero.\n#####And after that?#####Got it.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 16)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("I infer the completed Song of the\nHero will open a path to the Triforce.\n\n\nShould you go on to successfully obtain\nthe #####Triforce#####, you must use its power to\nvanquish #####Demise#####.###### \n\nDoing so is your ultimate goal and your\ndestiny, ######Master.")
 	  case 1:

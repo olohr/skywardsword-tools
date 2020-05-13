@@ -64,7 +64,7 @@ void entrypoint_402_02() {
 				  case 0:
 					printf("Let's get going quick, vrrm! Don't you\nneed to find that person you're looking\nfor, brrzt?\n\nOr do you need me to take the boat\nsomewhere else on this sea?\n#####To sea!#####To the Sandship!#####Never mind.")
 					flw_263:
-					switch (choice(3)) {
+					switch (choice(3, 1)) {
 					  case 0:
 						printf("######All right! Let's go, vrrrrm!")
 						changeScene(2, 0) // 
@@ -103,7 +103,7 @@ void entrypoint_402_02() {
 				switch (story_flags[272 /* us: 805A9AF8 0x04, jp: 805ACD78 0x04 */]) {
 				  case 0:
 					printf("######Ready to shove off, brrzt?\n#####To sea.#####To the Sandship.#####Never mind.")
-					switch (choice(3)) {
+					switch (choice(3, 1)) {
 					  case 0:
 						printf("######All right! Let's go, vrrrrm!")
 						changeScene(2, 0) // 
@@ -115,7 +115,7 @@ void entrypoint_402_02() {
 					}
 				  case 1:
 					printf("######Shall we shove off, vrrm?\n#####Let's go!#####Wait...")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 31)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######All right! Let's go, vrrrrm!")
 						changeScene(2, 0) // 
@@ -127,7 +127,7 @@ void entrypoint_402_02() {
 		  case 1:
 			printf("What's that, vwooot? Changed\nyour mind?\n\n\nWill you help me to get back my ship,\nbzztzzz?\n#####I'll help!#####No way.")
 			flw_134:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 27)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Really, vrrm? Well, in that case, bzzt...")
 				printf("Hmm####\n.####\n.####\n. There's something weird about\nthat map of yours...vrrm.\n\n\n######If you're going to navigate these\ntreacherous waters, then you need a\nproper #####sea chart#####, doo-weep!\n\nThere is a #####sea chart #####in my shack\nat #####Skipper's Retreat#####, bzzzt. So first\nyou need to get on this boat and set a\ncourse for #####Skipper's Retreat#####!")
@@ -140,7 +140,7 @@ void entrypoint_402_02() {
 	  case 1:
 		story_flags[264 /* us: 805A9AF9 0x04, jp: 805ACD79 0x04 */] = true;
 		printf("Hmm####\n.####\n.####\n. Who are you, bzzt?\nSome human, vrrrm?\n\n\nWho am I, brrzrrt#####.#####.#####.?\n\n\n\n############I am the proud skipper of the ship\nthat protects #####Nayru's Flame#####, phweep!\n#####Nayru's Flame?#####Protector ship?")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 37)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			flw_212:
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 13), ('param2', 0), ('next', 210), ('param3', 39)])
@@ -151,7 +151,7 @@ void entrypoint_402_02() {
 			printf("######After that, I took this boat and went\nsearching for my ship and crew, but\nthey were nowhere to be found, bzzt.")
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 217), ('param3', 39)])
 			printf("######It haunts me, wondering where my\nship could be, phweep.#####.#####.\n\n\nI'd bet my hat they've turned the ship\ninvisible and are hiding out \nsomewhere, vrrm! You can't see it.\n#####Why not?#####Invisible?")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 39)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				flw_209:
 				printf("######In order to protect #####Nayru's Flame#####, the\nship has a function that allows it to\nbecome invisible, vweep#####.#####.#####.\n\nYou say you're searching for #####Nayru's\nFlame#####, bzzt? Oh... So you need #####Nayru's\nFlame #####to find someone important to\nyou, vrrrm#####.#####.#####.?\n######In that case, you should help me search\nfor my ship and crew, phweep!")
@@ -213,7 +213,7 @@ void entrypoint_402_04() {
 					flw_46:
 					printf("######Shall we set sail, vrrt?\n#####Set sail!#####Not yet.")
 					flw_47:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 11)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######Anchors aweigh, zrrm!")
 						changeScene(2, 0) // 
@@ -407,7 +407,7 @@ void entrypoint_402_10() {
 					flw_67:
 					printf("######Shall we set sail, vrrt?\n#####Set sail!#####Not yet.")
 					flw_68:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 23)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######Anchors aweigh, zrrm!")
 						changeScene(2, 0) // 
@@ -518,7 +518,7 @@ void entrypoint_402_14() {
 					flw_56:
 					printf("######Shall we set sail, vrrt?\n#####Set sail!#####Not yet.")
 					flw_57:
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 17)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######Anchors aweigh, zrrm!")
 						changeScene(0, 0) // 

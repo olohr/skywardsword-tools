@@ -53,7 +53,7 @@ void entrypoint_305_02() {
 	printf("######Ta-DAH! I'm here to save the day!")
 	printf("######Heyyyy! Long time no see!\n\n\n\n######Huh? Don't tell me ya forgot my ugly\nmug!\n\n\n######I'm Plats, the Mogma you helped \nin the northern temple!\n\n\n######I saw them draggin' you off\nunconscious, so I tailed 'em!")
 	printf("######You're pretty fearless, eh?\nWhat are you up to now?\n#####Well...#####Searching.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("######Th-the dragon? You mean the\ndragon-god thing?\n\n\nUhh, yeah... I heard a rumor that a big\ndragon-god lives in this mountain...\n\n\n######You really like those fantasy stories,\neh, pal?\n\n\n######Hmm? Why am I here, you ask?\n\n\n\n######I just heard a rumor that some bad\nguys were gettin' together on this\nmountain!\n\nHeh heh heh... And everyone knows\nthat when bad guys get together,\nthey'll be fightin' over some loot.")
 		flw_17:
@@ -75,7 +75,7 @@ void entrypoint_305_03() {
 	  case 0:
 		OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 21), ('param3', 46)])
 		printf("#####\nAnd I probably don't even need to say\nthis again... But seriously, pal, don't\nlet them bad guys see ya, y'hear?\n\n######They ain't gonna do nothin' nice if they\ncatch you! So don't do anything heroic\nand get yourself caught!\n\nGot it?\n#####OK, already...#####...")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 16)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			flw_52:
 			printf("...\n\n\n\n######Ahh... You know, I really worry about\nya, pal. It's a weakness of mine!\n\n\n######OK, tell you what...I'm gonna show you\nsomething good! Open up your map!")
@@ -123,7 +123,7 @@ void entrypoint_305_06() {
 	  case 0:
 		printf("Hey there, friend. Do you want a hint?\nI've got new ones to show!\n#####Show me!#####No, thanks.")
 		flw_66:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 20)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			changeScene(2, 0) // 
 		  case 1:
@@ -144,7 +144,7 @@ void entrypoint_305_07() {
 		  case 0:
 			printf("Pst! Hey, boy oh boy, have I got some\ngreat hints for you. Want to see one?\n#####Show me!#####No, thanks.")
 			flw_74:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 24)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				changeScene(2, 0) // 
 			  case 1:

@@ -6,7 +6,7 @@ void entrypoint_115_02() {
 		flw_495:
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 0), ('next', 432), ('param3', 33)])
 		printf("######Well, today I am buying these\ntreasures:\n\n\n###########\n#####################\n################\n################\n######Just these four! So, what do you want\nto do?\n#####I'll sell!#####No deal.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 150)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			flw_414:
 			printf("Which will you sell to me?\n#####################.#####################.#####################.#####################.")
@@ -26,7 +26,7 @@ void entrypoint_115_02() {
 						switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 14), ('param4', 2), ('param5', 195)])) {
 						  case 0:
 							printf("################Ah, the old ################ deal, eh?\nAnd you've got ####### of 'em?\nLet's see, how many Rupees is that\nworth...  Let's say #######?\n#####It's a deal!#####Never mind.")
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 140)])) {
+							switch (choice(2, 0)) {
 							  case 0:
 								printf("######All right. Here's your money.")
 								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 7), ('param2', 0), ('next', 572), ('param3', 33)])
@@ -55,7 +55,7 @@ void entrypoint_115_02() {
 				  case 1:
 					flw_494:
 					printf("######Listen, pal...I've had enough of the\nfunny business. You don't even have a\nsingle one of those. So do you want to\nsell something else or what?\n#####I'll sell!#####No deal.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 185)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						goto flw_414
 					  case 1:
@@ -96,13 +96,13 @@ void entrypoint_115_02() {
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 442), ('param3', 31)])
 		printf("#####\nAh, hey... What do you need?\n#####Shopping!#####Um...")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 158)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######You want to do some shopping? Just\ncome back to the shop tomorrow.")
 		  case 1:
 			printf("######So when you say #um\"...that means\nyou don't have a good reason to be\nhere, huh?")
 			printf("What? You think I'm being gruff?\nYou think I'm totally different during\nthe day?\n\n######Well, I get tired of having to be a\nsmiley shopkeeper all day, all right?\nJust don't think that this is the real\nme.\nAnyway, enough about that... You're\nhere to make some money at my\n#####night market#####, am I right?\n#####Night market?#####Yep!")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 156)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Ah, it's your first time here, isn't it?\nOh well...")
 				flw_434:
@@ -150,11 +150,11 @@ void entrypoint_115_03() {
 					flw_476:
 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 8), ('param2', 0), ('next', 475), ('param3', 33)])
 					printf("Let's see... Tonight I feel like buying:\n###########\n################\n#####################\n#####I'll sell!#####No deal.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 181)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						flw_472:
 						printf("Which do you want to sell me?\n#####################.#####################.#####################.")
-						switch (choice(3)) {
+						switch (choice(3, 1)) {
 						  case 0:
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 461), ('param3', 33)])
 							switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 1), ('param3', 14), ('param4', 2), ('param5', 172)])) {
@@ -170,7 +170,7 @@ void entrypoint_115_03() {
 									switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 14), ('param4', 2), ('param5', 164)])) {
 									  case 0:
 										printf("######I love a good ################...\nAnd you're selling ####### of 'em, eh?\nHow many Rupees should I throw your\nway... I'm gonna say #######.\n#####OK!#####Never mind.")
-										switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 162)])) {
+										switch (choice(2, 0)) {
 										  case 0:
 											printf("OK, here's your money.")
 											OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 448), ('param3', 12)])
@@ -196,7 +196,7 @@ void entrypoint_115_03() {
 							  case 1:
 								flw_470:
 								printf("######You don't have even one of those!\nYou look like you wouldn't harm a fly,\nbut you're still trying to rip me off?\n\n######Or do you just want to sell me a\ndifferent bug?\n#####Yep!#####No deal.")
-								switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 170)])) {
+								switch (choice(2, 0)) {
 								  case 0:
 									goto flw_472
 								  case 1:
@@ -251,7 +251,7 @@ void entrypoint_115_03() {
 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 417), ('param3', 39)])
 		printf("Look, #####I just really like bugs#####... I want to\ncollect all kinds of bugs. Sometimes,\nI even dream about having, like, an\nentire island full of bugs...")
 		printf("######...How about this!\n\n\n\n########, here's the plan.\n#####If you find a bug, come sell it to me#####.\nWhen it comes to bugs, Rupees are \nno object.\n#####Sure!#####Er...")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 152)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######Mwah hah hah! Now all my\nbug-collecting ambitions will finally\nbe realized...")
 			flw_420:
@@ -299,10 +299,10 @@ void entrypoint_115_21() {
 				printf("######Sigh... Oh, #####Pipit#####... How can I get you to\nnotice me?")
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 74), ('param3', 33)])
 				printf("######Ah! ########!\n\n\n\nUhh, what's the matter? Do you, uh...\nneed something?\n#####I wonder if he heard what I was just talking about...?#####\n#####Give the letter.#####Don't give it.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 30)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######Huh? A letter? For me####\n.####\n.####\n.####\n?\nCould it be from #####Pipit#####?!\n#####Here you go!#####Never mind.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 32)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######Oh... Thank you. I'll just take that.")
 						OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 15), ('param2', 3072), ('next', 593), ('param3', 13)])
@@ -336,7 +336,7 @@ void entrypoint_115_21() {
 		switch (story_flags[5 /* us: 805A9AD9 0x40, jp: 805ACD59 0x40 */]) {
 		  case 0:
 			printf("######Hey, ####, what do you\nthink about #####Pipit#####?\n\n#####He's nice.#####Why?")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 28)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Yes! Yes, he is! He's kind and caring.\nAnd handsome and wonderful!\n\n\n######Oh dear... I don't know what's come\nover me all of a sudden...\n\n\n######Sorry for bothering you with such an\nawkward question...")
 			  case 1:
@@ -410,12 +410,12 @@ void entrypoint_115_05() {
 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', -1), ('param2', 0), ('next', 565), ('param3', 39)])
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 13), ('param2', 3840), ('next', 564), ('param3', 13)])
 				printf("Ahhh... Doesn't look like I'll get much\nsleep tonight...again.\n#####Why?#####Are you tired?")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######Sorry to worry you...")
 					flw_26:
 					printf("######The baby just goes on and on like this\nall night. I haven't slept a wink in...\nAhhh... I don't even know how long.\n\nThe baby usually sleeps like a sack of\nrocks. But that was before we lost\nthe you know what...\n#####No, what?#####Oh, that?")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 8)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######The baby's ###############.")
 						flw_15:
@@ -433,7 +433,7 @@ void entrypoint_115_05() {
 		  case 1:
 			flw_9:
 			printf("######Ahhh... This child just won't go to\nsleep for me... What can I do? Ahhh...\n#####That's terrible!#####And your wife?")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 62)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Yeah, it is pretty terrible... But even\nwhen babies cry, they're still really\ncute... If they're yours, I guess.\n\nYou'll understand someday when\nyou've got one of your own!")
 			  case 1:
@@ -468,12 +468,12 @@ void entrypoint_115_22() {
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 9), ('param2', 1024), ('next', 92), ('param3', 13)])
 			printf("######What's up, ####?")
 			printf("######...Huh? #####Karane##### got a love letter?\n\n\n\n######I-I see... That's interesting...\nWow...\n\n\n######Erm... Wh-what do you think she\nintends to do...?\n#####Date him.#####Beats me.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 42)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######What?! Th-this is a big problem,\nisn't it?!")
 				flw_96:
 				printf("######...Oh! I mean, uhh... It's not like\nthere's anything going on between\nme and #####Karane#####, you know?\nWe're just friends...\nSo it's not my business who she goes\nout with. I don't have much to say\nabout it.\n\n######But you know...I do have a duty to\nmake sure that everyone is living up\nto the high ideals of our knight school,\nright?\n######I mean, ideal love is unfettered and\npassionate. Anything less than that\ncan't really be called love at all, you\nknow what I mean? \n######So I should just step in and make sure\nthat she's found a true love that\naspires to the highest ideals of our\nfine educational institution, right?\n######And what about me? I have the right to\nexperience an unfettered and\npassionate love too, don't I?\n\n######You understand, don't you,\n####? I'm not wrong\nabout this, am I?\n#####I don't know.#####You like her?")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 58)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######I see... Of course. You've got more\nimportant things to worry about\nthan this right now!")
 					flw_122:
@@ -509,7 +509,7 @@ void entrypoint_115_06() {
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3088), ('param2', -256), ('next', 260), ('param3', 13)])
 				printf("######I just...whoo...need a breather...\n########, what have you got\nthere? Is that... a #####Stamina Potion#####?\n\nI don't suppose you'd...let me have\nthat, would you?\n#####Take it!#####Sorry...")
 				flw_261:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 116)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######Really?! Thank you! I owe you one!")
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3092), ('param2', 7936), ('next', 271), ('param3', 13)])
@@ -523,7 +523,7 @@ void entrypoint_115_06() {
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3088), ('param2', -256), ('next', 269), ('param3', 13)])
 					printf("######It's just that...at this rate, I don't\nknow if I'll ever get strong and burly.\n#####Try your best!#####Yes, you can!")
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3079), ('param2', -256), ('next', 291), ('param3', 13)])
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 120)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("######Right! That's exactly what I need to do.\nNo more whining! I need to push\nmyself.")
 						flw_294:
@@ -601,7 +601,7 @@ void entrypoint_115_07() {
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3088), ('param2', -256), ('next', 305), ('param3', 13)])
 				printf("######Whoo... I can't seem to catch my\nbreath...\n\n\nHey, ####, I wonder...\nWould you mind sharing some \n#####Stamina Potion##### with me?\n#####Take some!#####Sorry.")
 				flw_306:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 128)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######Really? Wow, thanks! I'll gladly take\nit, then.")
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3092), ('param2', 7936), ('next', 312), ('param3', 13)])
@@ -615,7 +615,7 @@ void entrypoint_115_07() {
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3088), ('param2', -256), ('next', 346), ('param3', 13)])
 					printf("######...Sometimes I worry, though. All this\ntraining, and no results! How long do I\nneed to train before I start to get\nstronger?\nWhat do you think, ####?\nHow many push-ups do you think I\nneed to do to get strong?\n#####About 1,000!#####Not about numbers.")
 					OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 3073), ('param2', 2048), ('next', 349), ('param3', 13)])
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 138)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("#####SUlp... That many? Really?\n\n\n\n######OK, then... I guess there really is no\ngain unless there is also pain. So much\npain...")
 						flw_352:
@@ -675,7 +675,7 @@ void entrypoint_115_24() {
 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 15), ('next', 568), ('param3', 48)])
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 17), ('param2', 3072), ('next', 59), ('param3', 13)])
 			printf("######Hey, ####! Did you hand\nover that letter like I asked?\n#####Actually...#####Huh?")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 22)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Wh-what did you just say?! You gave it\nto that weirdo in the restroom?!")
 				flw_64:
@@ -763,7 +763,7 @@ void entrypoint_115_08() {
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 315), ('param3', 31)])
 		printf("######Phew! Well, that was a nice warm-up!\n\n\n\n######...Hey, ####! I was just\nhoping you'd come by. I wanted to ask\nyou something.\n\n######The other day I tried lifting some\nbarrels, and I was able to do it with\none arm!\n\n######Do you think that means I've got\nenough muscle? What do you think,\n####? Do I look strong?\n#####Too strong!#####For sure.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 132)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######Huh? Aww, you're just saying that.\nBut it's still nice to hear it.")
 			flw_320:
@@ -865,7 +865,7 @@ void entrypoint_115_09() {
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 177), ('param3', 31)])
 			printf("####\n#Ugh... I'm so worried...\nSo worried...\n#####What's wrong?#####Calm down.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 70)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Ahh, ####. \nYou really want to hear about all my\ntroubles? That's kind of you.")
 				flw_181:
@@ -1024,7 +1024,7 @@ void entrypoint_115_10() {
 			  case 0:
 				printf("######...Oh, #########7#####! What a relief!\nYou brought the medicine!\n#####Here, take it!#####Sorry, no.")
 				flw_208:
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 90)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					flw_210:
 					printf("######Thank you! Now I can heal my bird's\ninjury.")
@@ -1067,7 +1067,7 @@ void entrypoint_115_10() {
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 188), ('param3', 31)])
 		printf("######Well! If it isn't ####!\nI'm so glad you're here. ######My bird\ngot injured while I was out for a\nquick flight, and now he can't fly.\n######I somehow managed to make a\ncrash landing here, but now we can't\nget home!\n\n######I can't go home until my bird's better.\n#####I need medicine##### to get him healthy.\nOf course, it can't be human medicine.\nIt has to be #####bird medicine#####.\nHey, ####, ######I really need\nyour help. Will you go get some bird\nmedicine for me?\n#####Of course!#####Sorry.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 78)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######Thank you! You're a real lifesaver.")
 			flw_192:
@@ -1076,7 +1076,7 @@ void entrypoint_115_10() {
 			switch (adventure_pouch_has(5 0x0005)) {
 			  case 0:
 				printf("######So you have the medicine after all!\nWhy didn't you say so? Those\n#####Mushroom Spores##### are just what I need!\n\nIf you could just give them to me,\nmy bird would be better in no time!\nDo you mind if I have them?\n#####Here you go.#####No way.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 237)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					goto flw_210
 				  case 1:
@@ -1260,7 +1260,7 @@ void entrypoint_115_14() {
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 20), ('param2', 4889), ('next', 35), ('param3', 13)])
 				printf("...Uwah! ########, it's you!\nDon't sneak up on me like that!\n\n\n######I have a serious dilemma on my mind\nright now. And you're distracting me!\n#####Dilemma?#####Can I help?")
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 1), ('param2', 3072), ('next', 37), ('param3', 13)])
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 12)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("What? You want to hear about it?\n\n\n\n######Hmph! Normally I would never,\never tell someone like you...\nBut these are dire times...")
 					flw_157:
@@ -1310,13 +1310,13 @@ void entrypoint_115_16() {
 		OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4), ('param2', 1), ('next', 154), ('param3', 13)])
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 45), ('next', 46), ('param3', 6)])
 		printf("Ooooh...##### Paper#####...\nI need #####paper#####...\n\n\nI'm not angry or anything...\n#####I just need some paper#####...\n#####Give letter.#####Don't do it.")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 14)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######Huh? You're giving me paper?\nI'm so happy...")
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 7), ('param2', 0), ('next', 511), ('param3', 13)])
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 45), ('next', 145), ('param3', 6)])
 			printf("But...this looks like someone's letter...\nAre you sure I can have this?\n#####Yes.#####No.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 16)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 9), ('param2', 0), ('next', 711), ('param3', 13)])
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 109), ('next', 706), ('param3', 24)])

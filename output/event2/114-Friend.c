@@ -54,12 +54,12 @@ void entrypoint_114_20() {
 				  case 0:
 					printf("######Want to try again? It'll cost you\nanother #####20 Rupees#####.\n#####Yep! #####Rules?#####Nah.")
 					flw_74:
-					switch (choice(3)) {
+					switch (choice(3, 1)) {
 					  case 0:
 						flw_67:
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 20), ('param3', 10), ('param4', 2), ('param5', 26)])) {
+						switch (has_rupees(20)) {
 						  case 0:
-							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', -1), ('param2', -20), ('next', 70), ('param3', 8)])
+							rupees += -20;
 							printf("######All right! Let's get started. Show me\nhow it's done, ####!")
 							OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 33)])
 						  case 1:
@@ -71,7 +71,7 @@ void entrypoint_114_20() {
 						printf("######I'll toss pumpkins for #####90 seconds#####!\nYou get 10 points for every pumpkin\nyou hit.\n\n######The more pumpkins you hit in a row,\nthe more points you get. Don't miss!")
 						OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 64), ('param3', 12)])
 						printf("######Oh, and one more thing. It will cost you\n20 Rupees a try.\n\n\n######Playing for free is no fun, right?\nSo what do you say? You want to\ngive it a shot for #####20 Rupees#####?\n#####Sure! #####No, thanks.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 24)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							goto flw_67
 						  case 1:
@@ -88,12 +88,12 @@ void entrypoint_114_20() {
 				OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 76), ('param3', 31)])
 				story_flags[400 /* us: 805A9B10 0x01, jp: 805ACD90 0x01 */] = true;
 				printf("######Hey, ####!\n\n\n\nI've pretty much maxed out on push-\nups. Wonder what exercise I can pick\nup next...\n\n######Whoa! #####That's one sweet bow you've\ngot there, ####!\n\n\nBet you're a total natural with it, too.\n#####Yep. #####Uh...")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 20)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######You're amazing, ####!\n\n\n\n######Even if I work my way up to 3,000\npush-ups, I'll never be as cool as you.")
 					flw_59:
 					printf("######I've got it! Why don't you show\nme how good you are with\nyour bow?\n\nI'm going to toss some pumpkins into\nthe air, OK?\n\n\n######You show me how good you are by\nfilling them full of arrows!\n\n\n######Throwing the pumpkins in the air will\ngive me a good workout too!\nTwo birds with one stone!\n#####OK! #####No, thanks.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 22)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						goto flw_63
 					  case 1:
@@ -116,7 +116,7 @@ void entrypoint_114_20() {
 	  case 1:
 		temp_flags[6 /* 0x1 40 */] = true;
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 4), ('next', 78), ('param3', 44)])
-		switch (OrderedDict([('type', 'switch'), ('subType', 0), ('param2', 0), ('param3', 16), ('param4', 4), ('param5', 35)])) {
+		switch (minigame_related[0]) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 28), ('param2', 9472), ('next', 79), ('param3', 13)])
 			printf("######You scored ####### #####.\n\n\n\nJust not feeling it today, huh,\n####? Sorry, but you\ndon't get a prize with that score.\n\n######The easiest way to hit a pumpkin is\nto lead it. You know, put the cursor a\nlittle ahead of it as it's flying.\n\nDo that, and I bet you can score\n#####150 points #####or so.\n\n\n######Not that I'm giving you advice or\nanything. I mean, I know you know\nwhat you're doing.")
@@ -128,7 +128,7 @@ void entrypoint_114_20() {
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 29), ('param2', 9728), ('next', 80), ('param3', 13)])
 			printf("Wow, ############# #####! Nice job,\n####!\n\n\nIt's not the best score ever, but you\nwere pretty smooth, ####!\n\n\nNext time, I want you to aim for at\nleast #####400 points#####!\n\n\n######Anyway, here's 50 Rupees I've earned\nfrom doing chores for the grumpy\nkitchen lady.")
-			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 50), ('next', 86), ('param3', 8)])
+			rupees += 50;
 			goto flw_86
 		  case 2:
 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 29), ('param2', 9728), ('next', 81), ('param3', 13)])
@@ -180,7 +180,7 @@ void entrypoint_114_05() {
 			printf("######If you forget any of this, just #####press ####################.#####\n\n\n\nThat'll bring up an explanation of\nactions available to you at that moment\nin time. Pretty handy, huh?")
 		  case 1:
 			printf("######Aww, thanks. I didn't think you had\ntime to help me out,\n####.\n#####No problem!#####I'm busy...")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 10)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Really? Thanks! OK, so...")
 				printf("######I need you to carry one of these #####barrels#####\nover to the old lady who works in the\nkitchen.\n\nPress ##### to pick up a barrel, then press\n##### again to #####put it down #####at your feet.\n\n\n######If you #####hold the Wii Remote up and\nswing it#####, you can #####throw #####whatever you're\ncarrying.\n\nYou can #####roll #####small items like pots by\n#####holding the Wii Remote down #####and\n#####swinging #####it.\n\n######But we'll get in huge trouble if any of\nthese barrels break, so don't even think\nabout throwing or rolling them.")

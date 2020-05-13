@@ -1,7 +1,7 @@
 void entrypoint_451_01() {
 	start()
 	printf("I have identified the item that the...\nhighly unusual man on Fun Fun Island\nsays was lost.\n\nWe can call the Scrap Shop robot to\ncome and retrieve it. Would you like \nme to call the robot?\n#####Yes!#####No, thanks.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("######Master, I will send word to the robot\nusing telepathic transmission.")
 	  case 1:

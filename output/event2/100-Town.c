@@ -270,7 +270,7 @@ void entrypoint_100_04() {
 		  case 0:
 			printf("######Still got more questions, eh?\n#####My bird! #####Groose?")
 			flw_16:
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######Uh, I think...uh... Well, to be honest,\nI don't really know where they went.")
 				scene_flags[0 'Skyloft'][53 /* 0x7 20 */] = true;
@@ -287,7 +287,7 @@ void entrypoint_100_04() {
 		switch (scene_flags[52 /* 0x7 10 */]) {
 		  case 0:
 			printf("######I'm still workin' on the gate here, so\nit'll be out of commission for a little\nbit until I finish up.\n#####Where's Zelda? #####Ceremony?")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("###########Zelda#####? #####Oh, she was just at the Statue\nof the Goddess with Headmaster\nGaepora.\n\nWhat's the best way up to the big\nstatue? It's time you learn for\nyourself, kid. Just press ##### to take a\nlook around. You can't miss her!#####\nIf your view gets a little off when\nyou're #####looking around##### using #####,\nyou can always##### center your view##### with\n#####. Remember that!##########")
 			  case 1:

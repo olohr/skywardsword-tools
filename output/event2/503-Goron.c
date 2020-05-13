@@ -15,7 +15,7 @@ void entrypoint_503_74() {
 	  case 0:
 		printf("######Today, buddy, I would like to witness\nthe magic of #####bombs##### emerging from the\nwall! For my research, of course!\n\n#####...By the way, would you like to\nreview what was written in the text?\n#####Please!#####Nah.")
 		flw_67:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 40)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("###########Closed Circle##########... Ye who hungers for\ndestructive force, draw this shape so\nthat it may be known.")
 			printf("######Well, that is what is written there!\nDoes that mean anything to you?")
@@ -37,7 +37,7 @@ void entrypoint_503_74() {
 void entrypoint_503_58() {
 	start()
 	flw_55:
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 32)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("###########Glimmering Hexagon##########... Ye who seeks\ngreat riches, draw this shape so that it\nmay be known.")
 		printf("######Well, that is what is written there!\nDoes that mean anything to you?")
@@ -61,7 +61,7 @@ void entrypoint_503_75() {
 	  case 0:
 		printf("######Today I would like to witness the magic\nof #####arrows##### emerging from the wall!\nFor my research, of course.\n\n#####...By the way, would you like to review\nwhat was written in the text?\n#####Please!#####Nah.")
 		flw_73:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 44)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("###########Arrow in Repose##########... Ye who yearns to\nstrike targets from afar, draw this\nshape so that it may be known.")
 			printf("######Well, that is what is written there!\nDoes that mean anything to you?")
@@ -83,7 +83,7 @@ void entrypoint_503_75() {
 void entrypoint_503_59() {
 	start()
 	flw_61:
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 36)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("###########Life's Crimson Vessel##########... Ye who longs\nfor the source of life, draw this shape\nso that it may be known.\n\nDo so, and from the heavens shall fall\na rain of life's essence.")
 		printf("######Well, that is what is written there!\nDoes that mean anything to you?")
@@ -140,7 +140,7 @@ void entrypoint_503_76() {
 	  case 0:
 		printf("######Today, buddy, I would like to witness\nthe magic of #####Fairies##### emerging from the\nwall! For my research, of course!\n\n#####...By the way, would you like to review\nwhat was written in the text?\n#####Please!#####Nah.")
 		flw_428:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 222)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######...The three... ...ngles...\n...the Tri...ce... ...and...")
 			printf("######...The text is too badly damaged\nto read at all beyond that point.\nWhat do you suppose it could say?")
@@ -288,7 +288,7 @@ void entrypoint_503_61() {
 void entrypoint_503_62() {
 	start()
 	flw_79:
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 48)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("###########Glimmering Hexagon##########... Ye who seeks\ngreat riches, draw this shape so that it\nmay be known.")
 		printf("######Well, that is what is written there!\nDoes that mean anything to you?")
@@ -338,7 +338,7 @@ void entrypoint_503_10() {
 void entrypoint_503_63() {
 	start()
 	flw_85:
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 52)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("###########Life's Crimson Vessel##########... Ye who longs\nfor the source of life, draw this shape\nso that it may be known.\n\nDo so, and from the heavens shall fall\na rain of life's essence.")
 		printf("######Well, that is what is written there!\nDoes that mean anything to you?")
@@ -355,7 +355,7 @@ void entrypoint_503_63() {
 void entrypoint_503_64() {
 	start()
 	flw_91:
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 56)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		printf("###########Closed Circle##########... Ye who hungers for\ndestructive force, draw this shape so\nthat it may be known.")
 		printf("######Well, that is what is written there!\nDoes that mean anything to you?")
@@ -495,7 +495,7 @@ void entrypoint_503_66() {
 				}
 			  case 1:
 				printf("######I came across an ancient volume\nin the course of my research!\nWant to know what it had to say?\n#####Of course!#####Nah...")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 24)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					flw_53:
 					printf("###########Arrow in Repose##########... Ye who yearns to\nstrike targets from afar, draw this\nshape so that it may be known.")
@@ -700,10 +700,10 @@ void entrypoint_503_51() {
 	  case 1:
 		OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 5), ('param3', 31)])
 		printf("######Oh, hey, bud! We meet again! In a\nhurry as usual, eh?\n\n\n######Yup, I have been keeping busy too,\nchecking out the wonders of the world.\n\n\n######Say, you want to hear about some\nof my research?\n#####Sure!#####Nah...")
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 0)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			printf("######OK, bud, prepare to be amazed!\nI made a huge discovery while I was\nout doing my field research.\n\nSo get a load of this... Apparently,\nthere are #####walls #####and #####statues##### that\nrespond to ###########beautiful tones#####!\n\n######Wild, right? Want to know more?\n#####Of course!#####Nah...")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				scene_flags[10 'Sealed Grounds'][110 /* 0xC 40 */] = true;
 				goto flw_13
@@ -862,14 +862,14 @@ void entrypoint_503_52() {
 		  case 0:
 			flw_22:
 			printf("####\n#Ancient tomes mention these\nbutterflies flapping around in packs\nby certain walls and statues!\n\nSeems like these butterflies have some\nkind of sixth sense. They are detecting,\nuh...something! Want to hear more?\n#####Please!#####Enough.")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 10)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				scene_flags[10 'Sealed Grounds'][111 /* 0xC 80 */] = true;
 				printf("######Which are you interested in?\n#####Walls.#####Statues.")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 12)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######From what I have learned, it sounds\nlike these walls were left behind by\nthe goddess for the hero mentioned\nin legends!\nThe things the hero desires are said to\nspring forth from behind the walls.\nThat is why they call them #####goddess\nwalls#####, I suppose. Hungry to hear more?\n#####Of course!#####Sorry...")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 14)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("####%#THAT IS THE SPIRIT! But sadly, that\nis as far as my research has gotten me.\n\n\n####\n#As soon as I make any new discoveries,\nyou will be the first to know!")
 					  case 1:
@@ -877,7 +877,7 @@ void entrypoint_503_52() {
 					}
 				  case 1:
 					printf("######The writings claim that the statues\nappear out of nowhere with a\n#boing-oing\" sound and speak a\nstrange language!\nCan you believe it, buddy? #####Talking\nstatues#####! I know you want to hear more\nabout this!\n#####Tell me!#####No, thanks.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 254)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("####%#THAT IS THE SPIRIT! But sadly, that\nis as far as my research has gotten me.\n\n\n####\n#As soon as I make any new discoveries,\nyou will be the first to know!")
 					  case 1:
@@ -891,13 +891,13 @@ void entrypoint_503_52() {
 		  case 1:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 6), ('param3', 31)])
 			printf("######Oh, hey, bud! We meet again! In a\nhurry as usual, eh?\n\n\n######Yup, I have been keeping busy too,\nchecking out the wonders of the world.\n\n\n######Say, you want to hear about some\nof my research?\n#####Sure!#####Nah...")
-			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
+			switch (choice(2, 0)) {
 			  case 0:
 				printf("######OK, bud, prepare to be amazed!\nI made a huge discovery while I was\nout doing my field research.\n\nSo get a load of this... Apparently,\nthere are #####walls #####and #####statues##### that\nrespond to ###########beautiful tones#####!\n\n######Wild, right? Want to know more?\n#####Of course!#####Nah...")
-				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 6)])) {
+				switch (choice(2, 0)) {
 				  case 0:
 					printf("######ALL RIGHT! That is the kind of\narchaeological enthusiasm I like to see!\n\n\n######Oh, but before we get into the\nfascinating details of #####walls##### and #####statues#####,\nthere is something I had better ask you\nabout, bud.\n######You ever heard of a #####Blessed Butterfly#####?\n#####I've seen one!#####Nope.")
-					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 8)])) {
+					switch (choice(2, 0)) {
 					  case 0:
 						printf("All right, bud, then let me jump\nstraight to the point.")
 						goto flw_22
@@ -1298,7 +1298,7 @@ void entrypoint_503_20() {
 	OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 24), ('next', 566), ('param3', 32)])
 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 3), ('param2', 0), ('next', 489), ('param3', 39)])
 	printf("######This answers all the mysteries from\nthose ancient texts!\n\n\n...At least, except for the mysteries\nthat followed after that. Do you want\nto know what else was written in\nthere?!\n#####Absolutely!#####I'll pass.")
-	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 252)])) {
+	switch (choice(2, 0)) {
 	  case 0:
 		flw_492:
 		printf("######...The three... ...ngles...\n...the Tri...ce... ...and...")

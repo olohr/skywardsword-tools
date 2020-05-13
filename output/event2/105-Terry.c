@@ -7,7 +7,7 @@ void entrypoint_105_35() {
 		flw_41:
 		printf("That's a #####Life Medal#####! It bestows a bunch\nof mysterious and mystical effects on\nwhoever carries it!\n\nWhat kind of effects####\n.####\n.####\n.####\n? Don't ask me--\nI don't actually know! You should find\nout for yourself.\n\nI'm pretty sure it's a real bargain at\n#####800 Rupees#####, though! How about it?\n#####I'll buy it!#####No, thanks.")
 		flw_13:
-		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 2)])) {
+		switch (choice(2, 0)) {
 		  case 0:
 			OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', -1), ('param3', 26)])
 		  case 1:
@@ -54,7 +54,7 @@ void entrypoint_105_01() {
 					  case 0:
 						flw_1:
 						printf("Want to know why I'm on a bicycle?\n#####Yeah, why?#####Not really.")
-						switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 4)])) {
+						switch (choice(2, 0)) {
 						  case 0:
 							printf("######Aren't you a curious one!\n\n\n\nI pedal this bike to generate enough\nelectricity to keep this place in the air!\nPlus, all this pedaling has got me in\nfantastic shape!\nYep, I'd say my lifestyle is pretty\n#####ecofriendly#####! But, uh...with you on\nboard, there's plenty of extra weight,\nso I have to pedal as hard as I can...")
 							flw_27:
@@ -371,7 +371,7 @@ void entrypoint_105_50() {
 							OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 112), ('param3', 31)])
 							printf("######Ah, I don't suppose you'd be willing\nto go look for my precious #####Horned\nColossus Beetle#####? I'd be grateful if\nyou did!\n#####Of course!#####Let it go.")
 							flw_57:
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 16)])) {
+							switch (choice(2, 0)) {
 							  case 0:
 								printf("######Ah! Truly? I must thank you! \nI shan't forget this!")
 								printf("######My precious #####Horned Colossus Beetle#####...\n...Please go and find him with all\nhaste. He abides out there, \nsomewhere, all alone in the wild.\n######I beg of you!")
@@ -426,7 +426,7 @@ void entrypoint_105_50() {
 							flw_116:
 							story_flags[283 /* us: 805A9AFB 0x20, jp: 805ACD7B 0x20 */] = true;
 							printf("######Ah! Wakey for the young slugabed,\nhmmmm? You appeared to be relishing\nthat snooze, so I declined to wake you.\n\n######But I must say, old bug, you did make\nthe shop a mite heavier... Heh heh!\n#####Your accent!#####Where am I?")
-							switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 0), ('param4', 2), ('param5', 10)])) {
+							switch (choice(2, 0)) {
 							  case 0:
 								printf("Hmmm? The mellifluous timbre of\nmy voice sounds different to you?\n\n\n###########...###########Perhaps a touch, I suppose...\n#####But pray, what does it matter, hmm?")
 								printf("######This is my humble home, of sorts.\nWhen night draws her tenebrous \ncurtain across the sky, I come here.\n\n######A bit lacking in creature comforts,\nto be sure, but I can relax in peace.\n\n\nYou're aware that Loftwings don't fly\nat night, I'm sure...so I suppose I shall\nhave to take you back to town with me\non the morrow, hmm?\nWhen you wish to go back to Skyloft,\njust chase your dreams on the bed\nonce more, and on the morrow you\nshall be there. ")
