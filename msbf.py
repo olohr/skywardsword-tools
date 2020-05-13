@@ -30,7 +30,7 @@ def parseMSB(fname):
             parsed['FLW3']['flow'] = collections.OrderedDict()
             parsed['FLW3']['branch_points'] = []
             count1, count2 = struct.unpack('>hh12x',seg_data[:0x10])
-            for i in range(count1):
+            for i in range(count1): # for every node in FLW3
                 item = unpack('type subType param1 param2 next param3 param4 param5','>bb2xhhhhhh',seg_data[0x10+0x10*i:0x20+0x10*i])
                 item_id = i
                 assert item['type'] in (1,2,3,4)
@@ -41,10 +41,12 @@ def parseMSB(fname):
                 #unk4: 0 to 201
                 #nextTrue: 0 to 262
                 #nextFalse: 0 to 512
-                if item['type'] == 'type1':
+                if item['type'] == 'type1': # text
                     assert item.pop('subType') == -1
                     assert item.pop('param1') == 0
                     assert item.pop('param2') == 0
+                    # param3 : file index
+                    # param4 : line index
                     assert item.pop('param5') == 0
                 elif item['type'] == 'switch':
                     assert item['subType'] in (0,6)
@@ -69,7 +71,7 @@ def parseMSB(fname):
                     raise Exception('wat')
 
                 parsed['FLW3']['flow'][item_id] = item
-            for i in range(count2):
+            for i in range(count2): # for every branch point
                 item = struct.unpack('>h',seg_data[0x10+0x10*count1+2*i:0x12+0x10*count1+2*i])[0]
                 parsed['FLW3']['branch_points'].append(item)
         elif seg_id == 'FEN1' or seg_id == 'LBL1':
@@ -93,19 +95,36 @@ def parseMSB(fname):
         elif seg_id == 'TXT2':
             parsed['TXT2'] = []
             count = struct.unpack('>i',seg_data[:4])[0]
-            ptrlist=[struct.unpack('>i',seg_data[4+4*i:0x8+4*i])[0] for i in range(count)]
-            for (i, ptr) in enumerate(ptrlist):
-                if len(ptrlist) == i+1:
-                    ptrend=0
-                else:
-                    ptrend=ptrlist[i+1]
-                text = seg_data[ptr:ptrend-2].decode('utf-16-be')
-                parsed['TXT2'].append(text)
-            #for i in range(count):
-            #    ptr = struct.unpack('>i',seg_data[4+4*i:0x8+4*i])[0]
-            #    text = seg_data[ptr:].decode('utf-16be')
-            #    print(seg_data[ptr-10:ptr])
-            #    parsed['TXT2'].append(text.split('\x00',1)[0])
+            indices = [struct.unpack('>i',seg_data[4+4*i : 8+4*i])[0] for i in range(count)]
+            for i in range(count): # for every item of text
+                bytestring = seg_data[indices[i] : (indices[i+1] if i + 1 < count else seg_len) - 2]
+                # decoding special characters:
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x00', '<r<'.encode('utf-16be'))  # red
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x02', '<y+<'.encode('utf-16be')) # yellow-white
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x03', '<b<'.encode('utf-16be'))  # blue
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x04', '<g<'.encode('utf-16be'))  # green
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x05', '<y<'.encode('utf-16be'))  # yellow
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x09', '<r+<'.encode('utf-16be')) # red-white
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\xFF\xFF', '>>'.encode('utf-16be'))   # end formatting
+                
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x00\x00\x02\xFF\xFF', '[1]'.encode('utf-16be'))  # 1st answer
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x01\x00\x02\x00\x00', '[2-]'.encode('utf-16be')) # 2nd answer (cancel)
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x01\x00\x02\xFF\xFF', '[2]'.encode('utf-16be'))  # 2nd answer
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x02\x00\x02\xFF\xFF', '[3]'.encode('utf-16be'))  # 3rd answer
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x01', '~'.encode('utf-16be'))    # micro pause
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x05', '~~'.encode('utf-16be'))   # short pause
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x0F', '~~~'.encode('utf-16be'))  # long pause
+                
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x00\x00\x00',         'Link'.encode('utf-16be')) # heroname
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x04\x00\x02\x00\xCD', '(A)'.encode('utf-16be'))  # A button
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x04\x00\x02\x01\xCD', '(B)'.encode('utf-16be'))  # B button
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x04\x00\x02\x06\xCD', '(C)'.encode('utf-16be'))  # C button
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x04\x00\x02\x07\xCD', '(Z)'.encode('utf-16be'))  # Z button
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x04\x00\x02\x11\xCD', '(v)'.encode('utf-16be'))  # down button
+                # continue
+                string = bytestring.decode('utf-16be').replace('\n','\\n').replace('"','\\"')
+                string = re.sub(r'[^\x20-\x7e]','_', string)
+                parsed['TXT2'].append(string)
         else:
             raise Exception('unimplemented '+seg_id)
     return parsed
@@ -127,12 +146,6 @@ if __name__ == "__main__":
     # events
 
     for fname in glob.glob('en_US/**/*.msbf', recursive=True):
-    #for fname in []:
-    #for fname in glob.glob('temp/*.msbf'):
-    #for fname in glob.glob('en_US/*/*/002-System.msbf'):
-    #for fname in glob.glob('en_US/*/*/460*.msbf'):
-    #for fname in glob.glob('en_US/*/*/599*.msbf'):
-
         parsed = parseMSB(fname)
         parsedMsbt = parseMSB(fname.replace('.msbf','.msbt'))
         
@@ -179,8 +192,7 @@ if __name__ == "__main__":
                 lines.append((None,indent,'}'))
             elif item['type']=='type1':
                 msbt_file, msbt_line = item['param3'],item['param4']
-                string = re.sub(r'[^\x20-\x7e]','#', strings[msbt_line].replace('\n','\\n').replace('"','\\"'))
-                lines.append((itemId,indent,'printf("%s")'%string))
+                lines.append((itemId,indent,'printf("%s")'%strings[msbt_line]))
             elif item['type']=='type3' and item['subType']==0 and item['param3']==8:
                 lines.append((itemId,indent,"rupees += %d;"%(item['param2'])))
             elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==0:
@@ -226,9 +238,9 @@ if __name__ == "__main__":
                     lines.append((None,0,'}\n'))
             for lineId,indent,lineStr in lines:
                 if lineId in needed_labels:
-                    file.write('\t'*indent+'flw_'+str(lineId)+':\n')
+                    file.write(' '*10+'\t'*indent+'flw_'+str(lineId)+':\n')
                 if lineStr is not None:
-                    file.write('\t'*indent+lineStr+'\n')
+                    file.write(('/*<%3d>*/ '%(lineId) if lineId else ' '*10)+'\t'*indent+lineStr+'\n')
             assert len(already_printed) == len(parsed['FLW3']['flow'])
         
         f2=open('output/event/'+fname.split(os.sep)[-1].replace('.msbf','.json'),'w', encoding='utf-16le')
@@ -237,7 +249,12 @@ if __name__ == "__main__":
         f2=open('output/event2/'+fname.split(os.sep)[-1].replace('.msbf','.c'),'w', encoding='utf-8')
         printEvflFile(f2,parsed,parsedMsbt)
         f2.close()
-     
+        f2=open('output/text/'+fname.split(os.sep)[-1].replace('.msbf','.txt'),'w', encoding='utf-16le')
+        for line in parsedMsbt['TXT2']:
+            f2.write(line + '\n')
+        f2.close() 
+
+# console output
 #print('-----------------------------------------------')
 #print('50 51 52 53 54 55 56 57 58 59 5A 5B 5C 5D 5E 5F')
 #print('-----------------------------------------------')
