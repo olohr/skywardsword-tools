@@ -13,7 +13,7 @@
           		  case 0:
 /*<119>*/ 			switch (scene_flags[113 /* 0xF 02 */]) {
           			  case 0:
-/*<  8>*/ 				printf("__________Link! Are you here to do\n<r<battle>> or challenge yourself in one\nof the trials in the <r<Silent Realm>>?\n[1]Battle![2]Silent Realm!_____Neither.")
+/*<  8>*/ 				printf("__________Link! Are you here to do\n<r<battle>> or challenge yourself in one\nof the trials in the <r<Silent Realm>>?\n[1]Battle![2]Silent Realm![3-]Neither.")
 /*< 16>*/ 				switch (choice(3, 1)) {
           				  case 0:
           					flw_80:
@@ -39,7 +39,7 @@
 /*<1010>*/ 							switch (story_flags[226 /* us: 805A9AF2 0x08, jp: 805ACD72 0x08 */]) {
           							  case 0:
           								flw_13:
-/*< 13>*/ 								printf("______All right, then...which period of your\njourney would you like to face an\nenemy from?\n[1]The beginning.[2]The middle.[3]Later on._____Never mind.")
+/*< 13>*/ 								printf("______All right, then...which period of your\njourney would you like to face an\nenemy from?\n[1]The beginning.[2]The middle.[3]Later on.[4-]Never mind.")
 /*< 14>*/ 								switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 13)])) {
           								  case 0:
           									flw_236:
@@ -73,7 +73,7 @@
           								  case 0:
           									goto flw_13
           								  case 1:
-/*<195>*/ 									printf("______Now then...would you like to face an\nenemy from near the beginning of\nyour journey, or a fairly recent one?\n[1]The beginning.[2]Fairly recent._____Never mind.")
+/*<195>*/ 									printf("______Now then...would you like to face an\nenemy from near the beginning of\nyour journey, or a fairly recent one?\n[1]The beginning.[2]Fairly recent.[3-]Never mind.")
 /*<196>*/ 									switch (choice(3, 1)) {
           									  case 0:
           										goto flw_236
@@ -142,7 +142,7 @@
 /*<  5>*/ 				switch (choice(2, 0)) {
           				  case 0:
 /*<120>*/ 					scene_flags[9 'Lanayru Gorge'][113 /* 0xF 02 */] = true;
-/*<  6>*/ 					printf("______You're a true hero! That's the spirit.\n\n\n\n______Then if you would permit me, I'll take a\npeek at your past experiences.\n\n\n_____...\n\n\n\n______Indeed. Indeed. You have done some\namazing things, like <r<battling>> fierce\nfoes and overcoming the daunting\ntrials in the Silent Realm.\n______All right, then! Based on those\nexperiences, you can choose one of two\nexciting challenges!\n\n______Which one would you like to try?\nPick whichever one you like.\n[1]Battle![2]Silent Realm!_____Neither.")
+/*<  6>*/ 					printf("______You're a true hero! That's the spirit.\n\n\n\n______Then if you would permit me, I'll take a\npeek at your past experiences.\n\n\n_____...\n\n\n\n______Indeed. Indeed. You have done some\namazing things, like <r<battling>> fierce\nfoes and overcoming the daunting\ntrials in the Silent Realm.\n______All right, then! Based on those\nexperiences, you can choose one of two\nexciting challenges!\n\n______Which one would you like to try?\nPick whichever one you like.\n[1]Battle![2]Silent Realm![3-]Neither.")
 /*<  9>*/ 					switch (choice(3, 1)) {
           					  case 0:
           						goto flw_80
@@ -801,7 +801,7 @@
 
           void entrypoint_460_72() {
 /*<452>*/ 	start()
-/*<444>*/ 	printf("______That's what I wanted to hear, brave\nwarrior! Now choose a Silent Realm\ntrial.\n[1]Faron Woods![2]Eldin Volcano![3]Lanayru Desert!_____Somewhere else.")
+/*<444>*/ 	printf("______That's what I wanted to hear, brave\nwarrior! Now choose a Silent Realm\ntrial.\n[1]Faron Woods![2]Eldin Volcano![3]Lanayru Desert![4]Somewhere else.")
           	flw_445:
 /*<445>*/ 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 230)])) {
           	  case 0:
@@ -818,13 +818,13 @@
 /*<450>*/ 		loadzone_temp_flags[2 /* 0x9 04 */] = true;
           		goto flw_460
           	  case 3:
-/*<457>*/ 		printf("______Somewhere else? Where to, then?\n[1]Skyloft![2]Previous places._____I quit.")
+/*<457>*/ 		printf("______Somewhere else? Where to, then?\n[1]Skyloft![2]Previous places.[3-]I quit.")
 /*<455>*/ 		switch (choice(3, 1)) {
           		  case 0:
 /*<456>*/ 			OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 19), ('param2', 0), ('next', 460), ('param3', 33)])
           			goto flw_460
           		  case 1:
-/*<458>*/ 			printf("_____\nMake your mind up already!\nWhich place will it be?\n[1]Faron Woods.[2]Eldin Volcano.[3]Lanayru Desert._____More places.")
+/*<458>*/ 			printf("_____\nMake your mind up already!\nWhich place will it be?\n[1]Faron Woods.[2]Eldin Volcano.[3]Lanayru Desert.[4]More places.")
           			goto flw_445
           		  case 2:
 /*<459>*/ 			printf("______What? You're not interested?\nHow dull...\n\n\n______Ah, well. Come back anytime you\nchange your mind. I'll be waiting.")
@@ -916,7 +916,7 @@
 
           void entrypoint_460_74() {
 /*<454>*/ 	start()
-/*<426>*/ 	printf("______That's what I wanted to hear, brave\nwarrior! Now choose a Silent Realm\ntrial.\n[1]Faron Woods![2]Eldin Volcano![3]Lanayru Desert!_____Never mind.")
+/*<426>*/ 	printf("______That's what I wanted to hear, brave\nwarrior! Now choose a Silent Realm\ntrial.\n[1]Faron Woods![2]Eldin Volcano![3]Lanayru Desert![4-]Never mind.")
 /*<429>*/ 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 226)])) {
           	  case 0:
 /*<440>*/ 		OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 16), ('param2', 0), ('next', 438), ('param3', 33)])
@@ -988,7 +988,7 @@
 
           void entrypoint_460_41() {
 /*<231>*/ 	start()
-/*<197>*/ 	printf("______From the beginning of your journey,\nhuh? In that case, let's see..._____ Here we\ngo! These guys look pretty tough.\nWhich one would you like to face?\n[1]Ghirahim![2]Scaldera![3]Moldarach!_____The Imprisoned!")
+/*<197>*/ 	printf("______From the beginning of your journey,\nhuh? In that case, let's see..._____ Here we\ngo! These guys look pretty tough.\nWhich one would you like to face?\n[1]Ghirahim![2]Scaldera![3]Moldarach![4]The Imprisoned!")
 /*<198>*/ 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 101)])) {
           	  case 0:
 /*<199>*/ 		printf("<b<______Ghirahim >>it is! He's that creeeepy guy\nyou fought in <b<Skyview Temple>>.")
@@ -1023,7 +1023,7 @@
 /*<232>*/ 	start()
 /*<234>*/ 	switch (story_flags[133 /* us: 805A9AE4 0x08, jp: 805ACD64 0x08 */]) {
           	  case 0:
-/*<227>*/ 		printf("______From the middle of your journey, you\nsay? In that case, let's see..._____ Here we\ngo! These guys look pretty tough.\nWhich one would you like to face?\n[1]Koloktos![2]Tentalus![3]Ghirahim!_____The Imprisoned!")
+/*<227>*/ 		printf("______From the middle of your journey, you\nsay? In that case, let's see..._____ Here we\ngo! These guys look pretty tough.\nWhich one would you like to face?\n[1]Koloktos![2]Tentalus![3]Ghirahim![4]The Imprisoned!")
           		flw_207:
 /*<207>*/ 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 105)])) {
           		  case 0:
@@ -1045,7 +1045,7 @@
           			goto flw_229
           		}
           	  case 1:
-/*<226>*/ 		printf("______A fairly recent battle, huh?\nIn that case, let's see..._____ Here we go!\nThese guys look pretty tough. \nWhich one would you like to face?\n[1]Koloktos![2]Tentalus![3]Ghirahim!_____The Imprisoned!")
+/*<226>*/ 		printf("______A fairly recent battle, huh?\nIn that case, let's see..._____ Here we go!\nThese guys look pretty tough. \nWhich one would you like to face?\n[1]Koloktos![2]Tentalus![3]Ghirahim![4]The Imprisoned!")
           		goto flw_207
           	}
           }
@@ -1084,7 +1084,7 @@
 
           void entrypoint_460_43() {
 /*<233>*/ 	start()
-/*<216>*/ 	printf("______From later on in your journey, huh?\nIn that case, let's see..._____ Here we go!\nThese guys look pretty tough.\nWhich one would you like to face?\n[1]The Imprisoned![2]Horde battle![3]Ghirahim!_____Demise!")
+/*<216>*/ 	printf("______From later on in your journey, huh?\nIn that case, let's see..._____ Here we go!\nThese guys look pretty tough.\nWhich one would you like to face?\n[1]The Imprisoned![2]Horde battle![3]Ghirahim![4]Demise!")
 /*<217>*/ 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 109)])) {
           	  case 0:
 /*<218>*/ 		printf("<b<______The Imprisoned >>it is! This is the huge\nbeast you battled for a third time at\nthe <b<Sealed Grounds>>.")

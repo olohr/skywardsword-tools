@@ -5,10 +5,10 @@
 
           void entrypoint_006_801() {
 /*<  2>*/ 	start()
-/*<  3>*/ 	printf("_____\nYou called for me, Master?\n[1]______[2]______[3]_________________")
+/*<  3>*/ 	printf("_____\nYou called for me, Master?\n[1]______[2]______[3]______[4-]______")
 /*<  4>*/ 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 0)])) {
           	  case 0:
-/*<  6>*/ 		printf("_____\nYes, Master. What information do\nyou seek?\n[1]______[2]______[3]_________________")
+/*<  6>*/ 		printf("_____\nYes, Master. What information do\nyou seek?\n[1]______[2]______[3]______[4-]______")
 /*<  7>*/ 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 4)])) {
           		  case 0:
           			flw_8:

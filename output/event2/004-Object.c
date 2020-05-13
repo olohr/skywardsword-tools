@@ -65,7 +65,7 @@
 
           void entrypoint_004_016() {
 /*< 48>*/ 	start()
-/*< 49>*/ 	printf("____How long do you want to sleep?___\n[1]Until morning.[2]Until night._____Don't sleep.")
+/*< 49>*/ 	printf("____How long do you want to sleep?___\n[1]Until morning.[2]Until night.[3-]Don't sleep.")
 /*< 50>*/ 	switch (choice(3, 1)) {
           	  case 0:
           	  case 1:

@@ -85,7 +85,7 @@
 /*< 26>*/ 			printf("When you have filled the <y<_____\n>>once more, you shall finally be \nrecognized as the true hero of legend.\n\nOnly then will you be shown the door\nthat will lead you to the <y+<Triforce>>.\n______Master, I wish you success in this trial.\n\nDo you have any questions before you\nface the task ahead of you?\n[1]Yes.[2-]No.")
 /*< 14>*/ 			switch (choice(2, 0)) {
           			  case 0:
-/*< 58>*/ 				printf("Which topic do you wish to review?\n\n\n[1]The _____?[2]Guardians?[3]Waking Water?_____Never mind.")
+/*< 58>*/ 				printf("Which topic do you wish to review?\n\n\n[1]The _____?[2]Guardians?[3]Waking Water?[4-]Never mind.")
           				flw_59:
 /*< 59>*/ 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 20)])) {
           				  case 0:
@@ -99,7 +99,7 @@
 /*< 18>*/ 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', 71), ('param3', 6)])
           					flw_71:
 /*< 71>*/ 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 60), ('param3', 39)])
-/*< 60>*/ 					printf("Do you have any further questions?\n\n[1]The _____?[2]Guardians?[3]Waking Water?_____Never mind.")
+/*< 60>*/ 					printf("Do you have any further questions?\n\n[1]The _____?[2]Guardians?[3]Waking Water?[4-]Never mind.")
           					goto flw_59
           				  case 1:
 /*< 61>*/ 					printf("______Understood, Master.\nAllow me to explain.")

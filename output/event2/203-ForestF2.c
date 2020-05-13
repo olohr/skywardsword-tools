@@ -752,7 +752,7 @@
 
           void entrypoint_203_85() {
 /*<490>*/ 	start()
-/*<492>*/ 	printf("______Yes? If you have a question for me,\nyou need only speak it.\n[1]Fire Dragon?[2]Thunder Dragon?[3]Faron Woods?_____Nothing.")
+/*<492>*/ 	printf("______Yes? If you have a question for me,\nyou need only speak it.\n[1]Fire Dragon?[2]Thunder Dragon?[3]Faron Woods?[4-]Nothing.")
 /*<491>*/ 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 158)])) {
           	  case 0:
 /*<493>*/ 		printf("______Hah! Him?~~~ Just as I was charged with\nwatching the woods, so does he preside\nover the volcanic lands to the north. \n\nHe's a peculiar fellow who has made\nhis lair deep in the sweltering depths\nof the volcano, beyond the reach of\nmonster and man.\nIf you can't handle the heat, I'd suggest\nyou stay clear. That is, unless you want\nthe flame-charred look!")

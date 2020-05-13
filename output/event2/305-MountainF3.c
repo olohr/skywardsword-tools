@@ -4,7 +4,7 @@
           	  case 0:
 /*< 46>*/ 		switch (loadzone_temp_flags[0 /* 0x9 01 */]) {
           		  case 0:
-/*< 49>*/ 			printf("______What is this? You have another\nquestion for me?\n[1]<b<Water Dragon>>?[2]<b<Thunder Dragon>>?[3]Volcano?_____Not really.")
+/*< 49>*/ 			printf("______What is this? You have another\nquestion for me?\n[1]<b<Water Dragon>>?[2]<b<Thunder Dragon>>?[3]Volcano?[4-]Not really.")
           			flw_42:
 /*< 42>*/ 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 10)])) {
           			  case 0:
@@ -21,7 +21,7 @@
 /*< 47>*/ 				printf("______Yes... You see the path before you,\nthen. Go. Follow it.")
           			}
           		  case 1:
-/*< 41>*/ 			printf("______Yes... You appear as if summoned!\n\n\n\n______Young hero, do you wish to ask a\nquestion of me?\n[1]<b<Water Dragon>>?[2]<b<Thunder Dragon>>?[3]Volcano?_____No, thanks.")
+/*< 41>*/ 			printf("______Yes... You appear as if summoned!\n\n\n\n______Young hero, do you wish to ask a\nquestion of me?\n[1]<b<Water Dragon>>?[2]<b<Thunder Dragon>>?[3]Volcano?[4-]No, thanks.")
           			goto flw_42
           		}
           	  case 1:

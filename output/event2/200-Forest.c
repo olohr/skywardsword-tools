@@ -293,7 +293,7 @@
 /*<221>*/ 	start()
 /*<334>*/ 	switch (story_flags[227 /* us: 805A9AF2 0x20, jp: 805ACD72 0x20 */]) {
           	  case 0:
-/*<329>*/ 		printf("______Hmm? What is up, bud? You got a\nquestion? \n[1]Cubes?[2]Temple?_____Not really.")
+/*<329>*/ 		printf("______Hmm? What is up, bud? You got a\nquestion? \n[1]Cubes?[2]Temple?[3-]Not really.")
 /*<476>*/ 		switch (choice(3, 1)) {
           		  case 0:
 /*<475>*/ 			printf("______Yeah, hit those cubes with a blast of\nlight from your sword and WHOOSH...\nThey shoot up into the sky.\n\nThe ancient texts I have read say those\ncubes are all over this land.")

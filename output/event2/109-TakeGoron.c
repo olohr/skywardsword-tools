@@ -96,7 +96,7 @@
 /*<151>*/ 	OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 47), ('param3', 12)])
 /*< 47>*/ 	switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
           	  case 0:
-/*< 48>*/ 		printf("______You want to try again? Need to blow\noff steam by mowin' down a tower of\nbamboo? It'll only cost you <r<10 Rupees>>!\n[1]I'm in![2]Rules?_____No, thanks.")
+/*< 48>*/ 		printf("______You want to try again? Need to blow\noff steam by mowin' down a tower of\nbamboo? It'll only cost you <r<10 Rupees>>!\n[1]I'm in![2]Rules?[3-]No, thanks.")
           		flw_3:
 /*<  3>*/ 		switch (choice(3, 1)) {
           		  case 0:
@@ -118,7 +118,7 @@
           			}
           		  case 1:
 /*< 29>*/ 			printf("______You're goin' to take a swing at\nwhittlin' down that big old bamboo\nright there in the middle of the room.\n\nThing is, see, it's a contest to see how\nmany cuts you can make before it hits\nthe ground. If you're good enough,\nyou'll stroll out of here with a prize!")
-/*<154>*/ 			printf("______So, what's it gonna be? Want to hack\nsome bamboo? One try will cost you\n<r<10 Rupees>>.\n[1]I'm in![2]Rules?_____No, thanks.")
+/*<154>*/ 			printf("______So, what's it gonna be? Want to hack\nsome bamboo? One try will cost you\n<r<10 Rupees>>.\n[1]I'm in![2]Rules?[3-]No, thanks.")
           			goto flw_3
           		  case 2:
 /*< 46>*/ 			printf("______I got it. You're afraid of sharp objects.\nNot the slicin' type. Come on back if\nyou change your mind!")
@@ -130,18 +130,18 @@
           			  case 0:
 /*<114>*/ 				switch (story_flags[636 /* us: 805A9B1A 0x40, jp: 805ACD9A 0x40 */]) {
           				  case 0:
-/*<116>*/ 					printf("______I want the custard-bellied coward who\nbroke my baby girl's heart. It's drivin'\nme crazy!\n\n______Times like this, a man just wants to\nchop bamboo! You want to give it a\nwhack? It'll cost you <r<10 Rupees>>.\n[1]I'm in![2]Rules?_____No, thanks.")
+/*<116>*/ 					printf("______I want the custard-bellied coward who\nbroke my baby girl's heart. It's drivin'\nme crazy!\n\n______Times like this, a man just wants to\nchop bamboo! You want to give it a\nwhack? It'll cost you <r<10 Rupees>>.\n[1]I'm in![2]Rules?[3-]No, thanks.")
           					goto flw_3
           				  case 1:
-/*<117>*/ 					printf("______How you doing, Link!\nLooks like that mangy milquetoast's\nstopped pesterin' my little dumplin'.\n\nLet's celebrate by butcherin' some\nbamboo! One try will cost you\n<r<10 Rupees>>. What do you say?\n[1]I'm in![2]Rules?_____No, thanks.")
+/*<117>*/ 					printf("______How you doing, Link!\nLooks like that mangy milquetoast's\nstopped pesterin' my little dumplin'.\n\nLet's celebrate by butcherin' some\nbamboo! One try will cost you\n<r<10 Rupees>>. What do you say?\n[1]I'm in![2]Rules?[3-]No, thanks.")
           					goto flw_3
           				}
           			  case 1:
-/*<115>*/ 				printf("______Tell me somethin', Link!\nDid you find that dirty rotten egg\nburglar who's been botherin' my\nbaby girl?\nOr are you here to buff up your sword\narm with a little bamboo slice 'n' dice?\nIt's only <r<10 Rupees >>a round!\n[1]I'm in![2]Rules?_____No, thanks.")
+/*<115>*/ 				printf("______Tell me somethin', Link!\nDid you find that dirty rotten egg\nburglar who's been botherin' my\nbaby girl?\nOr are you here to buff up your sword\narm with a little bamboo slice 'n' dice?\nIt's only <r<10 Rupees >>a round!\n[1]I'm in![2]Rules?[3-]No, thanks.")
           				goto flw_3
           			}
           		  case 1:
-/*<  1>*/ 			printf("______How's it goin', Link?\nGood to see you again!\n\n\nHow's that slicin' arm feel? Ready to\nslay some bamboo? It's only <r<10 Rupees\n>>a shot!\n[1]I'm in![2]Rules?_____No, thanks.")
+/*<  1>*/ 			printf("______How's it goin', Link?\nGood to see you again!\n\n\nHow's that slicin' arm feel? Ready to\nslay some bamboo? It's only <r<10 Rupees\n>>a shot!\n[1]I'm in![2]Rules?[3-]No, thanks.")
           			goto flw_3
           		}
           	}
@@ -180,7 +180,7 @@
 /*<148>*/ 										OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 12), ('param2', 3584), ('next', 88), ('param3', 13)])
 /*< 88>*/ 										printf("______Bamboo slivers! My darlin' daughter's\ngot herself a feller, Link!\n\n\n______Oh...who could it be? Who's the scamp\nwho's stolen my muffin's heart?\n\n\n______And you, Link! Why did I\never put my trust in you? Any more\nbrains and I'd be as smart as a\ntree stump.\nOh my goodness gracious... What am\nI supposed to do now?")
 /*< 94>*/ 										story_flags[639 /* us: 805A9B1D 0x02, jp: 805ACD9D 0x02 */] = true;
-/*<120>*/ 										printf("______The only thing to do now is decimate\nsome bamboo. It's <r<10 Rupees >>for one\nround. Are you in or what?\n[1]I'm in![2]Rules?_____No, thanks.")
+/*<120>*/ 										printf("______The only thing to do now is decimate\nsome bamboo. It's <r<10 Rupees >>for one\nround. Are you in or what?\n[1]I'm in![2]Rules?[3-]No, thanks.")
 /*<121>*/ 										OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 109), ('param2', 4), ('next', -1), ('param3', 7)])
           									}
           								  case 1:
@@ -211,7 +211,7 @@
 /*<103>*/ 								printf("______But I won't stand for it! No way. No\nhow! I'm going to find the rascal and\ngive him a good whuppin'!\n\n______You got to help me out. You see anyone\nbuzzin' around my little flower, you\ngive him what for and send him\npackin'.\n______I'll keep my peepers peeled too, but I\ncan't stand watch all day long.\n\n\nI promise I'll make it worth your while.\nYou chase the varmint off, and I'll let\nyou chat with the apple of my eye.")
 /*<123>*/ 								printf("______Hush! You don't have to say a word.\nI can see how you feel by the spark in\nyour eye.\n\n______There's not a feller alive who wouldn't\njump at this chance!\n\n\n______Ease this old man's heart, and get rid\nof the lowlife who's pesterin' my\nbaby girl. I'm counting on you,\nLink!")
 /*<102>*/ 								story_flags[633 /* us: 805A9B1A 0x08, jp: 805ACD9A 0x08 */] = true;
-/*<105>*/ 								printf("______You want to slice up some bamboo?\nIt's <r<10 Rupees >>a turn!\n[1]I'm in![2]Rules?_____No, thanks.")
+/*<105>*/ 								printf("______You want to slice up some bamboo?\nIt's <r<10 Rupees >>a turn!\n[1]I'm in![2]Rules?[3-]No, thanks.")
 /*<111>*/ 								OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 109), ('param2', 4), ('next', -1), ('param3', 7)])
           							  case 1:
 /*<100>*/ 								printf("______Sure enough is. You're as smart as a\nbullwhip, aren't you?")

@@ -27,7 +27,7 @@
 
           void entrypoint_002_001() {
           	start()
-/*<  4>*/ 	printf("______\n[1]Save[2]Save and _____quit>>_____Cancel")
+/*<  4>*/ 	printf("______\n[1]Save[2]Save and _____quit>>[3-]Cancel")
 /*<  1>*/ 	switch (choice(3, 1)) {
           	  case 0:
           	  case 1:

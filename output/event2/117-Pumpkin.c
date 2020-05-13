@@ -60,7 +60,7 @@
 /*<307>*/ 	start()
 /*<327>*/ 	switch (scene_flags[22 /* 0x3 40 */]) {
           	  case 0:
-/*<328>*/ 		printf("______So what will it be?\n[1]Harp.[2]Soup._____Nothing.")
+/*<328>*/ 		printf("______So what will it be?\n[1]Harp.[2]Soup.[3-]Nothing.")
           		flw_312:
 /*<312>*/ 		switch (choice(3, 1)) {
           		  case 0:
@@ -100,7 +100,7 @@
 /*<309>*/ 		printf("______Hey, Link! What do you \nthink of this new chandelier?\n\n\n______Let me tell you, this beauty set me back\nquite a bit!")
 /*<326>*/ 		scene_flags[21 'The Sky'][22 /* 0x3 40 */] = true;
 /*<310>*/ 		printf("______You...think I spent too much on it?!\n\n\n\n______Don't be a wet blanket! It's thanks to\nyour hard work that I was able to buy\nsuch a stunner of a chandelier!\n______So don't break it!")
-/*<311>*/ 		printf("______Anyway, what can I do for you? If it's\nwork you're after, I'm sure I can find\nsomething for you to do. Just for\nold times' sake!\n______And, of course, I'll pay you for it this\ntime. Want to make some money\nplaying your harp for us? Or maybe\nyou just want some soup?\n[1]Play harp.[2]Soup._____I'm busy.")
+/*<311>*/ 		printf("______Anyway, what can I do for you? If it's\nwork you're after, I'm sure I can find\nsomething for you to do. Just for\nold times' sake!\n______And, of course, I'll pay you for it this\ntime. Want to make some money\nplaying your harp for us? Or maybe\nyou just want some soup?\n[1]Play harp.[2]Soup.[3-]I'm busy.")
           		goto flw_312
           	}
           }
@@ -351,7 +351,7 @@
           							  case 0:
 /*<516>*/ 								switch (story_flags[737 /* us: 805A9B26 0x02, jp: 805ACDA6 0x02 */]) {
           								  case 0:
-/*<267>*/ 									printf("______Hey! So you're saying that you'll \nplay one more time for Kina?\n[1]I'm in![2]Explain!_____No way.")
+/*<267>*/ 									printf("______Hey! So you're saying that you'll \nplay one more time for Kina?\n[1]I'm in![2]Explain![3-]No way.")
 /*<268>*/ 									switch (choice(3, 1)) {
           									  case 0:
 /*<270>*/ 										printf("______Great! I was hoping you'd say that.")
@@ -823,7 +823,7 @@
           					}
           				}
           			  case 1:
-/*< 57>*/ 				printf("______You believe me, don't ya?!\n[1]Believe what?[2]Sure!_____No chance.")
+/*< 57>*/ 				printf("______You believe me, don't ya?!\n[1]Believe what?[2]Sure![3-]No chance.")
 /*< 58>*/ 				switch (choice(3, 1)) {
           				  case 0:
 /*< 59>*/ 					printf("______There's a fiendish demon living in\nSkyloft!\n\n\nI'm tellin' ya, I came this close to\ngetting eaten by that evil beast!\n\n\n______You look like you've gotten a little\nknight training, but you'd better keep\nyour guard up, or he'll take a bite out\nof you too!")

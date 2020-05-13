@@ -9,7 +9,7 @@
 /*<415>*/ 		switch (choice(2, 0)) {
           		  case 0:
           			flw_414:
-/*<414>*/ 			printf("Which will you sell to me?\n<y<[1]______>>.<y<[2]______>>.<y<[3]______>>.<y<___________>>.")
+/*<414>*/ 			printf("Which will you sell to me?\n<y<[1]______>>.<y<[2]______>>.<y<[3]______>>.<y<[4]______>>.")
 /*<413>*/ 			switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 146)])) {
           			  case 0:
 /*<488>*/ 				OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 0), ('next', 481), ('param3', 33)])
@@ -18,7 +18,7 @@
 /*<489>*/ 					printf("______Hmmm, how many Rupees can I offer\nfor each <y<______>>... \nDoes _______ seem fair?")
           					flw_656:
 /*<656>*/ 					OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 412), ('param3', 12)])
-/*<412>*/ 					printf("______I see that you're carrying _______ of those.\nHow many will you sell me?\n[1]1.[2]5.[3]All of them!_____No deal.")
+/*<412>*/ 					printf("______I see that you're carrying _______ of those.\nHow many will you sell me?\n[1]1.[2]5.[3]All of them![4-]No deal.")
 /*<411>*/ 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 142)])) {
           					  case 0:
 /*<500>*/ 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', 497), ('param3', 33)])
@@ -162,7 +162,7 @@
 /*<467>*/ 								printf("<y<______>>, eh?\nFor one of those, how many Rupees\nshould I part with? Hmmmm...\nHow about _______?")
           								flw_657:
 /*<657>*/ 								OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 458), ('param3', 12)])
-/*<458>*/ 								printf("How many have you got there--_______?\nAnd how many of those are you looking\nto sell?\n[1]1.[2]5.[3]All of them!_____No deal.")
+/*<458>*/ 								printf("How many have you got there--_______?\nAnd how many of those are you looking\nto sell?\n[1]1.[2]5.[3]All of them![4-]No deal.")
 /*<457>*/ 								switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 166)])) {
           								  case 0:
 /*<455>*/ 									OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 4), ('param2', 0), ('next', 452), ('param3', 33)])

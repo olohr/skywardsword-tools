@@ -52,7 +52,7 @@
 /*<117>*/ 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 84), ('param3', 12)])
 /*< 84>*/ 				switch (temp_flags[6 /* 0x1 40 */]) {
           				  case 0:
-/*< 85>*/ 					printf("______Want to try again? It'll cost you\nanother <r<20 Rupees>>.\n[1]Yep! [2]Rules?_____Nah.")
+/*< 85>*/ 					printf("______Want to try again? It'll cost you\nanother <r<20 Rupees>>.\n[1]Yep! [2]Rules?[3-]Nah.")
           					flw_74:
 /*< 74>*/ 					switch (choice(3, 1)) {
           					  case 0:
@@ -81,7 +81,7 @@
 /*< 75>*/ 						printf("______OK, Link. I know how\nbusy you are.\n\n\nYou've got the whole _save Zelda\"\nmission going on and stuff. ____\n\nSorry for bugging you.")
           					}
           				  case 1:
-/*< 73>*/ 					printf("______Hey, Link! How's\neverything going?\n\n\nYou want to try shooting some\npumpkins? One go around will cost\nyou <r<20 Rupees>>!\n[1]Yep![2]Rules?_____No, thanks.")
+/*< 73>*/ 					printf("______Hey, Link! How's\neverything going?\n\n\nYou want to try shooting some\npumpkins? One go around will cost\nyou <r<20 Rupees>>!\n[1]Yep![2]Rules?[3-]No, thanks.")
           					goto flw_74
           				}
           			  case 1:

@@ -334,7 +334,7 @@
           			goto flw_256
           		  case 1:
 /*<253>*/ 			OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 4113), ('param2', 3329), ('next', 250), ('param3', 13)])
-/*<250>*/ 			printf("Hey. What do you want?\n[1]Key?[2]Treasure?_____Never mind.")
+/*<250>*/ 			printf("Hey. What do you want?\n[1]Key?[2]Treasure?[3-]Never mind.")
 /*<175>*/ 			switch (choice(3, 1)) {
           			  case 0:
           				goto flw_189

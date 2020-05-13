@@ -110,7 +110,10 @@ def parseMSB(fname):
                 bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x00\x00\x02\xFF\xFF', '[1]'.encode('utf-16be'))  # 1st answer
                 bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x01\x00\x02\x00\x00', '[2-]'.encode('utf-16be')) # 2nd answer (cancel)
                 bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x01\x00\x02\xFF\xFF', '[2]'.encode('utf-16be'))  # 2nd answer
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x02\x00\x02\x00\x00', '[3-]'.encode('utf-16be')) # 3rd answer (cancel)
                 bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x02\x00\x02\xFF\xFF', '[3]'.encode('utf-16be'))  # 3rd answer
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x03\x00\x02\x00\x00', '[4-]'.encode('utf-16be')) # 3rd answer (cancel)
+                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x03\x00\x02\xFF\xFF', '[4]'.encode('utf-16be'))  # 4th answer
                 bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x01', '~'.encode('utf-16be'))    # micro pause
                 bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x05', '~~'.encode('utf-16be'))   # short pause
                 bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x0F', '~~~'.encode('utf-16be'))  # long pause
@@ -243,13 +246,13 @@ if __name__ == "__main__":
                     file.write(('/*<%3d>*/ '%(lineId) if lineId else ' '*10)+'\t'*indent+lineStr+'\n')
             assert len(already_printed) == len(parsed['FLW3']['flow'])
         
-        f2=open('output/event/'+fname.split(os.sep)[-1].replace('.msbf','.json'),'w', encoding='utf-16le')
+        f2=open('output/event/'+fname.split(os.sep)[-1].replace('.msbf','.json'),'w', encoding='utf-8')
         f2.write(objToJson(parsed))
         f2.close()
         f2=open('output/event2/'+fname.split(os.sep)[-1].replace('.msbf','.c'),'w', encoding='utf-8')
         printEvflFile(f2,parsed,parsedMsbt)
         f2.close()
-        f2=open('output/text/'+fname.split(os.sep)[-1].replace('.msbf','.txt'),'w', encoding='utf-16le')
+        f2=open('output/text/'+fname.split(os.sep)[-1].replace('.msbf','.txt'),'w', encoding='utf-8')
         for line in parsedMsbt['TXT2']:
             f2.write(line + '\n')
         f2.close() 

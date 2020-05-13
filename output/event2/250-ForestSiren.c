@@ -12,7 +12,7 @@
 /*< 75>*/ 	printf("Was my explanation clear, ______Master?\nDo you want me to explain again?\n[1]Explain again.[2-]I got it.")
 /*< 76>*/ 	switch (choice(2, 0)) {
           	  case 0:
-/*< 77>*/ 		printf("Which topic do you wish to review?\n\n\n[1]The _____?[2]Guardians?[3]Silent Realm?_____Never mind.")
+/*< 77>*/ 		printf("Which topic do you wish to review?\n\n\n[1]The _____?[2]Guardians?[3]Silent Realm?[4-]Never mind.")
 /*< 92>*/ 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 22)])) {
           		  case 0:
 /*< 84>*/ 			printf("______Understood, Master.")

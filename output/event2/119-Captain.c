@@ -179,7 +179,7 @@
           	  case 0:
 /*<156>*/ 		switch (scene_flags[60 /* 0x6 10 */]) {
           		  case 0:
-/*< 17>*/ 			printf("______Oh? Ready to talk more about the\n<r<secrets of defense>>?\n[1]Practical stuff.[2]Basics!_____No, thanks.")
+/*< 17>*/ 			printf("______Oh? Ready to talk more about the\n<r<secrets of defense>>?\n[1]Practical stuff.[2]Basics![3-]No, thanks.")
 /*< 19>*/ 			switch (choice(3, 1)) {
           			  case 0:
 /*< 20>*/ 				printf("<r<Practical stuff>>? OK!\n\n\n\n______If you ready your shield right before an\nenemy attacks you, the force from your\nshield arm will <g<repel >>the enemy's \nattack. \n______This technique is called a <r<shield bash>>,\nand it will make the enemy recoil,\ngiving you an opening in which to\nattack.\n______This technique is very useful against\nenemies who throw weapons at you or\njust refuse to give you an opening\nfor attack.")

@@ -21,7 +21,7 @@
 /*< 79>*/ 					OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 84), ('param3', 12)])
 /*< 84>*/ 					switch (loadzone_temp_flags[6 /* 0x9 40 */]) {
           					  case 0:
-/*< 85>*/ 						printf("______Want to play again, little guy?!\nOOOoooooooh, you're hooked!\n\n\nIt'll be <r<20 Rupees>>. What do you say?\n[1]Yes![2]Rules, please._____No way.")
+/*< 85>*/ 						printf("______Want to play again, little guy?!\nOOOoooooooh, you're hooked!\n\n\nIt'll be <r<20 Rupees>>. What do you say?\n[1]Yes![2]Rules, please.[3-]No way.")
           						flw_33:
 /*< 33>*/ 						switch (choice(3, 1)) {
           						  case 0:
@@ -57,12 +57,12 @@
 /*< 36>*/ 							printf("______OOOOOooh! What's this?! This little\nboy's a scaredy-bird?! Is he scared of\nthe widdle cannon?")
           						}
           					  case 1:
-/*<  9>*/ 						printf("______YAHAWWWWW! The boy is BACK!\nHow about a little skydiving? I'm just\nitching to shoot YOU out of a cannon!\n\n______Oh, but you're going to have to pay this\ntime. It'll be <r<20 Rupees>>. Well?!\n[1]I'm in![2]Rules, please._____No way.")
+/*<  9>*/ 						printf("______YAHAWWWWW! The boy is BACK!\nHow about a little skydiving? I'm just\nitching to shoot YOU out of a cannon!\n\n______Oh, but you're going to have to pay this\ntime. It'll be <r<20 Rupees>>. Well?!\n[1]I'm in![2]Rules, please.[3-]No way.")
 /*< 83>*/ 						loadzone_temp_flags[6 /* 0x9 40 */] = true;
           						goto flw_33
           					}
           				  case 1:
-/*< 78>*/ 					printf("______YAHOOOEY! Step right up, young\nman! Feel like taking a little dive?\n\n\nAs my way of saying thanks for finding\nmy party wheel, your first blast is\non the house! It's FUN for FREE!\n[1]Yes![2]Rules, please._____No, thanks.")
+/*< 78>*/ 					printf("______YAHOOOEY! Step right up, young\nman! Feel like taking a little dive?\n\n\nAs my way of saying thanks for finding\nmy party wheel, your first blast is\non the house! It's FUN for FREE!\n[1]Yes![2]Rules, please.[3-]No, thanks.")
           					goto flw_33
           				}
           			  case 1:

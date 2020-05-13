@@ -62,7 +62,7 @@
           			  case 0:
 /*<221>*/ 				switch (loadzone_temp_flags[1 /* 0x9 02 */]) {
           				  case 0:
-/*<223>*/ 					printf("Let's get going quick, vrrm! Don't you\nneed to find that person you're looking\nfor, brrzt?\n\nOr do you need me to take the boat\nsomewhere else on this sea?\n[1]To sea![2]To the Sandship!_____Never mind.")
+/*<223>*/ 					printf("Let's get going quick, vrrm! Don't you\nneed to find that person you're looking\nfor, brrzt?\n\nOr do you need me to take the boat\nsomewhere else on this sea?\n[1]To sea![2]To the Sandship![3-]Never mind.")
           					flw_263:
 /*<263>*/ 					switch (choice(3, 1)) {
           					  case 0:
@@ -80,13 +80,13 @@
 /*<280>*/ 						switch (story_flags[526 /* us: 805A9B14 0x08, jp: 805ACD94 0x08 */]) {
           						  case 0:
           							flw_222:
-/*<222>*/ 							printf("You made it, zrrt! Did you find who\nyou were looking for, phaweep?\n\n\nDo you want me to take you somewhere\nby boat, brrzrrt?\n[1]To sea![2]To the Sandship!_____Never mind.")
+/*<222>*/ 							printf("You made it, zrrt! Did you find who\nyou were looking for, phaweep?\n\n\nDo you want me to take you somewhere\nby boat, brrzrrt?\n[1]To sea![2]To the Sandship![3-]Never mind.")
           							goto flw_263
           						  case 1:
 /*<292>*/ 							switch (story_flags[848 /* us: 805A9B35 0x40, jp: 805ACDB5 0x40 */]) {
           							  case 0:
           								flw_282:
-/*<282>*/ 								printf("You are looking for a dragon god,\nvrrm?\n\n\n______If it's <b<Master Thunder Dragon >>you \nwant to meet, he's to the south of \n<b<Lanayru Caves>>, bzzt. I don't know any \nother dragon gods, though, brrzrrt.\n______Do you want me to take you somewhere\nby boat?\n[1]To sea![2]To the Sandship!_____Never mind.")
+/*<282>*/ 								printf("You are looking for a dragon god,\nvrrm?\n\n\n______If it's <b<Master Thunder Dragon >>you \nwant to meet, he's to the south of \n<b<Lanayru Caves>>, bzzt. I don't know any \nother dragon gods, though, brrzrrt.\n______Do you want me to take you somewhere\nby boat?\n[1]To sea![2]To the Sandship![3-]Never mind.")
           								goto flw_263
           							  case 1:
 /*<293>*/ 								OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 0), ('next', 294), ('param3', 31)])
@@ -102,7 +102,7 @@
           				flw_150:
 /*<150>*/ 				switch (story_flags[272 /* us: 805A9AF8 0x04, jp: 805ACD78 0x04 */]) {
           				  case 0:
-/*< 27>*/ 					printf("______Ready to shove off, brrzt?\n[1]To sea.[2]To the Sandship._____Never mind.")
+/*< 27>*/ 					printf("______Ready to shove off, brrzt?\n[1]To sea.[2]To the Sandship.[3-]Never mind.")
 /*< 28>*/ 					switch (choice(3, 1)) {
           					  case 0:
 /*< 29>*/ 						printf("______All right! Let's go, vrrrrm!")

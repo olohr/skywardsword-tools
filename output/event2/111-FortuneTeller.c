@@ -389,7 +389,7 @@
 /*<149>*/ 	OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -238), ('next', 167), ('param3', 13)])
 /*<167>*/ 	OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 0), ('param2', 50), ('next', 146), ('param3', 54)])
 /*<146>*/ 	printf("Ahaaaaaaaaaa. I see many things...\nAll is revealed...")
-/*<156>*/ 	printf("Yesss... A towering forest... Sandy\ndunes... A blazing mountain...\nMonsters... These are the sources of\ntreasure that I foresee.\nWhich source of treasure do you want\nto hear about?\n[1]Forest.[2]Dunes.[3]Mountain._____Monsters.")
+/*<156>*/ 	printf("Yesss... A towering forest... Sandy\ndunes... A blazing mountain...\nMonsters... These are the sources of\ntreasure that I foresee.\nWhich source of treasure do you want\nto hear about?\n[1]Forest.[2]Dunes.[3]Mountain.[4]Monsters.")
 /*<150>*/ 	switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 78)])) {
           	  case 0:
 /*<151>*/ 		printf("Yesss... I see a towering forest...\nTreasures often found in these great\nwoods are <y<Bird Feathers>> and\n<y<Hornet Larvae>>...\nI see you finding a<y< Bird Feather>> by\ncatching a small bird in your net!\n\n\nAnd <y<Hornet Larvae>>... Oh yesss, you will\nfind them by knocking down hives!\n\n\nAmong all the small bird feathers, I see\none that is highly prized! Yesss, \nthe <r<Blue Bird Feather>>... It is said to\nbring happiness!\nIf you see one, young man, you are\nvery fortunate!")

@@ -11,7 +11,7 @@
 /*<  3>*/ 			switch (choice(2, 0)) {
           			  case 0:
 /*< 74>*/ 				OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 1), ('next', 4), ('param3', 12)])
-/*<  4>*/ 				printf("Excellent! So, tell me, what kind of\ntreasure are you in the market for?\n[1]_____[2]_____[3]__________Other.")
+/*<  4>*/ 				printf("Excellent! So, tell me, what kind of\ntreasure are you in the market for?\n[1]_____[2]_____[3]_____[4-]Other.")
 /*<  6>*/ 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 2)])) {
           				  case 0:
 /*<  7>*/ 					printf("OK, one _____ it is!\nFor <r<200 Rupees>>, it's all yours!\n[1]Sounds good![2-]Too much.")
@@ -62,7 +62,7 @@
 /*< 23>*/ 						printf("Puh-leeeze, I've heard that one before.\nYou say it costs too much. I say you\nprobably didn't want it that much in\nthe first place or you'd cough it up!")
           					}
           				  case 3:
-/*< 53>*/ 					printf("Something else, huh? Well do any of\nthese pique your interest?\n[1]_____[2]_____[3]__________Other.")
+/*< 53>*/ 					printf("Something else, huh? Well do any of\nthese pique your interest?\n[1]_____[2]_____[3]_____[4-]Other.")
 /*< 54>*/ 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 28)])) {
           					  case 0:
 /*< 22>*/ 						printf("OK, one _____ it is! It's a steal at\njust <r<100 Rupees>>.\n[1]Sounds good![2-]Too much.")

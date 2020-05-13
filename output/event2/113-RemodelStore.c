@@ -33,7 +33,7 @@
           	start()
 /*< 92>*/ 	switch (story_flags[325 /* us: 805A9AFF 0x08, jp: 805ACD7F 0x08 */]) {
           	  case 0:
-/*< 93>*/ 		printf("______Hey, kid! How's <b<Scrapper>> treating\nyou? Anything to upgrade today?\n[1]Upgrade.[2]Repair shield._____No, thanks.")
+/*< 93>*/ 		printf("______Hey, kid! How's <b<Scrapper>> treating\nyou? Anything to upgrade today?\n[1]Upgrade.[2]Repair shield.[3-]No, thanks.")
           		flw_4:
 /*<  4>*/ 		switch (choice(3, 1)) {
           		  case 0:
@@ -59,7 +59,7 @@
 /*< 54>*/ 		switch (story_flags[323 /* us: 805A9AFF 0x02, jp: 805ACD7F 0x02 */]) {
           		  case 0:
 /*< 51>*/ 			printf("______So...take good care of <b<Scrapper>>\nfor me, will you? By the way, he can\nsense people's thought waves or\nsomething...\n______That means wherever you are, if you\nneed him, he'll be there in a jiffy!\n\n\nHe's got kind of a mean little mouth on\nhim, but if he's in a good mood, he'll\nwork hard for you!\n_____Anyway, enough of my yappin'!")
-/*< 55>*/ 			printf("______So how 'bout another upgrade?\nI'll repair your shield too!\n[1]Upgrade.[2]Repair shield._____No, thanks.")
+/*< 55>*/ 			printf("______So how 'bout another upgrade?\nI'll repair your shield too!\n[1]Upgrade.[2]Repair shield.[3-]No, thanks.")
           			goto flw_4
           		  case 1:
 /*< 33>*/ 			switch (story_flags[322 /* us: 805A9AFF 0x01, jp: 805ACD7F 0x01 */]) {
@@ -105,7 +105,7 @@
           				  case 1:
           					flw_25:
 /*< 25>*/ 					loadzone_temp_flags[4 /* 0x9 10 */] = false;
-/*<  1>*/ 					printf("______Heyyyyy! Welcome to the Scrap Shop!\nI can use the stuff you find to upgrade \nyour gear and make it even stronger!\n\nAnd if your shield takes a beating, no\nworries. I can fix that too.\nSo what'll it be?\n[1]Upgrade gear.[2]Fix shield._____Never mind.")
+/*<  1>*/ 					printf("______Heyyyyy! Welcome to the Scrap Shop!\nI can use the stuff you find to upgrade \nyour gear and make it even stronger!\n\nAnd if your shield takes a beating, no\nworries. I can fix that too.\nSo what'll it be?\n[1]Upgrade gear.[2]Fix shield.[3-]Never mind.")
           					goto flw_4
           				}
           			  case 1:

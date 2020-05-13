@@ -16,7 +16,7 @@
 /*<119>*/ 				printf("If you like, use the seat over there\nand take a load off.")
           			  case 1:
 /*< 83>*/ 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 0), ('param2', 6), ('next', 1), ('param3', 13)])
-/*<  1>*/ 				printf("Do you like money? How about\nexplosions? Well, dig up some Rupees\nbefore you hit a bomb in a suspenseful\ngame of <b<Thrill Digger>>! Want to try it?\n[1]Beginner![2]Intermediate![3]Expert!_____No, thanks.")
+/*<  1>*/ 				printf("Do you like money? How about\nexplosions? Well, dig up some Rupees\nbefore you hit a bomb in a suspenseful\ngame of <b<Thrill Digger>>! Want to try it?\n[1]Beginner![2]Intermediate![3]Expert![4-]No, thanks.")
           				flw_85:
 /*< 85>*/ 				OrderedDict([('type', 'type3'), ('subType', 4), ('param1', 255), ('param2', -1), ('next', 3), ('param3', 13)])
 /*<  3>*/ 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 0)])) {
@@ -45,7 +45,7 @@
           							}
           						  case 1:
 /*< 75>*/ 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 38), ('param3', 12)])
-/*< 38>*/ 							printf("So which course will it be?\n[1]Beginner.[2]Intermediate.[3]Expert._____None.")
+/*< 38>*/ 							printf("So which course will it be?\n[1]Beginner.[2]Intermediate.[3]Expert.[4-]None.")
           							goto flw_85
           						}
           					  case 1:
@@ -76,7 +76,7 @@
           							}
           						  case 1:
 /*< 77>*/ 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 32), ('param3', 12)])
-/*< 32>*/ 							printf("So which course will it be?\n[1]Beginner.[2]Intermediate.[3]Expert._____None.")
+/*< 32>*/ 							printf("So which course will it be?\n[1]Beginner.[2]Intermediate.[3]Expert.[4-]None.")
           							goto flw_85
           						}
           					  case 1:
@@ -108,7 +108,7 @@
           							}
           						  case 1:
 /*< 79>*/ 							OrderedDict([('type', 'type3'), ('subType', 6), ('param1', 0), ('param2', 0), ('next', 25), ('param3', 12)])
-/*< 25>*/ 							printf("So which course will it be?\n[1]Beginner.[2]Intermediate.[3]Expert._____None.")
+/*< 25>*/ 							printf("So which course will it be?\n[1]Beginner.[2]Intermediate.[3]Expert.[4-]None.")
           							goto flw_85
           						}
           					  case 1:
@@ -153,7 +153,7 @@
 /*<116>*/ 						OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 5), ('param2', 0), ('next', 117), ('param3', 39)])
 /*<117>*/ 						printf("There's a stool over there. It ain't\nexactly lined with satin pillows, but\ngo ahead and take a load off.")
           					  case 1:
-/*<  2>*/ 						printf("You should try again. How about\nanother go?\n[1]Beginner.[2]Intermediate.[3]Expert._____I'm done.")
+/*<  2>*/ 						printf("You should try again. How about\nanother go?\n[1]Beginner.[2]Intermediate.[3]Expert.[4-]I'm done.")
           						goto flw_85
           					}
           				  case 1:
@@ -219,7 +219,7 @@
 /*<115>*/ 	printf("______Ah, you're taking a break? Too much\nsuspense for you?\n\n\nWell then, will you take a load off and\nchat with me a bit?[1]OK.[2-]Not now.")
 /*<120>*/ 	switch (choice(2, 0)) {
           	  case 0:
-/*<122>*/ 		printf("______Oh, yes! OK, OK...is there anything\nyou want to ask me?______[1]Who are you?[2]Are you floating?[3]Is it too bright for you?_____Nothing.______")
+/*<122>*/ 		printf("______Oh, yes! OK, OK...is there anything\nyou want to ask me?______[1]Who are you?[2]Are you floating?[3]Is it too bright for you?[4-]Nothing.______")
           		flw_123:
 /*<123>*/ 		switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 43)])) {
           		  case 0:
@@ -227,7 +227,7 @@
           			  case 0:
 /*<127>*/ 				printf("______My name is <b<Tubert>>! I run this game I\nlike to call <r<Thrill Digger>>! Yep, I'm kind\nof important around here.\n\nYou could even call me <b<Mr. Tubert>>.\nYou know, ______if you want to. Thanks, kid.")
           				flw_128:
-/*<128>*/ 				printf("______So what do you want to ask me next?[1]Who are you?[2]Are you floating?[3]Is it too bright for you?_____Nothing.")
+/*<128>*/ 				printf("______So what do you want to ask me next?[1]Who are you?[2]Are you floating?[3]Is it too bright for you?[4-]Nothing.")
           				goto flw_123
           			  case 1:
 /*<158>*/ 				switch (scene_flags[26 /* 0x2 04 */]) {

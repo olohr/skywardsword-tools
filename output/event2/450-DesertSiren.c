@@ -84,7 +84,7 @@
 /*<  8>*/ 			printf("When your vessel is full, your spirit\nwill grow and you will be entrusted\nwith a <r<new power >>by the goddess.\n\nDo you have any questions?\n[1]Yes![2-]No.")
 /*<  3>*/ 			switch (choice(2, 0)) {
           			  case 0:
-/*< 50>*/ 				printf("Which topic do you wish to review?\n\n\n[1]The _____?[2]Guardians?[3]Waking Water?_____Never mind.")
+/*< 50>*/ 				printf("Which topic do you wish to review?\n\n\n[1]The _____?[2]Guardians?[3]Waking Water?[4-]Never mind.")
           				flw_51:
 /*< 51>*/ 				switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 20)])) {
           				  case 0:
@@ -98,7 +98,7 @@
 /*< 57>*/ 					OrderedDict([('type', 'type3'), ('subType', 0), ('param1', 0), ('param2', 15), ('next', 77), ('param3', 6)])
           					flw_77:
 /*< 77>*/ 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 1), ('param2', 0), ('next', 78), ('param3', 39)])
-/*< 78>*/ 					printf("Do you have any further questions?\n\n[1]The _____?[2]Guardians?[3]Waking Water?_____Never mind.")
+/*< 78>*/ 					printf("Do you have any further questions?\n\n[1]The _____?[2]Guardians?[3]Waking Water?[4-]Never mind.")
           					goto flw_51
           				  case 1:
 /*< 60>*/ 					printf("However, this is not as simple a task\nas it would seem. Your work in this\nrealm is referred to as a <r<trial>> for\ngood reason.")

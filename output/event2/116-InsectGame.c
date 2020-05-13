@@ -13,7 +13,7 @@
 /*<115>*/ 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 71), ('param2', 1), ('next', 114), ('param3', 23)])
 /*<114>*/ 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 64)])) {
           					  case 0:
-/*<  4>*/ 						printf("______You ready to start catching some\nbugs? Maybe you'll get bitten by the\nbug-catching fever, just like me.\nOr maybe you'll just get bitten...\nAnyway, it's <r<20 Rupees >>for the Bug\nBeginner level or <r<50 >>for the Bug\nWrangler level. What do you say?\n[1]Bug Beginner![2]Bug Wrangler!_____No, thanks.")
+/*<  4>*/ 						printf("______You ready to start catching some\nbugs? Maybe you'll get bitten by the\nbug-catching fever, just like me.\nOr maybe you'll just get bitten...\nAnyway, it's <r<20 Rupees >>for the Bug\nBeginner level or <r<50 >>for the Bug\nWrangler level. What do you say?\n[1]Bug Beginner![2]Bug Wrangler![3-]No, thanks.")
           						flw_1:
 /*<  1>*/ 						switch (choice(3, 1)) {
           						  case 0:
@@ -61,7 +61,7 @@
 /*<112>*/ 					OrderedDict([('type', 'type3'), ('subType', 1), ('param1', 71), ('param2', 1), ('next', 111), ('param3', 23)])
 /*<111>*/ 					switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 7), ('param4', 2), ('param5', 62)])) {
           					  case 0:
-/*<110>*/ 						printf("______I have come up with two levels for my\nbug-catching competition: an easy\n<r<Bug Beginner >>level and a <r<Bug Wrangler\n>>level for real bug masters like me.\n______Since you aren't a bug lover, I'll\ncharge you <r<20 Rupees >>for the Bug\nBeginner level and <r<50 >>for the Bug\nWrangler level. Do you want in on this?\n[1]Bug Beginner![2]Bug Wrangler!_____No, thanks.")
+/*<110>*/ 						printf("______I have come up with two levels for my\nbug-catching competition: an easy\n<r<Bug Beginner >>level and a <r<Bug Wrangler\n>>level for real bug masters like me.\n______Since you aren't a bug lover, I'll\ncharge you <r<20 Rupees >>for the Bug\nBeginner level and <r<50 >>for the Bug\nWrangler level. Do you want in on this?\n[1]Bug Beginner![2]Bug Wrangler![3-]No, thanks.")
           						goto flw_1
           					  case 1:
 /*<113>*/ 						printf("______WHAT?! You don't even have a\n<r<Bug Net>>?! I don't believe this.\n\n\n______You've never experienced the passion,\nthrill, and joy of bug hunting? I feel\nsorry for you.\n\n______You can buy a Bug Net at <r<Beedle's\nAirshop>>, so do yourself a favor and go\nthere right now and get one!")

@@ -471,7 +471,7 @@
 /*<564>*/ 							switch (story_flags[799 /* us: 805A9B2F 0x80, jp: 805ACDAF 0x80 */]) {
           							  case 0:
           								flw_194:
-/*<194>*/ 								printf("_____&So, where you flying to today?\n[1]The sky![2]The surface._____Never mind!")
+/*<194>*/ 								printf("_____&So, where you flying to today?\n[1]The sky![2]The surface.[3-]Never mind!")
 /*<195>*/ 								switch (choice(3, 1)) {
           								  case 0:
 /*<586>*/ 									switch (story_flags[394 /* us: 805A9B0C 0x10, jp: 805ACD8C 0x10 */]) {
@@ -489,7 +489,7 @@
 /*<202>*/ 											loadzone_temp_flags[2 /* 0x9 04 */] = true;
           											goto flw_204
           										  case 2:
-/*<197>*/ 											printf("What kind of fun are you looking for?\nAnything in particular?\n[1]Cutting![2]Shooting!_____Never mind.")
+/*<197>*/ 											printf("What kind of fun are you looking for?\nAnything in particular?\n[1]Cutting![2]Shooting![3-]Never mind.")
 /*<572>*/ 											switch (choice(3, 1)) {
           											  case 0:
           												flw_203:
@@ -504,7 +504,7 @@
           											}
           										}
           									  case 1:
-/*<585>*/ 										printf("Somewhere fun in the sky, eh?\nWhere should I launch you?\n[1]Skydiving.[2]Bug hunting.[3]Cutting._____Never mind.")
+/*<585>*/ 										printf("Somewhere fun in the sky, eh?\nWhere should I launch you?\n[1]Skydiving.[2]Bug hunting.[3]Cutting.[4-]Never mind.")
 /*<587>*/ 										switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 129)])) {
           										  case 0:
           											goto flw_209
@@ -517,7 +517,7 @@
           										}
           									}
           								  case 1:
-/*<198>*/ 									printf("Somewhere fun down here, eh?\nWhat kind of fun are you\nlooking for?\n[1]Lightning Round![2]Thrill Digger![3]Rickety Coaster!_____Never mind.")
+/*<198>*/ 									printf("Somewhere fun down here, eh?\nWhat kind of fun are you\nlooking for?\n[1]Lightning Round![2]Thrill Digger![3]Rickety Coaster![4-]Never mind.")
 /*<201>*/ 									switch (OrderedDict([('type', 'switch'), ('subType', 6), ('param2', 0), ('param3', 2), ('param4', 4), ('param5', 53)])) {
           									  case 0:
 /*<206>*/ 										loadzone_temp_flags[5 /* 0x9 20 */] = true;
