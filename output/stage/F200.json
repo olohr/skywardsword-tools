@@ -310,6 +310,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 158,
+                        "nameidx": 5,
+                        "name": "Eldin Volcano",
                         "scenef": "temp flag: 0x2 40"
                     }
                 },
@@ -4672,7 +4674,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "04 29",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 1,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF CF F0 02",
@@ -4688,7 +4697,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "04 2A",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 2,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF CF F2 00",
@@ -4704,7 +4720,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "04 2B",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 0,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF CF F1 03",
@@ -4720,7 +4743,14 @@
                             "angle": 62806,
                             "talk_behaviour": 65535,
                             "unk3": "04 2C",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 3,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF CF F2 04",
@@ -4736,7 +4766,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "04 2D",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 4,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C1",
@@ -8413,7 +8450,15 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "14 62",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "roomid": 5,
+                                "entranceid": 1,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF 01 FF 01",
@@ -9848,7 +9893,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "0C CB",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 27,
+                                "setscenefid": 46,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x2 08",
+                                "setscenef": "scene flag: 0x4 40"
+                            }
                         },
                         {
                             "unk1": "FF 92 2B 06",
@@ -9949,7 +10001,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC D0",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 4,
+                                "setscenefid": 161,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x1 10",
+                                "setscenef": "temp flag: 0x5 02"
+                            }
                         },
                         {
                             "unk1": "F0 41 28 B0",
@@ -9965,7 +10024,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC D1",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 4,
+                                "setscenefid": 162,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x1 10",
+                                "setscenef": "temp flag: 0x5 04"
+                            }
                         },
                         {
                             "unk1": "F0 41 29 30",
@@ -9981,7 +10047,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC D2",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 4,
+                                "setscenefid": 164,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x1 10",
+                                "setscenef": "temp flag: 0x5 10"
+                            }
                         },
                         {
                             "unk1": "F0 41 29 70",
@@ -9997,7 +10070,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC D3",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 4,
+                                "setscenefid": 165,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x1 10",
+                                "setscenef": "temp flag: 0x5 20"
+                            }
                         },
                         {
                             "unk1": "F0 41 29 B0",
@@ -10013,7 +10093,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC D4",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 4,
+                                "setscenefid": 166,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x1 10",
+                                "setscenef": "temp flag: 0x5 40"
+                            }
                         },
                         {
                             "unk1": "F0 41 29 F0",
@@ -10029,7 +10116,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC D5",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 4,
+                                "setscenefid": 167,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x1 10",
+                                "setscenef": "temp flag: 0x5 80"
+                            }
                         },
                         {
                             "unk1": "02 C2 FF 11",
@@ -10113,7 +10207,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC DA",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 197,
+                                "setscenefid": 196,
+                                "count": 1,
+                                "trigscenef": "loadzone temp flag: 0x9 20",
+                                "setscenef": "loadzone temp flag: 0x9 10"
+                            }
                         },
                         {
                             "unk1": "FF FF C4 08",
@@ -16772,7 +16873,14 @@
                             "angle": 60985,
                             "talk_behaviour": 65535,
                             "unk3": "FC A5",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 8,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "80 7A 2F FF",
@@ -16872,7 +16980,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC AA",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 8,
+                                "setscenefid": 42,
+                                "count": 3,
+                                "trigscenef": "scene flag: 0x0 01",
+                                "setscenef": "scene flag: 0x4 04"
+                            }
                         }
                     ]
                 },
@@ -21027,7 +21142,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 22",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 8,
+                                "setscenefid": 42,
+                                "count": 3,
+                                "trigscenef": "scene flag: 0x0 01",
+                                "setscenef": "scene flag: 0x4 04"
+                            }
                         }
                     ]
                 },

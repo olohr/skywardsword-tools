@@ -79,6 +79,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 151,
+                        "nameidx": 51,
+                        "name": "The Lumpy\\nPumpkin",
                         "scenef": "temp flag: 0x3 80"
                     }
                 }

@@ -104,6 +104,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 178,
+                        "nameidx": 17,
+                        "name": "Sky Keep",
                         "scenef": "temp flag: 0x7 04"
                     }
                 }

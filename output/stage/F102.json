@@ -126,6 +126,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 178,
+                        "nameidx": 4,
+                        "name": "Lake Floria",
                         "scenef": "temp flag: 0x7 04"
                     }
                 },

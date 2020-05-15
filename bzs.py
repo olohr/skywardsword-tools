@@ -89,13 +89,15 @@ def objAddExtraInfo(parsed_item):
     if parsed_item['name'] in ['TlpTag']:
         # flag is first byte
         extraInfo['scenefid'] = parsed_item['unk1'][0]
+        extraInfo['nameidx'] = parsed_item['unk1'][2]
+        extraInfo['name'] = map_text['MAP_%02d'%extraInfo['nameidx']]
     if parsed_item['name'] in ['Log','trolley']:
         # flag is second byte
         extraInfo['scenefid'] = parsed_item['unk1'][1]
     elif parsed_item['name'] in ['FrmLand']:
         # flag is third byte
         extraInfo['scenefid'] = parsed_item['unk1'][2]
-    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB']:
+    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB','SwWall']:
         # flag is fourth byte
         extraInfo['scenefid'] = parsed_item['unk1'][3]
         if parsed_item['name']=='TgReact':
@@ -129,6 +131,8 @@ def objAddExtraInfo(parsed_item):
         # flag is between byte 2 and 3 with bit shift
         extraInfo['scenefid'] = ((read_halfword(parsed_item['unk1'][1:3]) & 0x03FC) >> 2)
         extraInfo['itemid'] = parsed_item['unk1'][3]
+    elif parsed_item['name'] == 'BulbSW':
+        extraInfo['scenefid'] = (read_word(parsed_item['unk1'])>>2)&0xFF
     elif parsed_item['name'].startswith('Npc'):
         triggerstoryf=((read_halfword(parsed_item['unk1'][1:3]) & 0x1FFC) >> 2)
         untriggerstoryf=((read_halfword(parsed_item['unk1'][0:2]) & 0xFFE0) >> 5)
@@ -190,6 +194,23 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name'] == 'TDoor': # opened gate of time
         firstword = read_word(parsed_item['unk1'])
         extraInfo['trigstoryfid'] = firstword & 0x7FF
+    elif parsed_item['name'] == 'PlRsTag':
+        # byte 1 always FF
+        # byte 2 left 6 bytes {'010001', '110101', '110111', '010011', '110001', '010101', '110011', '111011'}
+        # unk2 always FF DF FF FF
+        extraInfo['trigscenefid'] = parsed_item['talk_behaviour']&0xFF
+        extraInfo['untrigscenefid'] = (parsed_item['talk_behaviour']>>8)&0xFF
+        extraInfo['roomid'] = (read_word(parsed_item['unk1'])>>12)&0x3F
+        extraInfo['entranceid'] = parsed_item['unk1'][3]
+        # all bits set mean stay in the same room
+        if extraInfo['roomid'] == 63:
+            del extraInfo['roomid']
+    elif parsed_item['name'] == 'SwTag':
+        # first 4 bits always F, then 6 bits counts, 8 bits start sceneflag (it watches range that+count)
+        # then 8 bits set sceneflag, then 6 unknown bits
+        extraInfo['trigscenefid'] = (read_word(parsed_item['unk1'])>>14)&0xFF
+        extraInfo['setscenefid'] = (read_word(parsed_item['unk1'])>>6)&0xFF
+        extraInfo['count'] = (read_word(parsed_item['unk1'])>>22)&0x3F
 
     # elif parsed_item['name'] == 'MapMark':
     #     extraInfo['map_pop_id'] = (parsed_item['talk_behaviour'] & 0xFF00) >> 8

@@ -75,6 +75,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 145,
+                        "nameidx": 34,
+                        "name": "Earth Spring",
                         "scenef": "temp flag: 0x3 02"
                     }
                 }

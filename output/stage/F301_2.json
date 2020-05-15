@@ -189,6 +189,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 147,
+                        "nameidx": 45,
+                        "name": "Pirate Stronghold",
                         "scenef": "temp flag: 0x3 08"
                     }
                 }
@@ -2681,7 +2683,11 @@
                             "angle": 49152,
                             "talk_behaviour": 0,
                             "unk3": "FC 06",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF F0 0F 46",
@@ -3284,7 +3290,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 2E",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 61,
+                                "setscenefid": 63,
+                                "count": 2,
+                                "trigscenef": "scene flag: 0x6 20",
+                                "setscenef": "scene flag: 0x6 80"
+                            }
                         },
                         {
                             "unk1": "FF FF F1 C7",
@@ -3989,7 +4002,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 18",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 1,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF 4B 02 00",
@@ -4180,7 +4200,11 @@
                             "angle": 16384,
                             "talk_behaviour": 0,
                             "unk3": "FC 02",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF F0 0F 47",

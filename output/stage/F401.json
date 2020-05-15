@@ -167,6 +167,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 141,
+                        "nameidx": 1,
+                        "name": "Sealed Grounds",
                         "scenef": "temp flag: 0x0 20"
                     }
                 },

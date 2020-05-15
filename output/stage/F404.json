@@ -131,6 +131,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 170,
+                        "nameidx": 66,
+                        "name": "Temple of Hylia",
                         "scenef": "temp flag: 0x4 04"
                     }
                 }

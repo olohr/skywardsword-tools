@@ -142,6 +142,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 150,
+                        "nameidx": 57,
+                        "name": "Inside the\\nThunderhead",
                         "scenef": "temp flag: 0x3 40"
                     }
                 }
@@ -3896,7 +3898,14 @@
                             "angle": 7463,
                             "talk_behaviour": 65535,
                             "unk3": "FC A2",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 0,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF F3 FF FF",

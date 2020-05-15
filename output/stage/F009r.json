@@ -63,6 +63,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 255,
+                        "nameidx": 38,
+                        "name": "Sparring Hall",
                         "scenef": "no flag"
                     }
                 }

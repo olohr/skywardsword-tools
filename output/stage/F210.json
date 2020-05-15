@@ -2665,7 +2665,14 @@
                             "angle": 0,
                             "talk_behaviour": 1233,
                             "unk3": "FC 85",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 209,
+                                "untrigscenefid": 4,
+                                "entranceid": 3,
+                                "trigscenef": "loadzone temp flag: 0xB 02",
+                                "untrigscenef": "scene flag: 0x1 10"
+                            }
                         },
                         {
                             "unk1": "FF FE FF D3",

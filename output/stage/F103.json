@@ -112,6 +112,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 255,
+                        "nameidx": 2,
+                        "name": "Faron Woods",
                         "scenef": "no flag"
                     }
                 },
@@ -7259,7 +7261,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FD 6E",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 6,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         }
                     ]
                 },
@@ -9166,7 +9175,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FD EE",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 7,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 8F",

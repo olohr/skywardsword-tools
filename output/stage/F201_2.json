@@ -92,6 +92,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 255,
+                        "nameidx": 6,
+                        "name": "Volcano \\nSummit",
                         "scenef": "no flag"
                     }
                 },
@@ -1655,7 +1657,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 4E",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 62,
+                                "setscenefid": 63,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x6 40",
+                                "setscenef": "scene flag: 0x6 80"
+                            }
                         }
                     ],
                     "SNDT": [

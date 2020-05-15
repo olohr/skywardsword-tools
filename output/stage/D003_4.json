@@ -77,6 +77,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 178,
+                        "nameidx": 17,
+                        "name": "Sky Keep",
                         "scenef": "temp flag: 0x7 04"
                     }
                 },
@@ -810,7 +812,11 @@
                             "angle": 16384,
                             "talk_behaviour": 0,
                             "unk3": "FC 0F",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF F2",
@@ -901,7 +907,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 16",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FC 65",
@@ -1174,7 +1184,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 2C",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FD 8B 8B FF",
@@ -1187,7 +1201,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 2D",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 35",
@@ -1785,7 +1803,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 54",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 81,
+                                "setscenefid": 52,
+                                "count": 5,
+                                "trigscenef": "scene flag: 0xB 02",
+                                "setscenef": "scene flag: 0x7 10"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",

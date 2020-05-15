@@ -129,6 +129,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 179,
+                        "nameidx": 33,
+                        "name": "Skyview Spring",
                         "scenef": "temp flag: 0x7 08"
                     }
                 },

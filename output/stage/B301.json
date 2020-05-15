@@ -439,7 +439,14 @@
                             "angle": 0,
                             "talk_behaviour": 65362,
                             "unk3": "FC 04",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 82,
+                                "untrigscenefid": 255,
+                                "entranceid": 1,
+                                "trigscenef": "scene flag: 0xB 04",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C2",
@@ -535,7 +542,14 @@
                             "angle": 0,
                             "talk_behaviour": 65492,
                             "unk3": "FC 0B",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 212,
+                                "untrigscenefid": 255,
+                                "entranceid": 1,
+                                "trigscenef": "loadzone temp flag: 0xB 10",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF 4F FF 02",
@@ -551,7 +565,14 @@
                             "angle": 0,
                             "talk_behaviour": 54485,
                             "unk3": "FC 0C",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 213,
+                                "untrigscenefid": 212,
+                                "entranceid": 2,
+                                "trigscenef": "loadzone temp flag: 0xB 20",
+                                "untrigscenef": "loadzone temp flag: 0xB 10"
+                            }
                         }
                     ]
                 },

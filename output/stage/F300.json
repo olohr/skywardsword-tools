@@ -313,6 +313,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 134,
+                        "nameidx": 8,
+                        "name": "Lanayru Desert",
                         "scenef": "temp flag: 0x1 40"
                     }
                 },
@@ -4522,7 +4524,11 @@
                             "angle": 21845,
                             "talk_behaviour": 0,
                             "unk3": "FC BA",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FC 3D",
@@ -7087,7 +7093,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FD 0B",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 100,
+                                "setscenefid": 103,
+                                "count": 3,
+                                "trigscenef": "scene flag: 0xD 10",
+                                "setscenef": "scene flag: 0xD 80"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 83",
@@ -7393,7 +7406,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FD 65",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 70,
+                                "setscenefid": 28,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x9 40",
+                                "setscenef": "scene flag: 0x2 10"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 43",
@@ -7473,7 +7493,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FD 6A",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 100,
+                                "setscenefid": 106,
+                                "count": 3,
+                                "trigscenef": "scene flag: 0xD 10",
+                                "setscenef": "scene flag: 0xC 04"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -7789,7 +7816,14 @@
                             "angle": 5461,
                             "talk_behaviour": 65535,
                             "unk3": "FD 7A",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 12,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF CF FF 0D",
@@ -7805,7 +7839,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FD 7B",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 13,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C2",
@@ -8221,7 +8262,14 @@
                             "angle": 5461,
                             "talk_behaviour": 65535,
                             "unk3": "FD 95",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 14,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF CF FF 0C",
@@ -8237,7 +8285,14 @@
                             "angle": 5461,
                             "talk_behaviour": 65535,
                             "unk3": "FD 96",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 12,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF CF FF 0D",
@@ -8253,7 +8308,14 @@
                             "angle": 54614,
                             "talk_behaviour": 65535,
                             "unk3": "FD 97",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 13,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF 1E 1F 06",

@@ -114,6 +114,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 170,
+                        "nameidx": 12,
+                        "name": "Earth Temple",
                         "scenef": "temp flag: 0x4 04"
                     }
                 }
@@ -141,6 +143,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 170,
+                        "nameidx": 12,
+                        "name": "Earth Temple",
                         "scenef": "temp flag: 0x4 04"
                     }
                 }
@@ -1913,7 +1917,14 @@
                             "angle": 0,
                             "talk_behaviour": 9408,
                             "unk3": "FC 35",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 192,
+                                "untrigscenefid": 36,
+                                "entranceid": 2,
+                                "trigscenef": "loadzone temp flag: 0x9 01",
+                                "untrigscenef": "scene flag: 0x5 10"
+                            }
                         },
                         {
                             "unk1": "FF FF 2F 01",
@@ -1975,7 +1986,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 38",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 36,
+                                "setscenefid": 192,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x5 10",
+                                "setscenef": "loadzone temp flag: 0x9 01"
+                            }
                         },
                         {
                             "unk1": "01 C0 FF 04",
@@ -2007,7 +2025,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 3A",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 36,
+                                "setscenefid": 194,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x5 10",
+                                "setscenef": "loadzone temp flag: 0x9 04"
+                            }
                         },
                         {
                             "unk1": "02 C0 FF 05",
@@ -2117,7 +2142,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 30",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 2,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 02",

@@ -81,6 +81,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 255,
+                        "nameidx": 47,
+                        "name": "Waterfall",
                         "scenef": "no flag"
                     }
                 },

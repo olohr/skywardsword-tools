@@ -2465,7 +2465,15 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 51",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "roomid": 5,
+                                "entranceid": 1,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "02 FF FF 01",
@@ -4504,7 +4512,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 1B",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 0,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         }
                     ]
                 },

@@ -82,6 +82,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 128,
+                        "nameidx": 41,
+                        "name": "Inside the\\nGreat Tree",
                         "scenef": "temp flag: 0x1 01"
                     }
                 },

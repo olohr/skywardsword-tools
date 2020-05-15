@@ -166,6 +166,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 169,
+                        "nameidx": 64,
+                        "name": "Hylia's Realm",
                         "scenef": "temp flag: 0x4 02"
                     }
                 }
@@ -215,6 +217,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 169,
+                        "nameidx": 64,
+                        "name": "Hylia's Realm",
                         "scenef": "temp flag: 0x4 02"
                     }
                 }
@@ -4122,7 +4126,14 @@
                             "angle": 0,
                             "talk_behaviour": 19199,
                             "unk3": "FC 1A",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 74,
+                                "entranceid": 9,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x8 04"
+                            }
                         },
                         {
                             "unk1": "01 FF FF 06",

@@ -71,6 +71,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 178,
+                        "nameidx": 17,
+                        "name": "Sky Keep",
                         "scenef": "temp flag: 0x7 04"
                     }
                 },
@@ -681,7 +683,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 14",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 21,
+                                "setscenefid": 22,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x3 20",
+                                "setscenef": "scene flag: 0x3 40"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",

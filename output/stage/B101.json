@@ -93,6 +93,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 178,
+                        "nameidx": 14,
+                        "name": "Ancient Cistern",
                         "scenef": "temp flag: 0x7 04"
                     }
                 }
@@ -121,6 +123,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 178,
+                        "nameidx": 14,
+                        "name": "Ancient Cistern",
                         "scenef": "temp flag: 0x7 04"
                     }
                 }

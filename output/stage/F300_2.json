@@ -1564,7 +1564,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 39",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 100,
+                                "setscenefid": 106,
+                                "count": 3,
+                                "trigscenef": "scene flag: 0xD 10",
+                                "setscenef": "scene flag: 0xC 04"
+                            }
                         },
                         {
                             "unk1": "FF CF FF 01",
@@ -1580,7 +1587,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 3A",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 1,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF CF FF 01",
@@ -1596,7 +1610,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 3B",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 1,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF CF FF 02",
@@ -1612,7 +1633,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 3C",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 2,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         }
                     ]
                 },

@@ -172,6 +172,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 255,
+                        "nameidx": 36,
+                        "name": "Knight Academy",
                         "scenef": "no flag"
                     }
                 }
@@ -3103,7 +3105,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 87",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 1,
+                                "setscenefid": 51,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x1 02",
+                                "setscenef": "scene flag: 0x7 08"
+                            }
                         }
                     ]
                 },

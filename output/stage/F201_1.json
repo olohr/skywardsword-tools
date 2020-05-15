@@ -129,6 +129,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 131,
+                        "nameidx": 6,
+                        "name": "Volcano \\nSummit",
                         "scenef": "temp flag: 0x1 08"
                     }
                 },

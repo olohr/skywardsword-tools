@@ -216,6 +216,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 135,
+                        "nameidx": 0,
+                        "name": "Skyloft",
                         "scenef": "temp flag: 0x1 80"
                     }
                 }
@@ -9083,7 +9085,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FD 0A",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 200,
+                                "setscenefid": 15,
+                                "count": 2,
+                                "trigscenef": "loadzone temp flag: 0x8 01",
+                                "setscenef": "scene flag: 0x0 80"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 03",
@@ -10301,7 +10310,14 @@
                             "angle": 0,
                             "talk_behaviour": 65417,
                             "unk3": "FD 77",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 137,
+                                "untrigscenefid": 255,
+                                "entranceid": 93,
+                                "trigscenef": "temp flag: 0x0 02",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF DF FF 5E",
@@ -10317,7 +10333,14 @@
                             "angle": 0,
                             "talk_behaviour": 65418,
                             "unk3": "FD 78",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 138,
+                                "untrigscenefid": 255,
+                                "entranceid": 94,
+                                "trigscenef": "temp flag: 0x0 04",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C6",
@@ -14619,7 +14642,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FD E8",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 47,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C1",
@@ -16341,7 +16371,14 @@
                             "angle": 63898,
                             "talk_behaviour": 65485,
                             "unk3": "FE 14",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 205,
+                                "untrigscenefid": 255,
+                                "entranceid": 49,
+                                "trigscenef": "loadzone temp flag: 0x8 20",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 91",

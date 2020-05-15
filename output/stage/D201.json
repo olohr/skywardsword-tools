@@ -381,6 +381,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 128,
+                        "nameidx": 16,
+                        "name": "Fire Sanctuary",
                         "scenef": "temp flag: 0x1 01"
                     }
                 },
@@ -4995,7 +4997,14 @@
                             "angle": 0,
                             "talk_behaviour": 65346,
                             "unk3": "FC 63",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 66,
+                                "untrigscenefid": 255,
+                                "entranceid": 3,
+                                "trigscenef": "scene flag: 0x9 04",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF FF",
@@ -6363,7 +6372,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 42",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 41,
+                                "setscenefid": 46,
+                                "count": 5,
+                                "trigscenef": "scene flag: 0x4 02",
+                                "setscenef": "scene flag: 0x4 40"
+                            }
                         },
                         {
                             "unk1": "40 3F F2 F0",
@@ -7850,7 +7866,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 28",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 91,
+                                "setscenefid": 90,
+                                "count": 2,
+                                "trigscenef": "scene flag: 0xA 08",
+                                "setscenef": "scene flag: 0xA 04"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 00",

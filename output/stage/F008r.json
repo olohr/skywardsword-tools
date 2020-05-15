@@ -97,6 +97,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 255,
+                        "nameidx": 46,
+                        "name": "Inside the Statue\\nof the Goddess",
                         "scenef": "no flag"
                     }
                 }

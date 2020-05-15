@@ -92,6 +92,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 191,
+                        "nameidx": 16,
+                        "name": "Fire Sanctuary",
                         "scenef": "temp flag: 0x6 80"
                     }
                 }

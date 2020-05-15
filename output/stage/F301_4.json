@@ -86,6 +86,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 146,
+                        "nameidx": 44,
+                        "name": "Shipyard",
                         "scenef": "temp flag: 0x3 04"
                     }
                 },

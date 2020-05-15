@@ -105,6 +105,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 178,
+                        "nameidx": 17,
+                        "name": "Sky Keep",
                         "scenef": "temp flag: 0x7 04"
                     }
                 }
@@ -662,7 +664,11 @@
                             "angle": 32768,
                             "talk_behaviour": 0,
                             "unk3": "FC 05",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF 29",
@@ -1000,7 +1006,11 @@
                             "angle": 49152,
                             "talk_behaviour": 0,
                             "unk3": "FC 1F",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF 0C F6 5F",
@@ -1045,7 +1055,11 @@
                             "angle": 49152,
                             "talk_behaviour": 0,
                             "unk3": "FC 23",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF F1",
@@ -1527,7 +1541,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 41",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 61,
+                                "setscenefid": 44,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x6 20",
+                                "setscenef": "scene flag: 0x4 10"
+                            }
                         },
                         {
                             "unk1": "06 05 FF 1F",
@@ -1957,7 +1978,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 5D",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 41,
+                                "setscenefid": 56,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x4 02",
+                                "setscenef": "scene flag: 0x6 01"
+                            }
                         },
                         {
                             "unk1": "F0 4B 0E 00",
@@ -1973,7 +2001,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 5E",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 44,
+                                "setscenefid": 56,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0x4 10",
+                                "setscenef": "scene flag: 0x6 01"
+                            }
                         }
                     ]
                 },

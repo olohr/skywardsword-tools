@@ -463,6 +463,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 133,
+                        "nameidx": 9,
+                        "name": "Lanayru Gorge",
                         "scenef": "temp flag: 0x1 20"
                     }
                 },
@@ -480,7 +482,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 13",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 3,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 80 00",
@@ -496,7 +506,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 14",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 8,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 42 02",
@@ -512,7 +530,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 15",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 4,
+                        "entranceid": 2,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 41 00",
@@ -528,7 +554,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 16",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 4,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 52 00",
@@ -544,7 +578,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 17",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 5,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 70 00",
@@ -560,7 +602,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 18",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 7,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 90 00",
@@ -576,7 +626,15 @@
                     "angle": 0,
                     "talk_behaviour": 2573,
                     "unk3": "FC 19",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 13,
+                        "untrigscenefid": 10,
+                        "roomid": 9,
+                        "entranceid": 0,
+                        "trigscenef": "scene flag: 0x0 20",
+                        "untrigscenef": "scene flag: 0x0 04"
+                    }
                 },
                 {
                     "unk1": "FF 44 20 00",
@@ -592,7 +650,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 1A",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 2,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 42 01",
@@ -608,7 +674,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 1B",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 4,
+                        "entranceid": 1,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 60 00",
@@ -624,7 +698,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 1C",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 6,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 40 00",
@@ -640,7 +722,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 1D",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 4,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 50 00",
@@ -656,7 +746,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 1E",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 5,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 51 00",
@@ -672,7 +770,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 1F",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 5,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 31 00",
@@ -688,7 +794,15 @@
                     "angle": 0,
                     "talk_behaviour": 65535,
                     "unk3": "FC 20",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 3,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 80 00",
@@ -704,7 +818,15 @@
                     "angle": 60439,
                     "talk_behaviour": 65535,
                     "unk3": "FC 21",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 8,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF 44 80 00",
@@ -720,7 +842,15 @@
                     "angle": 6007,
                     "talk_behaviour": 65535,
                     "unk3": "FC 22",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 8,
+                        "entranceid": 0,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF FF FF 00",
@@ -776,7 +906,15 @@
                     "angle": 4733,
                     "talk_behaviour": 65535,
                     "unk3": "FC 25",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 0,
+                        "entranceid": 6,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 },
                 {
                     "unk1": "FF CC 01 07",
@@ -792,7 +930,15 @@
                     "angle": 4733,
                     "talk_behaviour": 65535,
                     "unk3": "FC 26",
-                    "name": "PlRsTag"
+                    "name": "PlRsTag",
+                    "extra_info": {
+                        "trigscenefid": 255,
+                        "untrigscenefid": 255,
+                        "roomid": 0,
+                        "entranceid": 7,
+                        "trigscenef": "no flag",
+                        "untrigscenef": "no flag"
+                    }
                 }
             ]
         },
@@ -9669,7 +9815,11 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 03",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 255,
+                                "scenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FE FD",
@@ -10082,7 +10232,11 @@
                             "angle": 49152,
                             "talk_behaviour": 0,
                             "unk3": "FC 01",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 0,
+                                "scenef": "scene flag: 0x1 01"
+                            }
                         }
                     ],
                     "SOBJ": [
@@ -10753,7 +10907,11 @@
                             "angle": 16384,
                             "talk_behaviour": 0,
                             "unk3": "FC 01",
-                            "name": "SwWall"
+                            "name": "SwWall",
+                            "extra_info": {
+                                "scenefid": 0,
+                                "scenef": "scene flag: 0x1 01"
+                            }
                         }
                     ],
                     "STAG": [

@@ -166,6 +166,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 178,
+                        "nameidx": 10,
+                        "name": "Lanayru Sand Sea",
                         "scenef": "temp flag: 0x7 04"
                     }
                 },

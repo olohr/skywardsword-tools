@@ -48,6 +48,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 178,
+                        "nameidx": 15,
+                        "name": "Sandship",
                         "scenef": "temp flag: 0x7 04"
                     }
                 },
@@ -1175,7 +1177,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 2D",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 2,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "8F 07 26 FF",
@@ -1249,7 +1258,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 31",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 4,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FC 14 D4 CA",

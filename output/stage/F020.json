@@ -109,6 +109,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 149,
+                        "nameidx": 22,
+                        "name": "The Sky",
                         "scenef": "temp flag: 0x3 20"
                     }
                 }
@@ -5299,7 +5301,14 @@
                             "angle": 0,
                             "talk_behaviour": 65437,
                             "unk3": "FC CA",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 157,
+                                "untrigscenefid": 255,
+                                "entranceid": 29,
+                                "trigscenef": "temp flag: 0x2 20",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF 05 FF 07",

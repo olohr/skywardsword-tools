@@ -156,6 +156,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 180,
+                        "nameidx": 41,
+                        "name": "Inside the\\nGreat Tree",
                         "scenef": "temp flag: 0x7 10"
                     }
                 }
@@ -2437,7 +2439,14 @@
                             "angle": 0,
                             "talk_behaviour": 15615,
                             "unk3": "FC 6F",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 60,
+                                "entranceid": 5,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "scene flag: 0x6 10"
+                            }
                         },
                         {
                             "unk1": "FF FF E3 C0",

@@ -57,6 +57,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 190,
+                        "nameidx": 13,
+                        "name": "Lanayru Mining\\nFacility",
                         "scenef": "temp flag: 0x6 40"
                     }
                 },
@@ -484,7 +486,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 07",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 2,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF CF FF 03",
@@ -500,7 +509,14 @@
                             "angle": 0,
                             "talk_behaviour": 65535,
                             "unk3": "FC 08",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 255,
+                                "untrigscenefid": 255,
+                                "entranceid": 3,
+                                "trigscenef": "no flag",
+                                "untrigscenef": "no flag"
+                            }
                         },
                         {
                             "unk1": "FF FF FF C2",

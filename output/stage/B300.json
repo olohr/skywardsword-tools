@@ -389,7 +389,14 @@
                             "angle": 0,
                             "talk_behaviour": 0,
                             "unk3": "FC 08",
-                            "name": "SwTag"
+                            "name": "SwTag",
+                            "extra_info": {
+                                "trigscenefid": 125,
+                                "setscenefid": 124,
+                                "count": 1,
+                                "trigscenef": "scene flag: 0xE 20",
+                                "setscenef": "scene flag: 0xE 10"
+                            }
                         },
                         {
                             "unk1": "FF 00 FF 00",

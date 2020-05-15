@@ -181,6 +181,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 168,
+                        "nameidx": 65,
+                        "name": "Sealed Temple",
                         "scenef": "temp flag: 0x4 01"
                     }
                 },
@@ -2896,7 +2898,14 @@
                             "angle": 0,
                             "talk_behaviour": 9510,
                             "unk3": "FC 33",
-                            "name": "PlRsTag"
+                            "name": "PlRsTag",
+                            "extra_info": {
+                                "trigscenefid": 38,
+                                "untrigscenefid": 37,
+                                "entranceid": 15,
+                                "trigscenef": "scene flag: 0x5 40",
+                                "untrigscenef": "scene flag: 0x5 20"
+                            }
                         },
                         {
                             "unk1": "FF F0 FF FF",

@@ -87,6 +87,8 @@
                     "name": "TlpTag",
                     "extra_info": {
                         "scenefid": 255,
+                        "nameidx": 37,
+                        "name": "Bazaar",
                         "scenef": "no flag"
                     }
                 }
