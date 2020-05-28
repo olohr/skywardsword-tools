@@ -1,9 +1,0 @@
-Your hearts have decreased quite\ndramatically. Replenish some of\nyour life at the earliest opportunity.______
-You have elected to engage\n<r<Hero Mode>>, so hearts and heart\nflowers will not appear. I recommend\nutilizing potions.
-The integrity of your shield has \nweakened. Be wary of the remaining\ndurability of this item.
-___________Master, the batteries in your\nWii Remote are nearly depleted.
-___________Master, ____\nthe batteries in your\nWii Remote _____will be depleted\nany moment.
-Your hearts have decreased quite\ndramatically. Replenish some of\nyour life at the earliest opportunity.\n\nTo ensure that you are able to find\nmore <y<hearts>> when you need them,\nthey are now available as a target\nfor your <g<dowsing >>ability.______
-Hold (C) and choose <y<hearts >>from\nthe circle of objects to set them as\nyour current target. _____ This capability\nshould prove to be quite useful.
-You have elected to engage\n<r<Hero Mode>>, so hearts and heart\nflowers will not appear.\n\nHowever, if you choose to carry the\n<y<____d>>, then ______hearts\nand heart flowers do <r<have a chance\nof appearing>>.
-______Master, your wallet is full. You will not\nbe able to collect any more Rupees than\nyou currently carry.

@@ -7,4 +7,5 @@
 *.sln
 *.sw?
 
+output
 __pycache__
