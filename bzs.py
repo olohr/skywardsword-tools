@@ -127,6 +127,9 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name'] in ['Tubo','Soil','Wind']:
         # flag is between byte 3 and 4
         extraInfo['scenefid'] = ((read_halfword(parsed_item['unk1'][2:4]) & 0x0FF0) >> 4)
+    elif parsed_item['name'] in ['Kibako', 'PushBlk']:
+        # flag is between byte 2 and 3
+        extraInfo['scenefid'] = ((read_halfword(parsed_item['unk1'][1:3]) & 0x0FF0) >> 4)
     elif parsed_item['name'] in ['Item']:
         # flag is between byte 2 and 3 with bit shift
         extraInfo['scenefid'] = ((read_halfword(parsed_item['unk1'][1:3]) & 0x03FC) >> 2)
@@ -206,11 +209,15 @@ def objAddExtraInfo(parsed_item):
         if extraInfo['roomid'] == 63:
             del extraInfo['roomid']
     elif parsed_item['name'] == 'SwTag':
-        # first 4 bits always F, then 6 bits counts, 8 bits start sceneflag (it watches range that+count)
+        # tag to set sceneflag based on multiple other sceneflags
+        # first 4 bits always F, then 6 bits counts (counting n flags up from the following sceneflag), 8 bits start sceneflag (it watches range that+count)
         # then 8 bits set sceneflag, then 6 unknown bits
         extraInfo['trigscenefid'] = (read_word(parsed_item['unk1'])>>14)&0xFF
         extraInfo['setscenefid'] = (read_word(parsed_item['unk1'])>>6)&0xFF
         extraInfo['count'] = (read_word(parsed_item['unk1'])>>22)&0x3F
+    elif parsed_item['name'] in ['EBc', 'EMr', 'EKs', 'EBce']:
+        # set when the enemy dies
+        extraInfo['setscenefid'] = parsed_item['talk_behaviour']&0xFF
 
     # elif parsed_item['name'] == 'MapMark':
     #     extraInfo['map_pop_id'] = (parsed_item['talk_behaviour'] & 0xFF00) >> 8
@@ -232,8 +239,6 @@ def objAddExtraInfo(parsed_item):
         parsed_item['extra_info'] = extraInfo
 
 def parseObj(objtype, quantity, data):
-    global stage_scens
-    global flagindex
     if objtype == 'V001':
         #root
         parsed = collections.OrderedDict()
@@ -305,7 +310,7 @@ def parseObj(objtype, quantity, data):
                 parsed_item = unpack('posx posy posz sizex sizey sizez angle area_link unk3 dummy','>3f3fHhb3s',item)
                 parsed_item['index']=i
             elif objtype == 'EVNT':
-                parsed_item = unpack('unk1 story_flag1 story_flag2 unk2 exit_id unk3 name','>2shh3sb14s32s',item)
+                parsed_item = unpack('unk1 story_flag1 story_flag2 unk2 exit_id unk3 skipevent unk4 skipflag dummy1 item dummy2 name','>2shh3sb3sb3sBhhh32s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
             elif objtype == 'PLY ':
                 #room entrance
