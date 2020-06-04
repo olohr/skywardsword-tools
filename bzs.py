@@ -85,26 +85,28 @@ def parseBzs(data):
 
 def objAddExtraInfo(parsed_item):
     extraInfo = collections.OrderedDict()
+    params1 = read_word(parsed_item['unk1'])
+    params2 = read_word(parsed_item['unk2'])
     # sceneflags
     if parsed_item['name'] in ['TlpTag']:
         # flag is first byte
-        extraInfo['scenefid'] = parsed_item['unk1'][0]
-        extraInfo['nameidx'] = parsed_item['unk1'][2]
+        extraInfo['scenefid'] = params1 >> 24
+        extraInfo['nameidx'] = (params1 >> 8) & 0xFF
         extraInfo['name'] = map_text['MAP_%02d'%extraInfo['nameidx']]
     if parsed_item['name'] in ['Log','trolley']:
         # flag is second byte
-        extraInfo['scenefid'] = parsed_item['unk1'][1]
+        extraInfo['scenefid'] = (params1 >> 16) & 0xFF
     elif parsed_item['name'] in ['FrmLand']:
         # flag is third byte
-        extraInfo['scenefid'] = parsed_item['unk1'][2]
-    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB','SwWall']:
+        extraInfo['scenefid'] = (params1 >> 8) & 0xFF
+    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB','SwWall','WdBoard']:# WdBoard: board near staldra in skyview
         # flag is fourth byte
-        extraInfo['scenefid'] = parsed_item['unk1'][3]
+        extraInfo['scenefid'] = params1 & 0xFF
         if parsed_item['name']=='TgReact':
             # uses a different item table
-            extraInfo['tgreactitemid'] = parsed_item['unk2'][0]
+            extraInfo['tgreactitemid'] = params2 >> 24
             subtypes = ['bonk','slingshot','gust bellow blow','underwater something']
-            extraInfo['subtype'] = subtypes[parsed_item['unk1'][0] >> 4]
+            extraInfo['subtype'] = subtypes[params1 >> 28]
         if parsed_item['name']=='saveObj':
             # that one skyloft statue
             if parsed_item['talk_behaviour'] == 65534:
@@ -113,32 +115,38 @@ def objAddExtraInfo(parsed_item):
             elif parsed_item['event_flag'] != 255:
                 extraInfo['scenefid'] = 255
                 extraInfo['setstoryfid'] = (parsed_item['event_flag']<<8)+parsed_item['transition_type']
-            extraInfo['tosky_scen_link'] = parsed_item['unk1'][1]
-            extraInfo['name_id'] = parsed_item['unk2'][3]
+            extraInfo['tosky_scen_link'] = (params1 >> 16) & 0xFF
+            extraInfo['name_id'] = params2 & 0xFF
             subtypes = ['normal','overworld','dungeon']
-            extraInfo['subtype'] = subtypes[parsed_item['unk1'][2]]
+            extraInfo['subtype'] = subtypes[(params1>>8)&0xFF]
             if extraInfo['name_id'] == 0xFF:
                 extraInfo['name'] = map_text['SAVEOBJ_NAME_UNKNOWN']
             else:
                 extraInfo['name'] = map_text['SAVEOBJ_NAME_%02d' % extraInfo['name_id']]
     elif parsed_item['name'] in ['Barrel']:
         # flag is between byte 1 and 2
-        extraInfo['scenefid'] = ((read_halfword(parsed_item['unk1'][0:2]) & 0x0FF0) >> 4)
+        extraInfo['scenefid'] = (params1 >> 20) & 0xFF
     elif parsed_item['name'] in ['Tubo','Soil','Wind']:
         # flag is between byte 3 and 4
-        extraInfo['scenefid'] = ((read_halfword(parsed_item['unk1'][2:4]) & 0x0FF0) >> 4)
+        extraInfo['scenefid'] = (params1 >> 4) & 0xFF
     elif parsed_item['name'] in ['Kibako', 'PushBlk']:
         # flag is between byte 2 and 3
-        extraInfo['scenefid'] = ((read_halfword(parsed_item['unk1'][1:3]) & 0x0FF0) >> 4)
+        extraInfo['scenefid'] = (params1 >> 12) & 0xFF
     elif parsed_item['name'] in ['Item']:
         # flag is between byte 2 and 3 with bit shift
-        extraInfo['scenefid'] = ((read_halfword(parsed_item['unk1'][1:3]) & 0x03FC) >> 2)
-        extraInfo['itemid'] = parsed_item['unk1'][3]
-    elif parsed_item['name'] == 'BulbSW':
-        extraInfo['scenefid'] = (read_word(parsed_item['unk1'])>>2)&0xFF
+        extraInfo['scenefid'] = (params1 >> 10) & 0xFF
+        extraInfo['itemid'] = params1 & 0xFF
+    elif parsed_item['name'] == 'BulbSW': # switches you can whip in ancient cistern
+        extraInfo['scenefid'] = (params1 >> 2) & 0xFF
+    elif parsed_item['name'] == 'Swhit': # crystal switches hittable with any damage
+        extraInfo['scenefid'] = (params1 >> 3) & 0xFF
+    elif parsed_item['name'] == 'FenceIr': # Iron gate, openable with sceneflag
+        extraInfo['scenefid'] = params1 & 0xFF
+    elif parsed_item['name'] == 'DoorBs': # boss door
+        extraInfo['scenefid'] = (params1 >> 6) & 0xFF
     elif parsed_item['name'].startswith('Npc'):
-        triggerstoryf=((read_halfword(parsed_item['unk1'][1:3]) & 0x1FFC) >> 2)
-        untriggerstoryf=((read_halfword(parsed_item['unk1'][0:2]) & 0xFFE0) >> 5)
+        triggerstoryf=(params1 >> 10) & 0x7FF
+        untriggerstoryf=(params1 >> 21) & 0x7FF
         extraInfo['trigstoryfid']=triggerstoryf
         extraInfo['untrigstoryfid']=untriggerstoryf
         # there might be more Npc actors with this sceneflag behaviour but needs testing
@@ -148,26 +156,26 @@ def objAddExtraInfo(parsed_item):
             extraInfo['untrigscenefid']=parsed_item['event_flag']
     elif parsed_item['name']=='Door':
         extraInfo['scenefid']=parsed_item['event_flag']
-        extraInfo['scen_link'] = parsed_item['unk1'][2]
+        extraInfo['scen_link'] = (params1 >> 8) & 0xFF
     elif parsed_item['name']=='TBox':
-        spawnscenef=((read_halfword(parsed_item['unk1'][0:2]) & 0x0FF0) >> 4)
+        spawnscenef=((params1 & 0x0FF00000) >> 20)
         extraInfo['spawnscenefid']=spawnscenef
         extraInfo['setscenefid']=parsed_item['transition_type']
         extraInfo['itemid']=parsed_item['talk_behaviour']&0x1FF
         extraInfo['chestid']=(parsed_item['talk_behaviour']&0xFE00)>>9
     elif parsed_item['name']=='DNight':
-        extraInfo['sleep_storyfid']=(read_halfword(parsed_item['unk1'][2:4]) & 0x07FF)
+        extraInfo['sleep_storyfid']=params1 & 0x07FF
     elif parsed_item['name']=='WarpObj':
-        extraInfo['scen_link']=parsed_item['unk1'][1]
-        extraInfo['trigscenefid']=parsed_item['unk1'][2]
-        extraInfo['untrigscenefid']=parsed_item['unk1'][3]
+        extraInfo['scen_link']=(params1 >> 16) & 0xFF
+        extraInfo['trigscenefid']=(params1 >> 8) & 0xFF
+        extraInfo['untrigscenefid']=params1 & 0xFF
     elif parsed_item['name']=='Kanban':
-        extraInfo['talk_behaviour']=(read_word(parsed_item['unk1'])&0x0FFFF0)>>4
+        extraInfo['talk_behaviour']=(params1 >> 4) & 0xFFFF
     elif parsed_item['name']=='KanbanS':
-        extraInfo['talk_behaviour']=read_halfword(parsed_item['unk1'][2:4])
+        extraInfo['talk_behaviour']=params1 & 0xFFFF
     elif parsed_item['name']=='ScChang':
-        extraInfo['scen_link']=parsed_item['unk1'][3]
-        extraInfo['trigscenefid']=parsed_item['unk1'][0]
+        extraInfo['scen_link']=params1 & 0xFF
+        extraInfo['trigscenefid']=(params1 >> 24) & 0xFF
         triggerstoryf=((parsed_item['event_flag']<<8) | parsed_item['transition_type'])&0x7FF
         untriggerstoryf=parsed_item['talk_behaviour']&0x7FF
         extraInfo['trigstoryfid']=triggerstoryf
@@ -175,36 +183,32 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name'] == 'SwAreaT':
         extraInfo['setstoryfid']=((parsed_item['event_flag']&0x7)<<8)+parsed_item['transition_type']
         extraInfo['unsetstoryfid']=parsed_item['talk_behaviour']&0x7FF
-        extraInfo['setscenefid'] = parsed_item['unk1'][3]
-        extraInfo['unsetscenefid'] = parsed_item['unk1'][2]
+        extraInfo['setscenefid'] = params1 & 0xFF
+        extraInfo['unsetscenefid'] = (params1 >> 8) & 0xFF
     elif parsed_item['name'] == 'DieTag':
-        unk1 = read_word(parsed_item['unk1'])
-        extraInfo['setscenefid'] = (unk1 & 0x00000FF0) >> 4
+        extraInfo['setscenefid'] = (params1 & 0x00000FF0) >> 4
     elif parsed_item['name'] == 'EvntTag':
-        extraInfo['trigscenefid'] = parsed_item['unk1'][1]
-        extraInfo['setscenefid'] = parsed_item['unk1'][2]
-        extraInfo['event'] = parsed_item['unk1'][3]
+        extraInfo['trigscenefid'] = (params1 >> 16) & 0xFF
+        extraInfo['setscenefid'] = (params1 >> 8) & 0xFF
+        extraInfo['event'] = params1 & 0xFF
     elif parsed_item['name'] == 'EvfTag':
-        firstword = read_word(parsed_item['unk1'])
-        extraInfo['trigstoryfid'] = (firstword >> 19) & 0x3FF
-        extraInfo['setstoryfid'] = (firstword >> 8) & 0x3FF
-        extraInfo['event'] = parsed_item['unk1'][3]
+        extraInfo['trigstoryfid'] = (params1 >> 19) & 0x3FF
+        extraInfo['setstoryfid'] = (params1 >> 8) & 0x3FF
+        extraInfo['event'] = params1 & 0xFF
     elif parsed_item['name'] == 'TDoorB': # closed gate of time
-        firstword = read_word(parsed_item['unk1'])
-        extraInfo['trigstoryfid'] = firstword & 0x7FF
-        extraInfo['untrigstoryfid'] = (firstword>>11) & 0x7FF
-        extraInfo['setscenefid'] = (firstword>>22) & 0xFF
+        extraInfo['trigstoryfid'] = params1 & 0x7FF
+        extraInfo['untrigstoryfid'] = (params1>>11) & 0x7FF
+        extraInfo['setscenefid'] = (params1>>22) & 0xFF
     elif parsed_item['name'] == 'TDoor': # opened gate of time
-        firstword = read_word(parsed_item['unk1'])
-        extraInfo['trigstoryfid'] = firstword & 0x7FF
+        extraInfo['trigstoryfid'] = params1 & 0x7FF
     elif parsed_item['name'] == 'PlRsTag':
         # byte 1 always FF
         # byte 2 left 6 bytes {'010001', '110101', '110111', '010011', '110001', '010101', '110011', '111011'}
         # unk2 always FF DF FF FF
         extraInfo['trigscenefid'] = parsed_item['talk_behaviour']&0xFF
         extraInfo['untrigscenefid'] = (parsed_item['talk_behaviour']>>8)&0xFF
-        extraInfo['roomid'] = (read_word(parsed_item['unk1'])>>12)&0x3F
-        extraInfo['entranceid'] = parsed_item['unk1'][3]
+        extraInfo['roomid'] = (params1>>12)&0x3F
+        extraInfo['entranceid'] = params1 & 0xFF
         # all bits set mean stay in the same room
         if extraInfo['roomid'] == 63:
             del extraInfo['roomid']
@@ -212,14 +216,15 @@ def objAddExtraInfo(parsed_item):
         # tag to set sceneflag based on multiple other sceneflags
         # first 4 bits always F, then 6 bits counts (counting n flags up from the following sceneflag), 8 bits start sceneflag (it watches range that+count)
         # then 8 bits set sceneflag, then 6 unknown bits
-        extraInfo['trigscenefid'] = (read_word(parsed_item['unk1'])>>14)&0xFF
-        extraInfo['setscenefid'] = (read_word(parsed_item['unk1'])>>6)&0xFF
-        extraInfo['count'] = (read_word(parsed_item['unk1'])>>22)&0x3F
+        extraInfo['trigscenefid'] = (params1>>14)&0xFF
+        extraInfo['setscenefid'] = (params1>>6)&0xFF
+        extraInfo['count'] = (params1>>22)&0x3F
     elif parsed_item['name'] in ['EBc', 'EMr', 'EKs', 'EBce']:
         # set when the enemy dies
         extraInfo['setscenefid'] = parsed_item['talk_behaviour']&0xFF
 
-    # elif parsed_item['name'] == 'MapMark':
+    elif parsed_item['name'] == 'MapMark':
+        extraInfo['trigstoryfid'] = (params1 >> 12) & 0x7FF
     #     extraInfo['map_pop_id'] = (parsed_item['talk_behaviour'] & 0xFF00) >> 8
     #     key = 'MAP_POP_%02d'%extraInfo['map_pop_id']
     #     extraInfo['map_pop'] = map_text.get(key, 'not found')
@@ -310,7 +315,7 @@ def parseObj(objtype, quantity, data):
                 parsed_item = unpack('posx posy posz sizex sizey sizez angle area_link unk3 dummy','>3f3fHhb3s',item)
                 parsed_item['index']=i
             elif objtype == 'EVNT':
-                parsed_item = unpack('unk1 story_flag1 story_flag2 unk2 exit_id unk3 skipevent unk4 skipflag dummy1 item dummy2 name','>2shh3sb3sb3sBhhh32s',item)
+                parsed_item = unpack('unk1 story_flag1 story_flag2 unk2 exit_id unk3 skipevent unk4 sceneflag1 sceneflag2 skipflag dummy1 item dummy2 name','>2shh3sb3sb1sBBBhhh32s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
             elif objtype == 'PLY ':
                 #room entrance
@@ -318,10 +323,12 @@ def parseObj(objtype, quantity, data):
                 if parsed_item['play_cutscene'] != -1:
                     print('%d: entrance %d -- cutscene %d'%(i,parsed_item['entrance_id'],parsed_item['play_cutscene']))
             elif objtype in ('OBJS','OBJ ','DOOR'):
+                # objects without size
                 parsed_item = unpack('unk1 unk2 posx posy posz                   event_flag transition_type angle talk_behaviour unk3 name','>4s4s3fBBHH2s8s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
                 objAddExtraInfo(parsed_item)
             elif objtype in ('SOBS','SOBJ','STAS','STAG','SNDT'):
+                # object with size information
                 parsed_item = unpack('unk1 unk2 posx posy posz sizex sizey sizez event_flag transition_type angle talk_behaviour unk3 name','>4s4s3f3fBBHH2s8s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
                 objAddExtraInfo(parsed_item)
