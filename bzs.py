@@ -88,18 +88,19 @@ def objAddExtraInfo(parsed_item):
     params1 = read_word(parsed_item['unk1'])
     params2 = read_word(parsed_item['unk2'])
     # sceneflags
-    if parsed_item['name'] in ['TlpTag']:
+    if parsed_item['name'] in ['TlpTag', 'EMagupp']: # EMagupp: spume
         # flag is first byte
         extraInfo['scenefid'] = params1 >> 24
-        extraInfo['nameidx'] = (params1 >> 8) & 0xFF
-        extraInfo['name'] = map_text['MAP_%02d'%extraInfo['nameidx']]
+        if parsed_item['name'] == 'TlpTag':
+            extraInfo['nameidx'] = (params1 >> 8) & 0xFF
+            extraInfo['name'] = map_text['MAP_%02d'%extraInfo['nameidx']]
     if parsed_item['name'] in ['Log','trolley']:
         # flag is second byte
         extraInfo['scenefid'] = (params1 >> 16) & 0xFF
-    elif parsed_item['name'] in ['FrmLand']:
+    elif parsed_item['name'] in ['FrmLand','SwWall']: # SwWall: wall switch
         # flag is third byte
         extraInfo['scenefid'] = (params1 >> 8) & 0xFF
-    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB','SwWall','WdBoard']:# WdBoard: board near staldra in skyview
+    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB','WdBoard','SStatue','FShutte','Lotus','WaterSW','FireObs']:# WdBoard: board near staldra in skyview, SStatue are statues you can bomb down in lanayru, FShutte: iron bars, Lotus: lillypad in AC, WaterSW: thirsty frog, FireObs: fire wall
         # flag is fourth byte
         extraInfo['scenefid'] = params1 & 0xFF
         if parsed_item['name']=='TgReact':
@@ -123,13 +124,13 @@ def objAddExtraInfo(parsed_item):
                 extraInfo['name'] = map_text['SAVEOBJ_NAME_UNKNOWN']
             else:
                 extraInfo['name'] = map_text['SAVEOBJ_NAME_%02d' % extraInfo['name_id']]
-    elif parsed_item['name'] in ['Barrel']:
+    elif parsed_item['name'] in ['Barrel','TimeStn','EAm']: # TimeStn: time shift stone, EAm: Armos
         # flag is between byte 1 and 2
         extraInfo['scenefid'] = (params1 >> 20) & 0xFF
-    elif parsed_item['name'] in ['Tubo','Soil','Wind']:
+    elif parsed_item['name'] in ['Tubo','Soil','Wind','ColStp','EEye','Est','Wind03']: # ColStp: Logs before skyloft cave and elsewhere, EEye: Eyes in Skyview, Est: Spider, Wind03: water spot in AC
         # flag is between byte 3 and 4
         extraInfo['scenefid'] = (params1 >> 4) & 0xFF
-    elif parsed_item['name'] in ['Kibako', 'PushBlk']:
+    elif parsed_item['name'] in ['Kibako', 'PushBlk','vmSand']: # vmSand is sand dust to blow away
         # flag is between byte 2 and 3
         extraInfo['scenefid'] = (params1 >> 12) & 0xFF
     elif parsed_item['name'] in ['Item']:
@@ -169,6 +170,8 @@ def objAddExtraInfo(parsed_item):
         extraInfo['scen_link']=(params1 >> 16) & 0xFF
         extraInfo['trigscenefid']=(params1 >> 8) & 0xFF
         extraInfo['untrigscenefid']=params1 & 0xFF
+    elif parsed_item['name']=='IvyRope': # IvyRope: Ropes, used for the ones you need to balance and the ones you can swing on
+        extraInfo['scenefid']=parsed_item['talk_behaviour'] & 0xFF
     elif parsed_item['name']=='Kanban':
         extraInfo['talk_behaviour']=(params1 >> 4) & 0xFFFF
     elif parsed_item['name']=='KanbanS':
@@ -201,6 +204,9 @@ def objAddExtraInfo(parsed_item):
         extraInfo['setscenefid'] = (params1>>22) & 0xFF
     elif parsed_item['name'] == 'TDoor': # opened gate of time
         extraInfo['trigstoryfid'] = params1 & 0x7FF
+    elif parsed_item['name'] == 'TstShtr': # TstShtr: Dungeon door
+        extraInfo['side1scenefid'] = parsed_item['transition_type']
+        extraInfo['side2scenefid'] = parsed_item['event_flag']
     elif parsed_item['name'] == 'PlRsTag':
         # byte 1 always FF
         # byte 2 left 6 bytes {'010001', '110101', '110111', '010011', '110001', '010101', '110011', '111011'}
@@ -219,10 +225,11 @@ def objAddExtraInfo(parsed_item):
         extraInfo['trigscenefid'] = (params1>>14)&0xFF
         extraInfo['setscenefid'] = (params1>>6)&0xFF
         extraInfo['count'] = (params1>>22)&0x3F
-    elif parsed_item['name'] in ['EBc', 'EMr', 'EKs', 'EBce']:
+    elif parsed_item['name'] in ['EBc', 'EMr', 'EBce','EBeamos']:
         # set when the enemy dies
         extraInfo['setscenefid'] = parsed_item['talk_behaviour']&0xFF
-
+    elif parsed_item['name'] == 'EHydra':
+        extraInfo['setscenefid'] = (params1>>22)&0xFF
     elif parsed_item['name'] == 'MapMark':
         extraInfo['trigstoryfid'] = (params1 >> 12) & 0x7FF
     #     extraInfo['map_pop_id'] = (parsed_item['talk_behaviour'] & 0xFF00) >> 8
