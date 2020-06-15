@@ -213,6 +213,8 @@ if __name__ == "__main__":
                 lines.append((itemId,indent,"loadzone_temp_flags[%d /* %s */] = true;"%(item['param1'],idx_to_scene_flag(64+item['param1']))))
             elif item['type']=='type3' and item['subType']==1 and item['param3']==5:
                 lines.append((itemId,indent,"loadzone_temp_flags[%d /* %s */] = false;"%(item['param1'],idx_to_scene_flag(64+item['param1']))))
+            elif item['type']=='type3' and item['subType']==1 and item['param3']==7:
+                lines.append((itemId,indent,"entrypoint_%03d_%02d();"%(item['param1'],item['param2'])))
             elif item['type']=='type3' and item['subType']==1 and item['param3']==10:
                 scen = None
                 if '460' in fname:
