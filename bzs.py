@@ -79,7 +79,7 @@ with open('allsceneflags.json') as f:
     sceneflagnames = json.load(f)
 
 def parseBzs(data):
-    name,count,ff,offset = struct.unpack('>4shhi',data[:12])
+    name,count,_ff,offset = struct.unpack('>4shhi',data[:12])
     name = name.decode('ascii')
     return parseObj(name, count, data[offset:])
 
@@ -127,7 +127,7 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name'] in ['Barrel','TimeStn','EAm']: # TimeStn: time shift stone, EAm: Armos
         # flag is between byte 1 and 2
         extraInfo['scenefid'] = (params1 >> 20) & 0xFF
-    elif parsed_item['name'] in ['Tubo','Soil','Wind','ColStp','EEye','Est','Wind03']: # ColStp: Logs before skyloft cave and elsewhere, EEye: Eyes in Skyview, Est: Spider, Wind03: water spot in AC
+    elif parsed_item['name'] in ['Tubo','Soil','Wind','ColStp','EEye','Est','Wind03','SldDoor']: # ColStp: Logs before skyloft cave and elsewhere, EEye: Eyes in Skyview, Est: Spider, Wind03: water spot in AC, SldDoor: Door after bosses
         # flag is between byte 3 and 4
         extraInfo['scenefid'] = (params1 >> 4) & 0xFF
     elif parsed_item['name'] in ['Kibako', 'PushBlk','vmSand']: # vmSand is sand dust to blow away
@@ -225,6 +225,9 @@ def objAddExtraInfo(parsed_item):
         extraInfo['trigscenefid'] = (params1>>14)&0xFF
         extraInfo['setscenefid'] = (params1>>6)&0xFF
         extraInfo['count'] = (params1>>22)&0x3F
+    elif parsed_item['name'] == 'TgTimer':
+        extraInfo['trigscenefid'] = (params1>>16)&0xFF
+        extraInfo['setscenefid'] = (params1>>24)&0xFF
     elif parsed_item['name'] in ['EBc', 'EMr', 'EBce','EBeamos']:
         # set when the enemy dies
         extraInfo['setscenefid'] = parsed_item['talk_behaviour']&0xFF
