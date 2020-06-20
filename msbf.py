@@ -194,6 +194,9 @@ if __name__ == "__main__":
                     assert item['param4']==4
                     assert item['param2']==0
                     lines.append((itemId,indent,'switch (random(%d)) {'%item['param4']))
+                elif item['subType']==0 and item['param3']==14:
+                    assert item['param4']==2
+                    lines.append((itemId,indent,'switch (gratitude_crystals(%d)) {'%item['param2']))
                 elif item['subType']==0 and item['param3']==16:
                     lines.append((itemId,indent,'switch (minigame_related[%d]) {'%(item['param2'])))
                 elif item['subType']==6 and item['param3']==19:
