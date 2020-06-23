@@ -91,10 +91,19 @@ def parseMSB(fname):
                     ptr += 5+strlen
                 parsed[seg_id].append(entrypoint_group)
         elif seg_id == 'ATR1':
-            parsed['ATR1'] = 'todo'
+            parsed['ATR1'] = []
+            count, two = struct.unpack('>ii',seg_data[:8])
+            assert two == 2
+            for i in range(count):
+                value = struct.unpack('>bb',seg_data[8+2*i:8+2*(i+1)])
+                atr = collections.OrderedDict()
+                atr['unk1'] = value[0] # 0 to 33 (inclusive), probably textbox type
+                atr['unk2'] = value[1] # 0 to 3 (inclusive)
+                parsed['ATR1'].append(atr)
         elif seg_id == 'TXT2':
             parsed['TXT2'] = []
             count = struct.unpack('>i',seg_data[:4])[0]
+            assert count == len(parsed["ATR1"])
             indices = [struct.unpack('>i',seg_data[4+4*i : 8+4*i])[0] for i in range(count)]
             for i in range(count): # for every item of text
                 bytestring = seg_data[indices[i] : (indices[i+1] if i + 1 < count else seg_len) - 2]
@@ -152,7 +161,7 @@ if __name__ == "__main__":
         parsed = parseMSB(fname)
         parsedMsbt = parseMSB(fname.replace('.msbf','.msbt'))
         
-        def printItem(allItems,lines,itemId,indent,already_printed,needed_labels,strings):
+        def printItem(allItems,lines,itemId,indent,already_printed,needed_labels,strings,attrs):
             if itemId is -1:
                 return
             if itemId in already_printed:
@@ -165,7 +174,7 @@ if __name__ == "__main__":
                 lines.append((itemId,indent,'start()'))
             elif item['type']=='switch':
                 # if item['subType']==0 and item['param3']==14:
-                #     print(item['param2'])
+                #     print(item)
                 if item['subType']==6 and item['param2'] == 0 and (item['param3'] == 1 or item['param3']==0): #TODO is there a difference in those choices? 
                     lines.append((itemId,indent,'switch (choice(%d, %d)) {'%(item['param4'], item['param3'])))
                 elif item['subType']==6 and item['param3'] == 3:
@@ -206,11 +215,11 @@ if __name__ == "__main__":
                     lines.append((itemId,indent,'switch ('+str(item)+') {'))
                 for i in range(item['param4']):
                     lines.append((None,indent,'  case %d:'%i))
-                    printItem(allItems,lines,allItems['branch_points'][item['param5']+i],indent+1,already_printed,needed_labels,strings)
+                    printItem(allItems,lines,allItems['branch_points'][item['param5']+i],indent+1,already_printed,needed_labels,strings,attrs)
                 lines.append((None,indent,'}'))
             elif item['type']=='type1':
                 msbt_file, msbt_line = item['param3'],item['param4']
-                lines.append((itemId,indent,'printf("%s")'%strings[msbt_line]))
+                lines.append((itemId,indent,'printf(/* textboxtype: %d, unk: %d */"%s")'%(attrs[msbt_line]['unk1'],attrs[msbt_line]['unk2'], strings[msbt_line])))
             elif item['type']=='type3' and item['subType']==0 and item['param3']==8:
                 lines.append((itemId,indent,"rupees += %d;"%(item['param2'])))
             elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==0:
@@ -245,7 +254,7 @@ if __name__ == "__main__":
             else:
                 lines.append((itemId,indent,str(item)))
             if 'next' in item:
-                printItem(allItems,lines,item['next'],indent,already_printed,needed_labels,strings)
+                printItem(allItems,lines,item['next'],indent,already_printed,needed_labels,strings,attrs)
                 
         def printEvflFile(file,parsed,parsedMsbt):
             lines = []
@@ -254,7 +263,7 @@ if __name__ == "__main__":
             for entrypoint_group in parsed['FEN1']:
                 for entrypoint in entrypoint_group:
                     lines.append((None,0,'void entrypoint_'+entrypoint['name']+'() {'))
-                    printItem(parsed['FLW3'],lines,entrypoint['value'],1,already_printed,needed_labels,parsedMsbt['TXT2'])
+                    printItem(parsed['FLW3'],lines,entrypoint['value'],1,already_printed,needed_labels,parsedMsbt['TXT2'], parsedMsbt['ATR1'])
                     lines.append((None,0,'}\n'))
             for lineId,indent,lineStr in lines:
                 if lineId in needed_labels:
