@@ -85,8 +85,8 @@ def parseBzs(data):
 
 def objAddExtraInfo(parsed_item):
     extraInfo = collections.OrderedDict()
-    params1 = read_word(parsed_item['unk1'])
-    params2 = read_word(parsed_item['unk2'])
+    params1 = read_word(parsed_item['params1'])
+    params2 = read_word(parsed_item['params2'])
     # sceneflags
     if parsed_item['name'] in ['TlpTag', 'EMagupp']: # EMagupp: spume
         # flag is first byte
@@ -110,12 +110,12 @@ def objAddExtraInfo(parsed_item):
             extraInfo['subtype'] = subtypes[params1 >> 28]
         if parsed_item['name']=='saveObj':
             # that one skyloft statue
-            if parsed_item['talk_behaviour'] == 65534:
-                extraInfo['scenefid']=255
+            if parsed_item['anglez'] == 0xFFFE:
+                extraInfo['scenefid']=0xFF
             # statues with story flag instead of scene flag
-            elif parsed_item['event_flag'] != 255:
-                extraInfo['scenefid'] = 255
-                extraInfo['setstoryfid'] = (parsed_item['event_flag']<<8)+parsed_item['transition_type']
+            elif (parsed_item['anglex']>>8) != 0xFF:
+                extraInfo['scenefid'] = 0xFF
+                extraInfo['setstoryfid'] = parsed_item['anglex']&0x7FF
             extraInfo['tosky_scen_link'] = (params1 >> 16) & 0xFF
             extraInfo['name_id'] = params2 & 0xFF
             subtypes = ['normal','overworld','dungeon']
@@ -152,18 +152,18 @@ def objAddExtraInfo(parsed_item):
         extraInfo['untrigstoryfid']=untriggerstoryf
         # there might be more Npc actors with this sceneflag behaviour but needs testing
         if parsed_item['name']=='NpcTke':
-            extraInfo['triggerarea']=parsed_item['angle'] & 0xFF
-            extraInfo['trigscenefid']=parsed_item['transition_type']
-            extraInfo['untrigscenefid']=parsed_item['event_flag']
+            extraInfo['triggerarea']=parsed_item['angley'] & 0xFF
+            extraInfo['trigscenefid']=(parsed_item['anglex']&0xFF)
+            extraInfo['untrigscenefid']=(parsed_item['anglex']>>8)
     elif parsed_item['name']=='Door':
-        extraInfo['scenefid']=parsed_item['event_flag']
+        extraInfo['scenefid']=(parsed_item['anglex']>>8)
         extraInfo['scen_link'] = (params1 >> 8) & 0xFF
     elif parsed_item['name']=='TBox':
         spawnscenef=((params1 & 0x0FF00000) >> 20)
         extraInfo['spawnscenefid']=spawnscenef
-        extraInfo['setscenefid']=parsed_item['transition_type']
-        extraInfo['itemid']=parsed_item['talk_behaviour']&0x1FF
-        extraInfo['chestid']=(parsed_item['talk_behaviour']&0xFE00)>>9
+        extraInfo['setscenefid']=(parsed_item['anglex']&0xFF)
+        extraInfo['itemid']=parsed_item['anglez']&0x1FF
+        extraInfo['chestid']=(parsed_item['anglez']&0xFE00)>>9
     elif parsed_item['name']=='DNight':
         extraInfo['sleep_storyfid']=params1 & 0x07FF
     elif parsed_item['name']=='WarpObj':
@@ -171,7 +171,7 @@ def objAddExtraInfo(parsed_item):
         extraInfo['trigscenefid']=(params1 >> 8) & 0xFF
         extraInfo['untrigscenefid']=params1 & 0xFF
     elif parsed_item['name']=='IvyRope': # IvyRope: Ropes, used for the ones you need to balance and the ones you can swing on
-        extraInfo['scenefid']=parsed_item['talk_behaviour'] & 0xFF
+        extraInfo['scenefid']=parsed_item['anglez'] & 0xFF
     elif parsed_item['name']=='Kanban':
         extraInfo['talk_behaviour']=(params1 >> 4) & 0xFFFF
     elif parsed_item['name']=='KanbanS':
@@ -179,13 +179,13 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name']=='ScChang':
         extraInfo['scen_link']=params1 & 0xFF
         extraInfo['trigscenefid']=(params1 >> 24) & 0xFF
-        triggerstoryf=((parsed_item['event_flag']<<8) | parsed_item['transition_type'])&0x7FF
-        untriggerstoryf=parsed_item['talk_behaviour']&0x7FF
+        triggerstoryf=(((parsed_item['anglex']>>8)<<8) | (parsed_item['anglex']&0xFF))&0x7FF
+        untriggerstoryf=parsed_item['anglez']&0x7FF
         extraInfo['trigstoryfid']=triggerstoryf
         extraInfo['untrigstoryfid']=untriggerstoryf
     elif parsed_item['name'] == 'SwAreaT':
-        extraInfo['setstoryfid']=((parsed_item['event_flag']&0x7)<<8)+parsed_item['transition_type']
-        extraInfo['unsetstoryfid']=parsed_item['talk_behaviour']&0x7FF
+        extraInfo['setstoryfid']=parsed_item['anglex']&0x7FF
+        extraInfo['unsetstoryfid']=parsed_item['anglez']&0x7FF
         extraInfo['setscenefid'] = params1 & 0xFF
         extraInfo['unsetscenefid'] = (params1 >> 8) & 0xFF
     elif parsed_item['name'] == 'DieTag':
@@ -205,14 +205,14 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name'] == 'TDoor': # opened gate of time
         extraInfo['trigstoryfid'] = params1 & 0x7FF
     elif parsed_item['name'] == 'TstShtr': # TstShtr: Dungeon door
-        extraInfo['side1scenefid'] = parsed_item['transition_type']
-        extraInfo['side2scenefid'] = parsed_item['event_flag']
+        extraInfo['side1scenefid'] = (parsed_item['anglex']&0xFF)
+        extraInfo['side2scenefid'] = (parsed_item['anglex']>>8)
     elif parsed_item['name'] == 'PlRsTag':
         # byte 1 always FF
         # byte 2 left 6 bytes {'010001', '110101', '110111', '010011', '110001', '010101', '110011', '111011'}
         # unk2 always FF DF FF FF
-        extraInfo['trigscenefid'] = parsed_item['talk_behaviour']&0xFF
-        extraInfo['untrigscenefid'] = (parsed_item['talk_behaviour']>>8)&0xFF
+        extraInfo['trigscenefid'] = parsed_item['anglez']&0xFF
+        extraInfo['untrigscenefid'] = (parsed_item['anglez']>>8)&0xFF
         extraInfo['roomid'] = (params1>>12)&0x3F
         extraInfo['entranceid'] = params1 & 0xFF
         # all bits set mean stay in the same room
@@ -230,12 +230,12 @@ def objAddExtraInfo(parsed_item):
         extraInfo['setscenefid'] = (params1>>24)&0xFF
     elif parsed_item['name'] in ['EBc', 'EMr', 'EBce','EBeamos']:
         # set when the enemy dies
-        extraInfo['setscenefid'] = parsed_item['talk_behaviour']&0xFF
+        extraInfo['setscenefid'] = parsed_item['anglez']&0xFF
     elif parsed_item['name'] == 'EHydra':
         extraInfo['setscenefid'] = (params1>>22)&0xFF
     elif parsed_item['name'] == 'MapMark':
         extraInfo['trigstoryfid'] = (params1 >> 12) & 0x7FF
-    #     extraInfo['map_pop_id'] = (parsed_item['talk_behaviour'] & 0xFF00) >> 8
+    #     extraInfo['map_pop_id'] = (parsed_item['anglez'] & 0xFF00) >> 8
     #     key = 'MAP_POP_%02d'%extraInfo['map_pop_id']
     #     extraInfo['map_pop'] = map_text.get(key, 'not found')
     if 'flagid' in extraInfo:
@@ -334,12 +334,12 @@ def parseObj(objtype, quantity, data):
                     print('%d: entrance %d -- cutscene %d'%(i,parsed_item['entrance_id'],parsed_item['play_cutscene']))
             elif objtype in ('OBJS','OBJ ','DOOR'):
                 # objects without size
-                parsed_item = unpack('unk1 unk2 posx posy posz                   event_flag transition_type angle talk_behaviour unk3 name','>4s4s3fBBHH2s8s',item)
+                parsed_item = unpack('params1 params2 posx posy posz                   anglex angley anglez id name','>4s4s3fHHH2s8s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
                 objAddExtraInfo(parsed_item)
             elif objtype in ('SOBS','SOBJ','STAS','STAG','SNDT'):
                 # object with size information
-                parsed_item = unpack('unk1 unk2 posx posy posz sizex sizey sizez event_flag transition_type angle talk_behaviour unk3 name','>4s4s3f3fBBHH2s8s',item)
+                parsed_item = unpack('params1 params2 posx posy posz sizex sizey sizez anglex angley anglez id name','>4s4s3f3fHHH2s8s',item)
                 parsed_item['name'] = toStr(parsed_item['name'])
                 objAddExtraInfo(parsed_item)
             
