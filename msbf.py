@@ -1,3 +1,4 @@
+from pathlib import Path
 import glob
 import pprint
 import struct
@@ -6,6 +7,7 @@ import os
 import re
 from util import *
 from storyflag import idx_to_story_flag
+import sceneChanges
 
 cumulative_flags_set = [b'\x00'*0x10]*len(flagindex_names)
 
@@ -54,8 +56,8 @@ def parseMSB(fname):
                     assert item['param2'] >= 0
                     assert item.pop('next') == -1
                     assert item['param3'] >= 0
-                    assert item['param4'] in (2,3,4)
-                    assert item['param5'] >= 0
+                    assert item['param4'] in (2,3,4)    # number of options
+                    assert item['param5'] >= 0          # index into branch_points of first item
                 elif item['type'] == 'type3':
                     assert item['subType'] in (0,1,2,4,6)
                     assert item.pop('param4') == 0
@@ -69,11 +71,11 @@ def parseMSB(fname):
                     assert item.pop('param5') == 0
                 else:
                     raise Exception('wat')
-
                 parsed['FLW3']['flow'][item_id] = item
             for i in range(count2): # for every branch point
                 item = struct.unpack('>h',seg_data[0x10+0x10*count1+2*i:0x12+0x10*count1+2*i])[0]
                 parsed['FLW3']['branch_points'].append(item)
+
         elif seg_id == 'FEN1' or seg_id == 'LBL1':
             parsed[seg_id] = []
             count = struct.unpack('>i',seg_data[:4])[0]
@@ -90,6 +92,7 @@ def parseMSB(fname):
                     entrypoint_group.append(entrypoint)
                     ptr += 5+strlen
                 parsed[seg_id].append(entrypoint_group)
+
         elif seg_id == 'ATR1':
             parsed['ATR1'] = []
             count, two = struct.unpack('>ii',seg_data[:8])
@@ -100,6 +103,7 @@ def parseMSB(fname):
                 atr['unk1'] = value[0] # 0 to 33 (inclusive), probably textbox type
                 atr['unk2'] = value[1] # 0 to 3 (inclusive)
                 parsed['ATR1'].append(atr)
+
         elif seg_id == 'TXT2':
             parsed['TXT2'] = []
             count = struct.unpack('>i',seg_data[:4])[0]
@@ -141,14 +145,129 @@ def parseMSB(fname):
             raise Exception('unimplemented '+seg_id)
     return parsed
 
+# pretty-prints a node from the flow graph
+# generates cumulative_flags_set as a side-effect 
+def interpretFlow(item, strings, attrs):
+    if item['type']=='type1': # type-1 (text)
+        msbt_file, msbt_line = item['param3'], item['param4']
+        return 'printf(/* textboxtype: %d, unk: %d */"%s")' % (attrs[msbt_line]['unk1'], attrs[msbt_line]['unk2'], strings[msbt_line])
+
+    elif item['type']=='start': # type-4
+        return 'start()'
+
+    elif item['type']=='switch': # type-2
+        if item['subType']==6:
+            if item['param2']==0 and (item['param3'] == 1 or item['param3']==0): #TODO is there a difference in those choices? 
+                return 'switch (choice(%d, %d)) {' % (item['param4'], item['param3'])
+            elif item['param3']==3:
+                return 'switch (story_flags[%d /* %s */]) {' % (item['param2'], idx_to_story_flag(item['param2']))
+            elif item['param3']==5:
+                assert item['param4']==2
+                return 'switch (loadzone_temp_flags[%d /* %s */]) {' % (item['param2'], idx_to_scene_flag(64+item['param2']))
+            elif item['param3']==6:
+                assert item['param4']==2
+                return 'switch (scene_flags[%d /* %s */]) {' % (item['param2'], idx_to_scene_flag(item['param2']))
+            elif item['param3']==9:
+                assert item['param4']==2
+                return 'switch (temp_flags[%d /* %s */]) {' % (item['param2'], idx_to_scene_flag(item['param2']))
+            elif item['param3']==10:
+                assert item['param4']==2
+                return 'switch (has_rupees(%d)) {' % item['param2']
+            elif item['param3']==11:
+                assert item['param4']==2
+                assert item['param2']==0
+                return 'switch (random(%d)) {' % item['param4']
+            elif item['param3']==12:
+                assert item['param4']==3
+                assert item['param2']==0
+                return 'switch (random(%d)) {' % item['param4']
+            elif item['param3']==13:
+                assert item['param4']==4
+                assert item['param2']==0
+                return 'switch (random(%d)) {' % item['param4']
+            elif item['param3']==19:
+                assert item['param4']==2
+                return 'switch (adventure_pouch_has(%d 0x%04X)) {' % (item['param2'], item['param2'])
+            else:
+                assert item['param3'] in (2,7,17,18,21,22)
+                return 'switch (%s) {' % str(item)
+
+        elif item['subType']==0:
+            if item['param3']==14:
+                assert item['param4']==2
+                return 'switch (gratitude_crystals(%d)) {' % item['param2']
+            elif item['param3']==16:
+                return 'switch (minigame_related[%d]) {' % item['param2']
+            else:
+                assert item['param3'] in (15,20)
+                return 'switch (%s) {' % str(item)
+
+        else:
+            raise Exception
+
+    elif item['type']=='type3': # type-3
+        if item['subType']==0:
+            if item['param3']==0 and item['param1']==0:
+                return "story_flags[%d /* %s */] = true;" % (item['param2'], idx_to_story_flag(item['param2']))
+            elif item['param3']==1 and item['param1']==0:
+                return "story_flags[%d /* %s */] = false;" % (item['param2'], idx_to_story_flag(item['param2']))
+            elif item['param3']==8:
+                return "rupees += %d;" % item['param2']
+            elif item['param3']==9 and item['param1']==0:
+                return "give_item(%d 0x%02X);" % (item['param2'], item['param2'])
+            else:
+                assert item['param3'] in (6,24,26,31,32,34,36,37,43,44,45,49,52,53,55,58,59)
+                return str(item)
+
+        elif item['subType']==1:
+            if item['param3']==2:
+                cumulative_flags_set[item['param2']] = setBit(cumulative_flags_set[item['param2']],item['param1'])
+                return "scene_flags[%d '%s'][%d /* %s */] = true;" % (item['param2'],flagindex_names[item['param2']],item['param1'],idx_to_scene_flag(item['param1']))
+            elif item['param3']==3:
+                return "scene_flags[%d '%s'][%d /* %s */] = false;" % (item['param2'],flagindex_names[item['param2']],item['param1'],idx_to_scene_flag(item['param1']))
+            elif item['param3']==4:
+                return "loadzone_temp_flags[%d /* %s */] = true;" % (item['param1'],idx_to_scene_flag(64+item['param1']))
+            elif item['param3']==5:
+                return "loadzone_temp_flags[%d /* %s */] = false;" % (item['param1'],idx_to_scene_flag(64+item['param1']))
+            elif item['param3']==7:
+                return "entrypoint_%03d_%02d();" % (item['param1'], item['param2'])
+            elif item['param3']==10:
+                scen = None
+                if '460' in fname:
+                    scen = sceneChanges.sc460
+                elif '008' in fname:
+                    scen = sceneChanges.sc008
+                return "changeScene(%d, %d) // %s" % (item['param1'], item['param2'], scen[item['param1']] if scen is not None else '')
+            elif item['param3']==28:
+                return "temp_flags[%d /* %s */] = true;" % (item['param1'], idx_to_scene_flag(item['param1']))
+            elif item['param3']==29:    # assuming it matches 28 (unconfirmed)
+                return "temp_flags[%d /* %s */] = false;" % (item['param1'], idx_to_scene_flag(item['param1']))
+            else:
+                assert item['param3'] in (16,17,23,25,33,35,39,40,42,47,48,50,51,54)
+                return str(item)
+        
+        elif item['subType']==2:
+            assert item['param3'] in (14, 15)
+            return str(item)
+        elif item['subType']==4:
+            assert item['param3'] in (13, 22, 30)
+            return str(item)
+        elif item['subType']==6:
+            assert item['param3'] in (12, 38, 46, 56, 57)
+            return str(item)
+        else:
+            raise Exception
 
 if __name__ == "__main__":
+    Path("output/").mkdir(exist_ok=True)
+
     # global names
     world = parseMSB('en_US/0-Common/0-Common/007-MapText.msbt')
     itr = ((item['name'], world['TXT2'][item['value']]) for items in world['LBL1'] for item in items)
     world = sorted(itr, key=lambda a: a[0])
     with open('output/MapText.json','w') as f:
         f.write(objToJson(collections.OrderedDict(world)))
+
     world = parseMSB('en_US/0-Common/0-Common/word.msbt')
     itr = ((item['name'], world['TXT2'][item['value']]) for items in world['LBL1'] for item in items)
     world = sorted(itr, key=lambda a: a[0])
@@ -156,7 +275,6 @@ if __name__ == "__main__":
         f.write(objToJson(collections.OrderedDict(world)))
 
     # events
-
     for fname in glob.glob('en_US/**/*.msbf', recursive=True):
         parsed = parseMSB(fname)
         parsedMsbt = parseMSB(fname.replace('.msbf','.msbt'))
@@ -170,90 +288,13 @@ if __name__ == "__main__":
                 return
             already_printed.add(itemId)
             item = allItems['flow'][itemId]
-            if item['type']=='start':
-                lines.append((itemId,indent,'start()'))
-            elif item['type']=='switch':
-                # if item['subType']==0 and item['param3']==14:
-                #     print(item)
-                if item['subType']==6 and item['param2'] == 0 and (item['param3'] == 1 or item['param3']==0): #TODO is there a difference in those choices? 
-                    lines.append((itemId,indent,'switch (choice(%d, %d)) {'%(item['param4'], item['param3'])))
-                elif item['subType']==6 and item['param3'] == 3:
-                    lines.append((itemId,indent,'switch (story_flags[%d /* %s */]) {'%(item['param2'],idx_to_story_flag(item['param2']))))
-                elif item['subType']==6 and item['param3']==6:
-                    assert item['param4']==2
-                    lines.append((itemId,indent,'switch (scene_flags[%d /* %s */]) {'%(item['param2'],idx_to_scene_flag(item['param2']))))
-                elif item['subType']==6 and item['param3']==5:
-                    assert item['param4']==2
-                    lines.append((itemId,indent,'switch (loadzone_temp_flags[%d /* %s */]) {'%(item['param2'],idx_to_scene_flag(64+item['param2']))))
-                elif item['subType']==6 and item['param3']==9:
-                    assert item['param4']==2
-                    lines.append((itemId,indent,'switch (temp_flags[%d /* %s */]) {'%(item['param2'],idx_to_scene_flag(item['param2']))))
-                elif item['subType']==6 and item['param3']==10:
-                    assert item['param4']==2
-                    lines.append((itemId,indent,'switch (has_rupees(%d)) {'%(item['param2'])))
-                elif item['subType']==6 and item['param3']==11:
-                    assert item['param4']==2
-                    assert item['param2']==0
-                    lines.append((itemId,indent,'switch (random(%d)) {'%item['param4']))
-                elif item['subType']==6 and item['param3']==12:
-                    assert item['param4']==3
-                    assert item['param2']==0
-                    lines.append((itemId,indent,'switch (random(%d)) {'%item['param4']))
-                elif item['subType']==6 and item['param3']==13:
-                    assert item['param4']==4
-                    assert item['param2']==0
-                    lines.append((itemId,indent,'switch (random(%d)) {'%item['param4']))
-                elif item['subType']==0 and item['param3']==14:
-                    assert item['param4']==2
-                    lines.append((itemId,indent,'switch (gratitude_crystals(%d)) {'%item['param2']))
-                elif item['subType']==0 and item['param3']==16:
-                    lines.append((itemId,indent,'switch (minigame_related[%d]) {'%(item['param2'])))
-                elif item['subType']==6 and item['param3']==19:
-                    assert item['param4']==2
-                    lines.append((itemId,indent,'switch (adventure_pouch_has(%d 0x%04X)) {'%(item['param2'],item['param2'])))
-                else:
-                    lines.append((itemId,indent,'switch ('+str(item)+') {'))
+            lines.append((itemId, indent, interpretFlow(item, strings, attrs)))
+            if item['type'] == 'switch':    # recursively expand switch
                 for i in range(item['param4']):
                     lines.append((None,indent,'  case %d:'%i))
                     printItem(allItems,lines,allItems['branch_points'][item['param5']+i],indent+1,already_printed,needed_labels,strings,attrs)
                 lines.append((None,indent,'}'))
-            elif item['type']=='type1':
-                msbt_file, msbt_line = item['param3'],item['param4']
-                lines.append((itemId,indent,'printf(/* textboxtype: %d, unk: %d */"%s")'%(attrs[msbt_line]['unk1'],attrs[msbt_line]['unk2'], strings[msbt_line])))
-            elif item['type']=='type3' and item['subType']==0 and item['param3']==8:
-                lines.append((itemId,indent,"rupees += %d;"%(item['param2'])))
-            elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==0:
-                lines.append((itemId,indent,"story_flags[%d /* %s */] = true;"%(item['param2'],idx_to_story_flag(item['param2']))))
-            elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==1:
-                lines.append((itemId,indent,"story_flags[%d /* %s */] = false;"%(item['param2'],idx_to_story_flag(item['param2']))))
-            elif item['type']=='type3' and item['subType']==0 and item['param1']==0 and item['param3']==9:
-                lines.append((itemId,indent,"give_item(%d 0x%02X);"%(item['param2'],item['param2'])))
-            elif item['type']=='type3' and item['subType']==1 and item['param3']==2:
-                lines.append((itemId,indent,"scene_flags[%d '%s'][%d /* %s */] = true;"%(item['param2'],flagindex_names[item['param2']],item['param1'],idx_to_scene_flag(item['param1']))))
-                cumulative_flags_set[item['param2']] = setBit(cumulative_flags_set[item['param2']],item['param1'])
-            elif item['type']=='type3' and item['subType']==1 and item['param3']==3:
-                lines.append((itemId,indent,"scene_flags[%d '%s'][%d /* %s */] = false;"%(item['param2'],flagindex_names[item['param2']],item['param1'],idx_to_scene_flag(item['param1']))))
-            elif item['type']=='type3' and item['subType']==1 and item['param3']==4:
-                lines.append((itemId,indent,"loadzone_temp_flags[%d /* %s */] = true;"%(item['param1'],idx_to_scene_flag(64+item['param1']))))
-            elif item['type']=='type3' and item['subType']==1 and item['param3']==5:
-                lines.append((itemId,indent,"loadzone_temp_flags[%d /* %s */] = false;"%(item['param1'],idx_to_scene_flag(64+item['param1']))))
-            elif item['type']=='type3' and item['subType']==1 and item['param3']==7:
-                lines.append((itemId,indent,"entrypoint_%03d_%02d();"%(item['param1'],item['param2'])))
-            elif item['type']=='type3' and item['subType']==1 and item['param3']==10:
-                scen = None
-                if '460' in fname:
-                    scen = [{"name": "F303","room": 0,"layer": 0,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 14,"byte4": 2,"byte5": 2,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B200","room": 10,"layer": 3,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S100","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S200","room": 2,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S300","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S000","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B100","room": 0,"layer": 5,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B300","room": 0,"layer": 2,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 0,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B101","room": 0,"layer": 2,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B301","room": 0,"layer": 2,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B201","room": 0,"layer": 3,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 0,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 0,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F403","room": 1,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F403","room": 1,"layer": 4,"entrance": 7,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "B400","room": 0,"layer": 1,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F302","room": 0,"layer": 13,"entrance": 5,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F302","room": 0,"layer": 0,"entrance": 4,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F302","room": 0,"layer": 2,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0}]
-                if '008' in fname:
-                    scen = [{"name": "F007r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F004r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F004r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F008r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "D000","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "D000","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 1,"entrance": 4,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 14,"entrance": 25,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F006r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 13,"entrance": 13,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 1,"entrance": 14,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 3,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 5,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 3,"entrance": 0,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 3,"entrance": 19,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F004r","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F009r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 10,"entrance": 22,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 3,"entrance": 6,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 0,"layer": 0,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 0,"layer": 0,"entrance": 4,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F021","room": 0,"layer": 13,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F002r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F009r","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 19,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 0,"entrance": 20,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F012r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F005r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F007r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F013r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F014r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F015r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F016r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F017r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F018r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F017r","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 15,"entrance": 40,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 10,"entrance": 41,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 16,"entrance": 42,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 3,"entrance": 43,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F008r","room": 0,"layer": 15,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "S000","room": 0,"layer": 2,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 18,"entrance": 51,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 0,"entrance": 52,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "D003_7","room": 0,"layer": 0,"entrance": 4,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F008r","room": 0,"layer": 0,"entrance": 2,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F401","room": 1,"layer": 15,"entrance": 6,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 28,"entrance": 48,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 21,"entrance": 58,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 1,"layer": 15,"entrance": 4,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 12,"entrance": 59,"byte4": 2,"byte5": 2,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 0,"entrance": 60,"byte4": 2,"byte5": 2,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F020","room": 0,"layer": 6,"entrance": 4,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 6,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 2,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F013r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F001r","room": 1,"layer": 13,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F407","room": 0,"layer": 14,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 28,"entrance": 48,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 22,"entrance": 96,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},{"name": "F000","room": 0,"layer": 0,"entrance": 96,"byte4": 2,"byte5": 1,"flag6": 0,"zero": 0,"flag8": 0}]
-                lines.append((itemId,indent,"changeScene(%d, %d) // %s"%(item['param1'],item['param2'],scen[item['param1']] if scen is not None else '')))
-            elif item['type']=='type3' and item['param3']==28:
-                lines.append((itemId,indent,"temp_flags[%d /* %s */] = true;"%(item['param1'],idx_to_scene_flag(item['param1']))))
-            elif item['type']=='type3' and item['param3']==29:
-                # this would make sense, but I actually didn't confirm this
-                lines.append((itemId,indent,"temp_flags[%d /* %s */] = false;"%(item['param1'],idx_to_scene_flag(item['param1']))))
-            else:
-                lines.append((itemId,indent,str(item)))
-            if 'next' in item:
+            if 'next' in item:              # continue
                 printItem(allItems,lines,item['next'],indent,already_printed,needed_labels,strings,attrs)
                 
         def printEvflFile(file,parsed,parsedMsbt):
@@ -272,21 +313,25 @@ if __name__ == "__main__":
                     file.write(('/*<%3d>*/ '%(lineId) if lineId else ' '*10)+'\t'*indent+lineStr+'\n')
             assert len(already_printed) == len(parsed['FLW3']['flow'])
         
-        f2=open('output/event/'+fname.split(os.sep)[-1].replace('.msbf','.json'),'w', encoding='utf-8')
-        f2.write(objToJson(parsed))
-        f2.close()
-        f2=open('output/event2/'+fname.split(os.sep)[-1].replace('.msbf','.c'),'w', encoding='utf-8')
-        printEvflFile(f2,parsed,parsedMsbt)
-        f2.close()
-        f2=open('output/text/'+fname.split(os.sep)[-1].replace('.msbf','.txt'),'w', encoding='utf-8')
-        for line in parsedMsbt['TXT2']:
-            f2.write(line + '\n')
-        f2.close() 
+        # output/event: raw event data
+        Path("output/event/").mkdir(parents=True, exist_ok=True)
+        with open('output/event/'+fname.split(os.sep)[-1].replace('.msbf','.json'),'w', encoding='utf-8') as f:
+            f.write(objToJson(parsed))
 
-# console output
-#print('-----------------------------------------------')
-#print('50 51 52 53 54 55 56 57 58 59 5A 5B 5C 5D 5E 5F')
-#print('-----------------------------------------------')
-#for i in range(len(flagindex_names)):
-#    print(flagindex_names[i])
-#    printHex(cumulative_flags_set[i])
+        # output/event2: interpreted event data
+        Path("output/event2/").mkdir(parents=True, exist_ok=True)
+        with open('output/event2/'+fname.split(os.sep)[-1].replace('.msbf','.c'),'w', encoding='utf-8') as f:
+            printEvflFile(f,parsed,parsedMsbt)
+
+        # output/text: text only
+        Path("output/text/").mkdir(parents=True, exist_ok=True)
+        with open('output/text/'+fname.split(os.sep)[-1].replace('.msbf','.txt'),'w', encoding='utf-8') as f:
+            for line in parsedMsbt['TXT2']:
+                f.write(line + '\n')
+
+        # output/cumulSceneFlags.txt: a listing of scene flags found to be set by the event system
+        with open('output/cumulSceneFlags.txt','w') as f:
+            f.write('> cumulative scene flags:  0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F\n')
+            f.write('                          -----------------------------------------------\n')
+            for i in range(len(flagindex_names)):
+                f.write('%24s  %s\n' % (flagindex_names[i], sprintHex(cumulative_flags_set[i])))

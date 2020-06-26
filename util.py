@@ -14,8 +14,8 @@ def objToJson(parsed):
 def unpack(fields, formatstr, item):
     return collections.namedtuple('_',fields)._make(struct.unpack(formatstr,item))._asdict()
 
-def printHex(bytestr):
-    print(' '.join('%02X'%x for x in bytestr))
+def sprintHex(bytestr):
+    return ' '.join('%02X'%x for x in bytestr)
 
 def bitOr(bytestr1, bytestr2):
     return bytes([a|b for a,b in list(zip(bytestr1,bytestr2))])
