@@ -194,9 +194,13 @@ def interpretFlow(item, strings, attrs):
             elif item['param3']==19:
                 assert item['param4']==2
                 return 'switch (adventure_pouch_has(%d 0x%04X)) {' % (item['param2'], item['param2'])
-
+            elif item['param3']==18:
+                assert item['param2']==0
+                return 'switch (has_empty_bottle()) {' # is only used to check if you can catch a fairy
             else:
-                assert item['param3'] in (7,18,21,22)
+                # 21 has 2 options, 22 has 4, both only appear related to fi
+                # 7 seems to be contextually for something computed above that statement
+                assert item['param3'] in (7,21,22)
                 return 'switch (%s) {' % str(item)
 
         elif item['subType']==0:
