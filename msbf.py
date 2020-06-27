@@ -13,6 +13,7 @@ TEXTREPLACEMENTS = {
     b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x00': '<r<'.encode('utf-16be'),  # red
     b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x02': '<y+<'.encode('utf-16be'), # yellow-white
     b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x03': '<b<'.encode('utf-16be'),  # blue
+    b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x04': '<g<'.encode('utf-16be'),  # green
     b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x05': '<y<'.encode('utf-16be'),  # yellow
     b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x09': '<r+<'.encode('utf-16be'), # red-white
     b'\x00\x0E\x00\x00\x00\x03\x00\x02\xFF\xFF': '>>'.encode('utf-16be'),   # end formatting
@@ -33,7 +34,10 @@ TEXTREPLACEMENTS = {
     b'\x00\x0E\x00\x02\x00\x04\x00\x02\x01\xCD': '(B)'.encode('utf-16be'),  # B button
     b'\x00\x0E\x00\x02\x00\x04\x00\x02\x06\xCD': '(C)'.encode('utf-16be'),  # C button
     b'\x00\x0E\x00\x02\x00\x04\x00\x02\x07\xCD': '(Z)'.encode('utf-16be'),  # Z button
+    b'\x00\x0e\x00\x02\x00\x04\x00\x02\x04\xCD': '(1)'.encode('utf-16be'),  # 1 Button
+    b'\x00\x0e\x00\x02\x00\x04\x00\x02\x05\xCD': '(2)'.encode('utf-16be'),  # 1 Button
     b'\x00\x0E\x00\x02\x00\x04\x00\x02\x11\xCD': '(v)'.encode('utf-16be'),  # down button
+    b'\x00\x0e\x00\x02\x00\x04\x00\x02\x10\xCD': '(^)'.encode('utf-16be'),  # up Button
 }
 
 cumulative_flags_set = [b'\x00'*0x10]*len(flagindex_names)
@@ -142,6 +146,7 @@ def parseMSB(fname):
                 for characters, meaning in TEXTREPLACEMENTS.items():
                     bytestring = bytestring.replace(characters, meaning)
                 # continue
+                
                 string = bytestring.decode('utf-16be').replace('\n','\\n').replace('"','\\"')
                 string = re.sub(r'[^\x20-\x7e]','_', string)
                 parsed['TXT2'].append(string)
@@ -154,7 +159,7 @@ def parseMSB(fname):
 def interpretFlow(item, strings, attrs):
     if item['type']=='type1': # type-1 (text)
         msbt_file, msbt_line = item['param3'], item['param4']
-        return 'printf(/* textboxtype: %d, unk: %d */"%s")' % (attrs[msbt_line]['unk1'], attrs[msbt_line]['unk2'], strings[msbt_line])
+        return 'printf(/* textboxtype: %d, unk: %d */ "%s")' % (attrs[msbt_line]['unk1'], attrs[msbt_line]['unk2'], strings[msbt_line])
 
     elif item['type']=='start': # type-4
         return 'start()'
@@ -234,6 +239,7 @@ def interpretFlow(item, strings, attrs):
             elif item['param3']==5:
                 return "loadzone_temp_flags[%d /* %s */] = false;" % (item['param1'],idx_to_scene_flag(64+item['param1']))
             elif item['param3']==7:
+                assert item['next'] == -1
                 return "entrypoint_%03d_%02d();" % (item['param1'], item['param2'])
             elif item['param3']==10:
                 scen = None
