@@ -1,4 +1,4 @@
-sc460 = [ # boss battles
+sc460 = [ # boss battles, SCEN from Stage F303 Lanayru Gorge, room 0
     {"name": "F303","room": 0,"layer": 0,"entrance": 3,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},
     {"name": "F020","room": 0,"layer": 0,"entrance":14,"byte4": 2,"byte5": 2,"flag6": 0,"zero": 0,"flag8": 0},
     {"name": "B200","room":10,"layer": 3,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},
@@ -22,7 +22,7 @@ sc460 = [ # boss battles
     {"name": "F302","room": 0,"layer": 2,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0}
 ]
 
-sc008 = [ # sheikah stone
+sc008 = [ # sheikah stonem SCEN from Stage F000 Skyloft, room 0
     {"name": "F007r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},
     {"name": "F004r","room": 0,"layer": 0,"entrance": 0,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},
     {"name": "F004r","room": 0,"layer": 0,"entrance": 1,"byte4": 2,"byte5": 0,"flag6": 0,"zero": 0,"flag8": 0},

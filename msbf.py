@@ -166,8 +166,9 @@ def interpretFlow(item, strings, attrs):
 
     elif item['type']=='switch': # type-2
         if item['subType']==6:
-            if item['param2']==0 and (item['param3'] == 1 or item['param3']==0): #TODO is there a difference in those choices? 
-                return 'switch (choice(%d, %d)) {' % (item['param4'], item['param3'])
+            if item['param2']==0 and (item['param3'] in (0,1,2)):
+                assert item['param3'] == item['param4']-2 # different param3 for different amount of options
+                return 'switch (choice(%d)) {' % (item['param4'])
             elif item['param3']==3:
                 return 'switch (story_flags[%d /* %s */]) {' % (item['param2'], idx_to_story_flag(item['param2']))
             elif item['param3']==5:
@@ -182,34 +183,40 @@ def interpretFlow(item, strings, attrs):
             elif item['param3']==10:
                 assert item['param4']==2
                 return 'switch (has_rupees(%d)) {' % item['param2']
-            elif item['param3']==11:
+            elif item['param3'] in (11,12,13):
+                assert item['param4']==item['param3']-9 # uses different param3 for different amount of options
+                assert item['param2']==0
+                return 'switch (random(%d)) {' % item['param4']
+            elif item['param3']==17:
                 assert item['param4']==2
                 assert item['param2']==0
-                return 'switch (random(%d)) {' % item['param4']
-            elif item['param3']==12:
-                assert item['param4']==3
-                assert item['param2']==0
-                return 'switch (random(%d)) {' % item['param4']
-            elif item['param3']==13:
-                assert item['param4']==4
-                assert item['param2']==0
-                return 'switch (random(%d)) {' % item['param4']
+                return 'switch (is_adventure_pouch_full()) {'
             elif item['param3']==19:
                 assert item['param4']==2
                 return 'switch (adventure_pouch_has(%d 0x%04X)) {' % (item['param2'], item['param2'])
+
             else:
-                assert item['param3'] in (2,7,17,18,21,22)
+                assert item['param3'] in (7,18,21,22)
                 return 'switch (%s) {' % str(item)
 
         elif item['subType']==0:
             if item['param3']==14:
                 assert item['param4']==2
-                return 'switch (gratitude_crystals(%d)) {' % item['param2'] # TODO this is not only used for gratitude crystals
-            elif item['param3']==16:
-                return 'switch (minigame_related[%d]) {' % item['param2']
+                # all of these are typically used for minigames, to seperate different results, but they're also used for gratitude crystal rewards
+                # so they might be some kind of actor context
+                return 'switch (context_related2(%d)) {' % item['param2']
+            if item['param3']==15:
+                assert item['param4']==3
+                return 'switch (context_related3(%d)) {' % item['param2']
+            if item['param3']==16:
+                assert item['param4']==4
+                return 'switch (context_related4(%d)) {' % item['param2']
+            elif item['param3']==20:
+                assert item['param4']==2
+                assert item['param2']==0
+                return 'switch (is_item_check_full()) {'
             else:
-                assert item['param3'] in (15,20)
-                return 'switch (%s) {' % str(item)
+                raise Exception
 
         else:
             raise Exception
@@ -252,8 +259,10 @@ def interpretFlow(item, strings, attrs):
                 return "temp_flags[%d /* %s */] = true;" % (item['param1'], idx_to_scene_flag(item['param1']))
             elif item['param3']==29:    # assuming it matches 28 (unconfirmed)
                 return "temp_flags[%d /* %s */] = false;" % (item['param1'], idx_to_scene_flag(item['param1']))
+            elif item['param3']==39:
+                return "set_camera(%d, %d)"%(item['param1'], item['param2'])
             else:
-                assert item['param3'] in (16,17,23,25,33,35,39,40,42,47,48,50,51,54)
+                assert item['param3'] in (16,17,23,25,33,35,40,42,47,48,50,51,54)
                 return str(item)
         
         elif item['subType']==2:
