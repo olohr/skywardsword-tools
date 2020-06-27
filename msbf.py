@@ -9,6 +9,33 @@ from util import *
 from storyflag import idx_to_story_flag
 import sceneChanges
 
+TEXTREPLACEMENTS = {
+    b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x00': '<r<'.encode('utf-16be'),  # red
+    b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x02': '<y+<'.encode('utf-16be'), # yellow-white
+    b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x03': '<b<'.encode('utf-16be'),  # blue
+    b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x05': '<y<'.encode('utf-16be'),  # yellow
+    b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x09': '<r+<'.encode('utf-16be'), # red-white
+    b'\x00\x0E\x00\x00\x00\x03\x00\x02\xFF\xFF': '>>'.encode('utf-16be'),   # end formatting
+                
+    b'\x00\x0E\x00\x01\x00\x00\x00\x02\xFF\xFF': '[1]'.encode('utf-16be'),  # 1st answer
+    b'\x00\x0E\x00\x01\x00\x01\x00\x02\x00\x00': '[2-]'.encode('utf-16be'), # 2nd answer (cancel)
+    b'\x00\x0E\x00\x01\x00\x01\x00\x02\xFF\xFF': '[2]'.encode('utf-16be'),  # 2nd answer
+    b'\x00\x0E\x00\x01\x00\x02\x00\x02\x00\x00': '[3-]'.encode('utf-16be'), # 3rd answer (cancel)
+    b'\x00\x0E\x00\x01\x00\x02\x00\x02\xFF\xFF': '[3]'.encode('utf-16be'),  # 3rd answer
+    b'\x00\x0E\x00\x01\x00\x03\x00\x02\x00\x00': '[4-]'.encode('utf-16be'), # 4rd answer (cancel)
+    b'\x00\x0E\x00\x01\x00\x03\x00\x02\xFF\xFF': '[4]'.encode('utf-16be'),  # 4th answer
+    b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x01': '~'.encode('utf-16be'),    # micro pause
+    b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x05': '~~'.encode('utf-16be'),   # short pause
+    b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x0F': '~~~'.encode('utf-16be'),  # long pause
+                
+    b'\x00\x0E\x00\x02\x00\x00\x00\x00':         'Link'.encode('utf-16be'), # heroname
+    b'\x00\x0E\x00\x02\x00\x04\x00\x02\x00\xCD': '(A)'.encode('utf-16be'),  # A button
+    b'\x00\x0E\x00\x02\x00\x04\x00\x02\x01\xCD': '(B)'.encode('utf-16be'),  # B button
+    b'\x00\x0E\x00\x02\x00\x04\x00\x02\x06\xCD': '(C)'.encode('utf-16be'),  # C button
+    b'\x00\x0E\x00\x02\x00\x04\x00\x02\x07\xCD': '(Z)'.encode('utf-16be'),  # Z button
+    b'\x00\x0E\x00\x02\x00\x04\x00\x02\x11\xCD': '(v)'.encode('utf-16be'),  # down button
+}
+
 cumulative_flags_set = [b'\x00'*0x10]*len(flagindex_names)
 
 def parseMSB(fname):
@@ -112,31 +139,8 @@ def parseMSB(fname):
             for i in range(count): # for every item of text
                 bytestring = seg_data[indices[i] : (indices[i+1] if i + 1 < count else seg_len) - 2]
                 # decoding special characters:
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x00', '<r<'.encode('utf-16be'))  # red
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x02', '<y+<'.encode('utf-16be')) # yellow-white
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x03', '<b<'.encode('utf-16be'))  # blue
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x04', '<g<'.encode('utf-16be'))  # green
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x05', '<y<'.encode('utf-16be'))  # yellow
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\x00\x09', '<r+<'.encode('utf-16be')) # red-white
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x00\x00\x03\x00\x02\xFF\xFF', '>>'.encode('utf-16be'))   # end formatting
-                
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x00\x00\x02\xFF\xFF', '[1]'.encode('utf-16be'))  # 1st answer
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x01\x00\x02\x00\x00', '[2-]'.encode('utf-16be')) # 2nd answer (cancel)
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x01\x00\x02\xFF\xFF', '[2]'.encode('utf-16be'))  # 2nd answer
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x02\x00\x02\x00\x00', '[3-]'.encode('utf-16be')) # 3rd answer (cancel)
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x02\x00\x02\xFF\xFF', '[3]'.encode('utf-16be'))  # 3rd answer
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x03\x00\x02\x00\x00', '[4-]'.encode('utf-16be')) # 3rd answer (cancel)
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x03\x00\x02\xFF\xFF', '[4]'.encode('utf-16be'))  # 4th answer
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x01', '~'.encode('utf-16be'))    # micro pause
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x05', '~~'.encode('utf-16be'))   # short pause
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x0F', '~~~'.encode('utf-16be'))  # long pause
-                
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x00\x00\x00',         'Link'.encode('utf-16be')) # heroname
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x04\x00\x02\x00\xCD', '(A)'.encode('utf-16be'))  # A button
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x04\x00\x02\x01\xCD', '(B)'.encode('utf-16be'))  # B button
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x04\x00\x02\x06\xCD', '(C)'.encode('utf-16be'))  # C button
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x04\x00\x02\x07\xCD', '(Z)'.encode('utf-16be'))  # Z button
-                bytestring = bytestring.replace(b'\x00\x0E\x00\x02\x00\x04\x00\x02\x11\xCD', '(v)'.encode('utf-16be'))  # down button
+                for characters, meaning in TEXTREPLACEMENTS.items():
+                    bytestring = bytestring.replace(characters, meaning)
                 # continue
                 string = bytestring.decode('utf-16be').replace('\n','\\n').replace('"','\\"')
                 string = re.sub(r'[^\x20-\x7e]','_', string)
@@ -195,7 +199,7 @@ def interpretFlow(item, strings, attrs):
         elif item['subType']==0:
             if item['param3']==14:
                 assert item['param4']==2
-                return 'switch (gratitude_crystals(%d)) {' % item['param2']
+                return 'switch (gratitude_crystals(%d)) {' % item['param2'] # TODO this is not only used for gratitude crystals
             elif item['param3']==16:
                 return 'switch (minigame_related[%d]) {' % item['param2']
             else:
