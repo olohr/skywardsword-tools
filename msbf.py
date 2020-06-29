@@ -28,6 +28,9 @@ TEXTREPLACEMENTS = {
     b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x01': '~'.encode('utf-16be'),    # micro pause
     b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x05': '~~'.encode('utf-16be'),   # short pause
     b'\x00\x0E\x00\x01\x00\x04\x00\x02\x00\x0F': '~~~'.encode('utf-16be'),  # long pause
+    # b'\x00\x0E\x00\x01\x00\x04\x00\x02': 'pause'.encode('utf-16be'), # this seems to exist as well?
+
+    b'\x00\x0E\x00\x01\x00\x0B\x00\x04\x00\x00\x00\x04': '<pling>'.encode('utf-16be'), # notice sound
                 
     b'\x00\x0E\x00\x02\x00\x00\x00\x00':         'Link'.encode('utf-16be'), # heroname
     b'\x00\x0E\x00\x02\x00\x04\x00\x02\x00\xCD': '(A)'.encode('utf-16be'),  # A button
@@ -148,7 +151,7 @@ def parseMSB(fname):
                 # continue
                 
                 string = bytestring.decode('utf-16be').replace('\n','\\n').replace('"','\\"')
-                string = re.sub(r'[^\x20-\x7e]','_', string)
+                string = re.sub(r'[^\x20-\x7e]',lambda x: f'\\x{ord(x.group()):02X}', string)
                 parsed['TXT2'].append(string)
         else:
             raise Exception('unimplemented '+seg_id)
