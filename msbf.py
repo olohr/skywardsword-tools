@@ -43,6 +43,8 @@ TEXTREPLACEMENTS = {
     b'\x00\x0e\x00\x02\x00\x04\x00\x02\x10\xCD': '(^)'.encode('utf-16be'),  # up Button
 }
 
+LANGS = ['de_DE','en_GB','es_ES','fr_FR','it_IT','en_US','es_US','fr_US']
+
 cumulative_flags_set = [b'\x00'*0x10]*len(flagindex_names)
 
 def parseMSB(fname):
@@ -151,7 +153,7 @@ def parseMSB(fname):
                 # continue
                 
                 string = bytestring.decode('utf-16be').replace('\n','\\n').replace('"','\\"')
-                string = re.sub(r'[^\x20-\x7e]',lambda x: f'\\x{ord(x.group()):02X}', string)
+                string = re.sub(r'[^\x20-\xFF]',lambda x: f'\\x{ord(x.group()):02X}', string)
                 parsed['TXT2'].append(string)
         else:
             raise Exception('unimplemented '+seg_id)
@@ -287,73 +289,74 @@ def interpretFlow(item, strings, attrs):
 if __name__ == "__main__":
     Path("output/").mkdir(exist_ok=True)
 
-    # global names
-    world = parseMSB('en_US/0-Common/0-Common/007-MapText.msbt')
-    itr = ((item['name'], world['TXT2'][item['value']]) for items in world['LBL1'] for item in items)
-    world = sorted(itr, key=lambda a: a[0])
-    with open('output/MapText.json','w') as f:
-        f.write(objToJson(collections.OrderedDict(world)))
+    for lang in LANGS:
+        outdir = Path("output") / lang
+        outdir.mkdir(exist_ok=True)
+        # global names
+        world = parseMSB(f'{lang}/0-Common/0-Common/007-MapText.msbt')
+        itr = ((item['name'], world['TXT2'][item['value']]) for items in world['LBL1'] for item in items)
+        world = sorted(itr, key=lambda a: a[0])
+        (outdir / 'MapText.json').write_text(objToJson(collections.OrderedDict(world)))
 
-    world = parseMSB('en_US/0-Common/0-Common/word.msbt')
-    itr = ((item['name'], world['TXT2'][item['value']]) for items in world['LBL1'] for item in items)
-    world = sorted(itr, key=lambda a: a[0])
-    with open('output/word.json','w') as f:
-        f.write(objToJson(collections.OrderedDict(world)))
+        world = parseMSB(f'{lang}/0-Common/0-Common/word.msbt')
+        itr = ((item['name'], world['TXT2'][item['value']]) for items in world['LBL1'] for item in items)
+        world = sorted(itr, key=lambda a: a[0])
+        (outdir / 'word.json').write_text(objToJson(collections.OrderedDict(world)))
 
-    # events
-    for fname in glob.glob('en_US/**/*.msbf', recursive=True):
-        parsed = parseMSB(fname)
-        parsedMsbt = parseMSB(fname.replace('.msbf','.msbt'))
-        
-        def printItem(allItems,lines,itemId,indent,already_printed,needed_labels,strings,attrs):
-            if itemId is -1:
-                return
-            if itemId in already_printed:
-                needed_labels.add(itemId)
-                lines.append((None,indent,'goto flw_'+str(itemId)))
-                return
-            already_printed.add(itemId)
-            item = allItems['flow'][itemId]
-            lines.append((itemId, indent, interpretFlow(item, strings, attrs)))
-            if item['type'] == 'switch':    # recursively expand switch
-                for i in range(item['param4']):
-                    lines.append((None,indent,'  case %d:'%i))
-                    printItem(allItems,lines,allItems['branch_points'][item['param5']+i],indent+1,already_printed,needed_labels,strings,attrs)
-                lines.append((None,indent,'}'))
-            if 'next' in item:              # continue
-                printItem(allItems,lines,item['next'],indent,already_printed,needed_labels,strings,attrs)
-                
-        def printEvflFile(file,parsed,parsedMsbt):
-            lines = []
-            already_printed = set()
-            needed_labels = set()
-            for entrypoint_group in parsed['FEN1']:
-                for entrypoint in entrypoint_group:
-                    lines.append((None,0,'void entrypoint_'+entrypoint['name']+'() {'))
-                    printItem(parsed['FLW3'],lines,entrypoint['value'],1,already_printed,needed_labels,parsedMsbt['TXT2'], parsedMsbt['ATR1'])
-                    lines.append((None,0,'}\n'))
-            for lineId,indent,lineStr in lines:
-                if lineId in needed_labels:
-                    file.write(' '*10+'\t'*indent+'flw_'+str(lineId)+':\n')
-                if lineStr is not None:
-                    file.write(('/*<%3d>*/ '%(lineId) if lineId else ' '*10)+'\t'*indent+lineStr+'\n')
-            assert len(already_printed) == len(parsed['FLW3']['flow'])
-        
-        # output/event: raw event data
-        Path("output/event/").mkdir(parents=True, exist_ok=True)
-        with open('output/event/'+fname.split(os.sep)[-1].replace('.msbf','.json'),'w', encoding='utf-8') as f:
-            f.write(objToJson(parsed))
+        # events
+        for fname in glob.glob(f'{lang}/**/*.msbf', recursive=True):
+            parsed = parseMSB(fname)
+            parsedMsbt = parseMSB(fname.replace('.msbf','.msbt'))
+            
+            def printItem(allItems,lines,itemId,indent,already_printed,needed_labels,strings,attrs):
+                if itemId is -1:
+                    return
+                if itemId in already_printed:
+                    needed_labels.add(itemId)
+                    lines.append((None,indent,'goto flw_'+str(itemId)))
+                    return
+                already_printed.add(itemId)
+                item = allItems['flow'][itemId]
+                lines.append((itemId, indent, interpretFlow(item, strings, attrs)))
+                if item['type'] == 'switch':    # recursively expand switch
+                    for i in range(item['param4']):
+                        lines.append((None,indent,'  case %d:'%i))
+                        printItem(allItems,lines,allItems['branch_points'][item['param5']+i],indent+1,already_printed,needed_labels,strings,attrs)
+                    lines.append((None,indent,'}'))
+                if 'next' in item:              # continue
+                    printItem(allItems,lines,item['next'],indent,already_printed,needed_labels,strings,attrs)
+                    
+            def printEvflFile(file,parsed,parsedMsbt):
+                lines = []
+                already_printed = set()
+                needed_labels = set()
+                for entrypoint_group in parsed['FEN1']:
+                    for entrypoint in entrypoint_group:
+                        lines.append((None,0,'void entrypoint_'+entrypoint['name']+'() {'))
+                        printItem(parsed['FLW3'],lines,entrypoint['value'],1,already_printed,needed_labels,parsedMsbt['TXT2'], parsedMsbt['ATR1'])
+                        lines.append((None,0,'}\n'))
+                for lineId,indent,lineStr in lines:
+                    if lineId in needed_labels:
+                        file.write(' '*10+'\t'*indent+'flw_'+str(lineId)+':\n')
+                    if lineStr is not None:
+                        file.write(('/*<%3d>*/ '%(lineId) if lineId else ' '*10)+'\t'*indent+lineStr+'\n')
+                assert len(already_printed) == len(parsed['FLW3']['flow'])
+            
+            filename = fname.split(os.sep)[-1]
+            # output/event: raw event data
+            (outdir / "event").mkdir(parents=True, exist_ok=True)
+            (outdir / "event" / filename.replace('.msbf','.json')).write_text(objToJson(parsed), encoding='utf-8')
 
-        # output/event2: interpreted event data
-        Path("output/event2/").mkdir(parents=True, exist_ok=True)
-        with open('output/event2/'+fname.split(os.sep)[-1].replace('.msbf','.c'),'w', encoding='utf-8') as f:
-            printEvflFile(f,parsed,parsedMsbt)
+            # output/event2: interpreted event data
+            (outdir / "event2").mkdir(parents=True, exist_ok=True)
+            with (outdir / "event2" / filename.replace('.msbf','.c')).open('w', encoding='utf-8') as f:
+                printEvflFile(f,parsed,parsedMsbt)
 
-        # output/text: text only
-        Path("output/text/").mkdir(parents=True, exist_ok=True)
-        with open('output/text/'+fname.split(os.sep)[-1].replace('.msbf','.txt'),'w', encoding='utf-8') as f:
-            for line in parsedMsbt['TXT2']:
-                f.write(line + '\n')
+            # output/text: text only
+            (outdir / "text").mkdir(parents=True, exist_ok=True)
+            with (outdir / "text" / filename.replace('.msbf','.txt')).open('w', encoding='utf-8') as f:
+                for line in parsedMsbt['TXT2']:
+                    f.write(line + '\n')
 
         # output/cumulSceneFlags.txt: a listing of scene flags found to be set by the event system
         with open('output/cumulSceneFlags.txt','w') as f:
