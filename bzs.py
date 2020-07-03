@@ -69,7 +69,7 @@ flagindex = None
 stage_scens = []
 story_flags = set()
 
-with open('output/MapText.json') as f:
+with open('output/en_US/MapText.json') as f:
     map_text = json.load(f)
 with open('allitems.json') as f:
     itemnames = json.load(f)
