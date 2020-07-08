@@ -296,12 +296,12 @@ if __name__ == "__main__":
         world = parseMSB(f'{lang}/0-Common/0-Common/007-MapText.msbt')
         itr = ((item['name'], world['TXT2'][item['value']]) for items in world['LBL1'] for item in items)
         world = sorted(itr, key=lambda a: a[0])
-        (outdir / 'MapText.json').write_text(objToJson(collections.OrderedDict(world)))
+        (outdir / 'MapText.json').write_text(objToJson(collections.OrderedDict(world)), encoding='utf-8')
 
         world = parseMSB(f'{lang}/0-Common/0-Common/word.msbt')
         itr = ((item['name'], world['TXT2'][item['value']]) for items in world['LBL1'] for item in items)
         world = sorted(itr, key=lambda a: a[0])
-        (outdir / 'word.json').write_text(objToJson(collections.OrderedDict(world)))
+        (outdir / 'word.json').write_text(objToJson(collections.OrderedDict(world)), encoding='utf-8')
 
         # events
         for fname in glob.glob(f'{lang}/**/*.msbf', recursive=True):
