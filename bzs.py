@@ -150,6 +150,7 @@ def objAddExtraInfo(parsed_item):
         untriggerstoryf=(params1 >> 21) & 0x7FF
         extraInfo['trigstoryfid']=triggerstoryf
         extraInfo['untrigstoryfid']=untriggerstoryf
+        extraInfo['talk_behaviour']=parsed_item['anglez']
         # there might be more Npc actors with this sceneflag behaviour but needs testing
         if parsed_item['name']=='NpcTke':
             extraInfo['triggerarea']=parsed_item['angley'] & 0xFF
@@ -158,6 +159,8 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name']=='Door':
         extraInfo['scenefid']=(parsed_item['anglex']>>8)
         extraInfo['scen_link'] = (params1 >> 8) & 0xFF
+        extraInfo['talk_behaviour'] = params1 >> 16
+        extraInfo['subtype'] = params1 & 0xFF
     elif parsed_item['name']=='TBox':
         spawnscenef=((params1 & 0x0FF00000) >> 20)
         extraInfo['spawnscenefid']=spawnscenef
@@ -329,7 +332,9 @@ def parseObj(objtype, quantity, data):
                 parsed_item['name'] = toStr(parsed_item['name'])
             elif objtype == 'PLY ':
                 #room entrance
-                parsed_item = unpack('byte1 byte2 play_cutscene byte4 posx posy posz unk2 entrance_id','>bbbb3f6sh',item)
+                parsed_item = unpack('storyflag play_cutscene byte4 posx posy posz unk2 entrance_id','>Hbb3f6sh',item)
+                # storyflag, if set don't play the cutscene
+                parsed_item['storyflag']=parsed_item['storyflag']&0x7FF # rest is always set
                 if parsed_item['play_cutscene'] != -1:
                     print('%d: entrance %d -- cutscene %d'%(i,parsed_item['entrance_id'],parsed_item['play_cutscene']))
             elif objtype in ('OBJS','OBJ ','DOOR'):
