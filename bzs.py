@@ -83,6 +83,26 @@ def parseBzs(data):
     name = name.decode('ascii')
     return parseObj(name, count, data[offset:])
 
+# used for the "Dowsing" objects
+DOWSING_OPTIONS=[
+    "Faron Trial",
+    "Lanayru Trial",
+    "Eldin Trial",
+    "Skyloft Trial",
+    "Propeller",
+    "Water Basin",
+    "Crystal Ball",
+    "Mogma",
+    "Plant",#that owlan quest
+    "Party Wheel",
+    "Zelda",
+    "-",
+    "-",
+    "-",
+    "-",
+    "Sandship",
+]
+
 def objAddExtraInfo(parsed_item):
     extraInfo = collections.OrderedDict()
     params1 = read_word(parsed_item['params1'])
@@ -221,6 +241,12 @@ def objAddExtraInfo(parsed_item):
         # all bits set mean stay in the same room
         if extraInfo['roomid'] == 63:
             del extraInfo['roomid']
+    elif parsed_item['name'] == 'Dowsing':
+        extraInfo['option'] = DOWSING_OPTIONS[(params1 >> 16) & 0xF]
+        extraInfo['trigstoryfid'] = parsed_item['anglez'] & 0x7FF
+        extraInfo['untrigstoryfid'] = (params1 >> 20) & 0x7FF
+        extraInfo['trigscenefid'] = (params1 >> 8) & 0xFF
+        extraInfo['untrigscenefid'] = params1 & 0xFF
     elif parsed_item['name'] == 'SwTag':
         # tag to set sceneflag based on multiple other sceneflags
         # first 4 bits always F, then 6 bits counts (counting n flags up from the following sceneflag), 8 bits start sceneflag (it watches range that+count)
@@ -332,7 +358,8 @@ def parseObj(objtype, quantity, data):
                 parsed_item['name'] = toStr(parsed_item['name'])
             elif objtype == 'PLY ':
                 #room entrance
-                parsed_item = unpack('storyflag play_cutscene byte4 posx posy posz unk2 entrance_id','>Hbb3f6sh',item)
+                parsed_item = unpack('storyflag play_cutscene byte4 posx posy posz anglex angley anglez entrance_id','>Hbb3fHHHh',item)
+                # anglex and anglez are almost always 0, there is one entrance in the thunderhead that uses 0x8000 for both of them
                 # storyflag, if set don't play the cutscene
                 parsed_item['storyflag']=parsed_item['storyflag']&0x7FF # rest is always set
                 if parsed_item['play_cutscene'] != -1:
