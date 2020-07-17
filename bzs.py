@@ -153,10 +153,11 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name'] in ['Kibako', 'PushBlk','vmSand']: # vmSand is sand dust to blow away
         # flag is between byte 2 and 3
         extraInfo['scenefid'] = (params1 >> 12) & 0xFF
-    elif parsed_item['name'] in ['Item']:
+    elif parsed_item['name'] in ['Item', 'ArrowSW']: # ArrowSW: Bow switches
         # flag is between byte 2 and 3 with bit shift
         extraInfo['scenefid'] = (params1 >> 10) & 0xFF
-        extraInfo['itemid'] = params1 & 0xFF
+        if parsed_item['name'] == 'Item':
+            extraInfo['itemid'] = params1 & 0xFF
     elif parsed_item['name'] == 'BulbSW': # switches you can whip in ancient cistern
         extraInfo['scenefid'] = (params1 >> 2) & 0xFF
     elif parsed_item['name'] == 'Swhit': # crystal switches hittable with any damage
@@ -187,6 +188,7 @@ def objAddExtraInfo(parsed_item):
         extraInfo['setscenefid']=(parsed_item['anglex']&0xFF)
         extraInfo['itemid']=parsed_item['anglez']&0x1FF
         extraInfo['chestid']=(parsed_item['anglez']&0xFE00)>>9
+        extraInfo['trigstoryfid']=params2&0x7FF
     elif parsed_item['name']=='DNight':
         extraInfo['sleep_storyfid']=params1 & 0x07FF
     elif parsed_item['name']=='WarpObj':
@@ -199,6 +201,8 @@ def objAddExtraInfo(parsed_item):
         extraInfo['talk_behaviour']=(params1 >> 4) & 0xFFFF
     elif parsed_item['name']=='KanbanS':
         extraInfo['talk_behaviour']=params1 & 0xFFFF
+    elif parsed_item['name']=='GodCube':
+        extraInfo['storyfid']=params1&0x7FF
     elif parsed_item['name']=='ScChang':
         extraInfo['scen_link']=params1 & 0xFF
         extraInfo['trigscenefid']=(params1 >> 24) & 0xFF
@@ -247,6 +251,10 @@ def objAddExtraInfo(parsed_item):
         extraInfo['untrigstoryfid'] = (params1 >> 20) & 0x7FF
         extraInfo['trigscenefid'] = (params1 >> 8) & 0xFF
         extraInfo['untrigscenefid'] = params1 & 0xFF
+    elif parsed_item['name'] in ('CamTag', 'Cam2Tag'): # special cameras, idk where the difference is
+        extraInfo['trigscenefid'] = (params1 >> 16) & 0xFF
+        extraInfo['untrigscenefid'] = parsed_item['anglez'] & 0xFF
+        extraInfo['camidx'] = (params1) & 0xFF
     elif parsed_item['name'] == 'SwTag':
         # tag to set sceneflag based on multiple other sceneflags
         # first 4 bits always F, then 6 bits counts (counting n flags up from the following sceneflag), 8 bits start sceneflag (it watches range that+count)
