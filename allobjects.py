@@ -27,6 +27,7 @@ totally_all_objects=[]
 raw_stages={}
 all_ENVTS=[]
 all_AREAS=[]
+all_PLY=[]
 
 sizeobjs = ('SOBS','SOBJ','STAS','STAG','SNDT')
 objs = ('OBJS','OBJ ','DOOR')
@@ -49,6 +50,22 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
         raw_stage=json.load(f)
         raw_stages[output['stageid']]=raw_stage
         stage={'rooms': raw_stage['rooms']}
+        for (objt, objects) in raw_stage.items():
+            if not objt in allobjtypes:
+                continue
+            for obj in objects:
+                # find min max bounds
+                maxx=max(maxx,obj['posx'])
+                maxz=max(maxz,obj['posz'])
+                minx=min(minx,obj['posx'])
+                minz=min(minz,obj['posz'])
+
+                obj['type'] = objt
+                obj['roomid'] = -1
+                obj['layerid'] = 0
+                obj['stageid'] = output['stageid']
+                all_objects.append(obj)
+                totally_all_objects.append(obj)
         for (lid, layer) in raw_stage['LAY '].items():
             for (objt, objects) in layer.items():
                 if not objt in allobjtypes:
@@ -69,6 +86,7 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
         for (rid, room) in stage['rooms'].items():
             if 'EVNT' in room:
                 all_ENVTS.extend(room['EVNT'])
+            all_PLY.extend(room.get('PLY ',[]))
             for obj in room.get('AREA',[]):
                 # find min max bounds
                 maxx=max(maxx,obj['posx'])
@@ -83,6 +101,22 @@ for stagefile in glob.glob(basepath + '/output/stage/*.json'):
                 obj['stageid'] = output['stageid']
                 all_objects.append(obj)
                 totally_all_objects.append(obj)
+            for (objt, objects) in room.items():
+                if not objt in allobjtypes:
+                    continue
+                for obj in objects:
+                    # find min max bounds
+                    maxx=max(maxx,obj['posx'])
+                    maxz=max(maxz,obj['posz'])
+                    minx=min(minx,obj['posx'])
+                    minz=min(minz,obj['posz'])
+
+                    obj['type'] = objt
+                    obj['roomid'] = int(rid[1:])
+                    obj['layerid'] = 0
+                    obj['stageid'] = output['stageid']
+                    all_objects.append(obj)
+                    totally_all_objects.append(obj)
             for (lid, layer) in room['LAY '].items():
                 for (objt, objects) in layer.items():
                     if not objt in allobjtypes:
