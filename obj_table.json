@@ -1,0 +1,7772 @@
+[
+    {
+        "name": "$act01",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 1,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act02",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 2,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act03",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 3,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act04",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 4,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act05",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 5,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act06",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 6,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act07",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 7,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act08",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 8,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act09",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 9,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act10",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 10,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act11",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 11,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act12",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 12,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act13",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 13,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act14",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 14,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act15",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 15,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act16",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 16,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act17",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 17,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act18",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 18,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act19",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 19,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act20",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 20,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act21",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 21,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act22",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 22,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act23",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 23,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act24",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 24,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act25",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 25,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act26",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 26,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act27",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 27,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act28",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 28,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act29",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 29,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act30",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 30,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act31",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 31,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act32",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 32,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act33",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 33,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act34",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 34,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act35",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 35,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act36",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 36,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act37",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 37,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act38",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 38,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act39",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 39,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act40",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 40,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act41",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 41,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act42",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 42,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act43",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 43,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act44",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 44,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act45",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 45,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act46",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 46,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act47",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 47,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act48",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 48,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act49",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 49,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act50",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 50,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act51",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 51,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act52",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 52,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act53",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 53,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act54",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 54,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act55",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 55,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act56",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 56,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act57",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 57,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act58",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 58,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act59",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 59,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act60",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 60,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act61",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 61,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act62",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 62,
+        "rel_name": "?"
+    },
+    {
+        "name": "$act63",
+        "rel_id": 326,
+        "rel_id2": 326,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 63,
+        "rel_name": "?"
+    },
+    {
+        "name": "$snd",
+        "rel_id": 325,
+        "rel_id2": 325,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 1,
+        "rel_name": "?"
+    },
+    {
+        "name": "$sys",
+        "rel_id": 325,
+        "rel_id2": 325,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "AFlw",
+        "rel_id": 520,
+        "rel_id2": 520,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 35,
+        "unk4": 0,
+        "rel_name": "d_a_obj_flower_ancient"
+    },
+    {
+        "name": "ActTag",
+        "rel_id": 627,
+        "rel_id2": 627,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_action"
+    },
+    {
+        "name": "Amber",
+        "rel_id": 597,
+        "rel_id2": 597,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_amber"
+    },
+    {
+        "name": "AncJwls",
+        "rel_id": 467,
+        "rel_id2": 467,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 35,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ancient_jewels"
+    },
+    {
+        "name": "Ant",
+        "rel_id": 455,
+        "rel_id2": 455,
+        "unk1": 3,
+        "unk2": 6,
+        "unk3": 49,
+        "unk4": 0,
+        "rel_name": "d_a_insect_ant"
+    },
+    {
+        "name": "ApBridg",
+        "rel_id": 83,
+        "rel_id2": 83,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_appear_bridge"
+    },
+    {
+        "name": "Arrow",
+        "rel_id": 617,
+        "rel_id2": 617,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 7,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "ArrowSW",
+        "rel_id": 560,
+        "rel_id2": 560,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_arrow_switch"
+    },
+    {
+        "name": "AsuArm",
+        "rel_id": 414,
+        "rel_id2": 414,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_b_asura_arm"
+    },
+    {
+        "name": "AsuFoo",
+        "rel_id": 415,
+        "rel_id2": 415,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_b_asura_foot"
+    },
+    {
+        "name": "AsuraB",
+        "rel_id": 416,
+        "rel_id2": 416,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 29,
+        "unk4": 0,
+        "rel_name": "d_a_asura_bullet"
+    },
+    {
+        "name": "AsuraP",
+        "rel_id": 418,
+        "rel_id2": 418,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_asura_pillar"
+    },
+    {
+        "name": "AsuraS",
+        "rel_id": 417,
+        "rel_id2": 417,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_asura_sword"
+    },
+    {
+        "name": "AttTag",
+        "rel_id": 621,
+        "rel_id2": 621,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_at0"
+    },
+    {
+        "name": "AutoMes",
+        "rel_id": 606,
+        "rel_id2": 606,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_auto_message"
+    },
+    {
+        "name": "B300Snd",
+        "rel_id": 546,
+        "rel_id2": 546,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_B300_sand"
+    },
+    {
+        "name": "BAsura",
+        "rel_id": 413,
+        "rel_id2": 413,
+        "unk1": 0,
+        "unk2": 48,
+        "unk3": 19,
+        "unk4": 0,
+        "rel_name": "d_a_b_asura"
+    },
+    {
+        "name": "BBObjs",
+        "rel_id": 43,
+        "rel_id2": 43,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bb_objects"
+    },
+    {
+        "name": "BBParts",
+        "rel_id": 95,
+        "rel_id2": 95,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bb_broken_parts"
+    },
+    {
+        "name": "BBQuake",
+        "rel_id": 336,
+        "rel_id2": 336,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_t_bb_quake"
+    },
+    {
+        "name": "BBbrg",
+        "rel_id": 115,
+        "rel_id2": 115,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bb_bridge"
+    },
+    {
+        "name": "BBigBo2",
+        "rel_id": 167,
+        "rel_id2": 167,
+        "unk1": 0,
+        "unk2": 53,
+        "unk3": 20,
+        "unk4": 0,
+        "rel_name": "d_a_b_bigboss2"
+    },
+    {
+        "name": "BBigBo3",
+        "rel_id": 168,
+        "rel_id2": 168,
+        "unk1": 0,
+        "unk2": 54,
+        "unk3": 20,
+        "unk4": 0,
+        "rel_name": "d_a_b_bigboss3"
+    },
+    {
+        "name": "BBigBoB",
+        "rel_id": 165,
+        "rel_id2": 165,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_b_bigbossbase"
+    },
+    {
+        "name": "BBigBos",
+        "rel_id": 166,
+        "rel_id2": 166,
+        "unk1": 0,
+        "unk2": 52,
+        "unk3": 20,
+        "unk4": 0,
+        "rel_name": "d_a_b_bigboss"
+    },
+    {
+        "name": "BBigShc",
+        "rel_id": 327,
+        "rel_id2": 327,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_b_bbshockwave"
+    },
+    {
+        "name": "BBombf",
+        "rel_id": 329,
+        "rel_id2": 329,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bigbomb_flower"
+    },
+    {
+        "name": "BDrD101",
+        "rel_id": 156,
+        "rel_id2": 156,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_door_bossD101"
+    },
+    {
+        "name": "BGh",
+        "rel_id": 403,
+        "rel_id2": 403,
+        "unk1": 0,
+        "unk2": 49,
+        "unk3": 19,
+        "unk4": 0,
+        "rel_name": "d_a_b_girahimu"
+    },
+    {
+        "name": "BGh2",
+        "rel_id": 404,
+        "rel_id2": 404,
+        "unk1": 0,
+        "unk2": 50,
+        "unk3": 19,
+        "unk4": 0,
+        "rel_name": "d_a_b_girahimu2"
+    },
+    {
+        "name": "BGh3B",
+        "rel_id": 405,
+        "rel_id2": 405,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_b_girahimu3_base"
+    },
+    {
+        "name": "BGh3Fst",
+        "rel_id": 406,
+        "rel_id2": 406,
+        "unk1": 0,
+        "unk2": 51,
+        "unk3": 24,
+        "unk4": 0,
+        "rel_name": "d_a_b_girahimu3_first"
+    },
+    {
+        "name": "BGh3Snd",
+        "rel_id": 407,
+        "rel_id2": 407,
+        "unk1": 0,
+        "unk2": 89,
+        "unk3": 24,
+        "unk4": 0,
+        "rel_name": "d_a_b_girahimu3_second"
+    },
+    {
+        "name": "BGh3Trd",
+        "rel_id": 408,
+        "rel_id2": 408,
+        "unk1": 0,
+        "unk2": 90,
+        "unk3": 24,
+        "unk4": 0,
+        "rel_name": "d_a_b_girahimu3_third"
+    },
+    {
+        "name": "BGhB",
+        "rel_id": 402,
+        "rel_id2": 402,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_b_girahimu_base"
+    },
+    {
+        "name": "BKr",
+        "rel_id": 195,
+        "rel_id2": 195,
+        "unk1": 0,
+        "unk2": 77,
+        "unk3": 22,
+        "unk4": 0,
+        "rel_name": "d_a_b_kr"
+    },
+    {
+        "name": "BKrA",
+        "rel_id": 197,
+        "rel_id2": 197,
+        "unk1": 0,
+        "unk2": 77,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_b_kr_arm"
+    },
+    {
+        "name": "BKrH",
+        "rel_id": 196,
+        "rel_id2": 196,
+        "unk1": 0,
+        "unk2": 77,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_b_kr_hair"
+    },
+    {
+        "name": "BLasBos",
+        "rel_id": 333,
+        "rel_id2": 333,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 19,
+        "unk4": 0,
+        "rel_name": "d_a_b_lastboss"
+    },
+    {
+        "name": "BMg",
+        "rel_id": 332,
+        "rel_id2": 332,
+        "unk1": 0,
+        "unk2": 10,
+        "unk3": 21,
+        "unk4": 0,
+        "rel_name": "d_a_b_mg"
+    },
+    {
+        "name": "BSpUp",
+        "rel_id": 411,
+        "rel_id2": 411,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bird_sp"
+    },
+    {
+        "name": "Bamboo",
+        "rel_id": 431,
+        "rel_id2": 431,
+        "unk1": 2,
+        "unk2": 21,
+        "unk3": 34,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bamboo"
+    },
+    {
+        "name": "BarPsTg",
+        "rel_id": 610,
+        "rel_id2": 610,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_barrel_pos"
+    },
+    {
+        "name": "Barrel",
+        "rel_id": 521,
+        "rel_id2": 521,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_barrel"
+    },
+    {
+        "name": "BarrlTg",
+        "rel_id": 609,
+        "rel_id2": 609,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_barrel"
+    },
+    {
+        "name": "BcAlArr",
+        "rel_id": 386,
+        "rel_id2": 386,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_e_bcal_arrow"
+    },
+    {
+        "name": "BcArrow",
+        "rel_id": 385,
+        "rel_id2": 385,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_e_bc_arrow"
+    },
+    {
+        "name": "BcZTag",
+        "rel_id": 387,
+        "rel_id2": 387,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_bcz"
+    },
+    {
+        "name": "Bee",
+        "rel_id": 423,
+        "rel_id2": 423,
+        "unk1": 3,
+        "unk2": 8,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_npc_bee"
+    },
+    {
+        "name": "Beetle",
+        "rel_id": 452,
+        "rel_id2": 452,
+        "unk1": 3,
+        "unk2": 0,
+        "unk3": 49,
+        "unk4": 0,
+        "rel_name": "d_a_insect_beetle"
+    },
+    {
+        "name": "Bell",
+        "rel_id": 89,
+        "rel_id2": 89,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bell"
+    },
+    {
+        "name": "BeltCvr",
+        "rel_id": 23,
+        "rel_id2": 23,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_belt_cvr"
+    },
+    {
+        "name": "BigTubo",
+        "rel_id": 497,
+        "rel_id2": 497,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tubo_big"
+    },
+    {
+        "name": "BirdB",
+        "rel_id": 181,
+        "rel_id2": 181,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_avater_bullet"
+    },
+    {
+        "name": "BirdKA",
+        "rel_id": 176,
+        "rel_id2": 176,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_bird_kobunA"
+    },
+    {
+        "name": "BirdKB",
+        "rel_id": 177,
+        "rel_id2": 177,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_bird_kobunB"
+    },
+    {
+        "name": "BirdNpc",
+        "rel_id": 175,
+        "rel_id2": 175,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_bird_npc"
+    },
+    {
+        "name": "BirdR",
+        "rel_id": 178,
+        "rel_id2": 178,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_bird_rival"
+    },
+    {
+        "name": "BirdSta",
+        "rel_id": 598,
+        "rel_id2": 598,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bird_statue"
+    },
+    {
+        "name": "BirdT",
+        "rel_id": 174,
+        "rel_id2": 174,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_bird_target"
+    },
+    {
+        "name": "BirdZT",
+        "rel_id": 179,
+        "rel_id2": 179,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_bird_zelda_training"
+    },
+    {
+        "name": "Blade",
+        "rel_id": 575,
+        "rel_id2": 575,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_blade"
+    },
+    {
+        "name": "BlkRope",
+        "rel_id": 18,
+        "rel_id2": 18,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_block_rope"
+    },
+    {
+        "name": "BlockUg",
+        "rel_id": 141,
+        "rel_id2": 141,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_block_underground"
+    },
+    {
+        "name": "BlsRock",
+        "rel_id": 500,
+        "rel_id2": 500,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_blast_rock"
+    },
+    {
+        "name": "Blst",
+        "rel_id": 118,
+        "rel_id2": 118,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ballista"
+    },
+    {
+        "name": "BlstF3",
+        "rel_id": 119,
+        "rel_id2": 119,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ballista_f3"
+    },
+    {
+        "name": "BlstH",
+        "rel_id": 508,
+        "rel_id2": 508,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ballista_handle"
+    },
+    {
+        "name": "BltObsT",
+        "rel_id": 613,
+        "rel_id2": 613,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 59,
+        "unk4": 0,
+        "rel_name": "d_t_belt_obstacle"
+    },
+    {
+        "name": "BlwCoal",
+        "rel_id": 569,
+        "rel_id2": 569,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_blow_coal"
+    },
+    {
+        "name": "Boat",
+        "rel_id": 117,
+        "rel_id2": 117,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_boat"
+    },
+    {
+        "name": "Bomb",
+        "rel_id": 426,
+        "rel_id2": 426,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 8,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "Bombf",
+        "rel_id": 425,
+        "rel_id2": 425,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_bombf"
+    },
+    {
+        "name": "Boom",
+        "rel_id": 211,
+        "rel_id2": 211,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 6,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "BoxCage",
+        "rel_id": 157,
+        "rel_id2": 157,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_boxcage_F300"
+    },
+    {
+        "name": "BrdMob",
+        "rel_id": 507,
+        "rel_id2": 507,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_bird_mob"
+    },
+    {
+        "name": "BrgBn",
+        "rel_id": 114,
+        "rel_id2": 114,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bridge_bone"
+    },
+    {
+        "name": "BrgFall",
+        "rel_id": 112,
+        "rel_id2": 112,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bridge_fall"
+    },
+    {
+        "name": "BrgStp",
+        "rel_id": 113,
+        "rel_id2": 113,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bridge_step"
+    },
+    {
+        "name": "BrgTs",
+        "rel_id": 116,
+        "rel_id2": 116,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bridge_time"
+    },
+    {
+        "name": "BridgeB",
+        "rel_id": 44,
+        "rel_id2": 44,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bridge_building"
+    },
+    {
+        "name": "BridgeS",
+        "rel_id": 48,
+        "rel_id2": 48,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bridge_stretch"
+    },
+    {
+        "name": "Bstone",
+        "rel_id": 98,
+        "rel_id2": 98,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bstone"
+    },
+    {
+        "name": "BtlTg",
+        "rel_id": 549,
+        "rel_id2": 549,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_beetle"
+    },
+    {
+        "name": "BtlTgA",
+        "rel_id": 549,
+        "rel_id2": 549,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 1,
+        "rel_name": "d_t_beetle"
+    },
+    {
+        "name": "BtlTgB",
+        "rel_id": 549,
+        "rel_id2": 549,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 2,
+        "rel_name": "d_t_beetle"
+    },
+    {
+        "name": "BtlTgC",
+        "rel_id": 549,
+        "rel_id2": 549,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 3,
+        "rel_name": "d_t_beetle"
+    },
+    {
+        "name": "Bubble",
+        "rel_id": 489,
+        "rel_id2": 489,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bubble"
+    },
+    {
+        "name": "BulbSW",
+        "rel_id": 38,
+        "rel_id2": 38,
+        "unk1": 2,
+        "unk2": 12,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bulb_switch"
+    },
+    {
+        "name": "Bullet",
+        "rel_id": 191,
+        "rel_id2": 191,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 29,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "Butrfly",
+        "rel_id": 456,
+        "rel_id2": 456,
+        "unk1": 3,
+        "unk2": 9,
+        "unk3": 49,
+        "unk4": 0,
+        "rel_name": "d_a_insect_butterfly"
+    },
+    {
+        "name": "Bvd",
+        "rel_id": 169,
+        "rel_id2": 169,
+        "unk1": 0,
+        "unk2": 65,
+        "unk3": 19,
+        "unk4": 0,
+        "rel_name": "d_a_b_vd"
+    },
+    {
+        "name": "CBomSld",
+        "rel_id": 13,
+        "rel_id2": 13,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_col_bomb_shield"
+    },
+    {
+        "name": "Cam2Tag",
+        "rel_id": 626,
+        "rel_id2": 626,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "CamTag",
+        "rel_id": 625,
+        "rel_id2": 625,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "Cannon",
+        "rel_id": 45,
+        "rel_id2": 45,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_cannon"
+    },
+    {
+        "name": "CannonC",
+        "rel_id": 54,
+        "rel_id2": 54,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_cannon_cover"
+    },
+    {
+        "name": "Chandel",
+        "rel_id": 470,
+        "rel_id2": 470,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_chandelier"
+    },
+    {
+        "name": "Char",
+        "rel_id": 498,
+        "rel_id2": 498,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 5,
+        "rel_name": "d_a_obj_chair"
+    },
+    {
+        "name": "CharA",
+        "rel_id": 498,
+        "rel_id2": 498,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_chair"
+    },
+    {
+        "name": "CharB",
+        "rel_id": 498,
+        "rel_id2": 498,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 1,
+        "rel_name": "d_a_obj_chair"
+    },
+    {
+        "name": "CharC",
+        "rel_id": 498,
+        "rel_id2": 498,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 2,
+        "rel_name": "d_a_obj_chair"
+    },
+    {
+        "name": "CharD",
+        "rel_id": 498,
+        "rel_id2": 498,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 3,
+        "rel_name": "d_a_obj_chair"
+    },
+    {
+        "name": "CharE",
+        "rel_id": 498,
+        "rel_id2": 498,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 4,
+        "rel_name": "d_a_obj_chair"
+    },
+    {
+        "name": "Cicada",
+        "rel_id": 454,
+        "rel_id2": 454,
+        "unk1": 3,
+        "unk2": 2,
+        "unk3": 49,
+        "unk4": 0,
+        "rel_name": "d_a_insect_cicada"
+    },
+    {
+        "name": "City",
+        "rel_id": 79,
+        "rel_id2": 79,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_city"
+    },
+    {
+        "name": "CityWtr",
+        "rel_id": 92,
+        "rel_id2": 92,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_city_water"
+    },
+    {
+        "name": "ClawSTg",
+        "rel_id": 37,
+        "rel_id2": 37,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 33,
+        "unk4": 0,
+        "rel_name": "d_a_obj_claw_shot_tg"
+    },
+    {
+        "name": "Clef",
+        "rel_id": 643,
+        "rel_id2": 643,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 38,
+        "unk4": 0,
+        "rel_name": "d_a_obj_clef"
+    },
+    {
+        "name": "CloudSD",
+        "rel_id": 566,
+        "rel_id2": 566,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_cloud_dive"
+    },
+    {
+        "name": "ClrWall",
+        "rel_id": 484,
+        "rel_id2": 484,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_clearness_wall"
+    },
+    {
+        "name": "CmCloud",
+        "rel_id": 583,
+        "rel_id2": 583,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_cumul_cloud"
+    },
+    {
+        "name": "CoTest",
+        "rel_id": 559,
+        "rel_id2": 559,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_co_test"
+    },
+    {
+        "name": "Col",
+        "rel_id": 513,
+        "rel_id2": 513,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_col"
+    },
+    {
+        "name": "ColStp",
+        "rel_id": 429,
+        "rel_id2": 429,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_col_stp"
+    },
+    {
+        "name": "CtrlPnl",
+        "rel_id": 482,
+        "rel_id2": 482,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_control_panel"
+    },
+    {
+        "name": "CupA00",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 1,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "CupA01",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 2,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "CupA02",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 3,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "CupB00",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 4,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "CupB01",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 5,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "CupB02",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 6,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "CyStone",
+        "rel_id": 427,
+        "rel_id2": 427,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_carry_stone"
+    },
+    {
+        "name": "D2Mtr",
+        "rel_id": 130,
+        "rel_id2": 130,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_desert_meter"
+    },
+    {
+        "name": "D300Obj",
+        "rel_id": 127,
+        "rel_id2": 127,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_D300"
+    },
+    {
+        "name": "D3Dummy",
+        "rel_id": 164,
+        "rel_id2": 164,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_D3_dummy"
+    },
+    {
+        "name": "DNdl",
+        "rel_id": 131,
+        "rel_id2": 131,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_needle_desert"
+    },
+    {
+        "name": "DNight",
+        "rel_id": 514,
+        "rel_id2": 514,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_daynight"
+    },
+    {
+        "name": "DStartT",
+        "rel_id": 9,
+        "rel_id2": 9,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_dungeon_start"
+    },
+    {
+        "name": "DbidNpc",
+        "rel_id": 214,
+        "rel_id2": 214,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_demo_npc_bird"
+    },
+    {
+        "name": "Debris",
+        "rel_id": 581,
+        "rel_id2": 581,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stage_debris"
+    },
+    {
+        "name": "DecoA",
+        "rel_id": 478,
+        "rel_id2": 478,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_decoA"
+    },
+    {
+        "name": "DecoB",
+        "rel_id": 479,
+        "rel_id2": 479,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_decoB"
+    },
+    {
+        "name": "DemoPds",
+        "rel_id": 591,
+        "rel_id2": 591,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_uta_demo_pedest"
+    },
+    {
+        "name": "DiOnNbs",
+        "rel_id": 596,
+        "rel_id2": 596,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_display_only_nbs"
+    },
+    {
+        "name": "DieTag",
+        "rel_id": 630,
+        "rel_id2": 630,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "DisShip",
+        "rel_id": 199,
+        "rel_id2": 199,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_distant_ship"
+    },
+    {
+        "name": "DivCrst",
+        "rel_id": 475,
+        "rel_id2": 475,
+        "unk1": 2,
+        "unk2": 39,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_diviner_crystal"
+    },
+    {
+        "name": "DmtGate",
+        "rel_id": 159,
+        "rel_id2": 159,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_dormitory_gate"
+    },
+    {
+        "name": "Door",
+        "rel_id": 205,
+        "rel_id2": 205,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_door"
+    },
+    {
+        "name": "Door200",
+        "rel_id": 34,
+        "rel_id2": 34,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 42,
+        "unk4": 0,
+        "rel_name": "d_a_obj_door_dungeonD200"
+    },
+    {
+        "name": "DoorBs",
+        "rel_id": 204,
+        "rel_id2": 204,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 42,
+        "unk4": 0,
+        "rel_name": "d_a_obj_door_boss"
+    },
+    {
+        "name": "DoorDun",
+        "rel_id": 35,
+        "rel_id2": 35,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 42,
+        "unk4": 0,
+        "rel_name": "d_a_obj_door_dungeon"
+    },
+    {
+        "name": "Dowsing",
+        "rel_id": 547,
+        "rel_id2": 547,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_dowsing"
+    },
+    {
+        "name": "Drgnfly",
+        "rel_id": 451,
+        "rel_id2": 451,
+        "unk1": 3,
+        "unk2": 10,
+        "unk3": 49,
+        "unk4": 0,
+        "rel_name": "d_a_insect_dragonfly"
+    },
+    {
+        "name": "Drum",
+        "rel_id": 24,
+        "rel_id2": 24,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_drum"
+    },
+    {
+        "name": "DrumTag",
+        "rel_id": 614,
+        "rel_id2": 614,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_drum"
+    },
+    {
+        "name": "DstDbrs",
+        "rel_id": 94,
+        "rel_id2": 94,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_desert_debris"
+    },
+    {
+        "name": "DwnLava",
+        "rel_id": 82,
+        "rel_id2": 82,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_down_lava"
+    },
+    {
+        "name": "EAm",
+        "rel_id": 335,
+        "rel_id2": 335,
+        "unk1": 0,
+        "unk2": 69,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_am"
+    },
+    {
+        "name": "EBc",
+        "rel_id": 382,
+        "rel_id2": 382,
+        "unk1": 0,
+        "unk2": 18,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_bc"
+    },
+    {
+        "name": "EBcZ",
+        "rel_id": 388,
+        "rel_id2": 388,
+        "unk1": 0,
+        "unk2": 43,
+        "unk3": 16,
+        "unk4": 0,
+        "rel_name": "d_a_e_bcz"
+    },
+    {
+        "name": "EBcaL",
+        "rel_id": 384,
+        "rel_id2": 384,
+        "unk1": 0,
+        "unk2": 29,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_bcal"
+    },
+    {
+        "name": "EBce",
+        "rel_id": 383,
+        "rel_id2": 383,
+        "unk1": 0,
+        "unk2": 18,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_bce"
+    },
+    {
+        "name": "EBeamos",
+        "rel_id": 342,
+        "rel_id2": 342,
+        "unk1": 0,
+        "unk2": 70,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_beamos"
+    },
+    {
+        "name": "EBfish",
+        "rel_id": 376,
+        "rel_id2": 376,
+        "unk1": 0,
+        "unk2": 73,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_battleshipfish"
+    },
+    {
+        "name": "EBs",
+        "rel_id": 358,
+        "rel_id2": 358,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_bs"
+    },
+    {
+        "name": "ECactus",
+        "rel_id": 377,
+        "rel_id2": 377,
+        "unk1": 2,
+        "unk2": 19,
+        "unk3": 40,
+        "unk4": 0,
+        "rel_name": "d_a_e_cactus"
+    },
+    {
+        "name": "EChaser",
+        "rel_id": 397,
+        "rel_id2": 397,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 18,
+        "unk4": 0,
+        "rel_name": "d_a_e_tn2"
+    },
+    {
+        "name": "EChb",
+        "rel_id": 391,
+        "rel_id2": 391,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 18,
+        "unk4": 0,
+        "rel_name": "d_a_e_chaser_b"
+    },
+    {
+        "name": "ECptn",
+        "rel_id": 171,
+        "rel_id2": 171,
+        "unk1": 0,
+        "unk2": 47,
+        "unk3": 19,
+        "unk4": 0,
+        "rel_name": "d_a_e_captain"
+    },
+    {
+        "name": "EEye",
+        "rel_id": 351,
+        "rel_id2": 351,
+        "unk1": 2,
+        "unk2": 5,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_e_eye"
+    },
+    {
+        "name": "EGe",
+        "rel_id": 394,
+        "rel_id2": 394,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_ge"
+    },
+    {
+        "name": "EGeko",
+        "rel_id": 344,
+        "rel_id2": 344,
+        "unk1": 0,
+        "unk2": 72,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_e_geko"
+    },
+    {
+        "name": "EGerock",
+        "rel_id": 396,
+        "rel_id2": 396,
+        "unk1": 0,
+        "unk2": 17,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_gerock"
+    },
+    {
+        "name": "EGue",
+        "rel_id": 392,
+        "rel_id2": 392,
+        "unk1": 0,
+        "unk2": 15,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_gue"
+    },
+    {
+        "name": "EGumarm",
+        "rel_id": 110,
+        "rel_id2": 110,
+        "unk1": 0,
+        "unk2": 66,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_gumarm"
+    },
+    {
+        "name": "EGunho",
+        "rel_id": 374,
+        "rel_id2": 374,
+        "unk1": 0,
+        "unk2": 71,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_gunho"
+    },
+    {
+        "name": "EGunhob",
+        "rel_id": 375,
+        "rel_id2": 375,
+        "unk1": 0,
+        "unk2": 87,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_e_gunhob"
+    },
+    {
+        "name": "EHidoK",
+        "rel_id": 371,
+        "rel_id2": 371,
+        "unk1": 0,
+        "unk2": 63,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_hidokari"
+    },
+    {
+        "name": "EHidoS",
+        "rel_id": 372,
+        "rel_id2": 372,
+        "unk1": 0,
+        "unk2": 63,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_e_hidokaris"
+    },
+    {
+        "name": "EHidory",
+        "rel_id": 398,
+        "rel_id2": 398,
+        "unk1": 0,
+        "unk2": 16,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_hidory"
+    },
+    {
+        "name": "EHoc",
+        "rel_id": 378,
+        "rel_id2": 378,
+        "unk1": 0,
+        "unk2": 20,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_hoc"
+    },
+    {
+        "name": "EHp",
+        "rel_id": 390,
+        "rel_id2": 390,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_hp"
+    },
+    {
+        "name": "EHydra",
+        "rel_id": 373,
+        "rel_id2": 373,
+        "unk1": 0,
+        "unk2": 44,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_hydra"
+    },
+    {
+        "name": "EKGira",
+        "rel_id": 380,
+        "rel_id2": 380,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 19,
+        "unk4": 0,
+        "rel_name": "d_a_e_kumite_gira"
+    },
+    {
+        "name": "EKg",
+        "rel_id": 421,
+        "rel_id2": 421,
+        "unk1": 0,
+        "unk2": 8,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_e_kg"
+    },
+    {
+        "name": "EKs",
+        "rel_id": 365,
+        "rel_id2": 365,
+        "unk1": 0,
+        "unk2": 11,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_ks"
+    },
+    {
+        "name": "ELiTail",
+        "rel_id": 370,
+        "rel_id2": 370,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 35,
+        "unk4": 0,
+        "rel_name": "d_a_e_liza_tail"
+    },
+    {
+        "name": "ELizaru",
+        "rel_id": 369,
+        "rel_id2": 369,
+        "unk1": 0,
+        "unk2": 41,
+        "unk3": 13,
+        "unk4": 0,
+        "rel_name": "d_a_e_lizarufos"
+    },
+    {
+        "name": "EMagma",
+        "rel_id": 355,
+        "rel_id2": 355,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_e_magma"
+    },
+    {
+        "name": "EMagupp",
+        "rel_id": 356,
+        "rel_id2": 356,
+        "unk1": 0,
+        "unk2": 74,
+        "unk3": 12,
+        "unk4": 0,
+        "rel_name": "d_a_e_maguppo"
+    },
+    {
+        "name": "EMr",
+        "rel_id": 193,
+        "rel_id2": 193,
+        "unk1": 0,
+        "unk2": 36,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_mr"
+    },
+    {
+        "name": "EMrTate",
+        "rel_id": 420,
+        "rel_id2": 420,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_e_mr_shield"
+    },
+    {
+        "name": "EOc",
+        "rel_id": 379,
+        "rel_id2": 379,
+        "unk1": 0,
+        "unk2": 18,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_oc"
+    },
+    {
+        "name": "EOr",
+        "rel_id": 348,
+        "rel_id2": 348,
+        "unk1": 0,
+        "unk2": 57,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_or"
+    },
+    {
+        "name": "EOrCann",
+        "rel_id": 349,
+        "rel_id2": 349,
+        "unk1": 0,
+        "unk2": 3,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_or_cannon"
+    },
+    {
+        "name": "EPh",
+        "rel_id": 194,
+        "rel_id2": 194,
+        "unk1": 0,
+        "unk2": 81,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_e_ph"
+    },
+    {
+        "name": "EPo",
+        "rel_id": 346,
+        "rel_id2": 346,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 18,
+        "unk4": 0,
+        "rel_name": "d_a_e_po"
+    },
+    {
+        "name": "ERemly",
+        "rel_id": 368,
+        "rel_id2": 368,
+        "unk1": 0,
+        "unk2": 0,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_e_remly"
+    },
+    {
+        "name": "ERupGue",
+        "rel_id": 395,
+        "rel_id2": 395,
+        "unk1": 0,
+        "unk2": 4,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_rupee_gue"
+    },
+    {
+        "name": "ESf",
+        "rel_id": 359,
+        "rel_id2": 359,
+        "unk1": 0,
+        "unk2": 45,
+        "unk3": 19,
+        "unk4": 0,
+        "rel_name": "d_a_e_sf"
+    },
+    {
+        "name": "ESf4",
+        "rel_id": 360,
+        "rel_id2": 360,
+        "unk1": 0,
+        "unk2": 46,
+        "unk3": 19,
+        "unk4": 0,
+        "rel_name": "d_a_e_sf4"
+    },
+    {
+        "name": "ESiren",
+        "rel_id": 345,
+        "rel_id2": 345,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 18,
+        "unk4": 0,
+        "rel_name": "d_a_e_siren"
+    },
+    {
+        "name": "ESktl",
+        "rel_id": 389,
+        "rel_id2": 389,
+        "unk1": 0,
+        "unk2": 2,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_skytail"
+    },
+    {
+        "name": "ESm",
+        "rel_id": 341,
+        "rel_id2": 341,
+        "unk1": 0,
+        "unk2": 59,
+        "unk3": 11,
+        "unk4": 0,
+        "rel_name": "d_a_e_sm"
+    },
+    {
+        "name": "ESpark",
+        "rel_id": 354,
+        "rel_id2": 354,
+        "unk1": 0,
+        "unk2": 67,
+        "unk3": 17,
+        "unk4": 0,
+        "rel_name": "d_a_e_spark"
+    },
+    {
+        "name": "ESyako",
+        "rel_id": 192,
+        "rel_id2": 192,
+        "unk1": 0,
+        "unk2": 68,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_syakomaito"
+    },
+    {
+        "name": "EWs",
+        "rel_id": 400,
+        "rel_id2": 400,
+        "unk1": 0,
+        "unk2": 6,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_a_e_ws"
+    },
+    {
+        "name": "Eel",
+        "rel_id": 324,
+        "rel_id2": 324,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_eel"
+    },
+    {
+        "name": "EffGnT",
+        "rel_id": 550,
+        "rel_id2": 550,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_t_effect_gen"
+    },
+    {
+        "name": "Ehb",
+        "rel_id": 366,
+        "rel_id2": 366,
+        "unk1": 0,
+        "unk2": 78,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_hb"
+    },
+    {
+        "name": "EhbLeaf",
+        "rel_id": 367,
+        "rel_id2": 367,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_e_hb_leaf"
+    },
+    {
+        "name": "ElLight",
+        "rel_id": 562,
+        "rel_id2": 562,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_electric_light"
+    },
+    {
+        "name": "EnCl",
+        "rel_id": 363,
+        "rel_id2": 363,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_control"
+    },
+    {
+        "name": "Est",
+        "rel_id": 361,
+        "rel_id2": 361,
+        "unk1": 0,
+        "unk2": 7,
+        "unk3": 10,
+        "unk4": 0,
+        "rel_name": "d_a_e_st"
+    },
+    {
+        "name": "Estwire",
+        "rel_id": 362,
+        "rel_id2": 362,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_e_st_wire"
+    },
+    {
+        "name": "EvfTag",
+        "rel_id": 697,
+        "rel_id2": 697,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "EvilFld",
+        "rel_id": 77,
+        "rel_id2": 77,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_evil_field"
+    },
+    {
+        "name": "EvntTag",
+        "rel_id": 696,
+        "rel_id2": 696,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "F302Lt",
+        "rel_id": 544,
+        "rel_id2": 544,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_F302_light"
+    },
+    {
+        "name": "F400GaS",
+        "rel_id": 600,
+        "rel_id2": 600,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_F400_gate_seal"
+    },
+    {
+        "name": "F400Gat",
+        "rel_id": 599,
+        "rel_id2": 599,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_F400_gate_leaf"
+    },
+    {
+        "name": "FShutte",
+        "rel_id": 108,
+        "rel_id2": 108,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 39,
+        "unk4": 0,
+        "rel_name": "d_a_obj_shutter_fence"
+    },
+    {
+        "name": "FWall",
+        "rel_id": 536,
+        "rel_id2": 536,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_firewall"
+    },
+    {
+        "name": "Fairy",
+        "rel_id": 506,
+        "rel_id2": 506,
+        "unk1": 2,
+        "unk2": 34,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "FairyTa",
+        "rel_id": 505,
+        "rel_id2": 505,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_fairytag"
+    },
+    {
+        "name": "Fence",
+        "rel_id": 206,
+        "rel_id2": 206,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fence"
+    },
+    {
+        "name": "FenceB2",
+        "rel_id": 59,
+        "rel_id2": 59,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fence_boko2"
+    },
+    {
+        "name": "FenceBk",
+        "rel_id": 58,
+        "rel_id2": 58,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fence_boko"
+    },
+    {
+        "name": "FenceFo",
+        "rel_id": 207,
+        "rel_id2": 207,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_shutter_fence_forbiddance"
+    },
+    {
+        "name": "FenceIr",
+        "rel_id": 41,
+        "rel_id2": 41,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fence_iron"
+    },
+    {
+        "name": "FenceKs",
+        "rel_id": 63,
+        "rel_id2": 63,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fence_konsai"
+    },
+    {
+        "name": "FencePe",
+        "rel_id": 201,
+        "rel_id2": 201,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_shutter_fence_permission"
+    },
+    {
+        "name": "Fire",
+        "rel_id": 495,
+        "rel_id2": 495,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fire"
+    },
+    {
+        "name": "FireObs",
+        "rel_id": 576,
+        "rel_id2": 576,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fire_obstacle"
+    },
+    {
+        "name": "FirePil",
+        "rel_id": 577,
+        "rel_id2": 577,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fire_pillar"
+    },
+    {
+        "name": "Firefly",
+        "rel_id": 458,
+        "rel_id2": 458,
+        "unk1": 3,
+        "unk2": 11,
+        "unk3": 49,
+        "unk4": 0,
+        "rel_name": "d_a_insect_firefly"
+    },
+    {
+        "name": "Fish",
+        "rel_id": 323,
+        "rel_id2": 323,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_fish"
+    },
+    {
+        "name": "Flag",
+        "rel_id": 469,
+        "rel_id2": 469,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_flag"
+    },
+    {
+        "name": "FlvsA",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 13,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "FlvsB",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 14,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "FlvsC",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 15,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "FlySlrb",
+        "rel_id": 312,
+        "rel_id2": 312,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_fly_slb"
+    },
+    {
+        "name": "FlyingC",
+        "rel_id": 198,
+        "rel_id2": 198,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_flying_clawshot_target"
+    },
+    {
+        "name": "Fmaker",
+        "rel_id": 322,
+        "rel_id2": 322,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_fish_mgr"
+    },
+    {
+        "name": "ForceGT",
+        "rel_id": 653,
+        "rel_id2": 653,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "ForceS",
+        "rel_id": 652,
+        "rel_id2": 652,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "Fortune",
+        "rel_id": 568,
+        "rel_id2": 568,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fortune_ring"
+    },
+    {
+        "name": "FrmLand",
+        "rel_id": 162,
+        "rel_id2": 162,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_farmland"
+    },
+    {
+        "name": "FrtTree",
+        "rel_id": 161,
+        "rel_id2": 161,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fruit_tree"
+    },
+    {
+        "name": "FruitA",
+        "rel_id": 445,
+        "rel_id2": 445,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 1,
+        "rel_name": "d_a_obj_fruit"
+    },
+    {
+        "name": "FruitB",
+        "rel_id": 474,
+        "rel_id2": 474,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fruitB"
+    },
+    {
+        "name": "GateGnd",
+        "rel_id": 629,
+        "rel_id2": 629,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_gate_to_ground"
+    },
+    {
+        "name": "Gcoil",
+        "rel_id": 493,
+        "rel_id2": 493,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_grass_coil"
+    },
+    {
+        "name": "Gear",
+        "rel_id": 125,
+        "rel_id2": 125,
+        "unk1": 2,
+        "unk2": 13,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_gear"
+    },
+    {
+        "name": "GekoTag",
+        "rel_id": 343,
+        "rel_id2": 343,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_gekotag"
+    },
+    {
+        "name": "GenkiDT",
+        "rel_id": 640,
+        "rel_id2": 640,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_genki_dws_tgt"
+    },
+    {
+        "name": "GhFlr",
+        "rel_id": 153,
+        "rel_id2": 153,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_girahimu_floor"
+    },
+    {
+        "name": "GhSBeam",
+        "rel_id": 412,
+        "rel_id2": 412,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 29,
+        "unk4": 0,
+        "rel_name": "d_a_girahimu_sword_beam"
+    },
+    {
+        "name": "GiraFot",
+        "rel_id": 589,
+        "rel_id2": 589,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_girahim_foot"
+    },
+    {
+        "name": "GkMgTag",
+        "rel_id": 212,
+        "rel_id2": 212,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "GodCube",
+        "rel_id": 539,
+        "rel_id2": 539,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_goddess_cube"
+    },
+    {
+        "name": "GodMark",
+        "rel_id": 586,
+        "rel_id2": 586,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_god_mark"
+    },
+    {
+        "name": "GrCover",
+        "rel_id": 582,
+        "rel_id2": 582,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ground_cover"
+    },
+    {
+        "name": "Grave",
+        "rel_id": 151,
+        "rel_id2": 151,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_grave"
+    },
+    {
+        "name": "GroupS",
+        "rel_id": 339,
+        "rel_id2": 339,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_group_summon"
+    },
+    {
+        "name": "GroupT",
+        "rel_id": 338,
+        "rel_id2": 338,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_group_test"
+    },
+    {
+        "name": "Grshpr",
+        "rel_id": 453,
+        "rel_id2": 453,
+        "unk1": 3,
+        "unk2": 4,
+        "unk3": 49,
+        "unk4": 0,
+        "rel_name": "d_a_insect_grasshopper"
+    },
+    {
+        "name": "GuardLg",
+        "rel_id": 578,
+        "rel_id2": 578,
+        "unk1": 2,
+        "unk2": 32,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_guard_log"
+    },
+    {
+        "name": "GueB",
+        "rel_id": 393,
+        "rel_id2": 393,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 42,
+        "unk4": 0,
+        "rel_name": "d_a_bullet_gue"
+    },
+    {
+        "name": "HdrFire",
+        "rel_id": 399,
+        "rel_id2": 399,
+        "unk1": 0,
+        "unk2": 16,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_hidory_fire"
+    },
+    {
+        "name": "HeartCo",
+        "rel_id": 642,
+        "rel_id2": 642,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 35,
+        "unk4": 0,
+        "rel_name": "d_a_obj_item_heart_container"
+    },
+    {
+        "name": "Heartf",
+        "rel_id": 424,
+        "rel_id2": 424,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_heartf"
+    },
+    {
+        "name": "HeatRst",
+        "rel_id": 611,
+        "rel_id2": 611,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_heat_resist"
+    },
+    {
+        "name": "Himo",
+        "rel_id": 26,
+        "rel_id2": 26,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_himo"
+    },
+    {
+        "name": "HitLVSW",
+        "rel_id": 40,
+        "rel_id2": 40,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_hit_lever_sw"
+    },
+    {
+        "name": "HnComb",
+        "rel_id": 422,
+        "rel_id2": 422,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_npc_honeycomb"
+    },
+    {
+        "name": "HoleMNG",
+        "rel_id": 565,
+        "rel_id2": 565,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_hole_minigame"
+    },
+    {
+        "name": "HolyWtr",
+        "rel_id": 612,
+        "rel_id2": 612,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_holy_water"
+    },
+    {
+        "name": "HrpHint",
+        "rel_id": 543,
+        "rel_id2": 543,
+        "unk1": 2,
+        "unk2": 43,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_harp_hint"
+    },
+    {
+        "name": "HrpTg",
+        "rel_id": 537,
+        "rel_id2": 537,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 57,
+        "unk4": 0,
+        "rel_name": "d_t_harp"
+    },
+    {
+        "name": "ImpaDor",
+        "rel_id": 587,
+        "rel_id2": 587,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_impa_door"
+    },
+    {
+        "name": "InHole",
+        "rel_id": 353,
+        "rel_id2": 353,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 33,
+        "unk4": 0,
+        "rel_name": "d_a_obj_into_hole"
+    },
+    {
+        "name": "InsctTg",
+        "rel_id": 449,
+        "rel_id2": 449,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_insect"
+    },
+    {
+        "name": "Invisi",
+        "rel_id": 419,
+        "rel_id2": 419,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_invisible"
+    },
+    {
+        "name": "IronStg",
+        "rel_id": 49,
+        "rel_id2": 49,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_iron_stage"
+    },
+    {
+        "name": "IslBamb",
+        "rel_id": 80,
+        "rel_id2": 80,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bamboo_island"
+    },
+    {
+        "name": "IslIns",
+        "rel_id": 69,
+        "rel_id2": 69,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_insect_island"
+    },
+    {
+        "name": "IslLOD",
+        "rel_id": 590,
+        "rel_id2": 590,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_island_LOD"
+    },
+    {
+        "name": "IslMegm",
+        "rel_id": 78,
+        "rel_id2": 78,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_megami_island"
+    },
+    {
+        "name": "IslNusi",
+        "rel_id": 85,
+        "rel_id2": 85,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_island_nusi"
+    },
+    {
+        "name": "IslTery",
+        "rel_id": 68,
+        "rel_id2": 68,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_terry_island"
+    },
+    {
+        "name": "IslTreB",
+        "rel_id": 87,
+        "rel_id2": 87,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_treasure_island_b"
+    },
+    {
+        "name": "IslTrea",
+        "rel_id": 75,
+        "rel_id2": 75,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_treasure_island"
+    },
+    {
+        "name": "Item",
+        "rel_id": 641,
+        "rel_id2": 641,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 35,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "IvyRope",
+        "rel_id": 492,
+        "rel_id2": 492,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ivy_rope"
+    },
+    {
+        "name": "J_Test",
+        "rel_id": 334,
+        "rel_id2": 334,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_morita_test"
+    },
+    {
+        "name": "JunkRep",
+        "rel_id": 558,
+        "rel_id2": 558,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_junk_repairing"
+    },
+    {
+        "name": "Kanban",
+        "rel_id": 430,
+        "rel_id2": 430,
+        "unk1": 2,
+        "unk2": 1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_kanban"
+    },
+    {
+        "name": "KanbanS",
+        "rel_id": 487,
+        "rel_id2": 487,
+        "unk1": 2,
+        "unk2": 2,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_kanban_stone"
+    },
+    {
+        "name": "Kibako",
+        "rel_id": 20,
+        "rel_id2": 20,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_kibako"
+    },
+    {
+        "name": "KiesuTa",
+        "rel_id": 364,
+        "rel_id2": 364,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 15,
+        "unk4": 0,
+        "rel_name": "d_t_ks"
+    },
+    {
+        "name": "Kinoko",
+        "rel_id": 443,
+        "rel_id2": 443,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_mushroom"
+    },
+    {
+        "name": "KinokoA",
+        "rel_id": 443,
+        "rel_id2": 443,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 1,
+        "rel_name": "d_a_obj_mushroom"
+    },
+    {
+        "name": "KinokoB",
+        "rel_id": 443,
+        "rel_id2": 443,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 2,
+        "rel_name": "d_a_obj_mushroom"
+    },
+    {
+        "name": "KinokoC",
+        "rel_id": 443,
+        "rel_id2": 443,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 3,
+        "rel_name": "d_a_obj_mushroom"
+    },
+    {
+        "name": "KinokoD",
+        "rel_id": 443,
+        "rel_id2": 443,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 4,
+        "rel_name": "d_a_obj_mushroom"
+    },
+    {
+        "name": "KmtWall",
+        "rel_id": 96,
+        "rel_id2": 96,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_kumite_wall"
+    },
+    {
+        "name": "KndBird",
+        "rel_id": 305,
+        "rel_id2": 305,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_knight_leader_bird"
+    },
+    {
+        "name": "Kuwagat",
+        "rel_id": 452,
+        "rel_id2": 452,
+        "unk1": 3,
+        "unk2": 3,
+        "unk3": 49,
+        "unk4": 1,
+        "rel_name": "d_a_insect_beetle"
+    },
+    {
+        "name": "Kytag",
+        "rel_id": 663,
+        "rel_id2": 663,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_kytag"
+    },
+    {
+        "name": "LBird",
+        "rel_id": 321,
+        "rel_id2": 321,
+        "unk1": 1,
+        "unk2": -33,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_little_bird"
+    },
+    {
+        "name": "LBmaker",
+        "rel_id": 320,
+        "rel_id2": 320,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 59,
+        "unk4": 0,
+        "rel_name": "d_a_little_bird_mgr"
+    },
+    {
+        "name": "LHHarp",
+        "rel_id": 62,
+        "rel_id2": 62,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_lighthouse_harp"
+    },
+    {
+        "name": "LHLight",
+        "rel_id": 573,
+        "rel_id2": 573,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_lighthouse_light"
+    },
+    {
+        "name": "LSEff",
+        "rel_id": 189,
+        "rel_id2": 189,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_light_shaft_eff"
+    },
+    {
+        "name": "Ladybug",
+        "rel_id": 450,
+        "rel_id2": 450,
+        "unk1": 3,
+        "unk2": 1,
+        "unk3": 49,
+        "unk4": 0,
+        "rel_name": "d_a_insect_ladybug"
+    },
+    {
+        "name": "LampA",
+        "rel_id": 463,
+        "rel_id2": 463,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 1,
+        "rel_name": "d_a_obj_lamp"
+    },
+    {
+        "name": "LampB",
+        "rel_id": 463,
+        "rel_id2": 463,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 2,
+        "rel_name": "d_a_obj_lamp"
+    },
+    {
+        "name": "LampC",
+        "rel_id": 463,
+        "rel_id2": 463,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 3,
+        "rel_name": "d_a_obj_lamp"
+    },
+    {
+        "name": "LampD",
+        "rel_id": 463,
+        "rel_id2": 463,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 6,
+        "rel_name": "d_a_obj_lamp"
+    },
+    {
+        "name": "LampE",
+        "rel_id": 463,
+        "rel_id2": 463,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 4,
+        "rel_name": "d_a_obj_lamp"
+    },
+    {
+        "name": "LampF",
+        "rel_id": 463,
+        "rel_id2": 463,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 5,
+        "rel_name": "d_a_obj_lamp"
+    },
+    {
+        "name": "LavF200",
+        "rel_id": 592,
+        "rel_id2": 592,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_lava_F200"
+    },
+    {
+        "name": "LbTnder",
+        "rel_id": 664,
+        "rel_id2": 664,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_lb_thunder"
+    },
+    {
+        "name": "LeafGut",
+        "rel_id": 644,
+        "rel_id2": 644,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fruit_guts_leaf"
+    },
+    {
+        "name": "LeafSwg",
+        "rel_id": 100,
+        "rel_id2": 100,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_leaf_swing"
+    },
+    {
+        "name": "Light00",
+        "rel_id": 515,
+        "rel_id2": 515,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 1,
+        "rel_name": "d_a_obj_building"
+    },
+    {
+        "name": "LightLi",
+        "rel_id": 187,
+        "rel_id2": 187,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 41,
+        "unk4": 0,
+        "rel_name": "d_a_obj_light_line"
+    },
+    {
+        "name": "Link",
+        "rel_id": 200,
+        "rel_id2": 200,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 0,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "Log",
+        "rel_id": 21,
+        "rel_id2": 21,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_log"
+    },
+    {
+        "name": "LogWtr",
+        "rel_id": 22,
+        "rel_id2": 22,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_log_water"
+    },
+    {
+        "name": "Lotus",
+        "rel_id": 132,
+        "rel_id2": 132,
+        "unk1": 2,
+        "unk2": 9,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_lotus"
+    },
+    {
+        "name": "LtSftS",
+        "rel_id": 188,
+        "rel_id2": 188,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 41,
+        "unk4": 0,
+        "rel_name": "d_a_obj_light_shaft_small"
+    },
+    {
+        "name": "LtsFlwr",
+        "rel_id": 460,
+        "rel_id2": 460,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_lotus_flower"
+    },
+    {
+        "name": "LtsSeed",
+        "rel_id": 461,
+        "rel_id2": 461,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_lotus_seed"
+    },
+    {
+        "name": "LvD201",
+        "rel_id": 542,
+        "rel_id2": 542,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_lava_d201"
+    },
+    {
+        "name": "LvPlt",
+        "rel_id": 144,
+        "rel_id2": 144,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_lava_plate"
+    },
+    {
+        "name": "MDvTg",
+        "rel_id": 190,
+        "rel_id2": 190,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_megami_diving"
+    },
+    {
+        "name": "MagBoat",
+        "rel_id": 140,
+        "rel_id2": 140,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_rock_boat"
+    },
+    {
+        "name": "MagpB",
+        "rel_id": 357,
+        "rel_id2": 357,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 30,
+        "unk4": 0,
+        "rel_name": "d_a_bullet_maguppo"
+    },
+    {
+        "name": "Mantis",
+        "rel_id": 453,
+        "rel_id2": 453,
+        "unk1": 3,
+        "unk2": 5,
+        "unk3": 49,
+        "unk4": 1,
+        "rel_name": "d_a_insect_grasshopper"
+    },
+    {
+        "name": "MapArea",
+        "rel_id": 10,
+        "rel_id2": 10,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "MapInst",
+        "rel_id": 605,
+        "rel_id2": 605,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_map_inst"
+    },
+    {
+        "name": "MapMark",
+        "rel_id": 548,
+        "rel_id2": 548,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_map_mark"
+    },
+    {
+        "name": "MassTag",
+        "rel_id": 618,
+        "rel_id2": 618,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "Message",
+        "rel_id": 671,
+        "rel_id2": 671,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_message"
+    },
+    {
+        "name": "MgPmpkn",
+        "rel_id": 468,
+        "rel_id2": 468,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_mg_pumpkin"
+    },
+    {
+        "name": "MistTg",
+        "rel_id": 660,
+        "rel_id2": 660,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_mist"
+    },
+    {
+        "name": "MoMgTag",
+        "rel_id": 291,
+        "rel_id2": 291,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_mole_mgr"
+    },
+    {
+        "name": "MoSoil",
+        "rel_id": 319,
+        "rel_id2": 319,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_mole_soil"
+    },
+    {
+        "name": "MoleCvr",
+        "rel_id": 93,
+        "rel_id2": 93,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_mole_cover"
+    },
+    {
+        "name": "MoleTag",
+        "rel_id": 636,
+        "rel_id2": 636,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_mole_prohibit"
+    },
+    {
+        "name": "MpParts",
+        "rel_id": 601,
+        "rel_id2": 601,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_mapparts"
+    },
+    {
+        "name": "MssbTag",
+        "rel_id": 604,
+        "rel_id2": 604,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_musasabi"
+    },
+    {
+        "name": "Musasab",
+        "rel_id": 567,
+        "rel_id2": 567,
+        "unk1": 1,
+        "unk2": 65,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_musasabi"
+    },
+    {
+        "name": "MvElc",
+        "rel_id": 541,
+        "rel_id2": 541,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_move_elec"
+    },
+    {
+        "name": "MvLiftV",
+        "rel_id": 103,
+        "rel_id2": 103,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_move_lift_vol"
+    },
+    {
+        "name": "NpcAdr",
+        "rel_id": 279,
+        "rel_id2": 279,
+        "unk1": 1,
+        "unk2": 54,
+        "unk3": 52,
+        "unk4": 0,
+        "rel_name": "d_a_npc_aqua_dragon"
+    },
+    {
+        "name": "NpcAkuH",
+        "rel_id": 287,
+        "rel_id2": 287,
+        "unk1": 1,
+        "unk2": 90,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_aku_human"
+    },
+    {
+        "name": "NpcAkum",
+        "rel_id": 286,
+        "rel_id2": 286,
+        "unk1": 1,
+        "unk2": 23,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_akumakun"
+    },
+    {
+        "name": "NpcAzFa",
+        "rel_id": 254,
+        "rel_id2": 254,
+        "unk1": 1,
+        "unk2": 42,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_azukariya_father"
+    },
+    {
+        "name": "NpcAzNi",
+        "rel_id": 245,
+        "rel_id2": 245,
+        "unk1": 1,
+        "unk2": -48,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_azukariya_night"
+    },
+    {
+        "name": "NpcBRvl",
+        "rel_id": 328,
+        "rel_id2": 328,
+        "unk1": 1,
+        "unk2": 5,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_bbrvl"
+    },
+    {
+        "name": "NpcBdsw",
+        "rel_id": 257,
+        "rel_id2": 257,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_bird_sowoman"
+    },
+    {
+        "name": "NpcBdz",
+        "rel_id": 261,
+        "rel_id2": 261,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_bird_zelda"
+    },
+    {
+        "name": "NpcBgr",
+        "rel_id": 264,
+        "rel_id2": 264,
+        "unk1": 1,
+        "unk2": 42,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_bamboo_goron"
+    },
+    {
+        "name": "NpcBird",
+        "rel_id": 401,
+        "rel_id2": 401,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_bird"
+    },
+    {
+        "name": "NpcCbFd",
+        "rel_id": 227,
+        "rel_id2": 227,
+        "unk1": 1,
+        "unk2": 22,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_ce_friend"
+    },
+    {
+        "name": "NpcCbLd",
+        "rel_id": 228,
+        "rel_id2": 228,
+        "unk1": 1,
+        "unk2": 29,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_ce_lady"
+    },
+    {
+        "name": "NpcChef",
+        "rel_id": 299,
+        "rel_id2": 299,
+        "unk1": 1,
+        "unk2": 43,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_chef"
+    },
+    {
+        "name": "NpcDgJg",
+        "rel_id": 304,
+        "rel_id2": 304,
+        "unk1": 1,
+        "unk2": 16,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_dive_game_judge"
+    },
+    {
+        "name": "NpcDoML",
+        "rel_id": 247,
+        "rel_id2": 247,
+        "unk1": 1,
+        "unk2": 38,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_douguya_mother_lod"
+    },
+    {
+        "name": "NpcDoMo",
+        "rel_id": 246,
+        "rel_id2": 246,
+        "unk1": 1,
+        "unk2": 38,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_douguya_mother"
+    },
+    {
+        "name": "NpcDoNi",
+        "rel_id": 241,
+        "rel_id2": 241,
+        "unk1": 1,
+        "unk2": -50,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_douguyanight"
+    },
+    {
+        "name": "NpcDrb",
+        "rel_id": 225,
+        "rel_id2": 225,
+        "unk1": 1,
+        "unk2": 63,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_desertrobot"
+    },
+    {
+        "name": "NpcDrbC",
+        "rel_id": 226,
+        "rel_id2": 226,
+        "unk1": 1,
+        "unk2": 64,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_desertrobot_captain"
+    },
+    {
+        "name": "NpcDsk",
+        "rel_id": 224,
+        "rel_id2": 224,
+        "unk1": 1,
+        "unk2": 2,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_daishinkan"
+    },
+    {
+        "name": "NpcDskN",
+        "rel_id": 255,
+        "rel_id2": 255,
+        "unk1": 1,
+        "unk2": 84,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_daishinkan_n"
+    },
+    {
+        "name": "NpcFdr",
+        "rel_id": 273,
+        "rel_id2": 273,
+        "unk1": 1,
+        "unk2": 62,
+        "unk3": 52,
+        "unk4": 0,
+        "rel_name": "d_a_npc_fire_dragon"
+    },
+    {
+        "name": "NpcGhm",
+        "rel_id": 280,
+        "rel_id2": 280,
+        "unk1": 1,
+        "unk2": 67,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_girahim"
+    },
+    {
+        "name": "NpcGost",
+        "rel_id": 229,
+        "rel_id2": 229,
+        "unk1": 1,
+        "unk2": 44,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_toilet_ghost"
+    },
+    {
+        "name": "NpcGra",
+        "rel_id": 282,
+        "rel_id2": 282,
+        "unk1": 1,
+        "unk2": 46,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_gra"
+    },
+    {
+        "name": "NpcGrc",
+        "rel_id": 283,
+        "rel_id2": 283,
+        "unk1": 1,
+        "unk2": 74,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_grc"
+    },
+    {
+        "name": "NpcGrd",
+        "rel_id": 284,
+        "rel_id2": 284,
+        "unk1": 1,
+        "unk2": 75,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_grd"
+    },
+    {
+        "name": "NpcGzl",
+        "rel_id": 222,
+        "rel_id2": 222,
+        "unk1": 1,
+        "unk2": 1,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_goddess_zelda"
+    },
+    {
+        "name": "NpcIcgK",
+        "rel_id": 271,
+        "rel_id2": 271,
+        "unk1": 1,
+        "unk2": -52,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_insect_capture_game_kobun"
+    },
+    {
+        "name": "NpcInv",
+        "rel_id": 668,
+        "rel_id2": 668,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "NpcJkML",
+        "rel_id": 249,
+        "rel_id2": 249,
+        "unk1": 1,
+        "unk2": 39,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_junk_mother_lod"
+    },
+    {
+        "name": "NpcJkMo",
+        "rel_id": 248,
+        "rel_id2": 248,
+        "unk1": 1,
+        "unk2": 39,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_junk_mother"
+    },
+    {
+        "name": "NpcJkNi",
+        "rel_id": 244,
+        "rel_id2": 244,
+        "unk1": 1,
+        "unk2": -49,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_junk_night"
+    },
+    {
+        "name": "NpcKb2N",
+        "rel_id": 219,
+        "rel_id2": 219,
+        "unk1": 1,
+        "unk2": -53,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_kobun_b_night"
+    },
+    {
+        "name": "NpcKbn",
+        "rel_id": 217,
+        "rel_id2": 217,
+        "unk1": 1,
+        "unk2": 6,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_kobun"
+    },
+    {
+        "name": "NpcKbn2",
+        "rel_id": 218,
+        "rel_id2": 218,
+        "unk1": 1,
+        "unk2": 7,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_kobun2"
+    },
+    {
+        "name": "NpcKen",
+        "rel_id": 259,
+        "rel_id2": 259,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 44,
+        "unk4": 0,
+        "rel_name": "d_a_npc_kensei"
+    },
+    {
+        "name": "NpcKenT",
+        "rel_id": 260,
+        "rel_id2": 260,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 44,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "NpcKnld",
+        "rel_id": 306,
+        "rel_id2": 306,
+        "unk1": 1,
+        "unk2": 15,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_knight_leader"
+    },
+    {
+        "name": "NpcKyuE",
+        "rel_id": 236,
+        "rel_id2": 236,
+        "unk1": 1,
+        "unk2": 51,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_kyui_elder"
+    },
+    {
+        "name": "NpcKyuW",
+        "rel_id": 233,
+        "rel_id2": 233,
+        "unk1": 1,
+        "unk2": 52,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_kyui_wizard"
+    },
+    {
+        "name": "NpcMHNi",
+        "rel_id": 243,
+        "rel_id2": 243,
+        "unk1": 1,
+        "unk2": -46,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_medicine_husband_night"
+    },
+    {
+        "name": "NpcMWNi",
+        "rel_id": 242,
+        "rel_id2": 242,
+        "unk1": 1,
+        "unk2": -47,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_medicinewifenight"
+    },
+    {
+        "name": "NpcMlMg",
+        "rel_id": 292,
+        "rel_id2": 292,
+        "unk1": 1,
+        "unk2": 57,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_mole_mg"
+    },
+    {
+        "name": "NpcMoEN",
+        "rel_id": 296,
+        "rel_id2": 296,
+        "unk1": 1,
+        "unk2": 89,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_mole_es_nml"
+    },
+    {
+        "name": "NpcMoEl",
+        "rel_id": 315,
+        "rel_id2": 315,
+        "unk1": 1,
+        "unk2": 61,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_mole_elder"
+    },
+    {
+        "name": "NpcMoN",
+        "rel_id": 294,
+        "rel_id2": 294,
+        "unk1": 1,
+        "unk2": 56,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_mole_normal"
+    },
+    {
+        "name": "NpcMoN2",
+        "rel_id": 295,
+        "rel_id2": 295,
+        "unk1": 1,
+        "unk2": 56,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_mole_normal2"
+    },
+    {
+        "name": "NpcMoS",
+        "rel_id": 317,
+        "rel_id2": 317,
+        "unk1": 1,
+        "unk2": -38,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_mole_sal"
+    },
+    {
+        "name": "NpcMoT",
+        "rel_id": 297,
+        "rel_id2": 297,
+        "unk1": 1,
+        "unk2": 59,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_mole_tackle"
+    },
+    {
+        "name": "NpcMoT2",
+        "rel_id": 298,
+        "rel_id2": 298,
+        "unk1": 1,
+        "unk2": 60,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_mole_tackle2"
+    },
+    {
+        "name": "NpcMole",
+        "rel_id": 293,
+        "rel_id2": 293,
+        "unk1": 1,
+        "unk2": 89,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_mole"
+    },
+    {
+        "name": "NpcOim",
+        "rel_id": 262,
+        "rel_id2": 262,
+        "unk1": 1,
+        "unk2": 45,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_old_impa"
+    },
+    {
+        "name": "NpcOkyu",
+        "rel_id": 235,
+        "rel_id2": 235,
+        "unk1": 1,
+        "unk2": 48,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_ord_kyui"
+    },
+    {
+        "name": "NpcPcs",
+        "rel_id": 272,
+        "rel_id2": 272,
+        "unk1": 1,
+        "unk2": -43,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_pumpkin_clay_shooting"
+    },
+    {
+        "name": "NpcPdu",
+        "rel_id": 270,
+        "rel_id2": 270,
+        "unk1": 1,
+        "unk2": 18,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_pumpkin_daughter"
+    },
+    {
+        "name": "NpcPma",
+        "rel_id": 269,
+        "rel_id2": 269,
+        "unk1": 1,
+        "unk2": 17,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_pumpkin_master"
+    },
+    {
+        "name": "NpcResc",
+        "rel_id": 310,
+        "rel_id2": 310,
+        "unk1": 1,
+        "unk2": 35,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_rescue"
+    },
+    {
+        "name": "NpcRvl",
+        "rel_id": 215,
+        "rel_id2": 215,
+        "unk1": 1,
+        "unk2": 5,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_rival"
+    },
+    {
+        "name": "NpcRvlL",
+        "rel_id": 216,
+        "rel_id2": 216,
+        "unk1": 1,
+        "unk2": 5,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_rival_lod"
+    },
+    {
+        "name": "NpcRvlR",
+        "rel_id": 309,
+        "rel_id2": 309,
+        "unk1": 1,
+        "unk2": 5,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_regret_rival"
+    },
+    {
+        "name": "NpcSAML",
+        "rel_id": 251,
+        "rel_id2": 251,
+        "unk1": 1,
+        "unk2": 40,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_senpaia_mother_lod"
+    },
+    {
+        "name": "NpcSAMo",
+        "rel_id": 250,
+        "rel_id2": 250,
+        "unk1": 1,
+        "unk2": 40,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_senpaia_mother"
+    },
+    {
+        "name": "NpcSMnD",
+        "rel_id": 253,
+        "rel_id2": 253,
+        "unk1": 1,
+        "unk2": 41,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_sorajima_man_d"
+    },
+    {
+        "name": "NpcSMnE",
+        "rel_id": 252,
+        "rel_id2": 252,
+        "unk1": 1,
+        "unk2": 80,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_sorajima_man_e"
+    },
+    {
+        "name": "NpcSalS",
+        "rel_id": 240,
+        "rel_id2": 240,
+        "unk1": 1,
+        "unk2": 9,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_salesman_s"
+    },
+    {
+        "name": "NpcSenb",
+        "rel_id": 308,
+        "rel_id2": 308,
+        "unk1": 1,
+        "unk2": 21,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_senpai_b"
+    },
+    {
+        "name": "NpcSenp",
+        "rel_id": 307,
+        "rel_id2": 307,
+        "unk1": 1,
+        "unk2": 20,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_senpai"
+    },
+    {
+        "name": "NpcSha",
+        "rel_id": 281,
+        "rel_id2": 281,
+        "unk1": 1,
+        "unk2": 19,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_uranaiya"
+    },
+    {
+        "name": "NpcSkn",
+        "rel_id": 220,
+        "rel_id2": 220,
+        "unk1": 1,
+        "unk2": 3,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_shinkan"
+    },
+    {
+        "name": "NpcSkn2",
+        "rel_id": 221,
+        "rel_id2": 221,
+        "unk1": 1,
+        "unk2": 4,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_shinkan2"
+    },
+    {
+        "name": "NpcSlFB",
+        "rel_id": 300,
+        "rel_id2": 300,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_salbage_robot_fly_base"
+    },
+    {
+        "name": "NpcSlFl",
+        "rel_id": 302,
+        "rel_id2": 302,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_salbage_robot_fly"
+    },
+    {
+        "name": "NpcSlKy",
+        "rel_id": 316,
+        "rel_id2": 316,
+        "unk1": 1,
+        "unk2": 48,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_salbage_morry"
+    },
+    {
+        "name": "NpcSlRp",
+        "rel_id": 301,
+        "rel_id2": 301,
+        "unk1": 1,
+        "unk2": -35,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_salbage_robot_repair"
+    },
+    {
+        "name": "NpcSlb2",
+        "rel_id": 266,
+        "rel_id2": 266,
+        "unk1": 1,
+        "unk2": 98,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_volcano_f2_salbo"
+    },
+    {
+        "name": "NpcSlrb",
+        "rel_id": 311,
+        "rel_id2": 311,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_salbage_robot"
+    },
+    {
+        "name": "NpcSltk",
+        "rel_id": 265,
+        "rel_id2": 265,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_npc_saltalk"
+    },
+    {
+        "name": "NpcSma2",
+        "rel_id": 268,
+        "rel_id2": 268,
+        "unk1": 1,
+        "unk2": 30,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_sorajima_male2"
+    },
+    {
+        "name": "NpcSma3",
+        "rel_id": 267,
+        "rel_id2": 267,
+        "unk1": 1,
+        "unk2": 31,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_sorajima_male3"
+    },
+    {
+        "name": "NpcSoBo",
+        "rel_id": 285,
+        "rel_id2": 285,
+        "unk1": 1,
+        "unk2": 28,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_sorajima_boy"
+    },
+    {
+        "name": "NpcSoFa",
+        "rel_id": 230,
+        "rel_id2": 230,
+        "unk1": 1,
+        "unk2": 26,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_sorajima_father"
+    },
+    {
+        "name": "NpcSoG",
+        "rel_id": 232,
+        "rel_id2": 232,
+        "unk1": 1,
+        "unk2": 32,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_sorajima_girl"
+    },
+    {
+        "name": "NpcSoMo",
+        "rel_id": 231,
+        "rel_id2": 231,
+        "unk1": 1,
+        "unk2": 27,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_sorajima_mother"
+    },
+    {
+        "name": "NpcSoma",
+        "rel_id": 256,
+        "rel_id2": 256,
+        "unk1": 1,
+        "unk2": 25,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_sorajima_male"
+    },
+    {
+        "name": "NpcSowo",
+        "rel_id": 258,
+        "rel_id2": 258,
+        "unk1": 1,
+        "unk2": 24,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_sorajima_female"
+    },
+    {
+        "name": "NpcStr",
+        "rel_id": 670,
+        "rel_id2": 670,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "NpcSui",
+        "rel_id": 288,
+        "rel_id2": 288,
+        "unk1": 1,
+        "unk2": 88,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_suisei"
+    },
+    {
+        "name": "NpcSuiN",
+        "rel_id": 290,
+        "rel_id2": 290,
+        "unk1": 1,
+        "unk2": 53,
+        "unk3": 50,
+        "unk4": 0,
+        "rel_name": "d_a_npc_suisei_normal"
+    },
+    {
+        "name": "NpcSuiS",
+        "rel_id": 289,
+        "rel_id2": 289,
+        "unk1": 1,
+        "unk2": 53,
+        "unk3": 43,
+        "unk4": 0,
+        "rel_name": "d_a_npc_suisei_sub"
+    },
+    {
+        "name": "NpcTdr",
+        "rel_id": 274,
+        "rel_id2": 274,
+        "unk1": 1,
+        "unk2": 66,
+        "unk3": 52,
+        "unk4": 0,
+        "rel_name": "d_a_npc_thunder_dragon"
+    },
+    {
+        "name": "NpcTdrB",
+        "rel_id": 276,
+        "rel_id2": 276,
+        "unk1": 1,
+        "unk2": 66,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_npc_thunder_dragon_bone"
+    },
+    {
+        "name": "NpcTds",
+        "rel_id": 275,
+        "rel_id2": 275,
+        "unk1": 1,
+        "unk2": -34,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_npc_thunder_dragon_skull"
+    },
+    {
+        "name": "NpcTer",
+        "rel_id": 303,
+        "rel_id2": 303,
+        "unk1": 1,
+        "unk2": 8,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_terry"
+    },
+    {
+        "name": "NpcTke",
+        "rel_id": 669,
+        "rel_id2": 669,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "NpcTmn",
+        "rel_id": 239,
+        "rel_id2": 239,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_npc_testman"
+    },
+    {
+        "name": "NpcYim",
+        "rel_id": 263,
+        "rel_id2": 263,
+        "unk1": 1,
+        "unk2": 55,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_young_impa"
+    },
+    {
+        "name": "NpcZld",
+        "rel_id": 223,
+        "rel_id2": 223,
+        "unk1": 1,
+        "unk2": 0,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_zelda"
+    },
+    {
+        "name": "Npckyu1",
+        "rel_id": 234,
+        "rel_id2": 234,
+        "unk1": 1,
+        "unk2": 47,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_kyui_first"
+    },
+    {
+        "name": "Npckyu3",
+        "rel_id": 237,
+        "rel_id2": 237,
+        "unk1": 1,
+        "unk2": 49,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_kyui_third"
+    },
+    {
+        "name": "Npckyu4",
+        "rel_id": 238,
+        "rel_id2": 238,
+        "unk1": 1,
+        "unk2": 50,
+        "unk3": 51,
+        "unk4": 0,
+        "rel_name": "d_a_npc_kyui4"
+    },
+    {
+        "name": "NusiB",
+        "rel_id": 184,
+        "rel_id2": 184,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 23,
+        "unk4": 0,
+        "rel_name": "d_a_b_nusi"
+    },
+    {
+        "name": "NusiBt",
+        "rel_id": 186,
+        "rel_id2": 186,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 29,
+        "unk4": 0,
+        "rel_name": "d_a_b_nusi_bullet"
+    },
+    {
+        "name": "NusiNpc",
+        "rel_id": 183,
+        "rel_id2": 183,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 46,
+        "unk4": 0,
+        "rel_name": "d_a_nusi_npc"
+    },
+    {
+        "name": "NusiS",
+        "rel_id": 182,
+        "rel_id2": 182,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_nusi_base"
+    },
+    {
+        "name": "NusiT",
+        "rel_id": 185,
+        "rel_id2": 185,
+        "unk1": 0,
+        "unk2": 5,
+        "unk3": 19,
+        "unk4": 0,
+        "rel_name": "d_a_b_nusi_tentakle"
+    },
+    {
+        "name": "OBBLBom",
+        "rel_id": 330,
+        "rel_id2": 330,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bblargebomb"
+    },
+    {
+        "name": "OBBStn",
+        "rel_id": 331,
+        "rel_id2": 331,
+        "unk1": 2,
+        "unk2": 45,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bbstone"
+    },
+    {
+        "name": "ODesert",
+        "rel_id": 126,
+        "rel_id2": 126,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_desert"
+    },
+    {
+        "name": "OGhKf",
+        "rel_id": 410,
+        "rel_id2": 410,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 29,
+        "unk4": 0,
+        "rel_name": "d_a_obj_girahimu_knife"
+    },
+    {
+        "name": "OGhSwL",
+        "rel_id": 409,
+        "rel_id2": 409,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_girahimu_sword_link"
+    },
+    {
+        "name": "OHole",
+        "rel_id": 352,
+        "rel_id2": 352,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_hole"
+    },
+    {
+        "name": "OPipe",
+        "rel_id": 381,
+        "rel_id2": 381,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 35,
+        "unk4": 0,
+        "rel_name": "d_a_obj_pipe"
+    },
+    {
+        "name": "ORing",
+        "rel_id": 347,
+        "rel_id2": 347,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ring"
+    },
+    {
+        "name": "ObjBg",
+        "rel_id": 210,
+        "rel_id2": 210,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_bg"
+    },
+    {
+        "name": "ObjBld",
+        "rel_id": 515,
+        "rel_id2": 515,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_building"
+    },
+    {
+        "name": "Obstacl",
+        "rel_id": 25,
+        "rel_id2": 25,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_belt_obstacle"
+    },
+    {
+        "name": "OcGrs",
+        "rel_id": 516,
+        "rel_id2": 516,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_oct_grass"
+    },
+    {
+        "name": "OcGrsL",
+        "rel_id": 517,
+        "rel_id2": 517,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_oct_grass_leaf"
+    },
+    {
+        "name": "OrCaBul",
+        "rel_id": 350,
+        "rel_id2": 350,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 29,
+        "unk4": 0,
+        "rel_name": "d_a_or_cannon_bullet"
+    },
+    {
+        "name": "Paint",
+        "rel_id": 481,
+        "rel_id2": 481,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_paint"
+    },
+    {
+        "name": "Pinwhel",
+        "rel_id": 61,
+        "rel_id2": 61,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_pinwheel"
+    },
+    {
+        "name": "Piston",
+        "rel_id": 160,
+        "rel_id2": 160,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_piston"
+    },
+    {
+        "name": "PlCock",
+        "rel_id": 535,
+        "rel_id2": 535,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_pool_cock"
+    },
+    {
+        "name": "PlRsTag",
+        "rel_id": 632,
+        "rel_id2": 632,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_player_restart"
+    },
+    {
+        "name": "Plight",
+        "rel_id": 666,
+        "rel_id2": 666,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_plight"
+    },
+    {
+        "name": "PlntA00",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 16,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PlntA01",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 17,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PlntB",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 18,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PlntC00",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 19,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PlntC01",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 20,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PltA00",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 7,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PltA01",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 8,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PltA02",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 9,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PltB00",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 10,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PltB01",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 11,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PltB02",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 12,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "PltChg",
+        "rel_id": 665,
+        "rel_id2": 665,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_pltchg"
+    },
+    {
+        "name": "PmpknBd",
+        "rel_id": 437,
+        "rel_id2": 437,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_pumpkin"
+    },
+    {
+        "name": "PmpknDe",
+        "rel_id": 437,
+        "rel_id2": 437,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_pumpkin"
+    },
+    {
+        "name": "PoleStn",
+        "rel_id": 532,
+        "rel_id2": 532,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_pole_stony"
+    },
+    {
+        "name": "PotSal",
+        "rel_id": 318,
+        "rel_id2": 318,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_pot_sal"
+    },
+    {
+        "name": "Propera",
+        "rel_id": 313,
+        "rel_id2": 313,
+        "unk1": 2,
+        "unk2": 27,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_propera"
+    },
+    {
+        "name": "PrpLift",
+        "rel_id": 163,
+        "rel_id2": 163,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_propeller_lift"
+    },
+    {
+        "name": "PumpBar",
+        "rel_id": 74,
+        "rel_id2": 74,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_pumpkin_bar"
+    },
+    {
+        "name": "Pumpkin",
+        "rel_id": 438,
+        "rel_id2": 438,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_pumpkin_leaf"
+    },
+    {
+        "name": "PushBlk",
+        "rel_id": 19,
+        "rel_id2": 19,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_push_block"
+    },
+    {
+        "name": "PyBird",
+        "rel_id": 173,
+        "rel_id2": 173,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 45,
+        "unk4": 0,
+        "rel_name": "d_a_bird"
+    },
+    {
+        "name": "PzlLand",
+        "rel_id": 57,
+        "rel_id2": 57,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_puzzle_island"
+    },
+    {
+        "name": "RRckTag",
+        "rel_id": 101,
+        "rel_id2": 101,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_ride_rock_set"
+    },
+    {
+        "name": "RaceM",
+        "rel_id": 180,
+        "rel_id2": 180,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_avater_race_mng"
+    },
+    {
+        "name": "RailEnd",
+        "rel_id": 649,
+        "rel_id2": 649,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_rail_end"
+    },
+    {
+        "name": "RailPst",
+        "rel_id": 648,
+        "rel_id2": 648,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_rail_post"
+    },
+    {
+        "name": "RidRock",
+        "rel_id": 102,
+        "rel_id2": 102,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ride_rock"
+    },
+    {
+        "name": "RkDrgn",
+        "rel_id": 448,
+        "rel_id2": 448,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 42,
+        "unk4": 0,
+        "rel_name": "d_a_obj_rock_dragon"
+    },
+    {
+        "name": "RoAtLog",
+        "rel_id": 615,
+        "rel_id2": 615,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_roll_attack_log"
+    },
+    {
+        "name": "RoAtTag",
+        "rel_id": 603,
+        "rel_id2": 603,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_ro_at_target_manager"
+    },
+    {
+        "name": "RoAtTar",
+        "rel_id": 602,
+        "rel_id2": 602,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ro_at_target"
+    },
+    {
+        "name": "RoLight",
+        "rel_id": 564,
+        "rel_id2": 564,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_rotation_light"
+    },
+    {
+        "name": "RockSky",
+        "rel_id": 86,
+        "rel_id2": 86,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_rock_sky"
+    },
+    {
+        "name": "RolRock",
+        "rel_id": 428,
+        "rel_id2": 428,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_roll_rock"
+    },
+    {
+        "name": "RopeBas",
+        "rel_id": 593,
+        "rel_id2": 593,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_rope_base"
+    },
+    {
+        "name": "RopeIga",
+        "rel_id": 494,
+        "rel_id2": 494,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_rope_igaiga"
+    },
+    {
+        "name": "RouletC",
+        "rel_id": 46,
+        "rel_id2": 46,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_roulette_island_c"
+    },
+    {
+        "name": "RouletR",
+        "rel_id": 47,
+        "rel_id2": 47,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_roulette_island_r"
+    },
+    {
+        "name": "Roulete",
+        "rel_id": 314,
+        "rel_id2": 314,
+        "unk1": 2,
+        "unk2": 28,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_roulette"
+    },
+    {
+        "name": "RuinSav",
+        "rel_id": 485,
+        "rel_id2": 485,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ruined_save"
+    },
+    {
+        "name": "SKinoko",
+        "rel_id": 443,
+        "rel_id2": 443,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_mushroom"
+    },
+    {
+        "name": "SStatue",
+        "rel_id": 150,
+        "rel_id2": 150,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_step_statue"
+    },
+    {
+        "name": "STCover",
+        "rel_id": 66,
+        "rel_id2": 66,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stage_cover"
+    },
+    {
+        "name": "STCrack",
+        "rel_id": 67,
+        "rel_id2": 67,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stage_crack"
+    },
+    {
+        "name": "STKraPt",
+        "rel_id": 15,
+        "rel_id2": 15,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stage_kraken_parts"
+    },
+    {
+        "name": "STKrake",
+        "rel_id": 14,
+        "rel_id2": 14,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stage_kraken"
+    },
+    {
+        "name": "STSink",
+        "rel_id": 64,
+        "rel_id2": 64,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stage_sink"
+    },
+    {
+        "name": "STWater",
+        "rel_id": 65,
+        "rel_id2": 65,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stage_water"
+    },
+    {
+        "name": "Sail",
+        "rel_id": 459,
+        "rel_id2": 459,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sail"
+    },
+    {
+        "name": "Sandbag",
+        "rel_id": 480,
+        "rel_id2": 480,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sandbag"
+    },
+    {
+        "name": "ScChang",
+        "rel_id": 628,
+        "rel_id2": 628,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_scene_change"
+    },
+    {
+        "name": "Scarab",
+        "rel_id": 457,
+        "rel_id2": 457,
+        "unk1": 3,
+        "unk2": 7,
+        "unk3": 49,
+        "unk4": 0,
+        "rel_name": "d_a_insect_scarab"
+    },
+    {
+        "name": "SdCdl",
+        "rel_id": 533,
+        "rel_id2": 533,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sword_candle"
+    },
+    {
+        "name": "SeaF301",
+        "rel_id": 128,
+        "rel_id2": 128,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sea_F301"
+    },
+    {
+        "name": "Shed",
+        "rel_id": 152,
+        "rel_id2": 152,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_shed"
+    },
+    {
+        "name": "ShipFld",
+        "rel_id": 608,
+        "rel_id2": 608,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_ship_flood"
+    },
+    {
+        "name": "ShipSlp",
+        "rel_id": 607,
+        "rel_id2": 607,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_ship_slope"
+    },
+    {
+        "name": "ShipWin",
+        "rel_id": 72,
+        "rel_id2": 72,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_ship_window"
+    },
+    {
+        "name": "ShpSmpl",
+        "rel_id": 553,
+        "rel_id2": 553,
+        "unk1": 2,
+        "unk2": 41,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_shop_sample"
+    },
+    {
+        "name": "ShriAft",
+        "rel_id": 70,
+        "rel_id2": 70,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_shrine_after"
+    },
+    {
+        "name": "ShriBef",
+        "rel_id": 71,
+        "rel_id2": 71,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_shrine_before"
+    },
+    {
+        "name": "ShriIns",
+        "rel_id": 90,
+        "rel_id2": 90,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_shrine_bef_inside"
+    },
+    {
+        "name": "ShtCS",
+        "rel_id": 203,
+        "rel_id2": 203,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 39,
+        "unk4": 0,
+        "rel_name": "d_a_obj_shutter_change_scene"
+    },
+    {
+        "name": "ShtrWtr",
+        "rel_id": 466,
+        "rel_id2": 466,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 39,
+        "unk4": 0,
+        "rel_name": "d_a_obj_shutter_waterD101"
+    },
+    {
+        "name": "SideST",
+        "rel_id": 39,
+        "rel_id2": 39,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_side_shutter"
+    },
+    {
+        "name": "Siren2D",
+        "rel_id": 595,
+        "rel_id2": 595,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_siren_2dmap"
+    },
+    {
+        "name": "SirenTg",
+        "rel_id": 634,
+        "rel_id2": 634,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "SkEnmyT",
+        "rel_id": 623,
+        "rel_id2": 623,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 59,
+        "unk4": 0,
+        "rel_name": "d_t_skyEnemy"
+    },
+    {
+        "name": "SldDoor",
+        "rel_id": 76,
+        "rel_id2": 76,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sealed_door"
+    },
+    {
+        "name": "SliceLg",
+        "rel_id": 579,
+        "rel_id2": 579,
+        "unk1": 2,
+        "unk2": 31,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_slice_log"
+    },
+    {
+        "name": "SlicePt",
+        "rel_id": 580,
+        "rel_id2": 580,
+        "unk1": 2,
+        "unk2": 31,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_slice_log_parts"
+    },
+    {
+        "name": "Smoke",
+        "rel_id": 572,
+        "rel_id2": 572,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_smoke"
+    },
+    {
+        "name": "SnLight",
+        "rel_id": 594,
+        "rel_id2": 594,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sun_light"
+    },
+    {
+        "name": "SndD301",
+        "rel_id": 155,
+        "rel_id2": 155,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sand_D301"
+    },
+    {
+        "name": "SndStn",
+        "rel_id": 122,
+        "rel_id2": 122,
+        "unk1": 2,
+        "unk2": 46,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stone_stand"
+    },
+    {
+        "name": "SngGS",
+        "rel_id": 121,
+        "rel_id2": 121,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_goddess_statue"
+    },
+    {
+        "name": "SnkFlrF",
+        "rel_id": 109,
+        "rel_id2": 109,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sink_floor_f"
+    },
+    {
+        "name": "Soil",
+        "rel_id": 491,
+        "rel_id2": 491,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 33,
+        "unk4": 0,
+        "rel_name": "d_a_obj_soil"
+    },
+    {
+        "name": "SpWinTg",
+        "rel_id": 616,
+        "rel_id2": 616,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_ship_window"
+    },
+    {
+        "name": "SparkTg",
+        "rel_id": 661,
+        "rel_id2": 661,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_sparks"
+    },
+    {
+        "name": "SpiderL",
+        "rel_id": 27,
+        "rel_id2": 27,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_spider_line"
+    },
+    {
+        "name": "Spike",
+        "rel_id": 570,
+        "rel_id2": 570,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_spike"
+    },
+    {
+        "name": "SpkTg2",
+        "rel_id": 662,
+        "rel_id2": 662,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_sparks2"
+    },
+    {
+        "name": "Spore",
+        "rel_id": 473,
+        "rel_id2": 473,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "SporeTg",
+        "rel_id": 659,
+        "rel_id2": 659,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_spore"
+    },
+    {
+        "name": "SrnSk",
+        "rel_id": 435,
+        "rel_id2": 435,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_siren_barrier"
+    },
+    {
+        "name": "StepTS",
+        "rel_id": 134,
+        "rel_id2": 134,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_step_time_slip"
+    },
+    {
+        "name": "StgBgTs",
+        "rel_id": 123,
+        "rel_id2": 123,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_time_stage_bg"
+    },
+    {
+        "name": "StpGm",
+        "rel_id": 111,
+        "rel_id2": 111,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_step_gumarm"
+    },
+    {
+        "name": "StpRope",
+        "rel_id": 525,
+        "rel_id2": 525,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stopping_rope"
+    },
+    {
+        "name": "StprRc",
+        "rel_id": 107,
+        "rel_id2": 107,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stopper_rock"
+    },
+    {
+        "name": "StrLava",
+        "rel_id": 81,
+        "rel_id2": 81,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_stream_lava"
+    },
+    {
+        "name": "StreamT",
+        "rel_id": 12,
+        "rel_id2": 12,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_stream"
+    },
+    {
+        "name": "Sw",
+        "rel_id": 17,
+        "rel_id2": 17,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "SwAreaT",
+        "rel_id": 633,
+        "rel_id2": 633,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_sw_area"
+    },
+    {
+        "name": "SwBnk",
+        "rel_id": 503,
+        "rel_id2": 503,
+        "unk1": 2,
+        "unk2": 15,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sw_bank"
+    },
+    {
+        "name": "SwBnkS",
+        "rel_id": 504,
+        "rel_id2": 504,
+        "unk1": 2,
+        "unk2": 16,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sw_bank_small"
+    },
+    {
+        "name": "SwDir",
+        "rel_id": 501,
+        "rel_id2": 501,
+        "unk1": 2,
+        "unk2": 24,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sw_dir"
+    },
+    {
+        "name": "SwDir2",
+        "rel_id": 502,
+        "rel_id2": 502,
+        "unk1": 2,
+        "unk2": 4,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sw_dir_door"
+    },
+    {
+        "name": "SwHrp",
+        "rel_id": 434,
+        "rel_id2": 434,
+        "unk1": 2,
+        "unk2": 36,
+        "unk3": 56,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sw_harp"
+    },
+    {
+        "name": "SwSB",
+        "rel_id": 433,
+        "rel_id2": 433,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sw_sword_beam"
+    },
+    {
+        "name": "SwTag",
+        "rel_id": 631,
+        "rel_id2": 631,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "SwWall",
+        "rel_id": 32,
+        "rel_id2": 32,
+        "unk1": 2,
+        "unk2": 7,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_switch_wall"
+    },
+    {
+        "name": "SwdStb",
+        "rel_id": 538,
+        "rel_id2": 538,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sword_stab"
+    },
+    {
+        "name": "Swhit",
+        "rel_id": 432,
+        "rel_id2": 432,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_swhit"
+    },
+    {
+        "name": "SwrdPrj",
+        "rel_id": 645,
+        "rel_id2": 645,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_swrd_prj"
+    },
+    {
+        "name": "SwrdSt",
+        "rel_id": 531,
+        "rel_id2": 531,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_seat_sword"
+    },
+    {
+        "name": "TAgo",
+        "rel_id": 129,
+        "rel_id2": 129,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_desert_ago"
+    },
+    {
+        "name": "TBcal",
+        "rel_id": 340,
+        "rel_id2": 340,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_bcal_tag"
+    },
+    {
+        "name": "TBoat",
+        "rel_id": 120,
+        "rel_id2": 120,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_time_boat"
+    },
+    {
+        "name": "TBoatB",
+        "rel_id": 509,
+        "rel_id2": 509,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_time_boat_bullet"
+    },
+    {
+        "name": "TBox",
+        "rel_id": 488,
+        "rel_id2": 488,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "TChk",
+        "rel_id": 551,
+        "rel_id2": 551,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_time_area_check"
+    },
+    {
+        "name": "TDoor",
+        "rel_id": 510,
+        "rel_id2": 510,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 42,
+        "unk4": 0,
+        "rel_name": "d_a_obj_time_door"
+    },
+    {
+        "name": "TDoorB",
+        "rel_id": 511,
+        "rel_id2": 511,
+        "unk1": 2,
+        "unk2": 44,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_time_door_before"
+    },
+    {
+        "name": "TGrD101",
+        "rel_id": 465,
+        "rel_id2": 465,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tower_gearD101"
+    },
+    {
+        "name": "TKumite",
+        "rel_id": 337,
+        "rel_id2": 337,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_musou"
+    },
+    {
+        "name": "TPole",
+        "rel_id": 133,
+        "rel_id2": 133,
+        "unk1": 2,
+        "unk2": 11,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tarzan_pole"
+    },
+    {
+        "name": "TRail",
+        "rel_id": 650,
+        "rel_id2": 650,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_teni_rail"
+    },
+    {
+        "name": "TRalPst",
+        "rel_id": 651,
+        "rel_id2": 651,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_teni_rail_post"
+    },
+    {
+        "name": "TSBase",
+        "rel_id": 135,
+        "rel_id2": 135,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_time_base"
+    },
+    {
+        "name": "TSBlk",
+        "rel_id": 540,
+        "rel_id2": 540,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_time_block"
+    },
+    {
+        "name": "TWeed",
+        "rel_id": 518,
+        "rel_id2": 518,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tumble_weed"
+    },
+    {
+        "name": "Tckl",
+        "rel_id": 527,
+        "rel_id2": 527,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tackle"
+    },
+    {
+        "name": "TerBike",
+        "rel_id": 557,
+        "rel_id2": 557,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_terry_bicycle"
+    },
+    {
+        "name": "TerrGmk",
+        "rel_id": 554,
+        "rel_id2": 554,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_terry_gimmick"
+    },
+    {
+        "name": "TerrHol",
+        "rel_id": 556,
+        "rel_id2": 556,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_terry_hole"
+    },
+    {
+        "name": "TerrSw",
+        "rel_id": 555,
+        "rel_id2": 555,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_terry_switch"
+    },
+    {
+        "name": "TgClay",
+        "rel_id": 471,
+        "rel_id2": 471,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_pumpkin_clay"
+    },
+    {
+        "name": "TgClefG",
+        "rel_id": 655,
+        "rel_id2": 655,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_clef_game"
+    },
+    {
+        "name": "TgClefM",
+        "rel_id": 654,
+        "rel_id2": 654,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_clef_manager"
+    },
+    {
+        "name": "TgD3Chg",
+        "rel_id": 477,
+        "rel_id2": 477,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_D3_scene_change"
+    },
+    {
+        "name": "TgDefea",
+        "rel_id": 637,
+        "rel_id2": 637,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_defeat_boss"
+    },
+    {
+        "name": "TgFence",
+        "rel_id": 639,
+        "rel_id2": 639,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_fence_synchronizer"
+    },
+    {
+        "name": "TgMICap",
+        "rel_id": 656,
+        "rel_id2": 656,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_minigame_insect_capture"
+    },
+    {
+        "name": "TgMien",
+        "rel_id": 213,
+        "rel_id2": 213,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_miechan"
+    },
+    {
+        "name": "TgNoEff",
+        "rel_id": 476,
+        "rel_id2": 476,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_noeffect_area"
+    },
+    {
+        "name": "TgRBoat",
+        "rel_id": 464,
+        "rel_id2": 464,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_rock_boat"
+    },
+    {
+        "name": "TgReact",
+        "rel_id": 472,
+        "rel_id2": 472,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_reaction"
+    },
+    {
+        "name": "TgRstTs",
+        "rel_id": 552,
+        "rel_id2": 552,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_restart_time_stone"
+    },
+    {
+        "name": "TgSBG",
+        "rel_id": 277,
+        "rel_id2": 277,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_sword_battle_game"
+    },
+    {
+        "name": "TgSTA",
+        "rel_id": 278,
+        "rel_id2": 278,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_siren_time_attack"
+    },
+    {
+        "name": "TgSndAr",
+        "rel_id": 620,
+        "rel_id2": 620,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_sound_area"
+    },
+    {
+        "name": "TgSndMg",
+        "rel_id": 619,
+        "rel_id2": 619,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_sound_area_mgr"
+    },
+    {
+        "name": "TgSound",
+        "rel_id": 447,
+        "rel_id2": 447,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_sound"
+    },
+    {
+        "name": "TgTDB",
+        "rel_id": 512,
+        "rel_id2": 512,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_time_door_beam"
+    },
+    {
+        "name": "TgTckl",
+        "rel_id": 528,
+        "rel_id2": 528,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_tackle"
+    },
+    {
+        "name": "TgTimer",
+        "rel_id": 638,
+        "rel_id2": 638,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_timer"
+    },
+    {
+        "name": "TgTrap",
+        "rel_id": 436,
+        "rel_id2": 436,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_toge_trap"
+    },
+    {
+        "name": "TgTw",
+        "rel_id": 519,
+        "rel_id2": 519,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 59,
+        "unk4": 0,
+        "rel_name": "d_t_tumble_weed"
+    },
+    {
+        "name": "TimeIs",
+        "rel_id": 154,
+        "rel_id2": 154,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tenijima"
+    },
+    {
+        "name": "TimeStn",
+        "rel_id": 16,
+        "rel_id2": 16,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 37,
+        "unk4": 0,
+        "rel_name": "d_a_obj_time_stone"
+    },
+    {
+        "name": "TkEvnt",
+        "rel_id": 635,
+        "rel_id2": 635,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "TlpTag",
+        "rel_id": 622,
+        "rel_id2": 622,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_telop"
+    },
+    {
+        "name": "ToD3Stn",
+        "rel_id": 545,
+        "rel_id2": 545,
+        "unk1": 2,
+        "unk2": 25,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_toD3_stone_figure"
+    },
+    {
+        "name": "Tornado",
+        "rel_id": 31,
+        "rel_id2": 31,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tornado"
+    },
+    {
+        "name": "TouchTa",
+        "rel_id": 624,
+        "rel_id2": 624,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_t_touch"
+    },
+    {
+        "name": "TowerB",
+        "rel_id": 530,
+        "rel_id2": 530,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tower_bomb"
+    },
+    {
+        "name": "TowerHa",
+        "rel_id": 158,
+        "rel_id2": 158,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tower_hand_D101"
+    },
+    {
+        "name": "TrRaiCo",
+        "rel_id": 172,
+        "rel_id2": 172,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_truck_rail_col"
+    },
+    {
+        "name": "TrShtCs",
+        "rel_id": 209,
+        "rel_id2": 209,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 39,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tr_shutter_cs"
+    },
+    {
+        "name": "TrapRc1",
+        "rel_id": 106,
+        "rel_id2": 106,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_trap_rock_1"
+    },
+    {
+        "name": "TriForc",
+        "rel_id": 486,
+        "rel_id2": 486,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_triforce"
+    },
+    {
+        "name": "TrpBrdW",
+        "rel_id": 526,
+        "rel_id2": 526,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_trap_bird_wood"
+    },
+    {
+        "name": "TruRail",
+        "rel_id": 11,
+        "rel_id2": 11,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "Truck",
+        "rel_id": 104,
+        "rel_id2": 104,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_truck"
+    },
+    {
+        "name": "TrukStp",
+        "rel_id": 84,
+        "rel_id2": 84,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_truck_stopper"
+    },
+    {
+        "name": "Tshop",
+        "rel_id": 105,
+        "rel_id2": 105,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 36,
+        "unk4": 0,
+        "rel_name": "d_a_obj_terry_shop"
+    },
+    {
+        "name": "TstShtr",
+        "rel_id": 202,
+        "rel_id2": 202,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 39,
+        "unk4": 0,
+        "rel_name": "d_a_obj_shutter"
+    },
+    {
+        "name": "Tubo",
+        "rel_id": 496,
+        "rel_id2": 496,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tubo"
+    },
+    {
+        "name": "UDLava",
+        "rel_id": 42,
+        "rel_id2": 42,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_updown_lava"
+    },
+    {
+        "name": "UdCloud",
+        "rel_id": 584,
+        "rel_id2": 584,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_under_cloud"
+    },
+    {
+        "name": "UgSwitc",
+        "rel_id": 483,
+        "rel_id2": 483,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_underground_switch"
+    },
+    {
+        "name": "Uground",
+        "rel_id": 142,
+        "rel_id2": 142,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 59,
+        "unk4": 0,
+        "rel_name": "d_a_obj_underground"
+    },
+    {
+        "name": "UtaLand",
+        "rel_id": 53,
+        "rel_id2": 53,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_utajima_island"
+    },
+    {
+        "name": "UtaLv2",
+        "rel_id": 56,
+        "rel_id2": 56,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_utajima_lv2"
+    },
+    {
+        "name": "UtaMain",
+        "rel_id": 51,
+        "rel_id2": 51,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_utajima_main_mecha"
+    },
+    {
+        "name": "UtaPeds",
+        "rel_id": 52,
+        "rel_id2": 52,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_utajima_pedestal"
+    },
+    {
+        "name": "UtaStop",
+        "rel_id": 50,
+        "rel_id2": 50,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_utajima_stopper"
+    },
+    {
+        "name": "Utajima",
+        "rel_id": 55,
+        "rel_id2": 55,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_utajima"
+    },
+    {
+        "name": "V_Clip",
+        "rel_id": 8,
+        "rel_id2": 8,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "VacuDsP",
+        "rel_id": 646,
+        "rel_id2": 646,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_vacu_dust_parts"
+    },
+    {
+        "name": "VacuDst",
+        "rel_id": 647,
+        "rel_id2": 647,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_vacu_dust"
+    },
+    {
+        "name": "Vdb",
+        "rel_id": 170,
+        "rel_id2": 170,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 29,
+        "unk4": 0,
+        "rel_name": "d_a_obj_vd_bullet"
+    },
+    {
+        "name": "VentFan",
+        "rel_id": 561,
+        "rel_id2": 561,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_vent_fan"
+    },
+    {
+        "name": "Vortex",
+        "rel_id": 529,
+        "rel_id2": 529,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_vortex"
+    },
+    {
+        "name": "Vrbox",
+        "rel_id": 667,
+        "rel_id2": 667,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "WFF102",
+        "rel_id": 585,
+        "rel_id2": 585,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_waterfall_F102"
+    },
+    {
+        "name": "Warp",
+        "rel_id": 499,
+        "rel_id2": 499,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "WarpH",
+        "rel_id": 124,
+        "rel_id2": 124,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_warp_hole"
+    },
+    {
+        "name": "WarpObj",
+        "rel_id": 522,
+        "rel_id2": 522,
+        "unk1": 2,
+        "unk2": 35,
+        "unk3": 55,
+        "unk4": 0,
+        "rel_name": "d_a_obj_warp"
+    },
+    {
+        "name": "WaterSW",
+        "rel_id": 563,
+        "rel_id2": 563,
+        "unk1": 2,
+        "unk2": 14,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_water_switch"
+    },
+    {
+        "name": "WaterSf",
+        "rel_id": 73,
+        "rel_id2": 73,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_water_surface"
+    },
+    {
+        "name": "WaterSp",
+        "rel_id": 571,
+        "rel_id2": 571,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "WatrIga",
+        "rel_id": 574,
+        "rel_id2": 574,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_water_igaiga"
+    },
+    {
+        "name": "WdBoard",
+        "rel_id": 36,
+        "rel_id2": 36,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_wood_board"
+    },
+    {
+        "name": "Wind",
+        "rel_id": 28,
+        "rel_id2": 28,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_wind"
+    },
+    {
+        "name": "Wind02",
+        "rel_id": 99,
+        "rel_id2": 99,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_wind02"
+    },
+    {
+        "name": "Wind03",
+        "rel_id": 29,
+        "rel_id2": 29,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_wind03"
+    },
+    {
+        "name": "Wind04",
+        "rel_id": 30,
+        "rel_id2": 30,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_wind04"
+    },
+    {
+        "name": "Windmil",
+        "rel_id": 60,
+        "rel_id2": 60,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_windmill"
+    },
+    {
+        "name": "WnLeafA",
+        "rel_id": 439,
+        "rel_id2": 439,
+        "unk1": 2,
+        "unk2": 30,
+        "unk3": 32,
+        "unk4": 1,
+        "rel_name": "d_a_obj_water_nut_leaf"
+    },
+    {
+        "name": "WnLeafB",
+        "rel_id": 439,
+        "rel_id2": 439,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 2,
+        "rel_name": "d_a_obj_water_nut_leaf"
+    },
+    {
+        "name": "WnLeafC",
+        "rel_id": 439,
+        "rel_id2": 439,
+        "unk1": 2,
+        "unk2": 30,
+        "unk3": 32,
+        "unk4": 3,
+        "rel_name": "d_a_obj_water_nut_leaf"
+    },
+    {
+        "name": "WnLeafD",
+        "rel_id": 439,
+        "rel_id2": 439,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 4,
+        "rel_name": "d_a_obj_water_nut_leaf"
+    },
+    {
+        "name": "WndMilD",
+        "rel_id": 91,
+        "rel_id2": 91,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_windmill_desert"
+    },
+    {
+        "name": "WoodTag",
+        "rel_id": 444,
+        "rel_id2": 444,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 1,
+        "rel_name": "d_a_t_wood_area"
+    },
+    {
+        "name": "WoodTg2",
+        "rel_id": 444,
+        "rel_id2": 444,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 2,
+        "rel_name": "d_a_t_wood_area"
+    },
+    {
+        "name": "WtFD100",
+        "rel_id": 588,
+        "rel_id2": 588,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_waterfall_D100"
+    },
+    {
+        "name": "WtrF100",
+        "rel_id": 88,
+        "rel_id2": 88,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_water_F100"
+    },
+    {
+        "name": "WtrJar",
+        "rel_id": 524,
+        "rel_id2": 524,
+        "unk1": 2,
+        "unk2": 40,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_water_jar"
+    },
+    {
+        "name": "WtrMrk",
+        "rel_id": 523,
+        "rel_id2": 523,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "WtrShld",
+        "rel_id": 97,
+        "rel_id2": 97,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_water_shield"
+    },
+    {
+        "name": "chest",
+        "rel_id": 139,
+        "rel_id2": 139,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 42,
+        "unk4": 0,
+        "rel_name": "d_a_obj_chest"
+    },
+    {
+        "name": "d2ship",
+        "rel_id": 148,
+        "rel_id2": 148,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_dungeon_ship"
+    },
+    {
+        "name": "fruit",
+        "rel_id": 445,
+        "rel_id2": 445,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_fruit"
+    },
+    {
+        "name": "ftower",
+        "rel_id": 33,
+        "rel_id2": 33,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tower_D101"
+    },
+    {
+        "name": "lock",
+        "rel_id": 462,
+        "rel_id2": 462,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 39,
+        "unk4": 0,
+        "rel_name": "d_a_obj_lock"
+    },
+    {
+        "name": "needleU",
+        "rel_id": 149,
+        "rel_id2": 149,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_needle_underground"
+    },
+    {
+        "name": "rpiller",
+        "rel_id": 138,
+        "rel_id2": 138,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_roll_pillar"
+    },
+    {
+        "name": "sandD1",
+        "rel_id": 145,
+        "rel_id2": 145,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sand_floor"
+    },
+    {
+        "name": "sandflr",
+        "rel_id": 145,
+        "rel_id2": 145,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sand_floor"
+    },
+    {
+        "name": "saveObj",
+        "rel_id": 534,
+        "rel_id2": 534,
+        "unk1": 2,
+        "unk2": 3,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "d_a_obj_save"
+    },
+    {
+        "name": "skull",
+        "rel_id": 446,
+        "rel_id2": 446,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_skull"
+    },
+    {
+        "name": "sw_whip",
+        "rel_id": 442,
+        "rel_id2": 442,
+        "unk1": 2,
+        "unk2": 10,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sw_whiplever"
+    },
+    {
+        "name": "swsht",
+        "rel_id": 136,
+        "rel_id2": 136,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_switch_shutter"
+    },
+    {
+        "name": "swsyako",
+        "rel_id": 146,
+        "rel_id2": 146,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_sw_syako"
+    },
+    {
+        "name": "syashtr",
+        "rel_id": 147,
+        "rel_id2": 147,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 39,
+        "unk4": 0,
+        "rel_name": "d_a_obj_syako_shutter"
+    },
+    {
+        "name": "trlshut",
+        "rel_id": 208,
+        "rel_id2": 208,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 39,
+        "unk4": 0,
+        "rel_name": "d_a_obj_trolley_shutter"
+    },
+    {
+        "name": "trolley",
+        "rel_id": 143,
+        "rel_id2": 143,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_trolley"
+    },
+    {
+        "name": "tware",
+        "rel_id": 441,
+        "rel_id2": 441,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_tableware"
+    },
+    {
+        "name": "vmSand",
+        "rel_id": 490,
+        "rel_id2": 490,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_scattersand"
+    },
+    {
+        "name": "weather",
+        "rel_id": 658,
+        "rel_id2": 658,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": -1,
+        "unk4": 0,
+        "rel_name": "?"
+    },
+    {
+        "name": "wfall",
+        "rel_id": 137,
+        "rel_id2": 137,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_waterfall_D101"
+    },
+    {
+        "name": "wnleaf",
+        "rel_id": 439,
+        "rel_id2": 439,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_water_nut_leaf"
+    },
+    {
+        "name": "wnut",
+        "rel_id": 440,
+        "rel_id2": 440,
+        "unk1": -1,
+        "unk2": -1,
+        "unk3": 32,
+        "unk4": 0,
+        "rel_name": "d_a_obj_water_nut"
+    }
+]

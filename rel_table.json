@@ -1,0 +1,2542 @@
+[
+    {
+        "name": "d_t_dungeon_start",
+        "rel_id": 9
+    },
+    {
+        "name": "d_t_stream",
+        "rel_id": 12
+    },
+    {
+        "name": "d_t_col_bomb_shield",
+        "rel_id": 13
+    },
+    {
+        "name": "d_a_obj_stage_kraken",
+        "rel_id": 14
+    },
+    {
+        "name": "d_a_obj_stage_kraken_parts",
+        "rel_id": 15
+    },
+    {
+        "name": "d_a_obj_time_stone",
+        "rel_id": 16
+    },
+    {
+        "name": "d_a_obj_block_rope",
+        "rel_id": 18
+    },
+    {
+        "name": "d_a_obj_push_block",
+        "rel_id": 19
+    },
+    {
+        "name": "d_a_obj_kibako",
+        "rel_id": 20
+    },
+    {
+        "name": "d_a_obj_log",
+        "rel_id": 21
+    },
+    {
+        "name": "d_a_obj_log_water",
+        "rel_id": 22
+    },
+    {
+        "name": "d_a_obj_belt_cvr",
+        "rel_id": 23
+    },
+    {
+        "name": "d_a_obj_drum",
+        "rel_id": 24
+    },
+    {
+        "name": "d_a_obj_belt_obstacle",
+        "rel_id": 25
+    },
+    {
+        "name": "d_a_obj_himo",
+        "rel_id": 26
+    },
+    {
+        "name": "d_a_obj_spider_line",
+        "rel_id": 27
+    },
+    {
+        "name": "d_a_obj_wind",
+        "rel_id": 28
+    },
+    {
+        "name": "d_a_obj_wind03",
+        "rel_id": 29
+    },
+    {
+        "name": "d_a_obj_wind04",
+        "rel_id": 30
+    },
+    {
+        "name": "d_a_obj_tornado",
+        "rel_id": 31
+    },
+    {
+        "name": "d_a_obj_switch_wall",
+        "rel_id": 32
+    },
+    {
+        "name": "d_a_obj_tower_D101",
+        "rel_id": 33
+    },
+    {
+        "name": "d_a_obj_door_dungeonD200",
+        "rel_id": 34
+    },
+    {
+        "name": "d_a_obj_door_dungeon",
+        "rel_id": 35
+    },
+    {
+        "name": "d_a_obj_wood_board",
+        "rel_id": 36
+    },
+    {
+        "name": "d_a_obj_claw_shot_tg",
+        "rel_id": 37
+    },
+    {
+        "name": "d_a_obj_bulb_switch",
+        "rel_id": 38
+    },
+    {
+        "name": "d_a_obj_side_shutter",
+        "rel_id": 39
+    },
+    {
+        "name": "d_a_obj_hit_lever_sw",
+        "rel_id": 40
+    },
+    {
+        "name": "d_a_obj_fence_iron",
+        "rel_id": 41
+    },
+    {
+        "name": "d_a_obj_updown_lava",
+        "rel_id": 42
+    },
+    {
+        "name": "d_a_obj_bb_objects",
+        "rel_id": 43
+    },
+    {
+        "name": "d_a_obj_bridge_building",
+        "rel_id": 44
+    },
+    {
+        "name": "d_a_obj_cannon",
+        "rel_id": 45
+    },
+    {
+        "name": "d_a_obj_roulette_island_c",
+        "rel_id": 46
+    },
+    {
+        "name": "d_a_obj_roulette_island_r",
+        "rel_id": 47
+    },
+    {
+        "name": "d_a_obj_bridge_stretch",
+        "rel_id": 48
+    },
+    {
+        "name": "d_a_obj_iron_stage",
+        "rel_id": 49
+    },
+    {
+        "name": "d_a_obj_utajima_stopper",
+        "rel_id": 50
+    },
+    {
+        "name": "d_a_obj_utajima_main_mecha",
+        "rel_id": 51
+    },
+    {
+        "name": "d_a_obj_utajima_pedestal",
+        "rel_id": 52
+    },
+    {
+        "name": "d_a_obj_utajima_island",
+        "rel_id": 53
+    },
+    {
+        "name": "d_a_obj_cannon_cover",
+        "rel_id": 54
+    },
+    {
+        "name": "d_a_obj_utajima",
+        "rel_id": 55
+    },
+    {
+        "name": "d_a_obj_utajima_lv2",
+        "rel_id": 56
+    },
+    {
+        "name": "d_a_obj_puzzle_island",
+        "rel_id": 57
+    },
+    {
+        "name": "d_a_obj_fence_boko",
+        "rel_id": 58
+    },
+    {
+        "name": "d_a_obj_fence_boko2",
+        "rel_id": 59
+    },
+    {
+        "name": "d_a_obj_windmill",
+        "rel_id": 60
+    },
+    {
+        "name": "d_a_obj_pinwheel",
+        "rel_id": 61
+    },
+    {
+        "name": "d_a_obj_lighthouse_harp",
+        "rel_id": 62
+    },
+    {
+        "name": "d_a_obj_fence_konsai",
+        "rel_id": 63
+    },
+    {
+        "name": "d_a_obj_stage_sink",
+        "rel_id": 64
+    },
+    {
+        "name": "d_a_obj_stage_water",
+        "rel_id": 65
+    },
+    {
+        "name": "d_a_obj_stage_cover",
+        "rel_id": 66
+    },
+    {
+        "name": "d_a_obj_stage_crack",
+        "rel_id": 67
+    },
+    {
+        "name": "d_a_obj_terry_island",
+        "rel_id": 68
+    },
+    {
+        "name": "d_a_obj_insect_island",
+        "rel_id": 69
+    },
+    {
+        "name": "d_a_obj_shrine_after",
+        "rel_id": 70
+    },
+    {
+        "name": "d_a_obj_shrine_before",
+        "rel_id": 71
+    },
+    {
+        "name": "d_a_obj_ship_window",
+        "rel_id": 72
+    },
+    {
+        "name": "d_a_obj_water_surface",
+        "rel_id": 73
+    },
+    {
+        "name": "d_a_obj_pumpkin_bar",
+        "rel_id": 74
+    },
+    {
+        "name": "d_a_obj_treasure_island",
+        "rel_id": 75
+    },
+    {
+        "name": "d_a_obj_sealed_door",
+        "rel_id": 76
+    },
+    {
+        "name": "d_a_obj_evil_field",
+        "rel_id": 77
+    },
+    {
+        "name": "d_a_obj_megami_island",
+        "rel_id": 78
+    },
+    {
+        "name": "d_a_obj_city",
+        "rel_id": 79
+    },
+    {
+        "name": "d_a_obj_bamboo_island",
+        "rel_id": 80
+    },
+    {
+        "name": "d_a_obj_stream_lava",
+        "rel_id": 81
+    },
+    {
+        "name": "d_a_obj_down_lava",
+        "rel_id": 82
+    },
+    {
+        "name": "d_a_obj_appear_bridge",
+        "rel_id": 83
+    },
+    {
+        "name": "d_a_obj_truck_stopper",
+        "rel_id": 84
+    },
+    {
+        "name": "d_a_obj_island_nusi",
+        "rel_id": 85
+    },
+    {
+        "name": "d_a_obj_rock_sky",
+        "rel_id": 86
+    },
+    {
+        "name": "d_a_obj_treasure_island_b",
+        "rel_id": 87
+    },
+    {
+        "name": "d_a_obj_water_F100",
+        "rel_id": 88
+    },
+    {
+        "name": "d_a_obj_bell",
+        "rel_id": 89
+    },
+    {
+        "name": "d_a_obj_shrine_bef_inside",
+        "rel_id": 90
+    },
+    {
+        "name": "d_a_obj_windmill_desert",
+        "rel_id": 91
+    },
+    {
+        "name": "d_a_obj_city_water",
+        "rel_id": 92
+    },
+    {
+        "name": "d_a_obj_mole_cover",
+        "rel_id": 93
+    },
+    {
+        "name": "d_a_obj_desert_debris",
+        "rel_id": 94
+    },
+    {
+        "name": "d_a_obj_bb_broken_parts",
+        "rel_id": 95
+    },
+    {
+        "name": "d_a_obj_kumite_wall",
+        "rel_id": 96
+    },
+    {
+        "name": "d_a_obj_water_shield",
+        "rel_id": 97
+    },
+    {
+        "name": "d_a_obj_bstone",
+        "rel_id": 98
+    },
+    {
+        "name": "d_a_obj_wind02",
+        "rel_id": 99
+    },
+    {
+        "name": "d_a_obj_leaf_swing",
+        "rel_id": 100
+    },
+    {
+        "name": "d_t_ride_rock_set",
+        "rel_id": 101
+    },
+    {
+        "name": "d_a_obj_ride_rock",
+        "rel_id": 102
+    },
+    {
+        "name": "d_a_obj_move_lift_vol",
+        "rel_id": 103
+    },
+    {
+        "name": "d_a_obj_truck",
+        "rel_id": 104
+    },
+    {
+        "name": "d_a_obj_terry_shop",
+        "rel_id": 105
+    },
+    {
+        "name": "d_a_obj_trap_rock_1",
+        "rel_id": 106
+    },
+    {
+        "name": "d_a_obj_stopper_rock",
+        "rel_id": 107
+    },
+    {
+        "name": "d_a_obj_shutter_fence",
+        "rel_id": 108
+    },
+    {
+        "name": "d_a_obj_sink_floor_f",
+        "rel_id": 109
+    },
+    {
+        "name": "d_a_e_gumarm",
+        "rel_id": 110
+    },
+    {
+        "name": "d_a_obj_step_gumarm",
+        "rel_id": 111
+    },
+    {
+        "name": "d_a_obj_bridge_fall",
+        "rel_id": 112
+    },
+    {
+        "name": "d_a_obj_bridge_step",
+        "rel_id": 113
+    },
+    {
+        "name": "d_a_obj_bridge_bone",
+        "rel_id": 114
+    },
+    {
+        "name": "d_a_obj_bb_bridge",
+        "rel_id": 115
+    },
+    {
+        "name": "d_a_obj_bridge_time",
+        "rel_id": 116
+    },
+    {
+        "name": "d_a_obj_boat",
+        "rel_id": 117
+    },
+    {
+        "name": "d_a_obj_ballista",
+        "rel_id": 118
+    },
+    {
+        "name": "d_a_obj_ballista_f3",
+        "rel_id": 119
+    },
+    {
+        "name": "d_a_obj_time_boat",
+        "rel_id": 120
+    },
+    {
+        "name": "d_a_obj_goddess_statue",
+        "rel_id": 121
+    },
+    {
+        "name": "d_a_obj_stone_stand",
+        "rel_id": 122
+    },
+    {
+        "name": "d_a_obj_time_stage_bg",
+        "rel_id": 123
+    },
+    {
+        "name": "d_a_obj_warp_hole",
+        "rel_id": 124
+    },
+    {
+        "name": "d_a_obj_gear",
+        "rel_id": 125
+    },
+    {
+        "name": "d_a_obj_desert",
+        "rel_id": 126
+    },
+    {
+        "name": "d_a_obj_D300",
+        "rel_id": 127
+    },
+    {
+        "name": "d_a_obj_sea_F301",
+        "rel_id": 128
+    },
+    {
+        "name": "d_a_obj_desert_ago",
+        "rel_id": 129
+    },
+    {
+        "name": "d_a_obj_desert_meter",
+        "rel_id": 130
+    },
+    {
+        "name": "d_a_obj_needle_desert",
+        "rel_id": 131
+    },
+    {
+        "name": "d_a_obj_lotus",
+        "rel_id": 132
+    },
+    {
+        "name": "d_a_obj_tarzan_pole",
+        "rel_id": 133
+    },
+    {
+        "name": "d_a_obj_step_time_slip",
+        "rel_id": 134
+    },
+    {
+        "name": "d_a_obj_time_base",
+        "rel_id": 135
+    },
+    {
+        "name": "d_a_obj_switch_shutter",
+        "rel_id": 136
+    },
+    {
+        "name": "d_a_obj_waterfall_D101",
+        "rel_id": 137
+    },
+    {
+        "name": "d_a_obj_roll_pillar",
+        "rel_id": 138
+    },
+    {
+        "name": "d_a_obj_chest",
+        "rel_id": 139
+    },
+    {
+        "name": "d_a_obj_rock_boat",
+        "rel_id": 140
+    },
+    {
+        "name": "d_a_obj_block_underground",
+        "rel_id": 141
+    },
+    {
+        "name": "d_a_obj_underground",
+        "rel_id": 142
+    },
+    {
+        "name": "d_a_obj_trolley",
+        "rel_id": 143
+    },
+    {
+        "name": "d_a_obj_lava_plate",
+        "rel_id": 144
+    },
+    {
+        "name": "d_a_obj_sand_floor",
+        "rel_id": 145
+    },
+    {
+        "name": "d_a_obj_sw_syako",
+        "rel_id": 146
+    },
+    {
+        "name": "d_a_obj_syako_shutter",
+        "rel_id": 147
+    },
+    {
+        "name": "d_a_obj_dungeon_ship",
+        "rel_id": 148
+    },
+    {
+        "name": "d_a_obj_needle_underground",
+        "rel_id": 149
+    },
+    {
+        "name": "d_a_obj_step_statue",
+        "rel_id": 150
+    },
+    {
+        "name": "d_a_obj_grave",
+        "rel_id": 151
+    },
+    {
+        "name": "d_a_obj_shed",
+        "rel_id": 152
+    },
+    {
+        "name": "d_a_obj_girahimu_floor",
+        "rel_id": 153
+    },
+    {
+        "name": "d_a_obj_tenijima",
+        "rel_id": 154
+    },
+    {
+        "name": "d_a_obj_sand_D301",
+        "rel_id": 155
+    },
+    {
+        "name": "d_a_obj_door_bossD101",
+        "rel_id": 156
+    },
+    {
+        "name": "d_a_obj_boxcage_F300",
+        "rel_id": 157
+    },
+    {
+        "name": "d_a_obj_tower_hand_D101",
+        "rel_id": 158
+    },
+    {
+        "name": "d_a_obj_dormitory_gate",
+        "rel_id": 159
+    },
+    {
+        "name": "d_a_obj_piston",
+        "rel_id": 160
+    },
+    {
+        "name": "d_a_obj_fruit_tree",
+        "rel_id": 161
+    },
+    {
+        "name": "d_a_obj_farmland",
+        "rel_id": 162
+    },
+    {
+        "name": "d_a_obj_propeller_lift",
+        "rel_id": 163
+    },
+    {
+        "name": "d_a_obj_D3_dummy",
+        "rel_id": 164
+    },
+    {
+        "name": "d_a_b_bigbossbase",
+        "rel_id": 165
+    },
+    {
+        "name": "d_a_b_bigboss",
+        "rel_id": 166
+    },
+    {
+        "name": "d_a_b_bigboss2",
+        "rel_id": 167
+    },
+    {
+        "name": "d_a_b_bigboss3",
+        "rel_id": 168
+    },
+    {
+        "name": "d_a_b_vd",
+        "rel_id": 169
+    },
+    {
+        "name": "d_a_obj_vd_bullet",
+        "rel_id": 170
+    },
+    {
+        "name": "d_a_e_captain",
+        "rel_id": 171
+    },
+    {
+        "name": "d_a_obj_truck_rail_col",
+        "rel_id": 172
+    },
+    {
+        "name": "d_a_bird",
+        "rel_id": 173
+    },
+    {
+        "name": "d_a_bird_target",
+        "rel_id": 174
+    },
+    {
+        "name": "d_a_bird_npc",
+        "rel_id": 175
+    },
+    {
+        "name": "d_a_bird_kobunA",
+        "rel_id": 176
+    },
+    {
+        "name": "d_a_bird_kobunB",
+        "rel_id": 177
+    },
+    {
+        "name": "d_a_bird_rival",
+        "rel_id": 178
+    },
+    {
+        "name": "d_a_bird_zelda_training",
+        "rel_id": 179
+    },
+    {
+        "name": "d_a_avater_race_mng",
+        "rel_id": 180
+    },
+    {
+        "name": "d_a_avater_bullet",
+        "rel_id": 181
+    },
+    {
+        "name": "d_a_nusi_base",
+        "rel_id": 182
+    },
+    {
+        "name": "d_a_nusi_npc",
+        "rel_id": 183
+    },
+    {
+        "name": "d_a_b_nusi",
+        "rel_id": 184
+    },
+    {
+        "name": "d_a_b_nusi_tentakle",
+        "rel_id": 185
+    },
+    {
+        "name": "d_a_b_nusi_bullet",
+        "rel_id": 186
+    },
+    {
+        "name": "d_a_obj_light_line",
+        "rel_id": 187
+    },
+    {
+        "name": "d_a_obj_light_shaft_small",
+        "rel_id": 188
+    },
+    {
+        "name": "d_t_light_shaft_eff",
+        "rel_id": 189
+    },
+    {
+        "name": "d_t_megami_diving",
+        "rel_id": 190
+    },
+    {
+        "name": "d_a_e_syakomaito",
+        "rel_id": 192
+    },
+    {
+        "name": "d_a_e_mr",
+        "rel_id": 193
+    },
+    {
+        "name": "d_a_e_ph",
+        "rel_id": 194
+    },
+    {
+        "name": "d_a_b_kr",
+        "rel_id": 195
+    },
+    {
+        "name": "d_a_b_kr_hair",
+        "rel_id": 196
+    },
+    {
+        "name": "d_a_b_kr_arm",
+        "rel_id": 197
+    },
+    {
+        "name": "d_a_obj_flying_clawshot_target",
+        "rel_id": 198
+    },
+    {
+        "name": "d_a_obj_distant_ship",
+        "rel_id": 199
+    },
+    {
+        "name": "d_t_shutter_fence_permission",
+        "rel_id": 201
+    },
+    {
+        "name": "d_a_obj_shutter",
+        "rel_id": 202
+    },
+    {
+        "name": "d_a_obj_shutter_change_scene",
+        "rel_id": 203
+    },
+    {
+        "name": "d_a_obj_door_boss",
+        "rel_id": 204
+    },
+    {
+        "name": "d_a_obj_door",
+        "rel_id": 205
+    },
+    {
+        "name": "d_a_obj_fence",
+        "rel_id": 206
+    },
+    {
+        "name": "d_t_shutter_fence_forbiddance",
+        "rel_id": 207
+    },
+    {
+        "name": "d_a_obj_trolley_shutter",
+        "rel_id": 208
+    },
+    {
+        "name": "d_a_obj_tr_shutter_cs",
+        "rel_id": 209
+    },
+    {
+        "name": "d_a_obj_bg",
+        "rel_id": 210
+    },
+    {
+        "name": "d_t_miechan",
+        "rel_id": 213
+    },
+    {
+        "name": "d_a_demo_npc_bird",
+        "rel_id": 214
+    },
+    {
+        "name": "d_a_npc_rival",
+        "rel_id": 215
+    },
+    {
+        "name": "d_a_npc_rival_lod",
+        "rel_id": 216
+    },
+    {
+        "name": "d_a_npc_kobun",
+        "rel_id": 217
+    },
+    {
+        "name": "d_a_npc_kobun2",
+        "rel_id": 218
+    },
+    {
+        "name": "d_a_npc_kobun_b_night",
+        "rel_id": 219
+    },
+    {
+        "name": "d_a_npc_shinkan",
+        "rel_id": 220
+    },
+    {
+        "name": "d_a_npc_shinkan2",
+        "rel_id": 221
+    },
+    {
+        "name": "d_a_npc_goddess_zelda",
+        "rel_id": 222
+    },
+    {
+        "name": "d_a_npc_zelda",
+        "rel_id": 223
+    },
+    {
+        "name": "d_a_npc_daishinkan",
+        "rel_id": 224
+    },
+    {
+        "name": "d_a_npc_desertrobot",
+        "rel_id": 225
+    },
+    {
+        "name": "d_a_npc_desertrobot_captain",
+        "rel_id": 226
+    },
+    {
+        "name": "d_a_npc_ce_friend",
+        "rel_id": 227
+    },
+    {
+        "name": "d_a_npc_ce_lady",
+        "rel_id": 228
+    },
+    {
+        "name": "d_a_npc_toilet_ghost",
+        "rel_id": 229
+    },
+    {
+        "name": "d_a_npc_sorajima_father",
+        "rel_id": 230
+    },
+    {
+        "name": "d_a_npc_sorajima_mother",
+        "rel_id": 231
+    },
+    {
+        "name": "d_a_npc_sorajima_girl",
+        "rel_id": 232
+    },
+    {
+        "name": "d_a_npc_kyui_wizard",
+        "rel_id": 233
+    },
+    {
+        "name": "d_a_npc_kyui_first",
+        "rel_id": 234
+    },
+    {
+        "name": "d_a_npc_ord_kyui",
+        "rel_id": 235
+    },
+    {
+        "name": "d_a_npc_kyui_elder",
+        "rel_id": 236
+    },
+    {
+        "name": "d_a_npc_kyui_third",
+        "rel_id": 237
+    },
+    {
+        "name": "d_a_npc_kyui4",
+        "rel_id": 238
+    },
+    {
+        "name": "d_a_npc_testman",
+        "rel_id": 239
+    },
+    {
+        "name": "d_a_npc_salesman_s",
+        "rel_id": 240
+    },
+    {
+        "name": "d_a_npc_douguyanight",
+        "rel_id": 241
+    },
+    {
+        "name": "d_a_npc_medicinewifenight",
+        "rel_id": 242
+    },
+    {
+        "name": "d_a_npc_medicine_husband_night",
+        "rel_id": 243
+    },
+    {
+        "name": "d_a_npc_junk_night",
+        "rel_id": 244
+    },
+    {
+        "name": "d_a_npc_azukariya_night",
+        "rel_id": 245
+    },
+    {
+        "name": "d_a_npc_douguya_mother",
+        "rel_id": 246
+    },
+    {
+        "name": "d_a_npc_douguya_mother_lod",
+        "rel_id": 247
+    },
+    {
+        "name": "d_a_npc_junk_mother",
+        "rel_id": 248
+    },
+    {
+        "name": "d_a_npc_junk_mother_lod",
+        "rel_id": 249
+    },
+    {
+        "name": "d_a_npc_senpaia_mother",
+        "rel_id": 250
+    },
+    {
+        "name": "d_a_npc_senpaia_mother_lod",
+        "rel_id": 251
+    },
+    {
+        "name": "d_a_npc_sorajima_man_e",
+        "rel_id": 252
+    },
+    {
+        "name": "d_a_npc_sorajima_man_d",
+        "rel_id": 253
+    },
+    {
+        "name": "d_a_npc_azukariya_father",
+        "rel_id": 254
+    },
+    {
+        "name": "d_a_npc_daishinkan_n",
+        "rel_id": 255
+    },
+    {
+        "name": "d_a_npc_sorajima_male",
+        "rel_id": 256
+    },
+    {
+        "name": "d_a_npc_bird_sowoman",
+        "rel_id": 257
+    },
+    {
+        "name": "d_a_npc_sorajima_female",
+        "rel_id": 258
+    },
+    {
+        "name": "d_a_npc_kensei",
+        "rel_id": 259
+    },
+    {
+        "name": "d_a_npc_bird_zelda",
+        "rel_id": 261
+    },
+    {
+        "name": "d_a_npc_old_impa",
+        "rel_id": 262
+    },
+    {
+        "name": "d_a_npc_young_impa",
+        "rel_id": 263
+    },
+    {
+        "name": "d_a_npc_bamboo_goron",
+        "rel_id": 264
+    },
+    {
+        "name": "d_a_npc_saltalk",
+        "rel_id": 265
+    },
+    {
+        "name": "d_a_npc_volcano_f2_salbo",
+        "rel_id": 266
+    },
+    {
+        "name": "d_a_npc_sorajima_male3",
+        "rel_id": 267
+    },
+    {
+        "name": "d_a_npc_sorajima_male2",
+        "rel_id": 268
+    },
+    {
+        "name": "d_a_npc_pumpkin_master",
+        "rel_id": 269
+    },
+    {
+        "name": "d_a_npc_pumpkin_daughter",
+        "rel_id": 270
+    },
+    {
+        "name": "d_a_npc_insect_capture_game_kobun",
+        "rel_id": 271
+    },
+    {
+        "name": "d_a_npc_pumpkin_clay_shooting",
+        "rel_id": 272
+    },
+    {
+        "name": "d_a_npc_fire_dragon",
+        "rel_id": 273
+    },
+    {
+        "name": "d_a_npc_thunder_dragon",
+        "rel_id": 274
+    },
+    {
+        "name": "d_a_npc_thunder_dragon_skull",
+        "rel_id": 275
+    },
+    {
+        "name": "d_a_npc_thunder_dragon_bone",
+        "rel_id": 276
+    },
+    {
+        "name": "d_t_sword_battle_game",
+        "rel_id": 277
+    },
+    {
+        "name": "d_t_siren_time_attack",
+        "rel_id": 278
+    },
+    {
+        "name": "d_a_npc_aqua_dragon",
+        "rel_id": 279
+    },
+    {
+        "name": "d_a_npc_girahim",
+        "rel_id": 280
+    },
+    {
+        "name": "d_a_npc_uranaiya",
+        "rel_id": 281
+    },
+    {
+        "name": "d_a_npc_gra",
+        "rel_id": 282
+    },
+    {
+        "name": "d_a_npc_grc",
+        "rel_id": 283
+    },
+    {
+        "name": "d_a_npc_grd",
+        "rel_id": 284
+    },
+    {
+        "name": "d_a_npc_sorajima_boy",
+        "rel_id": 285
+    },
+    {
+        "name": "d_a_npc_akumakun",
+        "rel_id": 286
+    },
+    {
+        "name": "d_a_npc_aku_human",
+        "rel_id": 287
+    },
+    {
+        "name": "d_a_npc_suisei",
+        "rel_id": 288
+    },
+    {
+        "name": "d_a_npc_suisei_sub",
+        "rel_id": 289
+    },
+    {
+        "name": "d_a_npc_suisei_normal",
+        "rel_id": 290
+    },
+    {
+        "name": "d_t_mole_mgr",
+        "rel_id": 291
+    },
+    {
+        "name": "d_a_npc_mole_mg",
+        "rel_id": 292
+    },
+    {
+        "name": "d_a_npc_mole",
+        "rel_id": 293
+    },
+    {
+        "name": "d_a_npc_mole_normal",
+        "rel_id": 294
+    },
+    {
+        "name": "d_a_npc_mole_normal2",
+        "rel_id": 295
+    },
+    {
+        "name": "d_a_npc_mole_es_nml",
+        "rel_id": 296
+    },
+    {
+        "name": "d_a_npc_mole_tackle",
+        "rel_id": 297
+    },
+    {
+        "name": "d_a_npc_mole_tackle2",
+        "rel_id": 298
+    },
+    {
+        "name": "d_a_npc_chef",
+        "rel_id": 299
+    },
+    {
+        "name": "d_a_npc_salbage_robot_fly_base",
+        "rel_id": 300
+    },
+    {
+        "name": "d_a_npc_salbage_robot_repair",
+        "rel_id": 301
+    },
+    {
+        "name": "d_a_npc_salbage_robot_fly",
+        "rel_id": 302
+    },
+    {
+        "name": "d_a_npc_terry",
+        "rel_id": 303
+    },
+    {
+        "name": "d_a_npc_dive_game_judge",
+        "rel_id": 304
+    },
+    {
+        "name": "d_a_knight_leader_bird",
+        "rel_id": 305
+    },
+    {
+        "name": "d_a_npc_knight_leader",
+        "rel_id": 306
+    },
+    {
+        "name": "d_a_npc_senpai",
+        "rel_id": 307
+    },
+    {
+        "name": "d_a_npc_senpai_b",
+        "rel_id": 308
+    },
+    {
+        "name": "d_a_npc_regret_rival",
+        "rel_id": 309
+    },
+    {
+        "name": "d_a_npc_rescue",
+        "rel_id": 310
+    },
+    {
+        "name": "d_a_npc_salbage_robot",
+        "rel_id": 311
+    },
+    {
+        "name": "d_a_fly_slb",
+        "rel_id": 312
+    },
+    {
+        "name": "d_a_obj_propera",
+        "rel_id": 313
+    },
+    {
+        "name": "d_a_obj_roulette",
+        "rel_id": 314
+    },
+    {
+        "name": "d_a_npc_mole_elder",
+        "rel_id": 315
+    },
+    {
+        "name": "d_a_npc_salbage_morry",
+        "rel_id": 316
+    },
+    {
+        "name": "d_a_npc_mole_sal",
+        "rel_id": 317
+    },
+    {
+        "name": "d_a_obj_pot_sal",
+        "rel_id": 318
+    },
+    {
+        "name": "d_a_obj_mole_soil",
+        "rel_id": 319
+    },
+    {
+        "name": "d_a_little_bird_mgr",
+        "rel_id": 320
+    },
+    {
+        "name": "d_a_little_bird",
+        "rel_id": 321
+    },
+    {
+        "name": "d_a_fish_mgr",
+        "rel_id": 322
+    },
+    {
+        "name": "d_a_fish",
+        "rel_id": 323
+    },
+    {
+        "name": "d_a_eel",
+        "rel_id": 324
+    },
+    {
+        "name": "d_a_b_bbshockwave",
+        "rel_id": 327
+    },
+    {
+        "name": "d_a_npc_bbrvl",
+        "rel_id": 328
+    },
+    {
+        "name": "d_a_obj_bigbomb_flower",
+        "rel_id": 329
+    },
+    {
+        "name": "d_a_obj_bblargebomb",
+        "rel_id": 330
+    },
+    {
+        "name": "d_a_obj_bbstone",
+        "rel_id": 331
+    },
+    {
+        "name": "d_a_b_mg",
+        "rel_id": 332
+    },
+    {
+        "name": "d_a_b_lastboss",
+        "rel_id": 333
+    },
+    {
+        "name": "d_a_morita_test",
+        "rel_id": 334
+    },
+    {
+        "name": "d_a_e_am",
+        "rel_id": 335
+    },
+    {
+        "name": "d_t_bb_quake",
+        "rel_id": 336
+    },
+    {
+        "name": "d_t_musou",
+        "rel_id": 337
+    },
+    {
+        "name": "d_t_group_test",
+        "rel_id": 338
+    },
+    {
+        "name": "d_t_group_summon",
+        "rel_id": 339
+    },
+    {
+        "name": "d_t_bcal_tag",
+        "rel_id": 340
+    },
+    {
+        "name": "d_a_e_sm",
+        "rel_id": 341
+    },
+    {
+        "name": "d_a_e_beamos",
+        "rel_id": 342
+    },
+    {
+        "name": "d_t_gekotag",
+        "rel_id": 343
+    },
+    {
+        "name": "d_a_e_geko",
+        "rel_id": 344
+    },
+    {
+        "name": "d_a_e_siren",
+        "rel_id": 345
+    },
+    {
+        "name": "d_a_e_po",
+        "rel_id": 346
+    },
+    {
+        "name": "d_a_obj_ring",
+        "rel_id": 347
+    },
+    {
+        "name": "d_a_e_or",
+        "rel_id": 348
+    },
+    {
+        "name": "d_a_e_or_cannon",
+        "rel_id": 349
+    },
+    {
+        "name": "d_a_or_cannon_bullet",
+        "rel_id": 350
+    },
+    {
+        "name": "d_a_e_eye",
+        "rel_id": 351
+    },
+    {
+        "name": "d_a_obj_hole",
+        "rel_id": 352
+    },
+    {
+        "name": "d_a_obj_into_hole",
+        "rel_id": 353
+    },
+    {
+        "name": "d_a_e_spark",
+        "rel_id": 354
+    },
+    {
+        "name": "d_a_e_magma",
+        "rel_id": 355
+    },
+    {
+        "name": "d_a_e_maguppo",
+        "rel_id": 356
+    },
+    {
+        "name": "d_a_bullet_maguppo",
+        "rel_id": 357
+    },
+    {
+        "name": "d_a_e_bs",
+        "rel_id": 358
+    },
+    {
+        "name": "d_a_e_sf",
+        "rel_id": 359
+    },
+    {
+        "name": "d_a_e_sf4",
+        "rel_id": 360
+    },
+    {
+        "name": "d_a_e_st",
+        "rel_id": 361
+    },
+    {
+        "name": "d_a_e_st_wire",
+        "rel_id": 362
+    },
+    {
+        "name": "d_a_control",
+        "rel_id": 363
+    },
+    {
+        "name": "d_t_ks",
+        "rel_id": 364
+    },
+    {
+        "name": "d_a_e_ks",
+        "rel_id": 365
+    },
+    {
+        "name": "d_a_e_hb",
+        "rel_id": 366
+    },
+    {
+        "name": "d_a_e_hb_leaf",
+        "rel_id": 367
+    },
+    {
+        "name": "d_a_e_remly",
+        "rel_id": 368
+    },
+    {
+        "name": "d_a_e_lizarufos",
+        "rel_id": 369
+    },
+    {
+        "name": "d_a_e_liza_tail",
+        "rel_id": 370
+    },
+    {
+        "name": "d_a_e_hidokari",
+        "rel_id": 371
+    },
+    {
+        "name": "d_a_e_hidokaris",
+        "rel_id": 372
+    },
+    {
+        "name": "d_a_e_hydra",
+        "rel_id": 373
+    },
+    {
+        "name": "d_a_e_gunho",
+        "rel_id": 374
+    },
+    {
+        "name": "d_a_e_gunhob",
+        "rel_id": 375
+    },
+    {
+        "name": "d_a_e_battleshipfish",
+        "rel_id": 376
+    },
+    {
+        "name": "d_a_e_cactus",
+        "rel_id": 377
+    },
+    {
+        "name": "d_a_e_hoc",
+        "rel_id": 378
+    },
+    {
+        "name": "d_a_e_oc",
+        "rel_id": 379
+    },
+    {
+        "name": "d_a_e_kumite_gira",
+        "rel_id": 380
+    },
+    {
+        "name": "d_a_obj_pipe",
+        "rel_id": 381
+    },
+    {
+        "name": "d_a_e_bc",
+        "rel_id": 382
+    },
+    {
+        "name": "d_a_e_bce",
+        "rel_id": 383
+    },
+    {
+        "name": "d_a_e_bcal",
+        "rel_id": 384
+    },
+    {
+        "name": "d_a_e_bc_arrow",
+        "rel_id": 385
+    },
+    {
+        "name": "d_a_e_bcal_arrow",
+        "rel_id": 386
+    },
+    {
+        "name": "d_t_bcz",
+        "rel_id": 387
+    },
+    {
+        "name": "d_a_e_bcz",
+        "rel_id": 388
+    },
+    {
+        "name": "d_a_e_skytail",
+        "rel_id": 389
+    },
+    {
+        "name": "d_a_e_hp",
+        "rel_id": 390
+    },
+    {
+        "name": "d_a_e_chaser_b",
+        "rel_id": 391
+    },
+    {
+        "name": "d_a_e_gue",
+        "rel_id": 392
+    },
+    {
+        "name": "d_a_bullet_gue",
+        "rel_id": 393
+    },
+    {
+        "name": "d_a_e_ge",
+        "rel_id": 394
+    },
+    {
+        "name": "d_a_e_rupee_gue",
+        "rel_id": 395
+    },
+    {
+        "name": "d_a_e_gerock",
+        "rel_id": 396
+    },
+    {
+        "name": "d_a_e_tn2",
+        "rel_id": 397
+    },
+    {
+        "name": "d_a_e_hidory",
+        "rel_id": 398
+    },
+    {
+        "name": "d_a_hidory_fire",
+        "rel_id": 399
+    },
+    {
+        "name": "d_a_e_ws",
+        "rel_id": 400
+    },
+    {
+        "name": "d_a_npc_bird",
+        "rel_id": 401
+    },
+    {
+        "name": "d_a_b_girahimu_base",
+        "rel_id": 402
+    },
+    {
+        "name": "d_a_b_girahimu",
+        "rel_id": 403
+    },
+    {
+        "name": "d_a_b_girahimu2",
+        "rel_id": 404
+    },
+    {
+        "name": "d_a_b_girahimu3_base",
+        "rel_id": 405
+    },
+    {
+        "name": "d_a_b_girahimu3_first",
+        "rel_id": 406
+    },
+    {
+        "name": "d_a_b_girahimu3_second",
+        "rel_id": 407
+    },
+    {
+        "name": "d_a_b_girahimu3_third",
+        "rel_id": 408
+    },
+    {
+        "name": "d_a_obj_girahimu_sword_link",
+        "rel_id": 409
+    },
+    {
+        "name": "d_a_obj_girahimu_knife",
+        "rel_id": 410
+    },
+    {
+        "name": "d_a_obj_bird_sp",
+        "rel_id": 411
+    },
+    {
+        "name": "d_a_girahimu_sword_beam",
+        "rel_id": 412
+    },
+    {
+        "name": "d_a_b_asura",
+        "rel_id": 413
+    },
+    {
+        "name": "d_a_b_asura_arm",
+        "rel_id": 414
+    },
+    {
+        "name": "d_a_b_asura_foot",
+        "rel_id": 415
+    },
+    {
+        "name": "d_a_asura_bullet",
+        "rel_id": 416
+    },
+    {
+        "name": "d_a_obj_asura_sword",
+        "rel_id": 417
+    },
+    {
+        "name": "d_a_obj_asura_pillar",
+        "rel_id": 418
+    },
+    {
+        "name": "d_a_invisible",
+        "rel_id": 419
+    },
+    {
+        "name": "d_a_e_mr_shield",
+        "rel_id": 420
+    },
+    {
+        "name": "d_a_e_kg",
+        "rel_id": 421
+    },
+    {
+        "name": "d_a_npc_honeycomb",
+        "rel_id": 422
+    },
+    {
+        "name": "d_a_npc_bee",
+        "rel_id": 423
+    },
+    {
+        "name": "d_a_heartf",
+        "rel_id": 424
+    },
+    {
+        "name": "d_a_bombf",
+        "rel_id": 425
+    },
+    {
+        "name": "d_a_obj_carry_stone",
+        "rel_id": 427
+    },
+    {
+        "name": "d_a_obj_roll_rock",
+        "rel_id": 428
+    },
+    {
+        "name": "d_a_col_stp",
+        "rel_id": 429
+    },
+    {
+        "name": "d_a_kanban",
+        "rel_id": 430
+    },
+    {
+        "name": "d_a_obj_bamboo",
+        "rel_id": 431
+    },
+    {
+        "name": "d_a_obj_swhit",
+        "rel_id": 432
+    },
+    {
+        "name": "d_a_obj_sw_sword_beam",
+        "rel_id": 433
+    },
+    {
+        "name": "d_a_obj_sw_harp",
+        "rel_id": 434
+    },
+    {
+        "name": "d_a_obj_siren_barrier",
+        "rel_id": 435
+    },
+    {
+        "name": "d_a_obj_toge_trap",
+        "rel_id": 436
+    },
+    {
+        "name": "d_a_pumpkin",
+        "rel_id": 437
+    },
+    {
+        "name": "d_a_obj_pumpkin_leaf",
+        "rel_id": 438
+    },
+    {
+        "name": "d_a_obj_water_nut_leaf",
+        "rel_id": 439
+    },
+    {
+        "name": "d_a_obj_water_nut",
+        "rel_id": 440
+    },
+    {
+        "name": "d_a_obj_tableware",
+        "rel_id": 441
+    },
+    {
+        "name": "d_a_obj_sw_whiplever",
+        "rel_id": 442
+    },
+    {
+        "name": "d_a_obj_mushroom",
+        "rel_id": 443
+    },
+    {
+        "name": "d_a_t_wood_area",
+        "rel_id": 444
+    },
+    {
+        "name": "d_a_obj_fruit",
+        "rel_id": 445
+    },
+    {
+        "name": "d_a_obj_skull",
+        "rel_id": 446
+    },
+    {
+        "name": "d_t_sound",
+        "rel_id": 447
+    },
+    {
+        "name": "d_a_obj_rock_dragon",
+        "rel_id": 448
+    },
+    {
+        "name": "d_t_insect",
+        "rel_id": 449
+    },
+    {
+        "name": "d_a_insect_ladybug",
+        "rel_id": 450
+    },
+    {
+        "name": "d_a_insect_dragonfly",
+        "rel_id": 451
+    },
+    {
+        "name": "d_a_insect_beetle",
+        "rel_id": 452
+    },
+    {
+        "name": "d_a_insect_grasshopper",
+        "rel_id": 453
+    },
+    {
+        "name": "d_a_insect_cicada",
+        "rel_id": 454
+    },
+    {
+        "name": "d_a_insect_ant",
+        "rel_id": 455
+    },
+    {
+        "name": "d_a_insect_butterfly",
+        "rel_id": 456
+    },
+    {
+        "name": "d_a_insect_scarab",
+        "rel_id": 457
+    },
+    {
+        "name": "d_a_insect_firefly",
+        "rel_id": 458
+    },
+    {
+        "name": "d_a_obj_sail",
+        "rel_id": 459
+    },
+    {
+        "name": "d_a_obj_lotus_flower",
+        "rel_id": 460
+    },
+    {
+        "name": "d_a_obj_lotus_seed",
+        "rel_id": 461
+    },
+    {
+        "name": "d_a_obj_lock",
+        "rel_id": 462
+    },
+    {
+        "name": "d_a_obj_lamp",
+        "rel_id": 463
+    },
+    {
+        "name": "d_t_rock_boat",
+        "rel_id": 464
+    },
+    {
+        "name": "d_a_obj_tower_gearD101",
+        "rel_id": 465
+    },
+    {
+        "name": "d_a_obj_shutter_waterD101",
+        "rel_id": 466
+    },
+    {
+        "name": "d_a_obj_ancient_jewels",
+        "rel_id": 467
+    },
+    {
+        "name": "d_a_obj_mg_pumpkin",
+        "rel_id": 468
+    },
+    {
+        "name": "d_a_obj_flag",
+        "rel_id": 469
+    },
+    {
+        "name": "d_a_obj_chandelier",
+        "rel_id": 470
+    },
+    {
+        "name": "d_t_pumpkin_clay",
+        "rel_id": 471
+    },
+    {
+        "name": "d_t_reaction",
+        "rel_id": 472
+    },
+    {
+        "name": "d_a_obj_fruitB",
+        "rel_id": 474
+    },
+    {
+        "name": "d_a_obj_diviner_crystal",
+        "rel_id": 475
+    },
+    {
+        "name": "d_t_noeffect_area",
+        "rel_id": 476
+    },
+    {
+        "name": "d_t_D3_scene_change",
+        "rel_id": 477
+    },
+    {
+        "name": "d_a_obj_decoA",
+        "rel_id": 478
+    },
+    {
+        "name": "d_a_obj_decoB",
+        "rel_id": 479
+    },
+    {
+        "name": "d_a_obj_sandbag",
+        "rel_id": 480
+    },
+    {
+        "name": "d_a_obj_paint",
+        "rel_id": 481
+    },
+    {
+        "name": "d_a_obj_control_panel",
+        "rel_id": 482
+    },
+    {
+        "name": "d_a_obj_underground_switch",
+        "rel_id": 483
+    },
+    {
+        "name": "d_a_obj_clearness_wall",
+        "rel_id": 484
+    },
+    {
+        "name": "d_a_obj_ruined_save",
+        "rel_id": 485
+    },
+    {
+        "name": "d_a_obj_triforce",
+        "rel_id": 486
+    },
+    {
+        "name": "d_a_obj_kanban_stone",
+        "rel_id": 487
+    },
+    {
+        "name": "d_a_obj_bubble",
+        "rel_id": 489
+    },
+    {
+        "name": "d_a_obj_scattersand",
+        "rel_id": 490
+    },
+    {
+        "name": "d_a_obj_soil",
+        "rel_id": 491
+    },
+    {
+        "name": "d_a_obj_ivy_rope",
+        "rel_id": 492
+    },
+    {
+        "name": "d_a_obj_grass_coil",
+        "rel_id": 493
+    },
+    {
+        "name": "d_a_obj_rope_igaiga",
+        "rel_id": 494
+    },
+    {
+        "name": "d_a_obj_fire",
+        "rel_id": 495
+    },
+    {
+        "name": "d_a_obj_tubo",
+        "rel_id": 496
+    },
+    {
+        "name": "d_a_obj_tubo_big",
+        "rel_id": 497
+    },
+    {
+        "name": "d_a_obj_chair",
+        "rel_id": 498
+    },
+    {
+        "name": "d_a_obj_blast_rock",
+        "rel_id": 500
+    },
+    {
+        "name": "d_a_obj_sw_dir",
+        "rel_id": 501
+    },
+    {
+        "name": "d_a_obj_sw_dir_door",
+        "rel_id": 502
+    },
+    {
+        "name": "d_a_obj_sw_bank",
+        "rel_id": 503
+    },
+    {
+        "name": "d_a_obj_sw_bank_small",
+        "rel_id": 504
+    },
+    {
+        "name": "d_t_fairytag",
+        "rel_id": 505
+    },
+    {
+        "name": "d_a_bird_mob",
+        "rel_id": 507
+    },
+    {
+        "name": "d_a_obj_ballista_handle",
+        "rel_id": 508
+    },
+    {
+        "name": "d_a_obj_time_boat_bullet",
+        "rel_id": 509
+    },
+    {
+        "name": "d_a_obj_time_door",
+        "rel_id": 510
+    },
+    {
+        "name": "d_a_obj_time_door_before",
+        "rel_id": 511
+    },
+    {
+        "name": "d_t_time_door_beam",
+        "rel_id": 512
+    },
+    {
+        "name": "d_a_obj_col",
+        "rel_id": 513
+    },
+    {
+        "name": "d_a_obj_daynight",
+        "rel_id": 514
+    },
+    {
+        "name": "d_a_obj_building",
+        "rel_id": 515
+    },
+    {
+        "name": "d_a_obj_oct_grass",
+        "rel_id": 516
+    },
+    {
+        "name": "d_a_obj_oct_grass_leaf",
+        "rel_id": 517
+    },
+    {
+        "name": "d_a_obj_tumble_weed",
+        "rel_id": 518
+    },
+    {
+        "name": "d_t_tumble_weed",
+        "rel_id": 519
+    },
+    {
+        "name": "d_a_obj_flower_ancient",
+        "rel_id": 520
+    },
+    {
+        "name": "d_a_obj_barrel",
+        "rel_id": 521
+    },
+    {
+        "name": "d_a_obj_warp",
+        "rel_id": 522
+    },
+    {
+        "name": "d_a_obj_water_jar",
+        "rel_id": 524
+    },
+    {
+        "name": "d_a_obj_stopping_rope",
+        "rel_id": 525
+    },
+    {
+        "name": "d_a_obj_trap_bird_wood",
+        "rel_id": 526
+    },
+    {
+        "name": "d_a_obj_tackle",
+        "rel_id": 527
+    },
+    {
+        "name": "d_t_tackle",
+        "rel_id": 528
+    },
+    {
+        "name": "d_a_obj_vortex",
+        "rel_id": 529
+    },
+    {
+        "name": "d_a_obj_tower_bomb",
+        "rel_id": 530
+    },
+    {
+        "name": "d_a_obj_seat_sword",
+        "rel_id": 531
+    },
+    {
+        "name": "d_a_obj_pole_stony",
+        "rel_id": 532
+    },
+    {
+        "name": "d_a_obj_sword_candle",
+        "rel_id": 533
+    },
+    {
+        "name": "d_a_obj_save",
+        "rel_id": 534
+    },
+    {
+        "name": "d_a_obj_pool_cock",
+        "rel_id": 535
+    },
+    {
+        "name": "d_a_obj_firewall",
+        "rel_id": 536
+    },
+    {
+        "name": "d_t_harp",
+        "rel_id": 537
+    },
+    {
+        "name": "d_a_obj_sword_stab",
+        "rel_id": 538
+    },
+    {
+        "name": "d_a_obj_goddess_cube",
+        "rel_id": 539
+    },
+    {
+        "name": "d_a_obj_time_block",
+        "rel_id": 540
+    },
+    {
+        "name": "d_a_obj_move_elec",
+        "rel_id": 541
+    },
+    {
+        "name": "d_a_obj_lava_d201",
+        "rel_id": 542
+    },
+    {
+        "name": "d_a_obj_harp_hint",
+        "rel_id": 543
+    },
+    {
+        "name": "d_a_obj_F302_light",
+        "rel_id": 544
+    },
+    {
+        "name": "d_a_obj_toD3_stone_figure",
+        "rel_id": 545
+    },
+    {
+        "name": "d_a_obj_B300_sand",
+        "rel_id": 546
+    },
+    {
+        "name": "d_t_dowsing",
+        "rel_id": 547
+    },
+    {
+        "name": "d_t_map_mark",
+        "rel_id": 548
+    },
+    {
+        "name": "d_t_beetle",
+        "rel_id": 549
+    },
+    {
+        "name": "d_t_effect_gen",
+        "rel_id": 550
+    },
+    {
+        "name": "d_t_time_area_check",
+        "rel_id": 551
+    },
+    {
+        "name": "d_t_restart_time_stone",
+        "rel_id": 552
+    },
+    {
+        "name": "d_a_shop_sample",
+        "rel_id": 553
+    },
+    {
+        "name": "d_a_obj_terry_gimmick",
+        "rel_id": 554
+    },
+    {
+        "name": "d_a_obj_terry_switch",
+        "rel_id": 555
+    },
+    {
+        "name": "d_a_obj_terry_hole",
+        "rel_id": 556
+    },
+    {
+        "name": "d_a_obj_terry_bicycle",
+        "rel_id": 557
+    },
+    {
+        "name": "d_a_obj_junk_repairing",
+        "rel_id": 558
+    },
+    {
+        "name": "d_a_co_test",
+        "rel_id": 559
+    },
+    {
+        "name": "d_a_obj_arrow_switch",
+        "rel_id": 560
+    },
+    {
+        "name": "d_a_obj_vent_fan",
+        "rel_id": 561
+    },
+    {
+        "name": "d_a_obj_electric_light",
+        "rel_id": 562
+    },
+    {
+        "name": "d_a_obj_water_switch",
+        "rel_id": 563
+    },
+    {
+        "name": "d_a_obj_rotation_light",
+        "rel_id": 564
+    },
+    {
+        "name": "d_a_obj_hole_minigame",
+        "rel_id": 565
+    },
+    {
+        "name": "d_a_obj_cloud_dive",
+        "rel_id": 566
+    },
+    {
+        "name": "d_a_obj_musasabi",
+        "rel_id": 567
+    },
+    {
+        "name": "d_a_obj_fortune_ring",
+        "rel_id": 568
+    },
+    {
+        "name": "d_a_obj_blow_coal",
+        "rel_id": 569
+    },
+    {
+        "name": "d_a_obj_spike",
+        "rel_id": 570
+    },
+    {
+        "name": "d_a_obj_smoke",
+        "rel_id": 572
+    },
+    {
+        "name": "d_a_obj_lighthouse_light",
+        "rel_id": 573
+    },
+    {
+        "name": "d_a_obj_water_igaiga",
+        "rel_id": 574
+    },
+    {
+        "name": "d_a_obj_blade",
+        "rel_id": 575
+    },
+    {
+        "name": "d_a_obj_fire_obstacle",
+        "rel_id": 576
+    },
+    {
+        "name": "d_a_obj_fire_pillar",
+        "rel_id": 577
+    },
+    {
+        "name": "d_a_obj_guard_log",
+        "rel_id": 578
+    },
+    {
+        "name": "d_a_obj_slice_log",
+        "rel_id": 579
+    },
+    {
+        "name": "d_a_obj_slice_log_parts",
+        "rel_id": 580
+    },
+    {
+        "name": "d_a_obj_stage_debris",
+        "rel_id": 581
+    },
+    {
+        "name": "d_a_obj_ground_cover",
+        "rel_id": 582
+    },
+    {
+        "name": "d_a_obj_cumul_cloud",
+        "rel_id": 583
+    },
+    {
+        "name": "d_a_obj_under_cloud",
+        "rel_id": 584
+    },
+    {
+        "name": "d_a_obj_waterfall_F102",
+        "rel_id": 585
+    },
+    {
+        "name": "d_a_obj_god_mark",
+        "rel_id": 586
+    },
+    {
+        "name": "d_a_obj_impa_door",
+        "rel_id": 587
+    },
+    {
+        "name": "d_a_obj_waterfall_D100",
+        "rel_id": 588
+    },
+    {
+        "name": "d_a_obj_girahim_foot",
+        "rel_id": 589
+    },
+    {
+        "name": "d_a_obj_island_LOD",
+        "rel_id": 590
+    },
+    {
+        "name": "d_a_obj_uta_demo_pedest",
+        "rel_id": 591
+    },
+    {
+        "name": "d_a_obj_lava_F200",
+        "rel_id": 592
+    },
+    {
+        "name": "d_a_obj_rope_base",
+        "rel_id": 593
+    },
+    {
+        "name": "d_a_obj_sun_light",
+        "rel_id": 594
+    },
+    {
+        "name": "d_a_obj_siren_2dmap",
+        "rel_id": 595
+    },
+    {
+        "name": "d_a_obj_display_only_nbs",
+        "rel_id": 596
+    },
+    {
+        "name": "d_a_obj_amber",
+        "rel_id": 597
+    },
+    {
+        "name": "d_a_obj_bird_statue",
+        "rel_id": 598
+    },
+    {
+        "name": "d_a_obj_F400_gate_leaf",
+        "rel_id": 599
+    },
+    {
+        "name": "d_a_obj_F400_gate_seal",
+        "rel_id": 600
+    },
+    {
+        "name": "d_a_obj_mapparts",
+        "rel_id": 601
+    },
+    {
+        "name": "d_a_obj_ro_at_target",
+        "rel_id": 602
+    },
+    {
+        "name": "d_t_ro_at_target_manager",
+        "rel_id": 603
+    },
+    {
+        "name": "d_t_musasabi",
+        "rel_id": 604
+    },
+    {
+        "name": "d_t_map_inst",
+        "rel_id": 605
+    },
+    {
+        "name": "d_t_auto_message",
+        "rel_id": 606
+    },
+    {
+        "name": "d_t_ship_slope",
+        "rel_id": 607
+    },
+    {
+        "name": "d_t_ship_flood",
+        "rel_id": 608
+    },
+    {
+        "name": "d_t_barrel",
+        "rel_id": 609
+    },
+    {
+        "name": "d_t_barrel_pos",
+        "rel_id": 610
+    },
+    {
+        "name": "d_t_heat_resist",
+        "rel_id": 611
+    },
+    {
+        "name": "d_t_holy_water",
+        "rel_id": 612
+    },
+    {
+        "name": "d_t_belt_obstacle",
+        "rel_id": 613
+    },
+    {
+        "name": "d_t_drum",
+        "rel_id": 614
+    },
+    {
+        "name": "d_t_roll_attack_log",
+        "rel_id": 615
+    },
+    {
+        "name": "d_t_ship_window",
+        "rel_id": 616
+    },
+    {
+        "name": "d_t_sound_area_mgr",
+        "rel_id": 619
+    },
+    {
+        "name": "d_t_sound_area",
+        "rel_id": 620
+    },
+    {
+        "name": "d_t_at0",
+        "rel_id": 621
+    },
+    {
+        "name": "d_t_telop",
+        "rel_id": 622
+    },
+    {
+        "name": "d_t_skyEnemy",
+        "rel_id": 623
+    },
+    {
+        "name": "d_t_touch",
+        "rel_id": 624
+    },
+    {
+        "name": "d_t_action",
+        "rel_id": 627
+    },
+    {
+        "name": "d_t_scene_change",
+        "rel_id": 628
+    },
+    {
+        "name": "d_t_gate_to_ground",
+        "rel_id": 629
+    },
+    {
+        "name": "d_t_player_restart",
+        "rel_id": 632
+    },
+    {
+        "name": "d_t_sw_area",
+        "rel_id": 633
+    },
+    {
+        "name": "d_t_mole_prohibit",
+        "rel_id": 636
+    },
+    {
+        "name": "d_t_defeat_boss",
+        "rel_id": 637
+    },
+    {
+        "name": "d_t_timer",
+        "rel_id": 638
+    },
+    {
+        "name": "d_t_fence_synchronizer",
+        "rel_id": 639
+    },
+    {
+        "name": "d_t_genki_dws_tgt",
+        "rel_id": 640
+    },
+    {
+        "name": "d_a_obj_item_heart_container",
+        "rel_id": 642
+    },
+    {
+        "name": "d_a_obj_clef",
+        "rel_id": 643
+    },
+    {
+        "name": "d_a_obj_fruit_guts_leaf",
+        "rel_id": 644
+    },
+    {
+        "name": "d_a_obj_swrd_prj",
+        "rel_id": 645
+    },
+    {
+        "name": "d_a_obj_vacu_dust_parts",
+        "rel_id": 646
+    },
+    {
+        "name": "d_a_obj_vacu_dust",
+        "rel_id": 647
+    },
+    {
+        "name": "d_a_obj_rail_post",
+        "rel_id": 648
+    },
+    {
+        "name": "d_a_obj_rail_end",
+        "rel_id": 649
+    },
+    {
+        "name": "d_a_obj_teni_rail",
+        "rel_id": 650
+    },
+    {
+        "name": "d_a_obj_teni_rail_post",
+        "rel_id": 651
+    },
+    {
+        "name": "d_t_clef_manager",
+        "rel_id": 654
+    },
+    {
+        "name": "d_t_clef_game",
+        "rel_id": 655
+    },
+    {
+        "name": "d_t_minigame_insect_capture",
+        "rel_id": 656
+    },
+    {
+        "name": "d_t_spore",
+        "rel_id": 659
+    },
+    {
+        "name": "d_t_mist",
+        "rel_id": 660
+    },
+    {
+        "name": "d_t_sparks",
+        "rel_id": 661
+    },
+    {
+        "name": "d_t_sparks2",
+        "rel_id": 662
+    },
+    {
+        "name": "d_t_kytag",
+        "rel_id": 663
+    },
+    {
+        "name": "d_t_lb_thunder",
+        "rel_id": 664
+    },
+    {
+        "name": "d_t_pltchg",
+        "rel_id": 665
+    },
+    {
+        "name": "d_t_plight",
+        "rel_id": 666
+    },
+    {
+        "name": "d_a_message",
+        "rel_id": 671
+    },
+    {
+        "name": "d_title_manager",
+        "rel_id": 687
+    },
+    {
+        "name": "d_lyt_title_BG",
+        "rel_id": 688
+    },
+    {
+        "name": "d_lyt_seeker_stone",
+        "rel_id": 693
+    },
+    {
+        "name": "d_lyt_file_select",
+        "rel_id": 694
+    },
+    {
+        "name": "d_SoftwareKeyboard",
+        "rel_id": 695
+    },
+    {
+        "name": "d_s_boot",
+        "rel_id": 700
+    }
+]
