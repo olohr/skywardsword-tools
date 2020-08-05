@@ -534,7 +534,7 @@ CityWtr: 1
 SnLight: 1
 NpcRvlL: 1
 BirdSta: 1
-TrpBrdW: 1
+TrpBrdW: 1 related to link's loftwing's cage
 NpcBird: 1
 DecoA: 1
 Vortex: 1

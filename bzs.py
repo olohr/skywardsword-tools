@@ -117,18 +117,23 @@ def objAddExtraInfo(parsed_item):
     if parsed_item['name'] in ['Log','trolley']:
         # flag is second byte
         extraInfo['scenefid'] = (params1 >> 16) & 0xFF
-    elif parsed_item['name'] in ['FrmLand','SwWall']: # SwWall: wall switch
+    elif parsed_item['name'] in ['FrmLand','SwWall','SwDir2','BrgFall','D300Obj']: # SwWall: wall switch, BrgFall: drawbridges in ET and fire dragon room, D300Obj: LMF in lanayru desert
         # flag is third byte
         extraInfo['scenefid'] = (params1 >> 8) & 0xFF
-    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB','WdBoard','SStatue','FShutte','Lotus','WaterSW','FireObs']:# WdBoard: board near staldra in skyview, SStatue are statues you can bomb down in lanayru, FShutte: iron bars, Lotus: lillypad in AC, WaterSW: thirsty frog, FireObs: fire wall
+    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB','WdBoard','SStatue','FShutte','Lotus','WaterSW','FireObs','StprRc','Gear','Lotus','MDvTg','chest','IslTreB','RoAtLog','swsyako','TgDefea']:# WdBoard: board near staldra in skyview, SStatue are statues you can bomb down in lanayru, FShutte: iron bars, Lotus: lillypad in AC, WaterSW: thirsty frog, FireObs: fire wall, StprRc: stopper rock in ET, Gear: Ropes to cut in ET and fire dragon room, MDvTg: megami diving tag used for diving after sailcloth, chest: wardrobes, IslTreB: Treasure island in the sky, RoAtLog: Roll attack log, swsyako: lanayru generators to feed with ampilus, TgDefea: Tag after defeated boss
         # flag is fourth byte
         extraInfo['scenefid'] = params1 & 0xFF
-        if parsed_item['name']=='TgReact':
+        if parsed_item['name'] == 'Lotus':
+            extraInfo['2scenefid'] = (params1 >> 0xE) & 0xFF
+        elif parsed_item['name']=='BlsRock':
+            # sceneflag for walls, that can be half broken
+            extraInfo['2scenefid']=(params1 >> 0x18) & 0xFF
+        elif parsed_item['name']=='TgReact':
             # uses a different item table
             extraInfo['tgreactitemid'] = params2 >> 24
             subtypes = ['bonk','slingshot','gust bellow blow','underwater something']
             extraInfo['subtype'] = subtypes[params1 >> 28]
-        if parsed_item['name']=='saveObj':
+        elif parsed_item['name']=='saveObj':
             # that one skyloft statue
             if parsed_item['anglez'] == 0xFFFE:
                 extraInfo['scenefid']=0xFF
@@ -147,25 +152,45 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name'] in ['Barrel','TimeStn','EAm']: # TimeStn: time shift stone, EAm: Armos
         # flag is between byte 1 and 2
         extraInfo['scenefid'] = (params1 >> 20) & 0xFF
-    elif parsed_item['name'] in ['Tubo','Soil','Wind','ColStp','EEye','Est','Wind03','SldDoor']: # ColStp: Logs before skyloft cave and elsewhere, EEye: Eyes in Skyview, Est: Spider, Wind03: water spot in AC, SldDoor: Door after bosses
+        if parsed_item['name'] == 'Barrel':
+            extraInfo['2scenefid'] = (params1 >> 12) & 0xFF
+    elif parsed_item['name'] in ['Tubo','Soil','Wind','ColStp','EEye','Est','Wind03','SldDoor','Wind02','ERemly','RolRock','Fire','SwBnkS','Char']: # ColStp: Logs before skyloft cave and elsewhere, EEye: Eyes in Skyview, Est: Spider, Wind03: water spot in AC, SldDoor: Door after bosses, Wind02: Appears in Eldin, probably lava fountains, ERemly: Remlit, RolRock: Rolling rocks, SwBnkS: small lanayru node & sandship switches to rotate, Char: Chair
         # flag is between byte 3 and 4
         extraInfo['scenefid'] = (params1 >> 4) & 0xFF
-    elif parsed_item['name'] in ['Kibako', 'PushBlk','vmSand']: # vmSand is sand dust to blow away
+        if parsed_item['name'] == 'SldDoor':
+            extraInfo['2scenefid'] = (params1 >> 0xD) & 0xFF 
+        if parsed_item['name'] == 'Fire':
+            extraInfo['checkscenefid'] = (params1 >> 0x16) & 0xFF
+    elif parsed_item['name'] in ['Kibako', 'PushBlk','vmSand','Truck','BlkRope','Heartf','Windmill']: # vmSand is sand dust to blow away, Truck: minecart at shipcart, BlkRope: Box hanging from rope, Heartf: heartflowers
         # flag is between byte 2 and 3
         extraInfo['scenefid'] = (params1 >> 12) & 0xFF
-    elif parsed_item['name'] in ['Item', 'ArrowSW']: # ArrowSW: Bow switches
+        if parsed_item['name'] == 'Windmill':
+            extraInfo['2scenefid'] = (params1 >> 4) & 0xFF
+    elif parsed_item['name'] in ['Item']:
         # flag is between byte 2 and 3 with bit shift
         extraInfo['scenefid'] = (params1 >> 10) & 0xFF
         if parsed_item['name'] == 'Item':
             extraInfo['itemid'] = params1 & 0xFF
+    elif parsed_item['name'] in ['HitLVSW', 'ArrowSW']: # ArrowSW: Bow switches, HitLVSW: underground switches to move gates in FS
+        extraInfo['scenefid'] = (params1 >> 10) & 0xFF
+        extraInfo['2scenefid'] = (params1 >> 18) & 0xFF
+    elif parsed_item['name'] == 'BlwCoal': # Hot Floor to blow out with gust bellows
+        extraInfo['scenefid'] = (params1) & 0xFF
+        extraInfo['2scenefid'] = (params1 >> 8) & 0xFF
     elif parsed_item['name'] == 'BulbSW': # switches you can whip in ancient cistern
         extraInfo['scenefid'] = (params1 >> 2) & 0xFF
+    elif parsed_item['name'] == 'sw_whip':
+        extraInfo['1scenefid'] = (params1 >> 2) & 0xFF
+        extraInfo['2scenefid'] = (params1 >> 10) & 0xFF
     elif parsed_item['name'] == 'Swhit': # crystal switches hittable with any damage
-        extraInfo['scenefid'] = (params1 >> 3) & 0xFF
+        extraInfo['setscenefid'] = (params1 >> 3) & 0xFF
+        extraInfo['unsetscenefid'] = (params1 >> 0xb) & 0xFF
     elif parsed_item['name'] == 'FenceIr': # Iron gate, openable with sceneflag
         extraInfo['scenefid'] = params1 & 0xFF
     elif parsed_item['name'] == 'DoorBs': # boss door
         extraInfo['scenefid'] = (params1 >> 6) & 0xFF
+    elif parsed_item['name'] == 'EHidoK':
+        extraInfo['scenefid'] = (params1 >> 0x15) & 0xFF
     elif parsed_item['name'].startswith('Npc'):
         triggerstoryf=(params1 >> 10) & 0x7FF
         untriggerstoryf=(params1 >> 21) & 0x7FF
@@ -197,10 +222,18 @@ def objAddExtraInfo(parsed_item):
         extraInfo['untrigscenefid']=params1 & 0xFF
     elif parsed_item['name']=='IvyRope': # IvyRope: Ropes, used for the ones you need to balance and the ones you can swing on
         extraInfo['scenefid']=parsed_item['anglez'] & 0xFF
+        extraInfo['2scenefid']=(params1 >> 12) & 0xFF
     elif parsed_item['name']=='Kanban':
         extraInfo['talk_behaviour']=(params1 >> 4) & 0xFFFF
     elif parsed_item['name']=='KanbanS':
         extraInfo['talk_behaviour']=params1 & 0xFFFF
+        extraInfo['setscenefid']= (params1 >> 0x10) & 0xFF
+    elif parsed_item['name'] == 'BlockUg':
+        extraInfo['scenefid'] = (params1 >> 8) & 0xFF
+        extraInfo['2scenefid'] = (params1 >> 16) & 0xFF
+    elif parsed_item['name'] == 'LvPlt':
+        extraInfo['checkscenefid'] = (params1) & 0xFF
+        extraInfo['setscenefid'] = (params1 >> 8) & 0xFF
     elif parsed_item['name']=='GodCube':
         extraInfo['storyfid']=params1&0x7FF
     elif parsed_item['name']=='ScChang':
@@ -265,11 +298,18 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name'] == 'TgTimer':
         extraInfo['trigscenefid'] = (params1>>16)&0xFF
         extraInfo['setscenefid'] = (params1>>24)&0xFF
+    elif parsed_item['name'] == 'WndMilD':
+        extraInfo['setscenefid'] = (params1>>0)&0xFF
+        extraInfo['2setscenefid'] = ((params1>>0)&0xFF)+1
+        extraInfo['checkscenefid'] = (params1>>8)&0xFF
     elif parsed_item['name'] in ['EBc', 'EMr', 'EBce','EBeamos']:
         # set when the enemy dies
         extraInfo['setscenefid'] = parsed_item['anglez']&0xFF
     elif parsed_item['name'] == 'EHydra':
         extraInfo['setscenefid'] = (params1>>22)&0xFF
+    elif parsed_item['name'] == 'EGumarm': # Magmanos
+        extraInfo['setscenefid'] = params1 & 0xFF
+        extraInfo['set2scenefid'] = (params1 >> 8) & 0xFF
     elif parsed_item['name'] == 'MapMark':
         extraInfo['trigstoryfid'] = (params1 >> 12) & 0x7FF
     #     extraInfo['map_pop_id'] = (parsed_item['anglez'] & 0xFF00) >> 8
