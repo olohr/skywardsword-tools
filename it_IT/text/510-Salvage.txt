@@ -1,0 +1,7 @@
+Questa sembra proprio l'<r<elica del\nmulino >>che stavamo cercando.\n\n\nÈ possibile farla trasportare da\nquel robot. Volete che lo chiami?\n[1]Sì[2-]Non ora
+\x0E\x01\x12\x04\x00\x05Bene, mio signore. Esaminate\nnuovamente l'oggetto se volete\ntrasportarlo.
+\x0E\x01\x12\x04\x00\x05Bene, mio signore. Invio al robot le\nonde psichiche.<pling>
+\x0E\x01\x12\x04\x00dOoh! Faih adorata! Bzzz!\nEccomi qui per te!\n\n\nOh, vuoi che trasporti questo, eh?!\nBzzz!
+\x0E\x01\x12\x04\x00dBene, vi aspetto nel cielo!\nBzzz! Venite presto!!!
+\x0E\x01\x12\x04\x00\x01Mio signore, suggerisco di dirigerci\nanche noi alla volta del cielo e portare\nl'elica a destinazione.
+\x0E\x01\x12\x04\x00dEhi, signor Verdino, sei in mezzo ai\npiedi, spostati da lì!!! Bzzz!

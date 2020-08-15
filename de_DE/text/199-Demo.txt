@@ -1,0 +1,215 @@
+\x0E\x01\x05\x04x\x00\x0E\x00\x03\x02\x06Die folgende Geschichte erzählt man sich unter\neuch Menschen...>>
+\x0E\x01\x05\x04\x00Es war eine grausame, epische Schlacht...
+\x0E\x01\x05\x04\x00Das Böse brach aus der Erde und zeigte seine\nentsetzliche Fratze...
+\x0E\x01\x05\x04\x00Es raubte das Lachen von den Gesichtern\nder Erdenbewohner.
+\x0E\x01\x05\x04\x00Wälder verbrannten, Quellen versiegten, Menschen\nwurden gemordet...
+\x0E\x01\x05\x04\x00Das Böse trachtete nach der <r<unendlichen Kraft>> der Göttin.
+\x0E\x01\x05\x04<\x00Die unendliche Kraft...
+\x0E\x01\x05\x04\x00Heiliges Erbe der Götter, das alle Wünsche erfüllt...
+\x0E\x01\x05\x04\x00Gewaltige Kraft, die schon die Göttin von den\nUrahnen erbte...
+\x0E\x01\x05\x04\x00Um diese Kraft vor den Klauen des Bösen zu schützen...
+\x0E\x01\x05\x04\x00...erhob die Göttin die Überlebenden von der\nErde in den Himmel.
+\x0E\x01\x05\x04\x00Hoch ins Wolkenmeer, den Klauen des Bösen entzogen...
+\x0E\x01\x05\x04\x00Dann zog die Göttin mit ihrem verbleibenden Gefolge in\ndie Schlacht und bannte das Böse schließlich.
+\x0E\x01\x05\x04\x00Der Frieden war wiederhergestellt.
+\x0E\x01\x05\x04d\x00Diese Geschichte erzählt man sich unter euch Menschen...
+\x0E\x01\x05\x04\x00Unzählige Legenden ranken sich um sie.
+\x0E\x01\x05\x04\x00Nun aber öffnet sich das Tor zu einer neuen Legende...
+\x0E\x01\x05\x04\x00Deine Zeit ist gekommen...
+\x0E\x01\x12\x04\x00\x03<b<Link>>...\nZeit, deine Augen zu öffnen.
+Bald, sehr bald schon wirst du einem\ngroßen Schicksal entgegentreten...\n\n\nDie Zeit des Erwachens...\x0E\x01\x05\x04<\x00\n\n\n\n\x0E\x01\x12\x04\x00\x0D<b<Link>>...\x0E\x01\x05\x04-\x00\n\n\n\n\x0E\x01\x12\x04\x00\x0D<b<Link>>...\x0E\x01\x05\x04-\x00\n
+Du Schlafmütze! Sicher liegst du noch\nin den Federn, wenn dich dieser Brief\nerreicht...\x0E\x01\x04\x02\x14 Genauso ist es, oder?\nGuten Morgen, <b<Link>>.\nHeute ist die <r<Vogelreiter-Zeremonie>>!\x0E\x01\x04\x02\x14\n\x0E\x01\x06\x02\xFFCDUnsere Verabredung... ~~~\nErinnerst du dich?\n\n\x0E\x01\x04\x02\x1E<b<Zelda>>
+\x0E\x01\x06\x02\xFCCD<y+<Ein Jüngling, geleitet von der Göttin,\nwird Himmel und Erde verbinden und\ndas Licht bringen...>>\x0E\x01\x06\x02Í\x0E\x01\x05\x04U\x00
+Guten Morgen, <b<Link>>.
+Hat dich mein <r<Wolkenvogel >>etwa\naufgeweckt, Link?\n\x0E\x01\x04\x02\x1E\x0E\x01\x06\x02\xFFCDUnsere Verabredung...\n~~~Hattest du sie vergessen?
+Sieh doch! Mein Kleid, und dieses\nInstrument! Damit werde ich bei der\n<r<Vogelreiter-Zeremonie >>die Göttin\nverkörpern!
+Toll, oder? Vor allem das Instrument...\nMan sagt, dass schon die <r<legendäre\nGöttin>> so eines spielte. Sein Klang ist\nunvergleichlich.\n<b<Vater >>hat mir gesagt, dass man es\n<b<Lyra>> nennt!
+Und wie findest du mein Gewand?\nDen Schal dazu habe ich selbst\ngewebt!\n\nMit diesem Gewand und der Lyra\nverkörpere ich die Göttin! \x0E\x01\x04\x02\x14\nIch wollte, dass du mich so siehst,\nLink!
+Das steht mir doch, oder?\x0E\x01\x04\x02\x1E\n[1]Klar doch![2]Hm...[3]Na ja...
+Meinst du das ernst?\nVielen Dank, Link!
+Hm\x0E\x01\x06\x02\xFECD? \x0E\x01\x06\x02ÍSoll das heißen\x0E\x01\x06\x02\xFECD...\n\x0E\x01\x06\x02ÍEs passt mir nicht? Hm...
+Was druckst du so herum? Sag doch\neinfach, dass es dir nicht gefällt!
+<b<Zelda>>...\nBist du schon fertig mit den\nVorbereitungen?
+Oh, <b<Vater>>!
+Link ist ja auch schon da...\nWunderbar!\n\n\nSelbst du alter Langschläfer hast\nes heute geschafft, pünktlich\naufzustehen!
+Falls du bei der <r<Vogelreiter-Zeremonie\n>>heute gewinnst, darfst du den Rest\nder Zeremonie gemeinsam mit Zelda\nabhalten... also streng dich an!
+Wo wir von Anstrengen reden\x0E\x01\x06\x02\xFECD...
+Hör mal, Vater!\n\n\n\nLink hat in letzter Zeit...\nNun, er hat nicht wirklich viel\nfür die Zeremonie geübt...
+Auch als er geflogen ist, hat er\nsich nicht wirklich angestrengt\x0E\x01\x06\x02\xFECD...\n\n\nWenn er jetzt nicht sofort etwas macht,\nwird er ganz sicher verlieren!
+Reg dich nicht so auf, Liebes!\n\n\n\nDie <r<Vogelreiter-Zeremonie>> prüft\nneben der Geschicklichkeit auch das\nBand zwischen Mensch und Tier... \nEs ist nicht einfach, sie zu gewinnen.
+Sicherlich ist Link nicht\ngerade der fleißigste Schüler...\n\n\nIhr kennt euch bereits seit frühester\nKindheit, also weißt auch du...\n\n\nLink und sein Wolkenvogel\nhaben eine besondere Beziehung.
+Jeder Bewohner des Wolkenhorts\nhat seinen eigenen Vogel.\n\n\nEs ist die Göttin selbst, die jedem\nvon uns einen<r< Schutzvogel >>zur Seite\nstellt... Denn das ist die Aufgabe\nder Wolkenvögel.
+Jeder von uns trifft in jungen Jahren\nhier vor der Statue der Göttin mit\nseinem Vogel zusammen...\nNatürlich war das auch bei euch so.
+Der Wolkenvogel, der Link\nzur Seite gestellt wurde, ist besonders.\nEr ist <r<karminrot>>, so selten, dass wir\nseine Art für ausgestorben hielten.
+Link, du bist mit deinem\nWolkenvogel schicksalhaft verbunden.\n\n\nErinnerst du dich, Liebes?\nDamals, gleich, als Link\nund sein Wolkenvogel sich trafen...\n\nSie schwebten durch die Lüfte, als\nwürden sie sich schon seit Ewigkeiten\nkennen, ganz ohne Übung, mühelos...\n\nIch weiß noch genau, wie eifersüchtig\ndu damals warst!
+Es ist ja auch kein Wunder, dass man\nLink um seine Beziehung\nzu seinem Wolkenvogel beneidet!\n\nDie Menschen haben den Hang, all\ndenen, die irgendwie besonders sind,\nmit Missgunst zu begegnen.
+Du nimmst das zu leicht, Vater!\nDu weißt doch, dass die <r<Vogelreiter-\nZeremonie >>auch eine Prüfung der\nRitterschule ist?
+Wer sich bei der <r<Vogelreiter-\nZeremonie >>nicht richtig anstrengt,\nwird keine guten Noten erhalten...
+Und im schlimmsten Fall wird\nLink\x0E\x01\x06\x02\xFECD...\x0E\x01\x06\x02Í~~~ wird er kein Ritter\nwerden!
+Ist ja schon gut, Liebes!\nJetzt reg dich doch nicht so sehr auf!\n\n\nImmer, wenn es um Link\ngeht, bist du so...
+Link!\nKomm schon, lass uns üben gehen,\nzumindest ein wenig!
+Jetzt komm schon, hierher!\nWas machst du denn?
+Auf geht's!\nSpring von der Plattform und rufe\ndeinen Wolkenvogel, so wie immer...\n\nDie Zeremonie wird bald beginnen,\ndann musst du in Form sein!\n\n\nWie? ~~~Was sagst du da?~~~\nDu kannst deinen Wolkenvogel nicht\nspüren? Sag doch so was nicht! Du\nwillst dich doch nur wieder drücken!\nJetzt komm schon, du musst etwas\nüben. Tu es für mich!
+Bis gleich!\x0E\x01\x05\x04\x1E\x00
+Link!\nDu musst (v) <g<drücken>>, um deinen\nWolkenvogel zu rufen!\x0E\x01\x05\x04<\x00
+Wie? Er kommt...\x0E\x01\x04\x02\x1E\nEr kommt nicht?!?\x0E\x01\x05\x04<\x00
+Nein!\x0E\x01\x05\x04\x1E\x00
+Link!\nIch hab dich!\x0E\x01\x05\x04\x1E\x00
+Geht es euch gut?!?\x0E\x01\x05\x04<\x00
+Es tut mir leid, ich hätte dir\nnicht so viel zumuten dürfen!\nGeht es dir gut?
+Ich frage mich, was mit deinem\nWolkenvogel los ist?\n\n\nDass ein Wolkenvogel dem Ruf seines\nHerren nicht folgt...
+Kannst du deinen Wolkenvogel noch\nimmer nicht fühlen, Link?\n\n\nDie <r<Vogelreiter-Zeremonie >>wird gleich\nbeginnen... Was machen wir jetzt nur?
+\x0E\x01\x08\x02ÍLink... Du hast also vorhin\ndie Wahrheit gesagt\x0E\x01\x06\x02\xFECD...\x0E\x01\x06\x02Í Es tut mir leid.
+Ich muss mich nun erst einmal um\nmeinen Vogel kümmern. \n\n\nDu solltest in der Zwischenzeit nach\ndeinem Wolkenvogel suchen!
+Oh, ist es schon so spät?\nDie <r<Vogelreiter-Zeremonie >>wird dieses\nJahr von Meister <b<Tytor>> organisiert.\nLink!\nKannst du bitte zu Tytor gehen\nund dich mit ihm beratschlagen?
+Vater! Selbst wenn er zu Meister <b<Tytor>>\ngeht, wird der sich doch an den\n<r<Schuldirektor >>wenden. Und das bist du!
+Hm... Da magst du Recht haben.\nDu bist wahrlich meine Tochter!\n\n\nDann werde eben ich mit ihm reden.\nLink, sag doch bitte Tytor,\ndass er in mein Büro kommen soll!
+Das war ganz schön hart, <b<Bado>>!\nDer hat sich gewehrt wie noch etwas...
+Na ja...\nDiese <r<Karminroten>> sind eben hart im\nNehmen, selten, wie sie sind.
+Aber dort, wo er jetzt ist, kommt er\nso schnell nicht wieder raus!
+\x0E\x01\x08\x02\x1CDHey!\x0E\x01\x08\x02Í Link?\nStehst... Stehst du schon lange hier?!?
+Was willst du denn? Ach ja... Heute ist \nja die <r<Vogelreiter-Zeremonie>>...\n\n\nDu willst mich bestimmt fragen,\n\x0E\x01\x06\x02\xFFCDob ich dich gewinnen lasse?\x0E\x01\x06\x02Í\nMachst dir wohl schon in die Hosen!\n\nDu willst wohl <r<gemeinsam>> mit Zelda\ndie Zeremonie auf der <r<Statue der\nGöttin >>begehen, was?\nNa, habe ich Recht?
+Da bist du bei mir aber an den\nFalschen geraten, Bürschchen!\nDas wird ein prächtiger Sieg für\nmich werden, ha!
+\x0E\x01\x06\x02\xFFCDWas sagst du da? ~~~\n\x0E\x01\x06\x02ÍDein rotes Flughühnchen\x0E\x01\x04\x02\x14 lässt sich\nnicht blicken?
+Was da wohl passiert ist?\nVielleicht hat es sich ja verflogen,\ndas blöde Vieh?\x0E\x01\x04\x02\x1E\n\n[1]Ich werde\ngewinnen![2]Mein Vogel![3]Deine Frisur...
+Ach, meinst du wirklich? Nun, die\nZeremonie ist ja heute. Und so ganz\nohne Vogel...
+Hä? Ich habe keine Ahnung, wovon\ndu redest...
+Lass meine Haare aus dem Spiel!\nIch hab die tollste Frisur im ganzen\nWolkenhort!
+<r<Seit wir Kinder waren>>, hat sich Zelda\nimmer nur für dich interessiert!
+Jeden Tag habt ihr euch getroffen,\nwährend unsereins darauf gewartet\nhat, einen Blick von ihr zu erhaschen...
+Du hältst dich wohl für etwas ganz\nBesonderes, was? Glaubst wohl, \ndass unsere Regeln hier für dich\nnicht gelten, hä?
+Mit deiner Arroganz ziehst du den Ruf\nunserer Ritterschule in den Dreck!
+\x0E\x01\x06\x02\xFECDWer zieht hier was in den Dreck?
+Ze-Ze-Zelda...\x0E\x01\x04\x02\x1E\nIch... also...
+Bado!\nHast du es etwa schon wieder auf\nLink abgesehen?
+Wir sind doch alle Schulkameraden...
+Wie kommt es, dass du immer\nLink niedermachst?
+\x0E\x01\x06\x02\xFFCDIch... Ich...
+Was ist los? Raus damit!
+\x0E\x01\x06\x02\xFECDAlso, ich...
+Ach, vergiss es!
+Also dann, Link!\nWenn du heute nicht teilnimmst,\nbleibst du vielleicht noch sitzen.
+Falls dein rotes Hühnchen, auf das du\nso stolz bist, nicht doch noch wieder\nauftaucht...
+Diese drei Kerle...\nVielleicht wissen sie, wo dein\nWolkenvogel steckt...\n\nAber selbst wenn, sie würden es\nuns nicht sagen! Uns bleibt nur,\nselbst nach ihm zu suchen...
+Link!\nIch werde dir helfen und von der Luft\naus nach deinem Vogel suchen!
+Mein Vater unterhält sich gerade\nmit Meister Tytor. Sie werden die\n<r<Vogelreiter-Zeremonie>> wohl\nverschieben, also keine Sorge!
+Los, Link!\nBeeil dich, sonst verpassen wir noch\ndie <r<Vogelreiter-Zeremonie>>!\nRuf deinen Vogel\x0E\x01\x06\x02\xFFCD...
+Hey, Link!\nDiese Stimme\x0E\x01\x06\x02\xFECD...\x0E\x01\x04\x02\x14\x0E\x01\x06\x02Í Hast du das gehört?
+In letzter Zeit habe ich das oft...\nIch habe das Gefühl, als rufe mich\nirgendjemand.
+Link...\nHast du jemals darüber nachgedacht,\nwas sich wohl unter der Wolkendecke\nverbirgt? Alle sagen, da gäbe es nichts.\nAber was heißt das, \x201Eda ist nichts\x201C?\nIch kann daran nicht glauben.\n\n\nIn einem alten Buch meines Vaters\nhabe ich von einem Ort gelesen,\nder <r<Erdland >>heißt und viel größer\nsein soll als unsere Welt...\nNiemand hat sich je dorthin begeben.\nAus irgendeinem Grund bleiben auch\ndie Wolkenvögel stets über den Wolken.\n\n\x0E\x01\x06\x02\xFECDAber...\x0E\x01\x04\x02\x1E\n\x0E\x01\x06\x02ÍEines Tages möchte ich dort\nhinuntergehen und selbst nachsehen.
+Tut mir leid, dass ich dir so was\nerzähle! Komm schon, lass uns gehen!\n\x0E\x01\x04\x02\x14Sieh doch, auch dein Vogel wartet auf\ndich! \nWenn du gesprungen bist, musst du\n(v) <g<drücken>>. Diesmal wird dein\nWolkenvogel kommen!\x0E\x01\x11\x02\x9CD
+
+
+
+Link!
+Sei nicht so ängstlich!
+Herzlichen Glückwunsch,\nLink!
+Die Zeremonie geht weiter!\nAuf zur Statue der Göttin!\x0E\x01\x05\x04´\x00
+Link, du musst nun die\n<y<Vogelfigur>>~~~ der Göttin darbringen.
+Große Göttin, die du uns seit Urzeiten\nbeschützt! An deiner Stelle führe ich\ndiese Zeremonie aus, hoffend auf\ndeinen Segen...
+<y+<Siegreicher Jüngling! Nach alter Sitte\nschenkt dir die Göttin ihren Segen.\n\n\n>><y+<Auf dass die Winde dir und deinem\nWolkenvogel stets gewogen sein mögen.>>
+<y+<Der Segen der Göttin...\nEin weißes Segel, tanzend im Wind...\nFür dich...>>
+Du hast den <y<Paraschal>> erhalten!\n\n\n\nMit ihm kannst du auch dann sicher\nlanden, wenn du von hohen Orten\nhinabspringst!\n\n\x0E\x01\x08\x02\xFFCD\x0E\x01\x06\x02\xFDCD...\x0E\x01\x04\x02\x14\x0E\x01\x06\x02\xFFCDEr riecht vertraut...\x0E\x01\x04\x02\x14
+Was soll das denn?\nDies ist eine heilige Zeremonie...
+Dieser Paraschal... Man sagt, dass die\nGöttin ihn seit Urzeiten den von ihr\n<r<Auserwählten>> zukommen lässt.\n\nAber natürlich kommt dieser Schal\nnicht direkt von der Göttin...\nIch habe ihn selbst für den heutigen\nGewinner gewebt.\n\x0E\x01\x06\x02\xFFCDIch bin so froh, dass du ihn bekommst!\x0E\x01\x04\x02\x1E\n\x0E\x01\x06\x02ÍPass gut auf ihn auf, ja?
+Danke, Link!\nIch bin so glücklich, dass du hier bist.
+So, das war es also...\x0E\x01\x05\x04<\x00
+\x0E\x01\x06\x02\xFECDDu weißt, was du jetzt tun musst...~~~\nOder etwa nicht?\x0E\x01\x04\x02\x1E \n\n\n[1]Keine Ahnung...[2]Ich habe\nAngst...[3]Ja, klar!
+Wirklich? Du bist doch sonst immer\nso schlau...
+Tut mir leid, aber ich glaube, jetzt bist\ndu gefragt!
+Haha, das gefällt mir!\nSo kenne ich dich!
+Von hier aus springst du runter!\x0E\x01\x05\x04<\x00
+Siehst du das <r<runde Bodenrelief >>vor\nder Statue der Göttin? Lande dort,\num die Zeremonie zu vollenden!\n\nWenn du abgesprungen bist, musst du\nkurz vor der Landung (B) drücken,\num den <y<Paraschal>> zu öffnen!\x0E\x01\x11\x02\x1CD\n\nÖffne den Paraschal erst im letzten\nMoment, um deinen Heldenmut unter\nBeweis zu stellen!\n\x0E\x01\x06\x02\xFECDAlso dann...\x0E\x01\x06\x02Í Bist du bereit?
+Das hast du toll gemacht,\nLink!
+Sag mal, Link,\njetzt hast du schon gewonnen...\n
+Das Wetter ist schön, auch der Wind\nbläst nicht zu stark...
+Also...~~~\nWie wäre es mit einem kleinen Ausritt\nüber den Wolken?
+\x0E\x01\x08\x02\x1CD...Link!\nHör mal, Link!
+Den heutigen Tag werde ich mein\nganzes Leben lang nicht vergessen!\nIch freue mich so, dass du gewonnen\nhast!\nUnd dass wir jetzt zu zweit hier\nunterwegs sind...
+Was für ein schöner Tag!
+Weißt du was, Link?
+Du und ich, wir...
+Hey! Was~~~...
+Was ist das?!?
+Link!!!\x0E\x01\x05\x04-\x00
+\x0E\x01\x12\x04\x00\x0DLink...
+Ich warte auf dich.\n\n\n\nDie Zeit des Erwachens ist\ngekommen...\n\n\nDeine Kraft wird benötigt, um\neine große Bestimmung zu erfüllen...
+\x0E\x01\x12\x04\x00\x0DLink...
+Endlich bist du aufgewacht!
+Als dein Wolkenvogel dich bewusstlos\nzurückgebracht hat, habe ich mir\ngroße Sorgen gemacht.\n\nEs sieht aber aus, als hättet ihr keine\ngroßen Verletzungen davongetragen.
+Link... Was ist mit Zelda\ngeschehen? Wart ihr zusammen\nunterwegs?\n\n~~~\x0E\x01\x06\x02\xFFCD...~~~Was~~~ ist mit meiner Tochter?
+Hm... Ein schwarzer Wirbelwind?\nDas klingt nicht nach einem\ngewöhnlichen Sturm...
+Du darfst dich noch nicht zu\nsehr anstrengen!\n\n\nHör mal, Link!\nAls ihr da draußen wart... \x0E\x01\x04\x02\x14War meine\nTochter da irgendwie anders als sonst?
+Hm... Vom <r<Erdland>> hat sie also\ngesprochen? \n\n\nUnd du hast immer wieder den\ngleichen Traum von einem großen\nSchicksal geträumt? Interessant...
+Oh, entschuldige... Ich habe mich\ngerade etwas in Gedanken verloren.\nMit Zelda hat das alles nichts zu tun.\n\nAber da ihr Wolkenvogel bei ihr war,\nwird es ihr wohl gut gehen. Wie dem\nauch sei...\n\nDie Nacht ist finster, und bei diesem\nLicht werden wir nichts finden.
+
+Hör mir zu, Link.\nMach dir keine Sorgen, Zelda geht\nes gut. Davon bin ich überzeugt...
+Ich habe dich erwartet...\nDich, den von meiner Schöpferin\nAuserwählten.
+<b<Phai>>.\nDas ist der Name, den man mir gab.\n\n\nIch komme von jenseits der Zeit,\naus einer fernen Vergangenheit,\num dir dein Schicksal anzutragen.\nDies ist der Zweck meines Daseins.
+Nimm nun das Schwert in die Hand,\nmein Gebieter, Link.
+Ein geheimnisvoller Traum...~~~\nMein plötzliches Erscheinen...~~~\nDie Angst und Sorge um deine\nFreundin...~~~\nWenn ich deine Lage analysiere,\nverwundert mich deine Reaktion\nnur wenig...
+So lass mich dir etwas sagen...\n\n\n\nMeine Worte sind dazu angetan,\ndeine Stimmung zu heben.
+Das Mädchen, das du suchst...\n<b<Zeldas>> Leben ist nicht verloren.
+Diese heilige Maid\x0E\x01\x06\x02\xFECD...~~~\x0E\x01\x06\x02Í Zelda und dich,\neuch erwartet ein großes Schicksal.\n\n\nWenn du sie wiedersehen willst...\nso nimm das Schwert in die Hand.
+Wie fühlst du dich?\nBist du bereit für diese Aufgabe?
+Mehr Worte scheinen mir von keinem\nNutzen zu sein.\n\n\nIch werde dir, dem Gebieter des\nSchwertes, folgen. Zücke es nun\nund strecke es himmelwärts...
+So ist es gut...~~~\n\x0E\x01\x12\x04\x00\x01Gebieter...\n\n\n\x0E\x01\x06\x02\xFECDMein... \x0E\x01\x12\x04\x00\x04Gebieter.~~~\x0E\x01\x06\x02Í
+Link!
+Kann es denn sein, dass du es bist,\nLink?\n\n\nDer legendäre Jüngling, der die\n<r<Kammer des heiligen Schwertes\n>>betreten wird...
+Diese Kammer hat die <b<Göttin >>uns\nMenschen hinterlassen, sagt man...\n\n\nNur besondere Personen werden\nin dieses Geheimnis eingeweiht,\nvon Generation zu Generation...
+<y+<Das Licht des göttlichen Schwertes\nvertreibt alles Böse.\n\n\n<y+<Ich werde erscheinen dem reinen\nJüngling, in dieser Gestalt am\ngeheiligten Ort...<y+<>>
+Es begann vor einigen Tagen...\nDas Schwert, dessen Geheimnis\nich so lange bewahrt hatte, begann\nzu leuchten...
+Als ich das Licht sah, traute ich\nmeinen Augen nicht...\n\n\nNicht im Traum hätte ich je daran\ngedacht, dass sich diese Prophezeiung\nZeit meines Lebens erfüllen würde!
+Es ist, wie es die Prophezeiung sagt...\n\n\n\n<y+<Ein Jüngling wird führen das Schwert.\nBeinahe noch ein Kind, wird er doch\nbeschützt von der heiligen Kraft.>>
+Die mündlichen Überlieferungen der\nMenschen sind so unzuverlässig...\n\n\nVon der Offenbarung, die dein Urahn\nempfing, ist ein großer Teil bereits\nverloren gegangen.\n
+<y+<Erwählt von der Göttin der Jüngling,\nder zieht das heilige Schwert und\nüber es gebietet mit starkem Geist.>>\n\n<y+<Kind des Schicksals, erwählt vor\ndem Schatten großer Gefahr...>>\n\n\n<y+<Er wird tragen die Seele des Schwerts,\nüberwinden die Wolken und von dort\nhinabsteigen; gemeinsam mit der\nheiligen Maid das Land erleuchten.>>
+In einem alten Buch meines Vaters\nhabe ich von einem Ort gelesen,\nder <r<Erdland >>heißt und viel größer\nsein soll als unsere Welt...
+\x0E\x01\x12\x04\x00\x01Gebieter, du wurdest erwählt von der\nGöttin, meiner Schöpferin, um ihren\nAuftrag zu vollenden. Um die heilige\nMaid...\nUm Zelda wiederzusehen, musst du\ndas Wolkenmeer überqueren, musst\nhinabsteigen in die weite Welt, weit\nentfernt von hier...\nDu musst dich ins \x0E\x00\x03\x02\x01Erdland>> begeben.
+Aber das Erdland ist tabu für uns\nMenschen! Um dorthin zu gelangen,\nmuss man die Wolken durchqueren.\n\nNoch nie ist dies jemandem gelungen...
+Auf dieser Tafel ist der Weg ins\nErdland niedergeschrieben...\n\n\nNimm sie und platziere sie auf\ndem Altar in dieser Kammer.
+Du hast die <r<Smaragd-Tafel>> erhalten!\nSie ist aus schwerem Stein gefertigt und\nscheint sehr alt zu sein.
+\x0E\x01\x12\x04\x00\x01Gebieter...\nRichte nun den <r<Himmelsstrahl>> auf das\nWappen an der Wand.\n\nDer <r<Himmelsstrahl>> entsteht aus der\nKraft, die sich sammelt, wenn du dein\nSchwert gen Himmel streckst.\n\nSchwinge dein Schwert in Richtung\ndes Wappens, sobald sich der\n<r<Himmelsstrahl >>aufgeladen hat.
+\x0E\x01\x12\x04\x00\x04Gebieter.
+Das <r<Siegel>> der Göttin hat bisher\nverhindert, dass Menschen das\nWolkenmeer verlassen konnten...\n\nNun hat sich dieses Siegel an einer\nStelle geöffnet, sodass du passieren\nkannst. Dort musst du hin.\n\nIch erkenne dich als rechtmäßigen\n\x0E\x01\x12\x04\x00\x02Gebieter an. Ich ruhe in deinem\nSchwert und bin somit stets an deiner\nSeite. <g<Drücke>> (v), um mich zu rufen.\x0E\x01\x11\x02\x9CD
+Link, ich weiß nicht,\nwas mit dem Schatten großer Gefahr\ngemeint ist... aber es klingt nach einer\ngroßen Herausforderung für euch.\nWenn Phais Worte wahr sind...~~~\ndann ist Zelda am Leben!\n\n\nSie lebt...\nDu musst sie finden und dich\nzugleich deinem Schicksal stellen.\nLink!\nNiemand weiß, welche Prüfungen das\nSchicksal für dich vorgesehen hat...\n\n\nDoch versprich mir, meine Tochter...\nVersprich mir, Zelda zu retten!
+Beweise mir, dass die Offenbarungen\ntatsächlich wahr sind... Ich bitte dich,\nLink...\x0E\x01\x04\x02\x1E\n[1]Ich werde\ndas schaffen![2]Ich will nicht...[3]Das klingt\nschwierig...
+Ich will dir glauben.\nHab Dank, Link!
+Ich verstehe deine Angst,\nLink. Aber niemand kann\nseinem Schicksal entfliehen...
+Ich bin mir sicher, dass dich viele\nGefahren erwarten, Link.\nAber du wirst es schaffen!
+Es wird schon hell...\nDiese Nacht war sehr lang für uns.\n\n\nMit diesen Kleidern kannst du\ndeine Reise nicht antreten,\nLink.\n\nDa du die Vogelreiter-Zeremonie\nbestanden hast, habe ich ein neues\nGewand für dich.\n\nMit ihm bist du auch für eine längere\nReise gut gerüstet. Am besten, du\nziehst es morgen gleich an!
+Das diesjährige Gewand der Ritter...\x0E\x01\x04\x02\x14\nAls ich die Farbe das erste Mal sah,\nwar ich ein wenig skeptisch...\n\nAber wie ich sehe, steht es dir ganz\nvorzüglich, Link!
+Pass auf dich auf! Und vielleicht\nsolltest du im Dorf ein paar\nReisevorbereitungen treffen.\n\nIch selbst kann nichts tun, als in meiner\nStube die alten Schriften erneut zu\nstudieren...\n\nSolltest du mich suchen, kannst du\nmich dort finden. Ich bete dafür,\ndass es meiner Tochter gut geht!
+
+\x0E\x01\x12\x04\x00\x04Gebieter, ich habe dir etwas\nzu berichten.\n\n\nAls du das Wappen mit dem\nHimmelsstrahl berührtest, hat die\n<b<Göttin >>zu mir gesprochen.\n\n\x0E\x01\x12\x04\x00\x01Gebieter, lausche nun der Botschaft\nder Göttin...
+<y+<Sucher der <b<göttlichen Flammen<y+<,\nlausche meinen Worten. Ich werde dich\nvon jenseits der Zeit führen.>>
+<y+<Drei <b<göttliche Flammen<y+< gibt es. Um sie\nzu finden, bedarf es der <b<drei göttlichen\nSchätze<y+<.\n\n<y+<Um diese Schätze zu erhalten, musst\ndu mehrere <y+<<r<Prüfungen<y+< bestehen, dich\nihrer würdig erweisen...>>
+<y+<Erfülle deine Bestimmung, unterstützt\nvon der Kraft der göttlichen Schätze,\nund du wirst die <b<göttlichen Flammen\n<y+<erblicken.\n<y+<Nun nimm dieses Lied, und begib dich \nin den <y+<<r<Wald von Phirone<y+<, wo dich die\nerste deiner Prüfungen erwartet.>>
+Dieses Lied heißt <b<Farores Mut>>...\nEin Lied des Mutes, das dich führen\nwird, \x0E\x01\x12\x04\x00\x01Gebieter.
+Du hast dir <r<Farores Mut>> eingeprägt.
+\x0E\x01\x12\x04\x00\x01Gebieter, um die heiligen Flammen\nzu erhalten, musst du mehrere\n<r<Prüfungen >>bestehen und die göttlichen\nSchätze finden.\nIch werde Farores Mut für dich\naufbewahren.\nMit der <r<Aurasuche>> kannst du nun den\n<b<Eingang zur Prüfung>> finden.\nBrich nun auf zum <b<Wald von Phirone>>.
+
+\x0E\x01\x12\x04\x00\x04Gebieter, ich habe dir etwas\nzu berichten.\n\n\nAls du das Wappen mit dem\nHimmelsstrahl berührtest, hat die\n<b<Göttin >>zu mir gesprochen.\n\n\x0E\x01\x12\x04\x00\x01Gebieter, höre nun die Botschaft\nder Göttin...
+<y+<Sucher der <b<göttlichen Flammen<y+<,\nlausche meinen Worten. Ich werde\ndich von jenseits der Zeit führen.>>
+<y+<Noch zwei <b<göttliche Flammen<y+< fehlen\ndir. Um sie zu finden, bedarf es der\n<b<göttlichen Schätze<y+<.\n\n<y+<Um diese Schätze zu erhalten,\nmusst du mehrere <y+<<r<Prüfungen<y+< bestehen,\ndich ihrer würdig erweisen...>>
+<y+<Erfülle deine Bestimmung, unterstützt\nvon der Kraft der göttlichen Schätze,\nund du wirst die <b<göttlichen Flammen\n<y+<erblicken.\n<y+<Nun nimm dieses Lied, und begib dich \nin die <y+<<r<Wüste Ranelle<y+<, wo dich eine\nweitere Prüfung erwartet.>>
+Dieses Lied heißt <b<Nayrus Weisheit>>...\n\x0E\x01\x12\x04\x00\x01Ein Lied der Weisheit, das dich führen\nwird, Gebieter.
+Du hast dir <r<Nayrus Weisheit>> eingeprägt.
+Ich werde Nayrus Weisheit für dich\naufbewahren. Mit der <r<Aurasuche\n>>kannst du nun den <b<Eingang zur\nPrüfung >>finden.\nBrich nun auf zur <b<Wüste Ranelle>>.
+
+\x0E\x01\x12\x04\x00\x04Gebieter, ich habe dir etwas\nzu berichten.\n\n\nAls du das Wappen mit dem\nHimmelsstrahl berührtest, hat die\n<b<Göttin>> zu mir gesprochen.\n\n\x0E\x01\x12\x04\x00\x01Gebieter, vernimm nun die Botschaft\nder Göttin...
+<y+<Sucher der <b<göttlichen Flammen<y+<,\nlausche meinen Worten.<y+< Ich werde\ndich von jenseits der Zeit führen.<y+<>>
+<y+<Noch eine <b<göttliche Flamme<y+< fehlt dir.\nUm sie zu finden, bedarf es der\n<b<göttlichen Schätze<y+<.\n\n<y+<Um diese Schätze zu erhalten,\nmusst du mehrere <y+<<r<Prüfungen<y+< bestehen,\ndich ihrer würdig erweisen...>>
+<y+<Erfülle deine Bestimmung, unterstützt\nvon der Kraft der göttlichen Schätze,\nund du wirst die <b<göttlichen Flammen\n<y+<erblicken.\n<y+<Nun nimm dieses Lied, und begib dich \nzum<y+< <r<Vulkan Eldin<y+<, wo dich die letzte\ndeiner Prüfungen erwartet.>>
+Dieses Lied heißt <b<Dins Kraft>>...\n\x0E\x01\x12\x04\x00\x01Ein Lied der Kraft, das dich führen\nwird, Gebieter.
+Du hast dir <r<Dins Kraft>> eingeprägt.
+Ich werde Dins Kraft für dich\naufbewahren. Mit der <r<Aurasuche\n>>kannst du nun den <b<Eingang zur\nPrüfung>> finden.\nBrich nun auf zum <b<Vulkan Eldin>>.
+
+Sieh an...\nDu hast alle Drachen getroffen,\nihre Stimmen gelernt. Du bist wirklich\netwas Besonderes!
+Ich will mein Versprechen halten...\nLausche mir, wie ich dir die letzte\nStimme präsentiere!
+Du hast die <y<letzte Stimme des\nHeldenlieds>> erh\x0E\x01\x04\x02\n.~~~.\x0E\x01\x04\x02\x14.\x0E\x01\x05\x04<\x00
+Das <y<Heldenlied>> ist nun vollständig!
+Mehr muss ich dir dazu nicht sagen,\noder? Dieses Lied öffnet den <b<Eingang \nzur Prüfung>>.\n\nWenn du diese Prüfung, die sich\nirgendwo im <b<Wolkenmeer>> verbirgt,\nbestanden hast, öffnet sich der Weg,\nder mit dem <y+<Triforce>> verbunden ist.
+
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas zu\nberichten. Die Wahrscheinlichkeit,\ndass sich das <y+<Triforce >>in diesem\nGebäude befindet, liegt bei 85 %.\nFolge <b<Zeldas>> Auftrag und vernichte\nden Todbringer, so schnell du kannst.
+
+\x0E\x01\x12\x04\x00\x01Gebieter, ich bete für dich.~~~\n\x0E\x01\x06\x02\xFFCDDas letzte Ziel unserer Reise...~~~\nWir müssen den <b<Todbringer>> nun\n<r<besiegen>>...

@@ -1,0 +1,30 @@
+Torre celestial
+Aviso importante, \x0E\x01\x12\x04\x00\x0Bamo...\n\n\n\nPercibo la presencia de tres fuentes de\nenergía sagrada en el interior de este\nedificio. Confirmo que se trata de la\n<y+<<pling>Trifuerza>>.\nHe registrado en el mapa los lugares\nde donde emana dicha energía con el\nsímbolo \x25B3.
+
+Tengo información importante para\nel \x0E\x01\x12\x04\x00\x0Bamo.\n\n\nSegún mi análisis, estas vibraciones\nson debidas a importantes <pling><r<alteraciones\nestructurales >>acaecidas en el interior\ndel edificio.
+Como resultado de las mismas, ahora\nes posible avanzar hacia la estancia\ncontigua.
+Estimo que manipulando este <r<panel de\ncontrol >>es posible llegar hasta las tres\npartes de la <y+<Trifuerza>>.
+Calculo que aprovechando estas\nalteraciones es posible avanzar de\nuna estancia a otra.
+Busca las <r<piedras brillantes >>tras\ncada una de las estatuas. Si las\ngolpeas en orden desde abajo,\nabrirás la puerta sin trabajo.
+Ruego a mi \x0E\x01\x12\x04\x00\x01amo que observe\natentamente.
+Ese emblema de ahí es el <r<símbolo\nde Farore>>.\n\n\nPercibo cómo el poder sagrado de la\n<y+<Trifuerza >>emana de él.
+Recomiendo atravesar esa puerta para\nllegar hasta el símbolo.
+
+
+
+Ese emblema de ahí es el <r<símbolo\nde Nayru>>.\n\n\nPercibo cómo el poder sagrado de la\n<y+<Trifuerza >>emana de él.\n\n\nPero parece que el camino que\nlleva hasta allí está actualmente\nbloqueado.
+Recomiendo manipular ese <y<orbe\ncronolítico >>para abrir el camino\nque lleva hasta el <r<símbolo>>.
+Si el \x0E\x01\x12\x04\x00\x01amo observa con atención, verá\nallí un <y<orbe cronolítico>>.
+Ese emblema de ahí es el <r<símbolo de\nDin>>.\n\n\nPercibo cómo el poder sagrado de la\n<y+<Trifuerza >>emana de él.
+Pero estimo que desde nuestra posición\nactual es imposible llegar hasta él.\n\n\nSugiero buscar una vía de acceso\nalternativa para entrar en esta sala.
+Aviso para el \x0E\x01\x12\x04\x00\x0Bamo: ya hemos visitado\nesta estancia. Se trata de la misma\nque albergaba el <r<símbolo de Din>>.
+Calculo un 60% de probabilidades\nde que la fuente de la que emana el\npoder sagrado se encuentre más allá\nde esta lava.
+Aviso para mi \x0E\x01\x12\x04\x00\x0Bamo: siento en algún\nlugar de esta estancia la presencia\ndel poder sagrado.
+Sugiero hacer acopio de valor y seguir\navanzando.
+
+
+
+
+
+
+Aviso importante: hemos llegado hasta\nel símbolo.\n\n\nRuego a mi \x0E\x01\x12\x04\x00\x0Bamo que consagre su\nespada ante él para que le indique\nel camino hacia la <y+<Trifuerza>>.

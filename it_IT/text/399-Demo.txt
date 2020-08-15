@@ -1,0 +1,46 @@
+
+Link!
+No, <b<Zelda>>, non potete ancora andare\nda lui. Ricordatevi quanto discusso:\ncontenetevi e concentratevi sul\ncompito più immediato.
+Link...\nPerdonami...
+Hai impiegato fin troppo tempo per\ngiungere fino a qui. A guardarti, temo\nche la <b<Dea>> abbia commesso un errore\ndi valutazione nella sua scelta.\nLe tue debolezze lasciano supporre\nche tu non sia in grado di proteggere\nZelda.
+Non ti piace ciò che dico?\n\n\n\nSe non fossi venuta qui, ora Zelda\nsarebbe nelle mani del nemico.\x0E\x01\x04\x02\x14\n\x0E\x01\x06\x02\xFFCDSarò più chiara...\n\n\x0E\x01\x06\x02\xFFCDNon ce l'hai fatta. Non sei arrivato in\ntempo e non l'hai protetta.
+Zelda conosce il proprio destino,\nsi è incamminata verso la prossima\nterra...\n\nSe tu, eletto, vuoi davvero aiutarla...\n\n\n\nAnche tu dovrai affrontare le prove\nche ti si porranno innanzi...\nAllora avrai la forza per aiutare Zelda.
+\x0E\x01\x12\x04\x00\x01Signore, questa è la lingua\nutilizzata dagli dei nei tempi remoti.\n\n\nVi tradurrò il loro messaggio,\nvi prego di ascoltare.
+<y+<Noi, dai più antichi tempi,\nguideremo te, in missione\nper conto della Dea.>>
+<y+<La voce venuta dal cielo,\ndopo aver attraversato la\nfonte della Terra, si incammina\nverso il suo destino.>>
+<b<<y+<<b<Ranel<y+<, terra delle sabbie...\nColà il detentore di un grande destino,\nattraverserà la <r<Porta del Tempo<y+<\ne giungerà in un mondo lontano.<b<>>
+Hai ottenuto la <y<stele topazio>>!\nFatta di pietra, è pesante e\nsicuramente molto antica.
+
+Ehi! Link!\nSei ancora vivo e vegeto,\ne purtroppo ci incrociamo di nuovo.
+Questo incontrarci spesso mi fa\npensare al <r<filo rosso del destino>>...\nsarà per quello che continuiamo\na trovarci!
+Guarda bene...
+Quella cagnolina della Dea... com'è\nche si chiamava? <b<Impa>>, vero?\nHa distrutto la <r<Porta del Tempo>>...
+Ma sembra che ce ne sia un'altra\nin questo mondo...\x0E\x01\x04\x02\x1E\n...\x0E\x01\x06\x02\x1CD Splendido!\x0E\x01\x06\x02Í
+Fin dal nostro ultimo incontro, non ho\nfatto altro che cercare la Porta del\nTempo...
+Ho sentito il gusto amaro della\nprofonda disperazione data dalla\ntotale assenza di piste da seguire...
+Ho perfino temuto di non \npotere rivedere quell'adorabile\ngraziosa ragazzina...
+Ma poi!\x0E\x01\x04\x02(\nEcco finalmente una buona notizia...\x0E\x01\x04\x02(\nC'è ancora una Porta del Tempo!
+
+
+Per riportare in vita il mio signore,\nmi serve quella ragazzina...\n\n\nE adesso sembra possibile!
+Ma veniamo a te, Link!\n\n\n\nPotrei risparmiarti l'inferno\nche ti volevo infliggere...
+Se tu mi dirai gentilmente dove si\ntrova la Porta del Tempo...~~~\n\n\nPerché tu lo sai, non è vero?
+Ahi ahi, guarda che se\nnon collabori non mi lasci\naltra scelta, questa volta...
+Allora, che te ne pare?\nQuesta pelle delicata... questi muscoli\ndelle braccia ben torniti...\nBellissimi, da lasciare senza fiato!
+\x0E\x01\x05\x04\n\x00Esatto...
+\x0E\x01\x05\x04\x14\x00Sono io!
+\x0E\x01\x05\x04\x14\x00\x0E\x01\x08\x02\x1CDÈ il mio vero aspetto!
+\x0E\x01\x05\x04\x14\x00\x0E\x01\x08\x02\x1CDSplendido, non trovi?
+\x0E\x01\x05\x04\x19\x00\x0E\x01\x08\x02\x2CDAggraziato!
+Sono quasi perfetto, se non\nfosse per un difettuccio...
+E cioè, la mia totale mancanza di\npietà...\x0E\x01\x04\x02-\n\n\nQuindi, caro Link,\nquel <r<filo rosso del destino >>di cui\nparlavo prima...\n\n\x0E\x01\x06\x02\xFFCDVedi, credo proprio che...\x0E\x01\x04\x02<\nsia tinto del<r< colore del tuo sangue>>!
+
+
+La spada s'è rafforzata grazie alla fiamma\ndi Din! La sacra spada sprigiona una luce\ncapace di abbattere i demoni!
+\x0E\x01\x12\x04\x00\x01Signore, ~~~la vostra spada\nadesso ha riacquisito il suo vero\naspetto grazie alle tre fiamme sacre.\nÈ diventata la <r<spada suprema>>!
+Adesso siete in grado di riattivare\nla <b<Porta del Tempo >>nel Santuario\ndell'esilio.\n\nSuggerisco di dirigervi al\n<b<Santuario dell'esilio>>.
+
+Incredibile... sei riuscito a giungere\nfin qui in quel tuo corpicino umano...
+Il simbolo sacro che porti\nsulla mano non mente...\n\n\nDovrò quindi consegnarti\nciò che mi fu affidato dalla\nDea in tempi remoti...\n\nE sia, piccolo umano,\nti affido la parte della <b<Melodia\ndell'impavido>> in mio possesso...\n
+
+Hai ottenuto una <y<parte della Melodia\ndell'impavido>>!

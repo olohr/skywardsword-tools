@@ -1,0 +1,85 @@
+Grotte de la chute\nAttention aux chauves\x2010souris!\nEntrée interdite aux enfants.
+\x0E\x02\x04\x02\x16CD École de chevalerie\n    Quartier résidentiel \x0E\x02\x04\x02\x17CD
+\x0E\x02\x04\x02\x14CD Bazar
+\x0E\x02\x04\x02\x14CD Statue de la Déesse 
+\x0E\x02\x04\x02\x14CD Grand\x2010place de Célesbourg
+\x0E\x02\x04\x02\x14CD École de chevalerie
+Il est interdit de courir\ndans les couloirs!
+Prière de ranger\nvos chambres!
+Prière de monter les\ncélestriers depuis les\nplates\x2010formes prévues\nà cet effet!
+Chambre de Link
+Chambre d'Hergo
+Chambre d'Orbo et Latruche
+Chambre de Libri
+Bureau de M. Gaepora
+Chambre d'Arfan
+Chambre d'Hulul
+Chambre de Grida
+Chambre de Zelda
+La chevauchée céleste a lieu\naujourd'hui! Soutenez Hergo,\nLink, Latruche et\nOrbo. Que le meilleur gagne!
+Le gagnant de la chevauchée\ncéleste est Link!\nMalheureusement, il y a aussi\nde mauvaises nouvelles...
+Toilettes
+Salle de bain
+Salle d'escrime
+\x0E\x01\x08\x02ÍMaison de Panalie\n\x0E\x01\x08\x02\xFFCDGérante de la consigne
+Maison de Jonalie
+Maison de Picalia
+Maison d'Hiron\net d'Orielle
+\x0E\x01\x08\x02ÍMaison de Rupin\n\x0E\x01\x08\x02\xFFCDArmurier
+Maison de Kiko
+\x0E\x01\x08\x02ÍMaison de Caïk\n\x0E\x01\x08\x02\xFFCDDiseur de bonne aventure
+Sous la lumière, joue le chant\ntransmis par la Déesse.\nAlors une lueur se dévoilera\nau héros.
+\x0E\x01\x08\x02ÍMaison de Gondo\n\x0E\x01\x08\x02\xFFCDRénovateur
+\x0E\x01\x08\x02ÍMaison de Darin\n\x0E\x01\x08\x02\xFFCDVendeur de potions
+Maison de Morcégo
+Carte de Célesbourg\nN : Statue de la Déesse,\nO : École, E : Résidences,\nS : Grand\x2010place
+Notre soupe de citrouille,  \nça bat la soupe aux nouilles!\nSeulement 10 rubis le flacon!
+Récital de Tironne\nEn pause jusqu'à nouvel\nordre. Cherchons musicien.
+Récital de Tironne\nReprésentations selon les\ndisponibilités du musicien.
+Vous pouvez admirer le\nfameux lustre de la Citrouille\nperchée depuis le 1\x0E\x03\x00\x00er\x0F\x03\x00 étage.
+Pour éviter de faire tomber\nle lustre, prière de ne pas\nse bousculer ici.
+La soupe de citrouille se\ndéguste bien chaude!
+Urgent! Cherche\nmain\x2010d'\x153uvre pour labourer\nle champ de citrouilles.
+Célesbourg se trouve à\nquelques battements d'ailes\nau nord\x2010ouest d'ici!
+Grida + O...
+Fais tourner le piédestal central\npour former le pont qui te\npermettra d'entrer dans la tour\nde l'île aux chants.
+Le bazar est fermé pour la\nnuit. Nous serons heureux\nde vous accueillir dès\ndemain matin.\nSi vous avez un problème\nurgent, venez nous voir dans\nnos résidences respectives.\nLes commerçants du bazar
+N'oubliez pas de vous\nlaver les mains!
+Faites le ménage\nrégulièrement!
+Parti travailler. Repassez\nme voir la nuit.\n\x0E\x01\x06\x02\x5CD                                 - Beedle
+
+\x0E\x01\x12\x04\x00\x04Maître Link, ce <r<faisceau\nvert >>est une <b<colonne de lumière >>qui\nvous permet de traverser les nuages.
+Veuillez consulter votre carte\npour connaître votre position\npar rapport à Célesbourg.
+Vous pouvez traverser les nuages au\npied de cette colonne de lumière.
+\x0E\x01\x12\x04\x00\x01Maître, je confirme que la stèle que\nvous avez placée hier soir dans la\nstatue de la Déesse a ouvert un passage\nvers la terre.\nUne colonne de lumière est apparue\ndans le ciel, au sud. Mon analyse\nindique que vous pourrez y traverser\nles nuages.
+Si vous allez sur terre muni\nuniquement d'une épée, vos\nchances de survie sont faibles.\n\nSi ce n'est déjà fait, je vous conseille\nd'acheter des <r<potions >>et un <r<bouclier >>au\nbazar avant de partir.
+Autre chose, \x0E\x01\x12\x04\x00\x01Maître.\n\n\n\nSi vous êtes désormais à l'aise\navec les commandes, vous pouvez\nchanger l'<r<affichage >>à l'écran.\n\nL'<r<option d'affichage >>se trouve sur\nl'<b<écran d'inventaire>>. Sélectionnez\nce qui vous convient le mieux.
+\x0E\x01\x12\x04\x00\x01Maître... J'aperçois une colonne de\nlumière au loin.
+Sautez dans le vide en direction de\ncette colonne de lumière et pendant\nvotre chute, sifflez votre célestrier.
+Veuillez partir à la recherche de dame\nZelda. Appuyez sur (v) en chute libre\npour appeler votre célestrier.\x0E\x01\x11\x02\x9CD
+\x0E\x01\x12\x04\x00\x04Maître Link, frappez cet\nemblème avec l'<r<éclat céleste >>puis\nplacez\x2010y la stèle que je vous ai remise.\n\nPour invoquer l'<r<éclat céleste>>,\n<g<brandissez votre épée vers le ciel\n>>afin d'invoquer le pouvoir des cieux.
+Mon nom est <b<Fay>>... Placez\x2010vous\ndevant ce socle et retirez l'épée\nqui y est plantée.
+\x0E\x01\x12\x04\x00\x04Maître Link, veuillez\nplacer la <r<stèle >>que je vous ai\nremise dans le piédestal.
+\x0E\x01\x12\x04\x00\x04Maître Link.\n\n\n\nJe détecte dans le ciel l'énergie\nlibérée lorsque vous avez frappé\nde l'<r<éclat céleste >>les <r<cubes de la\nDéesse >>dispersés sur terre.
+
+Les endroits d'où provient cette\nénergie sacrée sont indiqués sur\nvotre carte.
+Je vous conseille d'explorer ces\nrégions de la carte.
+
+
+
+
+Cette pousse mettrait des années\nà grandir ici. Je vous conseille de\nla planter ailleurs.
+\x0E\x01\x12\x04\x00\x0BMaître, veuillez prendre connaissance\nde ces informations pertinentes :\n\n\nGrâce à l'amélioration de votre épée,\nvous pouvez désormais <r<détecter >>les\n<y<cristaux de gratitude>>.\n\nJ'ai ajouté les <y<cristaux de gratitude\n>>à la liste des cibles à <r<détecter>>. <pling>\nFaites\x2010en bon usage.
+\x0E\x01\x12\x04\x00\x0BMaître, veuillez prendre connaissance\nde ces informations pertinentes :\n\n\nGrâce à l'amélioration de votre épée,\nvous pouvez désormais <r<détecter >>les\n<y<cristaux de gratitude>>.\n\nJ'ai ajouté les <y<cristaux de gratitude >>à la\nliste des cibles à <r<détecter>>. <pling>
+Je vois que vous avez collecté tous\nles cristaux de gratitude, \x0E\x01\x12\x04\x00\x02Maître.\nFélicitations.
+\x0E\x01\x12\x04\x00\x0BMaître, veuillez prendre connaissance\nde ces informations pertinentes :\n\n\nLes célestriers ne volent pas\nla nuit. Vous devriez vous reposer\net repartir quand le jour se lèvera.
+\x0E\x01\x12\x04\x00\x0BMaître, veuillez prendre connaissance\nde ces informations pertinentes :\n\n\nL'<r<entrée de l'épreuve >>qu'ouvre le\nChant du héros se trouve sur une\nde ces îles dans le ciel.\n\nUtilisez la <r<fonction détection >>pour\ntrouver son emplacement exact.
+Toutes mes félicitations, \x0E\x01\x12\x04\x00\x01Maître.\n\n\n\nVous avez réussi toutes les\népreuves!
+Le <r<joyau des épreuves >>que vous\nvenez d'obtenir est en fait un\nélément d'une paire.\n\nQuelque part sur cette île\nse trouve un joyau identique\nau vôtre, \x0E\x01\x12\x04\x00\x02Maître.\n\nEn plaçant votre joyau à\nl'endroit où la paire sera\ncomplétée, vous pourrez ouvrir\nle chemin vers la <y+<Triforce>>.\n\x0E\x01\n\x04\xFFFFÍJe vous conseille de\nchercher le deuxième joyau.
+\x0E\x01\x12\x04\x00\x0BMaître, veuillez prendre connaissance\nde ces informations pertinentes :\n\n\nCette île figure dans ma mémoire.\n\n\n\nIl s'agit de l'<b<île aux chants>>.\nIl est probable qu'elle ait été\nbâtie pour vous par la Déesse.\n\nCependant, l'entrée de la tour n'est\npas accessible. Je vous conseille\nd'examiner les environs.
+\x0E\x01\x12\x04\x00\x0BMaître Link.\nJe confirme qu'une deuxième colonne\nde lumière est apparue au nord\x2010est.\n\nVous pouvez descendre vers de\nnouvelles terres. Une fois que vous\nserez prêt, je vous conseille de vous\ny rendre.
+\x0E\x01\x12\x04\x00\x0BMaître Link.\nJe confirme qu'une troisième colonne\nde lumière est apparue au sud\x2010ouest.\n\nVous pouvez descendre vers de\nnouvelles terres. Une fois que vous\nserez prêt, je vous conseille de vous\ny rendre.
+\x0E\x01\x12\x04\x00\x0BMaître Link.\n\n\n\nPour débarrasser le grand Narisha du\nmal qui l'habite, vous devez d'abord\nmaîtriser l'attaque tornade.\n\nArfan vous attend à la plate\x2010forme\nau nord\x2010est de Célesbourg, près de\nla <r<statue d'oiseau en pierre>>.\n\nJe vous conseille de vous y rendre au\nplus vite.
+\x0E\x01\x12\x04\x00\x0BMaître Link.\n\n\n\n\x0E\x01\n\x04\x0DÍLe coffre que vous voyez là est une\nrelique laissée par la Déesse dans les\ntemps anciens pour le héros à venir.
+Toutefois, j'ignore comment\nl'ouvrir. Je n'ai pas suffisamment\nd'informations à ce sujet.
+Une fois que l'énergie d'un <r<cube de\nla Déesse>> est envoyée dans le ciel,\nil devrait être possible d'ouvrir le\ncoffre correspondant.\nChaque cube de la Déesse que vous\nenverrez dans le ciel sera une nouvelle\naide pour vous, Maître.

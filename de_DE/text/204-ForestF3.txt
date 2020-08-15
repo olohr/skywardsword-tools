@@ -1,0 +1,53 @@
+\x0E\x01\x09\x04\x00\x04Als aus dem <r<Stamm des großen Baumes\n>><pling>Wasser kam, ist <b<Senbuli>> ganz schön\nerschrocken!\n\nBei all dem Wasser kann man sich gar\nnicht verstecken. \x0E\x01\x09\x04\x11\x05Wird unser Wald\njemals wieder wie früher sein?
+\x0E\x01\x09\x04\x00\x01Ein kleiner Tipp...\nManche Felsen lassen sich durch\nAttacken wegrollen!
+\x0E\x01\x09\x04\x00\x07Der Wald ist überschwemmt, aber\ndas wird schon. Grüß mir den\n<b<Wasserdrachen>>!
+\x0E\x01\x09\x04\x09\x0CEs ist aus! Was wird nur aus unserem\nWald?
+\x0E\x01\x09\x04\x09\x0CDer <b<Wasserdrache>> hat die\nÜberschwemmung verursacht?\nOh nein, er wird die Kyu alle fressen!
+\x0E\x01\x09\x04\x09\x0CNutze die Aurasuche oder was immer\nnötig ist, aber finde nur schnell diese\nMelodinen!
+\x0E\x01\x09\x04\x09\x0CWann geht das Wasser endlich zurück?\n<b<Senbuli>> kann nicht schwimmen!
+\x0E\x01\x09\x04\x00\x0FDer <b<Wasserdrache>> war's!\nNur er kann den Wald so verändern.
+\x0E\x01\x09\x04\x11\x0BDie Parakwa kennen sich mit den\nMelodinen aus...\n[1]Die Parakwa?[2-]Ich weiß.
+\x0E\x01\x09\x04\x00\x07Der Wald ist überschwemmt, aber\ndas wird schon. Grüß mir den\n<b<Wasserdrachen>>!
+\x0E\x01\x09\x04\x0C\x01Na, diese Wesen im Wasser mit den\nspitzen Mündern!
+\x0E\x01\x09\x04\x0B\x05Sprich mit ihnen, wenn du im Wasser\nbist.
+\x0E\x01\x09\x04\x00\x04Der <b<Wasserdrache>> ist hier!\nEr versteckt sich hier irgendwo!
+\x0E\x01\x09\x04\x00\x14Wenn du die Melodinen fängst, werden\nsie zu Noten einer Melodie.
+\x0E\x01\x09\x04\x00\x14Versuche, die Melodinen mit der\n Aurasuche zu finden.
+\x0E\x01\x09\x04\x00\x14Kehre schnell zum <b<Wasserdrachen\n>>zurück!
+\x0E\x01\x09\x04\x00\x07Der Häuptling verlangt nach dir!\nDu solltest mit ihm reden.
+\x0E\x01\x09\x04\x00\x0EOh!\nDu bist doch.~~~.~~~.\x0E\x01\x04\x02\x14\nAch ja, ich hatte dich gar nicht nach\ndeinem Namen gefragt.\n\x0E\x01\x09\x04\x00\x03Soso...\x0E\x01\x04\x02\x19\nLink also...\nKomischer Name.\n\n\x0E\x01\x09\x04\x00\x00Wie auch immer, was kann ich für dich\ntun?\n[1]Das Wasser...[2]Der Wald...
+\x0E\x01\x09\x04\x00\x0EHallo, Link.\n\n\n\n\x0E\x01\x09\x04\x06\x03Was, der <b<Wasserdrache>> hat diese\nÜberschwemmung verursacht?\nDie ganzen Ungeheuer im Wald haben\nihn erzürnt?\n\x0E\x01\x09\x04\x01\x0CDas heißt dann wohl, dass wir uns an\ndiesen Zustand gewöhnen müssen...
+\x0E\x01\x09\x04\x00\x0EKehre schnell zum <b<Wasserdrachen\n>>zurück!
+\x0E\x01\x09\x04\x00\x01Gut, dich zu sehen, Link!\n\n\n\nKommst du mit den <b<Melodinen\n>>voran? Weißt du, mir ist da etwas\neingefallen...\n\n\x0E\x01\x09\x04\x04\x11Ach, wie hieß das noch gleich...\n\n\n\nDieser Trick da, mit dem du meine\nGefährten gefunden hast...\nSetz den doch wieder ein!\n\n\x0E\x01\x09\x04\x06\x09Damit müsstest du sie doch einfacher\nfinden können, oder?
+\x0E\x01\x09\x04\x00\x0EGenau, genau, die Aurasuche!\nKannst du damit nicht die übrigen\nMelodinen aufspüren?
+\x0E\x01\x09\x04\x00\x02Hast du gesehen, was passiert ist?\n\n\n\n\x0E\x01\x09\x04\x04\x00Aus dem <r<großen Baum hinter mir>><pling> kam\nplötzlich Wasser geschossen und im Nu\nwar der ganze Wald überschwemmt!\n\n\x0E\x01\x09\x04\x00\x03Ich weiß nicht, warum das passiert\nist, aber so werden wir vielleicht\nwenigstens die ganzen Monster los.
+\x0E\x01\x09\x04\x06\x01Aus dem <r<großen Baum hinter mir>> kam\nplötzlich Wasser geschossen und im Nu\nwar der ganze Wald überschwemmt!\n\n\x0E\x01\x09\x04\x01\x06Aber irgendwie gefällt mir der Wald\nganz gut so!
+\x0E\x01\x09\x04\x00\x0EAh, Link!\nSehr gut, du hast alle Melodinen\ngefangen!\n\nDu solltest besser schnell zum\n<b<Wasserdrachen >>zurückkehren.
+\x0E\x01\x09\x04\x00\x0EVorsicht, Link!\nHier sind ein paar bösartig aussehende\nFische aufgetaucht!\n\nWenn sie dich sehen, wird es\ngefährlich! Sei vorsichtig!
+\x0E\x01\x09\x04\x00\x0EHey, Link!\nHörst du mich?\n\n\nMir ist etwas eingefallen!\nKannst du kurz zu mir kommen?
+\x0E\x01\x09\x04\x00\x06Wenn ich dich für würdig befinden soll,\nfinde die <r<Melodinen>>.
+Fange die fliehenden <b<Melodinen>> mit\neiner <g<Wasserschraube>> und hindere\nsie so an der Flucht.\n\nAch...\x0E\x01\x04\x02\x1E Menschen <r<verbrauchen ja Luft\ndafür>>, also übertreib es besser nicht.
+Die lila gefärbten Blasen sind <r<voller\nGift>>, wenn du sie einatmest, <r<geht dir\ndie Luft aus>>. Sei vorsichtig!
+Willst du die Melodinen fangen?\n\n\n\n[1]Genau![2]Nein...
+Wie du meinst.
+Da habe ich einen wichtigen Tipp für\ndich...\n\n\nWenn du die Melodinen <r<nicht schnell\ngenug fängst>>, verschwinden sie aus\ndeinem Notenblatt.\n\n<g<Dreh dich beim Schwimmen>>, um sie mit\neinem Wirbel <r<anzusaugen>> und alle auf\neinmal einzufangen.\n\nNur eine Frage der...\x0E\x01\x04\x02\x1E Ausdauer!
+Wenn du die Melodinen <r<nicht schnell\ngenug fängst>>, verschwinden sie aus\ndeinem Notenblatt.\n\n<g<Dreh dich beim Schwimmen>>, um sie mit\neinem Wirbel <r<anzusaugen>> und alle auf\neinmal einzufangen.
+Wenn du Melodinen derselben\nFarbe <r<nicht schnell genug fängst>>,\nverschwinden sie aus deinem\nNotenblatt.
+Wenn du diese Stachelbiester\n<r<explodieren lässt>>, sei vorsichtig, damit\ndich die Explosion nicht auch erwischt!\n
+Die Melodinen sind gern zusammen\nund halten sich oft <r<bei kleinen Fischen\n>>auf.
+Schnell, zurück zum <b<Wasserdrachen>>!
+Die großen Fische machen mir Angst.\nIhre Attacken sind so stark! Zum Glück\nsind gerade keine hier.
+Oh nein, wieder diese <b<aggressiven\nFische>>! Wir müssen fliehen!\n\n\nZum Glück sind <r<tiefe Stellen >>für sie\nunerreichbar!
+Die Melodinen speichern Luft in\nihren Körpern. Wenn du sie einfängst,\n<r<füllt sich deine Luftanzeige >>ein wenig.
+Der Häuptling des Waldes ruft.\nHör dir doch mal an, was er zu sagen\nhat.
+Der ganze Wald steht unter Wasser!
+Der Wasserdrache ist zornig!
+Die Ungeheuer verschwinden aus dem\nWald!
+Der Wald ist überschwemmt!
+
+
+Ich vermute, dass er die <r<Aurasuche>>\nmeint.\n\n\nEs ist ein kluger Vorschlag, \x0E\x01\x12\x04\x00\x02Gebieter.\nIch habe die Merkmale der Melodinen\nbereits analysiert.
+Die Melodinen können nun mit der\n<pling><r<Aurasuche >>gefunden werden.\n\n\nBedauerlicherweise funktioniert die\nAurasuche jedoch <r<nicht im Wasser>>.
+
+Vorsicht, Vorsicht!\nDie Strömung ist hier zu stark.\nNimm besser den oberen Ausgang!
+Die Strömung hier ist zu stark für dich.\n\n\n\nDas ist zu gefährlich für Menschen,\nnimm lieber den anderen Ausgang.

@@ -1,0 +1,38 @@
+Te encuentras en la antigua estación\nde vagonetas de la mina.\n\n\n¡Y todo funciona como el primer día!\nMóntate en una si quieres recorrer\ntoda la isla. Mira, en aquella pared\nestá escrito cómo se utilizan.\nPero no te voy a mentir, es un poco\npeligroso. ¡Así que mejor lee bien\nlo que dice ahí antes de subirte!
+¡Subirse a una de esas cosas es\ndivertidísimo! ¡Debería haber\ncarreras de vagonetas!
+¿Quieres disfrutar otra vez con\nLa vertiginosa montaña rusa?\n¡Son solo 20 rupias la vuelta!\n[1]Claro[2-]No, gracias
+¡Link!\n¡Has vuelto, amigo!\n\n\n¿Qué, quieres dar un bonito paseo\nen La vertiginosa montaña rusa?\n¡Son solo 20 rupias la vuelta!\n[1]Claro[2-]Mejor no
+Bueno, quizá otro día. ¡Hasta goron!
+Me parece que no tienes suficiente\nefectivo. ¡Pues me temo mucho\nque no puedo dejarte subir!\n\n¡Vuelve cuando tengas el zurrón\nun poco más abultado!
+Por cierto, ¿quieres que te vuelva\na contar cómo funciona?\n[1]Por favor[2-]No, gracias
+Básicamente, el objetivo consiste en\nmontarte en esa vagoneta de ahí y\nllegar a la meta en el menor tiempo\nposible.\nSi inclinas el control hacia un lado, la\nvagoneta se inclinará hacia ese mismo\nlado.\n\nSi empleas bien esta técnica, ¡podrás\ntomar las curvas a mucha más\nvelocidad!\n\n¡Pero si te despistas un momento\ndescarrilarás, así que ve con cuidado!\n\n\nPorque no creo que quieras comprobar\nqué pasa cuando descarrilas...
+Tu mejor tiempo hasta ahora es:\n¡\x0E\x02\x03\x06\x00\x00Í:\x0E\x02\x03\x06\x00\x01\x2CD.\x0E\x02\x03\x06\x00\x02\x2CD!
+Entonces, ¡en marcha!
+Entonces, ¿tienes curiosidad?\n[1]Sí[2-]No
+Hola, chico. ¿Qué tal estás?\n\n\n\nBueno, ya que has llegado hasta aquí...\n¿quieres hacer algo muy divertido?\n[1]¡Claro![2-]No, gracias
+¡Por Goron! ¡No seas aburrido!\n¡Al menos deja que te cuente qué es!\n[1]Bueno[2-]No
+Ya sabía yo que te iba a interesar.\n¡Abre bien esas orejotas puntiagudas!
+Pues no sé qué tiene de malo que te\nexplique al menos las normas...\n¡No te voy a comer, ni nada parecido!
+Bueno, ¡hasta goron!
+Una auténtica lástima, sí señor...\n¡Pero si hasta puedes ganar premios!\n\n\n¿Seguro que no quieres probar una vez\nal menos?\n[1]Bueeeno...[2-]Olvídalo
+Puf, qué golpe, amigo... ¡Pero\npor lo menos puedes contarlo! Y ya\nsabes, siempre que quieras subir,\nestaré aquí.
+¡Se acabó!
+¡Por Goron! ¡Un nuevo récord!
+¡Vuelve por aquí siempre que quieras!
+¡¿Estás bromeando o qué?!\n¡¿Pero cómo se puede ir tan lento?!\n\n\nMuchacho, con ese tiempo lo único\nque puedo darte es la espalda.\nEspero que lo entiendas.
+Estoy seguro de que puedes hacerlo\nbastante mejor. Tienes que aprender\na inclinar un poco más la vagoneta,\n¿de acuerdo?\n¡Aun así, esto es para ti!
+No está mal, pero... ¡te queda mucho\npara ser tan rápido como yo!\n\n\nToma, esto es para ti.\n¡Te lo has ganado!
+¡Pero qué ven mis goron! ¡Increíble!\n¡Eres más rápido que yo!
+¿Y bien? ¿Te apetece montar en La\nvertiginosa montaña rusa? Son tan solo\n20 rupias la vuelta. ¿Qué me dices?\n[1]Sí[2-]No, gracias
+¿Qué circuito quieres probar?\n[1]Principiante[2]Experto
+Muy bien, el circuito para\nprincipiantes. ¡Suerte!
+Muy bien, el circuito para expertos.\n¡Suerte!
+El mejor tiempo actual es:\n¡\x0E\x02\x03\x06\x00\x03Í:\x0E\x02\x03\x06\x00\x04\x2CD.\x0E\x02\x03\x06\x00\x05\x2CD!
+Se acabó el tiempo. ¡Seguro que\nla próxima vez lo consigues!
+¡Tengo un tesoro para ti que encontré\nen esta isla!
+¡Voy a darte un premio muy especial!
+¡Esto es para ti! ¡Es una rupia que he\ncuidado con todo el cariño del mundo!
+No ha estado mal. ¡Pero aún tienes\nque mejorar mucho para ponerte\na mi nivel!\n\nBueno, toma 50 rupias. No es mucho,\npero algo es algo, ¿no?
+¡Ese asiento es mío, por Goron!\n¡No me lo ensucies!
+Llevo aquí solo muchísimos años...\n\n\n\nY me subo en las vagonetas todos\nlos días, ¡pero nunca jamás me aburro!
+Llevo aquí muchísimo tiempo,\npero eres mi primer visitante.\n\n\n¿Podrías conseguir que viniera\nmás gente por aquí? Es que a veces\nme siento un poco solo...

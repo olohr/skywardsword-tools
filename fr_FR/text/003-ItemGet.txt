@@ -1,0 +1,802 @@
+Il n'y a rien d'intéressant là\x2010dedans !
+Ça ne se fait pas de fouiller dans les\naffaires des gens...
+Vous avez obtenu une <y<petite clé >>!\nElle vous permettra d'ouvrir une porte\nverrouillée. Vous ne pouvez l'utiliser que\ndans cette zone.
+Vous avez obtenu un \x0E\x00\x03\x02\x07rubis vert >>!\nSa valeur est de <r<1 rubis>>.\nC'est le début de la fortune !
+Vous avez obtenu un \x0E\x00\x03\x02\x08rubis bleu >>!\nSa valeur est de <r<5>> <r<rubis>>.\nQuelle chance !
+Vous avez trouvé un \x0E\x00\x03\x02\x08rubis bleu>>\x0E\x00\x03\x02\x08 >>!\nSa valeur est de <r<5 rubis>>. Placez\x2010le\nsoigneusement dans votre bourse !
+Vous avez obtenu un <r+<rubis rouge>> !\nSa valeur est de <r<20 rubis>>. N'allez pas\ntout dépenser d'un coup, petit veinard !
+La <y+<Triforce>> est reconstituée !\nVous allez pouvoir exaucer le souhait\nde Zelda et <r<détruire>> l'<b<Avatar du Néant>>.
+Vous avez obtenu un <y<c\x153ur >>!\nChacun d'eux est un concentré d'énergie\nrégénératrice qui restaure votre jauge\nde vie d'<r<un>> c\x153ur.
+Vous avez obtenu une <y<flèche perdue >>!\nVous pouvez la réutiliser avec votre arc.\nCe serait du gâchis de ne pas s'en servir !
+
+Vous avez obtenu <y<dix flèches >>!\nVous pourrez les tirer avec votre arc.\nLeur nombre est limité, utilisez\x2010les\navec parcimonie !
+
+Vous avez obtenu une <y<épée\nd'entraînement >>! Elle est utilisée\nlors des cours d'escrime à l'école de\nchevalerie. Elle a un bon tranchant.\nAppuyez sur (1) à tout moment pour\nconsulter votre inventaire.\x0E\x01\x11\x02\x4CD
+Vous avez obtenu l'<y<épée divine >>!\nUne lumière sacrée émane de cette\narme mystique.
+Vous avez obtenu l'<y<épée divine >>!\nUne lumière sacrée émane de cette\narme mystique.\n\nElle a gardé le souvenir de vos combats\npassés. Le <r<pouvoir de l'éclat céleste >>qui\nl'emplit lorsqu'elle est brandie vers le ciel\nest <r<<pling>à son maximum >>!
+
+
+Vous avez récupéré la <y<vraie épée de\nlégende >>! Vous allez enfin pouvoir laisser\néclater votre colère ! Gare à celui qui se\ndressera sur votre route !\nDe plus, vous allez à nouveau pouvoir\nparler avec <pling><b<Fay>> !
+
+
+
+Vous avez obtenu le <y<réceptacle spirituel >>!\nCette fleur étonnante représente la\nmaturité de votre âme.
+
+Vous avez obtenu l'<y<arc >>!\nVous pouvez tirer sur des cibles distantes !\nVos flèches infligeront d'importants\ndégâts.\nSi lorsque vous tirez, vous avez du mal\nà viser, recentrez le curseur en appuyant\nsur (v).\x0E\x01\x11\x02\x9CD
+Vous avez obtenu le <y<grappin >>!\nC'est une des reliques sacrées de la Déesse.\nIl permet à celui qui le possède d'élargir\nson champ d'action.\nVisez les <r<cibles>> ou le <r<lierre>>, puis tirez pour\nvous tracter à l'endroit où sa griffe s'est\naccrochée.\n\nSi lors de la visée votre grappin devient\n<r<difficile à contrôler>>, recentrez le curseur\nen appuyant sur (v).\x0E\x01\x11\x02\x9CD
+Vous avez récupéré votre <y<grappin >>!\nVous pouvez à nouveau atteindre\ndes zones éloignées !
+Vous avez obtenu la <y<statuette d'oiseau >>!\nC'est la preuve que vous avez remporté\nla chevauchée céleste. Zelda sera\nsûrement ravie !
+
+
+
+Vous avez obtenu la <y<statuette sereine >>!\nCette sculpture en bois inspire la\nplénitude. Elle ressemble à la statue\nde pierre de l'étage supérieur.
+Vous avez obtenu le <y<cristal étrange >>!\nLes cubes qui le composent brillent d'un\néclat discret. Il en manque quelques\x2010uns.
+Vous avez obtenu la <y<<y<statuette tentaculaire<y< >>!\nCette statuette à la forme peu commune\nest recouverte d'inquiétantes ventouses...
+Vous avez obtenu un <y<fragment de clé >>!\nC'est une partie de la clé qui ouvre\nla porte du temple.\n\nIl vous faut cinq fragments pour la\nreconstituer. Dénichez les <r<quatre\n>>fragments restants !
+Vous avez obtenu un <y<fragment de clé >>!\nC'est une partie de la clé qui ouvre\nla porte du temple. Il vous manque\n<r<trois>> fragments pour reconstituer la clé !
+Vous avez obtenu un <y<fragment de clé >>!\nC'est une partie de la clé qui ouvre\nla porte du temple. Il vous manque\n<r<deux>> fragments pour reconstituer la clé !
+Vous avez obtenu un <y<fragment de clé >>!\nC'est une partie de la clé qui ouvre\nla porte du temple. Il vous manque\n<r<un>> fragment pour reconstituer la clé !
+Vous avez rassemblé tous les <y<fragments de\nclé >>! Vous pouvez désormais ouvrir la porte\ndu temple.\n\nRetournez vite au sommet de la montagne\npour retrouver Zelda qui a été emmenée\ndans le temple !
+Vous avez obtenu la <y<sculpture dorée >>!\nDe mystérieux symboles ornent la\nsurface de cette \x153uvre en or à la\nforme surprenante.
+Vous avez obtenu la <y<statuette de dragon >>!\nCette sculpture en or massif reproduit\nadmirablement les circonvolutions\ngracieuses d'un dragon légendaire.
+Vous avez obtenu le <y<circuit antique >>!\nCette pièce forgée dans l'or pur semble\ncompléter un mécanisme. Sa surface est\nincrustée de circuits électriques.
+Vous avez obtenu un \x0E\x00\x03\x02\nrubis argenté >>!\nSa valeur est de <r<100 rubis >>!\nExtraordinaire ! Voilà qui doit vous\nfaire chaud au c\x153ur !
+Vous avez obtenu un \x0E\x00\x03\x02\x0Brubis doré >>!\nSa valeur est de <r<300 rubis >>! Exceptionnel !\nMieux vaut garder ça pour vous...
+Vous avez obtenu un \x0E\x00\x03\x02\x0Croupir >>!\nVous perdez <r<10 rubis>>.\nUne vague tristesse vous gagne...
+Vous avez obtenu <r<cinq>> <y<cristaux de\ngratitude >>! Chacun d'entre eux est un\nconcentré d'essence de reconnaissance.\n\nLorsque vous venez en aide à quelqu'un,\nsa gratitude se matérialise sous la forme\nde <r<cinq >>de ces cristaux.
+Vous avez obtenu des <y<spores scintillantes >>!\nCette poussière fongique est produite par\nles champignons scintillants.
+
+
+
+Vous avez obtenu <y<cinq bombes >>!\nVous pouvez les jeter ou les faire rouler\npour détruire des matériaux résistants.\nRavitaillez\x2010vous dès que possible !
+Vous avez obtenu <y<dix bombes >>!\nVous pouvez les jeter ou les faire rouler\npour détruire des matériaux résistants.\nRangez\x2010les dans votre sac de bombes !
+Vous avez obtenu une <y<baie d'endurance >>!\nCes fruits survitaminés remplissent\nimmédiatement votre jauge d'endurance.
+Vous avez obtenu une <y<larme de Farore >>!\nSon pouvoir sacré immobilise les gardiens\npendant <r<90 secondes>>.\n\nRassemblez\x2010en <r<15 >>pour réussir l'épreuve !
+Vous avez rassemblé toutes les <y<larmes\nde Farore>>. Votre âme a gagné en maturité !\n\n\nL'épreuve ne se terminera que lorsque\nvous aurez rejoint votre monde.\nRetournez à l'entrée pour recevoir\nla preuve de votre maturité.
+Vous avez obtenu une <y<larme de Din >>!\nSon pouvoir sacré immobilise les gardiens\npendant <r<90 secondes>>.\n\nRassemblez\x2010en <r<15 >>pour réussir l'épreuve !
+Vous avez rassemblé toutes les <y<larmes\nde Din>>. Votre âme a gagné en maturité !\n\n\nL'épreuve ne se terminera que lorsque\nvous aurez rejoint votre monde.\nRetournez à l'entrée pour recevoir\nla preuve de votre maturité.
+Vous avez obtenu une <y<larme de Nayru >>!\nSon pouvoir sacré immobilise les gardiens\npendant <r<90 secondes>>.\n\nRassemblez\x2010en <r<15 >>pour réussir l'épreuve !
+Vous avez rassemblé toutes les <y<larmes\nde Nayru>>. Votre âme a gagné en maturité !\n\n\nL'épreuve ne se terminera que lorsque\nvous aurez rejoint votre monde.\nRetournez à l'entrée pour recevoir\nla preuve de votre maturité.
+Vous avez obtenu une <y<larme de la Déesse >>!\nSon pouvoir sacré immobilise\nles gardiens pendant <r<90 secondes>>.\n\nRassemblez\x2010en <r<15 >>pour réussir l'épreuve !
+Vous avez rassemblé toutes les <y<larmes de\nla Déesse>>. Votre âme a gagné en maturité !\n\n\nL'épreuve ne se terminera que lorsque\nvous aurez rejoint votre monde.\nRetournez à l'entrée pour recevoir\nla preuve de votre maturité.
+Vous avez obtenu une <y<baie de lumière>> !\nCe fruit étrange vous indiquera la\nposition des larmes par des balises\nde lumière pendant <r<30 secondes>>.
+Vous avez obtenu <r<un >><y<cristal de gratitude >>!\nIl semble qu'une personne au c\x153ur\ndébordant de reconnaissance soit\npassée par ici...\nRassemblez\x2010en plusieurs et apportez\x2010les\nà<b< Morcego >>!
+Vous avez obtenu la <y<jarre magique >>!\nCet objet antique et insolite est capable\nde générer de violentes bourrasques.\n\nSi lorsque vous l'utilisez, vous avez du mal\nà viser, recentrez le curseur en appuyant\nsur (v).\x0E\x01\x11\x02\x9CD
+Vous avez récupéré la <y<jarre magique >>!\nVous allez pouvoir faire un peu\nde ménage !
+Vous avez obtenu la <y<carte du donjon >>!\nVous pouvez examiner la disposition\ndes lieux et localiser les pièces que\nvous n'avez pas encore visitées.
+L'emplacement des coffres est également\nindiqué. Prenez le temps d'y jeter un \x153il !
+
+Vous avez obtenu le <y<lance\x2010pierre >>!\nIl vous permet de tirer des graines\nMojo qui hébètent vos ennemis.\n\nSi lorsque vous l'utilisez, vous avez du mal\nà viser, recentrez le curseur en appuyant\nsur (v).\x0E\x01\x11\x02\x9CD
+Vous avez récupéré le <y<lance\x2010pierre >>!\nHébétez les patrouilles ennemies !\n
+Vous avez récupéré le <y<lance\x2010pierre rafale>><y< >>!\nHébétez les patrouilles ennemies !\n
+Vous avez obtenu le <y<scarabée >>!\nCet engin en forme d'insecte vole\ndans les airs et vous permet d'explorer\nles environs !\nPointez <r<l'écran>> avec la télécommande Wii\net lancez le scarabée en appuyant sur (A).\n\n\nSi lorsque vous vous apprêtez à le lancer,\nvous avez du mal à viser, recentrez le\ncurseur en appuyant sur (v).\x0E\x01\x11\x02\x9CD
+Vous avez rempli votre flacon\nd'<y<eau ordinaire >>! Il s'agit d'eau\ntout ce qu'il y a de plus normale.\nQui sait, elle pourrait vous servir.
+Votre flacon est rempli de <y<spores de\nchampignon >>! Elles proviennent d'un\nchampignon géant. Cela pourrait vous\nservir.
+Vous avez obtenu un flacon de <y<spores de\nchampignon >>! Ces spores produites par un\nchampignon géant sont très efficaces pour\nsoigner les blessures des oiseaux !
+Vous avez obtenu les <y<gants creuse\x2010tout >>!\nLeurs griffes acérées sont idéales pour\ncreuser la terre.\n\nSi vous trouvez des traces suspectes au sol,\napprochez\x2010vous et appuyez sur (A) pour\ncreuser !
+Vous avez récupéré les <y<gants Mogma >>!\nEssayez de sortir d'ici comme le\nferait un vrai Mogma.
+Vous avez obtenu <y<cinq >><y<<y<graines <y<Mojo >>!\nVous pouvez lancer ces petites\ngraines avec votre lance\x2010pierre.\nGardez un \x153il sur vos réserves !
+
+
+
+
+
+Vous avez obtenu <y<dix >><y<<y<graines <y<Mojo >>!\nVous pouvez lancer ces petites\ngraines avec votre lance\x2010pierre.\nGardez un \x153il sur vos réserves !
+
+
+
+
+Vous avez obtenu de la <y<Protectine >>!\nCette étrange potion diminue de moitié\nles dégâts subis. Son effet ne dure que\n<r<trois minutes>>.
+Vous avez obtenu de la <y<Protectine \x2605 >>!\nCette potion extrêmement puissante\nvous protège de tout dégât pendant\n<r<trois minutes >>!
+
+Vous avez obtenu l'<y<écaille du dragon\nd'eau >>! C'est une des reliques de la Déesse.\nElle vous permet de nager sous l'eau\net de tourbillonner.
+
+Vous avez obtenu la <y<médaille insecte>> !\nLorsque vous l'avez sur vous, vous\npouvez trouver des insectes facilement.\nSuivez les \x0E\x02\x04\x02\x1ACD sur votre carte !
+Vous avez obtenu le <y<filet à papillons >>!\nVous pouvez attraper de petits insectes et\ncertaines autres créatures. Approchez\x2010les\navec précaution et soyez vif !
+Vous avez trouvé une <y<fée >>!\nCes créatures bienveillantes\nvous rendent <r<six>> c\x153urs !
+Vous avez attrapé une <y<fée >>!\nCette créature bienveillante\nvous rendra <r<six >>c\x153urs !\n\nMalheureusement, vous n'avez\npas de <y<flacon vide>>. Vous allez\ndevoir la laisser partir.
+
+Vous avez obtenu de l'<y<eau sacrée >>!\nSon inégalable pureté lui donne le\npouvoir de guérir les blessures du\ndragon d'eau.
+Vous avez obtenu de l'<y<eau sacrée >>!\nIl ne s'agit pas là d'une eau ordinaire !\nSa pureté inégalable recèle un\ngrand pouvoir.
+Votre scarabée a été amélioré en <y<scarabée\nà crochet >>! Ses nouvelles mandibules lui\npermettent de transporter des objets.\n\nLorsque vous passez en vue aérienne en\nmaintenant (Z) appuyé, l'objet qu'il\ntransporte peut être lâché.\x0E\x01\x11\x02\x7CD
+Vous avez obtenu le <y<scarabée à crochet >>!\nSes grandes mandibules lui permettent\nde transporter des objets.\n\nLorsque vous passez en vue aérienne en\nmaintenant (Z) appuyé, l'objet qu'il\ntransporte peut être lâché.\x0E\x01\x11\x02\x7CD
+Votre scarabée a été amélioré\nen <y<scarabée rapide >>! Gare aux\nexcès de vitesse !
+Votre scarabée a été amélioré en <y<scarabée\nendurant >>! Il peut maintenant voler plus\nlongtemps. Voilà qui ouvre de nouvelles\nperspectives !
+Vous avez obtenu une <y<potion de soin >>!\nLorsque vous la buvez, vous récupérez\n<r<huit c\x153urs>> !
+Vous avez obtenu une <y<potion de soin \x2605 >>!\nCette version améliorée de la potion de\nsoin <r<vous restaure tous vos c\x153urs>>.
+
+Vous avez obtenu une <y<potion de soin \x2605\x2605 >>!\nUn flacon contient <r<deux doses >>de ce\nprécieux breuvage qui <r<vous restaure\ntous vos c\x153urs>>.
+
+
+Vous avez obtenu de l'<y<Endurol >>!\nLorsque vous l'utilisez, votre jauge\nd'endurance se vide plus lentement.\nSon effet dure <r<trois minutes >>!
+Vous avez obtenu de l'<y<Endurol \x2605 >>!\nCe philtre miraculeux empêche votre\njauge d'endurance de se vider pendant\n<r<trois minutes>> !
+Vous avez obtenu une <y<potion d'oxygène >>!\nLorsque vous l'utilisez, votre jauge\nd'oxygène se vide plus lentement.\nSon effet dure <r<trois minutes>>.
+Vous avez obtenu une <y<potion d'oxygène \x2605 >>!\nCe breuvage étonnant empêche votre\njauge d'oxygène de se vider pendant\n<r<trois minutes>>.
+Vous avez attrapé une <y<fée >>!\nCette bienveillante créature\nvous rendra <r<six c\x153urs>>.\n\nSi vous la transportez dans un flacon, elle\nen sortira <r<lorsque vous serez à bout de\nforces >>et vous soignera <r<automatiquement>> !
+
+Votre arc a été amélioré en <y<arc en fer >>!\nRéservé aux archers expérimentés, il\ncause de plus grands dégâts que votre\narc précédent.
+Votre arc a été amélioré en <y<arc sacré >>!\nGrâce à la prière de la Déesse, il déploie\nune puissance dévastatrice contre\nles monstres !
+Vous avez trouvé un <y<sac de bombes >>!\nCette besace fort commode permet\nd'emporter avec soi les fleurs bombes\nramassées. \nVoilà qui pourrait vous permettre\nd'accéder à des zones jusqu'ici\ninaccessibles... Voyez si <b<Ferrug\n>>accepte de vous le prêter !
+Vous avez obtenu le <y<sac de bombes >>!\nNe trahissez pas la confiance de <b<Ferrug>>,\nprenez\x2010en soin !
+Vous avez récupéré votre <y<sac de bombes >>!\nEn avant pour le feu d'artifice !
+Vous avez obtenu un <y<réceptacle de c\x153ur >>!\nVotre énergie vitale maximale est\naugmentée d'<r<un c\x153ur>>, et tous vos\nc\x153urs sont restaurés !
+Vous avez obtenu un <y<fragment de c\x153ur >>!\nIl vous en faut quatre pour augmenter\nvotre énergie vitale maximale d'un c\x153ur.\nPlus que <r<trois >>!
+Vous avez obtenu un <y<fragment de c\x153ur >>!\nIl vous en faut quatre pour augmenter\nvotre énergie vitale maximale d'un c\x153ur.\nPlus que <r<deux >>!
+Vous avez obtenu un <y<fragment de c\x153ur >>!\nIl vous en faut quatre pour augmenter\nvotre énergie vitale maximale d'un c\x153ur.\nPlus qu'<r<un >>!
+Vous avez obtenu un <y<fragment de c\x153ur >>!\nVous avez formé un nouveau réceptacle\nde c\x153ur. Votre énergie vitale maximale\naugmente d'un c\x153ur !
+Vous avez obtenu la <y+<Triforce du courage >>!\n<r<Pouvoir suprême>> créé par les dieux\nanciens, la Triforce exauce tous les désirs\nde celui qui la possède.
+Il vous manque encore <r<deux>> parties !
+Il ne vous manque plus qu'<r<une>> partie !
+Vous avez obtenu la <y+<Triforce de la force >>!\n<r<Pouvoir suprême>> créé par les dieux\nanciens, la Triforce exauce tous les désirs\nde celui qui la possède.
+Vous avez obtenu la <y+<Triforce de la sagesse >>!\n<r<Pouvoir suprême>> créé par les dieux\nanciens, la Triforce exauce tous les désirs\nde celui qui la possède.
+Vous avez obtenu la <y<carte marine\nancienne >>! Elle représente la mer qui\ns'étendait autrefois à la place du\ndésert.
+Vous avez obtenu les <y<gants Mogma >>!\nMême les Mogmas ne mettent pas\nsouvent les pattes sur des gants\ncreuse\x2010tout de cette valeur !\nIls permettent non seulement\nde creuser, <g<mais aussi de\ns'engouffrer sous terre>>. Cherchez\ndes trous un peu partout !
+Vous avez obtenu une <y<médaille c\x153ur >>!\nAvec elle, les c\x153urs apparaîtront\nplus fréquemment. Si votre santé\nvous préoccupe, c'est l'objet idéal !
+Vous avez obtenu une <y<médaille c\x153ur>> !\nAvec elle, même en <r<mode héroïque>>,\nles c\x153urs apparaissent et les fl\x153urs\nfleurissent.\nSi votre santé vous préoccupe, c'est l'objet\nidéal !
+Vous avez obtenu une <y<médaille rubis >>!\nAvec elle, les rubis apparaîtront plus\nfréquemment. Pensez\x2010y quand vous\nêtes à court d'argent !
+Vous avez obtenu la <y<médaille trésor >>!\nAvec elle, les trésors apparaîtront\nplus fréquemment. Indispensable\npour la chasse au trésor !
+Vous avez obtenu une <y<médaille de\ndurabilité >>! Avec elle, l'effet des potions\nsera prolongé. Idéale pour les\ngrands consommateurs de potions !
+Vous avez obtenu la <y<médaille démoniaque >>!\nElle fait apparaître plus fréquemment les\ntrésors et les rubis. Mais sa malédiction\nvous empêchera d'ouvrir votre sacoche !
+Votre lance\x2010pierre a été amélioré en\n<y<lance\x2010pierre rafale >>! Vous pouvez attaquer\nune large zone en une seule fois. Maintenez\n(A) enfoncé pour un tir plus puissant. 
+
+
+Vous avez obtenu une <y<bourse moyenne >>!\nElle a une contenance un peu supérieure\nà celle de votre ancienne bourse.\n\nVous pouvez y ranger <r<500 rubis >>!
+Vous avez obtenu une <y<grande bourse >>!\nElle a une contenance bien supérieure\nà celle de votre ancienne bourse.\n\nVous pouvez y ranger <r<1 000 rubis >>!
+Vous avez obtenu une <y<bourse énorme >>!\nElle a une contenance largement\nsupérieure à celle de votre ancienne\nbourse.\nVous pouvez y ranger <r<5 000 rubis >>!
+Vous avez obtenu la <y<bourse de star >>!\nVoilà qui impressionnerait même les plus\nfortunés... Vous pouvez y ranger la somme\nastronomique de <r<9 000 rubis >>!
+Vous avez obtenu la <y<sacoche\nd'aventurier >>! C'est un accessoire fort\npratique dans lequel vous pouvez\nranger les objets utiles à vos aventures.
+Vous avez récupéré votre <y<sacoche\nd'aventurier >>! Et tout le reste de\nvotre équipement, par la même occasion !
+Vous avez ajouté une poche à votre\n<y<sacoche d'aventurier >>! Vous pouvez y\nranger <r<un objet supplémentaire>> !
+Vous avez obtenu une <y<médaille de vie >>!\nAvec elle, votre énergie vitale\nmaximale augmentera d'<r<un c\x153ur>>.\nCela peut parfois s'avérer utile...
+
+Vous avez obtenu un <y<bouclier en bois >>!\nConstitué de bois léger, il est très facile\nà manier, mais attention : il brûle et\nse brise facilement !
+Votre bouclier est réparé !\nIl est comme neuf.
+Votre bouclier a été amélioré en <y<bouclier\nen bois solide >>! Léger et maniable, il est\nplus solide qu'un bouclier en bois\nordinaire !
+Votre bouclier a été amélioré en <y<bouclier\nen bois renforcé>>. C'est le plus robuste des\nboucliers en bois. Il conserve néanmoins\ntoute sa légèreté.
+Vous avez obtenu un <y<bouclier en fer >>!\nLe fer a l'avantage de ne pas brûler et de\nmieux résister aux impacts, mais il ne\nprotège pas du courant électrique !
+Votre bouclier a été amélioré en <y<bouclier\nen fer solide >>! Il est plus résistant qu'un\nbouclier en fer classique.
+Votre bouclier a été amélioré en <y<bouclier\nen fer renforcé >>! C'est le plus robuste\ndes boucliers en fer.
+Vous avez obtenu un <y<bouclier sacré >>!\nLe pouvoir renfermé par ce mystérieux\nbouclier lui permet de <r<se réparer tout\nseul>>.\nPeu résistant, il se brise facilement\nmais il permet de se protéger du feu,\nde l'électricité et des malédictions.
+Vous avez obtenu un <y<bouclier sacré >>!\nLe pouvoir qu'il renferme lui permet de\nse réparer tout seul. Il protège du feu,\nde l'électricité et des malédictions !
+Votre bouclier est maintenant un\n<y<bouclier sacré amélioré >>! Le pouvoir\nqu'il renferme lui permet de se\nréparer tout seul. Il est plus résistant !
+Votre bouclier est maintenant un\n<y<bouclier sacré ultime >>! Le pouvoir\nqu'il renferme lui permet de se réparer\ntout seul. Il est encore plus résistant !
+Vous avez obtenu le <y<bouclier d'Hylia >>!\nL'aura des héros émane de ce bouclier\nlégendaire. Aucune attaque ne peut\nl'endommager !
+Vous avez obtenu de la <y<polypotion >>!\nCe produit étrange <r<remplit entièrement>>\nla jauge de votre bouclier et vous rend\n<r<quatre>> c\x153urs !
+Vous avez obtenu de la <y<polypotion \x2605 >>!\nCette substance prodigieuse répare\n<r<automatiquement>> votre bouclier lorsqu'il\nest détruit et vous rend <r<huit>> c\x153urs !
+Vous avez obtenu un <y<petit sac de graines >>!\nIl peut contenir <r<dix >>graines Mojo\nsupplémentaires. Prenez\x2010le lorsque\nvous utilisez votre lance\x2010pierre.
+Votre sac a été amélioré en <y<sac de graines\nmoyen >>! Il peut contenir <r<20>> graines Mojo\nsupplémentaires. Prenez\x2010le lorsque vous\nutilisez votre lance\x2010pierre.
+Votre sac a été amélioré en <y<grand sac de\ngraines >>! Il peut contenir <r<30>> graines Mojo\nsupplémentaires. Prenez\x2010le lorsque vous\nutilisez votre lance\x2010pierre.
+Vous avez obtenu un <y<petit carquois >>!\nIl peut contenir <r<cinq>> flèches\nsupplémentaires. Prenez\x2010le lorsque\nvous utilisez votre arc.
+Votre carquois a été amélioré\nen<y< carquois moyen >>! Il peut contenir\n<r<dix>> flèches supplémentaires.\nPrenez\x2010le lorsque vous utilisez votre arc.
+Votre carquois a été amélioré\nen<y< grand carquois >>! Il peut contenir\n<r<15>> flèches supplémentaires.\nPrenez\x2010le lorsque vous utilisez votre arc.
+Vous avez obtenu un <y<petit sac de\nbombes >>! Il peut contenir <r<cinq>> bombes\nsupplémentaires. Prenez\x2010le lorsque\nvous avez besoin de bombes !
+Votre sac a été amélioré en <y<sac de\nbombes moyen >>! Il peut contenir <r<dix\n>>bombes supplémentaires. Prenez\x2010le\nlorsque vous avez besoin de bombes !
+Votre sac a été amélioré en <y<grand\nsac de bombes >>! Il peut contenir <r<15\n>>bombes supplémentaires. Prenez\x2010le\nlorsque vous avez besoin de bombes !
+Vous avez obtenu le <y<fouet >>!\nGrâce à l'orbe de lumière à son extrémité,\nil peut s'accrocher à de nombreux\nendroits !\nAvec (Z), ciblez les prises que vous ne\npourriez atteindre autrement, et donnez\nun coup sec avec la télécommande Wii\npour les agripper.\x0E\x01\x11\x02\x7CD
+Vous avez récupéré votre <y<fouet >>!\nCherchez s'il n'y a pas quelque part\nune prise à laquelle vous accrocher.
+Vous avez obtenu les <y<boucles ignifuges>> !\nC'est une des reliques de la Déesse. Vous\npouvez désormais résister aux chaleurs\nextrêmes. 
+
+Votre filet a été amélioré en <y<grand filet>> !\nVotre filet est maintenant deux fois plus\ngrand. Même les insectes les plus agiles\nauront peine à vous échapper !
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x3CD >>!\nOn observe une invasion de ces insectes\nune fois tous les dix ans. Ils détruisent\ntoute la végétation sur leur passage.
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x3CD >>!\nOn observe une invasion de ces insectes\nune fois tous les dix ans. Ils détruisent\ntoute la végétation sur leur passage.
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x4CD >>!\nOn dit que lustrer sa carapace la rend plus\nrésistante. Il s'agit du plus robuste de tous\nles insectes.
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x4CD >>!\nOn dit que lustrer sa carapace la rend plus\nrésistante. Il s'agit du plus robuste de tous\nles insectes.
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x5CD >>!\nOn raconte que son venin a des vertus\nmédicinales une fois bouilli. Ne vous\nlaissez pas prendre dans un essaim !
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x5CD >>!\nOn raconte que son venin a des vertus\nmédicinales une fois bouilli. Ne vous\nlaissez pas prendre dans un essaim !
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x6CD >>!\nElle capture ses proies à l'aide de ses pattes\nravisseuses acérées. Cette espèce est très\ncommune dans cette contrée.
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x6CD >>!\nElle capture ses proies à l'aide de ses pattes\nravisseuses acérées. Cette espèce est très\ncommune dans cette contrée.
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x7CD >>!\nOn dit que sa couleur rouge vient du\nminerai qu'elle mange. Elle est plutôt\ntranquille et reste souvent immobile.
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x7CD >>!\nOn dit que sa couleur rouge vient du\nminerai qu'elle mange. Elle est plutôt\ntranquille et reste souvent immobile.
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x8CD >>!\nCe lépidoptère est présent à peu près\npartout. Il arrive même parfois qu'on\nle rencontre dans des lieux insolites.
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x8CD >>!\nCe lépidoptère est présent à peu près\npartout. Il arrive même parfois qu'on\nle rencontre dans des lieux insolites.
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x9CD >>!\nOn dit que ce spécimen capable de survivre\ndans les déserts les plus arides bâtit\nsa fourmilière sur une source d'eau.
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x9CD >>!\nOn dit que ce spécimen capable de survivre\ndans les déserts les plus arides bâtit\nsa fourmilière sur une source d'eau.
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xACD >>!\nCet insecte demeure caché sous la terre\nà l'état larvaire pendant plus de dix ans.\nSa capture demande de la patience !
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xACD >>!\nCet insecte demeure caché sous la terre\nà l'état larvaire pendant plus de dix ans.\nSa capture demande de la patience !
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xBCD >>!\nSes yeux à facettes ont l'éclat du saphir\net ses ailes la délicatesse du cristal !
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xBCD >>!\nSes yeux à facettes ont l'éclat du saphir\net ses ailes la délicatesse du cristal !
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xCCD >>!\nCe minuscule insecte pousse une boule\nde... quelque chose jusqu'à son nid.\nN'est\x2010il pas adorable ?
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xCCD >>!\nCe minuscule insecte pousse une boule\nde... quelque chose jusqu'à son nid.\nN'est\x2010il pas adorable ?
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xDCD >>!\nVoici un insecte très populaire parmi les\nenfants de Célesbourg. Mais attention aux\ndoigts, ça pince !
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xDCD >>!\nVoici un insecte très populaire parmi les\nenfants de Célesbourg. Mais attention aux\ndoigts, ça pince !
+Vous avez attrapé \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xECD >>!\nVoici le plus rare des petits habitants\ndu ciel. Il se tapit habituellement dans\nl'obscurité.
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xECD >>!\nVoici le plus rare des petits habitants\ndu ciel. Il se tapit habituellement dans\nl'obscurité.
+Vous avez obtenu un <y<flacon vide >>!\nVous pouvez le remplir de différentes\nchoses.
+
+
+
+
+Vous avez accepté de vous charger de\nla <y<lettre d'Orbo >>! Qui sait si son contenu\nest réellement sincère...\n\nGardez\x2010vous néanmoins de vous en servir\ncomme papier\x2010toilette, ce serait grossier\nde votre part !
+Vous avez obtenu la <y<cage à insecte >>!\nL'insecte bien\x2010aimé de Terry se trouve\nà l'intérieur ! Hâtez\x2010vous de le lui\nrapporter !
+Vous avez trouvé un <y<hochet >>!\nVoilà le genre de jouet qui ferait\nle bonheur d'un jeune enfant...\nQuelqu'un a dû le laisser tomber.
+Vous avez obtenu des <y<larves de guêpes >>!\nCes larves fraîchement extraites du nid\npeuvent certainement être utilisées comme\ningrédient. Elles sont pleines de protéines.
+Vous avez obtenu \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xFCD >>!\nCes délicates petites plumes sont très\nprisées à Célesbourg. Peut\x2010être leur\ntrouverez\x2010vous une utilité.
+Vous avez obtenu un <y<virevoltant >>!\nPeut\x2010être trouverez\x2010vous une utilité\nà cette boule d'herbe séchée.
+Vous avez obtenu une <y<queue de lézard >>!\nL'extrémité de cet appendice est équipée\nd'une dangereuse boule à pointes. Un objet\nrépugnant, mais qui peut servir...
+Vous avez obtenu du <y<minerai d'Ordinn >>!\nCette pierre extrêmement dure scintille\njoliment. Ses emplois sont multiples.
+Vous avez obtenu une <y<fleur ancienne >>!\nOn dit qu'elle fleurissait bien longtemps\navant notre ère. Délicate et mystérieuse,\nelle brille dans l'obscurité.
+Vous avez obtenu une <y<perle d'ambre >>!\nOn trouve cette gemme d'un jaune profond\nun peu partout. Nul ne sait à quoi elle doit\nsa forme si particulière.
+Vous avez obtenu une <y<perle d'ombre >>!\nD'apparence similaire à la perle d'ambre,\nelle est pourtant très différente. On ne la\ntrouve qu'en des lieux spécifiques.
+Vous avez obtenu une <y<gélatibulle >>!\nCet objet n'est pas particulièrement\nagréable à regarder, mais ses propriétés\nuniques en font un matériau précieux.
+Vous avez obtenu une <y<griffe de monstre >>!\nCette griffe acérée a l'air tranchante\ncomme un rasoir... Le monstre dont elle\nprovient doit faire peur à voir.
+Vous avez obtenu un <y<cor de monstre >>!\nFabriqué à partir d'une corne d'animal,\nce cor d'une grande solidité pourrait\nêtre utilisé comme matériau.
+Vous avez obtenu un <y<crâne décoratif >>!\nCe charmant bibelot est à l'image\ndu symbole des bokoblins.
+Vous avez obtenu un <y<cristal maléfique >>!\nIl s'agit du c\x153ur cristallisé d'un démon.\nIl est très rare de dénicher un spécimen\ndans un si bon état de conservation !
+Vous avez obtenu une <y<plume bleue >>!\nLes petits pioups sont très rarement bleus.\nLes plumes de cette couleur n'en sont que\nplus précieuses !
+Vous avez obtenu un <y<crâne d'or >>! Les\ncollectionneurs diront qu'il s'agit là d'un\nobjet exceptionnel, une vraie rareté ! Il\nn'en luit pas moins d'un éclat inquiétant...
+Vous avez obtenu une <y<poussière de Déesse >>!\nOn raconte que la Déesse aurait laissé\ntomber ces trésors légendaires très rares\nil y a des générations.
+
+
+
+Vous avez obtenu le <y<sceau des épreuves >>!\nCette pierre mènera le héros à\nl'endroit où repose la Triforce.
+
+
+
+
+
+Vous avez appris le <y<Chant de la Déesse >>!\nCette mystérieuse mélodie provient de\ntemps anciens.
+
+
+
+
+
+
+
+Vous avez obtenu de la <y<polypotion \x2605\x2605 >>!\nElle restaure <r<automatiquement >>la jauge de\nvotre bouclier, ainsi que <r<huit>> de vos c\x153urs.\nEt en plus, vous pouvez l'utiliser <r<deux fois >>!
+Vous avez obtenu de la <y<soupe de\ncitrouille chaude >>! C'est la spécialité\ndu patron. Mais attention, elle sera\nfroide dans<r< cinq minutes >>!
+
+Vous avez obtenu la <y<pousse de l'arbre\nde vie>><y< >>! En grandissant, elle deviendra\nl'arbre légendaire dont le fruit détient\nun grand pouvoir de guérison.
+Vous avez récupéré la <y<pousse de l'arbre\nde vie >>! Elle ne peut pas s'épanouir assez\nrapidement ici. Cherchez un endroit\nplus approprié pour la planter.
+Vous avez obtenu un <y<fruit de l'arbre\nde vie >>! Ce fruit légendaire aurait le\npouvoir de guérir toutes les maladies.\nApportez\x2010le vite au dragon de foudre !
+Vous avez obtenu une <y<bourse annexe >>!\nVotre bourse peut maintenant contenir\n<r<300 rubis >>supplémentaires !
+
+
+
+
+
+
+
+Petite clé
+Rubis vert
+Rubis bleu
+Rubis rouge
+Triforce
+C\x153ur
+Flèche perdue
+Dix flèches
+Blanche épée divine
+Épée d'entraînement
+Épée divine
+Longue épée divine
+Épée de légende
+Vraie épée de légende
+Parachâle
+Lyre de la Déesse
+Réceptacle spirituel
+
+Arc
+Grappin
+Statuette d'oiseau
+
+
+
+Statuette sereine
+Cristal étrange
+Statuette tentaculaire
+Fragment de clé
+Sculpture dorée
+Statuette de dragon
+Circuit antique
+Rubis argenté
+Rubis doré
+Roupir
+
+Spores scintillantes
+
+
+
+Cinq bombes
+Dix bombes
+Baie d'endurance
+Larme de Farore
+Larme de Din
+Larme de Nayru
+Larme de la Déesse
+Baie de lumière
+Cristal de gratitude
+Jarre magique
+Carte du donjon
+
+Lance\x2010pierre
+Scarabée
+Eau ordinaire
+Spores de champignon
+Gants creuse\x2010tout
+Graines Mojo
+
+
+
+
+
+
+
+Protectine
+Protectine \x2605
+
+Écaille du dragon d'eau
+
+Médaille insecte
+Filet à papillons
+Fée
+
+Eau sacrée
+Scarabée à crochet
+Scarabée rapide
+Scarabée endurant
+Potion de soin
+Potion de soin \x2605
+
+Potion de soin \x2605\x2605
+
+
+Endurol
+Endurol \x2605
+Potion d'oxygène
+Potion d'oxygène \x2605
+Fée
+
+Arc en fer
+Arc sacré
+Sac de bombes
+Réceptacle de c\x153ur
+Fragment de c\x153ur
+Triforce du courage
+Triforce de la force
+Triforce de la sagesse
+Carte marine ancienne
+Gants Mogma
+Médaille c\x153ur
+Médaille rubis
+Médaille trésor
+Médaille de durabilité
+Médaille démoniaque
+Lance\x2010pierre rafale
+
+Petite bourse
+Bourse moyenne
+Grande bourse
+Bourse énorme
+Bourse de star
+Sacoche d'aventurier
+Poche vide
+Médaille de vie
+
+Bouclier en bois
+Bouclier en bois solide
+Bouclier en bois renforcé
+Bouclier en fer
+Bouclier en fer solide
+Bouclier en fer renforcé
+Bouclier sacré
+Bouclier sacré amélioré
+Bouclier sacré ultime
+Bouclier d'Hylia
+Polypotion
+Polypotion \x2605
+Petit sac de graines
+Sac de graines moyen
+Grand sac de graines
+Petit carquois
+Carquois moyen
+Grand carquois
+Petit sac de bombes
+Sac de bombes moyen
+Grand sac de bombes
+Fouet
+Boucles ignifuges
+
+Grand filet
+Criquet de Firone
+Dynaste de Firone
+Guêpe Mojo
+Mante céleste
+Pyroccinelle
+Papillon azur
+Fourmi de Lanelle
+Cigale des sables
+Libellule Gerudo
+Bousier d'Ordinn
+Lucane du bourg
+Lucielle
+Flacon vide
+
+
+
+
+Lettre d'Orbo
+Cage à insecte
+Hochet
+Larve de guêpe
+Plume d'oiseau
+Virevoltant
+Queue de lézard
+Minerai d'Ordinn
+Fleur ancienne
+Perle d'ambre
+Perle d'ombre
+Gélatibulle
+Griffe de monstre
+Cor de monstre
+Crâne décoratif
+Cristal maléfique
+Plume bleue
+Crâne d'or
+Poussière de Déesse
+Stèle émeraude
+Stèle ancienne
+Stèle ancienne
+Sceau des épreuves
+
+
+
+
+
+Chant de la Déesse
+Le Courage de Farore
+La Sagesse de Nayru
+La Force de Din
+Mélodie de Firone
+Mélodie d'Ordinn
+Mélodie de Lanelle
+Chant du héros
+Polypotion \x2605\x2605
+Soupe de citrouille chaude
+Soupe de citrouille froide
+Pousse de l'arbre de vie
+Fruit de l'arbre de vie
+Bourse annexe
+
+
+
+
+
+
+
+<r<Pouvoir suprême>> capable d'exaucer les\nsouhaits de quiconque le possède. Il en\nmanque encore deux parties.
+<r<Pouvoir suprême>> capable d'exaucer les\nsouhaits de quiconque le possède. Il en\nmanque encore une partie.
+<r<Pouvoir suprême>> capable d'exaucer les\nsouhaits de quiconque le possède.\nForce, sagesse et courage sont réunis !
+
+
+
+Épée imprégnée de la flamme de Nayru.\nSa fonction de détection s'est développée.
+Épée utilisée à l'école de chevalerie lors des\ncours d'escrime. Elle est assez tranchante.
+Épée retirée du socle de la Déesse.\nSa lame est baignée de lumière divine.
+Épée imprégnée de la flamme de Farore.\nSon fil est prodigieusement tranchant.
+Épée imprégnée de la flamme de Din.\nElle détient le pouvoir de conjurer le mal.
+Épée sacrée qui a reçu la bénédiction\nde la Déesse. Seul le héros véritable\npeut la manier.
+Joli châle tissé à la main, cadeau de Zelda.\nAppuyez sur (B) quand vous chutez pour\natterrir en douceur.
+Charmant instrument traditionnel de\nCélesbourg. Il vous faudra apprendre\nun air avant de pouvoir en jouer.
+
+
+Arme puissante pouvant atteindre des cibles\ndistantes. Il est possible d'augmenter la\npuissance des tirs en les chargeant.
+Instrument composé de griffes au bout\nde chaînes. Il vous permet de vous tracter\nvers les cibles ou le lierre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poudre produite par les champignons\nscintillants. Qui sait l'emploi que vous\npourriez lui trouver !
+
+
+
+
+
+
+
+
+
+
+
+Gratitude humaine cristallisée.\nApportez\x2010en donc à Morcego !
+Gratitude humaine cristallisée. Vous les\navez tous rassemblés et apportés à Morcego\nqui a pu devenir humain.
+Jarre prodigieuse qui génère de grandes\nrafales de vent. Essayez\x2010la un peu partout !
+
+
+Arme de tir servant à projeter\ndes graines Mojo. Les ennemis\ntouchés sont hébétés.
+Engin mécanique volant qui peut être utilisé\npour réaliser certaines actions à distance.
+De l'eau claire, tout ce qu'il y a\nde plus ordinaire.
+Spores produites par un champignon géant.
+Griffes affûtées, idéales pour creuser\nla terre. Essayez\x2010les en appuyant sur (A)\nlorsque le sol vous semble suspect.
+
+
+
+
+
+
+
+
+Diminue les dégâts reçus de moitié.\nEfficace pendant<r< trois minutes>>.
+Immunise contre les dégâts.\nEfficace pendant <r<trois minutes>>.
+
+Permet de nager sous l'eau. Donnez un coup\nde Nunchuk pour faire un tourbillon.
+
+Talisman mystérieux qui indique\nl'emplacement des insectes sur\nla carte par \x0E\x02\x04\x02\x1ACD.
+Filet servant à attraper des insectes\net autres petites créatures.\nManiez\x2010le avec la télécommande Wii.
+
+
+Eau provenant de la source\nde la contemplation.\nSa pureté est extraordinaire.
+Peut à présent porter des objets\nlégers dans ses mandibules.
+Scarabée amélioré capable\nde voler plus vite.
+Scarabée ultime, amélioré au maximum.\nRapide, il vole également plus longtemps.
+Restaure <r<huit c\x153urs>>.
+Restaure <r<tous vos c\x153urs>>.
+
+Restaure <r<tous vos c\x153urs>> et\npeut être utilisée deux fois.
+
+
+Permet à la jauge d'endurance de baisser\nplus lentement. Efficace <r<trois>><r<<r< <r<minutes>>.
+Empêche la jauge d'endurance de baisser.\nEfficace <r<trois minutes>>.
+Permet à la jauge d'oxygène de baisser\nplus lentement. Efficace <r<trois minutes>>.
+Empêche la jauge d'oxygène de baisser.\nEfficace <r<trois minutes>>.
+Si votre énergie vitale est épuisée,\ncette fée vous viendra en aide en\nrestaurant <r<six de vos c\x153urs>>.
+
+Arc de fer très robuste.\nIl inflige des dégâts conséquents.
+L'arc le plus solide, optimisé par\nle pouvoir de la Déesse. Sa force\nde frappe est redoutable.
+Besace dans laquelle vous pouvez conserver\nles fleurs bombes trouvées en chemin.
+
+Trouvez quatre de ces fragments\npour obtenir un réceptacle de c\x153ur\nsupplémentaire.
+Vous avez trouvé tous les fragments.
+
+
+
+
+Gants creuse\x2010tout améliorés.\nIls permettent de s'engouffrer sous terre.
+Talisman mystérieux. Portez\x2010le\nsur vous et les c\x153urs apparaîtront\nplus fréquemment sur votre chemin.
+Talisman mystérieux. Portez\x2010le\nsur vous et les rubis apparaîtront\nplus fréquemment sur votre chemin.
+Talisman mystérieux. Portez\x2010le\nsur vous et les trésors apparaîtront\nplus fréquemment sur votre chemin.
+Talisman mystérieux. Portez\x2010le sur vous et\nl'effet de vos potions sera prolongé.
+Talisman maudit qui fait apparaître\nplus fréquemment trésors et rubis,\nmais qui empêche d'ouvrir la sacoche !
+Lance\x2010pierre amélioré dont les projectiles\ncouvrent une large zone. Maintenez (A) pour\ntirer plus fort.
+
+Permet de ranger des rubis, la monnaie\nlocale. Actuellement, elle peut contenir\n<r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< rubis>>.
+Bourse aux dimensions plus confortables.\nActuellement, elle peut contenir <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< rubis>>.
+Bourse idéale pour une bonne après\x2010midi\nde lèche\x2010vitrine. Actuellement, elle peut\ncontenir <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< rubis>>.
+Bourse démesurée, rarement vue dans\nces contrées. Actuellement, elle peut\ncontenir <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< rubis>>.
+Bourse aux proportions totalement\ndéraisonnables réservée aux célébrités.\nActuellement, elle peut contenir <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< rubis>>.
+
+Elle est vide pour le moment.\nVous pouvez y placer un objet.
+Talisman prodigieux qui confère\nun réceptacle de c\x153ur supplémentaire\nlorsque vous le portez.
+
+Bouclier en bois léger, très facile à manier.\nIl brûle facilement mais il ne laisse pas\npasser le courant électrique.
+Bouclier en bois rendu plus résistant après\namélioration. Il brûle facilement mais ne\nlaisse pas passer le courant électrique.
+Le plus robuste des boucliers en bois.\nIl brûle facilement mais ne laisse pas\npasser le courant électrique.
+Bouclier en fer résistant. Il ne brûle pas et\nrésiste bien aux impacts, mais il ne protège\npas du courant électrique.
+Bouclier en fer amélioré. Il ne brûle pas et\nrésiste bien aux impacts, mais il ne protège\npas du courant électrique.
+Le meilleur bouclier en fer. Il ne brûle pas,\nrésiste bien aux impacts, mais ne protège\npas du courant électrique.
+Bouclier divin capable de se réparer tout\nseul. Il permet de se protéger du feu,\nde l'électricité et des malédictions.
+Bouclier sacré rendu plus résistant après\namélioration. Il permet de se protéger du\nfeu, de l'électricité et des malédictions.
+Le plus résistant des boucliers sacrés.\nIl permet de se protéger du feu,\nde l'électricité et des malédictions.
+Bouclier légendaire que vous a remis\nle dragon de foudre. Aucune attaque\nne peut le détruire.
+Remplit <r<complètement>> la jauge de votre\nbouclier et vous rend <r<quatre>> c\x153urs.
+Remplit complètement et <r<automatiquement>>\nla jauge de votre bouclier et vous rend <r<huit>>\nc\x153urs.
+Permet de porter <r<dix>> graines Mojo\nsupplémentaires pour le lance\x2010pierre.
+Permet de porter <r<20>> graines Mojo\nsupplémentaires pour le lance\x2010pierre.
+Permet de porter <r<30>> graines Mojo\nsupplémentaires pour le lance\x2010pierre.
+Permet de porter <r<cinq >>flèches\nsupplémentaires pour l'arc.
+Permet de porter <r<dix >>flèches\nsupplémentaires pour l'arc.
+Permet de porter <r<15 >>flèches\nsupplémentaires pour l'arc.
+Permet de porter <r<cinq >>bombes\nsupplémentaires.
+Permet de porter <r<dix >>bombes\nsupplémentaires.
+Permet de porter <r<15 >>bombes\nsupplémentaires.
+Outil qui vous permet de tirer des objets\nvers vous grâce à l'orbe de lumière à son\nextrémité.
+Bijoux mystérieux qui vous permettent\nde résister à des chaleurs extrêmes.
+
+Ce filet amélioré est deux fois\nplus grand que l'original, ce qui\nsimplifie la capture d'insectes vifs.
+Insecte des bois. Sa tendance à s'envoler au\nmoindre danger en fait une prise de valeur.
+Insecte des bois. Très lent, il est facile\nà attraper lorsqu'on le fait tomber d'un\narbre avec une roulade.
+Insecte des bois. Restez loin des nids\nsi vous ne voulez pas vous exposer à\nsa piqûre douloureuse.
+Insecte de Célesbourg. Si elle est facile à\nattraper, ses pattes ravisseuses n'en sont pas\nmoins redoutables.
+Insecte du volcan. Paisible et souvent\nentourée de ses congénères, elle est facile\nà capturer.
+Insecte commun. Présent dans chaque\nrecoin du monde, c'est un ingrédient de\nchoix dans les potions.
+Insecte du désert. Vous pourriez\nne pas avoir le c\x153ur à la capturer\ntant elle est adorable !
+Insecte du désert. Elle s'envole si\nrapidement que sa capture est l'une\ndes plus difficiles à réaliser.
+Insecte du désert. Capable de voler\nsur de très longues distances, elle ne\npeut être approchée que très lentement.
+Insecte du volcan. Lorsqu'il est effrayé,\nce spécimen très rare s'enfuit en faisant\nrouler sa boule étrange.
+Insecte de Célesbourg.\nLes enfants l'adorent.
+Insecte de Célesbourg. La seule vue de ce\nspécimen nocturne est un baume pour l'âme.
+Récipient bien pratique qui permet\npar exemple de transporter des potions.
+
+
+
+
+Lettre qu'Orbo a écrite en y mettant tout\nson c\x153ur. Prière de ne pas s'en servir\ncomme papier\x2010toilette.
+Lettre qu'Orbo avait écrite en y mettant\ntout son c\x153ur. Vous l'avez remise à\nune jeune fille, mais...
+Cage renfermant l'insecte adoré de Terry.\nAllez vite la lui rapporter.
+Cage qui renfermait l'insecte adoré\nde Terry. Vous avez pu le lui rendre.
+Jouet de bébé. Est\x2010ce que\nquelqu'un l'aurait perdu ?
+Jouet du bébé de Darin, le vendeur\nde potions. Vous l'avez rapporté à\nson propriétaire.
+Grande source de protéines provenant\nd'un nid de guêpe. Gare aux piqûres si\nvous voyez un nid de guêpes !
+Jolie plume provenant d'un oiseau\nvivant dans les endroits verdoyants.
+Boule d'herbe séchée roulant dans le désert.\nSi on ne l'attrape pas avec un filet, elle finit\npar se désagréger.
+Queue de lézard pourvue d'une\nboule à pointes, abandonnée par\nun monstre reptile.
+Pierre rare qu'on trouve sur les terres\nd'Ordinn, et qui permet de fabriquer des \nobjets robustes.
+Fleur qui poussait autrefois dans la région\ndu désert. On peut extraire une huile\nprécieuse de ses racines.
+Ornement jaune qu'on peut trouver partout.\nOn l'utilise dans de nombreux domaines.
+Trésor trouvé dans le monde des épreuves.\nSemblable et pourtant différente des perles\nd'ambre.
+Substance étrange produite par les monstres\nmous. Elle durcirait quand on la chauffe.
+Griffe tranchante de monstre volant.\nAttention à ne pas vous blesser.
+Il est assez difficile de produire un son\navec ce cor « emprunté » à un bokoblin.
+Un des ornements portés par les bokoblins.\nCe n'est pas un vrai crâne.
+C\x153ur de monstre cristallisé. On en trouve\nsouvent en éliminant des monstres capables\nde jeter des malédictions.
+Plume d'un oiseau bleu très rare.\nOn dit qu'elle apporte le bonheur.
+Un crâne décoratif très rare. On dit\nqu'il ne serait pas vraiment en or.
+Superbe cristal qui proviendrait\nde la Déesse. C'est un objet d'une\nrareté exceptionnelle.
+Stèle ancienne. Elle ouvre la voie vers\nla forêt de Firone.
+Stèle émeraude et stèle rubis.\nElles ouvrent la voie vers la forêt\nde Firone et le volcan d'Ordinn.
+Stèle émeraude, stèle rubis et stèle ambre.\nElles ouvrent la voie vers les trois contrées.
+Symbole des épreuves réussies,\nil ouvre la voie vers la Triforce.
+
+
+
+
+
+Mélodie à la gloire de la Déesse.\nJouée à la lyre, elle guide celui\nqui est investi d'une mission.
+Ce chant ouvre l'accès à la Psysalis\nde la forêt de Firone. Jouez\x2010le si vous\nen trouvez l'entrée.
+Ce chant ouvre l'accès à la Psysalis\ndu désert de Lanelle. Jouez\x2010le si vous\nen trouvez l'entrée.
+Ce chant ouvre l'accès à la Psysalis\ndu volcan d'Ordinn. Jouez\x2010le si vous\nen trouvez l'entrée.
+Cadeau du dragon d'eau, cette mélodie\nfait partie du chant qui ouvre l'accès\nà la dernière Psysalis.
+Cadeau du dragon de feu, cette mélodie\nfait partie du chant qui ouvre l'accès\nà la dernière Psysalis.
+Cadeau du dragon de foudre, cette mélodie\nfait partie du chant qui ouvre l'accès à la\ndernière Psysalis.
+Ce chant ouvre l'accès à la dernière Psysalis.\nJouez\x2010le à l'emplacement de l'entrée.
+Restaure <r<automatiquement >>la jauge de\nvotre bouclier et vous rend <r<huit>> c\x153urs.\nUtilisable <r<deux fois>>.
+Potage chaud et savoureux concocté\npar le patron de la Citrouille perchée.
+Savoureux potage de citrouille.\nMalheureusement, il a complètement\nrefroidi.
+Pousse d'un arbre dont le fruit aurait le\npouvoir de guérir toutes les maladies. Il va\nlui falloir beaucoup de temps pour grandir.
+Fruit légendaire capable de guérir\nles maux les plus divers. Il aurait\nun goût sans pareil.
+
+
+Cet objet a été volé par des monstres...\nVous devez le retrouver au plus vite !
+
+Vue subjective
+Vue subjective
+Zelda
+Zelda
+Tikwis
+Tikwis
+Fragments de clé
+Fragments de clé
+Générateurs auxiliaires
+Générateurs\nauxiliaires
+Entrée de l'épreuve
+Entrée de l'épreuve
+Eau sacrée
+Eau sacrée
+Galion du capitaine
+Galion du capitaine
+Fironotes
+Fironotes
+C\x153urs
+C\x153urs
+
+
+Trésors
+Trésors
+Cristaux de gratitude
+Cristaux de\ngratitude
+Rubis
+Rubis
+Cubes de la Déesse
+Cubes de la Déesse
+Hélice
+Hélice
+Bassine d'eau
+Bassine d'eau
+Boule de cristal
+Boule de cristal
+Laboureur
+Laboureur
+Plante inconnue
+Plante inconnue
+Roulette
+Roulette
+
+
+Permet de regarder autour de soi\nsans utiliser la détection.
+Réagit à Zelda, introuvable depuis sa chute.
+Réagit aux Tikwis perdus dans la forêt.
+Réagit au matériau dont est constituée la\nporte monumentale sur le flanc du volcan.
+Réagit à tout dispositif capable\nde fournir en énergie le générateur\nau centre du désert.
+Réagit à l'entrée de l'épreuve.
+Réagit à l'eau sacrée demandée\npar le dragon d'eau.
+Réagit au galion invisible du capitaine.
+Réagit aux fironotes qui composent\nune des mélodies du Chant du héros.
+Réagit aux c\x153urs et aux fl\x153urs.
+
+Réagit à tout matériau susceptible\nd'être employé à l'amélioration de\nvotre équipement.
+Réagit aux cristaux de gratitude que\nle démon Morcego réclame.
+Vous avez rassemblé tous les cristaux de\ngratitude. Il n'y a plus de réaction.
+Réagit aux rubis. Ça peut toujours servir !
+Réagit aux cubes de la Déesse et\nà ses coffres. Invoquez l'éclat céleste\net mettez\x2010vous en chasse !
+Vous avez obtenu tous les trésors des cubes\nde la Déesse. Il n'y a plus de réaction.
+Réagit à l'hélice du moulin de Célesbourg\ntombée sur la terre.
+Réagit à la bassine du dragon d'eau\npermettant de transporter la grande\nquantité d'eau qui éteindra les flammes.
+Réagit à une boule de cristal toute neuve\npour Petronus, le diseur de bonne aventure.
+Réagit à la personne capable de labourer\nle champ de citrouilles pour aider Tironne.
+Réagit à un type de plante inconnu pour\nla collection de maître Arfan.
+Réagit à la roulette que l'homme de l'île\nroulette a fait tomber sur la terre.
+
+Flamme de Farore
+Flamme de Nayru
+Flamme de Din
+
+Grâce au pouvoir sacré de la flamme verte,\nvotre épée s'est allongée et sa puissance\ns'est accrue ! 
+Grâce au pouvoir sacré de la flamme\nbleue, le don de détection de Fay se\ntrouve amélioré !
+Grâce au pouvoir sacré de la flamme rouge,\nvotre épée peut désormais éradiquer le mal !
+
+Arsenal
+Sacoche
+Détection
+Modifier l'affichage
+Calibrage du Wii MotionPlus
+Inventaire
+Collection
+Sélectionnez en maintenant (B)
+Sélectionnez en maintenant \x0E\x02\x04\x02\x2CD
+Sélectionnez en maintenant (C)
+
+Spores\nscintillantes
+Eau ordinaire
+Spores de\nchampignon
+Protectine
+Protectine \x2605
+Médaille\ninsecte
+Eau sacrée
+Potion de soin
+Potion de\nsoin \x2605
+Potion de\nsoin \x2605\x2605
+Endurol
+Endurol \x2605
+Potion\nd'oxygène
+Potion\nd'oxygène \x2605
+Fée
+Médaille c\x153ur
+Médaille rubis
+Médaille trésor
+Médaille de\ndurabilité
+Médaille\ndémoniaque
+Médaille de vie
+Bouclier en bois
+Bouclier en bois\nsolide
+Bouclier en bois\nrenforcé
+Bouclier en fer
+Bouclier en fer\nsolide
+Bouclier en fer\nrenforcé
+Bouclier sacré
+Bouclier sacré\namélioré
+Bouclier sacré\nultime
+Bouclier\nd'Hylia
+Polypotion
+Polypotion \x2605
+Petit sac\nde graines
+Sac de graines\nmoyen
+Grand sac\nde graines
+Petit carquois
+Carquois\nmoyen
+Grand carquois
+Petit sac\nde bombes
+Sac de bombes\nmoyen
+Grand sac\nde bombes
+Flacon vide
+Polypotion \x2605\x2605
+Soupe chaude
+Soupe froide

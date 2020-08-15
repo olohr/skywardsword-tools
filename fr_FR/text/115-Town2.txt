@@ -1,0 +1,263 @@
+\x0E\x01\x09\x04\x00\nAh, tiens, bonsoir !\nQue puis\x2010je faire pour toi ?\n[1]Faire des\nachats[2]Ben, euh...
+\x0E\x01\x09\x04\x0F\x409Des achats ? Tu vas devoir revenir\ndemain, alors !
+\x0E\x01\x09\x04\x13\x609« Ben, euh... » ? On dirait bien que\nt'as rien à faire ici, alors débarrasse\nle plancher, petit !
+Comment ça, je suis tout juste\naimable ? À peine reconnaissable ?\n\n\n\x0E\x01\x09\x04\x10\x60BEh bien, c'est la nuit, tu vois. Je range\nmon sourire obséquieux au placard\njusqu'à demain !\n\nÇa fatigue, de faire semblant !\n\n\n\nEnfin bref, parlons business !\n\n\n\nSerais\x2010tu là pour faire affaire à\nl'<r<armurerie de nuit >>?\n[1]C'est quoi ?[2]Oui
+\x0E\x01\x09\x04\x00\x09Ah, c'est la première fois que tu viens ?\nJe vois...
+\x0E\x01\x09\x04\x0F\x409Il fallait le dire plus tôt !
+\x0E\x01\x09\x04\x12\x600Le jour, je vends, et la nuit, j'achète !\n<r<Je peux t'acheter des trésors>>,\nmais attention, je ne prends pas\nn'importe quoi ! \nIl n'y a que <r<certains trésors>> qui\nm'intéressent...\n\n\n\x0E\x01\x09\x04\x10\x600Très bien, voyons ce que tu as à me\nproposer !
+\x0E\x01\x09\x04\x00\nAh, tu as des trésors à me vendre ?
+\x0E\x01\x09\x04\x12\x600Sache que cette nuit, j'achète ceci :\n- <y<\x0E\x02\x02\x04\x00\x00>>\n- <y<\x0E\x02\x02\x04\x00\x01>>\n\n- <y<\x0E\x02\x02\x04\x00\x02>>\n- <y<\x0E\x02\x02\x04\x00\x03>>\n\x0E\x01\x09\x04\x10\x600Alors, ça te va ?\n\n[1]D'accord[2-]Tant pis
+Qu'est\x2010ce que tu veux me vendre ?\n<y<<y<[1]\x0E\x02\x02\x04\x00\x00[2]\x0E\x02\x02\x04\x00\x01[3]\x0E\x02\x02\x04\x00\x02[4]\x0E\x02\x02\x04\x00\x03<y<>>
+\x0E\x01\x09\x04\x12\x600Joli... Je t'en propose \x0E\x02\x03\x06\x00\x00Í rubis pièce.
+\x0E\x01\x09\x04\x12\x600Je t'en donne \x0E\x02\x03\x06\x00\x01Í rubis pièce.
+<y<\x0E\x01\x09\x04\x12\x600>>\x0E\x02\x03\x06\x00\x02Í rubis pièce, ça te convient ?
+\x0E\x01\x09\x04\x12\x600Je t'en donne \x0E\x02\x03\x06\x00\x03Í rubis pièce.
+\x0E\x01\x09\x04\x10\x600Tu en as \x0E\x02\x03\x06\x00\x04Í, à ce que je vois...\nCombien veux\x2010tu m'en vendre ?\n[1]1[2]5[3]Tout[4-]J'ai changé\nd'avis
+<y<\x0E\x01\x09\x04\x12\x900>>Tu es prêt à m'en vendre \x0E\x02\x03\x06\x00\x00Í,\nc'est bien ça ?\nJe t'en donne \x0E\x02\x03\x06\x00\x01Í rubis.\n\n[1]Vendu ![2-]Pas\nquestion !
+\x0E\x01\x09\x04\x0F\x409N'essaie pas de m'avoir, je vois\nbien que tu n'en as pas autant !\nOn ne plaisante pas avec les affaires !
+\x0E\x01\x09\x04\x0F\x409Vraiment ? Et comment vas\x2010tu faire ?\nTu n'en as même pas !\nTu me fais perdre mon temps !\n\nAs\x2010tu vraiment quoi que ce soit à me\nvendre ?\n\n\n[1]Oui[2-]Non
+\x0E\x01\x09\x04\x10\x80ATrès bien ! Voilà ton argent !
+Merci beaucoup !\nN'hésite pas à revenir !
+\x0E\x01\x09\x04\x0F\x0CJe vois... Eh bien, j'espère te revoir\nà l'occasion !
+\x0E\x01\x09\x04\x00\xFF01Encore toi, Link?\nQu'est\x2010ce que tu me veux ?
+<r<\x0E\x01\x09\x04\x00\x300>>Hein ?\nQu'est\x2010ce que je suis en train de faire ?\n\n\n\x0E\x01\x09\x04ÿ\x114Ben, j'admire mes <r<insectes>>...
+\x0E\x01\x09\x04\x01\xFF00Ils sont extraordinaires... Totalement\nfascinants, plus encore qu'Hergo...\n\n\nEnfin...\x0E\x01\x04\x02\x1E Je ne veux pas dire qu'Hergo\nne vaut pas mieux qu'un insecte !
+Bref, <r<les insectes me passionnent>>...\nJe veux en posséder des centaines !\n\n\nMon rêve le plus fou, ça serait d'avoir\nune île à moi, qui grouillerait\nd'insectes !
+\x0E\x01\x09\x04ÿ\xFF01Tiens, d'ailleurs !\n\n\n\n\x0E\x03\x01\x00Link, <r<si tu trouves des\ninsectes, je suis prêt à te\nles acheter >>!\n\nEt je t'assure que quand il s'agit\nde bébêtes, je compte pas les rubis !\n[1]Très bien[2]Pas question
+\x0E\x01\x09\x04\x03\xFF04Héhéhé !\nMa collection d'insectes va prendre des\nproportions inimaginables !
+\x0E\x01\x09\x04\x01\xFF05Quoi ? C'est pas très gentil, ça !\nJe vais tout raconter à Hergo !
+Ben, si jamais t'as envie de me vendre\ndes insectes, tu me trouveras ici, je\nsuis là toutes les nuits !\n\n\x0E\x01\x09\x04\x12\x100Mais j'achète pas n'importe quoi !\nJe décide de mes acquisitions\n<r<selon l'humeur du moment>>.\n\nAutre chose... Je suis comme qui dirait\nun oiseau de nuit, tu vois. Une sorte de\nluciole, en fait.\n\nBref, j'achète des insectes <r<que la nuit>>.\nJ'ai pas particulièrement envie que\nça se sache...\n\n\x0E\x01\x09\x04\x03\xFF14Compris, Link ?\nJe sais bien qu'on s'apprécie pas \nforcément, toi et moi, mais j'te fais\nconfiance, OK ?
+Allons\x2010y, alors ! T'as des insectes à\nme vendre ?
+\x0E\x01\x09\x04\x03\x01Ah, c'est toi, Link.\nJe me doutais que je te verrais ici.\nT'as du nouveau pour moi ?
+\x0E\x01\x09\x04\x03\x01Hé, Link ! Y a un truc\nqui m'a mis la puce à l'oreille,\naujourd'hui. Et je peux te dire que\nça chatouille ! Héhéhé...
+\x0E\x01\x09\x04\x03\x01T'es peut\x2010être déjà au courant, mais\ntout à l'heure, je suis allé faire un tour\ndans la grotte de la cascade.\n\nJ'y ai trouvé tout un groupe de\n<r<papillons azur>><r< >>qui voletaient\nensemble dans un endroit\ntout ce qu'il y a de plus banal.\nJe me demande pourquoi ils se\nregroupent comme ça...\nTu trouves pas ça bizarre ?\n\nSi tu veux voir ça par toi\x2010même,\nrends\x2010toi dans la grotte, la nuit...
+Voyons voir ! Quels insectes\nm'as\x2010tu apportés, ce soir ?
+Hmm, il y a trois insectes qui me font\nenvie, ce soir... Voici leurs noms :\n\n\n- <y<\x0E\x02\x02\x04\x00\x00>>\n- <y<\x0E\x02\x02\x04\x00\x01>>\n- <y<<y<\x0E\x02\x02\x04\x00\x02<y<>>\n[1]Parfait ![2-]Tant pis
+\x0E\x01\x09\x04\x01\xFF13Oh, quel dommage...\n\x0E\x01\x09\x04\x00\x500À la prochaine, alors...
+Qu'est\x2010ce que tu me proposes ?\n<y<<y<[1]\x0E\x02\x02\x04\x00\x00[2]\x0E\x02\x02\x04\x00\x01[3]\x0E\x02\x02\x04\x00\x02<y<>>
+Hmm, j'en cherchais justement...\nJe t'offre \x0E\x02\x03\x06\x00\x00Í rubis par spécimen.
+Oh oh... Ça me tente bien !\nJe t'en donne \x0E\x02\x03\x06\x00\x01Í rubis pièce.
+On n'en a jamais trop, de ceux\x2010là !\nJ'achète ! \x0E\x02\x03\x06\x00\x02Í rubis pièce.
+\x0E\x01\x09\x04\x03\xFF04Merci bien !\nJe me sens toujours mieux avec\ndes insectes plein les poches !\n\nN'hésite pas à m'en apporter d'autres,\nLink !
+\x0E\x01\x09\x04\x10\xFF0CNon mais oh, je vois bien que t'en as\npas ! Je sais pas à quoi tu joues, mais\nje trouve pas ça très drôle !\n\n\x0E\x01\x09\x04\x01\xFF00T'as des insectes à me vendre, oui\nou non ?\n[1]Oui[2-]Non
+T'en as \x0E\x02\x03\x06\x00\x04Í. Ça m'intéresse...\nT'es prêt à m'en vendre combien ?\n[1]1[2]5[3]Tout[4-]Aucun
+\x0E\x01\x09\x04\x12\x100T'en as pas autant, comment\ntu pourrais me les vendre ?
+\x0E\x01\x09\x04\x03\x14Hmm, intéressant...\nJe t'en donne \x0E\x02\x03\x06\x00\x01Í rubis.\n\n\n[1]Vendu ![2-]Pas\nquestion
+OK, voilà pour toi.
+\x0E\x01\x09\x04\x00\x00Rrrrrrrrrrr... Pchhhhhhh...\nZZZZZZZZZZ...
+\x0E\x01\x09\x04\x00\x03Ahhh... Comment ça s'endort,\nau juste, un enfant ?\nJe ne sais plus quoi faire !\n\n[1]Dur, dur[2]Où est\nsa mère ?
+\x0E\x01\x09\x04\x00\x04Oui, c'est dur ! Enfin, je crois...\nDe toute façon, même quand il\npleure, il est adorable !\n\nTu comprendras quand tu en\nauras un, toi aussi !
+\x0E\x01\x09\x04\x00\x07Ah, sa mère\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n. Elle est fatiguée,\nla pauvre... Elle travaille à\nla boutique toute la journée !\n\n\x0E\x01\x09\x04\x0D\xF06Le soir, il faut qu'elle se repose...\nHaha...
+\x0E\x01\x06\x02\xFCCD...\x0E\x01\x04\x02-\x0E\x01\x06\x02Í\x0E\x01\x09\x04\x0D\x00 Ahhh...\x0E\x01\x05\x04A\x00
+Ahhh... On dirait que je vais encore\npas dormir beaucoup cette nuit...\n\n\n[1]Pourquoi ?[2]Tu es\nfatigué ?
+\x0E\x01\x09\x04\x10\xF06Oh excuse\x2010moi, je ne voulais pas que tu\nte fasses du souci pour moi...
+\x0E\x01\x09\x04\x10\xF07Ça se voit tant que ça ?
+\x0E\x01\x09\x04\x0D\xF00Le bébé pleure toute la nuit,\nen ce moment. Je n'en dors plus !\nPourtant, il fait ses nuits, d'habitude.\n\nMais depuis qu'on a perdu son bidule,\ny a plus moyen de le calmer !\n\n\n[1]Quel bidule ?[2]Oh, je vois...
+\x0E\x01\x09\x04\x10\xF01Son <y<hochet>>.
+\x0E\x01\x09\x04\x10\xF04Tu es au courant, on dirait.\nC'est son <y<hochet >>qui lui manque.
+\x0E\x01\x09\x04\x00\xF00Il suffirait de le lui donner pour qu'il\nse calme immédiatement !\nMais on l'a perdu, l'autre jour.\n\n<r<Un oiseau l'a emporté dans son bec>>.\nIl a dû croire que ça se mangeait...\n\n\n\x0E\x01\x09\x04\x0E\xF00Et comme ce n'est pas le cas, il a dû\nl'abandonner <r<quelque part dans la\nville>>.\n\nMais je n'ai pas réussi à mettre la\nmain dessus...\n\n\n\x0E\x01\x09\x04\x00\x09Aah... si seulement quelqu'un pouvait\nle retrouver...
+\x0E\x01\x09\x04\x0D\xF09Ahh... Si seulement quelqu'un pouvait\ntrouver le <y<hochet >>du bébé...\n\n\n<r<\x0E\x01\x09\x04\x10\x00Un oiseau l'a emporté>>, mais je suis sûr\nqu'il est toujours <r<quelque part en\nville>>...\n\n\x0E\x01\x09\x04\x0D\x00Ahh...\nJe sens que je ne vais pas beaucoup\ndormir cette nuit, encore...
+\x0E\x01\x09\x04\x00\xE0DMais, on dirait...?\nMais oui, c'est bien le <y<hochet >>du bébé !\n\n\nTu l'as trouvé !
+Tiens, mon trésor...\nJe connais un gentil bébé\nqui va faire un gros dodo !\x0E\x01\x05\x04x\x00
+\x0E\x01\x09\x04\x00\xE08Quel soulagement !\nLe bébé semble être dans de meilleures\ndispositions, à présent !\n\nJe suis sûr qu'il va s'endormir en un\néclair ! Et je vais l'imiter avec \ngrand plaisir !\n\n\x0E\x01\x09\x04\x10\xE00Merci beaucoup.\nJe n'oublierai jamais\nce que tu viens de faire !
+\x0E\x01\x09\x04\x00\xE08Je vais enfin pouvoir récupérer\nun peu ! Merci beaucoup !
+\x0E\x01\x09\x04\x00\x08Ah ! Merci à toi !\nDe tout c\x153ur !
+\x0E\x01\x06\x02\xFCCD5... 6... 7...
+Gnarf... oh... oh...
+\x0E\x01\x06\x02\xFECD55... 56... 57...
+Gnaaarf... Hmmff...
+3 985... 3 986...\n3 987... 3 988...
+Woooo...!
+\x0E\x01\x09\x04\x00\x10Gnaaarf... Hmmff...\nPfiouu...\n\n\n\x0E\x01\x09\x04\x10\x1600Ah, Link ! Bonsoir.\n\n\n\nTu te demandes ce que je fais ?\nBen, tu vois, je m'entraîne !\n\n\nQuand on est pas capable de porter un\ntonneau, y a du souci à se faire !\n\n\nJ'essaie de développer mes muscles.\n\n\n\n\x0E\x01\x09\x04\x00\x1711Mais je voudrais pas que les autres\nrigolent, alors je m'entraîne la nuit...
+Je voudrais continuer, mais je n'en\npeux plus... Si seulement j'avais une\n<r<potion capable d'augmenter mon\nendurance>>...
+\x0E\x01\x09\x04\x00\x03Nom d'un p'tit oiseau !\nFaut vraiment que je me remplume !\n\n\nJe vais continuer à m'entraîner\ntout seul jusqu'à ce que je devienne\ncostaud !
+\x0E\x01\x09\x04\x00\x03T\x2010T'inquiète pas !\nJ'y arriverai tout seul !
+\x0E\x01\x09\x04\x00\x11Hmmff... Pfiouu...\nJ'y arrive pas...\n\n\nJe voudrais continuer, mais je n'en\npeux plus... Si seulement j'avais une\n<r<potion capable d'augmenter mon\nendurance>>...
+\x0E\x01\x09\x04\x00\x11Hmmff... Pfiouu... \x0E\x03\x01\x00Link,\nqu'est\x2010ce que tu as là ? Ça serait pas\nde l'<y<Endurol>>, dis ?\n\nTu voudrais pas me le donner ?\n[1]D'accord[2-]Pas\nquestion
+\x0E\x01\x09\x04\x00\x0BOh ! \x0E\x03\x01\x00Link, qu'est\x2010ce que\ntu as là ? Ça serait pas de l'<y<Endurol>>,\ndis ?\n\nTu voudrais pas me laisser le boire ?\n[1]D'accord[2-]Pas\nquestion
+\x0E\x01\x09\x04\x00\x11Oh, non, bien sûr...\nExcuse\x2010moi, c'était vraiment\négoïste de ma part...
+\x0E\x01\x09\x04\x00\x0BC'est vrai ?!\nOh, merci ! Je te revaudrai ça !
+\x0E\x01\x09\x04\x00\x10Waouh !\nToute ma fatigue s'envole !
+\x0E\x01\x09\x04\x00\x12Ahh...\nJe ne sais pas si j'arriverai à devenir\ncostaud avec ces exercices...\n\n[1]Ça ne dépend\nque de toi[2]Bien sûr\nque si !
+\x0E\x01\x09\x04\x00\x09Tu as raison !\nJe dois faire des efforts, c'est tout !\nÇa ne sert à rien de rester à gémir.
+\x0E\x01\x09\x04\x00\x1609Oh, tu as l'air confiant...\nEh bien, j'imagine que tu dois avoir\nraison. Mes efforts devraient être\nrécompensés...
+\x0E\x01\x09\x04\x00\x1800Merci, Link.\nJe vais faire de mon mieux\npour devenir costaud.\n\n\x0E\x01\x09\x04\x15\x1800Allez, je me remets à l'entraînement !\nReviens me voir bientôt, tu verras\nmes progrès !
+\x0E\x01\x09\x04\x07\x1602Je vais faire de mon mieux pour\ndevenir costaud. Reviens me voir\nbientôt, tu verras mes progrès !
+\x0E\x01\x09\x04\x00\x10Hmmff... Pfiouu...\nBonsoir, Link.\n\n\n\x0E\x01\x09\x04\xC10\xFF00Je m'entraîne dur depuis la dernière\nfois que je t'ai vu, mais je crois que\nje suis dans l'impasse...\n\nJ'accumule de la fatigue, on dirait.
+Hé, Link !\nTu voudrais pas me donner encore\nun peu d'<y<Endurol>> ?
+\x0E\x01\x09\x04\x00\x03Non, ce n'est pas bien...\nJe dois arrêter de te demander\nde l'aide tout le temps !\n\nJe dois réussir tout seul.
+\x0E\x01\x09\x04\x00\x0BAh !\n\x0E\x03\x01\x00Link, est\x2010ce que c'est\nde l'<y<Endurol>> que tu as là ?\n\nTu voudrais pas m'en donner un peu ?\n[1]D'accord[2-]Non
+\x0E\x01\x09\x04\x00\x10Hmmff... Pfiouu...\nHé, Link !\n\n\nTu voudrais pas partager un peu\nde ton <y<Endurol>> avec moi ?\n\n\n[1]D'accord[2-]Non
+\x0E\x01\x09\x04\x00\x11Je comprends...\nExcuse\x2010moi de t'avoir ennuyé avec ça.
+Ce n'est rien !\nJe réussirai tout seul !
+\x0E\x01\x09\x04\x00\x0BC'est vrai ?!\nMerci ! Je l'accepte avec plaisir !
+\x0E\x01\x09\x04\x00\x10Waouh ! J'ai l'impression de\nrevenir à la vie !\nToute ma fatigue s'est envolée !
+\x0E\x01\x09\x04\x00\x12Je m'inquiète un peu, parfois.\nJ'ai l'impression de ne pas m'entraîner\nefficacement...\n\nJe vais devoir continuer combien\nde temps avant de devenir vraiment\ncostaud ? Qu'en penses\x2010tu,\nLink ?\nCombien de pompes faut\x2010il\nencore que je fasse avant\nde voir pointer des muscles ?\n\n[1]Un millier[2]Peu importe !
+\x0E\x01\x09\x04\x00SOh... Autant que ça ?!\n\n\n\n\x0E\x01\x09\x04\x10\xE00Je vois...\nLe chemin vers la puissance physique\nest rocailleux, à ce que je vois...
+\x0E\x01\x09\x04\x00\x07Comment ça, peu importe ?\n\n\n\n\x0E\x01\x09\x04\x07\x800Oh, tu veux dire que je dois\ncontinuer jusqu'à ne plus\npouvoir les compter, c'est ça ?
+\x0E\x01\x09\x04\x01\x1600J'ai compris !\nCette fois, je vais vraiment\ndevenir balèze !\n\n\x0E\x01\x09\x04\x00\x1800Reviens me voir bientôt, tu verras mes\nprogrès !
+\x0E\x01\x09\x04\x00\x02\x0E\x03\x01\x00Link !\nJe vais devenir tellement costaud\nque tu ne me reconnaîtras même pas !\n\nReviens me voir bientôt,\ntu verras mes progrès !
+\x0E\x01\x09\x04\x15\x190AMpffff...\nJe pourrais continuer pendant des\nheures !\n\n\x0E\x01\x09\x04\x01\x1600... Salut, Link !\nTu tombes bien !\nJe voulais te demander quelque chose !\n\n\x0E\x01\x09\x04\x07\x1800J'ai essayé de porter un tonneau\nl'autre jour...\nJe l'ai soulevé d'une seule main !\n\n\x0E\x01\x09\x04\x00\x1600Tu crois que ça veut dire que\nj'ai pris du muscle ?\n\n\nRéponds\x2010moi franchement,\nLink...\nTu me trouves costaud, maintenant ?\n[1]Peut\x2010être un\npeu trop...[2]Oui
+\x0E\x01\x09\x04\x00\x180BC'est vrai ? Merci !\nJe suis tellement heureux !
+\x0E\x01\x09\x04\x07\x1809Hmm, j'ai peur que tu en rajoutes\nun peu... Mais ça me fait plaisir\nquand même !
+\x0E\x01\x09\x04\x00\x1600Si j'en suis là aujourd'hui, c'est grâce\nà toi, Link.\n\n\n\x0E\x01\x09\x04\x01\x1900Je me serais découragé il y a longtemps\nsi tu ne m'avais pas soutenu comme\ntu l'as fait.\n\n\x0E\x01\x09\x04\x07\x180BMerci de tout c\x153ur, Link !
+\x0E\x01\x09\x04\x15\x180AJe n'ai même plus besoin de faire\nde pause ! Mon prochain objectif,\nc'est de soulever un tonneau avec\nun seul doigt !
+\x0E\x01\x09\x04\x15\x180AMpfff...\nJe pourrais continuer\npendant des heures...
+\x0E\x01\x09\x04\n\xC12Que faire...\nJe suis fou d'inquiétude...\n[1]Qu'y a\x2010t\x2010il ?[2]Calme\x2010toi !
+\x0E\x01\x09\x04\x00\x411Salut, Link.\nTu veux bien m'écouter un instant ?\nC'est gentil.
+\x0E\x01\x09\x04\x0B\x500Comment veux\x2010tu !\nOh, excuse\x2010moi... C'est pas\nen te criant dessus que je vais\ntrouver une solution...
+\x0E\x01\x09\x04\x00\x400Tout à l'heure, ma <r<petite s\x153ur >>est\npartie sur son célestrier et elle n'est\ntoujours pas rentrée...\n\nD'habitude quand elle part en\npromenade, ça ne dure pas aussi\nlongtemps. Alors je suis allé à sa\nrecherche. Mais en vain...\n\x0E\x01\x09\x04\x0B\x500Je ne supporte pas l'idée qu'il ait pu lui\narriver quelque chose... Je me ronge\nles sangs, je ne sais plus quoi faire !
+\x0E\x01\x09\x04\x00\x411Hé, Link, tu veux bien\npartir à sa recherche ?
+\x0E\x01\x09\x04\x0D\x400Elle était intriguée par l'<b<île qui\nressemble à une roulette>> qui s'est\nformée récemment. Elle a donc\ndû s'envoler vers le <r<sud\x2010ouest>>.
+\x0E\x01\x09\x04\x01\x400Je compte sur toi, Link !
+\x0E\x01\x09\x04\n\xC12Que faire... Je suis fou d'inquiétude !\n\n\n\nD'habitude elle prend toujours un\n<r<flacon>> de remède avec elle au cas\noù son oiseau serait blessé...\n\nMais aujourd'hui, elle a oublié...
+\x0E\x01\x09\x04\x0D\x400Ma s\x153ur disait qu'elle était intriguée\npar l'<b<île qui ressemble à une roulette>>.\nDonc je pense qu'elle a dû s'envoler\nvers le<r< sud\x2010ouest>>.
+\x0E\x01\x09\x04\x01\x400Tu veux bien partir à sa recherche,\nLink ?
+\x0E\x01\x09\x04\x0B\x50DQuoi ?!\nTu as trouvé ma s\x153ur ?!\nEt son célestrier est blessé ?!\n\n\x0E\x01\x09\x04\n\xC00C'est terrible !\nDans ce cas, apporte\x2010lui ceci\naussi vite que possible !\n\n<y<\x0E\x01\x09\x04\x00\x400>>Ce sont des <y<spores de champignon>>,\ncela devrait soigner son célestrier.
+\x0E\x01\x09\x04\x00\x50DTu as trop d'affaires avec toi !\n\x0E\x01\x09\x04\x00\x400Commence par faire de la place dans\nta sacoche, et reviens vite me voir !
+\x0E\x01\x09\x04\x0B\x404Si elle l'applique sur la blessure de son\ncélestrier, il guérira immédiatement.\nElle pourra alors rentrer à la maison\nsans problème.\n\x0E\x01\x09\x04\x00\xC00Apporte\x2010les à ma s\x153ur !\n\x0E\x01\x09\x04\x00\x400Tu pourras garder le <r<flacon >>quand\ntu lui auras donné les spores !\n\nJe compte sur toi, Link !
+\x0E\x01\x09\x04\x0B\x406Eh bien, qu'as\x2010tu fait des <y<spores\nde champignon >>? Tu ne les lui as pas\nencore données ?\n\n\x0E\x01\x09\x04\n\x400Si jamais tu les perds, tu peux en\n<r<prélever d'autres sur des champignons>>.\n\n\nJe compte sur toi, Link !
+\x0E\x01\x09\x04\x0B\x409Si tu as de la place dans ta sacoche,\ntu pourras prendre ceci.\n\n\n<y<\x0E\x01\x09\x04\n\x400>>Ce sont des <y<spores de champignon>>.\nElles guériront la blessure du\ncélestrier.
+\x0E\x01\x09\x04\x0B\x409Que se passe\x2010t\x2010il, Link ?\nApporte les <y<spores de champignon>>\nà ma s\x153ur, vite !\n\n\x0E\x01\x09\x04\n\x400Je compte sur toi !
+\x0E\x01\x09\x04\x0B\xE09\x0E\x03\x01\x00Link ! Ma s\x153ur est\nrentrée saine et sauve !\n\n\n\x0E\x01\x09\x04\n\x400Quel soulagement ! J'avais tellement\npeur qu'il lui soit arrivé malheur...\n\n\n\x0E\x01\x09\x04\x0B\x400Tout ça, c'est grâce à toi,\nLink. Merci infiniment !
+\x0E\x01\x09\x04\x0B\xE09\x0E\x03\x01\x00Link !\nMa s\x153ur est saine et sauve !\n\n\n\x0E\x01\x09\x04\n\x400Je suis tellement soulagé !\nJ'imaginais le pire... Je ne sais pas\nce que j'aurais fait s'il lui était\narrivé quelque chose...\nQuoi ? C'est toi qui lui as apporté\nle remède ?\x0E\x01\x04\x02\x14 \x0E\x01\x09\x04\x0B\x400Oh, merci !\n\n\nJe sais que ce n'est pas grand\x2010chose\ncomparé à ce que tu as fait pour elle,\nmais accepte ceci en guise de\nremerciement.
+\x0E\x01\x09\x04\x0B\xA05Oh, dommage ! Je voulais t'offrir ce\n<y<flacon vide>>, mais il n'y a plus de place\ndans ta sacoche ni à la consigne...\n\nJe le garde de côté pour toi. Essaie\nde faire le tri et reviens me voir, je\nte le donnerai à ce moment là.
+\x0E\x01\x09\x04\x0B\x400Je suis sûr que tu pourras lui trouver\ntout un tas d'usages différents.\nEncore merci !
+\x0E\x01\x09\x04\x0B\xE09Salut, Link !\nMerci pour ce que tu as fait pour\nma s\x153ur. Je ne l'oublierai jamais !
+\x0E\x01\x09\x04\x00\x01Salut, Link !\nÇa fait un moment que j'ai pas vu\nZelda. Il lui est arrivé quelque chose ?
+\x0E\x01\x09\x04\x00\x01Salut, Link !\n\n\n\n\x0E\x01\x09\x04\n\x400Comment ? <r<Deux ailes >>?\x0E\x01\x04\x02\x1E Tu sais, les\ndevinettes, c'est vraiment pas mon\ntruc. Pourquoi t'irais pas demander\nau <r<diseur de bonne aventure>> ?
+\x0E\x01\x09\x04\n\x405Hé, tu as vu ? La tour de lumière\német un rayon lumineux qui éclaire\nle cumulonimbus !\n\nC'est comme si elle disait de se rendre\nlà\x2010bas...
+\x0E\x01\x09\x04\x00\x01Salut, Link !\nÇa fait un moment que j'ai pas vu la\nbande des trois petits voyous.\n\nEst\x2010ce qu'ils se seraient enfin mis à\nétudier après leur échec à l'examen\nde passage en classe supérieure ?
+\x0E\x01\x09\x04\x00\x01Salut Link !\nJe suis allé voir cette île roulette qui\nintriguait tant ma s\x153ur.\n\nLà\x2010bas, il y avait un homme tout\ndéprimé parce qu'il a fait tomber\nsa <r<roulette >>sous les nuages.\n\nEnfin, une fois que quelque chose\nest tombé sous les nuages, il y a\nplus grand\x2010chose à faire.
+\x0E\x01\x09\x04\x00\x01Salut, Link ! T'es toujours\nen train de courir partout, dis donc !
+\x0E\x01\x09\x04\n\x405C'est vraiment bizarre... Pourquoi\ntous ces papillons se rassemblent\nsur la grand\x2010place ? Il y a rien ici.
+\x0E\x01\x09\x04\x00\x01Qu'est\x2010ce que tu as fait tout à l'heure\nsur la grand\x2010place ? Le ciel s'est\nassombri tout à coup...
+\x0E\x01\x09\x04\x00\x01Tout à l'heure, j'ai entendu un bruit\nde rochers qui s'écroulaient...\nQu'est\x2010ce qui s'est passé ?
+\x0E\x01\x09\x04\x0B\x409Il paraît que l'île de la Déesse\na disparu ! C'est à peine croyable !\n\n\n\x0E\x01\x09\x04\n\x400C'est mauvais signe, ça c'est sûr...
+\x0E\x01\x09\x04\n\xA00Hé, un de tes camarades de classe\ns'appelle <b<Latruche>>, pas vrai ?\n\n\nIl raconte qu'il a découvert une île\nidéale pour l'élevage des insectes\n<r<dans le cumulonimbus>>. C'est un vrai\nmordu de bestioles en tout genre !\n\x0E\x01\x09\x04\x0B\x400Je me demande bien ce qu'il\ny fait, sur son île...
+\x0E\x01\x09\x04\x01\x400<b<Latruche>> a dit qu'il voulait créer\nun paradis des insectes sur son île\n<r<dans le cumulonimbus>>. Pour ça, il\nen collectionne toutes sortes.
+\x0E\x01\x09\x04\x01\x400Au fait, <b<Latruche>> est parti vers le\ncumulonimbus. Il était tout content\nparce qu'il avait trouvé un <r<insecte rare>>.\n\nC'est pas comme ça qu'il va réussir à\nses examens...
+\x0E\x01\x09\x04\x00\x50BTiens !\nMais on dirait Link !\nOn peut dire que tu tombes bien !\n\n\x0E\x01\x09\x04\x12\x200Mon célestrier s'est blessé pendant\nnotre promenade. Il ne peut plus\nvoler !\n\n\x0E\x01\x09\x04\x01\x1500On a eu de la chance de réussir à\natterrir ici, mais impossible de rentrer\nà Célesbourg !\n\n\x0E\x01\x09\x04\x12\x1500Je dois soigner sa blessure, mais\n<r<il me faut un remède >>pour ça.\n\n\nMais pas n'importe lequel, j'ai besoin\nd'un truc spécialement <r<pour les\noiseaux >>!\n\nDis donc, Link, \x0E\x01\x09\x04\x15\x200\ntu voudrais pas m'aider ? Il faudrait\nque tu ailles me chercher ce remède...\n\n[1]Mais\nbien sûr ![2]Désolé...
+\x0E\x01\x09\x04\x0B\x409Merci de tout c\x153ur !\nTu me sauves la vie !
+\x0E\x01\x09\x04\x0C\x1513Mais enfin, tu n'as pas de c\x153ur !\n\n\n\n\x0E\x01\x09\x04\x0B\x409Oh, tu plaisantais, bien sûr !\nJe préfère ça !
+<r<Mon grand frère te donnera le remède>>.\nVa donc à sa rencontre. Je suis sûre\nqu'il est mort d'inquiétude à mon sujet.\n\nIl doit être <r<quelque part sur la\ngrand\x2010place de Célesbourg>>,\nà guetter mon retour...
+\x0E\x01\x09\x04\x09\x509Mais tu as le remède ! Pourquoi tu ne\nme l'as pas dit plus tôt ? Ces <y<spores de\nchampignon >>sont exactement ce qu'il\nme faut.\nAvec ça, mon célestrier sera sur\npied en un rien de temps ! Tu me\nles donnes ?\n[1]Tiens[2-]Pas\nquestion
+\x0E\x01\x09\x04\x00\x50BAlors, tu me donnes ces spores de\nchampignon ? Avec ça, mon célestrier\nsera guéri en un rien de temps !\n[1]Tiens[2-]Pas\nquestion
+Ah bon ? J'imagine que c'est trop te\ndemander... Mais ça te dérange pas\nd'aller dire à mon frère ce qu'il m'est\narrivé ?
+Ah, tu lui as déjà parlé ?\nVoilà qui simplifie les choses !
+Je t'attendrai ici avec mon célestrier.\nJe compte sur toi...\nEt encore merci !
+<r<\x0E\x01\x09\x04\x00\x01Mon grand frère te donnera le remède>>.\nVa donc à sa rencontre.\n\n\nJe t'attendrai ici avec mon célestrier.\nJe compte sur toi...
+\x0E\x01\x09\x04\x00\x0BOh, des <y<spores de champignon >>!\nQuel soulagement !\nTu m'as apporté le remède !\n\n[1]Tiens ![2-]Non
+\x0E\x01\x09\x04\x00\x1113Mais quel monstre !
+\x0E\x01\x09\x04\x0B\x409Merci ! Je vais pouvoir soigner mon\ncélestrier...
+\x0E\x01\x09\x04\x00\x04Il sera en pleine forme en un rien\nde temps !
+\x0E\x01\x09\x04\x00\x09Je commençais vraiment à perdre\nespoir. Ton aide nous a été précieuse.\n\n\nTu nous as sauvés, mon célestrier et\nmoi ! Merci !
+\x0E\x01\x09\x04\x00\x04Bien, nous partons ! On se croisera\nsûrement en ville un de ces jours !
+\x0E\x01\x09\x04\x00\x0BOh, Link.\nMerci beaucoup pour ton aide.\n\n\n\x0E\x01\x09\x04\x00\x400Mon célestrier est parfaitement\nrétabli. Je te dois beaucoup.
+\x0E\x01\x09\x04\x00\x01Tiens, Link !\nDis\x2010moi, cette fille de l'école de\nchevalerie~~.~~.~~.~~ Zelda, c'est bien ça ?\n\nOn ne vous voit plus beaucoup\nensemble ces derniers temps.\nVous vous êtes disputés ?
+\x0E\x01\x09\x04\x00\x01Tiens, Link !\n\n\n\n\x0E\x01\x09\x04\x11WComment ? <r<Deux grandes ailes >>?  \n\n\n\n\x0E\x01\x09\x04\x01\x00Des ailes à Célesbourg... Il y a bien les\n<r<moulins>> qui ont des ailes... Mais je ne\nsais pas si ça a un rapport...
+\x0E\x01\x09\x04\x00\x13Tout à l'heure, j'ai eu l'impression que\nle ciel s'était assombri pendant un\ninstant. Je me demande ce que c'était...
+\x0E\x01\x09\x04\x00WComment ? La Triforce ?\x0E\x01\x04\x02\x14\nNon, ça ne me dit rien...\n\n\nPourquoi tu ne demandes pas\naux professeurs de l'école ?
+\x0E\x01\x09\x04\x00\x01Tiens, Link !\n\n\n\n\x0E\x01\x09\x04\x0C\x200Tu es parvenu à maîtriser la légendaire\nattaque tornade ?\x0E\x01\x04\x02\x1E\x0E\x01\x09\x04\x0C\x50B Impressionnant !
+\x0E\x01\x09\x04\x00\x13Tu as senti ce grand tremblement ?\nJe me demande bien ce que c'était...
+\x0E\x01\x09\x04\x00\x01Oh, Link !\nL'île de la Déesse a disparu !\n\n\n\x0E\x01\x09\x04\x00\x1513Comme c'est triste, les célestriers\nadoraient s'y percher !
+Houuuuu...
+Houuuu...\nIl y a quelqu'un ?\nS'il vous plaît, aidez\x2010moi...
+Houuuu... Du <r<papier>>...\n\n\n\nS'il vous plaît... Aidez\x2010moi...\n<r<Il me faut du>> <r<papier>>...\n\n\n<r<N'importe quel papier>>...\nHouuuu...
+Ahhh... Du <r<papier>>...!\nTu m'as apporté du <r<papier >>!\n\n\nJ'ouvre la porte...\nEntre...
+\x0E\x01\x09\x04\x00\x01Oublie tout ceci...\nAdieu...
+Arg... Du <r<papier>>...\nIl me faut du <r<papier>>...\n\n\nJe ne suis pas désespérée,\n<r<il me faut juste du papier>>...!\n\n\n[1]Donner la\nlettre[2-]Garder la\nlettre
+\x0E\x01\x09\x04\x05\x03Arg...\nS'il te plaît... Du papier...
+\x0E\x01\x09\x04\x0B\x04Quoi ?\nDu papier !\nMerci beaucoup !
+Mais...\nÇa m'a tout l'air d'une lettre...\nTu es sûr que je peux la prendre ?\n[1]Oui[2-]Non
+\x0E\x01\x09\x04\x00\x02Merci...\nÇa me sera bien utile...\n\n\nMais ne me demande pas ce que je vais\nen faire, tu vas me faire rougir...\n\n\nJ'espère te revoir bientôt,\nbeau jeune homme...
+\x0E\x01\x09\x04\x00\x04Oh ! Te revoilà, beau jeune homme...
+\x0E\x01\x09\x04\x06\x02Ravie de te revoir !\nGrâce à toi, j'ai rencontré mon prince\ncharmant...\n\nOui, c'est bien lui...\n\n\n\n\x0E\x01\x09\x04\x0C\x00Tout a commencé avec la lettre que tu\nm'as donnée...\n\n\n\x0E\x01\x09\x04\x06\x00Sa belle prose a fait fondre mon\nc\x153ur...
+\x0E\x01\x09\x04\x00\x02Ahhh, je pense à lui jour et nuit...\nIl a donné un souffle de vie à mon c\x153ur\nalangui...
+\x0E\x01\x09\x04\x00\x02Ohhh... Mon amour...\nJe t'aimerai toute ma non\x2010vie...
+Bon... j'lui donne ?\nOu j'lui donne pas ?
+Aaaaah !\n\x0E\x03\x01\x00Link, c'est toi !\nTu pourrais prévenir que t'es là !\n\n\x0E\x01\x09\x04\x17\x1800J'étais en pleine réflexion...\nÇa va pas la tête ?\n\n\n[1]Tu pensais\nà quoi ?[2]Besoin\nd'aide ?
+Quoi ? Tu veux que j't'explique c'qui\nm'travaille ?\n\n\n\x0E\x01\x09\x04\x00\x1CJ'vois pas pourquoi j'en parlerais\navec toi... Mais bon, puisque tu\nm'demandes...
+Hein ? De l'aide ? De toi ?\n\n\n\n\x0E\x01\x09\x04\x00\x1CMêle\x2010toi de tes oignons !\nMais bon, puisque tu m'demandes...
+Tu pourrais peut\x2010être m'aider...\nJ'aime pas l'admettre, mais t'as l'air\nde savoir t'y prendre avec les femmes.\n\nBon... OK ! \x0E\x03\x01\x00Link, j'ai un\nservice à te demander !
+Tu pourrais apporter c'<r<papier >>à\nquelqu'un ? C'est super important !\nIl doit être remis en mains propres !
+\x0E\x01\x09\x04\x00\x08Hein ? Pourquoi tu r'gardes vers\nles toilettes ?
+Quoi ? Y a quelqu'un la nuit qui\ndemande du papier ?
+\x0E\x01\x09\x04\x00\x1B1BMais ça va pas la tête !\nC'est pas juste du papier !\nÇa, c'est une <r<lettre >>!\n\n\x0E\x01\x09\x04\x17\x2500Une... une lettre... d'amour !\nJ'y ai mis tout mon c\x153ur et toute mon\nâme !\n\n\x0E\x01\x09\x04\x17\x1800Et toi, tu voudrais l'utiliser comme un\nvulgaire bout de papier\x2010toilette ?!
+Écoute\x2010moi bien ! Tu dois donner\ncette lettre à la jolie <b<Grida>>, de la\nclasse au\x2010dessus...\n\n\x0E\x01\x09\x04\x01\xC11Tu vois qui c'est, non ?\nCelle qui a un <r<chapeau rond>>.\nElle est super mignonne...\n\n\x0E\x01\x09\x04\x17\x1800Et la donne surtout pas à cette <r<toquée\ndans les toilettes >>! Jure\x2010le !
+OK, j'te fais confiance.\nEt t'as pas intérêt à la lire !
+J'compte sur toi, Link !\nSi t'accomplis ta mission, j'te\nlaisserai entrer dans ma bande.\n\nEt... euh... merci...
+\x0E\x01\x09\x04\x00\x02T'as déjà oublié ta mission,\nLink ?\nVa donner ma lettre à la fille au\n<r<chapeau rond>>.\n\x0E\x01\x09\x04\x01\x1B00T'as pas intérêt à la donner à cette\n<r<toquée dans les toilettes >>! Jure\x2010le !
+\x0E\x01\x09\x04\x00\x08Encore toi, Link ?\nCe soir, j'veux consacrer\ntoutes mes pensées à Grida !\n\nSi tu veux me parler, t'as qu'à revenir\nen journée. Allez, ouste !
+\x0E\x01\x09\x04\x00\x13Quoi ?!\nT'as donné la lettre à <b<Grida >>?!\n\n\n\x0E\x01\x09\x04\x01\x2500Purée !!!\nQu'est ce que j'fais ?!\nTu crois que j'dois lui parler ?\n\n\x0E\x01\x08\x02\xFFCD\x0E\x01\x09\x04\x01\x1F00Oh non, c'est trop la honte...
+\x0E\x01\x09\x04\x00\x0FAhhh...\nAlors <b<Grida >>sait maintenant\nc'que je ressens...\n\n\x0E\x01\x08\x02\xFFCD\x0E\x01\x09\x04\x01\x1F00Qu'est\x2010ce que j'dois faire ?\nJ'ai le trac...
+\x0E\x01\x09\x04\x00\x10Hé hé hé ! J'ai pas peur d'<b<Hergo>>, moi !\nC'est ma chambre maintenant, et toc !
+\x0E\x01\x09\x04\x00TArg !\nMmph... Mmph...\nAu\x2010au\x2010au secours !
+\x0E\x01\x09\x04\x00\x17Aaaarg... Kiko !\nJe me vengerai !
+\x0E\x01\x09\x04\x00\x02Hé, Link !\nAlors, tu lui as donné ma lettre ?\n\n\n[1]Ben, en fait...[2]Quelle lettre ?
+\x0E\x01\x09\x04\x11\x1F1DQu\x2010quoi ?!\nTu l'as donnée à la folle des toilettes ?!
+\x0E\x01\x09\x04\x15\x1F12Qu\x2010quoi ?!\nComment ça, quelle lettre ?\n\n\n\x0E\x01\x09\x04\x11\x1B00Oh non... La folle des toilettes...\nT\x2010Tu lui as donné ma lettre ?!
+\x0E\x01\x09\x04\x01\x1F00Mais j't'avais dit de surtout pas lui\ndonner ! T'avais juré !\n\n\n\x0E\x01\x09\x04\x1A\x1F17Mais quel idiot ! T'as tout gâché !\n\n\n\nJ'te parlerai plus jamais !\nJ'te déteste, Link !
+\x0E\x01\x09\x04\x00\x1F18Nooooooon !!!
+
+\x0E\x01\x09\x04\x1B\x1F17Encore toi, Link ?!\nComment t'as pu me faire ça ?\n\n\n\x0E\x01\x09\x04\x1C\x1F00J'sais pas qui c'est, dans les toilettes,\nmais elle a lu ma lettre...\nJ'y crois pas !\n\nJ'en reviens pas que tu lui aies donné...
+\x0E\x01\x09\x04\x1B\x1F17Qu'est\x2010ce que tu veux,\nLink ?! J'ai pas oublié\nla crasse que tu m'as faite !\n\nDepuis que tu as donné cette lettre,\nj'arrive plus à dormir et j'fais tout\nle temps des cauchemars !\n\nQu'est\x2010ce qui m'arrive ?!\nPeut\x2010être que ce lit est maudit !\nPeut\x2010être que c'est l'esprit d'<b<Hergo\n>>qui me hante !\n\x0E\x01\x09\x04\x1C\x1A18Aide\x2010moi, Link !!!
+\x0E\x01\x09\x04\x1B\x1F1BDepuis que tu as donné cette lettre,\nj'arrive plus à dormir et j'fais tout\nle temps des cauchemars !\n\nQu'est\x2010ce qui m'arrive ?! Peut\x2010être que\nce lit est maudit ! Peut\x2010être que c'est\nl'esprit d'<b<Hergo >>qui me hante...\nAide\x2010moi, Link !!!
+\x0E\x01\x09\x04\x00\x17Snif... Tout est fini...\n\n\n\n\x0E\x01\x09\x04\x1C\x1F00Qu'est\x2010ce que tu veux,\nLink ?\nT'es venu te moquer de moi ?\nLaisse\x2010moi tranquille !
+\x0E\x01\x09\x04\x00\x01Dis, Link...\nTu l'trouves comment <b<Kiko>>, toi ?\n\n\n[1]Il est sympa[2]Comment je\nle trouve ?
+\x0E\x01\x09\x04\x0B\x70AOh oui, j'trouve aussi !\nIl est gentil et intelligent.\nEt qu'est\x2010ce qu'il est beau...\n\n\x0E\x01\x09\x04\x0C\x416Oh... j'sais pas ce qui\nm'a pris, désolée...\n\n\n\x0E\x01\x09\x04\x08\x400Désolée de t'avoir posé une question\naussi bizarre...
+\x0E\x01\x09\x04\x01\x406Hein ?\nEuh... J'veux dire...\n\n\n\x0E\x01\x09\x04\x08\x416Non, rien ! J'sais pas ce qui m'a pris,\ndésolée...
+\x0E\x01\x09\x04\x01\x404Ah ! \x0E\x01\x04\x02\x14 \x0E\x03\x01\x00Link !\nT'as réussi l'examen !\nFélicitations !\n\n\x0E\x01\x09\x04\x08\x400Ouah... Alors maintenant t'as un\nuniforme vert, hein ? \x0E\x01\x04\x02\x14C'est trop cool ! \n\n\n\x0E\x01\x09\x04\n\x1000J'suis sûre que Zelda sera\nimpressionnée en te voyant !\n\n\n\x0E\x01\x09\x04\x00\x406T'inquiète pas pour elle ! J'suis sûre\nque tout va bien et qu'elle va bientôt\nrentrer.
+\x0E\x01\x09\x04\x00\x1001Ouah, tes habits te vont super bien !\n\n\n\n\x0E\x01\x09\x04\x00\x40AMais t'as pas encore l'air aussi cool\nque Kiko...
+\x0E\x01\x09\x04\x00\x14Arf...\nComment je pourrais attirer\nl'attention de <b<Kiko>>...?
+\x0E\x01\x09\x04\x08\x404Ah ! \x0E\x03\x01\x00Link !\n\n\n\nÇa va ? Euh...\nQue puis\x2010je faire pour toi ?\n\x0E\x01\x08\x02\xFECDJe me demande s'il a entendu...\x0E\x01\x08\x02Í\n\n[1]Donner la\nlettre[2]Garder la\nlettre
+\x0E\x01\x09\x04\x01\x406Hein ?\nT'es bizarre, Link...
+\x0E\x01\x09\x04\x08\x906Quoi ? Une lettre ? Pour moi ?\n\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n?\nElle est peut\x2010être de <b<Kiko >>!\n\n[1]Tiens ![2]Euh, non...
+\x0E\x01\x09\x04\x08\x912Tu joues à quoi, là ?\nTu te moques de moi ?
+\x0E\x01\x09\x04\x0E\x90AOh, merci ! Donne.
+\x0E\x01\x09\x04\x10\x400Je me demande de qui ça peut venir...
+\x0E\x01\x09\x04\x10\xD00Hmm... \x0E\x01\x04\x02\x14\n\x0E\x01\x06\x02\xFECDDis donc, y a plein de ratures...\x0E\x01\x06\x02Í\n\n\n\x0E\x01\x09\x04\x10\x400Enfin, bref...\nQu'est\x2010ce que ça dit...
+« Depuis le premier jour, mon amour\npour toi est plus étendu que le ciel et\nplus profond que la mer de nuages. »\n\n\x0E\x01\x09\x04\x13\x1200« J'aimerais beaucoup sortir avec toi.\nTon chevalier servant, <b<Orbo >>»\n\n\n\x0E\x01\x09\x04\x00\x500.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\n\n\n\n\x0E\x01\x09\x04\x01\xD00Euh... Cet... <b<Orbo>>... c'est pas un des\nacolytes d'<b<Hergo >>?\n\n\n\x0E\x01\x09\x04\x0C\x400Et... C'est... C'est bien une lettre\nd'amour... Non ?\n\n\n\x0E\x01\x09\x04\x0B\x712Oh là là...
+\x0E\x01\x09\x04\x00\x09Mais bon...\nEn même temps, il y a mis tout\nson c\x153ur...\n\nPeut\x2010être que je devrais y réfléchir...\n\n\n\n\x0E\x01\x09\x04\x08\x900Mais qu'est\x2010ce que je raconte ?\n\n\n\n\x0E\x01\x09\x04\x01\xD14Arf...\nJe me demande ce que <b<Kiko>>\nen penserait...
+\x0E\x01\x09\x04\x00\x01Merci de m'avoir apporté cette lettre,\nLink.\n\n\n\x0E\x01\x09\x04\x01\xD14Arf...\nJe me demande ce que <b<Kiko>>\nen penserait...
+\x0E\x01\x09\x04\x08\x909Hihihi ! Merci, Link !\nGrâce à toi, j'ai un super amoureux !\n\n\nMais je me demande si j'ai blessé\n<b<Orbo>>...
+\x0E\x01\x09\x04\x00\x01Salut, Link !\nDis donc, t'es vraiment mignon avec\ncet uniforme...\n\nTu as vraiment l'air d'un homme\nsur lequel on peut compter !
+\x0E\x01\x09\x04\x00\x06Hein ? La Triforce ?\x0E\x01\x04\x02\x1E\nC'est quoi, ça ?
+\x0E\x01\x09\x04\x08\xE06Quoi ?! Tu sais utiliser l'attaque\ntornade ?!\n\n\n\x0E\x01\x09\x04\x08\x909Là, tu m'épates !\x0E\x01\x04\x02\x1E \x0E\x01\x09\x04\x0C\x400Enfin,\x0E\x01\x04\x02\x14 je suis sûre que\nKiko aussi en est capable !
+\x0E\x01\x09\x04\x0C\x456Il y a eu un grand bruit qui venait de\ndehors tout à l'heure. Je me demande\nce que c'était...
+\x0E\x01\x09\x04\x00\x01Salut, Link !\nAlors, tu as réussi l'examen !\nL'uniforme te va bien en tout cas !\n\n\x0E\x01\x09\x04\x10\x1100Mais pas le temps de parler de ça.\nJe n'arrive pas à croire que Zelda ait\ndisparu...\n\n\x0E\x01\x09\x04\x0C\x1400En plus, vous étiez proches.\nTu dois te faire un sang d'encre...\n\n\n\x0E\x01\x09\x04\x08\x1400Mais je suis sûr qu'elle est saine et\nsauve et qu'elle reviendra vite,\nne t'inquiète pas !
+\x0E\x01\x09\x04\x00\x01Salut, Link !\nÇa va mieux ?\n\n\n\x0E\x01\x09\x04\x09\x1400Moi aussi, j'ai des soucis, tu sais.\nMais je fais bonne figure devant les\nautres...\n\n\x0E\x01\x09\x04\x11\x400Et du coup, j'en oublie que j'ai des\nsoucis ! C'est ce que j'essaie de me\ndire !
+\x0E\x01\x09\x04\x00\x05Salut, Link !\nTu n'as pas l'air en forme,\nces derniers temps.\n\n\x0E\x01\x09\x04\x00\x40BMais garde le sourire !\n\x0E\x01\x04\x02\x14Zelda sera bientôt de retour,\nj'en suis sûr ! Il suffit d'y croire !
+\x0E\x01\x09\x04\x00\x01Salut, Link !\nÇa va bien ?\n\n\n\x0E\x01\x09\x04\x0C\x1400Quoi ? La Triforce dissimulée par\nla Déesse ? \n\n\n\x0E\x01\x09\x04\x10\x1100Euh non, je sais rien à ce sujet,\ndésolé...\n\n\n\x0E\x01\x09\x04\x08\x1400Pour ce genre d'informations,\ntu devrais demander aux professeurs.
+\x0E\x01\x09\x04\x00\x1101\x0E\x03\x01\x00Link !\nNe répète à personne ce\nque je vais te dire...\n\n\x0E\x01\x09\x04\x0C\x400Tout à l'heure, quand je suis sorti,\nj'ai remarqué qu'une étrange structure\nétait apparue sous l'île de la Déesse.\n\n\x0E\x01\x09\x04\x11\xE00Mais qu'est\x2010ce qui a bien pu se passer ?\nEst\x2010ce que Célesbourg est en danger ?
+\x0E\x01\x09\x04\x0C\x401J'ai appris que l'île de la Déesse\nétait tombée !\x0E\x01\x04\x02\x1E Quelle tragédie...\n\n\n\x0E\x01\x09\x04\x11\xE00Mais j'ai compris le message que la\nDéesse voulait nous transmettre.\nElle nous demande d'être forts,\nmême sans elle.
+\x0E\x01\x09\x04\x0C\x40B\x0E\x01\x08\x02\xFECDEt puis... maintenant, j'ai ma propre déesse.
+\x0E\x01\x09\x04\x00\x01Salut, Link !\nÇa va ?
+\x0E\x01\x09\x04\x01\xC09Quoi ?\n<b<Grida>> a reçu une lettre d'amour ?\n\n\n\x0E\x01\x09\x04\x0F\x1100Et que s'est\x2010il passé ?\nAh, intéressant...\nJe vois...\n\n\x0E\x01\x09\x04\x0C\xC54Et...\nEt elle compte faire quoi...?\n\n\n[1]Y réfléchir[2]J'en sais rien
+\x0E\x01\x09\x04\x11\xE53Quoi ?!\nMais c'est impossible !
+\x0E\x01\x09\x04\x0F\x1118Ah, d'accord...\nMais ça me travaille, quand même.
+\x0E\x01\x09\x04\x11\xE09Enfin... De toute façon,\nil n'y a rien entre moi et <b<Grida>>.\nOn est juste amis...\n\nAlors, ça ne me regarde pas.\nElle peut sortir avec qui elle veut...\n\n\n\x0E\x01\x09\x04\x0C\xC00Mais tout de même, j'ai mon mot\nà dire quand il s'agit de la morale de\ncette école !\n\n\x0E\x01\x09\x04\x08\xC00Enfin, peut\x2010être que l'amour\nidéal est celui qui ignore les entraves ?\nEt si on ne l'a pas vécu, on ne\nsait pas vraiment ce qu'est l'amour ?\n\x0E\x01\x09\x04\x0B\xC00Donc j'ai le droit de m'assurer qu'elle\npeut vivre librement son amour !\n\n\n\x0E\x01\x09\x04\x11\xE00Et puis moi aussi, j'ai le droit d'aimer\nquelqu'un librement, après tout !\n\n\n\x0E\x01\x09\x04\x0C\xC1BTu ne crois pas,\nLink ?\n[1]Je sais pas...[2]Tu l'aimes ?
+\x0E\x01\x09\x04\x11\xE53Pff ! Ne raconte pas n'importe quoi,\nLink !\n\n\n\x0E\x01\x09\x04\x12\xC00Comment peux\x2010tu imaginer une chose\npareille ?
+\x0E\x01\x09\x04\x0F\x1152C'est vrai, c'est pas le moment\nde parler de ça.
+\x0E\x01\x09\x04\x10\x1117Enfin, bref...\n\n\n\n\x0E\x01\x09\x04\x0F\xC00Mais ça te dérangerait pas de lui\ndemander ce qu'elle a décidé ?
+\x0E\x01\x09\x04\x00\x18Hmm... Euh...\n\n\n\n\x0E\x01\x09\x04\x0F\x1100Imaginons que tu veuilles savoir s'ils\nsortent ensemble, tu crois que tu irais\nlui demander toi\x2010même ?\n\n\x0E\x01\x09\x04\x11\xE00Ça n'a rien à voir avec moi, hein !\nC'est juste que les relations humaines\nm'intéressent en règle générale...
+\x0E\x01\x09\x04\x0C\x401Salut, Link !\nGrâce à toi, j'ai une super amoureuse !\nMerci !
+C'est toi, l'auteur de la lettre,\npas vrai ?
+... Euh, oui...
+\x0E\x01\x09\x04\x1400\x09Hihihi !\nÇa m'a beaucoup touché. Merci !
+\x0E\x01\x09\x04\x500\x11Euh... de rien...
+Et... tu penses quoi de ce que je t'ai\ndemandé ?
+\x0E\x01\x09\x04\x1400\x12Euh... Ce que j'en pense ?\nEuh...
+\x0E\x01\x09\x04\x500\x2519Allez, s'il te plaît ! Sors avec moi...\nS'il te plaît !
+Hé ! Minute papillon !
+Non, Grida, sors avec... moi !\nJe veux être ton amoureux !
+\x0E\x01\x09\x04\x500\x1B09Qu\x2010quoi ?!\nMais tu sors d'où, toi ?
+Hihi ! Euh...\x0E\x01\x09\x04\x1400\x900\nJe choisis... Kiko !
+\x0E\x01\x09\x04\x515\xC10Ah ! Je le savais !\nJ'ai bien vu comment Grida\nme regardait ! Euh, attends...
+\x0E\x01\x09\x04\x511\x1D1DComment ça, « Kiko » ?!
+\x0E\x01\x09\x04\x1201\xFF00Vraiment ?\nTu es sûre que je serai à la hauteur ?
+Oh oui !\n\x0E\x01\x09\x04\x1400\x900J'suis tellement heureuse ! Merci !
+\x0E\x01\x09\x04\x500\x1D17Non, mais j'hallucine !!!
+\x0E\x01\x09\x04\x500\x18Aaaaarg...!!!
+\x0E\x01\x09\x04\x1200\x01\x0E\x03\x01\x00Link !
+C'est quand tu m'as parlé de la lettre\nque j'en ai pris conscience...\n\n\nJ'ai réalisé que... j'étais amoureux\nd'elle.\n\n\n\x0E\x01\x09\x04\x1209\xC00Je ne veux surtout pas la perdre.\n\n\n\n\x0E\x01\x09\x04\x1201\x400Si tu ne m'avais rien dit,\nil ne se serait jamais rien passé.\n\n\n\x0E\x01\x09\x04\x1208\x0BMerci beaucoup !\nJe n'oublierai jamais ce que tu as fait\npour moi !

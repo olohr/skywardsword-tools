@@ -1,0 +1,69 @@
+Gola di Ranel
+
+\x0E\x01\x09\x04\x11\x804\x0E\x01\x08\x02\x2CD\x0E\x01\x06\x02\xFFCDCoff, coff...\x0E\x01\x04\x02\x1E\n\n\n\n\x0E\x01\x09\x04\x08\xA03Oh...\x0E\x01\x04\x02\x14 abbiamo un ospite...\n\n\n\n\x0E\x01\x09\x04\x08\xA00Tu saresti un <b<umano>>, vero?\nQual è la ragione che\nti ha spinto fin qui?\n~~~.~~~.~~~.\n\x0E\x01\x09\x04\x11\x80CUhm... così vieni dal <b<Cielo>>?\nE ti chiami Link?\n\x0E\x01\x06\x02\xFFCDCoff...~~~ non è che manca qualcosa\nal tuo nome?\n\x0E\x01\x09\x04\x08\xA00Per esempio<r< DR\x2010Link\nn°16>>, come i miei amici... che\nne dici?\n\n.\x0E\x01\x04\x02\x14.\x0E\x01\x04\x02\x14.\x0E\x01\x04\x02\x14\nNon ti piace...?\n~~~Ti piace...?~~~\n\n\x0E\x01\x09\x04\x08\x802Coff... coff... insomma... cosa\nvuoi da me?\n\n\n\x0E\x01\x09\x04\x08\xA03Oh...\x0E\x01\x04\x02\x1E coff... vorresti che ti\ninsegnassi la melodia?
+\x0E\x01\x09\x04\x08\xA00Capisco... dunque, Link,\nche dici di arrivare dal Cielo,\nsaresti l'impavido prescelto\ndalla Dea?\nMa certo! Questo spiega tutto!\n\n\n\n\x0E\x01\x09\x04\n\xA00Sono davvero spiacente, ma...\nnon posso aiutarti al momento...\n\n\n\x0E\x01\x09\x04\n\xA00Te lo dico sorridendo, ma come puoi\nvedere,\x0E\x01\x04\x02\x1E \x0E\x01\x09\x04\x00\x0Ccoff...\n\n\n\x0E\x01\x09\x04\n\xA00Sono afflitto da una malattia\ngrave e non mi trovo affatto\nnella condizione di cantare.\n\n\x0E\x01\x09\x04\x11\x804Certo è un vero onore ricevere dalla\nDea un incarico così importante...\nma come posso... coff coff...
+\x0E\x01\x09\x04\x08\xA03Ehi, Link!~~~ Quello è un\n<r<bulbo dell'albero della vita>>!\n\n\nPurtroppo credo che la mia fine sia\nvicina\x0E\x01\x04\x02\x1E e non potrò vederlo crescere.\n\x0E\x01\x09\x04\x08\x110CCoff... Coff...\n\nDovrei guarire, per poterti cantare\nla melodia...\x0E\x01\x04\x02\x1E\n\x0E\x01\x09\x04\x08\x1102Coff... Coff...
+\x0E\x01\x04\x02\x14.\x0E\x01\x04\x02\x14.\x0E\x01\x04\x02\x14.
+
+I miei amici robot hanno piantato un\n<r<bulbo >>dell'\x0E\x00\x03\x02\x01albero della vita >>pensando\na me. Si dice che il suo frutto possa\ncurare ogni malattia, ma...\x0E\x01\x04\x02\x14 coff...\x0E\x01\x09\x04\x08\x110C\x0E\x01\x04\x02\x1E\n\x0E\x01\x09\x04\x00\x00Non ne vuole sapere di crescere...\x0E\x01\x04\x02\x1E\ncoff...\x0E\x01\x09\x04\x08\x110C\x0E\x01\x04\x02- \x0E\x01\x09\x04\x11\x804per me la fine è ormai vicina.\x0E\x01\x04\x02\x14
+Link, cercheresti un buon\n<r<luogo dove farlo crescere>>?\n\n\n\x0E\x01\x09\x04\x11\x804Mi saresti di grande aiuto... coff...\nSe potessi mangiare un <b<frutto\ndell'albero della vita >>forse\nguarirei...\n\x0E\x01\x09\x04\x08\xA00Ma non potrai piantarlo in un posto\nqualsiasi... cerca un luogo dove la\n<r<terra sia fertile>>.
+\x0E\x01\x09\x04\x0B\x901Link!\nMi hai salvato la vita!\nSei il mio benefattore!\nVoglio farti un regalo!\n\x0E\x01\x09\x04\x00\x900Ripassa fra un po' che intanto\nlo preparo. Sono sicuro\nche ti piacerà!
+Link, presto! Portami un\n<b<frutto dell'albero della vita>>!
+
+...
+\x0E\x01\x09\x04\x03\xC00Il<b< drago del fulmine >>non sta bene...~~~\nIl terreno non è fertile per far\ncrescere la pianta...\x0E\x01\x04\x02\x1E\n\x0E\x01\x09\x04\x01\xC00Non c'è molto tempo... bzzz...
+\x0E\x01\x09\x04\x03\x900Che vuoi fare con quel bulbo?\x0E\x01\x04\x02\x1E Per far\nguarire il <b<drago del fulmine >>serve un\n<r<frutto dell'albero della vita>>! Bzzz!\n\n\x0E\x01\x09\x04\x03\x900Allora, vuoi aiutare il drago\ndel fulmine?\n[1]Certo![2]Uhm...
+\x0E\x01\x09\x04\x03\x900Davvero?! Grazie! Allora vorrei che\nfosse piantato in un luogo migliore...\nBzzz...\n\n\x0E\x01\x09\x04\x03\x900Le <r<Terre di Ranel>><pling> decisamente\nnon sono adatte... Mi raccomando!
+\x0E\x01\x09\x04\x03\x900Che importa se sei qui per caso?\nVorrei che il bulbo fosse piantato\nin un luogo migliore... Bzzz...\n\n\x0E\x01\x09\x04\x03\x900Le <r<Terre di Ranel>><pling> decisamente\nnon sono adatte... Mi raccomando!
+\x0E\x01\x09\x04\x03\xC00Le <b<Terre di Ranel >>decisamente non\nsono adatte a far crescere quel\nbulbo... Bzzz...\n\x0E\x01\x09\x04\x00\x900Mi raccomando!\n\x0E\x01\x09\x04\x03\x900Con un <r<<r<frutto dell'<r<<r<albero della vita<r<>>,\nil drago del fulmine guarirebbe\nsicuramente.\x0E\x01\x04\x02\x1E
+Che paesaggio meraviglioso\nsi vede da qui...
+Ma... Non è...? Bzzz...\x0E\x01\x04\x02\x1E\nPortalo subito al <b<drago del fulmine>>!
+...
+\x0E\x01\x09\x04\x03\xC00Che disgrazia! Il <b<drago del fulmine\n>>è malato! Bzzz!~~~\n\n\n\x0E\x01\x09\x04\x03\xC00Per prendere le pietre del tempo\nè necessario il permesso del drago...\x0E\x01\x04\x02\x1E\n\x0E\x01\x09\x04\x01\xC00Ma non è il momento di pensare\nalle pietre del tempo. Bzzz...
+\x0E\x01\x09\x04\x03\x900Per far guarire il drago del fulmine\nal più presto, ho piantato il <r<bulbo\ndell'albero della vita>>, che darà il frutto\nche guarisce da ogni malattia. Bzzz...
+\x0E\x01\x09\x04\x03\xC00In queste terre l'erba cresce a stento...\x0E\x01\x04\x02\x1E\n\x0E\x01\x09\x04\x01\xC00Di questo passo <b<\x0E\x01\x06\x02\xFECD>>il drago del fulmine...\nBzzz...
+Il drago del fulmine è guarito!\nÈ tutto merito tuo! Grazie! Bzzz!
+Mangiando un <r<<r<frutto <r<dell'\x0E\x00\x03\x02\x01albero della\nvita<r<>>, il drago del fulmine guarirebbe\nsicuramente! Bzzz!
+Sei venuto a trovare il drago del\nfulmine?
+\x0E\x01\x09\x04\x00\x00Sono preoccupato per il drago del\nfulmine! Bzzz! Per favore, vai a\ncercare il <r<frutto dell'albero della vita>>!\nBzzz!
+...
+\x0E\x01\x09\x04\x03\x900Qui è pieno di pietre del tempo enormi!\x0E\x01\x04\x02\x1E\n\x0E\x01\x09\x04\x00\x900Il <b<drago del fulmine >>ti ha dato\nil permesso?\n\n\x0E\x01\x09\x04\x01\x900Volevo giusto inviargli questa pietra\ndel tempo... Bzzz...
+\x0E\x01\x05\x04(\x00Qui intorno è pieno di mostri!~~~\n\x0E\x01\x09\x04\x03\xC00Fai attenzione... Bzzz...
+Se non ti sbrighi\nti lascio qui. Bzzz!
+
+...
+\x0E\x01\x09\x04\x03\x900Abbiamo il permesso del drago\ndel fulmine e stiamo estraendo\nle <b<pietre del tempo>>.\n\n\x0E\x01\x04\x02\x1E\x0E\x01\x09\x04\x03\xC00Ma in questo momento siamo\npreoccupati~~~ per la sua salute. Bzzz.\x0E\x01\x04\x02\x1E\n\x0E\x01\x09\x04\x01\xC00Di questo passo il drago del fulmine...
+Al di là del ponte abbiamo piantato\nun <r<<r<bulbo <r<dell'\x0E\x00\x03\x02\x01albero della vita<r<>>, il cui\nfrutto pare guarisca ogni malattia.\nBzzz.\x0E\x01\x04\x02\x1E\n\x0E\x01\x09\x04\x00\xC00Ma in queste terre le piante\nnon crescono...
+\x0E\x01\x09\x04\x03\xC00Ma qui nelle <b<Terre di Ranel>> le\npiante non crescono...\nBzzz...\x0E\x01\x04\x02\x1E\n\x0E\x01\x09\x04\x03\x900Non ci sarà una terra più fertile?
+Il drago del fulmine è di ottimo umore!\nBzzz!
+Ma che pensi di farne di quel frutto?!\x0E\x01\x04\x02-\nLo hai portato per il <b<drago del\nfulmine>>? Bzzz?
+Il drago del fulmine è guarito! Bzzz!
+\x0E\x01\x09\x04\x2F00\xD0APer tutti i porfidi! Qualcuno qui?!\x0E\x01\x04\x02\x1E\nIo sono <b<Dragoron>>. Vivo qui per\neffettuare ricerche sulla <r<leggenda\ndei tre draghi>>.\n\x0E\x01\x09\x04\x2F00\x07Da queste parti di draghi non se\nne vede l'ombra, ma io sono\nconvinto che prima o poi\nsalterà fuori qualcosa...\nE continuo le mie ricerche.\nTu ti chiami Link?\nChe nome difficile!\n\n\x0E\x01\x09\x04\x2F01\xD00E cosa sei venuto a fare qui,\nLink?\n.~~~.~~~.~~~\n\nStai cercando la <b<\x0E\x01\x09\x04\x2F00\x07fiamma sacra>>?\nMi sembra di averne già sentito\nparlare... \x0E\x01\x04\x02\x19o forse mi sbaglio...\n\n\x0E\x01\x09\x04\x2F0F\x709Per tutti i lapislazzuli!\x0E\x01\x04\x02\x19 \x0E\x01\x09\x04\x2F00\xD00Ora ricordo!\nMi pare ci fosse scritto qualcosa\nnegli antichi testi sul <b<mare di\nsabbia di Ranel>>.\n\x0E\x01\x09\x04\x2F08\xD00I dettagli li ho dimenticati, ma se\nvai sempre dritto, troverai il\nmare di cui ti ho appena\nparlato.
+\x0E\x01\x09\x04\x2F00\xD09Ti interessi di scavi?\x0E\x01\x04\x02<\nAllora senti...\x0E\x01\x04\x02<\n\n\n\x0E\x01\x09\x04\x2F00\xD07Sai, le ricerche sono costose...\x0E\x01\x04\x02\x1E\nVuoi investire 10 rupie nella mia\nricerca?\n[1]Va bene[2-]Uhm...
+\x0E\x01\x09\x04\x2F01\x805\x0E\x01\x06\x02\xFFCDHo capito. Peccato, però...\x0E\x01\x04\x02\x1E\nNessuno capisce davvero\nl'archeologia...
+Non hai abbastanza denaro?\nBeh, quando ne avrai, conto\nsul tuo investimento!
+\x0E\x01\x09\x04\x2F02\x208Grazie!\nNe farò buon uso!
+\x0E\x01\x09\x04\x2F08\xD09Si vede che hai passione\nper gli scavi! Il tuo investimento\ndarà i suoi frutti! Te lo prometto!
+\x0E\x01\x09\x04\x2F00\x06Ti serve ancora qualcosa? Ah...\nSe vieni a sapere qualcosa sulla\nleggenda dei tre draghi fammi sapere!
+\x0E\x01\x09\x04\x2F08\xD09Si vede che hai passione per gli scavi!\nAh... Se vieni a sapere qualcosa sulla\nleggenda dei tre draghi fammi sapere!
+
+\x0E\x01\x09\x04\x2F08\xD00Se vuoi arrivare al mare di sabbia di\nRanel, questa chiave ti tornerà utile.
+\x0E\x01\x09\x04\x2F08\xD09In bocca al lupo,\nper tutti i lapislazzuli!
+\x0E\x01\x09\x04\x2F0C\xD01\x0E\x01\x06\x02\xFFCD\x0E\x01\x08\x02\x1CD\x0E\x01\x09\x04\x2F00\x01Ehi, ma tu non sei\nLink?!\n\n\n\x0E\x01\x06\x02\xFFCD\x0E\x01\x08\x02\x1CDChe piacere!~~~ Quasi come trovare\nun diamante! Volevo giusto\nrivederti!~~~\n\n\x0E\x01\x06\x02\x2CD\x0E\x01\x08\x02\x1CDPuoi venire qui, per favore?
+\x0E\x01\x09\x04\x2F08\xD02Ehilà, Link!\n\n\n\nAllora com'è finita la storia della\n<b<fiamma sacra>>? L'hai trovata?\n\n\nNon ho fatto altro che pensarci...\nDai, racconta!\n\n\n\x0E\x01\x09\x04\x2F08\x407.\x0E\x01\x04\x02\x14.\x0E\x01\x04\x02\x14.\x0E\x01\x04\x02\x14 Ho capito, alla fine, dopo una serie\ndi avventure, l'hai trovata!\nSei un mito,Link!
+\x0E\x01\x09\x04\x2F08\xD0AAnche io ho scoperto qualcosa\nsulla leggenda dei tre draghi...~~~\n\n\nEffettivamente, esisteva una\nterra nascosta!\n\n\nHo trovato un <r<piccolo passaggio>><pling>\nnel quale non sono riuscito a entrare!\n\n\n\x0E\x01\x09\x04\x2F00\xD00Penso di aver visto la terra dove vive il\n<r<drago del fulmine>>, uno dei tre draghi\ndella leggenda! \x0E\x01\x09\x04\x2F00\x800Credo che anche questi\nrobot c'entrino qualcosa.~~~\n<r<\x0E\x01\x09\x04\x2F01\x807\x0E\x01\x06\x02\xFFCD>><r<Drago del fulmine>>, robot e pietre\ndel tempo\x0E\x01\x04\x02\x14.\x0E\x01\x04\x02\x14.\x0E\x01\x04\x02\x14.\x0E\x01\x04\x02\x14\n\n\n\x0E\x01\x09\x04\x2F08\x708\x0E\x01\x08\x02\x2CD\x0E\x01\x08\x02\x2CDUn vero e proprio romanzo\ndi avventure!
+\x0E\x01\x09\x04\x08\xD00Ehi, Link!\nTi ricordi del tuo investimento?\nTi ho fatto aspettare un po'...\x0E\x01\x04\x02\x14\n\nL'ho usato a dovere e ho trovato\nmoltissime pietre del tempo!\n\x0E\x01\x09\x04\x2F00\xD01Ti restituisco 10 volte la somma!
+<r<\x0E\x01\x09\x04\x2F08\xD0A>>Ho trovato il passaggio che porta alla\nterra dove vive il <r<drago del fulmine>>...\x0E\x01\x04\x02-\n\n\n\x0E\x01\x06\x02\xFFCD\x0E\x01\x09\x04\x2F0D\x800Ma è troppo stretto per me...\nnon ci passo... \x0E\x01\x06\x02\xFFCD\x0E\x01\x09\x04\x2F08\x700come posso fare?
+\x0E\x01\x09\x04\x2F08\x709Link! Sei entrato\nnella terra del drago!\x0E\x01\x04\x02T\n\n\n\x0E\x01\x09\x04\x2F01\x805\x0E\x01\x08\x02\x2CDChe invidia!\x0E\x01\x04\x02Z\n\n\n\n\x0E\x01\x09\x04\x2F0F\x706\x0E\x01\x08\x02\x2CDMi hai superato! Per tutti\ni porfidi!
+\x0E\x01\x09\x04\x2F08\x709Ehi, Link! Ho trovato un\npassaggio un po' più avanti!\n\n\nMa questa pietra non si riesce a\nspezzare... Credo ci vorrà\nun po' di tempo...
+
+
+
+\x0E\x01\x05\x04K\x00Questa è la <b<gola di Ranel>>.\nSecondo la leggenda, qui vive\nun drago al servizio della Dea.
+\x0E\x01\x05\x04Z\x00Si suppone che un'antica civiltà abbia\nrealizzato qui un opificio per produrre\npietre del tempo di ottima qualità.
+\x0E\x01\x05\x04Z\x00Per questo si vedono ancora le\ntracce dei carrelli e dei binari\nusati per trasportare le pietre.
+A volte i corni di mostro sono\nattaccati ai fianchi dei boblin.\n\n\nÈ possibile sottrarglieli <r<afferrandoli\ncon la frusta>>.
+Mare di sabbia di Ranel\nResti archeologici in quantità.
+Deserto di Ranel\nSvela il mistero sopito\nnella miniera.
+Miniera di Ranel\nMisteriose pietre del tempo\nin quantità.
+Vietato l'accesso se non si è\nin possesso del permesso del\n<b<drago del fulmine di Ranel>>.

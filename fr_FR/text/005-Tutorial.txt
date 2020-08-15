@@ -1,0 +1,370 @@
+Viser
+Tirer
+Bander l'arc
+Pointez l'écran avec\nla télécommande Wii\net visez votre cible.\nRecentrez le viseur\navec (v).
+Tirez une flèche avec\n(A). Le tir sera plus\npuissant si vous le\nchargez en maintenant\nle bouton enfoncé.
+Si vous tirez le Nunchuk\nvers vous en maintenant\n(C) enfoncé, le tir se\ncharge tout de suite.\nRelâchez (C) pour tirer.
+
+
+
+
+
+
+Se préparer
+Bander l'arc
+Tirer
+Pointez la\ntélécommande Wii\nvers le haut et\nappuyez sur (C).
+Maintenez (C) enfoncé\net tirez le Nunchuk\nvers vous. Si vous\nchargez le tir, il sera\nplus puissant.
+Stabilisez le viseur et\nrelâchez (C) pour tirer.\nRecentrez le viseur\navec (v).
+
+Viser
+Tirer
+Recharger
+Pointez l'écran avec\nla télécommande Wii\net visez votre cible.\nRecentrez le viseur\navec (v).
+Appuyez sur (A)\npour tirer.
+Appuyez sur (A) pour\ntirer. Maintenez (A)\nenfoncé et relâchez\npour augmenter la\nportée du tir.
+Surveillez vos\nmunitions ! Vous pouvez\ntrouver des graines dans\nles fruits et les herbes.
+
+Poser
+Jeter
+Faire rouler
+Appuyez sur (A)\npour poser un objet.
+Pointez la\ntélécommande Wii vers\nle haut, puis donnez un\ncoup sec pour jeter\nun objet.
+Pointez la\ntélécommande Wii\nvers le bas, puis donnez\nun coup sec pour faire\nrouler un objet léger.
+
+Jeter
+Faire rouler
+Ranger
+Pointez la\ntélécommande Wii\nvers le haut, puis donnez\nun coup sec pour lancer\nune bombe.
+Pointez la télécom. Wii\nvers le bas et agitez\x2010la\npour faire rouler.\nInclinez\x2010la pour\nmodifier la trajectoire.
+Appuyez sur (B) pour\nranger une bombe. Vous\npouvez également\nstocker des fleurs\nbombes.
+
+Lancer
+Diriger
+Rappeler
+Visez puis appuyez sur\n(A) pour lancer le\nscarabée. Recentrez le\nviseur avec (v).
+<r<Pointez l'écran>> avec la\ntélécommande Wii, puis\ninclinez\x2010la pour diriger\nle scarabée.
+Appuyez sur (B) pour\nrappeler le scarabée\nen plein vol.
+
+Attraper
+Vue aérienne
+Lâcher
+Accélérer
+Lorsque le scarabée\nentre en contact avec un\nobjet léger, il peut\nl'attraper.
+Appuyez sur (Z) pour\npasser en vue aérienne\net pouvoir viser.
+En vue aérienne,\nappuyez sur (A) pour\nlâcher un objet.
+Appuyez sur (Z) pour\npasser en vue aérienne\net viser. Appuyez sur (A)\npour lâcher un objet.
+Appuyez sur (A)\npour accélérer.
+
+Cibler
+Viser
+Attraper
+Ciblez un insecte avec\n(Z), puis approchez\navec précaution.
+Orientez doucement\nle filet à papillons vers\nl'insecte.
+Donnez un coup sec avec\nla télécommande Wii\npour attraper l'insecte.
+
+Souffler
+Souffler sur des objets
+Recentrer
+Pointez le viseur et\nappuyez sur (A) pour\nfaire souffler la jarre\nmagique.
+Soufflez sur des objets\nou des ennemis avec la\njarre magique pour\nprovoquer une réaction.
+Recentrez le viseur\navec (v).
+
+Coup de fouet
+Viser
+Tirer
+Donnez un coup sec avec\nla télécommande Wii\npour donner un coup\nde fouet.
+Maintenez (Z) enfoncé\npour viser votre cible,\npuis donnez un coup\nde fouet.
+Donnez un coup sec avec\nla télécommande Wii\npour tirer un objet vers\nvous avec le fouet.
+
+Déployer
+Se déplacer
+Redéployer
+Visez puis appuyez sur\n(A) pour déployer le\ngrappin. Recentrez\nvotre viseur avec (v).
+Lorsque le grappin\naccroche une cible, la\nchaîne se rétracte et\nvous vous déplacez.
+Une fois accroché à une\ncible, vous pouvez à\nnouveau déployer le\ngrappin vers une autre\ncible.
+
+Se déplacer
+Attaquer
+Voir à la surface
+Déplacez\x2010vous avec \x0E\x02\x04\x02\x8CD.\nEn vous déplaçant,\nmaintenez (A) enfoncé\npour foncer.
+Donnez un coup sec avec\nla télécommande Wii\npour attaquer devant\nvous avec les griffes.
+Maintenez (Z) enfoncé\npour regarder à la\nsurface.
+
+Nager
+Cibler
+Monter sur la rive
+Utilisez \x0E\x02\x04\x02\x8CD pour nager\ndans la direction\ndésirée.
+Maintenez (Z) enfoncé,\npuis nagez dans la\ndirection désirée\navec \x0E\x02\x04\x02\xDCD ou \x0E\x02\x04\x02\xECD.
+Utilisez \x0E\x02\x04\x02\x8CD pour\nretourner sur la terre\nferme. Vous ne pouvez\npas vous hisser sur une\nrive trop haute.
+
+Nager
+Plonger
+Tourbillon
+Une fois dans l'eau,\nutilisez \x0E\x02\x04\x02\x8CD pour nager.
+Appuyez sur (A) pour\nplonger, puis <r<pointez>> la\ntélécommande Wii vers\nl'écran et inclinez\x2010la\npour vous diriger.
+Agitez le Nunchuk pour\nfaire un tourbillon.\nFaites un tourbillon en\ndirection de la surface\npour sauter.
+
+Se préparer
+Jouer
+Astuce
+Sortez votre lyre\navec (^).
+Tout en maintenant (A)\nenfoncé, balancez la\ntélécommande Wii\nhorizontalement\npour jouer.
+Faites des mouvements\namples en suivant\nle rythme.
+
+Se déplacer
+Foncer
+Faire une roulade
+Déplacez\x2010vous avec \x0E\x02\x04\x02\x8CD.\nAppuyez sur (Z) pour\nrecentrer la caméra\nderrière vous.
+Tout en vous déplaçant,\nappuyez sur (A) pour\nfoncer. Vous pouvez\naussi escalader des\nparois.
+Sur des sables\nmouvants, appuyez sur\n(A) pour foncer.\nAtteignez vite une rive !
+Donnez un coup sec avec\nle Nunchuk en fonçant\npour faire une roulade.
+Vous ne pouvez pas faire\nde roulade sur des\nsables mouvants.
+
+Se déplacer
+Esquiver
+Cibler
+Maintenez (Z) puis\nutilisez \x0E\x02\x04\x02\xECD ou \x0E\x02\x04\x02\xDCD\npour vous déplacer.
+Déplacez\x2010vous en\nappuyant sur (A)\npour esquiver. Si\nvous reculez, vous\nferez un salto arrière.
+Maintenez (Z) enfoncé\naux alentours d'un\nennemi ou d'un objet\npour le cibler.
+
+Coup de taille
+Coup d'estoc
+Attaque circulaire
+Agitez la\ntélécommande Wii\ndans la direction désirée\npour donner des coups\nd'épée.
+Donnez un coup en \navant avec la\ntélécommande Wii pour\nfaire un coup d'estoc.
+Donnez un coup sec avec\nla télécommande Wii et\nle Nunchuk pour faire\nune attaque circulaire\nhorizontale ou verticale.
+
+Coup de taille
+Attaque circulaire
+Éclat céleste
+Agitez la\ntélécommande Wii pour\ndonner un coup d'épée.\nUn coup en avant\ndonne un coup d'estoc.
+Donnez un coup avec le\nNunchuk et la\ntélécommande Wii\npour faire une attaque\ncirculaire.
+Brandissez votre épée\npour invoquer l'éclat\ncéleste. Donnez un coup\npour le relâcher.
+Vous ne pouvez pas\ninvoquer l'éclat céleste\nici.
+
+Lever le bouclier
+Attaquer
+Jauge du bouclier
+Agitez le Nunchuk pour\nlever le bouclier.\nDonnez un coup d'épée\npour le rabaisser.
+Agitez le Nunchuk à\nnouveau pour donner\nun coup de bouclier.\nFaites\x2010le au bon\nmoment !
+Si votre jauge de\nbouclier est vide,\nvotre bouclier se brise.
+
+Chute libre
+Parachâle
+Siffler
+En chute libre, inclinez\nla télécommande Wii\npour vous orienter.
+Appuyez sur (B) juste\navant l'atterrissage\npour déployer votre\nparachâle et ralentir\nvotre chute.
+Appuyez sur (v) pour\nappeler votre célestrier.
+Vous ne pouvez pas\nappeler votre oiseau ici.
+
+Atterrir
+Ranger
+S'orienter
+Atterrissez tout en\ndouceur grâce au\nparachâle.
+Relâchez (B) pour\nranger votre parachâle.
+Vous ne pouvez pas vous\norienter lorsque le\nparachâle est déployé.
+
+Man\x153uvrer
+Attaquer
+Attaque tornade
+Ralentir
+Pour tourner, inclinez la\ntélécommande Wii. Pour\nprendre de l'altitude,\nagitez\x2010la de haut en bas.\nPiquez pour accélérer.
+Appuyez sur (A) pour\nattaquer. Quand votre\njauge de vol est vide,\nvous ne pouvez\nplus attaquer.
+Appuyez sur (A) pour\nfaire une attaque\ntornade. C'est\nimpossible si votre\njauge de vol est vide.
+Appuyez sur (B) pour\nralentir. Si vous planez,\nvous vous arrêterez\nen plein ciel.
+
+Boire
+Prélever
+Utiliser
+Appuyez sur (A) pour\nboire le contenu\nd'un flacon.
+Sortez un flacon vide et\nappuyez sur (A) pour\nprélever quelque chose.
+Appuyez sur (A) pour\nutiliser le contenu\nd'un flacon.
+
+Direction
+Distance
+Changer
+Pointez le curseur dans\nla direction où vous\nvoulez cherchez.\nRecentrez le curseur\navec (v).
+Plus la cible est proche,\nplus le curseur grossit\net plus les alertes sont\nfréquentes.
+Maintenez (C) enfoncé\net déplacez la\ntélécommande Wii\npour choisir une cible.
+
+Vue subjective
+Recentrer
+Retour
+Changer
+Pointez l'écran avec la\ntélécommande Wii puis\ndéplacez le curseur pour\nregarder aux alentours\nen vue subjective.
+Appuyez sur (v) pour\nrecentrer le curseur.
+Appuyez sur (C) pour\nsortir de la vue\nsubjective.
+Maintenez (C) enfoncé\net déplacez la\ntélécommande Wii\npour choisir une cible\nà détecter.
+
+Se déplacer
+Bondir
+Lâcher prise
+Utilisez \x0E\x02\x04\x02\x8CD pour\nvous déplacer.
+En vous déplaçant,\ndonnez un coup sec avec\nla télécommande Wii\npour bondir.
+Appuyez sur (A) pour\nlâcher prise. Lorsque\nvous chutez, utilisez (A)\nou \x0E\x02\x04\x02\x9CD pour vous\nrattraper.
+
+Se déplacer
+Garder l'équilibre
+Secouer
+Utilisez \x0E\x02\x04\x02\x9CD ou \x0E\x02\x04\x02\xACD\npour avancer ou\nreculer.
+Pour vous stabiliser, la\ntélécommande Wii doit\nêtre inclinée dans la\ndirection opposée à\ncelle de votre corps.
+Agitez la\ntélécommande Wii\nverticalement pour\nsecouer la corde raide.
+
+Se déplacer
+Lâcher prise
+Secouer
+Grimpez à la corde avec\n\x0E\x02\x04\x02\x9CD et déplacez\x2010vous\navec \x0E\x02\x04\x02\xECD.
+Appuyez sur (A) pour\nlâcher prise.
+Agitez la\ntélécommande Wii\nverticalement pour\nsecouer la corde\nsuspendue.
+
+Se balancer
+Direction
+Sauter
+Grimper
+Donnez un coup sec avec\nla télécommande Wii\npour vous balancer.\nAppuyez sur (B)\npour vous arrêter.
+Vous ne pouvez pas vous\nbalancer sur cette\ncorde.
+Utilisez \x0E\x02\x04\x02\xECD pour\nvous orienter.
+Appuyez sur (A)\npour sauter.
+Utilisez \x0E\x02\x04\x02\xDCD pour\nmonter et descendre.\nAppuyez sur (A)\npour vous lâcher.
+
+Ramper
+Direction
+Foncer
+Utilisez \x0E\x02\x04\x02\x9CD et \x0E\x02\x04\x02\xACD\npour avancer et reculer.
+Utilisez \x0E\x02\x04\x02\xECD pour tourner\ndans la direction\ndésirée.
+Tout en rampant,\nmaintenez (A) enfoncé\npour foncer.
+
+Saisir
+Faire pivoter
+Voir la serrure
+<r<Pointez l'écran>> avec la\ntélécommande Wii et\nappuyez sur (A) pour\nsaisir la clé. Appuyez\nsur (B) pour la ranger.
+Faites tourner la clé\nsaisie en faisant pivoter\nla télécommande Wii.\nAppuyez sur (C) pour\nréinitialiser.
+Appuyez sur (Z) pour\nvoir la serrure. Appuyez\nsur (A) pour insérer\nla clé.
+
+Garder l'équilibre
+Ralentir
+Sauter
+Inclinez la\ntélécommande Wii\nafin de ne pas dérailler.
+Appuyez sur (B) pour\nralentir.
+Lorsqu'un rail est cassé,\ndonnez un coup sec avec\nla télécommande Wii\npour sauter.
+
+Piloter
+Canon
+Vue subjective
+Pilotez le bateau\navec \x0E\x02\x04\x02\x8CD.
+Affûtez le canon avec\n(B). Tirez avec (A).\nRecentrez votre viseur\navec (v).
+Appuyez sur (C) pour\npasser en vue subjective\net utiliser la fonction\ndétection.
+
+Se déplacer
+Garder l'équilibre
+Descendre
+Déplacez\x2010vous avec \x0E\x02\x04\x02\x8CD.\nAppuyez sur (Z) pour\nrecentrer la caméra\nderrière vous.
+Si vous perdez\nl'équilibre, lâchez \x0E\x02\x04\x02\x8CD\npour ralentir.
+Roulez jusqu'à un bord\net appuyez sur (A) pour\ndescendre.
+
+Se déplacer
+Geyser
+Glisser
+Utilisez \x0E\x02\x04\x02\xECD pour vous\ndéplacer de gauche\nà droite.
+Si vous arrivez sur un\ngeyser, vous serez\npropulsé dans les airs.
+Vous vous arrêterez de\nglisser lorsque vous\natteindrez une\nsurface plane.
+
+Collecter les larmes
+Gardiens
+Réceptacle spirituel
+Pour réussir ce défi,\ncollectez les 15 larmes\npuis retournez à\nl'entrée.
+Vous ne pouvez pas\nrésister à leurs\nattaques.
+Tant qu'il y a des\npétales, les gardiens ne\nvous voient pas. Les\nlarmes restaurent les\npétales.
+
+Chute libre
+Anneaux
+Atterrir
+En chute libre, inclinez\nla télécommande Wii\npour vous orienter.
+Passer dans un anneau\naugmente votre\nmultiplicateur.\nToucher une balle le\nle fait retomber à 1.
+Vos gains correspondent\nà la valeur de la case où\nvous atterrissez,\nmultipliée par le bonus\ndes anneaux.
+
+Creuser
+Conseil
+Bombes
+Appuyez sur (A)\nau\x2010dessus d'un trou\npour creuser.
+Les rubis les plus\nprécieux sont sûrement\nentourés de bombes...
+Si vous déterrez une\nbombe, le jeu se\ntermine.
+
+Couper
+Tout couper
+Technique
+Agitez la\ntélécommande Wii\npour donner des coups\nd'épée.
+Vous pouvez continuer à\ncouper le bambou tant\nqu'il n'est pas tombé\nau sol.
+Coupez en rythme de\ngauche à droite\njusqu'au dernier\nmorceau.
+
+Cibler
+Coup de filet
+Conseil
+Ciblez un insecte avec\n(Z) et approchez\ndoucement.
+Donnez un coup sec avec\nla télécommande Wii\npour attraper l'insecte.
+Mémorisez bien\nles endroits où trouver\nun insecte et comment\nl'attraper.
+
+Transpercer
+Score
+Technique
+Transpercez la\ncitrouille d'une\nflèche avant qu'elle\nne touche le sol.
+Plusieurs tirs réussis\nconsécutifs vous font\ngagner plus de points.\nLes citrouilles brillantes\ncomptent double.
+Bandez l'arc avant que\nla citrouille ne soit\nlancée. Visez un point\nde sa trajectoire avant\nqu'elle ne l'atteigne.
+
+Dessiner
+Annuler
+Dessins
+Maintenez (A) enfoncé,\npuis déplacez l'épée\npour dessiner. Relâchez\n(A) pour finir.
+Pour annuler votre\ndessin, appuyez sur (B).
+Ce que vous aurez\ndessiné apparaîtra. Et\nqui sait quoi d'autre\nencore ?
+
+Sélectionner
+Saisir
+Valider
+Pointez la\ntélécommande Wii sur le\nbloc à sélectionner.
+Appuyez sur (A) pour\nsaisir un bloc. Vous\npourrez ensuite le\ndéplacer.
+Appuyez sur (B) pour\nvalider vos\nchangements.
+
+Se lever
+Vue subjective
+Faire une pause
+Appuyez sur (A)\npour vous lever.
+Appuyez sur (C) pour\npasser en vue\nsubjective.
+Lorsque vous êtes assis,\nvos c\x153urs sont restaurés\npetit à petit.
+
+Se déplacer
+Feu !
+\x0E\x03\x01\x00Link
+Utilisez \x0E\x02\x04\x02\xECD pour\ndéplacer la catapulte.
+Pointez la\ntélécommande Wii pour\nviser, puis tirez avec (A).\nRecentrez votre viseur\navec (v).
+Appuyez sur (B) ou\n(^) pour cesser d'utiliser\nla catapulte.
+
+Grimper
+Bondir
+Lâcher prise
+Utilisez \x0E\x02\x04\x02\xDCD pour\nmonter ou descendre.
+Donnez un coup sec vers\nle haut ou le bas avec la\ntélécommande Wii\npour bondir pendant\nque vous grimpez.
+Appuyez sur (A) pour\nlâcher prise. En cours\nde chute, utilisez (A) ou\n\x0E\x02\x04\x02\x9CD pour vous rattraper.
+
+Porter
+Garder l'équilibre
+Travailler
+Inclinez légèrement \x0E\x02\x04\x02\x8CD\npour avancer lentement\nsans faire tomber les\ncitrouilles.
+Si les citrouilles\npenchent à droite, allez\nà droite avec \x0E\x02\x04\x02\xCCD. Si elles\npenchent à gauche,\nallez à gauche avec \x0E\x02\x04\x02\xBCD.
+Une fois le travail\naccepté, vous ne pouvez\npas poser ou jeter les\ncitrouilles. Apportez\x2010les\ndans l'abri.
+
+Coup de taille
+Poser
+Couper
+Agitez la\ntélécommande Wii\ndans la direction désirée\npour donner des coups\nd'épée.
+Appuyez sur (A) pour\nposer l'épée à vos pieds.\nRamassez\x2010la à nouveau\nen appuyant sur (A).
+Grâce à son tranchant\nexceptionnel, cette épée\npermet de couper\npresque n'importe quoi.
+
+Point d'atterrissage
+Plonger
+Parachâle
+Atterrissez au centre\ndu dallage de pierre\ncirculaire.
+Pendant votre chute,\ndirigez\x2010vous en inclinant\nla télécommande Wii.
+Appuyez sur (B) juste\navant l'atterrissage\npour ouvrir votre\nparachâle et ralentir\nvotre chute.
+

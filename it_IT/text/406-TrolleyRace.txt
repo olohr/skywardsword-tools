@@ -1,0 +1,38 @@
+Questo posto è un deposito per i\ncarrelli.\n\n\nI carrelli funzionano ancora. Puoi\nsalire a bordo di uno e andare in giro\nper i vari isolotti di questa zona.\n\nSu quel muro è spiegato come\ncondurlo!\n\n\nAttenzione però, è roba tosta. Leggi\nbene prima di salire!
+Condurre i carrelli è divertente!\nUn giorno organizzerò una corsa!
+Vuoi riprovare l'ebbrezza delle\nMontagne russe? Un giro costa\n20 rupie!\n[1]Sì[2-]No
+Ehi roccia! Sei tornato!\n\n\n\nVuoi salire sulle Montagne russe?\nSono 20 rupie!\n[1]Sì[2-]No
+OK. Ci vediamo!
+Non hai abbastanza soldi?\nChe peccato!\n\n\nTorna qui appena ne avrai\nracimolati un po'.
+Vuoi che ti ripeta le regole?\n[1]Sì[2-]No
+Lo scopo è arrivare alla fine del\npercorso nel minor tempo possibile.\n\n\nInclina il telecomando Wii per\nbilanciare il carrello.\n\n\nCol tempismo giusto, acquisterai\nvelocità mentre sei in curva!\n\n\nAttento però: la minima distrazione\ne deraglierai!
+Il tuo miglior tempo finora è\n\x0E\x02\x03\x06\x00\x00\x2CD:\x0E\x02\x03\x06\x00\x01\x2CD.\x0E\x02\x03\x06\x00\x02\x2CD!
+Allora si parte!
+Dunque ho la tua attenzione, roccia?\n[1]Sì[2-]No
+Ehi roccia. Che ci fai qui?\n\n\n\nChe ne dici di un po' di\ndivertimento?\n[1]Che?[2-]Non ora
+Che noia, roccia. Almeno ascoltami!\n[1]OK[2-]No
+Sapevo che avrei attirato la tua\nattenzione. Lascia che ti spieghi.
+Lasciarmi spiegare le regole\nnon ti costerà nulla...
+OK. Ci si vede!
+Che peccato. Ci sono persino dei premi\nin palio...\n\n\nLa tua decisione è solida come la\nroccia?\n[1]Partecipo[2-]Rinuncio
+Accidenti! Non è andata bene!\nPuoi sempre tornare e riprovare\nquando vuoi!
+Hai completato il percorso.
+Un nuovo record. Sei grande, roccia!
+Torna pure quando vuoi!
+Stai scherzando, eri troppo lento!\n\n\n\nNon c'è un premio per un simile tempo.
+Puoi fare di meglio, devi solo piegarti\ndi più col carrello. Comunque, ecco\nla tua vincita!
+Non male, ma non sei certo veloce\ncome me! Ecco a te!
+Wow! Una prestazione superba!\nHai superato persino me!
+Che ne dici di un giro sulle Montagne\nrusse? Costa 20 rupie.\n[1]OK[2-]No
+Che percorso preferisci?\n[1]Facile[2]Difficile
+E facile sia. Buona fortuna!
+E difficile sia. Buona fortuna!
+Il tuo miglior tempo finora è\n\x0E\x02\x03\x06\x00\x03\x2CD:\x0E\x02\x03\x06\x00\x04\x2CD.\x0E\x02\x03\x06\x00\x05\x2CD!
+Tempo scaduto! Riprova la\nprossima volta!
+Per te ho un tesoro che ho trovato\nproprio su quest'isola!
+Ti meriti un premio davvero speciale!
+Eccoti una rupia che custodivo\ncon cura!
+Risultato apprezzabile, ma non puoi\ncompetere con me! Eccoti 50 rupie.
+Quello è il mio sedile, per tutti\ni porfidi!
+Sono qui da parecchi anni ormai.\nVado sui carrelli ogni giorno, non\nmi basta mai.
+Sono sempre qui, ma tu sei l'unico che\nviene a farmi visita. Pensi che qualcun\naltro possa venire a trovarmi?\nMi sento tanto solo...

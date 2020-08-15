@@ -1,0 +1,36 @@
+
+\x0E\x01\x05\x04\x0F\x00Impa!
+\x0E\x01\x05\x04<\x00Zelda! Presto, verso la porta!
+\x0E\x01\x05\x04\x1D\x00Link!
+\x0E\x01\x05\x04P\x00Prendi!\nTi sarà utile!
+Hai ottenuto la <y<lira della Dea>>!\nMa ora non hai tempo per stare\nlì impalato a guardarla!\x0E\x01\x05\x04\x14\x00
+\x0E\x01\x05\x04\x19\x00Fai presto!
+... Link!\x0E\x01\x04\x02\x1E\n[1]Scappa![2]Sono in\nritardo?[3]Ti affido\nZelda!
+Grazie! Ti ringrazio!\nLo lascio a te.
+No, sei arrivato giusto in tempo...
+Ho capito...\nD'accordo, Link!
+Ehi, Link!\x0E\x01\x04\x022\nVai a incontrare l'Anziana nella\nTerra dell'esilio. Parla con lei\ne la strada ti si paleserà!
+
+\x0E\x01\x05\x04\n\x00Poi di sicuro...
+\x0E\x01\x05\x04\n\x00Ci rivedremo presto,\nLink!
+\x0E\x01\x05\x04\x00\x00Promesso!
+\x0E\x01\x05\x042\x00Ce l'hai fatta, eh, Link?\n\n\n\n\x0E\x01\x05\x04P\x00La mia pigrizia mi ha impedito\ndi occuparmi di te...\n\n\n\x0E\x01\x05\x04Z\x00Vorrei farti piangere, ma non ho\ntempo da perdere. Facciamo la\nprossima volta!\n\n\x0E\x01\x05\x04K\x00Oh, sì! Ti infliggerò ferite che non\nguariscono!\n\n\n\x0E\x01\x05\x04P\x00Dolori eterni!\nTi farò vivere un inferno!
+
+
+
+
+
+\x0E\x01\x05\x04Z\x00La fiamma di Nayru ha\nrafforzato la tua spada!\nOra Faih può individuare\nmolte più cose con il <r<rilevatore>>! 
+
+
+
+
+\x0E\x01\x12\x04\x00\x01Mio signore, ora siete nelle condizioni\ndi poter ottenere una nuova melodia.\nVi suggerisco di ritornare all'Isola\ndelle melodie!
+
+Ehi, ma tu sei Link...?\nCome mai qui?
+Oh, ma... è quello che credo\nche sia? Davvero l'hai portato\nqui per me?
+Ooooh...\x0E\x01\x05\x04-\x00
+\x0E\x01\x08\x02\x2CDAh... oi, oi, oi!
+Ah! Giusto in tempo.\nSento che la medicina fa effetto...\nMi stanno tornando le forze...
+Anche noi draghi millenari a volte\nci ammaliamo...\nLink, ti ringrazio\nper avermi allungato la vita!\nPer ricompensarti, ti intonerò una\nparte della <b<Melodia dell'impavido>>!\n\n\nApri bene le orecchie e gustati la mia\nmeravigliosa voce!
+Hai ottenuto una <y<parte della Melodia\ndell'impavido>>!

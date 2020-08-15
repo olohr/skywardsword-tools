@@ -1,0 +1,30 @@
+Turm des\nHimmels
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nIn diesem Gebäude befinden sich die\ndrei Quellen heiliger Energie, die drei\nFragmente des <pling><y+<Triforce>>.\n\nIch habe die Orte, an denen ich ihre\nKraft verspüre, auf der Karte mit\n\x25B3 markiert. 
+
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nAus dem eben ertönten Geräusch\nschließe ich, dass sich der <r<<pling>Aufbau\ndes Gebäudes verändert >>hat.
+Durch diese Veränderung ist es nun\nmöglich, den angrenzenden Raum\nzu betreten.
+Ich schlage vor, dir durch die Nutzung\ndieser <r<Kontrolltafel >>den Weg zu den\nFragmenten des <y+<Triforce>> zu eröffnen.
+Ich gehe davon aus, dass es möglich ist,\ndurch das Ändern der Struktur dieses\nGebäudes an verschiedene Orte zu\ngelangen.
+Finde die<r< leuchtenden Steine>>.\nSchlage den Untersten zuerst,\nnur so öffnet sich das Tor.
+Bitte sieh, \x0E\x01\x12\x04\x00\x01Gebieter.
+Dieses Wappen auf dem Boden\nist das <r<Wappen von Farore>>.\n\n\nIch spüre die Macht des <y+<Triforce>>,\ndie davon ausgeht.
+Ich schlage vor, durch diese Tür zu\ngehen, um das heilige Wappen zu\nerreichen.
+
+
+
+Dieses Wappen auf dem Boden\nist das <r<Wappen von Nayru>>.\n\n\nIch spüre die Macht des <y+<Triforce>>,\ndie davon ausgeht.\n\n\nDer Weg dorthin scheint jedoch\nversperrt zu sein.
+Nutze die <y<Kugel der Zeit>>, um den Weg\nzum <r<Wappen >>zu öffnen.
+Lenke deinen Blick in diese Richtung.\nDort befindet sich eine <y<Kugel der Zeit>>.
+Dieses Wappen auf dem Boden\nist das <r<Wappen von Din>>.\n\n\nIch spüre die Macht des <y+<Triforce>>,\ndie davon ausgeht.
+Es scheint jedoch nicht möglich,\ndas Wappen zu erreichen.\n\n\nIch schlage vor, einen anderen\nEingang zu diesem Raum zu suchen.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nDies ist der Raum, in dem sich das\n<r<Wappen von Din>> befindet. Du warst\nbereits hier.
+Die Wahrscheinlichkeit, dass du die\nheilige Kraft erreichen kannst, wenn\ndu die Lava überquerst, liegt bei 60 %.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nIch spüre eine heilige Kraft\nin diesem Raum.
+Halte an deinem Willen fest\nund schreite voran, Gebieter.
+
+
+
+
+
+
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas zu\nberichten. Du hast das Wappen\nerreicht.\n\nStoße dein Schwert in das Wappen,\nund du wirst zum <y+<Triforce >>geführt.

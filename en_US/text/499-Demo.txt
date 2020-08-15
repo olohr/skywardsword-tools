@@ -1,0 +1,36 @@
+
+\x0E\x01\x05\x04\x0F\x00Impa!
+\x0E\x01\x05\x04<\x00Your Grace! Quickly, to the gate!
+\x0E\x01\x05\x04\x1D\x00\x0E\x03\x01\x00Link!
+\x0E\x01\x05\x04P\x00\x0E\x03\x01\x00Link, here! You'll need\nthis where you're going.
+You got the <y<\x0E\x02\x01\x02\x10>>! \nBut there's no time to admire it!\x0E\x01\x05\x04\x14\x00
+\x0E\x01\x05\x04\x19\x00Go! Now!
+...\x0E\x03\x01\x00Link.\x0E\x01\x04\x02\x1E \n[1]Go![2]Am I late?[3]Protect Zelda!
+You have my thanks. I will leave him\nto you.
+...No. You're right on time.
+I will. You have my thanks,\nLink.
+\x0E\x03\x01\x00Link!\x0E\x01\x04\x022 You must go now.\nReturn to the old woman at the Sealed\nGrounds. Tell her what happened here.\nShe will know where you must go!
+
+\x0E\x01\x05\x04\n\x00And know that we will--
+\x0E\x01\x05\x04\n\x00I'll see you again!\nThis isn't good-bye, Link!
+\x0E\x01\x05\x04\x05\x00I promise!
+\x0E\x01\x05\x04#\x00Now you've done it, \nLink.\n\n\n\x0E\x01\x05\x042\x00I blame myself. I should have\nreprimanded you the last time we\nmet, but instead I was...soft.\n\n\x0E\x01\x05\x04(\x00I'd take pleasure in punishing you, but\nI have no time for recreation.\n\n\n\x0E\x01\x05\x04#\x00But next time, I'll do more than just\nbeat you senseless.\n\n\n\x0E\x01\x05\x042\x00I'll make the affair so excruciating,\nyou'll deafen yourself with the shrill\nsound of your own screams.
+
+
+
+
+
+\x0E\x01\x05\x04Z\x00The flames of Nayru have transformed\nyour blade, expanding Fi's powers.\nShe can now help you use your <r<dowsing>>\nability to search for more objects!
+
+
+
+
+\x0E\x01\x12\x04\x00\x01With your sword enhanced, you can\nlearn a new melody. I recommend we\nreturn to the <b<Isle of Songs>>.
+
+Oh, Link. Hello there.\nIs there something you need?
+Oh! OH! Is that what I think it is?\nYou brought that here for me,\ndidn't you?
+Whoa-ho... Down the hatch!\x0E\x01\x05\x04-\x00
+\x0E\x01\x08\x02\x2CDZINGA-DINGDING!
+Oh, you've done it, boy. I can feel the\nfruit's effect surging through me!\nIt's exhilarating! I feel like a proper\ndragon again!
+Just because I have eternal life doesn't\nmean I can't get mighty sick!\nThanks to you, boy, this old dragon\nwill keep on charging awhile yet!\nI owe you a big thank-you, so allow me\nto perform a moving rendition of my\npart of the <b<Song of the Hero>>!\n\nI should warn you, I've got a mean set\nof pipes and I know how to use them!\nThis'll clean out those ears, boy,\nso brace yourself!
+You learned part of the <y<Song of the Hero>>!

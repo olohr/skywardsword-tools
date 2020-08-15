@@ -1,0 +1,67 @@
+Santuario\ndel Cielo
+La via si aprirà colpendo le\ngemme segnate con \x0E\x02\x04\x02\x19CD sulla\nmappa. La quale è custodita\nnella sala di mezzo.
+Tu che provieni dal cielo,\npresta ascolto alla voce che\nti guida sulla Terra.
+Le porte delle stanze laterali si\napriranno quando le gemme\nsaranno colpite.\nUna è in alto, l'altra in basso.
+
+Percepisco una forte traccia dell'aura\ndi <b<Zelda >>provenire dalla zona al di là\ndella porta. Suggerirei di dirigerci\nda quella parte.
+
+Sembra che il meccanismo che\ncontrolla la porta fuori da questa\nsala sia stato disattivato.
+\x0E\x01\x12\x04\x00\x0BSignore, Faih a rapporto.\nA causa della forte presenza di esseri\nostili all'interno del santuario, non\nriesco a isolare l'aura di Zelda\x0E\x01\x06\x02\xFECD... ... ...~~~\n\x0E\x01\x06\x02Í<pling>Mi è impossibile usare il <r<rilevatore>>.\n\x0E\x01\x12\x04\x00\x01Signore, vi suggerirei di analizzare\nla situazione <g<osservando >>con i vostri\nocchi.
+\x0E\x01\x12\x04\x00\x04Mio signore Link,\nrapporto sul dispositivo di\napertura della porta.\n\nSuppongo che, dovendo interagire\ncon la porta, debba trovarsi\nnelle sue immediate vicinanze.\n\nProbabilità che lo troverete\n<g<osservando >>con attenzione attorno\nalla porta: 80%.
+Uno dei seguaci di Ghiraim deve avere\nchiuso di nuovo la porta, è necessario\ntrovare un'altra chiave.
+Le mie analisi indicano che il nuovo\nstrumento a forma di insetto alato di\ncui siete in possesso <pling><r<è in grado di\nvolare>>.\nPuò essere <r<controllato a distanza\n>>tramite il telecomando e può tagliare\noggetti sottili grazie alle sue pinze\nanteriori o colpire piccoli oggetti.\nPremete (B) per prepararvi,\nquindi (2) per le istruzioni sul\nsuo utilizzo.\x0E\x01\x11\x02\x1CD\x0E\x01\x11\x02\x5CD
+Signore, le fornisco qualche\ninformazione riguardante il <y<pinzabeo>>\nche avete appena ottenuto.\n\nPuò essere <r<controllato a distanza\n>>tramite il telecomando e può tagliare\noggetti sottili grazie alle sue pinze\nanteriori o colpire piccoli oggetti.\nInoltre grazie al potenziamento delle\nsue pinze, adesso è in grado di\ntrasportare oggetti leggeri.\n\nPremete (B) per prepararvi,\nquindi (2) per le istruzioni sul\nsuo utilizzo.\x0E\x01\x11\x02\x1CD\x0E\x01\x11\x02\x5CD
+Rispetto all'ultima volta, avverto\nuna presenza molto più forte di esseri\nmalvagi. Prestate attenzione.
+Nonostante sia stata in grado di\nrintracciare l'<y<acqua sacra>> all'interno di\nquesto santuario, <pling><r<non è possibile usare\nil rilevatore>>.\nRitengo che si trovi da qualche\nparte, nei recessi più remoti.
+Suggerisco di dirigervi verso il\nluogo indicato da \x0E\x02\x04\x02\x19CD sulla mappa.
+Nelle vicinanze avverto l'<y<acqua sacra>>.\n<r<È ora possibile usare il rilevatore >>in\nquanto non avverto alcuna presenza di\nesseri malvagi.
+\x0E\x01\x12\x04\x00\x04Mio signore Link.\nÈ probabile che il servo a cui questa\niscrizione fa riferimento sia io, <b<Faih>>.\n\nPer potervi essere d'aiuto, \x0E\x01\x12\x04\x00\x02signore,\nsono stata istruita riguardo alla Terra.\nSe sentite il bisogno di chiedermi\nqualcosa, chiamatemi premendo (v).\n\x0E\x01\x11\x02\x9CDInoltre, se <g<inquadrate >>qualcosa\npremendo (Z) e mi chiamate premendo\n(v), potrò fornirvi delle informazioni\nriguardanti quel soggetto.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+Guardiano di origine maligna.\nTende a seguire con lo sguardo\ngli oggetti appuntiti.
+I due occhi sono collegati all'interno.\nRitengo impossibile disattivarli\nuno per volta.
+\x0E\x01\x12\x04\x00\x04Mio signore, Link.\nConfermo nelle vicinanze la presenza\ndi un obiettivo che potete inquadrare.\n\nUna volta <g<inquadrato>> con (Z),\npotrete chiamarmi con (v) e vi\nillustrerò le informazioni utili in mio\npossesso riguardo all'obiettivo.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+\x0E\x01\x12\x04\x00\x04Mio signore Link, l'acqua\npresente in questo luogo...~~~ è della\n<r<normale acqua>>.\n\nL'<y<acqua sacra>> che desidera il drago\nd'acqua si trova nelle profondità del\nsantuario.
+Accidenti... con tutta la fatica\nfatta per fregare la chiave a\nquei mostri!
+In quale buca l'avevo nascosta?!\nE chi se lo ricorda più...
+Sinceramente... io cerco più\nvolentieri roba di valore, come\ni tesori, altro che chiavi e robe simili!
+Speravo proprio di farmi un bel\ngruzzoletto con quella chiave,\naccidenti... ~~~Eppure l'avevo messa\n<r<da queste parti>>!
+Ti serve qualcosa?!\n\n[1]Chiave[2]Tesori[3-]Niente
+Ma cosa...? Niente da fare,\nnon riesco a trovarla!
+Ora che ci penso, sono sicuro di avere\nsepolto la chiave... ma dove?
+Conosci quel tipo che sembra un masso\ncon le gambe? Ha detto che per aprire\nun portone importante serve una cosa\nche si chiama <y<chiavenigma d'oro>>.
+Uff! Ma dov'era? Forse non in\nquesta stanza... Mmh... C'hai\nmica una mappa?!
+Dì un po'... hai tutta\nl'aria di sapere qualcosa.
+Ah, ottimo! Hai trovato\nquella chiave, bene, grazie!
+Cosa?! L'hai usata?!
+Mah, sai che...? Noi Mogma non\nce ne facciamo niente delle chiavi...
+Grazie per l'informazione, comunque!\nContinuo la caccia ai tesori!
+Ma tu... eri nel\nvulcano prima, no?!
+Anche tu sei venuto qui\nper la caccia ai tesori?\n[1]Già![2]No
+Me lo immaginavo!\nHo sentito subito l'odore tipico\ndei cacciatori di tesori! Non \npotevo sbagliarmi!
+È inutile che fai finta di niente!\nHo un fiuto sopraffino per i\ncacciatori di tesori, io!
+Anche tu sei arrivato qui seguendo\nle storie di quel tipo che somiglia a\nun masso?\n[1]Goron?[2]Storie?
+\x201CDove danzano le farfalle\nall'interno del santuario, \n<pling><g<fate risuonare una dolce melodia>>.\"\n
+M'ha detto questa cosa, io ho\nprovato canticchiando la melodia più\nbella che so, ma non è successo niente.\nE dire che ho una bella voce, eh!
+Comunque, visto che sono\nqui, mi metto a caccia di\ntesori!
+Accidenti... sono venuto\nfin qua per niente.
+Penso che qualcuno sia passato\nprima di me... trovo solo <y<acqua>>.
+Chi può volere una roba\nsimile?!
+Bah, io me ne vado!\nCi talpiamo in giro!
+Ehi ehi! Non vorrai mica\nandare da solo?!
+Ma...\x0E\x01\x04\x02\x1E È solo apparso uno strano\nsimbolo sul muro, non credo che ciò\nporti a chissà quali cose...
+Ti sei fatto fregare da\nquel grosso masso parlante!
+Beh! Io vado!
+Arriverò per primo!
+
+
+
+
+Beh...~~~ non te la cavi male!\n\n\n\nPerò non vale...~~~\nVolevo vedere come avresti\nfatto senza quella spada!
+Mi sono stancato di giocare.\nLa presenza della fanciulla\nsta scomparendo...~~~\nÈ inutile stare ancora qui.\nArrivederci ragazzino che vieni dal\ncielo! Per questa volta ti perdono per\navermi intralciato, ma non sfidare la\nmia magnanimità! Te ne pentiresti!
+\x0E\x01\x05\x04K\x00Mica male questa spada!~~~\nComunque mi basta osservare come\n<r<la brandisci >>per fermarla\ncon un solo gesto.
+
+\x0E\x01\x12\x04\x00\x04Mio signore Link, secondo\nquanto vi ho tradotto, <b<Zelda>> dovrebbe\nessere venuta qui per purificarsi.\n\nProbabilità che si sia diretta\nalla fonte successiva, nelle\n<b<Terre di Oldin>>: 97%.\n\nNon ho alcuna informazione\nriguardo al modo in cui Zelda\nha lasciato questo luogo.
+Secondo le mie analisi, se disporrete\nsulla colonna a <b<Oltrenuvola >>la stele che\navete ottenuto...\n\n... <pling>dovrebbe sollevarsi dalla Terra una \n<r<nuova colonna di luce>> per procedere\nnella ricerca di Zelda.
+Possiamo tornare in Cielo dal <b<totem>>\nche si trova all'esterno!
+Ritengo che nella foresta\nsi trovi un dispositivo\nper tornare nel cielo.
+Probabilità che questa sia\nla stessa acqua dell'orcio del\ndrago d'acqua: 95%.\nTorniamo da lei.
+Non si tratta certo di un'acqua\nqualunque. Emana una forte energia.\n\n\nSe entra in contatto con un\ncorpo delle stesse qualità,\nl'energia potrebbe rinforzarsi.

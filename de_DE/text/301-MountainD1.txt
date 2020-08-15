@@ -1,0 +1,32 @@
+Verflucht, alles voller Ungeheuer...\nUnd ich wurde von meinem Kumpel\ngetrennt. Wir hätten nicht herkommen\nsollen.
+Ich kenne dich doch...\nHat dich die Suche nach deiner\nFreundin hierher gebracht?\n\nDa fällt mir ein...~~~ Ich habe gesehen,\nwie <r<jemand mit blonden Haaren und\nkomischen Klamotten>><pling> weggebracht\nwurde.\nAber...\x0E\x01\x09\x04\x14\x1215 Es ist sinnlos, ihr zu Hilfe zu\nkommen, da ist alles voller Ungeheuer.\n\n\n\x0E\x01\x09\x04ÿ\xFF00Halt dich da lieber raus, es ist viiieeel\nzu gefährlich...
+Verflucht, sie ist nicht da...\nIch hab sie bestimmt vorhin verloren...
+Oh! Du kommst genau richtig!\nIch bin's, <b<Ferri>>!\n\n\n\x0E\x01\x09\x04ÿ\xFFFFGut, dass ich dich hier treffe. Könntest\ndu mir einen Gefallen tun und nach\nmeiner <y<Bombentasche>> suchen?
+Ich war auf der anderen Seite dieser\nFelsen, als plötzlich diese Monster\nauftauchten...~~~ Da bin ich abgehauen\nund muss sie dabei \x0E\x01\x09\x04\x13\x100Dverloren haben.
+\x0E\x01\x09\x04\x09\x8FFIn der Tasche kann man <r<Donnerblumen\nmitnehmen und jederzeit einsetzen>>.\nOhne diese Tasche bin ich komplett\naufgeschmissen...\nBestimmt haben die Monster sie...\x0E\x01\x04\x02\n\n\x0E\x01\x09\x04\x11\xDFFBring mir bitte meine <y<Bombentasche\n>>wieder!
+Oh...~~~ Tja, wenn du nicht graben\nkannst, kommst du nicht auf die andere\nSeite...\n\n\x0E\x01\x09\x04\x15\x120CAber Felsen wie diese kriegst du mit\n<y<Donnerblumen>> klein.\n\n\n\x0E\x01\x09\x04\x09\xFF00Sieh dich doch mal um, ob du hier\nin der Nähe nicht irgendwo\n<y<Donnerblumen>> findest.
+Diese Felsen müssen doch kaputt zu\nkriegen sein. Versuch's mal mit einer\n<y<Donnerblume>>.
+\x0E\x01\x09\x04\x15\x809Nicht schlecht!\nNetter Trick, die <y<Donnerblume>> durch\nden Spalt zu rollen!\n\n\x0E\x01\x09\x04\x11\x800Jetzt kannst du dich auf die Suche nach\nmeiner <y<Bombentasche>> machen!
+\x0E\x01\x09\x04\x11\xD08Meine <y<Bombentasche>>!\n\n\n\n\x0E\x01\x09\x04ÿ\x8FFVielen, vielen Dank!\nDann gib sie mal her...\x0E\x01\x04\x02\x14\n\n\n\x0E\x01\x09\x04\x11\xD0EMoment, ich soll sie dir leihen, damit\ndu tiefer in den Vulkan gehen kannst?\n\n\n\x0E\x01\x09\x04ÿ\xFFFFHm, immerhin hast du dich auf der\nSuche nach deiner Freundin bis hierhin\ngewagt...\n\n\x0E\x01\x09\x04\x15\xD11Da fällt mir ein...~~~\nHast du meinen Kumpel gesehen?\n[1]Er ist nach\nHause gegangen.[2]Er macht sich\nSorgen um dich.[3]Weiß nicht.
+\x0E\x01\x09\x04\x13\x1007Auf den ist wirklich kein Verlass...\n\n\n\n\x0E\x01\x09\x04ÿ\x8FFDu dagegen hast dich für deine\nFreundin an diesen gefährlichen Ort\ngewagt...\n\n\x0E\x01\x09\x04\x14\x1209Also gut, hier hast du sie.\nViel Spaß damit!
+\x0E\x01\x09\x04\x00\x1004Er hat sich also Sorgen um mich\ngemacht...~~~ Das tut mir leid.\n\n\n\x0E\x01\x09\x04ÿ\x8FFDu machst dir bestimmt auch Sorgen\num deine Freundin, was?\n\n\n\x0E\x01\x09\x04\x14\x1209Also gut, hier hast du sie.\nViel Spaß damit!
+\x0E\x01\x09\x04\x00\x804Hm...~~~\nOb es ihm gut geht?\nHier sind so viele Monster...\n\n\x0E\x01\x09\x04\x00\x8FFDu hast sicher auch Angst um deine\nFreundin...\n\n\n\x0E\x01\x09\x04\x14\x1209Also gut, hier hast du sie.
+Ich gebe dir meine <y<Bombentasche>>,\ndamit du deine Freundin findest.
+\x0E\x01\x09\x04\x11\xD12Warte!\nIch hab was vergessen!\n\n\n\x0E\x01\x09\x04\x09\x8FFDie Tasche ist leer, also nimm die hier!
+Wenn du keine Bomben mehr hast,\nkannst du die Tasche auch mit\nDonnerblumen füllen.\n\n\x0E\x01\x09\x04\x11\x80BHebe dazu eine Donnerblume auf und\ndrücke dann (B), um sie <g<einzustecken>>.\x0E\x01\x11\x02\x1CD\n\n\n\x0E\x01\x09\x04\x09\x8FFIn die Tasche passen bis zu <r<10 Stück>>,\nwenn du also Donnerblumen findest,\nsolltest du deine Vorräte auffüllen.
+\x0E\x01\x09\x04\x11\xD00Hast du schon mal gegen ein Monster\ngekämpft und bist dabei in Brand\ngeraten?\n\n\x0E\x01\x09\x04\x09\x8FFDu solltest die Flammen schnellstens\nlöschen, aber vor allem solltest du\nniemals, wirklich niemals, <y<Bomben\n>>einsetzen, wenn du in Flammen stehst!
+\x0E\x01\x12\x04\x00\x04Gebieter, Zelda scheint sich an dieser\nQuelle spirituell gereinigt zu haben.\n\n\nIch schätze, dass sie nun in ein Gebiet\nnamens <b<Ranelle>> unterwegs ist.\n\n\nWenn wir die Steintafel zum Tempel\nbringen, wird eine neue Lichtsäule\nerscheinen und wir können ihr nach\n<b<Ranelle>> folgen.\nIch schlage vor, zum <b<Wolkenhort>>\nzurückzukehren und von dort aus nach\nRanelle zu reisen.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas zu\nberichten. Ich spüre Zeldas Aura in der\nNähe.
+Besonders von dieser Kette gehen\nstarke Schwingungen aus. Die\nWahrscheinlichkeit, dass Zelda mit ihr\ngefesselt wurde, liegt bei 95 %.
+Ich vermute, dass Zelda irgendwie\nentkommen konnte. Ich rate zur Eile.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe einen neuen Typus\nvon Gegner in der Nähe entdeckt. Er\nscheint äußerst überlegene körperliche\nFähigkeiten zu besitzen.\nIch schlage vor, ihn durch Drücken\nvon (Z) <g<anzuvisieren>> und mich mithilfe\nvon (v) zu rufen, damit ich dir weitere\nInformationen über ihn geben kann.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+\x0E\x01\x09\x04\xD08\x5FFSo trifft man sich wieder...
+\x0E\x01\x09\x04\xD00\x5FFOh~.~.~.~ \n\x0E\x01\x04\x02\x08Nein, wie unhöflich...\x0E\x01\x04\x02\x14\nIch habe deinen Namen vergessen...\n\n\x0E\x01\x09\x04\xD0A\x5FFNa, ist auch unwichtig.\nHör mir nur kurz zu, ja?
+\x0E\x01\x09\x04\xD00\x900Da sagen mir meine unfähigen\nHandlanger, dass sie die heilige Maid\ngefangen haben... Ich eile herbei, und\nwas muss ich sehen?\n\x0E\x01\x09\x04\xD00\xCFFDiese lästige Marionette der Göttin\nkommt mir zuvor...
+\x0E\x01\x08\x02\xFECD\x0E\x01\n\x04\x0CÍDiese...\n\n\n\n\x0E\x01\x09\x04\xD00\xCFF\x0E\x01\x08\x02\xFECD~~~\x0E\x01\n\x04\x0DÍSie hat...
+\x0E\x01\x05\x04-\x00\x0E\x01\x08\x02\x2CDDieses Schoßhündchen der\nGöttin...\x0E\x01\n\x04\x0BÍ Sie hat sie einfach\nmitgenommen!
+\x0E\x01\x08\x02\x1CDDabei brauche ich sie doch, um\nmeinen König zu befreien!
+~~.~~.~~.~~\n\x0E\x01\x04\x02\nIch entschuldige mich.\n\n\n\x0E\x01\x09\x04\xD08\x5FFAber jetzt verstehst du sicher, warum\nich etwas ungehalten bin.
+\x0E\x01\x09\x04\xD0A\x5FFAch, was soll die Zurückhaltung.\n\x0E\x01\x04\x02\x14Ich habe es nicht eilig...\x0E\x01\x04\x02\x14\nEs ist genug Zeit...\x0E\x01\x04\x02\x14
+So spüre die Flammen meines Zorns!
+Tempel des\nErdlandes

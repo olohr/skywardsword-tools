@@ -1,0 +1,370 @@
+Mira
+Tendi l'arco
+Scocca la freccia
+Inclina il telecomando\ne sposta il cursore.\nCentra il mirino con (v).
+Scocca una freccia\ncon (A). Per aumentare\nla potenza, tieni\npremuto (A) mentre\ninquadri il bersaglio.
+Tira a te il Nunchuk\ntenendo premuto (C) per\naccumulare potenza.\nRilascia (C) per scoccare\nla freccia.
+
+
+
+
+
+
+Prepara l'arco
+Tendi l'arco
+Scocca la freccia
+Tieni il telecomando Wii\nverso l'alto e tieni\npremuto (C).
+Tieni premuto (C) e\ntira a te il Nunchuk per\naccumulare potenza.
+Tieni fermo il cursore\ne rilascia (C) per\nscoccare.\nPrendi la mira con (v).
+
+Mira
+Spara
+Ricarica
+Col telecomando in\norizzontale, mira con il\ncursore. Centra il\nmirino con (v).
+Premi (A) per sparare.
+Premi (A) per sparare.\nTieni premuto\ne rilascia (A)\nper una rosa più ampia.
+Occhio alle munizioni!\nPuoi ricavarle dai frutti\ndegli alberi.
+
+Posa
+Lancia
+Lancia
+Premi (A) per posare\nl'oggetto.
+Punta il telecomando\nverso l'alto e scuotilo\nper lanciare l'oggetto.
+Punta il telecomando\nverso il basso e muovilo\nper far rotolare\nl'oggetto. Non puoi far\nrotolare oggetti pesanti.
+
+Lancia
+Lancia
+Riponi
+Punta il telecomando\nverso l'alto e scuotilo\nper lanciare l'oggetto.
+Punta il telecomando \nverso il basso e muovilo\nper far rotolare\nl'oggetto. Inclinalo per\ndare l'effetto.
+Premi (B) per riporre\nuna bomba. Raccogli i\nfiori bomba per non \nrimanerne mai a corto.
+
+Lancia
+Controlla
+Richiama
+Mira e premi (A) per\nlanciare lo scarabeo.\nCentra il mirino con (v).
+Punta il telecomando\n<r<verso lo schermo >>e\ninclinalo nella direzione\nnella quale vuoi che lo\nscarabeo si diriga.
+Mentre controlli lo\nscarabeo, premi (B) per\nrichiamarlo.
+
+Raccogli gli oggetti
+Guarda in giù
+Lascia
+Accelera
+Conduci lo scarabeo\nverso oggetti leggeri\nper prenderli.
+Premi (Z) per passare\nalla visuale dall'alto e\nper mirare.
+Mentre guardi in basso,\npremi (A) per sganciare\nl'oggetto.
+Premi (Z) per la visuale\ndall'alto e per mirare.\nPremi (A) per sganciare\nl'oggetto.
+Premi (A) per\naccelerare.
+
+Inquadra
+Avvicinati di soppiatto
+Cattura
+Inquadra un insetto con\n(Z) e avvicinati piano.
+Muovi il retino verso\nl'insetto lentamente e\ncon attenzione.
+Scuoti rapidamente\nil telecomando per\ncatturare l'insetto.
+
+Genera il vento
+Soffia sulle cose
+Centra
+Muovi il cursore e\ngenera vento\npremendo (A).
+Generare del vento può\nprodurre diverse\nreazioni.
+Centra la mira con (v).
+
+Schiocca la frusta
+Mira
+Tira
+Muovi il telecomando\nnella direzione\ndesiderata.
+Inquadra il bersaglio\ncon (Z) e schiocca la\nfrusta.
+Avvicina a te\ndegli oggetti distanti\nagganciandoli con\nla frusta.
+
+Spara
+Muovi
+Spara di nuovo
+Mira e premi (A) per\nsparare l'artiglio.\nCentra il mirino con (v).
+Appena l'artiglio si\nancora, ti muoverai\ngrazie al ritrarsi della\ncatena cui è fissato.
+Puoi mirare e sparare\nl'artiglio anche dalla\nnuova posizione\nraggiunta.
+
+Muovi
+Attacca
+Guarda la superficie
+Muoviti con \x0E\x02\x04\x02\x8CD.\nMentre lo fai, tieni\npremuto (A) per\nmuoverti più in fretta.
+Muovi il telecomando\nper colpire qualcosa con\nle unghie dei guanti.
+Tenendo premuto (Z)\npuoi vedere la\nsuperficie.
+
+Nuota
+Inquadra
+Torna a terra
+Nuota nella direzione\ndesiderata con \x0E\x02\x04\x02\x8CD.
+Tenendo premuto (Z),\nmuoviti in avanti e\nindietro con \x0E\x02\x04\x02\xDCD, \na destra e a sinistra\ncon \x0E\x02\x04\x02\xECD.
+Dirigiti verso la riva\ncon \x0E\x02\x04\x02\x8CD per uscire\ndall'acqua.\nNon puoi salire su\npiattaforme troppo alte.
+
+Muovi
+Nuota
+Turbine
+Mentre sei in acqua,\nmuoviti con \x0E\x02\x04\x02\x8CD.
+Premendo (A), <r<punta>> il\ntelecomando Wii <r<verso\nlo schermo >>e inclinalo\nnella direzione in cui\nvuoi nuotare.
+Scuoti il Nunchuk per\neseguire un turbine.\nSe sarai rivolto verso la\nsuperficie, salterai\nfuori.
+
+Preparati
+Arpeggia
+Tecnica
+Prepara la lira con (^).
+Tenendo premuto (A),\nmuovi il telecomando\nper suonare.
+Agita il telecomando\na tempo verso destra e\nverso sinistra.
+
+Muovi
+Sprint
+Rotola
+Muoviti con \x0E\x02\x04\x02\x8CD. Premi\n(Z) per centrare la\nvisuale in avanti.
+Puoi effettuare uno\nsprint tenendo premuto\n(A) mentre ti muovi.\nIn questo modo puoi\nanche scalare dei muri.
+Puoi effettuare uno\nsprint tenendo premuto\n(A) mentre ti muovi.\nMuoviti in fretta\nper non sprofondare.
+Scuoti il Nunchuk\ndurante uno sprint\nper fare una capriola\nin avanti.
+Non puoi rotolare\nquando ti muovi sulle\nsabbie mobili.
+
+Muovi
+Schiva
+Inquadra
+Mentre premi (Z),\ninclina \x0E\x02\x04\x02\xECD a sinistra o\na destra  o \x0E\x02\x04\x02\xDCD su o giù\nper muoverti.
+Mentre ti muovi, puoi\nschivare premendo (A).\nSe premi il pulsante\nindietreggiando, farai\nun salto all'indietro.
+Tieni premuto (Z) vicino\na un oggetto, per\ninquadrarlo come\nbersaglio.
+
+Brandisci
+Affondo
+Attacco rotante
+Usa il telecomando\ncome se fosse l'elsa\ndella spada: muovilo\nnella direzione in cui\nvuoi assestare il colpo.
+Scuoti il telecomando\nin avanti per effettuare\nun affondo con la spada.
+Agita il telecomando e il\nNunchuk insieme in\ndirezione orizzontale o\nverticale per effettuare\nun attacco rotante.
+
+Brandisci
+Attacco rotante
+Potere celeste
+Agita il telecomando Wii\nnella direzione in cui\nvuoi colpire con la spada\ne spingilo in avanti di\nscatto per un affondo.
+Agita il telecomando e il\nNunchuk insieme in\ndirezione orizzontale o\nverticale per effettuare\nun attacco rotante.
+Innalza la spada verso\nil cielo per invocare\nil potere celeste. Agita\nla spada per rilasciare\nuna scarica di energia.
+Non puoi invocare il\npotere celeste in\nquesto luogo.
+
+Impugna lo scudo
+Attacco scudo
+Resistenza
+Agita il Nunchuk per\nalzare la guardia.\nAgita il telecomando per\nabbassare la guardia.
+Muovi il Nunchuk di\nscatto per eseguire\nun attacco scudo.\nCerca di farlo con\nun buon tempismo!
+Lo scudo andrà in\nfrantumi quando la\nresistenza si esaurisce.
+
+Muovi
+Manto magico
+Richiama il solcanubi
+Inclina il telecomando\ndurante la caduta libera\nper muoverti in aria.
+Tieni premuto (B) per\nspiegare il manto\nmagico.
+Premi (v) per\nrichiamare il solcanubi.
+Da qui non puoi\nchiamare il solcanubi.
+
+Scendi
+Riponi
+Muoviti
+Plana al suolo\nlentamente.
+Rilascia (B) per riporre\nil manto magico.
+Non puoi muoverti\nliberamente mentre usi\nil manto magico.
+
+Manovra il solcanubi
+Attacco
+Attacco avvitato
+Rallenta
+Inclina il telecomando\nper virare e agitalo per\nprendere quota.\nVai in picchiata per\naccelerare.
+Premi (A) per attaccare.\nQuando non avrai più ali\na disposizione, non\npotrai più attaccare.
+Premi (A) per un attacco\navvitato. Fai attenzione\nal numero di attacchi\ndisponibili in basso.
+Rallenta premendo (B).\nSe non hai abbastanza\nvelocità andrai in stallo.
+
+Bevi
+Riempi
+Usa
+Premi (A) per bere il\ncontenuto di\nun'ampolla.
+Tieni l'ampolla in mano\ne premi (A) per\nriempirla.
+Puoi usare il contenuto\ndell'ampolla premendo\n(A).
+
+Direzione
+Distanza
+Cambia
+Muovi il cursore\nnella direzione in cui\nvuoi cercare. Centra\nil mirino con (v).
+Le dimensioni del\ncursore e l'intervallo tra\ni segnali acustici ti\nindicheranno se il\nbersaglio è vicino.\n
+Tieni premuto (C) e\nmuovi il telecomando\nper selezionare ciò\nche vuoi cercare.
+
+Osserva
+Centra
+Indietro
+Cambia
+Inclina il telecomando e\nmuovi il cursore per\nguardarti attorno.
+Centra il cursore sullo\nschermo premendo (v).
+Premi (C) per ritornare\nalla visuale normale.
+Tieni premuto (C) e\nmuovi il telecomando\nper trovare ciò che\ncerchi.
+
+Muoviti
+Balza
+Lascia
+Inclina \x0E\x02\x04\x02\x8CD per\nmuoverti.
+Durante il movimento,\nscuoti il telecomando\nper balzare.
+Premi (A) per lasciare la\npresa. In caduta, inclina\n\x0E\x02\x04\x02\x9CD o premi (A) per\nriaggrapparti, se ciò è\npossibile.
+
+Muovi
+Equilibrio
+Scuoti
+Inclina \x0E\x02\x04\x02\x9CD e \x0E\x02\x04\x02\xACD per\navanzare e per\nindietreggiare.
+Inclina il telecomando\na destra o a sinistra per\nbilanciare il movimento.
+Scuoti il telecomando\nverticalmente per far\noscillare la fune.
+
+Muovi
+Lascia
+Scuoti
+Premi \x0E\x02\x04\x02\x9CD per risalire\nsulla fune e con \x0E\x02\x04\x02\xECD\nmuoviti di lato.
+Premi (A) per lasciare.
+Scuoti il telecomando\nverticalmente per far\noscillare la fune.
+
+Ondeggia
+Direzione
+Salta
+Arrampicati
+Scuoti il telecomando\nWii per oscillare.\nPremi (B) per fermarti.
+Questa fune non oscilla.
+Inclina \x0E\x02\x04\x02\xECD per\ncambiare direzione.
+Premi (A) per saltare.
+Inclina \x0E\x02\x04\x02\xDCD per\narrampicarti o\nscendere.\nPremi (A) per lasciare\nla presa.
+
+Muoviti
+Direzione
+Sprint
+Avanza con \x0E\x02\x04\x02\x9CD e\nindietreggia con \x0E\x02\x04\x02\xACD.
+Muoviti nella direzione\ndesiderata con \x0E\x02\x04\x02\xECD.
+Mentre ti muovi, tieni\npremuto (A) per\neseguire lo sprint.
+
+Afferra
+Ruota la chiave
+Guarda la serratura
+Punta il telecomando\n<r<verso lo schermo>> e\npremi (A) per tenere la\nchiave. Premi (B) per\nuscire.
+Mentre tieni la chiave,\nruota e inclina il\ntelecomando Wii.\nRiposiziona la chiave\ncon (C).
+Premi (Z) per guardare\nil foro della serratura.\nPremi (A) per\ninserire la chiave nella\nserratura.
+
+Equilibrio
+Rallenta
+Salta
+Inclina il telecomando\nper non deragliare.
+Premi (B)\nper rallentare.
+Scuoti il telecomando\nWii per saltare oltre i \nbinari interrotti.
+
+Muoviti
+Cannone
+Guarda
+Governa la nave con \x0E\x02\x04\x02\x8CD.
+Prepara il cannone\ncon (B).\nFai fuoco con (A).\nCentra il mirino con (v).
+Premi (C) per guardarti\nintorno e usare\nil rilevatore.
+
+Muoviti
+Equilibrio
+Salta giù
+Inclina \x0E\x02\x04\x02\x8CD per\nmuoverti. Premi (Z) per\ncentrare la visuale e\nguardare avanti.
+Se ti sbilanci, lascia\n\x0E\x02\x04\x02\x8CD per rallentare.
+Raggiungi una pedana\ne premi (A) per saltare.
+
+Muoviti
+Geyser
+Scivola
+Inclina \x0E\x02\x04\x02\xECD per\nmuoverti a destra o\na sinistra.
+Spostati su un geyser\nper ricevere una spinta\nverso l'alto.
+Smetterai di scivolare\nquando raggiungerai\nuna superficie piana.
+
+Raccogli le lacrime
+Guardiani
+Ricettacolo
+Per superare la prova,\nraccogli 15 lacrime e\ntorna al portale.
+Anche un solo attacco\nti sarà fatale.
+Finché possiedi dei\npetali nel ricettacolo\ndello spirito, i guardiani\nnon ti trovano. Con le\nlacrime rigeneri i petali.
+
+Muoviti
+Bonus dell'anello
+Atterraggio
+Inclina il telecomando\ndurante la caduta libera\nper muoverti in aria.
+Volando attraverso gli\nanelli riceverai un\nbonus. Ogni pallone \ncolpito lo fa aumentare\ndi 1.
+Otterrai del denaro per\nogni rupia su cui atterri\ne in base al bonus\ndell'anello.
+
+Scava
+Suggerimenti
+Bombe
+Raccogli le rupie\npremendo (A) sulla buca\nin cui vuoi scavare.
+Le rupie più preziose\npotrebbero essere\ncircondate da bombe.
+Il gioco finisce se\ndissotterri una bomba.
+
+Affetta
+Affettane di più
+Tecnica
+Muovi il telecomando\nWii per agitare la spada.
+Continua fino a quando\nnon avrai tagliato tutto\nil bambù.
+Mantieni un ritmo\ncostante così che il\nbambù non cada\nlateralmente.
+
+Mira
+Agita il retino
+Caratteristiche
+Inquadra il bersaglio\ncon (Z) e avvicinati\nsenza farti notare.
+Cattura l'insetto con un\nrapido movimento del\ntelecomando Wii.
+Cerca di ricordare dove\ntrovare un insetto e\ncome catturarlo.
+
+Scocca la freccia
+Punteggio
+Tecnica
+Centra la zucca con\nuna freccia prima che\nraggiunga il suolo.
+Più punti per più zucche\ncentrate di seguito,\npunti bonus per le\nzucche brillanti.
+Tendi l'arco per tempo e\nmira anticipando la\ntraiettoria della zucca.
+
+Traccia
+Annulla
+Cosa tracciare
+Tenendo premuto (A),\nmuovi la punta della\nspada per tracciare.\nRilascia (A)\nappena finito.
+Premi (B) per smettere\ndi tracciare.
+Ciò che tracci dovrebbe\napparire dinanzi a te.\nE poi...?
+
+Scegli
+Afferra
+Fatto
+Muovi il cursore per\nselezionare un blocco.
+Per muovere un blocco,\nafferralo tenendo\npremuto (A).
+Termina premendo (B).
+
+Alzati
+Guarda
+Fai una pausa
+Premi (A) per alzarti.
+Guardati intorno con\n(C).
+Sedendoti ripristini\npoco a poco la vitalità.
+
+Muovi
+Fuoco!
+Link
+Inclina \x0E\x02\x04\x02\xECD per muovere\nla badopulta a destra o a\nsinistra.
+Muovi il cursore con il\ntelecomando Wii e\nfai fuoco con (A).\nCentra la visuale\ncon (v).
+Smetti di sparare con la\nbadopulta premendo (B)\no (^).
+
+Arrampicati
+Affrettati
+Lascia
+Inclina \x0E\x02\x04\x02\xDCD per\narrampicarti.
+Mentre ti arrampichi, \nscuoti il telecomando\nWii per balzare.
+Premi (A) per lasciare.\nPer aggrapparti mentre\ncadi premi (A) oppure\ninclina \x0E\x02\x04\x02\x9CD.
+
+Porta
+Equilibrio
+Lavoro
+Inclina piano \x0E\x02\x04\x02\x8CD per\nmuoverti senza far\ncadere la zucca.
+Inclina \x0E\x02\x04\x02\xCCD o \x0E\x02\x04\x02\xBCD per\nbilanciarti quando\ntraballi rispettivamente\na destra o a sinistra.
+Non potrai lasciare o\nlanciare le zucche dopo\naver accettato.\nDovrai portarle\nal capanno.
+
+Brandisci
+Posa
+Taglia
+Muovi il telecomando\nWii nella direzione in\ncui desideri sferrare un\ncolpo di spada.
+Posa a terra la spada\ncon (A). Riprendila in\nmano con (A).
+Grazie al suo filo\nimpareggiabile, è in\ngrado di tagliare ciò che\nuna normale spada non\nè in grado di intaccare.
+
+Punto d'atterraggio
+Caduta libera
+Manto magico
+Atterra al centro del\ncerchio di pietra.
+Inclina il telecomando\ndurante la caduta libera\nper muoverti in aria.
+Tieni premuto (B) per\nspiegare il manto\nmagico.
+

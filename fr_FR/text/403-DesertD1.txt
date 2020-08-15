@@ -1,0 +1,4 @@
+Raffinerie\nde Lanelle
+\x0E\x01\x12\x04\x00\x01Maître, regardez.
+Cette grande porte semble verrouillée.
+Il est probable que ce soit la porte\nd'une pièce importante.

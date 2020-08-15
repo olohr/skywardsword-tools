@@ -1,0 +1,248 @@
+Questa è la <b<Terra dell'esilio>>.\nRilevo l'aura di nemici deboli.\nSono in pochi.
+Questa è la<b< foresta di Firone>>.\nConfermo una scarsa presenza\ndi mostri.
+Questo è il <b<Santuario del Cielo>>. Rilevo\nla presenza di mostri più forti. Inoltre,\nfate attenzione ai nidi di <b<aracnula>>.
+
+
+Questo è il <b<lago di Floria>>. Confermo la\npresenza di mostri nell'acqua.\nConsiglierei di usare il <g<turbine>>.
+Questo è l'<b<antico sacrario>>. Confermo\nla presenza di mostri che si avvalgono\ndi attacchi di fuoco e di maledizioni.
+Questa è la <b<foresta di Firone>>. L'intera\narea è sommersa dalle acque. Fate\nattenzione al livello di ossigeno\ndurante l'immersione.
+Questo è il <b<vulcano di Oldin>>. Fate\nattenzione ai mostri che attaccano\ncon fuoco e lava.\n\nSe andate a fuoco, spegnete le fiamme\ncon <g<capriole>><g<<g< e<g< attacchi rotanti>>.
+Questo è il <b<Santuario della Terra>>.\nConfermo una forte presenza di\nmostri che usano attacchi di fuoco.\n\nSe andate a fuoco, spegnete le fiamme\ncon <g<capriole>><g<<g< e<g< attacchi rotanti>>.
+Questo è il <b<vulcano di Oldin>>. Confermo\nla presenza di mostri che usano\nattacchi di fuoco.\n\nSe andate a fuoco, spegnete le fiamme\ncon <g<capriole>><g<<g< e<g< attacchi rotanti>>.
+Questo è il <b<Grande Santuario Antico>>.\nFate attenzione ai mostri che usano\nmaledizioni e agli arcieri.
+Questo è il <b<vulcano di Oldin>>. Confermo\nla presenza di una catapulta in un luogo\nsopraelevato. Se i <b<boblin >>vi scoprissero,\npotrebbe rivelarsi pericolosa.
+Queste sono le <b<Terre di Ranel>>.\nConfermo una forte presenza di mostri\nche usano attacchi elettrici. State\nattento alle sabbie mobili nel deserto.
+Queste sono le <b<Terre di Ranel>>.\nPullulano di mostri che usano attacchi\nelettrici. Confermo anche la presenza\ndi antichi sistemi di difesa in rovina.
+Questo è il <b<mare di sabbia di Ranel>>.\nPullula di mostri che usano attacchi\nelettrici e anche attacchi di fuoco.
+Questo è il <b<galeone delle sabbie>> del\n<b<mare di sabbia di Ranel>>.\n\n\nMolti dei mostri che l'hanno attaccato\npossono accumulare grandi quantità\ndi energia elettrica.
+Questa è la <b<gola di Ranel>>. Si dice che\nmolti dei mostri che infestavano\nquest'area avessero il dominio\nsull'elettricità.
+
+
+
+Questa è la <b<Terra Hylia>>. Vi\nprego di perdonarmi, mio signore,\nma l'analisi di quest'area non è\npossibile per ragioni sconosciute.
+Questo è il <b<Santuario del Cielo>>. Rilevo\nl'aura di numerosi nemici potenti\nnell'atmosfera circostante.\n\nDai dati sembra che questi mostri siano\npiuttosto intelligenti. Fate attenzione\nai diversi attacchi.
+Questo è il <b<Santuario della Terra>>.\nRilevo l'aura di numerosi nemici\npotenti nell'atmosfera circostante.\n\nFate attenzione a non colpire i <b<fiori\nbomba >>che vi circondano.
+Questo è l'<b<opificio di Ranel>>. Rilevo\nl'aura di numerosi nemici potenti\nnell'atmosfera circostante.\n\nIl pavimento di questa stanza è\nricoperto di sabbia. Sappiate che\nci sono nemici in agguato.
+Questa è la <b<Terra dell'esilio>>.\nRilevo l'aura di un nemico potente\nnell'atmosfera circostante, ma non\npossiedo dati in merito.\nIl campo di battaglia è impervio,\nprestate attenzione al livello\ndi <r<vigore>>.
+Questa è la <b<Terra dell'esilio>>. Rilevo\nl'aura di numerosi nemici potenti\nnell'atmosfera circostante. Non\npossiedo dati in merito a tali mostri.\nIl campo di battaglia è impervio,\nprestate attenzione al livello\ndi <r<vigore>>.
+Questa è la <b<Terra dell'esilio>>. Rilevo\nl'aura ostile di un nemico potente\nnell'atmosfera circostante. Non\npossiedo dati in merito a tale mostro.\nIl congegno costruito da <b<Bado>> tornerà\nmolto utile.
+Questo è l'<b<antico <b<sacrario<b<>>.\nRilevo l'aura di numerosi nemici\npotenti nell'atmosfera circostante.\n\nLa libertà di movimento è limitata\nda file di colonne. Fate attenzione\nnell'evitare gli attacchi nemici.
+Questo è il ponte del <b<galeone delle\nsabbie>>.\nRilevo una potentissima aura\nmalefica nell'atmosfera circostante.\nFate attenzione a non cadere\nfuoribordo, in mare.
+Questo è il <b<Grande Santuario Antico>>.\nRilevo una potente aura nemica\nnell'atmosfera circostante.\n\nDalla mia analisi risulta che il nemico\npossegga un alto grado di\nintelligenza. Fate attenzione\nai diversi attacchi.
+Questo è l'interno di <b<Cumulonembo>>.\nLa mia analisi dimostra l'esistenza di\nparassiti che assorbono l'energia vitale\ndi Narisha, il grande spirito celeste.\nFate attenzione alle raffiche di vento e\na mantenere l'equilibrio durante il\ncombattimento.
+Così era la <b<Terra dell'esilio >>in\npassato. Rilevo l'aura di numerosi\nnemici potenti nell'atmosfera\ncircostante.\nDalla mia analisi risulta che i nemici\nposseggono un alto grado di\nintelligenza. Fate attenzione ai\ndiversi attacchi.
+Non posseggo dati su questo posto.\nRilevo soltanto l'aura di <b<Mortipher>>.\n\n\nInoltre, questo luogo è sotto l'influsso\ndei suoi poteri magici, dunque <r<non\npotrete avvalervi del potere celeste>>.
+Questo sentiero conduce al <b<Santuario\ndel Tempo>> dall'<b<opificio di Ranel>>.\nNon vi sono mostri. Probabilità\ndi scontri: 5%.
+Questa è una sezione della <b<Torre del\nCielo>>. Rilevo molti mostri di diversa\nentità in uno spazio ristretto.
+Questa è una sezione della <b<Torre del\nCielo>>. Raccomanderei prudenza,\npoiché rilevo la presenza di mostri\npiuttosto potenti.
+Questa è una sezione della <b<Torre del\nCielo>>. Rilevo mostri che utilizzano\nattacchi di fuoco e maledizioni.\nCercate di non entrarvi in contatto.
+Questa è una sezione della <b<Torre del\nCielo>>. Vi sono resti di antichi mostri.\nRaccomanderei cautela nel trasportare\nla sfera del tempo.
+Questa è una sezione della <b<Torre del\nCielo>>. Vi sono resti di antichi mostri.\nRaccomanderei cautela nel trasportare\nla sfera del tempo.
+Questa è una sezione della <b<Torre del\nCielo>>. Sono presenti diversi\nmarchingegni. \x0E\x01\x12\x04\x00\x02Mio signore,\nverrete messo alla prova.
+Questa è una sezione della <b<Torre del\nCielo>>. Lo spazio ristretto non consente\ndi evitare gli attacchi nemici.\n\nSuggerirei di fare un sapiente uso\ndell'<g<attacco scudo>> durante la battaglia,\nconsiderando quanto sia difficile\nrecuperare dei cuori qui.
+Questa è una sezione della <b<Torre del\nCielo>>. Non rilevo alcun mostro.\nTuttavia, dai miei dati risulta che\nperlustrare quest'area sarà difficile.\n\x0E\x01\x12\x04\x00\x01Per aiutarvi, mio signore, aumenterò\nl'accuratezza delle mie ricerche per\nfornirvi <r<un'analisi di ogni sezione>>.
+
+Queste sono le <b<grotte di Ranel>>.\nNon rilevo alcun mostro.
+Questo è il <b<vulcano di Oldin>>. Vi è un\nnumero limitato di mostri in grado di\nscoccare frecce a distanza.\n\nSe andate a fuoco, spegnete le fiamme\ncon <g<capriole>><g<<g< e<g< attacchi rotanti>>.
+Questo è il <b<Santuario del Cielo>>.\nAvverto un incremento dell'aura\ndei nemici rispetto alla nostra\nultima visita.\nSottovalutare questo dettaglio\npotrebbe risultarvi fatale.\nRaccomando rinnovata cautela.
+Questa è la <b<sala delle candele di\nFarore>>. Non rilevo alcun mostro.
+Questa è la <b<sala delle candele di Din>>.\nNon rilevo alcun mostro.
+Questa è la <b<Terra dell'esilio>>.\nQui è discesa l'Isola della Dea.\nNon rilevo alcun mostro.
+Questa è la <b<fonte celeste>>. È un luogo\nparticolare perché protetto dal potere\ndella Dea.\n\nSembra che il corpo di chi entra in\ncontatto con questa acqua sarà\npurificato.
+Questo è il <b<Santuario dell'esilio>>.\nNon avverto la presenza di alcun\nmostro.
+Questo è il <b<Santuario Hylia>>.\nNon avverto la presenza di alcun\nmostro.
+Questa è la <b<fonte della Terra>>. È un\nluogo particolare perché protetto dal\npotere della Dea.\n\nSembra che il corpo di chi entra in\ncontatto con questa acqua sarà\npurificato.
+In questo luogo sarà sufficiente\ncombattere soltanto con la spada.\nConsiglierei di equipaggiare\noggetti non offensivi.
+Siete equipaggiato adeguatamente\nper questa area. Credo che qui possiate\nfare a meno di oggetti offensivi.
+Potrete utilizzare le rupie e i tesori\nlasciati dai mostri sconfitti per\nfare acquisti al bazar e per\npotenziare strumenti.
+Qui non è necessario un\nequipaggiamento focalizzato sui cuori.\nRaccomanderei l'utilizzo di oggetti\nnon offensivi.
+Fate attenzione ai mostri che attaccano\nin gruppo.
+Sconsiglio l'uso eccessivo degli\noggetti nella borsa.
+Potreste ottenere dei tesori\nsconfiggendo dei mostri. Tuttavia,\nsconsiglierei l'utilizzo di tale\ntecnica per collezionare tesori.
+Questo luogo non è molto pericoloso.\nConsiglierei di fare pratica con la\nspada nel corso di battaglie reali.
+Possibilità di subire danni imprevisti \nqui dentro, a causa della lentezza\ndel rilevamento dei mostri: 75%.\nConsiglierei copiosa scorta di pozioni.
+Evitare di combattere contro più\nnemici contemporaneamente,\nè una tattica prudente.
+Il vostro attuale equipaggiamento è\ninsufficiente a proteggervi dai danni.\nConsiglierei l'uso di oggetti di difesa\ne utili al recupero della vitalità.
+Consiglierei di affrontare i mostri con\ncautela per evitare rischi inutili. Fate\nattenzione agli oggetti per\nrecuperare la vitalità.
+Non potrete utilizzare armi e oggetti\nsott'acqua. Questo implica che dovrete\ndifendervi in un altro modo.
+Ritengo che il vostro attuale\nequipaggiamento sarà inutile,\ndata l'elevata presenza di\nambienti sommersi in quest'area.
+Ritengo che il vostro attuale\nequipaggiamento sarà inutile,\ndata l'elevata presenza di\nambienti sommersi in quest'area.
+Non potrete utilizzare armi e\noggetti sott'acqua. Dovrete cercare\ndi tornare sulla terra ferma quando la\nvostra energia diminuisce.
+Il vostro equipaggiamento sembra\nadeguato, ma consiglierei estrema\ncautela a causa della presenza di\nmostri di aria, di acqua e di terra.
+Il vostro equipaggiamento è adeguato a\nquest'area grazie alla sua notevole\nadattabilità e alla natura di questo\nluogo, costituito da elementi complessi.
+Rilevo un gran numero di mostri dalle\nabilità uniche. Dovrete equipaggiarvi\nin maniera adeguata ed essere pronto\nad adattarvi a diverse circostanze.
+Il vostro equipaggiamento sembra\nadeguato, ma consiglierei estrema\ncautela a causa della presenza di\nmostri di aria, di terra e di acqua.
+Il vostro equipaggiamento sembra\nadeguato, ma consiglierei estrema\ncautela a causa della presenza di\nmostri di aria, di terra e di acqua.
+Raccomanderei l'uso di <y<ossigeno\nliquido >>e <y<scaldacuore >>per ripristinare\nl'energia persa a causa della mancanza\ndi ossigeno sott'acqua.
+Raccomanderei l'uso di <y<ossigeno\nliquido >>e <y<scaldacuore >>per ripristinare\nl'energia persa a causa della mancanza\ndi ossigeno sott'acqua.
+Il vostro equipaggiamento è adeguato,\ntuttavia non vi sarà possibile utilizzarlo\nsott'acqua.
+Se i vostri vestiti andranno a fuoco\nsubirete ingenti danni. Consiglierei\ndi equipaggiarvi con oggetti che\nripristinino la vostra energia.
+Vi sono notevoli probabilità di subire\ndanni dai mostri presenti e dalla lava.\nRaccomanderei l'utilizzo di oggetti\ndi difesa e per il recupero dell'energia.
+Probabilità che, con l'attuale\nequipaggiamento, si perda la vita\nprima di ottenere rupie o tesori : 85%.
+Se un attacco nemico vi fa andare a\nfuoco, reagite con calma e limiterete\ni danni.
+Se i vostri vestiti andranno a fuoco\nsubirete ingenti danni. Consiglierei\ndi equipaggiarvi di oggetti che\nripristinino la vostra energia.
+La perdita di energia è direttamente\nproporzionale al danno subito.\nConsiglierei di agire con cautela.
+Esplorare questo luogo con l'attuale\nequipaggiamento può essere\npericoloso.\n\nRaccomanderei l'utilizzo di oggetti\ndi difesa e per il recupero dell'energia.
+Se un attacco nemico vi fa andare a\nfuoco, reagite con calma e limiterete\ni danni.
+Se i vostri vestiti andranno a fuoco\nsubirete ingenti danni. Consiglierei\ndi equipaggiarvi di oggetti che\nripristinino la vostra energia.
+La perdita di energia è direttamente\nproporzionale al danno subito.\nConsiglierei di agire con cautela.
+Esplorare questo luogo con l'attuale\nequipaggiamento può essere\npericoloso.\n\nRaccomanderei l'utilizzo di oggetti\ndi difesa e per il recupero dell'energia.
+Se un attacco nemico vi fa andare a\nfuoco, reagite con calma e limiterete\ni danni.
+Se venite colpito da una <r<maledizione>>,\nnon potrete utilizzare la spada e lo\nscudo per un breve periodo di tempo.\n\nConsiglierei di abbandonare l'area\ntemporaneamente.
+L'interno del santuario è complesso.\nConsiglierei un'esplorazione graduale,\nfacendo anche ritorno a <b<Oltrenuvola>>\nogni tanto.
+Il vostro attuale equipaggiamento non\nè adeguato al combattimento.\nSuggerirei di salvare i vostri progressi\npresso un <r<totem>>.
+Siete in grado di sostenere una perdita\ndi vitalità, ma siate cauto a causa della\nnotevole presenza di mostri potenti.
+Potete attaccare i <b<boblin >>appostati su\ntorrette e luoghi rialzati con <y<arco >>e\n<y<bombe>>.
+I <b<boblin >>stanno costruendo una\nfortificazione in un luogo rialzato.\nConsiglierei l'uso di armi a lungo\nraggio.
+Probabilità di incontrare difficoltà in\ncombattimento, a causa delle limitate\ncapacità offensive del vostro attuale\nequipaggiamento: 65%.\nConsiglierei l'uso di armi a lungo\nraggio.
+Presenza di <b<boblin >>quasi esclusiva.\nLa vitalità non è a rischio.\nQui, l'attacco è la miglior difesa.
+Alcuni mostri appaiono all'improvviso.\nDovrete essere pronto a sostituire\nla spada con altri strumenti al\nmomento opportuno.
+Questo luogo, le <b<Terre di Ranel>>, è\nmolto vasto. Consiglierei un uso\noculato degli oggetti consumabili.
+Il vostro equipaggiamento non è\nadeguato a quest'area. Consiglierei\ndi evitare gli scontri non necessari.
+Il vostro equipaggiamento è adeguato\nal deserto. Potrete esplorare la zona\nin relativa sicurezza.
+In quest'area sono presenti mostri che\nattaccano a distanza. La vostra vitalità\npotrebbe ridursi. Consiglierei di\nprepararvi all'evenienza.
+Il vostro equipaggiamento è piuttosto\nversatile. Tuttavia, la vostra vitalità\npuò essere a rischio senza equilibrio\ntra i diversi oggetti equipaggiati.
+Consiglierei di equipaggiare oggetti\nincentrati sulla difesa e il recupero\ndella vitalità, considerata l'alta\nconcentrazione di mostri potenti.
+L'inadeguatezza del vostro attuale\nequipaggiamento potrebbe comportare\nun improvviso consumo di oggetti\nper il recupero della vitalità.
+L'equipaggiamento da battaglia e la\nvastità del <b<mare di sabbia di Ranel>>\nrenderanno l'esplorazione difficile.\n\nSono necessarie misure preventive,\ntese al recupero della vitalità.
+Misure preventive tese al recupero\ndella vitalità insufficienti.\nRaccomanderei cautela durante\nl'esplorazione e il combattimento.
+Il <b<mare di sabbia di Ranel>> è un'area\nmolto vasta. Raccomanderei l'uso di\noggetti finalizzati al recupero\ndella vitalità.
+Il vostro equipaggiamento è adeguato.\nFate attenzione alla vitalità mentre\nesplorate il vasto <b<mare di sabbia\ndi Ranel>>.
+L'interno della nave è costituito da\npiccole stanze e corridoi. Aspettatevi\nscontri ravvicinati.\n\nConsiglierei di equipaggiarvi in modo\nadeguato per recuperare vitalità.
+Il vostro equipaggiamento è adatto\na diverse circostanze, ma è possibile\nmigliorarlo del 10% rinforzando le\nmisure per prevenire i danni.
+Gli scontri sono inevitabili negli stretti\ncorridoi della nave. È molto probabile\nche subirete una riduzione della\nvitalità in quest'area.
+Il vostro equipaggiamento è focalizzato\nsulla difesa e sul recupero della\nvitalità.\n\nSiate consapevole che dovrete\ncombattere contro i mostri negli stretti\ncorridoi della nave.
+Secondo i miei dati, lo scontro\nravvicinato sarà predominante in tale\nluogo. Le armi a lungo raggio si\ndimostreranno inefficaci.\nLa vitalità è fondamentale negli scontri\ndiretti.
+Calcolo che subirete ingenti danni\nin combattimento a causa delle\ndimensioni ridotte delle piattaforme.\n\nConsiglierei di equipaggiarvi per la\ndifesa e il recupero della vitalità.
+Calcolo che subirete ingenti danni\nin combattimento a causa delle\ndimensioni ridotte delle piattaforme.\n\nConsiglierei di equipaggiarvi per la\ndifesa e il recupero della vitalità.
+Dalle mie analisi si evince che questo\nluogo potrebbe essere abitato da orde\ndi mostri. Raccomanderei l'impiego di\noggetti per il recupero della vitalità.
+
+
+
+
+Secondo la mia analisi, l'area è sicura.
+
+
+
+
+
+
+
+Numero di mostri sconosciuto. Il\npericolo aumenta se possedete limitate\nmisure difensive e di recupero della\nvitalità.
+Non possedete sufficienti <y<scaldacuore>>.\nConsiglierei di recuperare ogni <y<cuore\n>>lasciato dai mostri.
+Entità della presenza nemica ignota.\nCorrereste grossi rischi con limitate\ndifese e misure per recuperare la\nvitalità.
+Entità della presenza nemica ignota.\nAssicuratevi di essere equipaggiato a\ndovere per il ripristino della vitalità.
+Non è possibile effettuare un'analisi\nstandard poiché siete impegnato nella\nsfida del drago del fulmine <b<Ranel>>, una\nparte del suo duro allenamento.
+Nessun dato rilevante da riportare.
+Strumenti di offesa a lungo raggio\nquali arco e frecce sono estremamente\nefficaci.
+Calcolo che subirete dei danni se vi\navvicinerete a nemici armati di frecce\ninfuocate. Consiglierei di dotarvi di\noggetti per recuperare la vitalità.
+
+Potreste subire attacchi improvvisi con\nfrecce infuocate. Consiglierei di\nutilizzare un equipaggiamento adatto\nper rispondere a tali attacchi.
+Calcolo che subirete dei danni\navvicinandovi a nemici armati di\nfrecce infuocate. Raccomanderei\nuna notevole scorta di pozioni.
+Inoltre, il vostro attuale scudo di legno\nnon può prevenire i danni causati da\nfrecce infuocate.~~~ Ne sconsiglierei\nl'impiego.
+Inoltre, il vostro attuale scudo di ferro\nnon può prevenire i danni causati da\nattacchi elettrici.~~~ Ne sconsiglierei\nl'impiego.
+
+
+
+
+\x0E\x01\x12\x04\x00\x01Mio signore, il vostro attuale\nequipaggiamento è\n\x0E\x02\x02\x04\x00\x00.
+Idoneità all'area: \x0E\x02\x03\x06\x00\x00Í%.
+
+
+
+
+focalizzato sul combattimento
+focalizzato sui cuori
+focalizzato sui tesori
+bilanciato
+
+\x0E\x01\x12\x04\x00\x01Mio signore, il vostro attuale\nequipaggiamento è\n\x0E\x02\x02\x04\x00\x00.
+Idoneità all'area: \x0E\x02\x03\x06\x00\x00Í%.
+Efficacia di misure offensive limitata\ncontro questo mostro.\n\n\nConsiglierei di incrementare il numero\ndi pozioni e oggetti per il recupero\ndella vitalità.
+Potrete vincere solo anticipando\ne reagendo in tempo agli attacchi\ndell'avversario.\n\nTuttavia, suggerirei di restare sulla\ndifensiva, poiché nella borsa non\npossedete molti oggetti per il\nrecupero della vitalità.
+Calcolo che la vostra idoneità all'area\npossa essere migliorata aumentando il\nnumero di oggetti per il recupero\ndella vitalità nella borsa.
+È molto probabile che subirete molti\ndanni contro nemici che utilizzano\ndiverse tecniche, prima di\ncomprenderne appieno le tattiche.\nConsiglierei di studiare le mosse\nnemiche in fretta, recuperando\nintanto la vitalità persa.\n
+Calcolo che i numerosi oggetti\npresenti nella vostra borsa vi\nconferiscono un'elevata capacità\noffensiva e supporto in battaglia.\nTuttavia, non avete molte possibilità\ndi recuperare la vitalità, perciò vi\nconsiglierei di essere molto cauto.
+Probabilità che riusciate a vincere gli\nscontri futuri utilizzando gli oggetti\ndi supporto e per il recupero della\nvitalità equipaggiati: 80%.\nSuggerisco tuttavia estrema cautela,\x0E\x01\x12\x04\x00\x02\nessendo il mostro dotato di un potere\nd'attacco e di forza fisica nettamente\nsuperiori.
+Calcolo che avrete più possibilità di\nsuperare quest'area, incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+Registro dei miglioramenti nella\nvostra capacità di comprendere\nle tecniche dell'avversario.\n\nProbabilità che gli scontri si dilunghino\na causa di una scarsa capacità\noffensiva: 75%.
+Efficacia degli attacchi limitata.\nProbabilità che vari oggetti di\noffesa risultino inefficaci: 90%.\n\nCalcolo che avrete bisogno di più\noggetti per il recupero della\nvitalità in vista di battaglie che\npossano dilungarsi troppo.
+Probabilità che gli scontri si dilunghino\na causa di una capacità offensiva e\nun tempismo in attacco limitati: 80%.\n\nConsiglierei di rimuovere\nl'equipaggiamento non\nnecessario in battaglia.
+Calcolo che avrete più possibilità di\nsuperare quest'area incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+Probabilità che gli scontri si dilunghino\na causa di una capacità offensiva e\nun tempismo in attacco limitati: 80%.\n\nPrevedo riduzioni della vitalità, perciò\nsarà indispensabile recuperarla\nquando è il caso.
+Calcolo che otterrete notevoli vantaggi\nutilizzando al meglio gli oggetti\nnella vostra borsa.\n\nTuttavia, è sempre consigliabile\nfare affidamento su oggetti per il\nrecupero della vitalità.\n\nSe la situazione dovesse volgere al\npeggio consiglio di sfruttare anche\ni <b<tulicuori>>, sempre che questi\nsiano reperibili.
+Non tutti gli oggetti che avete con\nvoi al momento sono utili.\nConsiglierei di effettuare\nuna selezione più accurata.
+Calcolo che avrete più possibilità di\nsuperare quest'area incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+Il mostro tenta con ogni mezzo di\nscappare dalla <b<Terra dell'esilio>>\ne dirigersi altrove.\n\nSappiate che subire danni sarà a volte\ninevitabile, considerando lo scarso\ntempo a disposizione.
+Rilevo l'aura di un potente mostro.\nGli oggetti di supporto che portate\nnella vostra borsa non saranno molto\nefficaci.
+Non tutti gli oggetti che avete con\nvoi al momento sono utili.\nConsiglierei di effettuare una\nselezione più accurata.
+Calcolo che avrete più possibilità di\nsuperare quest'area, incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+Il mostro tenta con ogni mezzo di\nscappare dalla <b<Terra dell'esilio>>\ne dirigersi altrove.\n\nSappiate che subire danni sarà a volte\ninevitabile, considerando lo scarso\ntempo a disposizione.
+Rilevo l'aura di un potente mostro.\n\n\n\n\x0E\x01\x12\x04\x00\x02Mio signore, le armi che portate ora\nnon saranno molto efficaci, inclusa la\nvostra spada, indipendentemente dagli\noggetti di supporto nella borsa.
+Calcolo che la maggioranza degli\noggetti nella borsa non sarà efficace\ncontro questo mostro, che col tempo si\ntrasformerà in un essere terrificante.
+Calcolo che avrete più possibilità di\nsuperare quest'area, incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+Il mostro ha un potere spaventoso.\n\n\n\n\x0E\x01\x12\x04\x00\x01Mio signore, al momento non siete in\ngrado di affrontarlo con la spada\nin attacchi diretti.\n\nRaccomanderei di cambiare il vostro\nstile di combattimento.
+Efficacia dell'offensiva limitata.\nProbabilità che il vostro attuale\nequipaggiamento sia completamente\ninefficace: 90%.\nLo scontro potrebbe dilungarsi se non\navrete sufficienti oggetti per il\nrecupero della vitalità.
+Non tutti gli oggetti che avete con\nvoi al momento sono utili.\nConsiglierei di effettuare una\nselezione più accurata.
+Calcolo che avrete più possibilità di\nsuperare quest'area, incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+Probabilità che gli scontri si dilunghino\na causa di una capacità offensiva e\nun tempismo in attacco limitati: 80%.\n\nPrevedo riduzioni della vitalità, perciò\nsarà indispensabile recuperarla\nquando è il caso.
+Gli oggetti che portate al momento\nnella borsa non sono efficaci al 100%.\n\n\n\x0E\x01\x12\x04\x00\x01Mio signore, date le vostre attuali\ncapacità, suggerirei di potenziare il\nvostro equipaggiamento.
+L'equipaggiamento possiede le\ncaratteristiche minime per l'offesa,\nla difesa e il supporto.\n\nTuttavia, il livello raggiunto non\nassicura sufficiente sicurezza in\nbattaglia, quindi raccomanderei\nla massima cautela.
+Calcolo che avrete più possibilità di\nsuperare quest'area, incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+Siete in qualche modo equipaggiato\nper affrontare attacchi potenti.\n\n\nTuttavia, il livello raggiunto non\ngarantisce sufficiente sicurezza,\nquindi consiglierei di attaccare\nappena vi si presenta l'occasione.
+L'avversario è molto intelligente e\nmolto abile. ~~~Probabilità che possiate\nprevalere grazie a oggetti di\nsupporto: 5%.\nRilevo che attacchi standard e il giusto\ntempismo siano la tattica migliore in\nquesta circostanza.
+Nella borsa non avete molti oggetti\nutili per affrontare al meglio questa\nbattaglia.\n\nSecondo i miei calcoli, vi occorrono\noggetti per la difesa e il recupero\ndella vitalità.
+Calcolo che avrete più possibilità di\nsuperare quest'area incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+È molto probabile che subirete molti\ndanni contro nemici che utilizzano\ndiverse tecniche, prima di riuscire a\ncomprenderne appieno le tattiche.\nConsiglierei di studiare le mosse\nnemiche in fretta, recuperando\nintanto la vitalità persa.
+Al momento molti dei vostri oggetti\nsono inefficaci in quest'area. Cercate\ndi non subire troppi danni.
+Efficacia di misure offensive limitata\ncontro questo mostro.\n\n\nConsiglierei di incrementare il numero\ndi pozioni e oggetti per il recupero\ndella vitalità.
+Calcolo che avrete più possibilità di\nsuperare quest'area incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+I miei dati mostrano che il parassita\ndi <b<Narisha >>possiede una scarsa\npotenza di attacco. Probabilità di\ndiminuzione della vostra vitalità: 30%.\nTuttavia, il pericolo aumenta con il\nprolungarsi della battaglia.
+L'avversario è molto intelligente e\nmolto abile. ~~~Probabilità che possiate\nprevalere grazie a oggetti di\nsupporto: 5%.\nRilevo che attacchi standard e il giusto\ntempismo siano la tattica migliore\nin questa circostanza.
+Nella borsa non avete molti oggetti\nutili per affrontare al meglio questa\nbattaglia.\n\nSecondo i miei calcoli, vi occorrono\noggetti per la difesa e il recupero\ndella vitalità.
+Calcolo che avrete più possibilità di\nsuperare quest'area incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+È molto probabile che subirete molti\ndanni contro nemici che utilizzano\ndiverse tecniche, prima di riuscire a\ncomprenderne appieno le tattiche.\nProbabilità che gli scontri si\ndilunghino: 80%.\n\n\nAssicuratevi di avere numerosi oggetti\nper il recupero della vitalità per porre\nrimedio a eventuali ingenti danni.
+L'avversario è molto intelligente e\nmolto abile. Probabilità che gli\noggetti nella borsa siano efficaci:\n10%.\nCalcolo che dovrete spezzare la\nguardia dell'avversario con una tecnica\npiù potente e colpire con attacchi\nstandard per causare danni.
+Anche usando la tattica appropriata,\nvi sono molte probabilità di subire\ndanni mentre tentate di spezzare\nla solida guardia di un avversario.\nRitengo che al momento non possediate\nsufficienti oggetti per recuperare\nla vitalità.
+Calcolo che avrete più possibilità di\nsuperare quest'area incrementando\nil numero di oggetti per il recupero\ndella vitalità nella vostra borsa.
+Vi sono molte probabilità di subire\ndanni mentre tentate di spezzare\nla solida guardia di un avversario.\n\nRitengo indispensabile ripristinare\nla vitalità persa mentre sperimentate\ndiversi metodi per avere successo.
+Posso confermare la presenza di mostri\ndiversi. Probabilità di avere successo\nin battaglia utilizzando armi che non\nsiano la vostra spada: 80%.
+Non vi occorrono ulteriori strumenti di\noffesa e per il recupero della vitalità,\nma, usandoli al meglio, le probabilità\ndi sopravvivere aumenteranno del 50%.
+Vi sono diverse probabilità di ottenere\ndei tesori grazie alla presenza in questa\narea di mostri diversi. Tuttavia,\nrecuperare la vitalità non sarà facile.
+L'attuale equipaggiamento è\nfocalizzato sulla riduzione dei\ndanni e sul recupero della vitalità.\n\nNel caso di combattimenti contro\npiù avversari alla volta, vi suggerirei\ndi ripristinare subito i cuori per\nguadagnare tempo.
+Rilevo la presenza di diversi\nmarchingegni. Avrete maggiori\nprobabilità di superarli con un'ampia\nvarietà di oggetti nella borsa.
+Il vostro equipaggiamento è adatto a\ndiverse circostanze.
+Otterrete alcuni tesori solo da\ndeterminati mostri.\n\n\nVi sono probabilità di ottenerne in\nquesto luogo.
+Non potete usare l'equipaggiamento\nsottoterra. Per bere una pozione\ndovrete tornare in superficie.
+Prevedo la possibilità di utilizzare armi\na lungo raggio.\n\n\nAvrete maggiori probabilità di\nsuperare i marchingegni con\nscorte di munizioni.
+Il vostro equipaggiamento è più\nappropriato di altre combinazioni.\n\n\nTuttavia, la natura del terreno\nostacolerà i vostri progressi,\naspettatevi delle difficoltà.
+In questo luogo incontrerete notevoli\ndifficoltà a procedere. Sconsiglierei\ndi dedicarvi alla ricerca di tesori e\ndi rupie.
+Non posso confermare la presenza\ndi mostri potenti in questo luogo.\n\n\nTuttavia, vi sono alte probabilità che\npossiate cadere nella lava. Il vostro\nattuale equipaggiamento è idoneo a far\nfronte a ingenti perdite di vitalità.
+Gli antichi mostri rianimati dalla sfera\ndel tempo vi attaccheranno all'istante.\n\n\nSe ciò accade mentre trasportate la\nsfera del tempo, posatela e preparatevi\nsubito a combattere.
+Calcolo che le probabilità di procedere\naumenteranno se preferirete un\nequipaggiamento atto al recupero della\nvitalità piuttosto che all'offesa.
+C'è il rischio che antichi mostri si\nrianimino all'interno del raggio\ndi azione della sfera del tempo\ne che vi attacchino.\nConsiglio di avere sufficienti difese e\nrisorse per recuperare la vitalità. 
+Probabilità che antichi mostri\nsi rianimino all'interno del raggio\ndi azione della sfera del tempo\ne che vi attacchino: 95%.\nPrestate attenzione durante i\ncombattimenti.
+Gli antichi mostri rianimati dalla sfera\ndel tempo vi attaccheranno all'istante.\n\n\nSe ciò accade mentre trasportate la\nsfera del tempo, posatela e preparatevi\nsubito a combattere.
+Correrete grandi rischi se vi attaccano\nmentre cercate di manovrare un\nmarchingegno.\n\nConsiglierei di liberarvi dei vostri\navversari prima di continuare.
+C'è il rischio che antichi mostri si\nrianimino all'interno del raggio\ndi azione della sfera del tempo\ne che vi attacchino.\nConsiglierei di avere sufficienti difese\ne risorse per recuperare la vitalità. 
+C'è il rischio che antichi mostri si\nrianimino all'interno del raggio\ndi azione della sfera del tempo\ne che vi attacchino.\nÈ di vitale importanza tenere sotto\ncontrollo il vostro livello di vitalità.
+Nonostante il vostro equipaggiamento\nnon rilevo un incremento delle\nvostre probabilità di successo.\n\nTali probabilità e la vostra sicurezza\naumenteranno se utilizzerete\narmi a lungo raggio.
+Il vostro equipaggiamento è adatto\na diverse circostanze.\n\n\nTuttavia, il grado di idoneità è da\nconsiderarsi di mero supporto e\nnon garantisce di superare i\nmarchingegni con successo.
+Col vostro attuale equipaggiamento\ndovrete agire con prudenza.\n\n\nConsiglierei di sconfiggere i mostri\nvicini prima di affrontare i\nmarchingegni.
+Attuali misure difensive\nsufficienti.\n\n\nTuttavia, dal momento che dovrete\nspostarvi in aria, attraversando\naree assai pericolose, suggerirei\ndi usare estrema cautela.
+Probabilità di utilizzare gli oggetti\ndella borsa in battaglia: 10%.\n\n\nSe la vitalità è ridotta, cercate di\nutilizzare i <b<tulicuori >>che si trovano\nnelle vicinanze.
+Ciò che al momento portate nella\nvostra borsa non è utile, considerate\nle circostanze attuali. Preparatevi\na subire dei danni.
+Calcolo che non avrete molte\nopportunità di trovare rupie o\ntesori in questo luogo.\n\nConsiglierei di adottare misure\nadeguate a prevenire e a compensare\neventuali riduzioni della vitalità.
+Ritengo che il vostro attuale\nequipaggiamento sia in grado di farvi\nrecuperare parte dei danni subiti.\n\nTuttavia, suggerirei di utilizzare\nsapientemente l'<g<attacco scudo>>, data\nla scarsità di tempo a disposizione per\nil recupero quando siete sotto attacco.
+Secondo la mia analisi, l'area è sicura.
+Secondo la mia analisi, l'area è sicura.
+Secondo la mia analisi, l'area è sicura.
+Secondo la mia analisi, l'area è sicura.
+
+Secondo la mia analisi, l'area è sicura.
+Secondo la mia analisi, l'area è sicura.
+Secondo la mia analisi, l'area è sicura.
+Secondo la mia analisi, l'area è sicura.
+Secondo la mia analisi, al\nmomento non sono presenti\nmostri particolarmente forti.\nNon esiste pericolo immediato.
+Questa è la <b<Terra dell'esilio>>.\nAttualmente, non avverto la presenza\ndi mostri potenti.
+Sono desolata. Le informazioni in mio\npossesso non sono sufficienti, è in corso\nun'ulteriore analisi.

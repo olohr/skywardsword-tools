@@ -1,0 +1,125 @@
+Forza, sbrigati, signor Verdino!\nTi seguo, fai strada! Bzzz!
+Argh! Che caldo terribile! Bzzz!\nPer fortuna sono un modello\nmodernissimo, posso sopportarlo!
+Ehi! Dove stiamo andando? Secondo\nme non è questo il posto giusto. Vedi\ndi stare attento a dove vai! Bzzz!
+Ehi! Siamo arrivati? Sbrighiamoci!\nBzzz!
+\x0E\x01\x0B\x04\x00rEhi?! Dove vai?! Bzzz! Se hai cose\nda fare, io ti aspetto qui.\nSbrigati però!
+\x0E\x01\x0B\x04\x00rMi attaccano! Aiuto!\nVieni, svelto! Bzzz!
+\x0E\x01\x0B\x04\x00rEeehiii!!! Bzzz! Sbrigati a fare\nqualcosa!!!
+\x0E\x01\x05\x04<\x00\x0E\x01\x08\x02\x2CDAAAH!
+\x0E\x01\x05\x04Z\x00Mi\x2010bzzz... mi sto\x2010bzz...\nrompendo\x2010bzzz!\nColpa\x2010bzzz tua\x2010bzzz!!!
+Questa volta vedi di fare\nil tuo dovere!!! Bzzz!
+\x0E\x01\x12\x04\x00dEhi! Io non posso seguirti da\nquella parte! Fammi strada\ncamminando! Bzzz!
+\x0E\x01\x0B\x04\x00rEhi, ehi! Non mollarmi qui! Bzzz!
+\x0E\x01\x0B\x04\x00rTi ho perso di vista! Controlla\ndove mi trovo sulla <r<mappa>> con \x0E\x02\x04\x02\x3CD\ne vieni subito a prendermi! Bzzz!
+\x0E\x01\x0B\x04\x00rEhi! EHI! Mooostriii!!! Presto!\nFai qualcosa! Bzzz!
+\x0E\x01\x0B\x04\x00rAAAH! Aiutooo! Sbrigati!!!\nFai qualcosa! Bzzz!
+\x0E\x01\x0B\x04\x00rAAAH! Mo... mostriii!\nChe fifaaa!!! Bzzz!
+\x0E\x01\x0B\x04\x00rEhi! Quanto vuoi farmi aspettare?!\nSe non sai dove mi trovo, controlla\ncon \x0E\x02\x04\x02\x3CD sulla <r<mappa>>! Bzzz!
+\x0E\x01\x0B\x04\x00rSvelto, vieni qui!!! Bzzz! Se non sai\ndove trovarmi, controlla\ncon \x0E\x02\x04\x02\x3CD sulla <r<mappa>>!
+\x0E\x01\x0B\x04\x00rChe stai combinando?! Bzzz! Vieni qui,\nsbrigati! Se non sai dove mi trovo,\ncontrolla sulla <r<mappa >>con \x0E\x02\x04\x02\x3CD!
+\x0E\x01\x0B\x04\x00rMeno male! Bzzz! Non mi piantare\npiù in asso!
+\x0E\x01\x0B\x04\x00rOhi! Che stai facendo?!\nBzzz!
+\x0E\x01\x0B\x04\x00rEhi! Se andiamo avanti così finirà\nche mi romperò! Bzzz!
+\x0E\x01\x12\x04\x00\x0BSignore, il robot ci attende al vulcano:\nandiamoci al più presto.
+\x0E\x01\x12\x04\x00dTi aspettavo! Sbrigati, conducimi in\ncima alla montagna!\nBzzz!
+\x0E\x01\x12\x04\x00dNon ti scordare di me, sai!? Bzzz!\nSe non sai dove mi trovo, controlla\nsulla <r<mappa >>con \x0E\x02\x04\x02\x3CD!\x0E\x01\x11\x02\x3CD
+Vuoi che versi l'acqua lì?\nBene, lascia fare a me! Bzzz!
+Mia adorata Faih! Bzzz! Hai visto\ncome sono stato bravo?
+Se dovessi servirti ancora, non esitare\na chiamarmi! Bzzz!
+\x0E\x01\x12\x04\x00dCosa, cosa? Bzzz?\nStavo per fermarmi, non\nvolevi che portassi qui l'orcio?!\n\n\x0E\x01\x04\x02\nCosa?! In cima al vulcano?!~~~ Potevi\ndirlo prima, bzzz! Che domande!\nMi pare ovvio che non mi diverta a\nscarrozzare questo coso pesante!~~~
+\x0E\x01\x12\x04\x00dQui ci sono un sacco di mostri, bzzz!
+\x0E\x01\x12\x04\x00dB\x2010bzzz! Non ho certo paura dei\nmostri, io! Bzzz! È solo che ora\nsto portando l'orcio d'acqua...
+\x0E\x01\x12\x04\x00dForza, signor Verdino! \nVisto che sei qui, dimostra il tuo\nvalore! Bzzz! Mi farai da scudo,\nio ti seguirò, bzzz!
+\x0E\x01\x12\x04\x00dNon farmi nemmeno sfiorare da\nquei mostri! Bzzz!
+
+\x0E\x01\x09\x04\x15\x1B09Oh, ciao roccia!\nCi incontriamo di nuovo! Stai bene?\n\n\nHo sentito dire che da queste parti ci\nsono degli <y<esaedri della Dea >>e ho fatto\nun salto!\n\nAnche tu ne avrai trovati diversi,\nma ho la sensazione che ce ne\nsiano altri nascosti!\n\n\x0E\x01\x09\x04\x18\x17FFPerché non ti metti a cercarli?
+Anche su questo vulcano sento che\npotrebbero esserci altri <y<esaedri\ndella Dea>>, cercali!
+\x0E\x01\x09\x04\x15\x1B09Ciao roccia! Ci rincontriamo!\nTutto bene?\n\n\n\x0E\x01\x09\x04\x16\xBFFHo sentito dire che da queste parti\nci sono degli <y<esaedri della Dea >>e ho\nfatto un salto!\n\n\x0E\x01\x09\x04\x00\xB00Secondo me, anche qui in fondo\nce ne potrebbe essere uno...\nSolo che per colpa di tutte quelle\nfiamme, non posso proseguire!
+\x0E\x01\x09\x04\x15\x1B09Ehilà! Anche tu sei venuto in cerca\ndegli <y<esaedri della Dea>>? Sei pure\npassato da quella zona torrida!\n\n\x0E\x01\x09\x04ÿ\xFF00Non ho problemi con il caldo,\nma queste fiamme mi bloccano\nil passaggio!
+\x0E\x01\x09\x04\x18\x17FFNon puoi fare qualcosa per queste\nfiamme?
+\x201CDai da bere agli assetati\"?!\nA proposito, c'è un'uscita giusto\ntornando indietro, in fondo a destra.\n\nLì ho trovato una <r<sorgente d'acqua>>!<pling>\nEra ottima!\n\n\n\x0E\x01\x09\x04\x18\x1705Ma si può portare l'acqua fin qui?\nQuella cosa strana che sembra una\nrana non si può mica trasportare...~~~\nChe si fa?
+\x0E\x01\x09\x04\x18\x1700Esci da qui e, in fondo, gira a destra.\nTroverai una <r<sorgente d'acqua>>.\nMa cosa possiamo farci?
+\x0E\x01\x09\x04\x17\x1908OOOH! Si sono spente le fiamme!\nOra si può proseguire!
+\x0E\x01\x09\x04\x16\x1E56Di nuovo... Che noia queste fiamme...
+Mi spiace chiedertelo, roccia...\nMa non potresti occupartene\ndi nuovo tu?
+\x0E\x01\x09\x04\x17\x1908Oooh! Bene!\nProcediamo, procediamo!
+Hai visto anche tu, roccia?!\nHa un'aria oltremodo sospetta!\n\n\n\x0E\x01\x09\x04\x17\x1908Non è il momento di pensare agli\n<y<esaedri della Dea>>! Qui deve esserci\nnascosto <r<qualcosa di molto\nimportante>>!
+\x0E\x01\x09\x04\x16\x1EFFComunque sia... questa volta\nè un bel problema! Non ce la\ncaveremo certo con un'<y<ampolla>>.
+\x0E\x01\x09\x04\x00\x07Mmh...~~~ \x0E\x01\x09\x04\x18\x1700Ci servirebbe qualcosa di\nadatto allo scopo, come per esempio\nun <r<grosso recipiente>>.<pling> Non ce l'hai?\n\n\x0E\x01\x09\x04\x16\x1EFFE poi, deve poter contenere tanta\n<r<acqua>>... Sempre più difficile...
+\x0E\x01\x09\x04\x18\x1707Cosa si può usare per versarci <r<acqua\n>>in abbondanza? Servirebbe un <r<grosso\nrecipiente>>...\n\n\x0E\x01\x09\x04\x16\x1EFFRoccia, ti sei avventurato in tanti\nposti, no? Non ti viene in mente\nniente?!
+\x0E\x01\x09\x04\x18\x1707Un <r<grosso recipiente >>con tanta <r<acqua>>...\nDove possiamo procurarceli?
+\x0E\x01\x09\x04\x17\x1908Sei acuto come una stalattite!\nTrovi sempre una soluzione!\n\n\n\x0E\x01\x09\x04\x08\xBFFCredo di doverti quantomeno cedere\nl'onore di entrare per primo! Prego!
+\x0E\x01\x09\x04\x18\x1702Allora, roccia?! Com'è andata?! Cosa\nc'era dentro?\n[1]Trappole[2]Mostri
+\x0E\x01\x09\x04\x16\x1E56Ah... capisco... significa che lascerò\na te l'esplorazione...\n\n\n\x0E\x01\x09\x04\x08\xBFFPiuttosto... ho la sensazione che\nqui vicino ci sia qualche <y<esaedro\ndella Dea>>.\n\nMi sbaglio molto difficilmente,\nquindi puoi fidarti e provare\na cercare in giro!
+\x0E\x01\x09\x04\x16\x1E56Ah... capisco... significa che lascerò\na te l'esplorazione...\n\n\n\x0E\x01\x09\x04\x08\xBFFCredo che continuerò le mie\nricerche da qualche altra parte!\nA presto, roccia!
+Credo che ora riprenderò la\nmia spedizione di ricerca...\nNon abbatterti mai, roccia!
+\x0E\x01\x09\x04\x11\x801Ma ciao, amico! Anche tu da queste\nparti?! Sempre in cerca della tua\namica?\n\n\x0E\x01\x09\x04\x09\x8FFIo, ovviamente, sono in cerca di\ntesori! Mi hanno detto che ci sono\ndelle splendide rovine...\n\n\x0E\x01\x09\x04\x15\xDFFAncora non ho trovato niente di\ninteressante, tu sai qualcosa?\n[1]Beh...[2]Non te\nlo dico
+\x0E\x01\x09\x04\x11\x900Ne sai qualcosa, allora! Siamo amici\nnoi, vero?! Dai, raccontami tutto!
+\x0E\x01\x09\x04\x14\x120AE daaai! Non fare il prezioso!\nSiamo amici, no?!\nDimmi tutto!
+\x0E\x01\x09\x04\x09\x80ECome? Delle fiamme ti impediscono di\npassare? Perché non ci butti su\ndell'acqua?\n\n\x0E\x01\x09\x04\x15\x800Dici che te ne serve molta? Capisco...\x0E\x01\x04\x02\x14\nQuella che c'è qui non ti basta,\nquindi...\n\n\x0E\x01\x09\x04\x09\x8FFA pensarci bene, pare che la fonte\ndell'acqua di qui, sia la stessa di quella\ndel <r<lago di Floria<pling>>>!\n\n\x0E\x01\x09\x04\x11\x8FFUn mio amico che è andato a caccia di\ntesori nella <b<foresta di Firone>>, mi ha\ndetto che è tornato qui seguendo quella\nvena d'acqua!\n\x0E\x01\x09\x04\x09\x8FFOK, sto divagando. La cosa importante\nè che pare proprio che lì ci sia un lago\nbello grosso! Perché non provi ad\nandarci e vedere di cavarne qualcosa?!
+Che scocciatura però, essere arrivati\nfin qui e non riuscire a entrare!\n\n\n\x0E\x01\x09\x04\x15\xDFF...\x0E\x01\x04\x02\x14 Ho la sensazione di stare\nscordando qualcosa di estremamente\nimportante.\n\nQualcosa che mi aveva detto un mio\namico...\x0E\x01\x04\x02\x14\n\x0E\x01\x09\x04\x00\x04Mmh... cos'era...?\n\n\x0E\x01\x09\x04\x09\x8FFBoh, non importa... \nSe hai bisogno di tanta acqua, ti\nconsiglio di andare al <r<lago di Floria>>!
+\x0E\x01\x09\x04\x0B\xC07Ehi! Ma tu sei quello dell'altra volta!\n\n\n\n\x0E\x01\x09\x04\x0B\x506Oh oh oh! Come ti trovi con quei\nguanti di mia invenzione?!\n\n\nCome? Io come sto? Io...\n\n\n\n\x0E\x01\x09\x04\x0C\x405Da quella volta sono andato in cerca di\nun nuovo posto in cui scovare tesori,\nma con scarsa fortuna! Mi sono stufato\ndi cercare tesori in posti torridi...\n\x0E\x01\x09\x04\x09\x908Sto iniziando a pensare di ritirarmi a\nuna vita più tranquilla e godermi\nla vecchiaia!
+\x0E\x01\x09\x04\x0C\x405Mi piacerebbe un bellissimo posto in\nalto, per godermi al meglio una vita\nin panciolle!\n\n\x0E\x01\x09\x04\x0C\xDFFSai, ho vissuto sempre sottoterra, ma\nadoro ammirare il cielo!\n\n\n\x0E\x01\x09\x04\x09\x906Se potessi rinascere, mi piacerebbe\npoter essere un uccello per poter\nvolare!
+\x0E\x01\x09\x04\x1B\x2201Ehilà! Ciao, amico!\nTutto bene?\n\n\nCome? Io come sto?\nAlla grande!!!\n\n\n\x0E\x01\x09\x04\x00\x02Però sono in pensiero per il <b<capo>>... è\nstrano da quando è andato alle\nrovine...\n\n\x0E\x01\x09\x04\x1B\x230ABoh... In ogni caso, fai un salto\ndal <b<capo>>! Credo sia da queste\nparti!
+\x0E\x01\x09\x04\x1B\x50ACredo che il <b<capo>> sia qui da qualche\nparte! Passa a salutarlo!\nSarà contento di vederti!
+\x0E\x01\x09\x04\x1A\x2001Ehilà! Sei andato a incontrare il capo?\nCome t'è sembrato?\n... ... ...\n\n\x0E\x01\x08\x02\x1CD\x0E\x01\x09\x04\x1A\x2011COSA?!\nVuole andare in pensione?!\n\n\n... \x0E\x01\x09\x04\x00ÿCioè?! Che roba è, un nuovo\ntipo di tesoro?!\n\n\n\x0E\x01\x09\x04\x1B\x1E15Bah, non capisco...\n\n\n\nComunque, se il capo dice così, è\ngiusto accontentarlo!
+\x0E\x01\x09\x04\x1B\x2201Ehilà! Ciao, amico!\nTutto bene?\n\n\nCome? Io come sto?\nAlla grande!!!\n\n\n\x0E\x01\x09\x04\x00\x02Però sono in pensiero per il <b<capo>>... sai,\nè strano da quando è andato alle\nrovine...\n\n\x0E\x01\x09\x04\x1B\x22FFTu gli hai parlato giusto poco fa, no?\nCome t'è sembrato?\n\n\n\x0E\x01\x08\x02\x1CD\x0E\x01\x09\x04\x1A\x2011COSA?!\nVuole andare in pensione?!\n\n\n... \x0E\x01\x09\x04\x00ÿCioè?! Che roba è, un nuovo\ntipo di tesoro?!\n\n\n\x0E\x01\x09\x04\x1B\x1E15Bah, non capisco...\n\n\n\nComunque, se è quello che il capo\nvuole, è sempre giusto dargli ascolto!
+\x0E\x01\x09\x04\x00\x15Vuole ritirarsi...\nSe il capo vuole così, è sempre giusto\ndargli ascolto!
+\x0E\x01\x09\x04\x1C\x180FOoh...\nIl capo s'è involato!\nDov'è andato?\n[1]Cielo[2]Paradiso
+\x0E\x01\x09\x04\x1A\x2011In Cielo?!\n\n\n\n... \x0E\x01\x09\x04\x1B\x407In effetti\x0E\x01\x04\x02\x14... lo diceva sempre\nche amava il cielo!\n\n\nDi sicuro sarà in cerca di tesori\nanche lì!
+\x0E\x01\x09\x04\x1A\x2011In paradiso?!\n\n\n\n... \x0E\x01\x09\x04\x1B\x2207Capisco\x0E\x01\x04\x02\x14...\nQuindi ci ha lasciati così...\nDel resto tutti prima o poi dobbiamo\nfare questo viaggio...
+\x0E\x01\x09\x04\x1A\x30DCapo... ti renderò fiero di me!\n\n\n\nContinua a vegliare su di noi lì\ndal cielo...
+\x0E\x01\x09\x04\x1A\x2011Che cosa?!\nIl capo è... tornato?!\n\n\n\x0E\x01\x09\x04\x1B\x2207Incredibile! Può addirittura andare\na piacimento tra cielo e terra!\nChe forza il capo!
+\x0E\x01\x09\x04\x1B\x2207Andare su e giù tra cielo e terra non\nè mica una cosa da tutti, eh! Forte!
+\x0E\x01\x09\x04\x1A\x200FOh! Sei quello dell'altra volta!?~~~\n\n\n\n\x0E\x01\x09\x04\x1B\x2209... Eh eh eh! Va tutto bene!\n\n\n\nMio fratello ha scoperto della\nfaccenda lì alle rovine...\n\n\n\x0E\x01\x09\x04\x1B\x1EFFAnche mio fratello è stato preso, siamo\nproprio simili!\n\n\n\x0E\x01\x09\x04\x1A\xA12... Piuttosto, dimmi! Hai mica\nincontrato <b<Platio>>?\n[1]Era lì[2]No
+\x0E\x01\x09\x04\x1B\xA12Ah, sì?\nBenissimo!\n\n\nNon lo vedevo da un po'...\n\n\n\n\x0E\x01\x09\x04\x1B\x160FHo temuto fosse andato a tirare le\ncuoia in qualcuna delle sue\nstrampalate avventure!\n\n\x0E\x01\x09\x04\x1B\x16FFQuando si tratta di lui, non si può mai\nstare tranquilli!
+\x0E\x01\x09\x04\x1B\x2207Accidenti a lui...\x0E\x01\x04\x02\x14 Sarà andato di nuovo\nda solo in cerca di tesori! Me lo dice\nsempre lui stesso che lavorare da soli\nè pericoloso!\n\x0E\x01\x09\x04\x1B\x09Non si possono mettere limiti allo\nspirito da <b<cacciatore di tesori>>!\nSe vedi <b<Platio >>in giro, fammelo\nsapere!
+\x0E\x01\x09\x04\x1B\x2215<b<Platio>>... mostra delle doti spiccate solo\nquando si tratta di cercare tesori!
+\x0E\x01\x08\x02\x1CD\x0E\x01\x09\x04\x0E\x1008Oh! Ma ciao!\nTutto bene?!\n\n\n\x0E\x01\x09\x04\x11\x110BLo sapevo! Sei riuscito a recuperare\ntutte le tue cose!\n\n\nE quindi...\x0E\x01\x04\x02\x14 com'è andata?\nHai trovato tesori?\n[1]Tantissimi![2]Nessuno!
+\x0E\x01\x09\x04\x0E\x505Davvero? Che invidiaaa!\n\n\n\n\x0E\x01\x09\x04\x0E\x1F0AMa il mondo è grande!\nDi certo ce ne sono ancora\nnascosti qua e là...\n\nQuindi, non perderò tempo\ne m'impegnerò ancora di più!\nLa prossima volta non mi\nfarò fregare da te!
+\x0E\x01\x09\x04\x0E\x40ACome? Niente di entusiasmante,\nquindi... che peccato!\n\n\n\x0E\x01\x09\x04\x0F\x508Ma non ti abbattere!\nIl mondo è grande e di certo\nci sono tesori nascosti qua e là!
+\x0E\x01\x09\x04\x0D\x509OK! E ora dove posso\nandare in cerca di tesori...?
+\x0E\x01\x09\x04\x00\x01Ciao!\nSei venuto a prendere fiato qui, eh?\nI mostri sono una scocciatura...\n\n\x0E\x01\x09\x04\x11\x900Soprattutto quelli lì <r<con lo scudo\nenorme >>sembrano parecchio forti!\n\n\n\x0E\x01\x09\x04\x15\x80BVisto che siamo amici, ti svelerò un\n<r<segreto >>per batterli senza problemi!
+\x0E\x01\x09\x04ÿ\xFF09Ov\x2010\x0E\x01\x04\x02\nvia\x2010\x0E\x01\x04\x02\nmen\x2010\x0E\x01\x04\x02\nte\x0E\x01\x04\x02\n non te lo dirò certo\ngratis! Ti chiedo <r<30 rupie>>,\nche ne dici?[1]OK![2-]No
+\x0E\x01\x09\x04\x14\x1215Ma dai... che vuoi che siano <r<30 rupie>>!\n\n\n\n\x0E\x01\x09\x04ÿ\xFF00Vabbè, se per caso cambiassi idea,\ntorna da me!
+\x0E\x01\x09\x04\x14\x1215Ahi, ahi, mi sa che non bastano queste\nrupie, non ti dirò niente.\n\n\n\x0E\x01\x09\x04ÿ\xFF00Torna da me quando avrai messo\nda parte <r<30 rupie>>!
+\x0E\x01\x09\x04\x11\x809Affare fatto!\nBene, ora ti dico tutto, ma ricordati\nche è un segreto!\n\n\x0E\x01\x09\x04ÿ\xFF00Vedi...\x0E\x01\x04\x02\x14 puoi spaccare il loro scudo!\nAllora? Non è una notizia utilissima?!\n\n\nAlcuni di loro però, hanno degli scudi\nrinforzati col metallo e quelli non puoi\ntagliarli![1]Bene![2]Tutto qui?
+\x0E\x01\x09\x04\x15\x90BEh eh eh! Ma non è finita qui!\nHo altre informazioni utili!\nSei curioso, vero?\n\n\x0E\x01\x09\x04ÿ\xFF00Bene...\x0E\x01\x04\x02\x14\n<r<30 rupie >>e ti dico tutto![1]OK![2-]No
+Ehi, cos'è quella faccia?\nCome se sapessi già\ntutto...\n\n\x0E\x01\x09\x04\x15\x809Quello che ti ho detto prima\nera nulla a confronto di quanto ti\ndirei ora! Su, <r<30 rupie>>![1]OK![2-]No
+\x0E\x01\x09\x04\x11\x808Oooh... bravo!\nTi interessa, allora!\nAscolta bene!\n\n\x0E\x01\x09\x04ÿ\xFF00Quando ti attaccano con le lance\nlunghe, c'è poco da fare...\n\n\nMa se tu riesci a <r<respingere l'attacco\ncon lo scudo>>...~~~ \x0E\x01\x09\x04\x11\x800beh... il gioco è fatto!\nChiaro?~~~\n[1]Non lo\nsapevo![2]Lo sapevo!
+\x0E\x01\x09\x04\x11\x80BVisto?! Non sai che fatica\nriuscire a ottenere queste\ninestimabili informazioni!\n\n\x0E\x01\x09\x04ÿ\xFF00Ma non è tutto, potrei dirti dell'altro...\x0E\x01\x04\x02\x14\nPerò questa volta ti costerà <r<50 rupie>>![1]OK![2-]No
+\x0E\x01\x09\x04\x12\xE04Cosa?! Non ci credo! Non puoi esserti\naccorto di una cosa simile...\n\n\n\x0E\x01\x09\x04ÿ\xFF00Comunque sia, la prossima è\nun'informazione ancora più utile!\nSolo <r<50 rupie>>![1]Dimmela![2-]No
+\x0E\x01\x09\x04\x11\x80BBene, anzi, benissimo!\nMi piace il tuo spirito!\nNon ti tiri indietro...\n\n\x0E\x01\x09\x04\x14\x1200Vedi di non farti fregare\ndagli altri, ora...
+\x0E\x01\x09\x04ÿ\xFF00Dunque, questa è l'ultima.\nHai presente quei tipi grossi\ncon gli scudi che sembrano muri?!\n\n\x0E\x01\x09\x04\x11\x800Affrontali con la stessa determinazione\nche useresti nei confronti di un muro!\n\n\n\x0E\x01\x09\x04ÿ\xFF09Eh eh eh! Ti lascio il brivido\ndi scoprire cosa succede!\nProva, mi raccomando!\n\n\x0E\x01\x09\x04\x11\x800Datti da fare! Vai a dar loro una\nlezione! E grazie!
+Sei di nuovo tu! Quei tipi <r<con lo scudo\nenorme >>ti danno filo da torcere?\n\n\n\x0E\x01\x09\x04\x15\x80BSe vuoi ho delle <r<informazioni segrete \n>>che ti aiuteranno a vincere!
+\x0E\x01\x09\x04ÿ\xFF09Ov\x2010\x0E\x01\x04\x02\nvia\x2010\x0E\x01\x04\x02\nmen\x2010\x0E\x01\x04\x02\nte\x0E\x01\x04\x02\n non dirò niente gratis!\nTi chiedo <r<30 rupie>>, che ne dici?[1]OK![2-]No
+Ciao! Quei tipi <r<con lo scudo enorme\n>>ti danno filo da torcere?\n\n\n\x0E\x01\x09\x04\x15\x80BSe vuoi, posso svelarti delle\n<r<informazioni ancora più\nsegrete>> grazie alle quali\npotrai sicuramente vincere!
+\x0E\x01\x09\x04ÿ\xFF09Ov\x2010\x0E\x01\x04\x02\nvia\x2010\x0E\x01\x04\x02\nmen\x2010\x0E\x01\x04\x02\nte\x0E\x01\x04\x02\n non dirò niente gratis!\nTi chiedo <r<30 rupie>>, che ne dici?[1]OK![2-]No
+Ehilà! Ciao!\nQuei tipi <r<con lo scudo enorme\n>>continuano a darti problemi?\n\n\x0E\x01\x09\x04\x15\x80BSe vuoi, posso svelarti l'<r<ultima\ninformazione segreta >>per\nmetterli al tappeto!
+\x0E\x01\x09\x04ÿ\xFF09Ov\x2010\x0E\x01\x04\x02\nvia\x2010\x0E\x01\x04\x02\nmen\x2010\x0E\x01\x04\x02\nte\x0E\x01\x04\x02\n il prezzo sale...\nChe ne pensi di <r<50 rupie>>?[1]OK![2-]No
+\x0E\x01\x09\x04\x11\x801Ehi, sei riuscito a far fuori quei tipi\n<r<con lo scudo enorme>>?\n\n\n\x0E\x01\x09\x04ÿ\xFF00Taglia lo scudo se è di legno, respingi le\nlance con il tuo scudo e pensa agli altri\ncome se fossero un muro.\n\nSe tieni a mente queste semplici\nregole, sconfiggerai tutti!
+\x0E\x01\x09\x04\x14\x1215Vuoi dirmi che non vuoi investire\nqueste <r<50 rupie>>?!\nChe tirchio!\n\n\x0E\x01\x09\x04ÿ\xFF00Beh, se cambi idea torna pure da me!
+\x0E\x01\x09\x04\x14\x1215Ehi, guarda che non ti bastano le\nrupie! Non ti dirò niente senza\nuna giusta ricompensa.\n\n\x0E\x01\x09\x04ÿ\xFF00Metti da parte <r<50 rupie>> e poi torna qui!
+Dai da bere agli assetati e la via\nsi aprirà.
+\x0E\x01\x12\x04\x00\x0BSignore, Faih a rapporto.\nGrazie alla nuova forza della\nvostra spada, è possibile registrare gli\n<y<esaedri della Dea >>nel <r<rilevatore>>!\nHo aggiunto l'<y<esaedro della Dea>>\nalle frequenze del <r<rilevatore>>.\n<pling>Fatene buon uso.
+Confermo che le fiamme sono state\nestinte. Vi suggerisco di proseguire.
+\x0E\x01\x05\x04K\x00\x0E\x01\x12\x04\x00\x0BSignore, Faih a rapporto.\nSiamo nelle vicinanze del cratere del\n<b<vulcano di Oldin>>, in cima alla\nmontagna.
+\x0E\x01\x05\x04Z\x00In questa zona vi è una <r<temperatura\nestremamente elevata>>, ma grazie ai\n<y<termorecchini>> potete resistere.
+\x0E\x01\x05\x04Z\x00Probabilità che l'ultima <r<fiamma sacra\n>>si trovi in questa zona: 90%.
+Confermo il guasto del robot.\nSuggerisco di tornare indietro\ne ripararlo.
+\x0E\x01\x12\x04\x00\x0BLink, mio signore, Faih\na rapporto. Consiglierei di dirigerci\nverso il <r<lago di Floria>>, come suggerito\ndal <b<Mogma>>.\nPer quanto concerne il problema di\ncome trasportare l'acqua dal lago...~~~\n<pling>Suggerirei di consultarvi con il <r<drago\nd'acqua>>.\nConfermo che sarebbe possibile\ntrasportare una grande quantità\nd'acqua utilizzando l'<r<orcio>> in cui il\ndrago risiedeva per curarsi.
+
+
+
+
+
+
+Basandomi sulle informazioni raccolte\nin passato, posso impostare il\n<r<rilevatore >>su quell'oggetto. Procedo?\n[1]OK![2-]Non ora
+Link, \x0E\x01\x12\x04\x00\x0Bmio signore, Faih a\nrapporto. Ancora non potete\nproseguire a causa delle fiamme.\n<b<\n>>Desiderate che imposti il <g<rilevatore>>\nsul recipiente in cui si trovava il\n<b<drago d'acqua>>?\n[1]OK![2-]No
+\x0E\x01\x12\x04\x00\x05Bene signore, ho impostato il <g<rilevatore\n>>sul recipiente in cui si trovava\nil <b<drago d'acqua>>.<pling>
+\x0E\x01\x12\x04\x00\x05Bene signore, procederò in un altro\nmomento.
+Siamo arrivati al vulcano di Oldin.\n\n\n\nÈ possibile impostare il <r<rilevatore\n>>sul portale della prova necessaria\nper ottenere la fiamma sacra.
+Ben tornato, \x0E\x01\x12\x04\x00\x04mio signore\nLink.\n\n\nGrazie al potere dei <y<termorecchini\n>>ora siete in grado di oltrepassare zone\nincandescenti. Suggerisco, quindi, di\ncontinuare a cercare la <r<fiamma sacra>>.
+\x0E\x01\x12\x04\x00\x0BSignore Link, Faih\na rapporto. Non rilevo presenza\nd'<r<acqua >>in questo luogo.\n\nPer attivare quel meccanismo è\nnecessario un grosso recipiente, ma\nsuggerirei comunque di focalizzare\nl'attenzione sulla <pling>ricerca dell'<r<acqua>>.
+\x0E\x01\x12\x04\x00\x0BSignore Link, Faih\na rapporto. Il robot è in attesa ai piedi\ndel vulcano.\n\nPer prima cosa, suggerirei di\nripercorrere il vulcano e guidare il\nrobot fino a qui.
+Cima del vulcano

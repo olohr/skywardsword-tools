@@ -1,0 +1,20 @@
+Gran caverna\nancestral
+La puerta solo se abrirá ante\nquien golpee las <r<cuatro piedras\nluminiscentes >>según el orden del\n<r<ciclo de la vida >>de esta tierra.
+El símbolo de la gratitud que\nadorna al <r<gigante de piedra\n>>muestra el <r<ciclo de la vida >>que\ndomina esta tierra.\nLa <r<espalda>> primero, después el\n<r<trasero>>, luego el <r<dorso de la\nmano derecha>>, le sigue <r<el de la\nizquierda >>y... ¡cosa hecha!
+Cuando la estatua de piedra\nrecupere su antiguo esplendor,\ndesciende por la cuerda a las\nprofundidades una vez más.\nObtendrás así la llave\nque abre el camino.
+Busca la <y<llave >>que\ndescansa bajo tierra.
+Si golpeas la piedra que el ojo\noculta, se cerrará la boca y\ndetendrás el flujo.
+
+
+
+El análisis de la información de que\ndispongo sugiere que la <y<llave >>de la que\nse habla en la litografía es la que activa\nel mecanismo que hay más adelante.
+
+\x0E\x01\x12\x04\x00\x0BAmo, tengo información nueva.\nDetecto un gran cofre del tesoro\nen los alrededores.\n\nExiste un 85% de probabilidades\nde que contenga la <y<llave >>necesaria\npara abrir aquella gran puerta que\nhay en lo alto de la estatua central.
+\x0E\x01\x12\x04\x00\x01Amo, confirmo que en la parte superior\nhay una puerta con cerradura.
+
+
+
+
+Ya veo que no te rindes fácilmente.~~.~~.
+Yo también ando bastante ocupado,\n¿sabes? Tengo que hallar el modo de\nresucitar al señor del mal. No me queda\nmucho tiempo.~~.~~.
+¡Y empiezo a estar harto de que estés\nsiempre entrometiéndote, mocoso!

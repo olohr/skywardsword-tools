@@ -1,0 +1,52 @@
+Ich komme, sobald sich mein Vogel ein\nwenig ausgeruht hat, Link.\n\n\n\x0E\x01\x09\x04\x00\x500Frag doch mal die anderen, ob sie nicht\netwas über deinen Wolkenvogel wissen.
+Da bist du ja, Link...\n\n\n\n\x0E\x01\n\x04\x17ÍIch habe gehört, dass du auf dem Weg\nzum Wasserfall bist und dich von der\nLuft aus gesucht.\n\nUnd? Hast du deinen Wolkenvogel\ngefunden?
+\x0E\x01\x09\x04\x100\x514Hm...\n\n\n\n\x0E\x01\x09\x04\x100\xC00Bado und seine Kumpels sollen sich oft\ndort hinten herumtreiben. Gehen wir!
+
+
+
+Oh... Tut mir leid... Ich war kurz\nabgelenkt... Gehen wir!
+\x0E\x01\x06\x02\xFCCD...?\x0E\x01\x06\x02Í
+\x0E\x01\x09\x04\x100\x1500Wer...?\n\n\n\n\x0E\x01\x09\x04\x100\x1500Wer ruft da?
+Da ist er ja!
+\x0E\x01\x09\x04\x09\x500\x0E\x01\x08\x02\x1CDDein Wolkenvogel!
+
+\x0E\x01\x09\x04\x00\x06Worauf wartest du, Link?\nSchnell!
+\x0E\x01\x09\x04\x0F\x513Wie schrecklich...\n\n\n\nLink!\nKannst du diese Bretter vor der Höhle\nnicht irgendwie entfernen?
+
+
+
+\x0E\x01\x09\x04\x00\x04Dann versuchen wir es noch einmal!\nDiesmal schubse ich dich nicht, also\nnimm all deinen Mut zusammen und\nspring!\n<g<Sprinte>> über die Plattform, um\nabzuspringen.\n\n\nVergiss nicht, vor der Landung (B) zu\ndrücken, um den Paraschal zu öffnen!\x0E\x01\x11\x02\x1CD\nUnd versuche, genau in der <r<Mitte\ndes runden Reliefs >>zu landen! 
+\x0E\x01\x09\x04\x00\x1514Das ging wohl daneben...\n\n\n\n\x0E\x01\x09\x04\x00\xC00<g<Neige>> im <r<Flug>> die Wii-Fernbedienung,\num deinen Fall auszubalancieren und\ndie Richtung zu bestimmen.\n\nVersuchen wir es noch einmal! Diesmal\nschubse ich dich nicht, also nimm all\ndeinen Mut zusammen und spring!\n\n<g<Sprinte>> über die Plattform, um\nabzuspringen. Und vergiss nicht, vor\nder Landung (B) zu drücken!\x0E\x01\x11\x02\x1CD\n\nVersuche, genau in der <r<Mitte des\nrunden Reliefs >>zu landen! 
+\x0E\x01\x09\x04\x0C\xE09Dein Wolkenvogel ist einfach\nunglaublich, und das nach all dem, was\ner heute schon durchmachen musste!\n\n\x0E\x01\x09\x04\x00\xC00Ich werde nun meinem Vater berichten.
+\x0E\x01\x09\x04\x400\x04Hey! Link!
+\x0E\x01\x09\x04\x400\x00Ach, du hast dein Federvieh gefunden?\n\n\n\n\x0E\x01\n\x04\x0BÍWir haben hier seit dem Morgen geübt.\nWarum kriegt ein Nichtskönner wie du\neigentlich immer eine Extrawurst, hä?
+Und jetzt tauchst du hier auch noch mit\nZelda auf...\n\n\nAllein traust du dich wohl nicht, was?\n\n\n\n\x201EUuuh, Zeldalein und ich sind schon\nseit unserer Kindheit gute Freunde...\x201C\n\n\n\x0E\x01\x06\x02\xFCCD...\x0E\x01\x06\x02Í\x0E\x01\x09\x04\x400\x17Da bildest du dir mächtig was drauf\nein, stimmt's?\x0E\x01\x04\x02< \x0E\x01\x09\x04\x40B\xAFFSo ist es doch, oder?
+\x0E\x01\x09\x04\x500\x0EBado redet die ganze Zeit davon, dass\ner Zelda heiraten wird und sie dann für\nimmer zusammen sind...
+\x0E\x01\x09\x04\x600\x14Hihihi...
+\x0E\x01\x09\x04\x40D\xB00Ha!\n\n\n\n\x0E\x01\x09\x04\x400\xB00Der Sieger der Zeremonie, und das\nwerde natürlich ich sein, erhält von der\nVertreterin der Göttin, also Zelda, den\n<y<Paraschal>>!\nUnd niemals werde ich zulassen, dass\njemand anderes mir dieses Geschenk\nwegschnappt. Es ist von ihr selbst\ngemacht!!!
+\x0E\x01\x09\x04\x404\x1700Den Paraschal, den sie selbst\ngetragen hat... in meiner Hand...\ner riecht bestimmt toll... Hach...\n\nUnd dann noch die Zeremonie für den\nSieger auf der Statue der Göttin...\n\n\nNur wir beide...\nUngestört...\nZelda und ich, ganz allein da oben...
+He... Hehehe...\n\n\n\nTihihihi...
+Bado! Bado!\n\x0E\x01\x04\x02\x1EHinter dir!\x0E\x01\x04\x02\x1E Hinter dir!!!
+\x0E\x01\x09\x04\x400\x00\x0E\x01\n\x04\x0BÍWas ist denn?!? Stört mich nicht!
+\x0E\x01\x09\x04\x419\x1715Argh!
+Wir beide, wie? \x201EGanz allein\x201C, ja?
+\x0E\x01\x09\x04\x4FF\xFF0DÖh... Äh... Ja...\n\n\n\n\x0E\x01\x09\x04\x400\x00Ja, also, Link!\nGut, dass du deinen Vogel gefunden\nhast! Das wird ein guter, ehrlicher\nWettkampf!
+\x0E\x01\x09\x04\x400\x00Bis dann, Zelda!\nUnd bei der Zeremonie immer schön\nauf mich schauen, ja? Ich bin der,\nder fliegen kann...
+\x0E\x01\x09\x04\x505\x13\x0E\x01\x09\x04\x607\x00Hey, Bado!\nWarte auf uns!\x0E\x01\x05\x04\x14\x00
+\x0E\x01\x09\x04\x09\x1014\x201EEin guter, ehrlicher Wettkampf\x201C?\nDa hätte ich einiges dazu zu sagen!\n\n\n\x0E\x01\x09\x04\x00\xFF00Link, kümmer dich nicht\ndarum, was sie sagen. Gib heute dein\nBestes, ich glaube an dich!\nVersprichst du mir, zu gewinnen?\n[1]Klar![2]Öhm...[3]Nur wir zwei?
+\x0E\x01\x09\x04\x0C\xE00Genau!\nMit dieser Einstellung kannst du nur\ngewinnen, Link!
+\x0E\x01\x09\x04\x0C\x1500Streng dich an, dann wird das schon.\nHab ein wenig Selbstvertrauen!
+\x0E\x01\x09\x04\x10\xE04Bitte?!? Das hätte ich nicht von dir\ngedacht, Link!
+Die Vogelreiter-Zeremonie beginnt!\nDie auserwählten Schüler bitte zum\nStart!
+Also dann, Link!\nBis gleich!
+
+Nach der ganzen Aufregung sollten\nwir noch einmal alles durchgehen.\nFühlst du dich bereit zu fliegen,\nLink?
+Du bestimmst die Richtung, in die dein\nWolkenvogel fliegt, indem du die\nWii-Fernbedienung <g<nach links und\nrechts neigst>>.\nFalls du <r<schneller fliegen >>möchtest...\n\n\n\n<g<Bewege>> die Wii-Fernbedienung \n<g<ruckartig nach oben und unten>>, \num an <r<Höhe >>zu gewinnen, und \n<g<neige sie dann nach unten>>!\nImmer wieder ruckartig nach oben\nund unten bewegen, dann nach unten\nneigen. Das ist der ganze Trick!
+Und? Ist mit deinem Wolkenvogel alles\nin Ordnung?
+Wenn du auf deinem Wolkenvogel\nreitest, drücke jederzeit (2), um dir die\n<r<Steuerung>> anzeigen zu lassen.\x0E\x01\x11\x02\x5CD\n\nAußerdem kannst du (A) drücken, um\n<r<kurz zu beschleunigen>> oder\n<g<anzugreifen>>. Drücke (B), um <r<langsamer\nzu werden>>.\x0E\x01\x11\x02\x1CD
+Link!\nFalls du <r<schneller fliegen >>möchtest...\n\n\n<g<Bewege>> die Wii-Fernbedienung \n<g<ruckartig nach oben und unten>>, \num an <r<Höhe >>zu gewinnen, und \n<g<neige sie dann nach unten>>!\nImmer wieder ruckartig nach oben\nund unten bewegen, dann nach unten\nneigen. Das ist der ganze Trick!
+Link, ich hatte schon das\nSchlimmste befürchtet, aber dein\nWolkenvogel scheint in Ordnung zu\nsein!\nVater und die anderen warten sicher\nschon, beeilen wir uns!
+\x0E\x01\x0D\x02\x1906\x0E\x01\x08\x02\x1CDLink!!!
+Zeldas Tagebuch...\nMöchtest du es lesen?\n[1]Ja[2-]Nein
+Du liest das Tagebuch nicht.
+Morgen ist die <r<Vogelreiter-Zeremonie>>!\nEin weiterer Schritt auf dem Weg zum\nRitter für Link.\n\nIch kann es nicht erwarten, ihn endlich\nals Ritter zu sehen.\n\n\nAber in letzter Zeit hat er gar nicht\nmehr geübt...\n\n\nIch werde morgen sehr früh aufstehen\nund ihn zum Üben zwingen!\n\n\nEr muss unbedingt gewinnen, ich will\ndie Siegeszeremonie nur mit ihm\nfeiern!

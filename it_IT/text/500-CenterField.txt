@@ -1,0 +1,129 @@
+Terra dell'esilio
+\x0E\x01\x09\x04B\x4300Che ne dici della potenza\ndella mia catapulta?\nNon la trovi micidiale?\n\n\x0E\x01\x09\x04>\x4000Ci vuole un po\x2019 per caricarla ogni volta,\nma quando è pronta a fare\nfuoco te lo faccio sapere.
+\x0E\x01\x09\x04C\x4500Mancato! Se non colpiamo il bersaglio,\nche senso ha...?!\n\n\n\x0E\x01\x09\x04A\x4000Un attimo di pazienza che la carico... \nNel frattempo, cerca di combattere\ncome puoi! Appena è pronta ti darò\nil segnale!
+\x0E\x01\x09\x04D\x4300Bersaglio centrato! Certo si potrebbe\nfare di meglio...\n\n\n\x0E\x01\x09\x04\x00\x4000Un attimo di pazienza che la carico... \nNel frattempo, cerca di combattere\ncome puoi! Appena è pronta ti darò\nil segnale!
+\x0E\x01\x09\x04 \x403CBene, ora sei sul <b<macchinario>>! Cerca di\nmirare e colpire il pilastro che ha sulla\ntesta!
+Bene questa volta tocca a te! Ti aiuterò,\nma non ho idea di come possa andare\na finire, sia chiaro!
+
+\x0E\x01\x09\x04\x00\x0FIl sigillo è in frantumi!\n\n\n\nDopo ti spiegherò tutto!\n\n\n\nPer il momento impediamogli di\nuscire da lì!\n\n\nNon dobbiamo assolutamente farlo\navvicinare al santuario!
+Mio signore, Faih a rapporto.
+Sembra che la porta sia stata aperta di\nrecente, ma ora vi è sigillata una\nmisteriosa e potente forza.
+Quella creatura potrebbe avere delle\ninformazioni sul mostro che ci ha\nattaccato. Consiglierei di intervenire.
+\x0E\x01\x05\x042\x00\x0E\x01\x12\x04\x00\x04Mio signore Link.
+\x0E\x01\x05\x04K\x00Ecco la <b<Terra >>di cui si parla nelle\nantiche leggende di Oltrenuvola.
+\x0E\x01\x05\x04K\x00E questo...\nè il luogo denominato <b<Terra dell'esilio>>.
+\x0E\x01\x05\x04K\x00Ora, \x0E\x01\x12\x04\x00\x0Bmio signore, procedete pure e\nsiate prudente!
+
+\x0E\x01\x12\x04\x00\x01Mio signore... Permettetemi di\ninsegnarvi come usare il <b<manto\nmagico>>. È assolutamente\nindispensabile per gli atterraggi.\n\x0E\x01\x12\x04\x00\x02Al prossimo atterraggio, mio signore,\nprovate a premere (B) per aprirlo!\x0E\x01\x11\x02\x1CD\n
+\x0E\x01\x06\x02\xFDCDTu...\n\n\n\n\x0E\x01\x06\x02\xFDCDFiglio del fato, disceso dal cielo...
+\x0E\x01\x06\x02\xFDCDInnalza la spada della Dea verso\nil cielo... ~~~\x0E\x01\x06\x02\xFDCDrivolgila verso l'aura\nmalvagia, così che il potere\ndella lama possa colpirla.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\n\n\n\nMentre <g<inquadrate >>qualcosa premendo\n(Z), sarò lieta di darvi ogni\ninformazione disponibile sul\nvostro bersaglio.\x0E\x01\x11\x02\x7CD\nPremete (Z) <r<per inquadrare \x0E\x00\x03\x02\x18il bersaglio\ne poi <r<>>(v) per chiamarmi.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+Quindi, Link...\n\n\n\nSe devo credere a quello che dici, la\nvegliarda del <r<santuario>> in fondo alla\nstrada saprebbe tutto degli spostamenti\ndi <b<Zelda>>?!
+Ma che bella notizia!\n\n\n\nGrazie davvero, Link!\nOra puoi anche togliere il disturbo!\n\n\n\x0E\x01\x09\x04\x0D\xB41Ora a cercare <b<Zelda >>ci pensa\nil magnifico <b<Bado>>!
+Penserò io ad aiutare <b<Zelda >>e poi \ntorneremo a casa insieme...\x0E\x01\x04\x02\x1E
+\x0E\x01\x09\x04\x00\x0CDurante il viaggio la convincerò a\nsposarmi e vivremo felici per\nl'eternità.
+\x0E\x01\x09\x04\x00\x0DDunque, non c'è più nessun bisogno che\ntu ti occupi di questa storia!
+Bene, allora... vado subito a cercare\nla vegliarda.
+\x0E\x01\x08\x02\x1CDMi raccomando a te!\x0E\x01\x04\x02-\n\x0E\x01\x08\x02\xFFCDLink!!!
+\x0E\x01\x09\x04\x08\x170FLink! Vai subito a\ncontrollare il <r<pilastro del sigillo>>!\n\n\n\x0E\x01\x09\x04\x14\xB00Non è normale che la terra tremi in\nquesto modo! Prima o poi l'essere\noscuro si risveglierà! Avvicinati\ncon cautela!
+\x0E\x01\x09\x04\xE00\x10Link! Che stai facendo?!\nPresto, vai a controllare il <r<pilastro del\nsigillo>>!
+\x0E\x01\x09\x04\xE00\x1653Prima o poi l'essere oscuro si\nrisveglierà! Avvicinati con cautela!
+\x0E\x01\x09\x04\x10\x180FLink! Devi al più presto\nsigillare quel mostro! Il suo potere è\naumentato rispetto all'ultima volta!\nFa' attenzione!\n
+\x0E\x01\x09\x04\x10\x180DSai già come sigillare il mostro, no?\n\n\n\nRaggiungi il pilastro e colpiscilo con il\n<r<potere celeste>>!\x0E\x01\x04\x02\x1E Solo tu puoi farlo.
+\x0E\x01\x09\x04\x10\x180FLink! Devi al più presto\nsigillare quel mostro!\n\n\nIl suo potere sta aumentando\nsempre di più!\nFa' attenzione!
+\x0E\x01\x09\x04\x10\x180DDev'essere una creatura estremamente\npotente se è riuscita a infrangere il\nsigillo ancora una volta!\n\nSai già come ripristinarlo, vero?\nSolo tu puoi farcela!
+\x0E\x01\x09\x04\x00\x15Eh?! Che succede? La terra trema...?\n\n\n\nLa terra sta tremando... incredibile!
+\x0E\x01\x09\x04\x4000Eh?! Che succede? La terra trema...?
+\x0E\x01\x09\x04\x4001La terra sta tremando... si salvi\nchi può!
+\x0E\x01\x09\x04\x001Ahhh!!!
+\x0E\x01\x09\x04\x000Dunque, dunque... devi fare come ha\ndetto la vecchietta...\n\n\nColpisci il pilastro con il potere della\ntua spada!
+\x0E\x01\x09\x04\x10\x160DOra, Link!\x0E\x01\x04\x02\x1E\n\n\n\nColpisci il pilastro con il <r<potere celeste>>!\n\n\n\n\x0E\x01\x09\x04\x11\x1700Sbrigati!
+
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\nIl <r<pilastro del sigillo >>è conficcato\nnella fronte dell'essere oscuro.\n\nNon potete fuggire fino a quando non\navrete neutralizzato l'essere oscuro.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\n\x0E\x01\x12\x04\x00\x02Dovete immediatamente neutralizzare\nl'essere oscuro. Non potete ancora\nlasciare questo luogo.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\nL'essere oscuro si è risvegliato di\nnuovo. Non potete ancora lasciare\nquesto luogo.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\nDovete ripristinare il sigillo prima di\npoter lasciare questo luogo.
+\x0E\x01\x12\x04\x00\x01Il vostro compito è di sigillare quella\ncreatura per sempre. Non potrete\nlasciare questo luogo fino a quando non\nlo avrete fatto.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\n\x0E\x01\x12\x04\x00\x02Dovete immediatamente neutralizzare\ndi nuovo l'essere oscuro. Non potete\nlasciare questo luogo!
+\x0E\x01\x09\x04\x00=\x0E\x01\x08\x02\x1CDOhhh!!\n\n\n\n\x0E\x01\x09\x04\x00\x3A00\x0E\x01\x08\x02\x1CD\x0E\x01\x08\x02\x1CDNon ci sono riuscito!\n\n\n\n\x0E\x01\x09\x04\x00\x4000\x0E\x01\x08\x02\x1CD\x0E\x01\x08\x02\x2CDNon sono riuscito a fare\nniente!
+\x0E\x01\x09\x04\x00-Uh... \x0E\x01\x04\x02\x1Euha...!\x0E\x01\x04\x02\x1E\nAllora, sono proprio un\x0E\x01\x04\x02\x1E.\x0E\x01\x04\x02\x1E.\x0E\x01\x04\x02\x1E. buono\na nulla...
+\x0E\x01\x09\x04\x00\x02Eh... Link?\nCi ho pensato bene...\n\n\nCome dice la vegliarda, anche io\neccello in alcune cose, sebbene non\nsia in grado di combattere come fai tu.\n\n\x0E\x01\x09\x04@\x4200Adesso so come posso aiutare Zelda.\nAspetta e vedrai!
+\x0E\x01\x09\x04\x04\x202Ti farò vedere Link...\x0E\x01\x04\x02\x1E\n... che anch'io, a mio modo, riuscirò\nad aiutare Zelda.
+\x0E\x01\x09\x04\x1800\xB52Lasciatemi in pace!\nAndate via, maledetti!
+\x0E\x01\x09\x04\x00\xB52Ohh!
+\x0E\x01\x09\x04\x00\x08Grazie dell'aiuto!
+\x0E\x01\x09\x04\x08\xB0ACosa sono quelle cose rosse come lava?\nNon pensavo che in questa foresta si\naggirassero esseri simili...\n\n\x0E\x01\x09\x04\x16\x1E00Sai, oggi è la seconda volta che vedo\nuno della tua specie! Quante cose\nstrane accadono ultimamente...\n\n\x0E\x01\x09\x04\x00\xB00Per ringraziarti di avermi aiutato\nti darò qualche informazione...
+\x0E\x01\x09\x04\x08\xB01Mi chiamo <b<Pigoron >>e mi trovo in questa\nforesta per condurre ricerche sulla\nstoria antica. \n\n\x0E\x01\x09\x04\x00\x1700Secondo i testi antichi, nell'immensità\ndel cielo esiste un luogo chiamato<r< Isola\ndella Dea>>.\n\n\x0E\x01\x09\x04\x00\xB00Queste <b<antiche statue >>dovrebbero\nfungere da punto di riferimento \nquando si <r<sale in cielo>> e quando si\nridiscende.\n<r<<pling>>><r<Se quando ne trovi una la esamini>>,\ndovrebbero aumentare i riferimenti,\ncosa che semplificherà l'orientamento!\n\nQuesta statua, però, dovrebbe essere\nspeciale rispetto alle altre.\nSi direbbe sia in grado di attivare\nle altre.\n\x0E\x01\x09\x04\x16\x1907Forse è solo una fiaba per bambini, ma\nio ci voglio credere!\n\n\nAnche perché, se non fosse vero, a cosa\nservirebbero le statue che si trovano\nin giro, altrimenti?
+\x0E\x01\x09\x04\x08\xB07Secondo i testi antichi, nell'immensità\ndel cielo esiste un luogo chiamato<r< Isola\ndella Dea>>.\n\nQueste antiche statue dovrebbero\npermettere di farci ritorno. Inoltre,\ntra tutte le statue, questa sembra\nessere speciale...\nSi direbbe sia in grado di <r<attivare>>\nle altre.\n\n\n\x0E\x01\x09\x04\x16\x1900Forse si tratta solo di una favola per\nbambini, ma io ci credo!\n\n\n\x0E\x01\x09\x04\x00\xB04Altrimenti, a cosa servirebbero tutte\nqueste statue qui intorno?
+\x0E\x01\x09\x04\x18\x1700Adoro essere chiaro, chiaro come\nil cristallo! Vuoi saperne di più?\n[1]Sì[2-]No
+\x0E\x01\x09\x04\x15\x1B05\x0E\x01\x08\x02\x1CDEhi!
+\x0E\x01\x09\x04\x13\x1909Ehi!!!\n\n\n\n\x0E\x01\x09\x04\x17\x1B08Cos'hai fatto? La statua ha reagito!\nAllora tu ne sai ancora più di me!
+\x0E\x01\x09\x04\x17\x1B08La statua ha reagito! Allora tu ne sai\nancora più di me!
+\x0E\x01\x09\x04\x15\x1902Ah! Anche a te interessa la storia?\n\n\n\n\x0E\x01\x09\x04\x16\xB00Allora lascia che ti spieghi.\n\n\n\nSull'Isola della Dea, gli umani vivono\nspostandosi sul dorso di enormi\nvolatili che non esistono qui sulla\nTerra.\n\x0E\x01\x09\x04\x00\x1E00In realtà si tratta di un arcipelago\nformato da tante pacifiche isole, i cui\nabitanti adorano la Dea.\n\n\x0E\x01\x09\x04\x00\xB00La loro cultura è avanzatissima, molto\npiù della nostra.
+\x0E\x01\x09\x04\x08\xB00Ma non finisce qui! Il bello deve\nancora venire!\n\n\n\x0E\x01\x09\x04\x1F\x1E00Dal momento che l'isola è stata\ncreata da una Dea, è ricca di\nelementi preziosissimi e\nsconosciuti.\n\x0E\x01\x09\x04\x00\x1908Tutti gli edifici dell'isola sono d'oro!\nDa fonti inesauribili, l'acqua sacra\nsi riversa a fiumi: bevendola si\nottiene l'eterna giovinezza.\n\x0E\x01\x09\x04\x00\xB00Sugli alberi crescono frutti in grado\ndi guarire ogni malattia e nei campi\nnascono zucche che non marciscono\nmai!\nI prati sono costellati di fiori dai\nmille colori!\n\n\n\x0E\x01\x09\x04\x17\x1900Per non parlare del clima! Mai\ntroppo caldo né troppo freddo: un\nparadiso di eterna primavera!\nQuesta è l'Isola della Dea.\n\x0E\x01\x09\x04\x00\xB05\x0E\x01\x08\x02\x1CDPiù preziosa del diamante più\nprezioso!\n\n\n\x0E\x01\x09\x04!\x1806\x0E\x01\x08\x02\x2CDScommetto che vuoi\nsaperne di più...\n\x0E\x01\x08\x02\x1CDChe ne dici?\n[1]Va bene[2-]No
+\x0E\x01\x09\x04\x00\x01Io intanto vado a cercare altre\ninformazioni su queste statue!
+\x0E\x01\x09\x04\x16\x1E56Davvero? Per tutti i porfidi, se mi\nsarebbe piaciuto parlartene! Sarà\nper la prossima volta...
+\x0E\x01\x09\x04'\x1956Ah! Vedo che il fascino dell'Isola\ndella Dea ti ha già ammaliato!\n\n\n\x0E\x01\x09\x04\x16\x1E00Vorrei continuare con il racconto, ma\nse non vado avanti con le mie ricerche\nnon avrò più niente da dire...\n\n\x0E\x01\x09\x04\x00\xB00Ti prometto che alla prossima\noccasione avrò pronte altre storie \naffascinanti.
+\x0E\x01\x09\x04\x15\x1B09\x0E\x01\x08\x02\x1CDEhhh!!!
+\x0E\x01\x09\x04\x13\x1907Per tutti i porfidi! Ma che magia hai\nfatto?\n\n\n\x0E\x01\x09\x04\x17\x1B08Basta che ti avvicini e la statua\nreagisce! Ma è incredibile!
+Link! Il <r<pilastro del sigillo\n>>dovrebbe essere sulla fronte dell'essere\noscuro.\n\n\x0E\x01\x09\x04\xE00\x13Se lo riesci a conficcare ancor più a\nfondo con la tua spada, riuscirai a\nvincere!
+\x0E\x01\x09\x04\xE00T\x0E\x01\x06\x02\x1CDAaghh!~~~\n<r<\x0E\x01\x06\x02ÍQuesta \x0E\x01\x04\x02\n\x0E\x01\x06\x02\xFECDè la fine...>>\x0E\x01\x05\x04(\x00
+\x0E\x01\x09\x04\x00&Ehi! Link! La catapulta\nè pronta!\n\n\nQuell'essere potrebbe provare ad\narrampicarsi... Se lo fa, non ci resta\nche usare la catapulta per\nimpedirglielo!\nQuando è il momento, premi (^)\nper chiamarmi!\x0E\x01\x11\x02\x8CD
+\x0E\x01\x09\x04\x00&Ehi! Link! La catapulta\nè pronta!\n\n\nQuando ti serve, premi (^) per\navvertirmi! \x0E\x01\x11\x02\x8CD
+\x0E\x01\x09\x04>\x4515\x0E\x01\x08\x02\x1CDNooo!\n\n\n\n\x0E\x01\x09\x04\x00\x4000Che disastro! Le scosse di prima\nhanno bloccato il sentiero e non\nposso più prendere le bombe!\n\nChe faccio ora?!\n\x0E\x01\x08\x02\x1CD...
+\x0E\x01\x09\x04>\x4026Link! Presto, <r<sali fin qui>>!\nProcedi a lato del santuario!
+Ottimo! Ora tocca a me!
+Sposta la catapulta con \x0E\x02\x04\x02\xECD e mira con il\n<r<telecomando>>...\n\n\nPoi lancia una bomba con (A).\nL'occasione migliore è quando il\nmostro smette di avanzare!
+Se ti dimentichi i comandi per\nutilizzare la <b<catapulta>>, premi (2)\nmentre la stai usando per ripassarli!\x0E\x01\x11\x02\x5CD
+\x0E\x01\x09\x04\x00&La vegliarda ha detto che\nquell'enorme essere mostruoso\npotrebbe risvegliarsi.\n\n\x0E\x01\x09\x04\x00\x4200E il grande Bado ha costruito\nun'arma segreta per prepararsi\nall'evento!\n\n\x0E\x01\x09\x04\x00\x0FNon è ancora pronta, ma sarà una\ngran bella sorpresa!
+\x0E\x01\x09\x04\x00&Ohhh!\nSembra gli siano spuntate le braccia!\n\n\nPerfetto! È arrivato il momento di\nmostrare al mondo cosa è in grado di\nfare la fantastica badopulta!\n\n\x0E\x01\x09\x04B\x4000Non appena sarà pronta ti farò sapere!\nPer il momento, continua a darti\nda fare!
+\x0E\x01\x09\x04\x00&Ecco che ritorna! Perfetto!\nSono pronto a tutto!\n\n\n\x0E\x01\x09\x04\x04\x4000Link! Facciamo\nesattamente come l'altra volta!
+\x0E\x01\x09\x04C\x4553\x0E\x01\x08\x02\x1CDChe?! \x0E\x01\x04\x02\nGuarda come vola!\n\n\n\n\x0E\x01\x09\x04B\x4026Forse ha intenzione di dirigersi\ndirettamente al santuario, ma io\nnon glielo permetterò di certo!\n\x0E\x01\x04\x02\x08Coraggio, facciamolo fuori!
+\x0E\x01\x09\x04A\x4043Accidenti! Guarda lì!\nChe magnifica macchina che ho\ncostruito! Le mie bombe hanno\ndavvero messo K.O. quel mostro!\nPerò ora tocca a te finirlo e dargli\nil colpo di grazia!\nFai presto!
+\x0E\x01\x09\x04\x04\x4100È finalmente arrivato il momento in\ncui la mia arma segreta, la <r<badopulta>>,\npuò essere sfruttata!\n\n\x0E\x01\x09\x04\x00\x300Non appena sarà pronta ti avvertirò,\nocchio a (^)!\n\x0E\x01\x09\x04\x00\x4000Nel frattempo, continua a difenderti\ncome puoi con la spada!\x0E\x01\x11\x02\x8CD
+\x0E\x01\x09\x04\x00&La <r<badopulta>> è pronta!\n\n\n\nPremi (^) per prepararti a fare fuoco!\x0E\x01\x11\x02\x8CD\n\n\n\nCon \x0E\x02\x04\x02\xECD puoi muoverla e con il\n<r<telecomando>> mirare. Poi basta\npuntare e... BUM!
+\x0E\x01\x09\x04\x00\x4226Ecco che la mia mitica <r<badopulta >>torna\ndi nuovo utile!\n\n\nCome ben sai, quando sarà pronta\napparirò su (^) !\x0E\x01\x11\x02\x8CD\n\n\n\x0E\x01\x09\x04B\x4000Dai il meglio di te per far fuori quel\nmostro!
+\x0E\x01\x09\x04\x00\x4026Ascolta bene, Link!\nNon possiamo rifornirci di bombe!\n\n\n\x0E\x01\x09\x04 \x4000Quindi, al posto delle bombe userò te!\nSali! Forza sali sulla badopulta!
+\x0E\x01\x09\x04\x00&Ottimo lavoro, Link!\nDovresti ringraziarmi!\n\n\nOra bisogna attivare la Porta del\nTempo! Io vado!
+\x0E\x01\x09\x04\x00&Tutto grazie a me!\x0E\x01\x04\x02\x1E Presto, ora devi\nripristinare il sigillo! La volta scorsa\nhai utilizzato il potere della tua spada,\nnon è così?
+\x0E\x01\x09\x04 \x3010Ah ah ah... Link! Ce la\nsiamo cavata per un pelo questa volta!\nComunque, alla fine tutto è andato\nper il verso giusto.\n\x0E\x01\x09\x04B\x200Beh, io vado al santuario. Sbrigati a\nraggiungermi!
+\x0E\x01\x09\x04\x00&Ancora una volta ho salvato la\nsituazione. Ora, però, scendi a\nripristinare il sigillo, presto!
+\x0E\x01\x09\x04\x00\x03Vuoi andare alla foresta di Firone?\n\n\n\nCon la <r<badopulta >>faremo in un attimo!\n[1]Ok![2-]No, grazie
+Se cambi idea, torna da me!
+\x0E\x01\x09\x04\x00BOttimo! Lascia fare a me!
+\x0E\x01\x09\x04\x00&La foresta di Firone è vicina!\x0E\x01\x05\x04\n\x00
+Buon viaggio!\x0E\x01\x05\x04\x1E\x00
+Ehi, Link!\nA quanto pare l'essere oscuro\nsi sta risvegliando di nuovo!
+Mi vado a preparare.\nAspetta un attimo!
+\x0E\x01\x09\x04\x00\x04Ehi, Link! Se ti va puoi\nusare questa macchina per andare\nda qualche altra parte!
+Puoi usare questa macchina per andare\nda qualche altra parte.
+Grazie alla mia inventiva, ti potrò\ncatapultare ovunque tu desideri!\nDovunque sia, sono sicuro che ti\nattendono fantastiche avventure!\nSe vai in un posto che non hai mai\nvisto prima, assicurati di esplorarlo\nper bene!
+\x0E\x01\x09\x04\x00&Bene, dove vuoi andare?\nNelle aree di gioco del Cielo\no in quelle della Terra?\n\n[1]Cielo[2]Terra[3-]Nessuna
+Le aree di gioco del Cielo?\nPreferisci giocare a Roulette aerea\no a Insettopoli?\n\n[1]Roulette\naerea[2]Insettopoli[3]Altro
+Preferisci giocare ad Affetta il bambù\no a Tiro alla zucca?\n\n[1]Affetta\nil bambù[2]Tiro\nalla zucca[3-]Niente
+Le aree di gioco nel Cielo?\nBene! Quale preferisci?\n[1]Roulette\naerea[2]Insettopoli[3]Affetta\nil bambù[4-]Nessuna
+Le aree di gioco della Terra?\nPreferisci giocare a Le sfide del\ndrago del fulmine, a Stana la rupia\no a Montagne russe?\n[1]Drago\ndel fulmine[2]Stana la\nrupia[3]Montagne\nrusse[4-]Nessuno
+\x0E\x01\x09\x04B\x342Perfetto! Mi raccomando tieniti\nforte!
+Torna da me quando vuoi farti un giro!
+\x0E\x01\x09\x04\x00\x04Ehi, Link!\n\n\n\nStavo giusto pensando di\ndarti una mano!
+\x0E\x01\x09\x04\x2800\x04\x0E\x01\x08\x02\x1CDEhi! Link!
+\x0E\x01\x07\x04\x2800\x0FEh eh eh! Guarda qua! Questa è la\nsuper arma di Bado!
+Si chiama <r<badopulta>>!
+\x0E\x01\x09\x04\x2800\x18Vedo che sei senza parole!\nDel resto non è stato facile\nper me costruirla!
+Guarda qua!
+\x0E\x01\x09\x04\x2840\x4300Ho dovuto abbattere ogni ostacolo per\npoter posare i binari per farla\nmuovere! E il tutto da solo!\n\nMi sono stupito di me stesso! \x0E\x01\x04\x02\x1E\nNon sospettavo di avere un\nsimile talento!\n\n\x0E\x01\x09\x04\x2841\x4000Usa pure questa macchina come\nmeglio credi e fai fuori quel\nmostro!
+\x0E\x01\x09\x04\x2804\x4000Se una delle mie bombe gli fa una\nvisitina, anche quell'enorme essere\ndovrà calmarsi per un po'!
+Aspetta... L'essere oscuro si è\nrisvegliato troppo presto!
+\x0E\x01\x09\x04\x2841\x4000La mia arma segreta ha ancora\nbisogno di qualche ritocco!\n\n\nTi faccio un cenno quando sarà pronta!\nIntanto difenditi come puoi!
+
+\x0E\x01\x09\x04\x2800\x4000Ci siamo! I giochi stanno\nper cominciare!\x0E\x01\x05\x04\x1E\x00
+\x0E\x01\x09\x04\x2800SAaah!!!\x0E\x01\x05\x04\x1E\x00
+\x0E\x01\x09\x04\x283E\x400FLa calma è la virtù dei forti!\n\n\n\n\x0E\x01\x09\x04\x2841\x00Del resto ormai ti rendi conto delle\npotenzialità della mia <r<badopulta>>!
+\x0E\x01\x09\x04\x2800\x00Fino a quando ci sarà la mia arma, la\nparola \x201Csconfitta\" non esisterà nel mio\ndizionario!\n\n\x0E\x01\x09\x04\x2800\x200Forse è questa la missione che mi è\nstata affidata...
+\x0E\x01\x09\x04\x2800\x200Link! Cerca solo di non\ntrovarti sulla traiettoria di tiro!
+\x0E\x01\x12\x04\x00\x0BLink, mio signore, Faih a\nrapporto.\nPrendo atto delle modifiche indotte dal\npotere celeste.
+\x0E\x01\x12\x04\x00\x02Mio signore, nella zona rilevo un'aura\ndel tutto simile a quella del vostro\nmanto magico. Presumo si tratti di\nZelda.\n\x0E\x01\x12\x04\x00\x02Mio signore, posso guidarvi nella giusta\ndirezione con il <pling><r<rilevatore>>. Volete che\nvi spieghi di cosa si tratta?\n[1]Sì[2-]No
+\x0E\x01\x12\x04\x00\x05Certamente, signore.\n\n\n\nCon il rilevatore potete individuare\nl'aura degli oggetti che cercate,\ngrazie alla punta della vostra spada.\n\nPiù vi avvicinerete e <r<più intensamente\nreagirà >>il rilevatore emettendo suoni e\nvibrazioni.\n\nInoltre, un <r<cursore >>indicherà l'esatta\nposizione di ciò che cercate.
+È sufficiente che impostiate Zelda\ncome obiettivo tenendo premuto (C),\ne puntiate la spada nella direzione in\ncui desiderate cercare.\x0E\x01\x11\x02\x6CD
+Certamente, mio signore.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\nIl vostro compito ora è imprigionare\nnuovamente il mostro. È inevitabile.

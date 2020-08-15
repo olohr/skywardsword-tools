@@ -1,0 +1,19 @@
+Psst! Hé, l'ami! La chance te sourit.\nTu viens de tomber sur le <b<marchant\nde l'ombre>>.\n\nNe me demande pas comment je\nme procure ma marchandise.\nC'est mon secret professionnel.\n\nSi tu es à la recherche d'un bidule\nquelconque, je connais sûrement\nune pierre qui connait une autre\npierre qui peut te l'obtenir...\nPour un prix, bien entendu.
+Mais attention! Ça va te coûter cher!\nLes gens viennent me voir quand il y a\nun trésor qu'ils arrivent pas à trouver\nou qu'ils en ont assez de chercher...\nÇa t'intéresse?\n[1]Oui[2-]Non
+OK! Dis\x2010moi quelle sorte de trésor tu\nrecherches...\n[1]Plume\nbleue[2]Crâne d'or[3]Poussière\nde Déesse[4-]Autre
+D'autres trésors, hein? Qu'est\x2010ce que\ntu dis de ça?\n[1]Perle\nd'ombre[2]Cristal\nmaléfique[3]Cor de\nmonstre[4-]Autre
+Désolé, c'est tout ce que j'ai pour\nle moment. Si tu veux autre chose,\nfaudra le chercher toi\x2010même...
+Une plume bleue? Pas de problème.\nÇa fera <r<200 rubis>>!\n[1]Ça marche[2-]Trop cher!
+Un crâne d'or? J'ai ça en stock!\nJe te l'offre à <r<200 rubis>>!\n[1]Ça marche[2-]Trop cher!
+Une poussière de Déesse? Monsieur\nest un connaisseur. Ça fera <r<200 rubis>>.\n[1]Ça marche[2-]Trop cher!
+Une perle d'ombre, tu dis?\nCe sera <r<100 rubis>>!\n[1]Ça marche[2-]Trop cher!
+Et un cristal maléfique pour notre\nfin connaisseur! Il est à toi pour la\nmodique somme de <r<100 rubis>>!\n[1]Ça marche[2-]Trop cher!
+OK, un cor de monstre pour Monsieur!\nÇa fera <r<100 rubis>>!\n[1]Ça marche[2-]Trop cher!
+C'est comme tu veux... Les gens\nhonnêtes, il vaut mieux qu'ils évitent\nde traîner avec les individus de mon\ngenre... Tu comprends?
+Je t'en prie! C'est pas original ce que\ntu dis là. Normalement quand on dit\nque quelque chose est trop cher, c'est\nqu'on n'en a pas vraiment envie.
+Marché conclu! Voici ton beau trésor!
+Hm. Tu n'as pas assez d'argent!\nQuand tu auras de quoi payer,\non fera des affaires. Vu?
+Et puis, t'es content? Si t'en veux\nd'autres, reviens me voir. Je serai\nlà pour toi!
+Psst! Hé, l'ami! La chance te sourit.\nTu viens de tomber sur le marchant\nde l'... Ah, c'est toi? Tu es revenu?\nTu veux m'acheter un trésor?\n[1]Oui![2-]Non merci!
+Tu veux acheter un trésor? C'est ça?\n[1]Oui![2-]Non merci!
+Tu dois être tout un aventurier pour\navoir escaladé jusqu'ici!\n\n\nJe gage que tu pourrais atterrir dans\nle nid sur la tour en sautant d'ici en\n<g<chute libre>>. Penses-tu?

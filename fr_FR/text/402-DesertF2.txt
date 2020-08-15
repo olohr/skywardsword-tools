@@ -1,0 +1,112 @@
+Mer de sable\nde Lanelle
+Chantier naval
+Repaire pirate
+Maison du\ncapitaine
+.~~.~~.
+\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\nTu es qui, toi ? Un humain ?\n\n\nComment ?\nTu veux savoir qui je suis~~.~~.~~.?\n\n\n\x0E\x01\x09\x04\x07\x00<pling>Je suis <b<Ycéo>>, le fier capitaine du navire\nqui protège la <r<flamme de Nayru>> !\n[1]La flamme\nde Nayru ?[2]Un navire ?
+\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\nDis donc, matelot, ta carte est vraiment\nbizarre !\n\n\x0E\x01\x09\x04\x07\x00Pour naviguer correctement en mer, il\nfaut une <y<carte marine >>exacte, enfin !\n\n\nJ'en ai une <b<chez moi>>, ça tombe bien !\nAllez, on monte à bord, cap sur <b<ma\nmaison>>, et que ça saute !
+\x0E\x01\x09\x04\x07\x00Vraiment ? Très bien, dans ce cas...
+\x0E\x01\x09\x04\x07\x00On largue les amarres, moussaillon ?\n[1]Vers la mer[2]Vers le galion\ndes sables[3-]Non
+\x0E\x01\x09\x04\x07\x00Alors c'est parti !
+\x0E\x01\x09\x04\x07\x00Allez, on traîne pas !
+\x0E\x01\x09\x04\x07\x00Très bien, je te conduis à mon navire !
+\x0E\x01\x09\x04\x07\x00J'ai bien peur de ne pas pouvoir te faire\nmonter à bord, dans ce cas !\n\n\nEt si tu ne montes pas, tu pourras aller\nnulle part !
+Alors, tu as changé d'avis ?\n\n\n\nTu vas m'aider à récupérer mon\nbateau ?\n[1]D'accord[2-]Non
+\x0E\x01\x09\x04\x07\x00On largue les amarres ?\n[1]Oui[2-]Attends
+Si tu es d'accord pour m'aider,\nj'accepte que tu montes à bord de ce\nbateau.\n[1]D'accord[2-]Non
+\x0E\x01\x09\x04\x07\x00Oui, je possède un navire destiné\nà protéger la <r<flamme de Nayru>>,\net qui peut se rendre invisible~~.~~.~~.\n\nQuoi ? Tu cherches la <r<flamme de\nNayru>> ?\n\n\nElle te serait utile pour retrouver une\namie qui t'est chère~~.~~.~~.?\n\n\n\x0E\x01\x09\x04\x07\x00Dans ce cas, il faudrait que tu m'aides\nà retrouver mon navire et mes\nmatelots.
+\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\n\n\n\nLa tempête faisait rage, ce jour\x2010là~~.~~.~~.\nMes matelots et moi étions en mer,\ncomme chaque jour...\n\nEt c'est là qu'ils nous sont tombés\ndessus~~.~~.~~. Ces maudits pirates...\n\n\nIls voulaient la <r<flamme de Nayru>>...\nIls ont emprisonné mes matelots,\net m'ont jeté à la mer...
+\x0E\x01\x09\x04\x07\x00J'ai fini par échouer ici~~.~~.~~.
+\x0E\x01\x09\x04\x07\x00Mais je ne les ai jamais retrouvés.~~.~~.\n\n\n\nMon navire peut être rendu invisible\nsur commande, ils ont dû en tirer parti.\n[1]Invisible ?[2]Il a disparu ?
+Allez, fini de tirer au flanc, file d'ici !\nTu as quelqu'un à retrouver, non ?\n\n\nÀ moins que tu veuilles utiliser le\nbateau pour aller quelque part ?\n[1]En mer[2]Au galion\ndes sables[3-]Non
+Salut ! Tu as retrouvé celle que tu\ncherchais ?\n\n\nTu veux aller quelque part en bateau ?\n[1]En mer[2]Au galion\ndes sables[3-]Non
+Tu cherches les trois dragons ?\n\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>Le <b<dragon de foudre>> se trouve au\nsud de la <b<grotte de Lanelle>> ! Pour\nles autres, je sais pas.\n\n\x0E\x01\x09\x04\x07\x00Au fait, tu veux aller quelque part ?\n[1]En mer[2]Au galion[3-]Je reste ici
+\x0E\x01\x09\x04\x07\x00Reviens dire bonjour à l'occasion !
+\x0E\x01\x09\x04\x07\x00Puis, grâce à ce bateau, j'ai longtemps\nnavigué à la recherche de mes matelots\net de mon navire...
+Qu'est\x2010ce qui t'arrive ? Va vite\nchercher la <y<carte marine >>dans ma\nmaison !\n\nOu alors tu veux retourner en mer ?\n[1]Oui[2-]Non
+Bien ! Tu as ramené la <y<carte marine>>.\nAvec ça, on va pouvoir naviguer\ncorrectement !\n\nAllons chercher mon navire,\nmaintenant !
+Cette maison est remplie de souvenirs\nde ma famille...\n\n\nPourrai\x2010je un jour y vivre à nouveau ?\nMa famille me manque tellement.~~.~~.
+Tu cherches les dragons ?\n\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>Je sais pas pour les autres, mais\nle <b<dragon de foudre >>se trouve au\nsud de la <b<grotte de Lanelle>>.
+\x0E\x01\x09\x04\x07\x00On embarque ?\n[1]Oui[2-]Attends
+\x0E\x01\x09\x04\x07\x00On largue les amarres !
+\x0E\x01\x09\x04\x07\x00Ah...
+Merci de m'avoir rendu mon navire.\n\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>Il est en piteux état, mais on va le\nréparer, avec mes compagnons.\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>J'espère que tu retrouveras celle que tu\ncherches. Bonne chance !\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>Tu es le bienvenu ici quand tu veux !
+
+
+Hé ! Pas le temps de traîner, faut aller\nchercher des indices au <b<chantier naval >>!\n\n\n\x0E\x01\x09\x04\x07\x00Ou alors tu veux retourner en mer ?\n[1]Oui[2-]Non
+\x0E\x01\x09\x04\x07\x00Le navire n'était pas ici ?\nDommage~~.~~.~~.\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>C'est pas très attrayant, mais il nous\nreste à explorer le repaire des pirates\nqui ont volé mon navire !\n\n<b<\x0E\x01\x09\x04\x07\x00>>Allez, on embarque dès que tu es prêt !\n[1]C'est parti[2-]Attends
+Prépare\x2010toi, petit gars ! En route pour\nle <b<repaire des pirates >>!
+\x0E\x01\x09\x04\x07\x00Ah, pas de trace de mon navire au\nchantier naval~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00C'est pas très attrayant, mais il nous\nreste à explorer le repaire des pirates\nqui ont volé mon navire !\n\n\x0E\x01\x09\x04\x07\x00Le chef des pirates est un androïde\ntrès costaud, qui a des tonnes de sbires\nsous ses ordres.\n\n\x0E\x01\x09\x04\x07\x00Je préfèrerais éviter de le revoir,\nmais~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00Si on veut retrouver mon navire,\non a pas le choix !
+Oh, quelle nostalgie me saisit soudain !\nC'est ici que mon navire a été construit.\nOn était tellement heureux.~~.~~.
+\x0E\x01\x12\x04\x00dHé, pas par là ! Faut que tu ailles vers\n<b<ma maison >>d'abord !
+\x0E\x01\x12\x04\x00dPar là, c'est l'effroyable,\nl'épouvantable repaire des pirates.\n\n\nN'y va pas, c'est bien trop dangereux !\nPour l'instant, allons au <b<chantier naval>>.
+Ça faisait un moment que j'avais pas\nnavigué ! Ça commence à me revenir...\n\n\n\x0E\x01\x09\x04\x07\x00Déplace le bateau avec \x0E\x02\x04\x02\x8CD. Si tu\nappuies sur (A) en même temps, tu iras\nplus vite !\n\nPrépare le canon avec (B), et tire\navec (A) !\x0E\x01\x11\x02\x1CD
+\x0E\x01\x09\x04\x07\x00Allez, en route, moussaillon !
+La marque \x0E\x02\x04\x02\x19CD indique l'île où se\ntrouve ma maison !\n\n\nL'île est équipée d'un <r<ponton>>, on\naccostera là\x2010bas.
+Alors, on a peur des pirates ?\nT'inquiète pas, ils sont tous morts !\n\n\nTu veux retourner en mer ?\n[1]Oui[2-]Non
+Mon navire n'était pas là non plus~~.~~.~~.\n\n\n\nTu as trouvé d'autres indices ?\n\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>Oh ? Tu peux le <r<détecter >>?\nSuper !\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>Cette fois\x2010ci, c'est la bonne !\nOn va le trouver, mon bateau chéri !\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>On embarque ?\n[1]Oui[2-]Attends
+Allons vite trouver mon navire !
+\x0E\x01\x09\x04\x07\x00Ou préfères\x2010tu retourner en mer ?\n[1]Oui[2-]Non
+\x0E\x03\x01\x00Link !\nTu as vu ?\n\n\nUne bouche énorme s'est ouverte !\nT'as touché à quelque chose ?
+<pling>On dirait qu'il y a quelque chose près\ndu pont, à l'intérieur de la bouche !\n\n\nC'est peut\x2010être un indice concernant\nmon navire !\nVa voir, s'il te plaît !
+Mon navire n'était pas non plus dans le\nrepaire des pirates, alors~~.~~.~~.\n\n\nTu as trouvé des indices ?\n\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>Ah ? Tu peux <r<détecter >>mon navire ?\nYoho, quelle bonne nouvelle !
+Je me souviens de ce jour où nous avons\nété attaqués par les pirates... J'en fais\nencore des cauchemars.\nQuelle frayeur.~~.~~.
+On est arrivés !
+Ma maison est au sommet !
+\x0E\x01\x09\x04\x07\x00La <y<<pling>>><y<carte marine >>se trouve dans ma\nmaison, va vite la chercher !\n\n\nÇa grouille de monstres dans le coin,\nfais bien attention.\n\n\n\x0E\x01\x09\x04\x07\x00Si je m'éloigne du bateau, je serai mis\nhors circuit... Alors je t'attends ici !
+On est arrivés !\n\n\n\nC'est l'île du chantier naval. Il y avait\nune ville, ici, avant. Les ouvriers qui\ntravaillaient sur le chantier y\nhabitaient.
+Mais on ne peut plus y accéder, car\nl'entrée est bloquée.
+\x0E\x01\x09\x04\x07\x00On peut se déplacer sur cette île\nà l'aide d'un réseau de wagonnets.
+Il y a une zone d'embarquement là\x2010bas.
+\x0E\x01\x09\x04\x07\x00Commence par t'y rendre,\nje t'attends ici !
+\x0E\x01\x09\x04\x07\x00Si tu empruntes le réseau de\nwagonnets, tu trouveras peut\x2010être\nl'entrée arrière du chantier naval !
+Ce bâtiment là\x2010bas, c'est le chantier\nnaval !
+Ouh ! C'est vraiment pas très\nengageant~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00Mais y a rien à craindre, en fin de\ncompte... Ils doivent tous être morts,\npas vrai ?\n\n\x0E\x01\x09\x04\x07\x00Tout le monde n'a pas la chance de se\nbalader avec un chronolithe !\n\n\n\x0E\x01\x09\x04\x07\x00Alors pas de quoi s'inquiéter.\nAllez zou, pars à la recherche de mon\nnavire, moussaillon !\n\n\x0E\x01\x09\x04\x07\x00Je t'attendrai ici.
+Initialisation de la fonction <r<détection>>.\nCible : le navire renfermant la <r<<pling>>><r<flamme\nde Nayru>>.
+\x0E\x01\x12\x04\x00\x0BMaître, Fay au rapport.\nRegardez par ici.
+La probabilité que les voiles et les mâts\nqui se trouvent ici proviennent du\nnavire protecteur de la <r<flamme de\nNayru>> est de 60 %.
+\x0E\x01\x12\x04\x00\x0BMaître, Fay au rapport. La probabilité\nde trouver le navire ici est de 0 %.\nInutile de continuer les recherches.\n\nVeuillez faire votre rapport au\ncapitaine et quitter cette île.
+\x0E\x01\x12\x04\x00\x0BMaître, il semble que cette installation\na longtemps été un repaire de\nmonstres.\n\nVos chances de trouver des indices\nsur le navire dans cette zone sont\nextrêmement faibles.
+
+\x0E\x01\x12\x04\x00dTu as vu ? C'était mon navire !\n\n\n\nAllez, feu à volonté !\nÀ l'abordage !!!
+Jetons un \x153il à cette <y<carte marine >>que\ntu as ramenée !
+La marque \x0E\x02\x04\x02\x19CD indique la position du\n<b<<b<<pling><b<chantier naval>>.
+\x0E\x01\x09\x04\x07\x00Allez, on largue les amarres !
+\x0E\x01\x09\x04\x07\x00Le chantier naval est un site de\nconstruction de bateaux.\nC'est là que mon navire a été fabriqué !\n\n\x0E\x01\x09\x04\x07\x00Tu pourrais peut\x2010être obtenir des\nindices sur l'endroit où se trouve mon\nnavire, là\x2010bas...
+Ouh, j'ai un peu peur~~.~~.~~.\n\n\n\nLe chef des pirates est un androïde\ntrès costaud qui a des hordes de sbires\nsous ses ordres.\n\n\x0E\x01\x09\x04\x07\x00Je préférerais éviter de le rencontrer\nà nouveau, mais~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00Il le faut... Pour mon navire !
+La marque \x0E\x02\x04\x02\x19CD indique la position du\n<b<<b<<pling><b<repaire des pirates>>.
+\x0E\x01\x09\x04\x07\x00Rassemble ton courage, moussaillon,\non largue les amarres !
+\x0E\x01\x09\x04\x07\x00La mer est si vaste, tu penses vraiment\npouvoir le trouver ?\n\n\n\x0E\x01\x09\x04\x07\x00Enfin, je te fais confiance !\nJe compte sur toi !\n\n\n\x0E\x01\x09\x04\x07\x00Le navire est sûrement invisible... mais\nil apparaîtra s'il <pling><g<encaisse un choc >>!
+\x0E\x01\x12\x04\x00\x01Maître, regardez par ici.
+On appelle ceci un <y<<pling>>><y<chronoglobe>>.\n\n\n\nSa forme est différente de celle des\nchronolithes, et il est conçu pour être\ntransporté.
+
+\x0E\x01\x12\x04\x00\x01Maître, c'est la <y<carte marine >>du\ncapitaine.\nRapportons\x2010la jusqu'au bateau.\n\nRegardez par ici, \x0E\x01\x12\x04\x00\x01Maître.
+La probabilité que ce navire soit celui\nqui protège la flamme de Nayru est\nde 90 %.
+Je suppose que le capitaine y a passé\ndes jours heureux, entouré de son\néquipage.
+\x0E\x01\x12\x04\x00\x01Maître, regardez par ici.
+Il n'y a pas de <r<chronolithe >>sur ce socle,\nmais...\n\n\n... la probabilité qu'il s'agisse d'une\ninstallation similaire à celle des\n<b<mines de Lanelle>> est de 95 %.
+J'émets l'hypothèse que des\n<r<<y<<pling><r<chronolithes >>étaient utilisés ici comme\nsource d'alimentation.
+\x0E\x01\x12\x04\x00\x01Maître, nous sommes arrivés dans la\npartie centrale du chantier naval.
+Avec le temps, les installations ont été\nrecouvertes de sable.
+Je vous recommande de fouiller dans\nle sable pour trouver des indices sur\nle navire.
+\x0E\x01\x12\x04\x00\x01Maître, Fay au rapport.\nAtteignons notre objectif avant de\nprendre une pause.\n\nAllons d'abord chercher la carte\nmarine.
+\x0E\x01\x12\x04\x00\x0BMaître, Fay au rapport.
+Je détecte la présence d'insectes\nau\x2010dessus de la maison.
+\x0E\x01\x12\x04\x00\x0BMaître, Fay au rapport.\nL'énergie du chronoglobe a provoqué\ndes changements dans notre\nenvironnement.\nJe vous recommande d'aller vous en\nassurer dehors.
+Vers le centre\x2010ville
+Vers le ponton
+Vers le chantier naval
+Approchez\x2010vous,\npuis montez avec (A).
+Dans les virages, faites\npencher le wagonnet avec\nla télécommande Wii.
+Si vous prenez trop de vitesse,\nfreinez avec (B).
+Sautez par\x2010dessus les obstacles\nen secouant la télécommande\nWii vers le haut.
+Terminus \x2010 Chantier naval
+Attention, attaques pirates\nfréquentes !
+Réparation mensuelle des\nrails en cours.\nSuspension des transports.\nExcusez du dérangement !
+J'espère que les plans de mon\nnavire seront bientôt prêts...
+\x0E\x01\x05\x04\x0F\x00\x0E\x01\x12\x04\x00\x0BMaître, Fay au rapport.\n\n\n\n\x0E\x01\x05\x04<\x00Voici la <b<mer de sable de Lanelle>>.\nAutrefois, l'eau s'y s'étendait à perte\nde vue.
+\x0E\x01\x05\x04Z\x00Mais elle s'est asséchée et s'est\ntransformée en mer de sable.
+\x0E\x01\x05\x04Z\x00Nous nous trouvons à l'emplacement\nd'un ancien port.
+\x0E\x01\x05\x04<\x00C'est une région technologiquement\navancée, utilisant une énergie nouvelle.\nLa probabilité que la <r<flamme sacrée>> se\ntrouve ici est de 90 %.\n\x0E\x01\x05\x04\x1E\x00Je vous encourage à entamer vos\nrecherches sur la mer de sable.
+Merci pour tout, capitaine,\nvous êtes le meilleur !\nL'équipage
+Bon courage pour ton\ntravail, papa chéri !

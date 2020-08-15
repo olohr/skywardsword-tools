@@ -1,0 +1,152 @@
+Zelda: Skyward Sword
+A story of Link and Zelda.
+Connect the Nunchuk to the Wii Remote.\nOnce you have connected the Nunchuk,\nwait a few moments without touching\nthe Control Stick.
+Connect the Wii Remote and\nNunchuk to the Wii MotionPlus\naccessory. Next, wait a few\nmoments without touching the\nControl Stick.
+
+
+The Wii Remote battery charge\nis running low. Please check the\nHOME Menu.
+Communications with the Wii\nRemote have been interrupted.\nReconnect the Wii Remote.\nPress (A) without touching\nthe Control Stick. 
+Now calibrating the Wii MotionPlus.\nPlace the Wii Remote on a flat surface.
+Point the Wii Remote at the screen, and\nmove \x0E\x02\x04\x02\x18CD to the center.
+Press (A).
+Could not successfully complete\nthe calibration check.\n\nRun the check again?\n\n[1]Check[2]Don't check
+
+
+If you proceed without finishing\ncalibration, game controls may not\nwork properly. Continue without\nfinishing calibration?\n[1]Continue[2]Retry check
+
+Would you like to view the Wii MotionPlus\ninstructional video?\n[1]Yes[2-]No
+There is not enough available space\nin Wii system memory. Create 1 block of\nfree space either by moving data to an\nSD Card or deleting data in the Wii\nconsole's Data Management screen.
+There is not enough available space in\nWii system memory. Either move data to\nan SD Card or delete data in the Wii\nconsole's Data Management screen.
+Do you want to go to the Wii\nconsole's Data Management\nscreen to edit data?\n[1]Yes[2]No
+The file cannot be used because\nthe data is corrupted.\n\nAll data saved up to this point will\nbe lost. Create new save data?\n[1]Yes[2]No
+The Wii system memory has been\ndamaged. Refer to the Wii Operations\nManual for details.\n
+Could not access Wii system memory.\nRefer to the Wii Operations Manual\nfor details.
+An error occurred while accessing\nWii system memory. Refer to the\nWii Operations Manual for details.
+
+Creating save data. Please do not\ntouch the POWER Button or RESET.
+Save data for The Legend of Zelda:\nSkyward Sword has been created.
+Save data could not be created.\nTry again?\n[1]Yes[2]No
+The save data is corrupted.\nSave data will be restored.
+Restoring save data. Please do not\ntouch the POWER Button or RESET.
+Save data is restored.
+Creating save data again. Please do not\ntouch the POWER Button or RESET.
+New save data has been created.
+Saving in progress. Please do not\ntouch the POWER Button or RESET.
+Saved.
+\x0E\x02\x02\x04\x00\x00\n[1]Save[2]Save and \x0E\x00\x03\x02\x01quit>>[3-]Cancel
+Are you sure you want to quit?\n[1]Yes[2-]No
+\x0E\x02\x02\x04\x00\x00\n[1]Save[2]Save and \x0E\x00\x03\x02\x01quit>>[3]To the <b<sky>>[4-]Cancel
+Do you want to return to the <b<sky>>?\n[1]Yes[2-]No
+
+\x0E\x02\x02\x04\x00\x00\n[1]Save[2]Save and \x0E\x00\x03\x02\x01quit>>[3]Go<b< outside>>[4-]Cancel
+Leave the area?\n[1]Leave[2-]Stay
+Do you want to save your progress?\n[1]Save[2]Save and \x0E\x00\x03\x02\x01quit>>[3-]Cancel
+You will not be able to save. Do you\nwant to begin your game anyway?\n[1]Begin[2-]Quit
+It is not possible to save. Continue\nyour adventure anyway?\n[1]Continue[2]Quit
+
+
+You have conquered <r<Hero Mode>>!\nCongratulations! Do you want to create\na save just before the final battle?\n[1]Save[2-]Don't save
+Are you sure you want to return to the\ntitle screen without saving?\n[1]Don't save[2-]Save
+You can play again in <r<Hero Mode >>using\nthis save data. Do you want to\ncontinue?\n[1]Yes[2-]No
+Your progress up to this point will be\ndeleted. Are you sure you want to play\n<r<Hero Mode>>?\n[1]Bring it on[2-]No, thanks
+Copying... Please do not touch the\nPOWER Button or RESET.
+Copying complete.
+Once overwritten, previous data\ncannot be restored. Do you want\nto copy to this quest log?\n[1]Copy[2-]Don't copy
+
+Deleting... Please do not touch the\nPOWER Button or RESET.
+Deleting complete.
+Once deleted, previous data cannot be\nrestored. Do you want to delete this\nquest log?\n[1]Delete[2-]Don't delete
+
+
+
+
+Do you want to continue adventuring?\n[1]Continue[2]Quit
+Do you want to continue adventuring?\n[1]Continue[2]Quit
+Are you sure you want to quit?\n[1]Quit[2-]Cancel
+
+
+
+
+
+Link
+Quest Logs
+Your Name
+Select a file.
+Which quest log will you copy to?
+Enter your character's name.
+Do you want to start this quest?
+Really delete this?
+Go meet Zelda, who is waiting by the Statue of the\nGoddess.
+Search for your missing Loftwing.
+Use the map to search near the waterfall\nfor your bird.
+Triumph in the Wing Ceremony race.
+Follow the mysterious girl who appeared in\nyour dream.
+Fly to the column of light and descend through\nthe clouds to the land below.
+Search for Zelda, who seems to have landed\nsafely.
+Go to Faron Woods and search for Zelda.
+Gather information on Zelda from the\nKikwis.
+Use the Slingshot to reach the temple where\nZelda is.
+Search for Zelda, who is somewhere in\nSkyview Temple.
+Return the tablet to the Statue of the Goddess\nin Skyloft.
+Travel to Eldin Province using the new\ncolumn of light.
+Search for Zelda in Eldin Province.
+Search for the key to the temple at Eldin Volcano.
+Use the completed key to open the door to the\ntemple at Eldin Volcano.
+Search for Zelda in the Earth Temple.
+Return the third tablet to the Statue of the\nGoddess in Skyloft.
+Travel to Lanayru Province using the new\ncolumn of light.
+Search for Zelda in Lanayru Province.
+Look for an entrance to Lanayru Mining Facility.
+Travel through Lanayru Mining Facility to the\nTemple of Time.
+Show your new harp to the old woman at the\nSealed Grounds.
+Respond to the event happening in the\nSealed Grounds.
+Find out more about the Ballad of the Goddess\nin Skyloft.
+Unlock the mystery of the Ballad of the Goddess\ntold to you by the headmaster.
+Investigate the location the Light Tower has\nilluminated. 
+Follow the guidance of Farore's Courage to the\nfirst Trial Gate.
+Use the Water Dragon's Scale to search\nFaron Woods.
+Ask the Water Dragon about the sacred flame.
+Find some sacred water and take it to the\nWater Dragon.
+Explore the area that opened up behind\nthe waterfall.
+Look for a sacred flame within the\nAncient Cistern.
+Travel to the Isle of Songs to learn the next song.
+Find and open the next Trial Gate with\nNayru's Wisdom.
+Use the Clawshots to investigate Lanayru Desert.
+Retrieve the sea chart from the Skipper's Retreat.
+Search for Skipper's ship at the Shipyard. 
+Search for Skipper's ship at the\nPirate Stronghold.
+Use dowsing to find the old ship in\nLanayru Sand Sea.
+Search the Sandship for the sacred flame.
+Fly to the Isle of Songs to learn the third song.
+Find and open the next Trial Gate with\nDin's Power.
+Use the Fireshield Earrings to explore new areas.
+Find a way to carry water to the peak of\nEldin Volcano.
+Transport the water basin to the wall of fire at the\npeak of Eldin Volcano and enter the temple.
+Find the third sacred flame within the\nFire Sanctuary.
+Activate the Gate of Time with your\nenhanced sword.
+Seal away the mysterious monster that has\nappeared at the bottom of Sealed Grounds again.
+Hit the Gate of Time with a Skyward Strike\nfrom your enhanced sword.
+Reunite with Zelda in the world of the past.
+Return to your own time to fulfill your promise\nto Zelda.
+Search Skyloft for information about the\nTriforce.
+Ask Instructor Owlan how to find Levias.
+Meet with Levias and ask about the Triforce.
+Ask the three dragons about the\nSong of the Hero.
+
+
+
+Return to Levias to complete the\nSong of the Hero.
+Find and open the next Trial Gate with the\nSong of the Hero.
+Search for a second Stone of Trials.
+Enter the structure that has appeared underneath\nthe Isle of the Goddess.
+Search for the three parts of the Triforce\nwithin Sky Keep.
+Chase after Ghirahim, who has abducted Zelda.
+Prevent Ghirahim from realizing his plan to\nresurrect Demise.
+Defeat Ghirahim in the world of the past.
+Defeat the revived Demise in the world\nof the past.
+
+
+
+Bird Riding
+Dungeon
+Boss Battle

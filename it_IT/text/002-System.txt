@@ -1,0 +1,152 @@
+Zelda: Skyward Sword
+L'epico destino di Link e Zelda.
+Collega il Nunchuk al telecomando Wii.\nUna volta collegato il Nunchuk, non\ntoccare il Control Stick per alcuni istanti.
+Collega il telecomando Wii e il Nunchuk\nal Wii MotionPlus. Una volta collegati,\nnon toccare il Control Stick del Nunchuk\nper alcuni istanti.
+
+
+Le batterie sono quasi scariche.\nControlla nel menu HOME.
+Il collegamento con il telecomando Wii\nsi è interrotto. Premi (A) senza toccare\nil Control Stick per reimpostare\nil collegamento.
+Regolazione del Wii MotionPlus in corso.\nPosiziona il telecomando Wii\nsu una superficie piana.
+Punta il telecomando Wii verso lo\nschermo e sposta \x0E\x02\x04\x02\x18CD al centro.
+Premi (A).
+Controllo calibrazione non completato.\n\nEseguire nuovamente il controllo?\n\n[1]Sì[2]No
+
+
+Se decidi di continuare senza completare\nil controllo calibrazione, i comandi\npotrebbero non funzionare correttamente\ndurante il gioco. Vuoi continuare\nugualmente?\n[1]Sì[2]No
+
+Vuoi vedere come collegare\nil Wii MotionPlus?\n[1]Sì[2-]No
+Non c'è abbastanza spazio libero nella\nmemoria della console Wii. Blocchi liberi\nnecessari: 1. Per creare spazio, vai allo\nschermo Gestione dati della console Wii\ne cancella alcuni dati o trasferiscili in\nuna scheda SD.
+Non c'è abbastanza spazio libero nella\nmemoria della console Wii. Per creare\nspazio, vai allo schermo Gestione dati\ndella console Wii e cancella alcuni dati\no trasferiscili in una scheda SD.
+Vuoi andare allo schermo Gestione\ndati della console Wii?\n\n[1]Sì[2]No
+Il file non può essere usato perché\ni dati sono danneggiati.\n\nTutti i dati salvati finora verranno\ncancellati. Creare un nuovo salvataggio?\n[1]Sì[2]No
+La memoria della console Wii è\ndanneggiata. Per maggiori\ninformazioni, consulta il manuale\ndi istruzioni della console Wii.
+Impossibile accedere alla memoria della\nconsole Wii. Per maggiori informazioni,\nconsulta il manuale di istruzioni\ndella console Wii.
+Si è verificato un errore durante l'accesso\nai dati contenuti nella memoria della\nconsole Wii. Per maggiori informazioni,\nconsulta il manuale di istruzioni della\nconsole Wii.\n
+
+Creazione del file in corso.\nNon toccare il pulsante POWER\no il pulsante RESET.
+Il file di salvataggio per\nThe Legend of Zelda: Skyward Sword\nè stato creato.
+Non è stato possibile creare un file di\nsalvataggio. Vuoi riprovare?\n[1]Sì[2]No
+I file di salvataggio sono danneggiati.\nI file di salvataggio verranno recuperati.
+Recupero file di salvataggio in corso.\nNon toccare il pulsante POWER o il\npulsante RESET.
+I file di salvataggio sono\nstati recuperati.
+Creazione del file in corso. Non\ntoccare il pulsante POWER o il\npulsante RESET.
+La creazione del nuovo\nfile è stata completata.
+Salvataggio in corso. Non toccare il\npulsante POWER o il pulsante RESET.
+Salvataggio completato.
+\x0E\x02\x02\x04\x00\x00\n[1]Salva[2]Salva ed \x0E\x00\x03\x02\x01esci>>[3-]Annulla
+Vuoi abbandonare l'avventura in corso?\n[1]Sì[2-]No
+\x0E\x02\x02\x04\x00\x00\n[1]Salva[2]Salva ed \x0E\x00\x03\x02\x01esci>>[3]Torna nel <b<Cielo>>[4-]Annulla
+Vuoi ritornare nel <b<Cielo>>?\n[1]Sì[2-]No
+
+\x0E\x02\x02\x04\x00\x00\n[1]Salva[2]Salva ed \x0E\x00\x03\x02\x01esci>>[3]Vai all'<b<esterno>>[4-]Annulla
+Vuoi uscire all'esterno?\n[1]Sì[2-]No
+Vuoi salvare i tuoi progressi?\n[1]Salva[2]Salva ed \x0E\x00\x03\x02\x01esci>>[3-]Annulla
+Non sarà possibile salvare i dati di gioco.\nVuoi comunque iniziare l'avventura?\n[1]Sì[2-]No
+Non è possibile salvare. Vuoi\ncomunque continuare l'avventura?\n[1]Sì[2]No
+
+
+Hai completato la <r<modalità eroica>>!\nCongratulazioni! Vuoi creare un \nsalvataggio prima dello scontro finale?\n[1]Sì[2-]No
+Vuoi tornare allo schermo\ndel titolo?\n[1]Sì[2-]No
+Utilizzando questo file di salvataggio \npotrai giocare di nuovo in <r<modalità\neroica>>. Vuoi continuare?\n[1]Sì[2-]No
+I tuoi progressi attuali verranno\neliminati. Vuoi comunque giocare in\n<r<modalità eroica>>?\n[1]Altroché![2-]Forse no...
+Operazione in corso. Non toccare il\npulsante POWER o il pulsante RESET.
+Dati copiati.
+Una volta sovrascritti, i dati precedenti\nandranno persi. Vuoi davvero\nsovrascrivere l'avventura?\n[1]Sì[2-]No
+
+Operazione in corso. Non toccare il\npulsante POWER o il pulsante RESET.
+Dati cancellati.
+I dati cancellati non possono essere\nrecuperati. Vuoi cancellare questa\navventura?\n[1]Sì[2-]No
+
+
+
+
+Vuoi continuare la tua avventura?\n[1]Sì[2]No
+Vuoi continuare la tua avventura?\n[1]Sì[2]No
+Vuoi davvero abbandonare l'avventura?\n[1]Sì[2-]No
+
+
+
+
+
+Link
+Avventure
+Nome
+Seleziona un'avventura
+Su quale avventura vuoi copiare?
+Inserisci il nome del personaggio
+Vuoi continuare quest'avventura?
+Vuoi davvero cancellarla?
+Vai a parlare con Zelda, ti attende vicino alla\nstatua della Dea.
+Cerca il tuo solcanubi carminio scomparso.
+Usa la mappa per cercare il tuo solcanubi\ncarminio vicino alla cascata.
+Trionfa nel battesimo del volo.
+Raggiungi la misteriosa ragazza che ti è\napparsa in sogno.
+Dirigiti alla colonna di luce e raggiungi la\nTerra attraverso le nubi.
+Cerca Zelda, che si trova sana e salva da qualche\nparte sulla Terra.
+Recati alla foresta di Firone per cercare Zelda.
+Chiedi informazioni su Zelda agli abitanti del\nbosco, i Kyuri.
+Usa la fionda per raggiungere il santuario dove\nsi trova Zelda.
+Cerca Zelda all'interno del Santuario del Cielo.
+Riporta la stele nella statua della Dea su\nOltrenuvola.
+Recati nelle Terre di Oldin attraverso la\ncolonna di luce.
+Cerca Zelda nelle Terre di Oldin.
+Cerca la chiave che dà accesso al santuario\nnel vulcano di Oldin.
+Apri la porta del santuario presso il vulcano\ncon la chiave che hai ricostituito.
+Cerca Zelda all'interno del Santuario della Terra.
+Riporta la terza stele nella statua della Dea\nsu Oltrenuvola.
+Recati nelle Terre di Ranel attraverso la\ncolonna di luce.
+Cerca Zelda nelle Terre di Ranel.
+Cerca l'entrata dell'opificio di Ranel.
+Attraversa l'opificio di Ranel e raggiungi il\nSantuario del Tempo.
+Ora che hai ottenuto la lira, parla con l'Anziana\ndella Terra dell'esilio.
+Affronta i misteriosi eventi della Terra dell'esilio.
+Indaga sulla Melodia della Dea lasciata\na Oltrenuvola.
+Svela il mistero della Melodia della Dea\nmenzionato dal direttore.
+Esplora il luogo indicato dalla Torre della luce.
+Usa il Coraggio di Farore per cercare il\nportale della prova.
+Usa la scaglia del drago d'acqua per\nperlustrare la foresta di Firone.
+Chiedi della fiamma sacra al drago d'acqua.
+Trova dell'acqua sacra e portala al drago d'acqua.
+Usa l'accesso apparso dietro la cascata.
+Cerca la fiamma sacra presso l'antico sacrario.
+Recati all'Isola delle melodie per udire la\nmelodia successiva.
+Usa la Saggezza di Nayru per cercare il\nportale della prova.
+Usa gli artigli per perlustrare il deserto di Ranel.
+Trova la carta nautica nella casa di Capitanbot.
+Cerca la vecchia nave di Capitanbot nel\ncantiere navale.
+Cerca la vecchia nave di Capitanbot nel\ncovo dei pirati.
+Usa il rilevatore per trovare la nave nel\nmare di sabbia di Ranel.
+Cerca la fiamma sacra sul galeone delle sabbie.
+Recati all'Isola delle melodie per udire la\nterza melodia.
+Usa la Forza di Din per cercare il\nportale della prova.
+Grazie ai termorecchini puoi perlustrare le\naree finora inaccessibili.
+Trova il modo di portare dell'acqua sulla\ncima del vulcano di Oldin.
+Porta l'orcio d'acqua fino al muro di fuoco\nall'interno del vulcano ed entra nel santuario.
+Cerca la fiamma sacra nel\nGrande Santuario Antico.
+Usa la spada potenziata per attivare la\nPorta del Tempo.
+Imprigiona di nuovo il misterioso demone apparso\ndalle profondità della Terra dell'esilio.
+Usa il potere celeste sulla Porta del Tempo.
+Ritrova Zelda nel mondo del passato.
+Torna alla tua epoca per mantenere la promessa\nche hai fatto a Zelda.
+Cerca delle informazioni sulla Triforza\na Oltrenuvola.
+Chiedi al maestro Asio Otus come\ntrovare Narisha.
+Incontra Narisha e chiedigli della Triforza.
+Chiedi ai tre draghi di cantarti le loro parti\ndella Melodia dell'impavido.
+
+
+
+Ritorna da Narisha per completare la Melodia\ndell'impavido.
+Usa la Melodia dell'impavido per trovare\nil portale della prova.
+Cerca il secondo emblema della prova.
+Accedi alla torre che è apparsa sul fondo\ndell'Isola della Dea.
+Cerca i tre frammenti di Triforza nella\nTorre del Cielo.
+Insegui Ghiraim che ha rapito Zelda.
+Impedisci a Ghiraim di realizzare il suo piano\ndi riportare in vita Mortipher.
+Sconfiggi Ghiraim nel mondo del passato.
+Sconfiggi Mortipher nel mondo del passato.
+
+
+
+Gara di volo
+Labirinto
+Battaglia contro un nemico

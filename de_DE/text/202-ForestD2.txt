@@ -1,0 +1,20 @@
+Höhlenheiligtum
+Triff die <r<4 Steine>>, wie es die\n<r<Sitten>> dieses Landes verlangen,\nund der Weg öffnet sich.
+Die Symbole auf der <r<großen\nSteinstatue >>lehren dich die\n<r<Sitten>> dieses Landes.\n\nZuerst den <r<Nacken>>...\nAls Nächstes den <r<Rücken>>...\nDann den <r<rechten Handrücken\n>>und den <r<linken Handrücken>>.
+Bewege die Statue zurück und\nklettere am Seil wieder in die\nTiefe. Dort findest du dann den\nbenötigten <y<Schlüssel>>.
+Suche den <y<Schlüssel>>\nin der Tiefe.
+Triff die in den Augen\nverborgenen Juwelen.\nDer Mund schließt sich,\nder Fluss wird gestoppt.
+
+
+
+Unseren bisherigen Erfahrungen\nfolgend nehme ich an, dass der auf der\nSteintafel erwähnte <y<Schlüssel >>für den\nMechanismus vor uns benötigt wird.
+
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas zu\nberichten. In der Nähe befindet sich\neine große Schatztruhe.\n\nDie Wahrscheinlichkeit, dass sich darin\nder <y<Schlüssel >>befindet, der das Tor\nim oberen Teil der Steinstatue öffnet,\nbeträgt 85 %.
+\x0E\x01\x12\x04\x00\x01Gebieter, meine Analyse hat ergeben,\ndass sich im oberen Bereich ein großes\nTor befindet.
+
+
+
+
+Du bist ziemlich hartnäckig.~~.~~.
+Ich benötige meine kostbare Zeit, um\neinen Weg für die Rückkehr des\nDämonenkönigs zu finden.~~.~~.
+Zu allem Überfluss stört mich dann\nauch noch so lästiges Getier wie du.\nDas schlägt mir doch ein wenig\nauf die Stimmung.

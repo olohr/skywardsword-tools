@@ -1,0 +1,215 @@
+\x0E\x01\x05\x04x\x00\x0E\x00\x03\x02\x06Voici l'histoire, telle que la racontent les humains...>>
+\x0E\x01\x05\x04\x00L'histoire de la plus terrible des batailles...
+\x0E\x01\x05\x04\x00Un jour, des êtres malfaisants\nsurgirent des entrailles de la terre...
+\x0E\x01\x05\x04\x00... et effacèrent tout sourire du visage\ndes habitants de ce monde.
+\x0E\x01\x05\x04\x00Ils brûlèrent les forêts, asséchèrent les rivières\net massacrèrent les innocents.
+\x0E\x01\x05\x04\x00L'objet de leur convoitise : le <r<pouvoir suprême>>,\nprotégé par la Déesse.
+\x0E\x01\x05\x04<\x00Le pouvoir suprême...
+\x0E\x01\x05\x04\x00Héritage laissé à la Déesse par ses ancêtres divins...
+\x0E\x01\x05\x04\x00... il pouvait exaucer tous les souhaits et toutes les prières.
+\x0E\x01\x05\x04\x00Afin de les protéger des êtres malfaisants...
+\x0E\x01\x05\x04\x00... la Déesse envoya le pouvoir suprême et les derniers\nhumains dans le ciel en y élevant une partie de la terre...
+\x0E\x01\x05\x04\x00... jusqu'aux confins célestes, au\x2010delà de la mer de\nnuages... là où le mal ne pourrait les atteindre.
+\x0E\x01\x05\x04\x00Puis la Déesse et ses suivants combattirent\nau péril de leur vie pour enfermer le mal...
+\x0E\x01\x05\x04\x00... et le monde connut à nouveau\ndes jours de paix.
+\x0E\x01\x05\x04d\x00Voilà l'histoire, telle que la racontent les humains.
+\x0E\x01\x05\x04\x00Cependant, certaines légendes liées\nà ce récit ont été oubliées...
+\x0E\x01\x05\x04\x00Et à présent, la porte vers une nouvelle légende\nest sur le point de s'ouvrir...
+\x0E\x01\x05\x04\x00... et ce, de par votre main...
+<b<\x0E\x01\x12\x04\x00\x03\x0E\x03\x01\x00Link>>...\nIl est temps de s'éveiller...
+Bientôt, la grande destinée qui vous\nattend se mettra en marche...\n\n\nIl est temps de s'éveiller...\x0E\x01\x05\x04<\x00\n\n\n\n<b<\x0E\x01\x12\x04\x00\x0D>>\x0E\x03\x01\x00Link...\x0E\x01\x05\x04-\x00\n\n\n\n<b<\x0E\x01\x12\x04\x00\x0D>>\x0E\x03\x01\x00Link...\x0E\x01\x05\x04-\x00
+Tel que je te connais, tu devais encore\nêtre en train de dormir quand cette\nlettre est arrivée... \x0E\x01\x04\x02\x14J'ai vu juste ?\n\nAlors bonjour, <b<Link>> !\nVoici enfin venu le jour de la\n<r<chevauchée céleste >>!\x0E\x01\x04\x02\x14 \x0E\x01\x06\x02\xFFCDOn a rendez\x2010vous\nce matin...~~~ Tu t'en souviens ?\n\x0E\x01\x04\x02\x1E<b<Zelda>>
+<y+<\x0E\x01\x06\x02\xFCCDFier enfant guidé par\x0E\x01\x06\x02\x4CD\n                                          \x0E\x01\x06\x02\xFCCDla divine envoyée,\nIl porte la lumière\x0E\x01\x06\x02\x4CD\n                                   \x0E\x01\x06\x02\xFCCDpour ciel et terre lier.>>\x0E\x01\x06\x02Í\x0E\x01\x05\x04U\x00
+Bonjour, <b<Link>> !
+C'est mon <r<célestrier>> qui t'a réveillé ?\n\x0E\x01\x04\x02\x1E\x0E\x01\x06\x02\xFFCDTu avais oublié notre rendez\x2010vous,\n~~~avoue\x2010le !
+Tu as vu mes habits ? Et mon\ninstrument ? Je dois représenter\nla Déesse pour la <r<chevauchée céleste\n>>qui a lieu aujourd'hui !
+N'est\x2010ce pas merveilleux ? Surtout cet\ninstrument ! On dit que <r<la Déesse de la\nlégende >>avait le même.\n\nIl produit un son ravissant ! Mon père\nm'a dit qu'on appelle cela une <b<lyre>>.
+Et j'adore également ma tenue !\nCe châle, c'est moi qui l'ai fait.\nJe le porterai aussi pendant la\ncérémonie.\nAvec ces atours, je serai la Déesse\npour un jour !\x0E\x01\x04\x02\x14 Je voulais que tu sois\nle premier à me voir.
+Alors, comment tu me trouves ?\x0E\x01\x04\x02\x1E\n[1]Sublime ![2]Euh...[3]C'est\ncarnaval ?
+Hihihi ! Je savais que ça te plairait.\nMerci, Link !
+Eh bien\x0E\x01\x06\x02\xFECD ? \x0E\x01\x06\x02ÍTu\x0E\x01\x06\x02\xFECD...\x0E\x01\x06\x02Í n'aimes pas ?
+Pardon ? Tu peux me le dire\nfranchement si tu n'aimes pas !
+Ah, <b<Zelda>> ! Es\x2010tu prête pour\nla cérémonie ?
+<b<Père>> !
+Oh, toi aussi, tu es là,\nLink.\n\n\nOn dirait que tu as réussi à te réveiller\nà temps, aujourd'hui !
+Si tu remportes la <r<chevauchée céleste>>,\ntu pourras participer à la cérémonie\navec Zelda. Courage, petit !
+À ce propos\x0E\x01\x06\x02\xFECD...
+Père, saviez\x2010vous que...\n\n\n\n... Link a beaucoup\nnégligé son entraînement ces\nderniers temps ?
+Et même quand il monte son célestrier,\nil se laisse juste dériver\x0E\x01\x06\x02\xFECD...\n\n\nIl ne pourra jamais gagner s'il n'est pas\nrapide et précis !
+Calme\x2010toi, Zelda. Il est certain qu'il\nn'est pas facile de remporter la\n<r<chevauchée céleste>>.\n\nC'est une épreuve qui requiert une\nbonne entente avec son oiseau et\nbeaucoup de technique.
+Certes, Link n'a pas l'air\nde s'être entraîné sérieusement...\n\n\nMais toi qui le connais depuis si\nlongtemps, tu devrais savoir qu'il\nen a toujours été ainsi.\n\nEt puis il y a ce lien particulier qui\nl'unit à son célestrier...
+Nous, les habitants de Célesbourg,\navons tous un oiseau qui est en quelque\nsorte notre alter ego.\n\nC'est la bénédiction de la Déesse qui\nnous unit à ces <r<oiseaux protecteurs>>,\nles célestriers... 
+Dans sa prime jeunesse, chacun d'entre\nnous a rencontré son oiseau, ici même,\ndevant la statue de la Déesse.
+Mais dans le cas de Link,\nune chose incroyable s'est produite...\n\n\nC'est un <r<célestrier vermeil>>, oiseau\nd'une extrême rareté, qui s'est\nprésenté à lui... Nous croyions cette\nespèce éteinte.
+\x0E\x03\x01\x00Link et son oiseau\nvermeil sont unis par un lien\nmystérieux...\n\nZelda, te souviens\x2010tu de leur première\nrencontre ?\n\n\nDès les premiers instants, ils volaient\nensemble dans le ciel avec grâce et\naisance, comme s'ils ne faisaient qu'un.\n\nJe m'en souviens comme si c'était hier.\nEt ce lien ne t'avait pas échappé non\nplus, tu étais folle de jalousie !
+Certains sont d'ailleurs toujours jaloux\nde cette connivence.\n\n\nC'est le prix à payer quand on\nemprunte un chemin différent\nde celui des autres.
+Ce n'est pas très drôle, Père !\nLa <r<chevauchée céleste>> d'aujourd'hui\ncompte aussi pour l'examen de l'école\nde chevalerie !
+Donc si Link n'y participe\npas sérieusement, il risque de ne pas\navoir de bonnes notes...
+Et même\x0E\x01\x06\x02\xFECD...\x0E\x01\x06\x02Í~~~ de ne pas pouvoir devenir\nchevalier !
+Je comprends, je comprends.\nNe te mets pas dans des états pareils,\nvoyons.\n\nDès qu'il s'agit de Link,\nc'est toujours la même chose...
+\x0E\x03\x01\x00Link ! Allons nous\nentraîner un peu !
+Viens un peu par ici ! Allez !
+Bien ! Maintenant, plonge d'ici et\nappelle ton célestrier, comme tu fais\nd'habitude.\n\nLa chevauchée céleste aura lieu très\nbientôt, alors il faut s'y mettre\nsérieusement !\n\nHmm ?~~~ Que dis\x2010tu ?~~~ Tu ne perçois\npas la présence de ton célestrier ?\n\n\nÇa suffit, ces histoires ! Tu penses t'en\ntirer grâce à ce qu'a dit père ? Je t'en\nprie, il faut t'entraîner, maintenant !
+Allez, bon vent !\x0E\x01\x05\x04\x1E\x00
+\x0E\x03\x01\x00Link ! <g<Appuie>> vite sur (v)\npour appeler ton célestrier !\x0E\x01\x05\x04<\x00
+Son célestrier...\x0E\x01\x04\x02\x1E Il n'a pas l'air de\nvenir !\x0E\x01\x05\x04<\x00
+Oh non !\x0E\x01\x05\x04\x1E\x00
+\x0E\x03\x01\x00Link ! Accroche\x2010toi !\x0E\x01\x05\x04\x1E\x00
+Rien de cassé ?\x0E\x01\x05\x04<\x00
+Excuse\x2010moi... Je t'ai poussé à la limite\nde tes forces... Tu n'es pas blessé ?
+Je me demande bien où est passé\nton célestrier, Link.\n\n\nIl n'est pas venu alors que son maître\nl'a appelé...
+\x0E\x03\x01\x00Link, tu ne perçois\ntoujours pas sa présence ?\n\n\nÀ peine quelques instants avant\nla <r<chevauchée céleste>>, voilà qui\nest gênant.
+\x0E\x01\x08\x02Í\x0E\x03\x01\x00Link, tu disais donc\nla vérité tout à l'heure\x0E\x01\x06\x02\xFECD...\x0E\x01\x06\x02Í\nExcuse\x2010moi.
+Je vais rester ici pendant que mon\noiseau se repose.\n\n\nIl faut que tu partes à la recherche\ndu tien !
+Oh, l'heure avance... C'est maître\n<b<Hulul >>le responsable de la <r<chevauchée\ncéleste >>cette année.\n\n\x0E\x03\x01\x00Link, pourquoi n'irais\x2010tu\npas lui parler de ton problème ?
+Père, vous oubliez que c'est vous\nle <r<directeur de l'école >>! Maître <b<Hulul\n>>viendra certainement vous soumettre\nle problème.
+Oh, c'est bien vrai, ma fille !\n\n\n\nTrès bien, je vais tout expliquer\nà maître Hulul moi\x2010même.\n\x0E\x03\x01\x00Link, dis\x2010lui de me\nrejoindre dans mon bureau.
+Ça a pas été aussi simple que prévu,\nhein, boss ?
+Mouais, c'est sûr que ce <r<célestrier\nvermeil >>est un dur à cuire. 
+Mais même ce piaf de compétition aura\nbien du mal à sortir de là où il est !
+\x0E\x01\x08\x02\x1CDOuah ! \x0E\x01\x08\x02Í\x0E\x03\x01\x00Link ?\nÇa fait combien de temps que t'es là ?!
+Je me demande ce que tu viens faire\npar ici... Ah, je sais ! La <r<chevauchée\ncéleste>>, c'est aujourd'hui, non ?\n\nTu es venu pleurnicher devant le grand\n<b<Hergo>> pour \x0E\x01\x06\x02\xFFCDqu'il te laisse gagner\x0E\x01\x06\x02Í, voilà\npourquoi tu es là !\n\nTu meurs d'envie de te retrouver\nen <r<tête\x2010à\x2010tête>> avec Zelda pour la\ncérémonie à la <r<statue de la Déesse>>,\nje comprends...
+Désolé mais le grand Hergo est\nincorruptible ! Qui sait, avec un peu\nde chance, t'arriveras peut\x2010être\ndeuxième ! Haha !
+\x0E\x01\x06\x02\xFFCDMais au fait...~~~\x0E\x01\x06\x02Í Je le vois nulle part,\x0E\x01\x04\x02\x14\nton poulet frit sauce ketchup...
+Où est\x2010ce qu'il peut bien être ?\nIl se serait pas égaré, quand même ?\x0E\x01\x04\x02\x1E\n[1]Je vais\ngagner ![2]Rends\x2010moi \nmon oiseau ![3]Sympa,\nta coupe
+Je te signale que c'est aujourd'hui, la\ncérémonie ! Comment tu comptes faire\nsans ton oiseau, exactement ?
+Hein ? Je vois pas du tout de quoi\ntu veux parler !
+Quoi ? Tu mets en doute mon sens\nde l'esthétique ?
+Tu te crois tout permis parce que\nt'as grandi avec Zelda et que t'es\nson <r<chouchou>>...
+Tu passes ton temps à te la raconter,\nà parader devant tout le monde...
+Et si t'apprenais un peu à te comporter\ncorrectement, hein ? 
+C'est les types dans ton genre qui\nsalissent le nom de notre fière école\nde chevalerie !
+\x0E\x01\x06\x02\xFECDQu'est\x2010ce que j'entends ?
+Ze\x2010Zelda !\x0E\x01\x04\x02\x1E\nJe... C'est... Euh...
+Hergo ! Tu ennuies encore\nLink ?
+En tant qu'élèves de l'école de\nchevalerie, nous sommes tous\ncamarades.
+Pourquoi t'acharnes\x2010tu sur\nLink ?
+\x0E\x01\x06\x02\xFFCDC'est\x2010à\x2010dire que... Ouais...
+Je t'écoute.
+\x0E\x01\x06\x02\xFECDEuh...
+Non, rien !
+Bon, à plus, Link !\nJe te rappelle que si tu participes\npas à la chevauchée, t'auras pas\nton année !
+Qu'est\x2010ce que tu vas faire si tu\nretrouves pas ton rougeaud préféré ?
+Ce sont peut\x2010être bien ces trois\x2010là qui\nont enlevé ton célestrier...\n\n\nMais si ce sont bien les coupables,\nils ne vont certainement pas l'avouer...\nIl va falloir chercher par nous\x2010mêmes.
+\x0E\x03\x01\x00Link, je vais commencer\nà chercher ton oiseau dans le ciel.
+Et ne t'inquiète pas pour la <r<chevauchée\ncéleste>>, père a parlé à maître Hulul.\nLe départ devrait être retardé.
+Bien, Link,\ndépêchons\x2010nous ! La <r<chevauchée\ncéleste >>va bientôt commencer,\nmonte sur ton célestrier\x0E\x01\x06\x02\xFFCD !
+\x0E\x03\x01\x00Link ! Cette voix\x0E\x01\x06\x02\xFECD...\x0E\x01\x04\x02\x14\x0E\x01\x06\x02Í\nTu l'as entendue, toi aussi ?
+Je l'entends souvent ces derniers\ntemps. C'est comme si quelqu'un\nm'appelait...
+\x0E\x03\x01\x00Link... Tu t'es déjà\ndemandé ce qu'il y avait en dessous\ndes nuages ?\n\nTout le monde dit qu'il n'y a rien, juste\ndu vide... Mais moi, je n'y crois pas.\n\n\nDans les écrits anciens que possède\nmon père, il est fait mention d'une\n<r<terre>>, beaucoup plus vaste que\nCélesbourg...\nPersonne n'est jamais allé vérifier,\net même les célestriers ne peuvent pas\ntraverser les nuages...\n\n\x0E\x01\x06\x02\xFECDPourtant...\x0E\x01\x04\x02\x1E\x0E\x01\x06\x02Í je voudrais voir un jour\nce qu'il y a au\x2010delà des nuages.
+Excuse\x2010moi, ce n'est pas le moment\nde parler de tout ça... Allons\x2010y !\n\x0E\x01\x04\x02\x14Ton célestrier t'attend.\n\n<g<Appuie>> sur (v) après avoir plongé dans\nle vide. Ton célestrier viendra à toi,\ncette fois\x2010ci !\x0E\x01\x11\x02\x9CD
+
+
+
+\x0E\x03\x01\x00Link !!!
+Ne t'inquiète pas, ça va aller !
+Félicitations pour ta victoire !
+C'est l'heure de la cérémonie, allons\nsur la paume de la statue de la Déesse !\x0E\x01\x05\x04´\x00
+\x0E\x03\x01\x00Link, tu veux bien me\ndonner la <y<statuette d'oiseau >>?~~~\nJe vais la déposer sur l'autel. 
+Déesse, toi qui nous guides et nous\nprotèges depuis la nuit des temps,\npermets\x2010moi de me substituer à toi\npour cette cérémonie...
+<y+<Toi qui fus victorieux\x0E\x01\x06\x02\x4CD\n                                       \x0E\x01\x06\x02Íe<y+<n ce jour de liesse,\nS<y+<elon les rites anciens,\x0E\x01\x06\x02\x4CD\n                               >><y+<           \x0E\x01\x06\x02Íte bénit la Déesse.>>\n<y+<Qu'aujourd'hui comme demain,\x0E\x01\x06\x02\x4CD\n                                        \x0E\x01\x06\x02Íton frère ailé et toi\nSous de cléments cieux\x0E\x01\x06\x02\x4CD\n                               \x0E\x01\x06\x02Íne connaissiez que joie.>>
+<y+<Reçois en récompense\x0E\x01\x06\x02\x4CD\n                                        \x0E\x01\x06\x02Íl'étoffe immaculée\nQui saura dans le ciel,<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                    <y+<\x0E\x01\x06\x02Í<y+<doucement te porter.>>
+Vous avez obtenu le <y<parachâle>> !\n\n\n\nVous pouvez à présent sauter de\nn'importe quelle hauteur et atterrir\nen toute sécurité !\n\n\x0E\x01\x08\x02\xFFCD\x0E\x01\x06\x02\xFDCD...\x0E\x01\x04\x02\x14\x0E\x01\x06\x02\xFFCD Un doux parfum s'en dégage...\x0E\x01\x04\x02\x14
+Arrête un peu tes bêtises, c'est\nune cérémonie sacrée !
+On raconte que le parachâle était un\nartefact offert autrefois à l'<r<élu de la\nDéesse>>.\n\nBien sûr, c'est moi qui ai tissé celui\x2010ci,\net non pas la Déesse, mais...\n\n\n\x0E\x01\x06\x02\xFFCDJe suis heureuse de pouvoir te l'offrir.\x0E\x01\x04\x02\x1E\n\x0E\x01\x06\x02ÍPrends\x2010en bien soin !
+Merci, Link.\nTu as tenu ta promesse...
+Et pour terminer cette cérémonie...\x0E\x01\x05\x04<\x00
+\x0E\x01\x06\x02\xFECDTu...~~~ sais ce qui va se passer\nmaintenant, n'est\x2010ce pas ?\x0E\x01\x04\x02\x1E\n[1]Non[2]J'ai peur...[3]Je crois
+Ah, je te croyais plus futé...
+Ne dis pas ça ! Il faut que tu sois\nà la hauteur, Link !
+Hihi, tu es vraiment malin...
+Tu vas devoir sauter d'ici, maintenant.\x0E\x01\x05\x04<\x00
+Tu vois ce <r<dallage circulaire>>, là en bas,\naux pieds de la statue ?\n\n\nPour clôturer cette cérémonie, il faut\nque tu atterrisses en son centre !\n\n\nAprès avoir sauté, appuie sur (B) juste\navant d'atterrir afin d'ouvrir ton\n<y<parachâle>>.\x0E\x01\x11\x02\x1CD\n\nFais preuve de courage en l'ouvrant au\ntout dernier moment !\x0E\x01\x06\x02\xFECD Bon, \x0E\x01\x06\x02Ítu es prêt ?
+Quel joli saut, Link !
+\x0E\x03\x01\x00Link... Aujourd'hui, tu as\ngagné la chevauchée...
+Et puis il fait si beau, et à cette heure\nle vent est doux...
+Tu ne voudrais pas...~~~ qu'on aille un peu\nse promener dans le ciel ?
+\x0E\x01\x08\x02\x1CD\x0E\x03\x01\x00Link !\nHé, Link !
+Je n'oublierai jamais ta victoire\nd'aujourd'hui... Tu étais si\nmajestueux sur ton oiseau !\n\nEt ce moment que nous avons partagé\ntous les deux durant la cérémonie...
+C'était une journée merveilleuse !
+Tu sais, Link...
+Je...
+Qu'est\x2010ce que...~~~?!
+Qu'est\x2010ce que c'est que ça ?
+\x0E\x03\x01\x00Link !\x0E\x01\x05\x04-\x00
+\x0E\x01\x12\x04\x00\x0D\x0E\x03\x01\x00Link...
+Je vous attends.\n\n\n\nIl est temps de vous éveiller.\n\n\n\nVous allez être investi d'une grande\nmission que vous seul êtes capable de\nmener à bien...
+\x0E\x01\x12\x04\x00\x0D\x0E\x03\x01\x00Link...
+Tu es réveillé ?
+J'ai eu très peur lorsque ton célestrier\nt'a ramené inconscient...\n\n\nMais heureusement, tu n'es pas blessé,\nc'est le plus important.
+\x0E\x03\x01\x00Link... Et Zelda ?\nElle était avec toi, n'est\x2010ce pas ?\n\n\n~~~\x0E\x01\x06\x02\xFFCD... ~~~Qu'est\x2010il arrivé~~~ à ma fille ?
+Une tornade noire...\nCela n'a rien d'un orage normal...
+Tu es encore faible.\n\n\n\n\x0E\x03\x01\x00Link, parle\x2010moi de Zelda.\x0E\x01\x04\x02\x14\nAvait\x2010elle l'air bizarre ?
+Hmm... Elle t'a parlé de la <r<terre>>,\ndis\x2010tu ? Et toi, tu as fait plusieurs\nfois le même rêve...?\n\nUne grande mission...?\nHmm...
+Ce que tu dis me fait penser à quelque\nchose, mais cela n'a sans doute aucun\nrapport.\n\nPour en revenir à Zelda, elle est\nsûrement en sécurité si son célestrier\nest avec elle.\n\nDans tous les cas, il sera difficile de la\nchercher de nuit... Dans l'obscurité,\nnous n'y verrons rien.
+
+\x0E\x03\x01\x00Link, Zelda va bien.\nElle est encore vivante, j'en suis\npersuadé.
+Je vous attendais. Nous devions nous\nrencontrer, car vous avez été choisi\npar ma créatrice.
+<b<Fay>>. Tel est le nom qui m'a été donné.\n\n\n\nPar\x2010delà le temps, depuis un lointain\npassé, j'ai été créée pour vous...\n\n\n... vous qui êtes destiné à accomplir une\ngrande mission.
+\x0E\x03\x01\x00Link, élu de la créatrice,\nempoignez cette épée.
+Des rêves énigmatiques,~~~ ma soudaine\napparition ~~~et votre inquiétude pour\nvotre chère amie...~~~\n\nEn prenant tous ces facteurs en\ncompte, mon analyse indique que votre\nréaction à la situation est normale.\n
+Je vais vous donner une information.\n\n\n\nLa probabilité que celle\x2010ci influe sur\nvos émotions est : « très forte ».
+La personne que vous cherchez,\ndame <b<Zelda>>, est encore en vie.
+La prêtresse\x0E\x01\x06\x02\xFECD...~~~\x0E\x01\x06\x02Í c'est\x2010à\x2010dire\ndame Zelda, a tout comme vous\nune grande destinée devant elle...\n\nSi vous désirez la revoir, il vous\nfaudra prendre cette épée.
+Cette information a\x2010t\x2010elle modifié\nvotre degré de détermination ?
+Je constate que les mots sont à présent\ninutiles.\n\n\nPar la volonté de ma créatrice,\nempoignez cette épée et brandissez\x2010la\nvers le ciel...
+Reconnaissance terminée, ~~~\x0E\x01\x12\x04\x00\x01Maître...\n\n\n\n\x0E\x01\x06\x02\xFECDMon \x0E\x01\x12\x04\x00\x04maître,~~~\x0E\x01\x06\x02Í Link...
+\x0E\x03\x01\x00Link !
+C'était donc bien toi,\nLink...\n\n\nIl était dit qu'un jeune homme\napparaîtrait ici, dans la <r<salle de\nl'épée sacrée>>...
+On dit que c'est pour nous, les humains,\nque la <b<Déesse>> a laissé cette salle...\n\n\nElle a également laissé un message\nqui s'est transmis au fil du temps\nparmi une poignée d'initiés...
+<y+<Quand de l'épée divine\x0E\x01\x06\x02\x4CD\n                                      \x0E\x01\x06\x02Íla lumière émanera,\nAlors un grand fléau\x0E\x01\x06\x02\x4CD\n                                         <y+<\x0E\x01\x06\x02Í<y+<avec elle renaîtra.>>\n<y+<Nulle crainte cependant,<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                 <y+<\x0E\x01\x06\x02Í<y+<car par ma main guidé\nViendra le fier enfant<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                     <y+<\x0E\x01\x06\x02Í<y+<en cet endroit sacré.>>
+Il y a quelques jours... cette épée que\nje gardais depuis des années s'est mise\nà briller faiblement...
+Au début, je n'en ai pas cru mes yeux...\n\n\n\nJe n'aurais jamais imaginé que de\nmon vivant, la prophétie deviendrait\nréalité...
+Tout est exactement comme dans\nle message de la Déesse...\n\n\n<y+<Le guide de l'enfant\x0E\x01\x06\x02\x4CD\n                                  \x0E\x01\x06\x02Íhors de l'épée s'élance\nJuvéniles sont ses traits<y+<\x0E\x01\x06\x02\x4CD<y+<\n                      <y+<\x0E\x01\x06\x02Í<y+<mais grande est sa sapience.>>
+Les messages transmis par les humains\nmanquent de fiabilité.\n\n\nD'importantes informations ont été\nperdues par rapport au message qu'ont\nreçu vos ancêtres.
+<y+<Élu par la Déesse\x0E\x01\x06\x02\x4CD\n                             <y+<\x0E\x01\x06\x02Í<y+<pour son c\x153ur intrépide,\nIl retire l'épée,<y+<\x0E\x01\x06\x02\x4CD<y+<\n                              <y+<\x0E\x01\x06\x02Í<y+<qui deviendra son guide.>>\n<y+<Repousser les ténèbres<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                         <y+<\x0E\x01\x06\x02Í<y+<d'un fléau assassin\nEst la quête qui incombe<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                          <y+<\x0E\x01\x06\x02Í<y+<à ce fils du destin.>>\n<y+<Lame en main sous la nuée<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                     <y+<\x0E\x01\x06\x02Í<y+<la prêtresse il rallie,\nD'une grande lumière la terre<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                     \x0E\x01\x06\x02Íils ramènent à la vie.>>
+Dans les écrits anciens que possède\nmon père...\n\n\n... il est fait mention d'une <r<terre>>,\nbeaucoup plus vaste que Célesbourg...
+\x0E\x01\x12\x04\x00\x01Maître, pour accomplir la tâche\nque vous a confiée la Déesse,\nma créatrice...\n\n... et pour retrouver la prêtresse,\ndame Zelda, il vous faudra vous rendre\ndans le monde qui existe par\x2010delà les\nnuages... \n... le monde qu'on appelle la <r<terre>>.
+Mais l'accès à la terre nous a été\ninterdit ! Pour y descendre, il faut\ntraverser la mer de nuages.\n\nOr, personne n'y est jamais parvenu...
+Cette stèle vous ouvrira le chemin\npour descendre jusqu'à la terre.\n\n\nInsérez\x2010la dans le piédestal qui se\ntrouve juste derrière moi.
+Vous avez obtenu la <r<stèle émeraude >>!\nC'est une vieille plaque en pierre très\nlourde.
+\x0E\x01\x12\x04\x00\x01Maître, utilisez l'<r<éclat céleste >>sur\nl'emblème qui se trouve au fond\nde la salle.\n\nL'<r<éclat céleste >>est le nom de l'énergie\nqui se concentre dans la lame de l'épée\nquand vous la levez vers le ciel.\n\nAttendez d'en avoir accumulé\nsuffisamment, puis abattez votre\nlame en direction de l'emblème.
+\x0E\x01\x12\x04\x00\x04Maître Link.
+C'est la <r<barrière>> de la Déesse qui rend\nimpossible la traversée de la mer de\nnuages.\n\nUne partie de cette barrière est\nmaintenant levée et une voie s'est\nouverte.\n\nVous êtes à présent mon \x0E\x01\x12\x04\x00\x02maître.\n\n\n\nJe resterai à vos côtés, à l'intérieur de\nl'épée. <g<Appuyez>> sur (v) lorsque vous\nsouhaitez m'appeler.\x0E\x01\x11\x02\x9CD
+\x0E\x03\x01\x00Link, je ne sais quelle est\nla nature de ce fléau qui nous menace.\n\n\nMais il est certain qu'une grande\nresponsabilité pèse sur vos épaules,\nà toi et à Zelda.\n\nSi ce que Fay dit est vrai...~~~\nZelda est en vie !\n\n\nEt de son côté, elle doit également\nfaire face à son destin.\n\n\n\x0E\x03\x01\x00Link... Nul ne sait ce qui\nt'attend. Tu vas certainement au\ndevant de grands dangers.\n\nMais si tu peux faire quelque chose\npour moi, j'aimerais que tu sauves\nma fille, Zelda.
+Mes espoirs reposent sur toi,\nLink !\x0E\x01\x04\x02\x1E\n[1]Comptez\nsur moi ![2]Pas\nquestion ![3]C'est un lourd\nfardeau...
+Merci, Link !
+Je comprends ta détresse... Mais\nc'est là ta destinée, Link.
+Oui, ce sera un périple semé\nd'embûches... J'en suis désolé,\nLink...
+La nuit touche à sa fin... Elle fut\nlongue pour toi comme pour moi.\n\n\n\x0E\x03\x01\x00Link, tes vêtements ne\nconviennent guère au long voyage\nqui t'attend.\n\nTu as reçu une tenue en récompense\nde ta victoire lors de la chevauchée\ncéleste. Elle sera bien plus appropriée.\n\nTu devrais te changer avant de prendre\nla route.
+Voici la tenue des chevaliers de cette\nannée.\x0E\x01\x04\x02\x14 J'ai eu un doute sur la couleur,\nla première fois que je l'ai vue...\n\nMais tout bien réfléchi, elle te va\nétrangement bien !
+Va, et fais bien attention à toi. N'oublie\npas de passer en ville pour bien te\npréparer avant de partir.\n\nQuant à moi, je vais tâcher de trouver\ndans les écrits anciens quelque chose\nqui puisse t'aider.\n\nReviens me voir quand tu veux.\nEn attendant, je prierai la Déesse\npour qu'il ne vous arrive rien, à toi\net à Zelda.
+
+\x0E\x01\x12\x04\x00\x04Maître Link, Fay au\nrapport.\n\n\nLes mots de la <b<Déesse>> se sont éveillés\nen moi lorsque vous avez utilisé l'éclat\ncéleste sur l'emblème.\n\nIl s'agit d'un message pour vous,\n\x0E\x01\x12\x04\x00\x01Maître.
+<y+<Toi qui t'es mis en quête\x0E\x01\x06\x02\x4CD\n                          \x0E\x01\x06\x02Ídes trois <b<flammes sacrées<y+<,\nDes abîmes du temps,<y+<\x0E\x01\x06\x02\x4CD<y+<\n                             <y+<\x0E\x01\x06\x02Í<y+<mes mots vont te guider.>>
+<y+<Pour les <b<flammes sacrées<y+<\x0E\x01\x06\x02\x4CD<b<\n                                 <y+<\x0E\x01\x06\x02Ítoutes trois découvrir,\nLes <b<reliques divines<y+<\x0E\x01\x06\x02\x4CD<b<\n                                       <y+<<y+<\x0E\x01\x06\x02Í<y+<tu devras acquérir.>>\n<y+<Pour que te soient remis<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                     <y+<\x0E\x01\x06\x02Í<y+<ces talismans sacrés,\nD'exigeantes <r<épreuves<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                 <y+<\x0E\x01\x06\x02Í<y+<tu devras surmonter...>>
+<y+<Le pouvoir des reliques<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                        \x0E\x01\x06\x02Íle chemin t'ouvrira\nEt des <b<flammes sacrées<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                     <y+<\x0E\x01\x06\x02Í<y+<l'éclat t'enchantera.>>\n<y+<Or écoute ce chant<y+<\x0E\x01\x06\x02\x4CD<y+<\n                            <y+<\x0E\x01\x06\x02Í<y+<ouvrant quand il résonne\nL'épreuve que renferme<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<<y+<\n                                         <y+<\x0E\x01\x06\x02Í<y+<la <r<forêt de Firone<y+<.>>
+Le <b<Courage de Farore>>...\nTel est le nom de ce chant vaillant\nqui vous guidera, \x0E\x01\x12\x04\x00\x01Maître.
+Vous avez appris le <y<Courage de Farore >>!
+\x0E\x01\x12\x04\x00\x01Maître.\n\n\n\nPour chaque flamme sacrée, il vous\nfaudra passer une <r<épreuve>> et ainsi\nobtenir une relique sacrée.\n\nJ'ai mémorisé le Courage de Farore.\nVous pouvez à présent <r<détecter\n>>l'<b<entrée de l'épreuve>>.\n\nDirigez\x2010vous vers la <b<forêt de Firone>>.
+
+\x0E\x01\x12\x04\x00\x04Maître Link, Fay au\nrapport.\n\n\nLes mots de la <b<Déesse>> se sont éveillés\nen moi lorsque vous avez utilisé l'éclat\ncéleste sur l'emblème.\n\nIl s'agit d'un message pour vous,\n\x0E\x01\x12\x04\x00\x01Maître.
+<y+<Toi qui poursuis ta quête<y+<\x0E\x01\x06\x02\x4CD<y+<\n                          \x0E\x01\x06\x02Ídes trois <b<flammes sacrées<y+<,\nJe vais du fond des temps,<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<<y+<\n                                     <y+<\x0E\x01\x06\x02Í<y+<à nouveau te guider.>>
+<y+<Brûlent deux <b<flammes sacrées<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                          \x0E\x01\x06\x02Íqu'encore tu dois trouver.\nDe nouvelles <b<reliques<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                       <y+<\x0E\x01\x06\x02Í<y+<il te faudra gagner.\n<y+<Pour que te soient remis<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                     <y+<\x0E\x01\x06\x02Í<y+<ces talismans sacrés,\nD'exigeantes <r<épreuves<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                 <y+<\x0E\x01\x06\x02Í<y+<tu devras surmonter...<y+<>>
+<y+<Le pouvoir des reliques<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                        <y+<\x0E\x01\x06\x02Í<y+<le chemin t'ouvrira\nEt des <b<flammes sacrées<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                     <y+<\x0E\x01\x06\x02Í<y+<l'éclat t'enchantera.>>\n<y+<Or, écoute ce chant<y+<\x0E\x01\x06\x02\x4CD<y+<\n                             <y+<\x0E\x01\x06\x02Í<y+<dont les accents révèlent\nL'épreuve que renferme<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                     <y+<\x0E\x01\x06\x02Í<y+<le <r<désert de Lanelle<y+<.>>
+La <b<Sagesse de Nayru>>...\nTel est le nom de ce chant de\nconnaissance qui vous guidera,\n\x0E\x01\x12\x04\x00\x01Maître.
+Vous avez appris la <y<Sagesse de Nayru >>!
+J'ai mémorisé la Sagesse de Nayru.\nVous pouvez à présent <r<détecter\n>>l'<b<entrée de l'épreuve>>.\n\nDirigez\x2010vous vers le <b<désert de Lanelle>>.
+
+\x0E\x01\x12\x04\x00\x04Maître Link, Fay au\nrapport.\n\n\nLes mots de la <b<Déesse>> se sont éveillés\nen moi lorsque vous avez utilisé l'éclat\ncéleste sur l'emblème.\n\nIl s'agit d'un message pour vous,\n\x0E\x01\x12\x04\x00\x01Maître.
+<y+<Toi qui poursuis ta quête<y+<\x0E\x01\x06\x02\x4CD<y+<\n                          \x0E\x01\x06\x02Ídes trois flammes sacrées,\nPour la troisième fois,<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<<y+<\n                                    <y+<\x0E\x01\x06\x02Í<y+<ma voix va te guider.>>
+<y+<Une <b<flamme sacrée<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                <y+<\x0E\x01\x06\x02Í<y+<encore tu dois trouver.\nUne dernière <b<relique<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                       <y+<\x0E\x01\x06\x02Í<y+<il te faudra gagner.\n<y+<Pour que te soit remis<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                          \x0E\x01\x06\x02Íce talisman sacré,\nUne exigeante <r<épreuve<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                 \x0E\x01\x06\x02Ítu devras surmonter...<y+<>>
+<y+<Le pouvoir des reliques<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                      <y+<\x0E\x01\x06\x02Í<y+<le chemin t'ouvrira,\nEt des <b<flammes sacrées<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                     <y+<\x0E\x01\x06\x02Í<y+<l'éclat t'enchantera.>>\n<y+<Or écoute ce chant<y+<\x0E\x01\x06\x02\x4CD<y+<\n                               <y+<\x0E\x01\x06\x02Í<y+<dont les notes dessinent\nLa porte de l'épreuve,<y+<\x0E\x01\x06\x02\x4CD<y+<\n                            <y+<\x0E\x01\x06\x02Í<y+<celle du <r<volcan d'Ordinn<y+<.>>
+La <b<Force de Din>>...\nTel est le nom de ce chant puissant\nqui vous guidera, \x0E\x01\x12\x04\x00\x01Maître.
+Vous avez appris la <y<Force de Din >>!
+J'ai mémorisé la Force de Din.\nVous pouvez à présent <r<détecter\n>>l'<b<entrée de l'épreuve>>.\n\nDirigez\x2010vous vers le <b<volcan d'Ordinn>>.
+
+Hoho ! Tu as rencontré les trois\ndragons et appris leur chant !\nQuel brave petit !
+C'est donc à mon tour de tenir ma\npromesse ! Je vais t'interpréter la\ndernière mélodie.
+Vous avez appris la <y<dernière mélodie du\nChant du héros>>\x0E\x01\x04\x02\n.~~~.\x0E\x01\x04\x02\x14.\x0E\x01\x05\x04<\x00
+Vous avez reconstitué le <y<Chant du héros >>!
+Bien ! Tu n'as plus besoin\nd'explications, si ? Ce chant te\nrévélera l'<b<entrée de l'épreuve>>.\n\nLorsque tu auras réussi cette dernière\népreuve quelque part dans le <b<ciel>>,\nla voie vers la <y+<Triforce>> s'ouvrira\ndevant toi.
+
+\x0E\x01\x12\x04\x00\x0BMaître Link, Fay au\nrapport. La probabilité que\nl'édifice qui vient d'apparaître\nrenferme la <y+<Triforce>> est de 85 %.\nIl est bientôt temps d'accomplir\nla mission que dame <b<Zelda>> vous a\nconfiée : détruire l'Avatar du Néant.
+
+\x0E\x01\x12\x04\x00\x01Maître...~~~\x0E\x01\x06\x02\xFFCD La fin de notre voyage est\nproche...~~~ Prions pour la <r<destruction\n>>de l'<b<Avatar du Néant>>.

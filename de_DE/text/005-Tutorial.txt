@@ -1,0 +1,370 @@
+Zielen
+Pfeil abfeuern
+Bogen spannen
+Neige die Wii-FB, um\ndas Fadenkreuz\nauszurichten. Zentriere\ndas Fadenkreuz, indem\ndu (v) drückst.
+Drücke (A), um einen\nPfeil abzufeuern. Halte\n(A) gedrückt, um Kraft\nfür einen starken\nSchuss zu sammeln.
+Halte (C) gedrückt und\nziehe das Nunchuk nach\nhinten, um schnell Kraft\nzu sammeln. Lasse (C)\nlos, um zu schießen.
+
+
+
+
+
+
+Bogen zücken
+Bogen spannen
+Pfeil abfeuern
+Halte die Wii-FB\nsenkrecht und halte\n(C) gedrückt.
+Halte (C) gedrückt und\nziehe das Nunchuk nach\nhinten, um Kraft zu\nsammeln und mehr\nSchaden anzurichten.
+Richte das Fadenkreuz\naus und lasse (C) los, um\nzu schießen. Zentriere\ndas Fadenkreuz, indem\ndu (v) drückst.
+
+Zielen
+Schießen
+Nachfüllen
+Halte die Wii-FB\nwaagerecht und ziele\nmit dem Fadenkreuz.\nZentriere dieses durch\nDrücken von (v).
+Drücke (A), um zu\nschießen.
+Drücke (A), um zu\nschießen. Halte (A)\ngedrückt und lasse\ndann los, um einen\nStreuschuss abzufeuern.
+Achte auf die Munition!\nFülle deinen Vorrat mit\nDeku-Kernen auf, die\ndu in Baumfrüchten\nfinden kannst.
+
+Ablegen
+Werfen
+Rollen
+Drücke (A), um das\nItem abzulegen.
+Zeige mit der Wii-FB\nnach oben und bewege\nsie ruckartig nach\nvorne.
+Zeige mit der Wii-FB\nnach unten und bewege\nsie ruckartig nach\nvorne. Schwere Items\nlassen sich nicht rollen.
+
+Werfen
+Rollen
+Einsammeln
+Zeige mit der Wii-FB\nnach oben und bewege\nsie ruckartig nach\nvorne.
+Zeige mit der Wii-FB\nnach unten und bewege\nsie schnell nach vorne.\nDrehe sie, um dem Item\neinen Drall zu geben.
+Drücke (B), um eine\nBombe einzusammeln.\nFülle deinen Vorrat mit\nDonnerblumen auf.
+
+Abfeuern
+Steuern
+Zurückrufen
+Ziele und drücke (A),\num deinen Käfer abzu-\nfeuern. Zentriere die\nAnsicht durch Drücken\nvon (v).
+Zeige mit der Wii-FB\n<r<auf den Bildschirm>>.\nNeige sie oder zeige\nnach oben oder unten,\num den Käfer zu lenken.
+Um den Käfer während\ndes Fluges wieder zu\ndir zurückzurufen,\ndrücke (B).
+
+Items aufheben
+Hinabblicken
+Items abwerfen
+Beschleunigen
+Fliege mit dem Käfer an\nleichtgewichtige Items,\num sie aufzusammeln.
+Drücke (Z), um nach\nunten zu blicken und\nzu zielen.
+Drücke (A) während du\nnach unten blickst, um\ndas Item abzuwerfen.
+Drücke (Z), um nach\nunten zu blicken und zu\nzielen. Drücke (A), um\ndas Item abzuwerfen.
+Drücke (A), um zu\nbeschleunigen.
+
+Anvisieren
+Zielen
+Netz schwingen
+Visiere ein Insekt an,\nindem du (Z) drückst,\nund nähere dich ihm\nvorsichtig.
+Bewege das Netz\nlangsam auf das\nInsekt zu. Ziele gut.
+Bewege die Wii-FB\nruckartig in Richtung\ndes Insekts.
+
+Wind machen
+Dinge wegpusten
+Zentrieren
+Ziele mit der Wii-FB\nund drücke (A),\num einen Luftstrom\nzu erzeugen.
+Richte den Luftstrom\nauf verschiedene Dinge,\num eine Reaktion\nhervorzurufen.
+Zentriere die Ansicht\ndurch Drücken von (v).
+
+Peitschen
+Zielen
+Ziehen
+Bewege die Wii-FB\nruckartig in die\nRichtung, in die du\npeitschen möchtest.
+Visiere durch Drücken\nvon (Z) dein Ziel an und\nschwing die Peitsche.
+Objekte, die du mit der\nPeitsche umwickelt\nhast, lassen sich zu\ndir heranziehen.
+
+Abfeuern
+Bewegen
+Erneut abfeuern
+Ziele und drücke (A),\num den Greifhaken\nabzufeuern. Zentriere\ndie Ansicht, indem du\n(v) drückst.
+Findet dein Greifhaken\nfesten Halt, rollt sich\ndie Kette auf und du\nwirst blitzschnell an\ndein Ziel gezogen.
+Hängst du an einem\nZiel, kannst du ein\nweiteres anvisieren und\ndich dorthin ziehen.
+
+Bewegen
+Angreifen
+Oberfläche betrachten
+Krieche durch die\nGänge, indem du \x0E\x02\x04\x02\x8CD\nbewegst. Halte (A)\ngedrückt, um schneller\nzu kriechen.
+Bewege die Wii-FB\nruckartig, um mit\ndeinen Klauen einen\nAngriff nach vorne\nauszuführen.
+Hältst du (Z) gedrückt,\nkannst du das Gelände\nüber dir betrachten.
+
+Schwimmen
+Anvisieren
+Wasser verlassen
+Neige \x0E\x02\x04\x02\x8CD in die\nRichtung, in die du\nschwimmen möchtest.
+Hältst du (Z) gedrückt,\nbewegst du dich mithilfe\nvon \x0E\x02\x04\x02\xDCD vorwärts und\nrückwärts und mithilfe\nvon \x0E\x02\x04\x02\xECD seitwärts.
+Neige \x0E\x02\x04\x02\x8CD in Richtung\ndes Ufers, um Gewässer\nzu verlassen. Höher\ngelegene Orte erreichst\ndu von dort aus nicht.
+
+Bewegen
+Schwimmen
+Wasserschraube
+Neige \x0E\x02\x04\x02\x8CD, um dich im\nWasser zu bewegen.
+Halte (A) gedrückt,\nziele mit der Wii-FB\n<r<auf den Bildschirm >>und\nneige sie, um zu\nschwimmen.
+Bewege das Nunchuk\nruckartig, um sie aus-\nzuführen. Mit ihr\nkannst du auch aus dem\nWasser springen.
+
+Lyra hervorholen
+Spielen
+Technik
+Hole die Lyra durch\nDrücken von (^) hervor.
+Halte (A) gedrückt und\nbewege die Wii-FB.
+Schwinge die Wii-FB im\nEinklang mit dem\npulsierenden Kreis\nnach links und rechts.
+
+Bewegen
+Sprinten
+Rolle
+Bewege dich mithilfe\nvon \x0E\x02\x04\x02\x8CD. Drücke (Z),\num die Kamera neu\nauszurichten und nach\nvorne zu blicken.
+Halte (A) während des\nLaufens gedrückt, um\nzu sprinten. Du kannst\ndamit auch Wände\nhochklettern.
+Halte (A) während des\nLaufens gedrückt, um\nzu sprinten. Erreiche\nfesten Boden, bevor du\nversinkst.
+Bewege das Nunchuk\nruckartig nach vorne,\nwährend du sprintest.
+Auf Treibsand ist das\nAusführen der Rolle\nnicht möglich.
+
+Bewegen
+Ausweichen
+Anvisieren
+Um dich zu bewegen,\nhalte (Z) gedrückt und\nneige \x0E\x02\x04\x02\xECD nach links\noder rechts bzw. nach\noben oder unten \x0E\x02\x04\x02\xDCD.
+Drücke (A) während der\nBewegung. Drückst du\n(A), während du dich\nrückwärts bewegst,\nmachst du einen Salto.
+Halte (Z) in der Nähe\neines Objekts gedrückt.
+
+Schwingen
+Stichattacke
+Wirbelattacke
+Schwinge die Wii-FB in\ndie Richtung, in die du\nauch dein Schwert\nschwingen möchtest.
+Stoße mit der Wii-FB\nnach vorne, um eine\nStichattacke\nauszuführen.
+Bewege Nunchuk und \nWii-FB ruckartig senk-\nrecht oder waagerecht\nfür unterschiedliche\nArten dieser Attacke.
+
+Schwingen
+Wirbelattacke
+Himmelsstrahl
+Schwinge die Wii-FB in\ndie gewünschte Rich-\ntung oder stoße sie nach\nvorne, um eine Stich-\nattacke auszuführen.
+Bewege Nunchuk und \nWii-FB ruckartig senk-\nrecht oder waagerecht\nfür unterschiedliche\nArten dieser Attacke.
+Richte das Schwert gen\nHimmel, um es mit\nMacht zu erfüllen.\nSchwinge es, um diese\nMacht freizusetzen.
+An diesem Ort kannst du\ndie Macht des Himmels-\nstrahls nicht einsetzen.
+
+Schild heben
+Schildattacke
+Schildanzeige
+Bewege das Nunchuk\nruckartig. Schwinge das\nSchwert, um den Schild\nwieder zu senken.
+Bewege das Nunchuk\nerneut ruckartig,\num mit deinem Schild\nzuzustoßen. Richtiges\nTiming ist alles!
+Ist deine Schildanzeige\nzur Gänze geleert,\nzerbricht dein Schild.
+
+Bewegen
+Paraschal
+Wolkenvogel rufen
+Neige die Wii-FB, um\nnach dem Abspringen\ndurch die Luft zu\nmanövrieren.
+Drücke kurz vor der\nLandung (B), um deinen\nParaschal zu öffnen und\nsanft zu landen.
+Drücke (v), um deinen\nWolkenvogel zu rufen.
+Du kannst deinen Vogel\nhier nicht rufen.
+
+Hinabsinken
+Wegstecken
+Bewegen
+Sinke vorsichtig hinab.
+Lasse (B) los, um deinen\nParaschal wieder\nwegzustecken.
+Während du den\nParaschal verwendest,\nkannst du dich nicht\nbewegen.
+
+Steuerung
+Angreifen
+Tornadostoß
+Verlangsamen
+Bewege die Wii-FB\nruckartig zum Steigen.\nNeige sie nach vorn zum\nBeschleunigen und zur\nSeite, um zu steuern.
+Drücke (A), um anzu-\ngreifen. Ist die Flügel-\nanzeige leer, kannst du\nnicht angreifen.
+Drücke (A), um einen\nTornadostoß auszu-\nführen. Ist deine Flügel-\nanzeige leer, kannst du\nnicht angreifen.
+Drücke (B), um deinen\nFlug zu verlangsamen.\nBist du zu langsam,\nschwebst du mit deinem\nVogel auf der Stelle.
+
+Trinken
+Füllen
+Verwenden
+Um den Inhalt einer\nFlasche zu trinken,\ndrücke (A).
+Nimm eine leere Flasche\nund fülle sie, indem du\n(A) drückst.
+Du kannst den Inhalt\neiner Flasche\nverwenden, indem\ndu (A) drückst.
+
+Richtung
+Entfernung
+Ziel ändern
+Blicke in die Richtung,\nin der du suchen\nmöchtest. Zentriere\ndie Ansicht, indem\ndu (v) drückst.
+Achte auf akustische\nSignale und Größe des\nKreises. Sie geben an,\nwie weit du noch vom\nZiel entfernt bist.
+Halte (C) gedrückt und\nneige die Wii-FB, um\nauszuwählen, wonach\ndu suchen möchtest.
+
+Umsehen
+Zentrieren
+Zurück
+Suchmodus
+Zeige mit der Wii-FB\nauf den Bildschirm und\nbewege den Kreis, um\ndich umzusehen.
+Drücke (v), um den\nKreis wieder in der\nMitte des Bildschirms\nzu zentrieren.
+Drücke (C), um\nzur Standardsicht\nzurückzukehren.
+Halte (C) gedrückt und\nneige die Wii-FB, um\nauszuwählen, wonach\ndu suchen möchtest.
+
+Bewegen
+Springen
+Loslassen
+Neige \x0E\x02\x04\x02\x8CD, um dich\nzu bewegen.
+Bewege die Wii-FB\nruckartig, um einen\nSprung in die ent-\nsprechende Richtung\nzu machen.
+Drücke (A), um\nloszulassen. Verwende\n\x0E\x02\x04\x02\x9CD oder (A), um dich\nwährend des Fallens\nerneut festzuhalten.
+
+Bewegen
+Balancieren
+Schaukeln
+Bewege dich mithilfe\nvon \x0E\x02\x04\x02\x9CD vorwärts\nund mithilfe von\n\x0E\x02\x04\x02\xACD rückwärts.
+Kippst du leicht zur\nSeite, neige die Wii-FB\nin die entgegengesetzte\nRichtung, um deine\nBalance zu halten.
+Halte die Wii-FB senk-\nrecht und bewege sie\nruckartig, um das Seil\nschaukeln zu lassen.
+
+Bewegen
+Loslassen
+Schaukeln
+Neige \x0E\x02\x04\x02\x9CD, um an dem\nSeil hinaufzuklettern\nund neige \x0E\x02\x04\x02\xECD, um dich\nnach links oder rechts\nzu bewegen.
+Drücke (A),\num loszulassen.
+Halte die Wii-FB senk-\nrecht und bewege sie\nruckartig, um das Seil\nschaukeln zu lassen.
+
+Schwingen
+Richtung
+Springen
+Klettern
+Bewege die Wii-FB\nruckartig, um am Seil\nzu schwingen.\nDrücke (B), um wieder\nzur Ruhe zu kommen.
+An diesem Seil kannst\ndu nicht schwingen.
+Neige \x0E\x02\x04\x02\xECD, um die\nRichtung zu ändern.
+Drücke (A), um\nzu springen.
+Um nach oben und\nunten zu klettern,\nverwende \x0E\x02\x04\x02\xDCD.\nDrücke (A),\num loszulassen.
+
+Bewegen
+Richtung
+Schnell kriechen
+Bewege dich mithilfe\nvon \x0E\x02\x04\x02\x9CD vorwärts\nund mithilfe von\n\x0E\x02\x04\x02\xACD rückwärts.
+Neige \x0E\x02\x04\x02\xECD in die\nRichtung, in die du\ndich bewegen willst.
+Halte (A) gedrückt, um\nschneller zu kriechen.
+
+Schlüssel greifen
+Schlüssel drehen
+Schlüsselloch ansehen
+Zeige mit der Wii-FB\n<r<auf den Bildschirm>> und\ndrücke (A), um zu\ngreifen. Drücke (B),\num abzubrechen.
+Drehe den Schlüssel,\nindem du die Wii-FB\nneigst. Drücke (C),\num seine Position\nzurückzusetzen.
+Drücke (Z), um den\nSchlüssel transparent\nwerden zu lassen. Um \nihn in das Schlüsselloch\nzu stecken, drücke (A).
+
+Balance halten
+Verlangsamen
+Springen
+Neige die Wii-FB, um\nnicht zu entgleisen.
+Drücke (B), um deine\nFahrt zu verlangsamen.
+Bewege die Wii-FB\nruckartig, um über\nzerstörte Streckenab-\nschnitte zu springen.
+
+Bewegen
+Kanone
+Umsehen
+Neige \x0E\x02\x04\x02\x8CD, um das\nBoot zu steuern.
+Drücke (B), um sie zu \nverwenden und feuere\nsie durch Drücken von\n(A) ab. Drücke (v) zum\nZentrieren der Ansicht.
+Drücke (C), um dich\numzusehen und\ndie Aurasuche\nzu verwenden.
+
+Bewegen
+Balancieren
+Abspringen
+Bewege dich mithilfe\nvon \x0E\x02\x04\x02\x8CD. Drücke (Z),\num die Kamera neu\nauszurichten und nach\nvorne zu blicken.
+Solltest du aus dem\nGleichgewicht kommen,\nlasse \x0E\x02\x04\x02\x8CD los, um deine\nGeschwindigkeit wieder\nzu verringern.
+Rolle die Kugel an\neinen Vorsprung und\ndrücke (A), um von\nihr abzuspringen.
+
+Bewegen
+Luftströme
+Rutschen
+Bewege dich mithilfe\nvon \x0E\x02\x04\x02\xECD nach links\noder rechts.
+Sobald du auf Luft-\nströme trittst, wirst du\nnach oben getragen.
+Du rutschst so lange\neine Schräge hinab,\nbis du wieder flachen\nBoden unter den\nFüßen hast.
+
+Tränen sammeln
+Hüter
+\x0E\x02\x01\x02\x11
+Um diese Prüfung\nerfolgreich zu beenden,\nmusst du 15 Tränen\nsammeln und zum\nPortal zurückkehren.
+Erleidest du auch nur\neinen einzigen Treffer,\ngilt diese Prüfung\nals gescheitert.
+Hüter ignorieren dich,\nsolange du über Blüten-\nblätter verfügst. Tränen\nstellen Blütenblätter\nwieder her.
+
+Bewegen
+Bonusringe
+Landen
+Neige die Wii-FB,\num dich während des\nfreien Falls in der Luft\nzu bewegen.
+Fliege durch die Ringe,\num Boni zu erhalten.\nErwischst du einen\nBallon, verlierst du\nsämtliche Boni.
+Dein Gewinn hängt von\ndem Feld, auf dem du\nlandest, und von den\ngesammelten Boni ab.
+
+Graben
+Hinweis
+Bomben
+Drücke (A) über einem\nLoch im Boden, um die\ndort versteckten\nRubine auszugraben.
+In der Nähe besonders\nwertvoller Rubine sind\noft auch Bomben\nvergraben. Sei deshalb\nbesonders vorsichtig!
+Das Spiel endet,\nsobald du auf eine\nBombe stößt.
+
+Schneiden
+Gib dein Bestes
+Technik
+Schwinge die Wii-FB,\num den Bambus klein\nzu schneiden.
+Höre nicht auf, bis du\nden ganzen Bambus\nklein geschnitten hast.
+Achte auf den richtigen\nRhythmus, damit der\nBambus nicht umfällt.
+
+Zielen
+Netz schwingen
+Insekteneigenschaften
+Visiere ein Insekt an,\nindem du (Z) drückst,\nund nähere dich ihm\nvorsichtig, damit es dich\nnicht bemerkt.
+Schwinge blitzartig die\nWii-FB, um das Insekt\nzu fangen.
+Merke dir gut, wo du ein\nInsekt gefunden hast\nund wie es sich am\nbesten fangen lässt.
+
+Kürbisse treffen
+Punkte
+Technik
+Triff den Kürbis mit\neinem Pfeil, bevor er\nauf dem Boden\naufschlägt.
+Triffst du mehrere\nKürbisse in Folge, er-\nhältst du mehr Punkte.\nGlänzende Kürbisse\nbringen Bonuspunkte.
+Richte deinen Bogen\naus und bereite dich\nzum Schuss vor, bevor\nder Kürbis in die Luft\ngeworfen wird.
+
+Zeichnen
+Abbrechen
+Motive
+Halte (A) gedrückt und\nbewege die Spitze des\nSchwertes, um zu\nzeichnen. Lasse (A) los,\num zu beenden.
+Drücke (B), um das\nZeichnen abzubrechen.
+Was auch immer du\nzeichnest, wird wie\nvon Geisterhand vor\ndir erscheinen.\nSo sagt man...
+
+Wählen
+Greifen
+Beenden
+Zeige mit der Wii-FB\nauf ein Element,\num es auszuwählen.
+Greife das Element,\nindem du (A) gedrückt\nhältst und bewege es.
+Drücke (B), um\nzu beenden.
+
+Aufstehen
+Umsehen
+Eine Pause machen
+Drücke (A), um\naufzustehen.
+Drücke (C), um\ndich umzusehen.
+Während du sitzt, füllen\nsich deine Herzen\nlangsam wieder auf.
+
+Bewegen
+Feuer!
+Link
+Bewege das Katapult\nmithilfe von \x0E\x02\x04\x02\xECD nach\nlinks oder rechts.
+Visiere mit der Wii-FB\ndas Ziel an und schieße\ndurch Drücken von (A).\nZentriere die Ansicht,\nindem du (v) drückst.
+Möchtest du das\nKatapult nicht mehr\nverwenden, drücke (B)\noder (^).
+
+Klettern
+Schnelles Klettern
+Loslassen
+Klettere mithilfe von\n\x0E\x02\x04\x02\xDCD hoch oder runter.
+Bewege die Wii-FB\nruckartig während du\nkletterst, um schneller\nvorwärts zu kommen.
+Drücke (A), um\nloszulassen. Verwende\n\x0E\x02\x04\x02\x9CD oder (A), um dich\nwährend des Fallens\nerneut festzuhalten.
+
+Bewegen
+Balancieren
+Harte Arbeit
+Bewege dich mithilfe\nvon \x0E\x02\x04\x02\x8CD vorsichtig\nvorwärts, um die\nKürbisse nicht\nfallen zu lassen.
+Behalte die Balance,\nindem du dich mithilfe\nvon \x0E\x02\x04\x02\xCCD nach rechts und\nmithilfe von \x0E\x02\x04\x02\xBCD nach\nlinks bewegst.
+Während dieser Auf-\ngabe kannst du Kürbisse\nweder werfen noch ab-\nlegen, sondern nur in\ndas Lager tragen.
+
+Schwingen
+Ablegen
+Schneiden
+Schwinge die Wii-FB in\ndie Richtung, in die du\nauch dein Schwert\nschwingen möchtest.
+Drücke (A), um das\nSchwert abzulegen.\nDrücke erneut (A), um\nes wieder aufzuheben.
+Mit diesem Schwert\nkannst du Dinge\nzerschneiden, die sich\nsonst nicht zerteilen\nlassen.
+
+Landeplatz
+Abspringen
+Paraschal
+Lande in der Mitte des\nrunden Reliefs.
+Neige die Wii-FB, um\nnach dem Abspringen\ndurch die Luft zu\nmanövrieren.
+Drücke kurz vor der\nLandung (B), um deinen\nParaschal zu öffnen und\nsanft zu landen.
+

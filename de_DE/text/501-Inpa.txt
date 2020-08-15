@@ -1,0 +1,134 @@
+\x0E\x01\x09\x04\x00\x01\x0E\x01\x06\x02\xFECDSieh an...~~~\nDer Auserwählte, der das Wolkenmeer\ndurchquert hat und vom Himmel\ngestiegen ist...
+\x0E\x01\x09\x04\x00\x08\x0E\x01\x06\x02\xFECDWie heißt du?\n\n\n\n...\x0E\x01\x04\x02(Link?\nGut, Link also.\n\n\nDu beherrschst den <pling><r<Himmelsstrahl>>,\njene heilige Kraft, die durch das\n<g<Emporstrecken des Schwertes gen\nHimmel>> beschworen wird.\n\x0E\x01\x09\x04\x00\x0BJa, du scheinst des <b<Schwertes der\nGöttin >>fürwahr würdig zu sein.\n\n\n\x0E\x01\x06\x02\xFFCDIch sitze hier seit ewiger Zeit und habe\nauf dich gewartet...\nDen Wegbereiter des Schicksals...
+Das hier ist der uralte <b<Tempel des\nSiegels>>, der von der Göttin selbst\nerschaffen wurde.\n\nDein Kommen wurde vor sehr, sehr\nlanger Zeit vorherbestimmt...\n\n\nDas Mädchen, das du suchst, ist erst\nvor Kurzem von Licht umhüllt in\ndiesem Tempel erschienen.\n\nEs ist Schicksal...
+\x0E\x01\x09\x04\x00\nAber ihre Ankunft im Erdland\nentsprach nicht der Prophezeiung.\n\n\nEs scheint gerade so, als wolle eine\nböse Macht euer beider Bestimmungen\nbeeinflussen.
+\x0E\x01\x09\x04\x0E\xFF08Link...\x0E\x01\x04\x02\x1E\nMachst du dir Sorgen um sie?\n\n\nDann müssen wir jetzt handeln. Großes\nist euch beiden vorherbestimmt.\n\n\nUm ihre Bestimmung zu erkennen,\nging sie in den <b<Wald von Phirone>>.\nDu musst ihr folgen.
+\x0E\x01\x09\x04\x0E\xFF00Sieh auf deine Karte.
+Ich habe dir auf der Karte den Weg\nzum <b<Wald von Phirone >>mit einem \x0E\x02\x04\x02\x19CD\nmarkiert.\n\nAber es ist gefährlich, bei all den\nMonstern mit der Nase in der Karte\numherzulaufen.\n\nDaher bringe ich dir bei, wie du\n<r<Signallichter>> verwendest.\n\n\nWenn du auf der Karte ein <r<Signallicht\n>>setzt, erscheint dort eine Lichtsäule,\nan der du dich orientieren kannst.\n\nAlso, zeige auf \x0E\x02\x04\x02\x19CD und drücke (C),\num ein Signallicht zu setzen.\x0E\x01\x11\x02\x6CD
+\x0E\x01\x09\x04\x00\x03Du kannst es von hier zwar nicht sehen,\naber das Signallicht leuchtet dir nun\nden Weg.\n\nWenn du das Signallicht nicht mehr\nbrauchst, zeige auf der Karte darauf\nund drücke erneut (C), um es zu\nentfernen.\x0E\x01\x11\x02\x6CD\nJetzt musst du nicht mehr fürchten,\ndich zu verlaufen!
+\x0E\x01\x09\x04\x00\x06An der mit \x0E\x02\x04\x02\x19CD markierten Stelle\nscheint kein Signallicht zu sein...\n\n\nUm ein Signallicht zu entfernen, zeige\ndarauf und drücke erneut (C).\x0E\x01\x11\x02\x6CD\n\n\nDu kannst das Signallicht genauer\nplatzieren, indem du (A) drückst, um\ndie Ansicht zu vergrößern.
+\x0E\x01\x09\x04\x0E\xFF03Geh nun in den Wald von Phirone und\nfinde die heilige Maid. Finde <b<Zelda>>...\n\n\nNimm den Inhalt der <r<Schatztruhe >>in\ndiesem Raum an dich, er wird dir auf\ndeiner Reise nützlich sein.
+Zeige auf \x0E\x02\x04\x02\x19CD und drücke(C), um dort\nein Signallicht zu setzen.\x0E\x01\x11\x02\x6CD
+Der Weg durch diese Tür führt dich\ndirekt zum Wald. Sei vorsichtig...
+\x0E\x01\x09\x04\x00\x1303Das Tor zum <r<Wald von Phirone>> ist\noffen. Geh durch die Tür, sie führt\ndich geradewegs dorthin.\n\nEs wird mit Sicherheit bald alles klar\nwerden... Schreite ohne Furcht\nvoran, Link.
+\x0E\x01\x09\x04\x00\x1303Es wird mit Sicherheit bald alles klar\nwerden... Schreite ohne Furcht voran,\nLink!
+\x0E\x01\x09\x04\x00\x03Du hast es sicher schon gesehen, aber\ndie Grube vor dem Tempel ist wie eine\nSpirale angelegt und an ihrem Grund\nwird etwas festgehalten.\nWas, das musst du jetzt noch nicht\nwissen, aber es wird die Zeit kommen...
+\x0E\x01\x09\x04\x00\nDie Zeit für weitere Erklärungen wird\nnoch kommen. Verlasse nun den\nTempel!
+\x0E\x01\x09\x04\x400=Hä? Was soll das denn heißen?
+\x0E\x01\x09\x04\x400\x02Na los, sag das noch mal!
+\x0E\x01\x09\x04\xE00\nEs tut mir leid, aber du bist nicht\nderjenige, der <b<Zelda>> helfen kann.\n\n\nIhre Bestimmung, die Welt zu retten,\nwurde schon vor sehr, sehr langer\nZeit festgelegt.
+\x0E\x01\x09\x04\x400>\x0E\x01\x08\x02\x1CDBlödsinn!\n\n\n\nIch, <b<Bado>>, soll <b<Zelda>> nicht helfen\nkönnen?!?\n\n\nWarum sollte ich sonst hier sein, hä?\nWer soll ihr denn sonst helfen?
+\x0E\x01\x09\x04\x400\x1E...!
+\x0E\x01\x09\x04\x400\x3218Das hätte ich mir ja denken können...\n\n\n\n\x0E\x01\x09\x04\x40D\xA00Du wieder... Natürlich kannst nur du\nallein <b<Zelda>> retten, ja klar...\n\n\nLink...
+\x0E\x01\x09\x04\x400<Lächerlich!\nWen interessiert dieses angebliche\nSchicksal?!?\nIch pfeife auf das Schicksal!\n\x0E\x01\x09\x04\x40B\xA00Ich glaube kein Wort von diesem\nUnsinn!
+\x0E\x01\x09\x04\x4008\x0E\x01\x08\x02\x1CDWaaaaaaaaah!\x0E\x01\x05\x04-\x00
+\x0E\x01\x09\x04\xE00\x08Link...\nHast du <b<Zelda>> gefunden?
+\x0E\x01\x09\x04\xE0E\xFF05Hm...\nUnd sie hast du also auch getroffen...\n\n\nDer Name der Frau, die du mit Zelda\ngesehen hast, lautet <b<Impa>>...\n\n\nDie <b<Göttin>> hat sie geschickt, um Zelda\nbeizustehen.
+Um ihre Bestimmung erfüllen zu\nkönnen, müssen Zelda und Impa an\nverschiedene Orte reisen.\n\nAber da Impa das Portal zerstört hat,\ndurch das sie gegangen sind, gibt es nur\neine Möglichkeit, ihnen zu folgen...
+\x0E\x01\x09\x04\xE0E\xFF00Die <b<Lyra>>, die Zelda dir gegeben hat...\nDu musst dir ihre Kraft zunutze\nmachen.
+\x0E\x01\x09\x04\xE00\x04Halt, Link!\nDu musst eine Katastrophe verhindern!
+Jetzt ist keine Zeit für andere Dinge!\nGeh durch dieses Tor hinaus und sieh\nnach, was dort draußen vorgeht!
+Musst du dich noch vorbereiten?\nDann beeil dich!
+\x0E\x01\x09\x04\x00\x03Wenn dein Schwert die drei heiligen\nFlammen in sich aufgenommen hat,\nkannst du das Zeitportal öffnen.\n\nDie <r<Hymne der Göttin>>, die in deiner\nHeimat Wolkenhort überliefert wird,\nbirgt Hinweise auf die drei Flammen.
+\x0E\x01\x09\x04\x00\nDer Verbannte wird weiter versuchen,\naus seinem Gefängnis zu entkommen,\nund es wird ihm über kurz oder lang\nerneut gelingen.\nAuch Bado scheint sich irgendwie\ndarauf vorzubereiten.\n\n\nLink, du musst die drei\nFlammen schnellstens finden!
+Die <b<Hymne der Göttin>>. Ich vermute,\ndass es sich um das Lied handelt, das\nZelda am Tag der Vogelreiter-\nZeremonie vorgetragen hat.\nDie Wahrscheinlichkeit, dass jemand\naus der Ritterschule nähere\nInformationen zum Text des Liedes\nhat, liegt bei 85%.
+\x0E\x01\x09\x04\x10\x160FDas Schwert...\n\n\n\n\x0E\x01\x09\x04\x00\xB00Es trägt die drei Flammen in sich...\nGut gemacht, Link.\nDas Schwert fließt nahezu über vor\nKraft...
+\x0E\x01\x09\x04\x01\xFF07Diese Kraft... Die <r<Force>>...\n\n\n\n\x0E\x01\x09\x04\x00\xB00Die heilige Kraft, die die alten Götter\ndieser Welt hinterlassen haben...\nDiese Kraft wird in der Hymne der\nGöttin besungen.\nUnd nun erfüllt sie dich und dein \nSchwert.
+\x0E\x01\x09\x04\x00\x1603Nun denn, Link!\nÖffne das Zeitportal!
+Diese Kraft... Dein Schwert wurde\ndurch die <r<Force >>gestärkt. Triff nun das\nZeitportal mit dem <r<Himmelsstrahl>> und\nes wird sich sicher öffnen lassen.
+Stelle dich auf diese Plattform und\n<g<lasse die Kraft des Schwertes in das\nZeitportal fließen>>!
+\x0E\x01\x09\x04\x00\x07Diese Kraft... Dein Schwert wurde\ndurch die <r<Force >>gestärkt. Triff nun das\nZeitportal mit dem <r<Himmelsstrahl>> und\nes wird sich sicher öffnen lassen.\nStelle dich auf diese Plattform und\n<g<lasse die Kraft des Schwertes in das\nZeitportal fließen>>!
+\x0E\x01\x09\x04\x00\x04Ah, Link!\nHast du die Schienen draußen schon\ngesehen?\n\n\x0E\x01\x09\x04\x00\xB00Wofür die gut sind?\nHehehe...\nDas wird eine Überraschung!
+\x0E\x01\x09\x04\x40A\x321F\x0E\x01\x08\x02\x1CDAaaaaaaaah!\x0E\x01\x05\x04\x1E\x00
+\x0E\x01\x09\x04\xE00\nBei der Göttin...\n<r<Das Siegel wurde erneut gebrochen>>...\n\n\n<r<Er >>ist wieder erwacht.\n\n\n\nVielleicht eine Reaktion auf die <r<heilige\nKraft>>, die von deinem Schwert ausging.\n\n\n\x0E\x01\x09\x04\xE01\xB00Aber wir müssen das Schwert\neinsetzen, um das Zeitportal zu öffnen.\nWir haben keine andere Wahl.
+\x0E\x01\x09\x04\xE10\x1600Link...\nDu musst diese Bestie ein weiteres\nMal bannen!
+\x0E\x01\x09\x04\x400\x30DHaha! Endlich!
+\x0E\x01\x09\x04\x40F\x2F0FEndlich kann ich es ausprobieren!\n\n\n\nDagegen kann dieses Vieh nicht\nanstinken, ha!\n\n\n\x0E\x01\x09\x04\x40B\x3101Quatscht ihr ruhig noch ein bisschen,\nich geh schon mal vor!
+\x0E\x01\x09\x04\x00\nEr ist wieder erwacht.\n\n\n\nDu musst diese Bestie ein weiteres\nMal bannen, Link!
+\x0E\x01\x09\x04\xE00\nWarte, Link!\nDu darfst den <r<Himmelsstrahl>>\njetzt nicht verwenden!\n\nEr wird sonst noch schneller\nerwachen!\n\n\nDu musst <r<ihn zuerst bannen>>!\nLos!
+\x0E\x01\x09\x04\xE00\x03Du hast ihn wieder in seinem Gefängnis\nversiegelt...
+Link...
+...Mit <b<Bados >>Hilfe.
+Ihr beide zusammen...
+\x0E\x01\x09\x04\x400\x0DHehe, lass gut sein, Mütterchen!\n\n\n\nDu hast mir doch beigebracht, dass\nselbst ein Tunichtgut wie ich etwas\nbewirken kann!
+\x0E\x01\x09\x04\xE08\xB0BDas hast ganz allein du selbst\ngeschafft.
+\x0E\x01\x09\x04\xE00\x07Es ist Zeit, dass wir über dieses\nUngeheuer reden, Link.\n\n\nEs ist die Verkörperung des Bösen.\nWenn du das Zeitportal öffnest, wirst\ndu die Wahrheit erkennen.\n\n\x0E\x01\x09\x04\xE01\xB00Das Biest wird wieder und wieder das\nSiegel brechen, um freizukommen.\n\n\nWir müssen seinen Ursprung zerstören,\nsonst wird es uns immer wieder\nheimsuchen.\n\n\x0E\x01\x09\x04\xE10\xB00Schnell, Link!\nKonzentriere...
+\x0E\x01\x09\x04\x40D\x206Konzentriere die Force in deinem\nSchwert und <g<richte >>den Himmelsstrahl\nauf das Zeitportal!
+Das meintest du doch, Mütterchen?
+\x0E\x01\x09\x04\xE01\x07Ja...\nGeh jetzt, Link!
+\x0E\x01\x09\x04\x10\x03Los, Link!\nÖffne das Zeitportal und geh hindurch!
+\x0E\x01\x09\x04\x10\x1606Was tust du denn, Link!\nDu hast noch nicht alles Nötige auf\nder anderen Seite des Portals getan!\n\n\x0E\x01\x09\x04\x14\xB00Du musst zurückgehen!
+\x0E\x01\x09\x04\x0C\x20DKonzentriere die Force in deinem\nSchwert und <g<richte>> den Himmelsstrahl\nauf das Zeitportal!\n\nAuf der anderen Seite wartet <b<Zelda>> auf\ndich!\n\n\nSchnell, Link!
+\x0E\x01\x09\x04\x0C\x206Auf der anderen Seite des Portals\nwartet <b<Zelda>> auf dich!\n\n\nSchnell, Link!
+\x0E\x01\x09\x04\xE01\x103Du bist wieder zurück.
+Dann weißt du jetzt alles...
+Auf der anderen Seite des Tores\nschläft <b<Zelda>>.\n\n\nDu musst keine Angst um sie haben,\nes geht ihr gut.
+Das <y+<Triforce>>, jene Kraft, die den\nTodbringer besiegen kann, wurde\nder Legende nach von der Göttin\nim Wolkenhort versteckt.\n\x0E\x01\x09\x04\xE01\xB00Aber niemand weiß, wo...~~~\nDazu schweigt die Legende.
+\x0E\x01\x09\x04\xE14\xB00Mehr weiß ich leider nicht darüber,\nLink.\n\n\nDer Schlüssel zum Triforce muss sich\nim <b<Wolkenhort>> verbergen.
+\x0E\x01\x09\x04\xE08\xB07Du solltest dich auf die Suche nach dem\nTriforce machen.
+Der Schlüssel zum Triforce muss sich\nim <b<Wolkenhort>> verbergen.\n\n\n\x0E\x01\x09\x04\xE00\x07Du solltest dich auf die Suche nach dem\nTriforce machen.
+\x0E\x01\x09\x04\x401\xFF04\x0E\x01\x08\x02\x1CDHey!\nWarte mal einen Moment!
+\x0E\x01\x09\x04\x403\xFF00Link!\nIch muss mit dir reden!
+\x0E\x01\x09\x04\x403\xFF02Also...\n<b<Zelda>>... Ihr geht's doch gut, oder?\n\n[1]Ja.[2]Na ja...
+Das ist gut.\n\n\n\n\x0E\x01\x09\x04\x403\x200Aber es ist noch nicht vorbei, oder?
+\x0E\x01\x09\x04\x400\x1400Oh...\nDas klingt gar nicht gut.\n\n\n\x0E\x01\x09\x04\x403\x200Aber du wirst doch etwas unternehmen,\noder?
+\x0E\x01\x09\x04\x40E\xD09Es ist so, Link...\nIch habe mich entschieden, nicht zum\nWolkenhort zurückzukehren.\n\n\x0E\x01\x09\x04\x400\x200Ich bleibe mit dem Mütterchen hier.
+\x0E\x01\x09\x04\x400\xFF0DHehe, mach nicht so ein Gesicht. Ich\nweiß schon, was ich tue.\n\n\n\x0E\x01\x09\x04\x400\x200Weißt du...\nIch habe hier meine Bestimmung\ngefunden. Ich muss dieses Ungeheuer\nbewachen...\n\x0E\x01\x09\x04\x400\x211Und mich um das Mütterchen kümmern\nund so. Meine Aufgabe ist sicher nicht\nso ruhmreich wie deine, aber ich bin\ndamit zufrieden, verstehst du?
+\x0E\x01\x09\x04\x403\xD08Außerdem gefällt es mir hier.\n\n\n\nZwischen den Wolken zu leben war\nnicht übel, aber ein richtig fester\nBoden unter den Füßen ist auch nicht\nzu verachten.
+\x0E\x01\x09\x04\x40D\x209Schau!
+\x0E\x01\x09\x04\x404\x208Dank Zelda und dem Mütterchen ist\nLeben in dieses Land zurückgekehrt.\n\n\nWenn man hier <r<einen Keimling pflanzt>>,\nwürde daraus bestimmt ein toller\nBaum wachsen.\n\nDas hier wird sicher mal ein Ort, an\ndem die Menschen gerne leben wollen.\n\n\n\x0E\x01\x09\x04\x40D\x211Es wird wohl einige Zeit dauern, bis\nein Baum hier richtig groß wächst.\nAber ich habe Geduld.\n\n\x0E\x01\x09\x04\x400\x12Das ist, was ich gerade fühle.
+\x0E\x01\x09\x04\x40D\x22EJedenfalls... Also...\n\n\n\nGrüß alle von mir, wenn du zum\nWolkenhort zurückkehrst.\n\n\n\x0E\x01\x09\x04\x400\xE00Meine Jungs werden vielleicht traurig\nsein, aber sag ihnen, dass es mir hier\ngut geht.\n\n\x0E\x01\x09\x04\x400\x209Danke, Link...
+\x0E\x01\x09\x04\x00\x02<b<Zeldas>> Schicksal liegt in deinen\nHänden, Link!\n\n\nAch ja, da fällt mir ein...\nIch will hier einen riesigen Baum\n<r<pflanzen>>... Hast du vielleicht Samen\noder so etwas?
+\x0E\x01\x09\x04\x0D\x22ESchön, dass du diesen Keimling\ngepflanzt hast... \x0E\x01\x04\x02\x14Aber es wird <r<eine\nEwigkeit dauern>>, bis er zu einem\nrichtigen Baum heranwächst.
+\x0E\x01\x09\x04\x0D\xF0AJa! Was für ein fantastischer Baum!\nEr passt perfekt zu diesem Tempel!\n\n\n\x0E\x01\x09\x04\x03\x200Wenn ich ihn ansehe, fühle ich mich\nquicklebendig!
+\x0E\x01\x09\x04\x0D\x204Hey! Link!\nWie hast du denn so einen Keimling\ngefunden?\n\n\x0E\x01\x09\x04\x00\xE0EAus dem wird hier mal ein riesiger\nBaum wachsen.\n\n\n\x0E\x01\x09\x04\x03\x200Aber...\x0E\x01\x04\x02\n\nEs dauert doch ziemlich lange, bis so\nein Baum richtig gewachsen ist, oder?
+\x0E\x01\x09\x04\x00\x00Schnapp ihn dir, Link!\nFür <b<Zelda>>!
+\x0E\x01\x09\x04\x00\x05Du suchst also die drei Drachen...\nUnd wenn du das Heldenlied von ihnen\ngelernt hast, weist es dir den Weg zum\nTriforce...\nPass auf dich auf!
+\x0E\x01\x09\x04\x00\nDas <r<Biest>> regt sich wieder!\nEs droht, <b<Zeldas>> Siegel an seine\nGrenzen zu bringen oder gar zu\nsprengen!\nLos, <b<Link>>!\nSorge mit <b<Bado>> dafür, dass es wieder\ngebannt wird! Beeil dich!
+\x0E\x01\x09\x04\x00\nLink!\nSorge mit <b<Bado>> dafür, dass das Biest\nwieder gebannt wird!
+\x0E\x01\x09\x04\x00\x05Du suchst die drei Drachen? Ich weiß,\ndass der Donnerdrache in der Wüste\ngelebt hat...
+\x0E\x01\x09\x04\xE00\x03Du hast dieses Ungeheuer ein drittes\nMal gebannt...
+Link... Bado...\nIhr beide habt Großes geleistet.\n\n\nAber die Abstände, in denen dieses\nUngeheuer das Siegel bricht, werden\nimmer kürzer.\n\nWir haben kaum noch Zeit! Hast du\neinen Hinweis auf den Verbleib des\nTriforce gefunden, Link?\n[1]Ja![2]Also...
+...\x0E\x01\x04\x02\x19\nHm...\n\n\nDu suchst also die drei Drachen...\nUnd wenn du das Heldenlied von ihnen\ngelernt hast, weist es dir den Weg zum\nTriforce...\nVon hier aus ist der <b<Wald von Phirone\n>>am nächsten, es kann nicht schaden,\ndort nachzusehen.\n\n\x0E\x01\x09\x04\xE00\nEs gibt allerdings ein Problem...\n\n\n\n\x0E\x01\x09\x04\xE01\xB00Ich weiß nicht, wie es passiert ist...\n\n\n\nIrgendwie wurde der Wald von Phirone\nüberflutet...
+Ich musste zu unserer Sicherheit das\n<r<Tor zum Wald >>verschließen, um zu\nverhindern, dass das Wasser auch\ndiesen Tempel überflutet.\nDu kannst das Tor also nicht öffnen,\ndenn sonst steigt auch hier das Wasser.\n\n\nJetzt stellt sich die Frage, wie du in den\nWald von Phirone gelangst...
+\x0E\x01\x09\x04\x400\x0DHahaha, das könnt ihr mir überlassen!\n\n\n\nBei dem Kampf vorhin ist mir eine\nneue Anwendung für mein <r<mächtiges\nKatapult >>eingefallen.\n\nWir schießen dich einfach mit voller\nKraft direkt in den Wald!
+\x0E\x01\x09\x04\x40C\x202Ich bereite alles vor!\nKomm schnell nach, Link!
+\x0E\x01\x09\x04\xE00\x0BAch...\n\n\n\nEr ist im Grunde ein guter Junge...\nAber er stellt meine Geduld ganz schön\nauf die Probe.
+\x0E\x01\x09\x04\xE08\xFF00Also dann, Link...\nGib auf dich acht.
+\x0E\x01\x09\x04\x00\x03<b<Bado>> bereitet deine Reise in den Wald\nvor.\n\n\nVielleicht ist dem <r<Wasserdrachen des\nWaldes>> etwas passiert... Das solltest\ndu überprüfen, Link.
+\x0E\x01\x09\x04\x00\x07Was ist im Wald nur geschehen?\nAber das Wichtigste ist, dass alles\nwieder in Ordnung ist.
+\x0E\x01\x09\x04\x00\nFinde schnell die übrigen Stimmen des\n<r<Heldenlieds>>. Die Zeit läuft uns davon!
+\x0E\x01\x09\x04\x00\x03Du kommst gerade richtig. Ich muss\nmit dir reden, Link.\n\n\n<b<Bado>> scheint etwas auf dem Herzen zu\nhaben.\n\n\nDu findest ihn sicher <r<bei seinem\nKatapult>>. Geh und rede mit ihm.
+\x0E\x01\x09\x04\x00\x03<b<Bado>> wartet auf dich.\nDu findest ihn sicher <r<bei seinem\nKatapult>>.
+\x0E\x01\x09\x04\x00\x03Übrigens, Link...\n<b<Bado>> möchte mit dir reden.\n\n\nDu findest ihn sicher <r<bei seinem\nKatapult>>. Geh und rede mit ihm.
+\x0E\x01\x09\x04\x00\nNach der letzten Prüfung giltst du als\nwürdig, das Triforce in deinen Händen\nzu halten.\n\nKehre geschwind zum Wolkenhort\nzurück und stell dich der Prüfung!
+\x0E\x01\x09\x04\x00\x14Ah, Link!\nSehr gut, die drei Drachen haben dich\nihre Stimmen des Liedes gelehrt.\n\nEs bleibt nicht viel Zeit!\nKehre schnell zum Wolkenmeer zurück\nund vervollständige das Heldenlied!
+\x0E\x01\x09\x04\x00\nEs ist an der Zeit.\n\n\n\nKehre zum Wolkenhort zurück und\nfinde das Triforce, Link!
+\x0E\x01\x09\x04\x00\x09Nein... Das kann nicht sein...\nWo wir <b<Zelda>> gerade wiederhatten...\n\n\nLink!\nEr darf auf keinen Fall den Todbringer\nin der Vergangenheit befreien!\n\nSchnell, öffne das Zeitportal und folge\nihm!
+\x0E\x01\x09\x04\x00\x0DLink!\nEr darf auf keinen Fall den\nTodbringer in der Vergangenheit\nbefreien!\nSchnell, öffne das Zeitportal und folge\nihm!
+\x0E\x01\x09\x04\x00\x09Was?!?\nWillst du sagen, dass <b<der Todbringer\n>>zurück ist?\n\nOh nein...\nDiese Welt wird...
+
+\x0E\x01\x09\x04\x00\n...Link!\nDas Schicksal dieser Welt hängt allein\nvon dir ab!\n\nRette unsere Welt!
+\x0E\x01\x09\x04\x00\x14Wenn du <b<Bado >>suchst, er ist eben nach\ndraußen gestürmt.\n\n\nIch denke, er wird wieder <r<bei seinem\nKatapult>> sein.
+\x0E\x01\x09\x04\xE00\x08Also, Link, hast du schon\nversucht, die <b<Lyra>> zu spielen?\n\n\nIch sehe dir an, dass du ein wenig Hilfe\nbrauchst.\n\n\nKeine Sorge, ich kann es dir\nbeibringen.\n\n\nDrücke zuerst (^), um die Lyra in die\nHand zu nehmen, und dann (A), um die\nrichtige Haltung einzunehmen.\x0E\x01\x11\x02\x8CD
+Halte (A) gedrückt und <g<bewege die\nWii-Fernbedienung mit großzügigen\nBewegungen >>nach links und rechts.
+Drücke (^), um die Lyra in die Hand zu\nnehmen.
+Achte auf meinen <r<Haarschmuck >>und\n<g<spiele langsamer>>!
+Achte auf meinen <r<Haarschmuck >>und\n<g<spiele schneller>>!
+\x0E\x01\x0B\x04\x00\x06Sehr schön gespielt!\n\n\n\nMachen wir weiter!
+Versuche jetzt, im selben Rhythmus\nwie der <r<Lichtkreis >>zu spielen.\n\n\nIch singe zu deiner Musik ein Lied.\n\n\n\nDieses Lied wird dir auf deiner Reise\nnützlich sein.
+
+Achte auf den <r<Lichtkreis>><r<\n>>und <g<spiele etwas langsamer>>...
+Achte auf den <r<Lichtkreis\n>>und <g<spiele etwas schneller>>...
+Zeige mit der Wii-Fernbedienung\n<g<nach vorne>>!
+<g<Bewege die Wii-Fernbedienung\ngroßzügiger>>!
+\x0E\x01\x04\x02\x1E\x0E\x01\x06\x02\xFFCD...
+Irgendwie kann ich nicht anders, als\nmich um das Mütterchen zu sorgen.\n\n\n\x0E\x01\x09\x04\x00\xA00Aber erzähl meinen Kumpels ja nicht,\ndass ich mich um sie kümmere!
+Hier ist überhaupt nichts, oder? Alles\nist so leer... Und das Mütterchen lebt\nhier schon wer weiß wie lang...\n\nWarum hat sie nicht wenigstens einen\nBaum gepflanzt?
+
+Was für ein Baum!\nMan nennt ihn nicht umsonst\n\x201ELebensbaum\x201C!
+\x0E\x01\x06\x02\xFFCDIch hoffe, er kann Zelda einholen...
+\x0E\x01\x06\x02\xFECD.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.
+\x0E\x01\x06\x02\xFFCDDieser Tempel war früher ein Ort der\nRuhe. Und jetzt hat sich alles zum\nSchlimmsten gewendet.\n\nAch, ich sollte nicht so reden...\n\n\n\nAber meine schrecklichsten\nBefürchtungen werden vor meinen\nAugen wahr...
+\x0E\x01\x06\x02\xFFCDDieser Junge...\nEr ist gar nicht mal so ungeschickt.\n\n\nVielleicht sollte ich ihn bitten, den\nTempel zu reparieren.
+Dieser Ort eignet sich sehr gut dafür,\netwas zu pflanzen, aber wenn du erst\n<r<in dieser Zeit>> pflanzt, dürfte es zu\nlange dauern, bis du Resultate siehst.

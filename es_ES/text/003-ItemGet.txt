@@ -1,0 +1,802 @@
+¡Aquí solamente hay trastos!
+Ir abriendo los armarios de los demás\nno es propio de caballeros...
+¡Has conseguido una <y<llave pequeña>>!\nCon ella puedes abrir una puerta,\npero solo en esta zona.
+¡Has conseguido una \x0E\x00\x03\x02\x07rupia verde>>!\n¡Solo vale <r<1 rupia>>, así que ya te las\npuedes ir ingeniando para encontrar\nmontones de ellas!
+¡Has conseguido una \x0E\x00\x03\x02\x08rupia azul>>!\nVale <r<5 rupias>>. ¡Menos da una piedra!
+¡Has encontrado una \x0E\x00\x03\x02\x08rupia azul>>!\nVale <r<5 rupias>>. ¡Al zurrón con ella!
+¡Has conseguido una <r+<rupia roja>>!\nVale <r<20 rupias>>. ¡Así da gusto, oye!
+¡Has completado la <y+<Trifuerza>>! ¡Gracias\na su infinito poder podrás cumplir\nlos deseos de Zelda y <r<librar al mundo>>\ndefinitivamente del <b<Heraldo de la Muerte>>!
+¡Has conseguido un <y<corazón>>!\nEstos objetos son fuente de salud y te\nayudan a recuperarte de tus heridas.
+¡Has conseguido una <y<flecha perdida>>!\nLas flechas se pueden usar más de una\nvez con el arco, ¡así que no te olvides\nde buscar las que pierdas!
+
+¡Has conseguido <y<10 flechas>>!\nLas puedes lanzar con el arco, pero no\nlas malgastes porque no hay demasiadas.
+
+¡Has conseguido una <y<espada de aprendiz>>!\nEs la herramienta básica que todo alumno\nde la academia usa para entrenar.\n¡Ojo que parece muy afilada!\nPulsa (1) en cualquier momento para ver\nlos objetos con los que vas equipado.\x0E\x01\x11\x02\x4CD
+¡Has conseguido la <y<espada divina>>!\nSu misteriosa hoja está bañada por\nun fulgor celestial.
+¡Has conseguido la <y<espada divina>>!\nSu misteriosa hoja está bañada por\nun fulgor celestial.\n\n¡Eleva hacia el cielo la espada que tantas\nveces has empuñado con valor y observa\ncómo emana de ella la <pling><r<poderosa energía\ndel rayo celestial>>!
+
+
+¡Has recuperado la <y<Espada Maestra\nAuténtica>>! Ahora podrás desquitarte a \ngusto: nada se resistirá al filo de su hoja\ny, además, volverás a hablar con <b<<pling>Fay>>.
+
+
+
+¡Has conseguido la <y<orquídea del espíritu>>!\n¡Es una misteriosa planta que representa\ntu esencia, Link!
+
+¡Has conseguido el <y<arco>>! Con él puedes\ndisparar flechas a objetivos lejanos\npara infligirles grandes daños.\n\nSi en algún momento notas que tiembla\ndemasiado y te <r<falta precisión >>al apuntar,\npulsa (v) para corregir el punto de mira.\x0E\x01\x11\x02\x9CD
+¡Has conseguido las <y<zarpas>>! Son una de las\ntres reliquias transmitidas por la Diosa y\notorgan a su poseedor la capacidad de\nalcanzar lugares alejados.\nSi apuntas y disparas hacia una <r<diana >>o\nhacia una <r<hiedra>>, lanzarás una garra que\nse enganchará a ella y a continuación la\ncadena te propulsará hasta ese punto.\nSi notas que tiemblan demasiado las garras\ny te <r<falta precisión >>al apuntar, pulsa (v)\npara corregir el punto de mira.\x0E\x01\x11\x02\x9CD
+¡Has recuperado las <y<zarpas>>! Ahora ya\npuedes acceder a lugares a los que antes\nte resultaba imposible llegar.
+¡Has conseguido la <y<estatuilla>>! Es la prueba\nde tu victoria en el torneo celeste. ¡Menuda\nalegría se va a llevar Zelda!
+
+
+
+¡Has conseguido el <y<glifo bendito>>! Es una\ntalla de madera que inspira gratitud y\nrepresenta fielmente la estatua de piedra\ndel nivel superior.
+¡Has conseguido el <y<cristal enigmático>>!\nEstá compuesto por cristales cúbicos\nopacos dispersos por toda la estructura.
+¡Has conseguido el <y<glifo de calamar>>! Tiene\nforma de cefalópodo y está cubierto de\nmisteriosas ventosas.
+¡Has conseguido una <y<pieza de llave>>!\nEs un fragmento de la llave que abre\nel templo sellado.\n\nDebes reunir las 5 piezas para completar\nla llave. ¡Busca las otras <r<4 piezas>>!
+¡Has conseguido una <y<pieza de llave>>!\nEs un fragmento de la llave que abre\nel templo sellado. ¡Busca las <r<3 piezas\n>>restantes!
+¡Has conseguido una <y<pieza de llave>>! Es un\nfragmento de la llave que abre el templo\nsellado. ¡Solo te faltan <r<2 piezas>>!
+¡Has conseguido una <y<pieza de llave>>! Es un\nfragmento de la llave que abre el templo\nsellado. ¡Solo necesitas <r<1 pieza >>más!
+¡Has conseguido todas las <y<piezas de llave>>!\nYa puedes abrir la puerta del templo\nsellado para ir en pos de Zelda.\n\n¡Será mejor que vuelvas a la cima cuanto\nantes y explores las entrañas del templo,\na ver si das con algún rastro de ella!
+¡Has conseguido el <y<glifo dorado>>! Esta\nescultura dorada tiene una forma\nbastante peculiar y unos grabados\nmuy originales.
+¡Has conseguido el <y<glifo de dragón>>!\nEs una deslumbrante escultura de un\ndragón enroscado elaborada en oro.
+¡Has conseguido el <y<glifo vetusto>>!\nEs de reluciente oro y parece parte\nde un mecanismo. Lleva incrustado\nalgún tipo de circuito.
+¡Has conseguido una \x0E\x00\x03\x02\nrupia plateada>>!\nIgual no lo sabes, pero vale <r<100 rupias>>.\n¿No te entran ganas de ponerte a brincar\nde alegría?
+¡Has conseguido una \x0E\x00\x03\x02\x0Brupia dorada>>! Vale\nnada más y nada menos que <r<300 rupias>>.\n¡Pero no se lo digas a nadie!
+¡Has conseguido una \x0E\x00\x03\x02\x0Cpudria>>! El influjo de\nlas pudrias es capaz de hacer desaparecer\n<r<10 rupias >>de golpe. Así que sí, acabas de\nperderlas...
+¡Has conseguido <r<cinco >><y<gemas de gratitud>>!\nBásicamente se trata de sentimientos\npuros de agradecimiento cristalizados.\n\nCada vez que ayudes a alguien, recibirás\n<r<cinco gemas >>como muestra de gratitud.
+¡Has conseguido <y<esporas chispeantes>>!\nEs un polvo que despiden los champiñones\nchispeantes.
+
+
+
+¡Has conseguido <y<5 bombas>>! Lánzalas o\nhazlas rodar con fines destructivos.\n¡Y procura tener siempre una a mano!
+¡Has conseguido <y<10 bombas>>! Lánzalas o\nhazlas rodar con fines destructivos.\n¡Llévatelas en tu saco de bombas!
+¡Has conseguido un <y<fruto de vigor>>!\nCada vez que consigas uno de estos\nfrutos se llenará completamente el\nindicador de resistencia.
+¡Has conseguido una <y<lágrima de Farore>>!\nCon su poder sagrado paralizarás a los\nguardianes durante <r<90 segundos>>.\n\n¡Reúne las <r<15>> lágrimas para poder superar\nel juicio!
+Has conseguido reunir todas las <y<lágrimas\nde Farore>> y tu espíritu se ha fortalecido.\n\n\nNo obstante, el juicio proseguirá hasta\nque alcances el mundo exterior...\nRegresa con cuidado al umbral para\nrecibir la prueba de tu madurez.
+¡Has conseguido una <y<lágrima de Din>>!\nCon su poder sagrado paralizarás\na los guardianes durante <r<90 segundos>>.\n\n¡Reúne las <r<15>> lágrimas para poder superar\nel juicio!
+Has conseguido reunir todas las <y<lágrimas\nde Din>> y tu espíritu se ha fortalecido.\n\n\nNo obstante, el juicio proseguirá hasta\nque alcances el mundo exterior...\nRegresa con cuidado al umbral para\nrecibir la prueba de tu madurez.
+¡Has conseguido una <y<lágrima de Nayru>>!\nCon su poder sagrado paralizarás a los\nguardianes durante <r<90 segundos>>.\n\n¡Reúne las <r<15>> lágrimas para poder superar\nel juicio!
+Has conseguido reunir todas las <y<lágrimas\nde Nayru>> y tu espíritu se ha fortalecido.\n\n\nNo obstante, el juicio proseguirá hasta\nque alcances el mundo exterior...\nRegresa con cuidado al umbral para\nrecibir la prueba de tu madurez.
+¡Has conseguido una <y<lágrima sagrada>>!\nCon su poder sagrado paralizarás a los\nguardianes durante <r<90 segundos>>.\n\n¡Reúne las <r<15>> lágrimas para poder superar\nel juicio!
+Has conseguido reunir todas las <y<lágrimas\nsagradas>> y tu espíritu se ha fortalecido.\n\n\nNo obstante, el juicio proseguirá hasta\nque alcances el mundo exterior...\nRegresa con cuidado al umbral para\nrecibir la prueba de tu madurez.
+¡Has conseguido un <y<fruto luminoso>>! Estos\nfrutos harán que las lágrimas sagradas\nrestantes proyecten haces de luz verticales\n<r<durante 30 segundos>>.
+¡Has conseguido <r<una >><y<gema de gratitud>>!\nEstas piedras preciosas proceden de\npersonas totalmente desbordadas por un\nindescriptible sentimiento de gratitud.\n¡Reúne todas las que puedas y llévaselas\na <b<Batolo>>!
+¡Has conseguido el <y<ánfora de aire>>! Se trata\nde un arcano y misterioso objeto que lanza\npotentes ráfagas de viento.\n\nSi notas que tiembla demasiado y te\n<r<falta precisión >>al apuntar, pulsa (v)\npara corregir el punto de mira.\x0E\x01\x11\x02\x9CD
+¡Has recuperado el <y<ánfora de aire>>!\nYa puedes volver a desatar toda su\nfuria huracanada.
+¡Has conseguido el <y<mapa de la mazmorra>>!\nAhora podrás consultar en todo momento\ntu posición y los lugares aún por explorar.
+También indica la ubicación de los cofres\nde tesoros, ¡así que no te olvides de\nutilizarlo a menudo!
+
+¡Has conseguido el <y<tirachinas>>!\nEs un arma que permite disparar semillas\ndeku para aturdir a tus enemigos con su\nefecto paralizante.\nSi notas que tiembla demasiado y te\n<r<falta precisión >>al apuntar, pulsa (v)\npara corregir el punto de mira.\x0E\x01\x11\x02\x9CD
+¡Has recuperado el <y<tirachinas>>! ¡Aturde\na los enemigos que están montando\nguardia!
+¡Has recuperado el <y<tirachinas múltiple>>!\n¡Aturde a los enemigos que están montando\nguardia!
+¡Has conseguido el <y<telescarabajo>>! Es un\nobjeto con forma de insecto que puede\nvolar libremente.\n\n¡Apunta con el mando <r<hacia la pantalla\n>>y pulsa (A) para echarlo a volar!\n\n\nSi al usarlo notas que <r<falla la precisión>>,\npulsa (v) mientras lo tengas preparado\npara corregirlo.\x0E\x01\x11\x02\x9CD
+¡Has conseguido <y<agua>>! Es incolora, inodora\ne insípida, pero igual en algún momento\nte resulta útil.
+¡Has conseguido <y<esporas de champiñón>>!\nProceden de un champiñón gigante.\nNo está de más tenerlas a mano.
+¡Has conseguido una botella llena de\n<y<esporas de champiñón>>! Proceden de\nun champiñón gigante. ¡Y van genial\npara tratar las heridas de las aves!
+¡Has conseguido los <y<guantes de cavar>>!\nSus afiladas garras son perfectas para\nescarbar la superficie.\n\nSi ves algún montículo sospechoso de tierra\nblanda en el suelo, acércate a él y pulsa (A)\npara empezar a cavar.
+¡Has recuperado los <y<guantes moguma>>!\n¡Intenta escapar de aquí como lo haría\nun auténtico moguma!
+¡Has conseguido <r<5>> <y<semillas deku>>! Puedes\nusar el tirachinas para lanzarlas como\nproyectiles. ¡Pero úsalas con mesura\nque se agotan!
+
+
+
+
+
+¡Has conseguido <r<10>> <y<semillas deku>>! Puedes\nutilizar el tirachinas para lanzarlas como\nproyectiles. ¡Pero úsalas con mesura\nque se agotan!
+
+
+
+
+¡Has conseguido <y<invencibline 500>>! Es una\nmisteriosa poción que reduce a la mitad\nel daño recibido. Su efecto dura <r<3 minutos>>.
+¡Has conseguido <y<invencibline 2000>>! Es una\npotente poción con la que serás invencible\ndurante <r<3 minutos>>.
+
+¡Has conseguido la <y<escama de dragón\nacuático>>! Es una de las tres reliquias\nlegadas por la Diosa. Permite bucear\ny ejecutar torbellinos bajo el agua.
+
+¡Has conseguido un <y<medallón de insecto>>!\nCon él podrás localizar en el mapa los\nlugares donde se ocultan los insectos.\n¡Dirígete hacia los \x0E\x02\x04\x02\x1ACD!
+¡Has conseguido el <y<cazamariposas>>! Atrapa\npequeños insectos y otras cosas. ¡Acércate\nsigilosamente y píllalos por sorpresa!
+¡Has encontrado un <y<hada>>! Estos amables\nseres te regeneran <r<6 >>corazones.
+¡Has atrapado un <y<hada>>! Estos amables\nseres te regeneran <r<6 >>corazones.\n\n\nPero no te la puedes quedar porque no\ntienes una <y<botella vacía>>, así que será\nmejor dejarla marchar.
+
+¡Has conseguido <y<agua sagrada>>! Utiliza\nsu energía para sanar las graves heridas\nde la dragona del agua.
+¡Has conseguido <y<agua sagrada>>! Parece\nagua normal, pero en realidad es agua\npura que encierra una gran energía.
+¡Tu telescarabajo se ha convertido en un\n<y<telescarabajo con gancho>>! Ahora tiene\nunas mandíbulas más grandes que le\npermiten transportar cosas.\nSi necesitas dejar caer algo con precisión,\npulsa (Z) para obtener una vista de pájaro.\n¡Te resultará muy útil, no lo olvides!\x0E\x01\x11\x02\x7CD
+¡Has conseguido el <y<telescarabajo con\ngancho>>! Ahora tiene unas mandíbulas\nmás grandes y permite transportar cosas.\n\nSi necesitas dejar caer algo con precisión,\npulsa (Z) para obtener una vista de pájaro.\n¡Te resultará muy útil, no lo olvides!\x0E\x01\x11\x02\x7CD
+¡Tu telescarabajo se ha transformado\nen un <y<telescarabajo veloz>>! Ahora es\nmucho más rápido, ¡pero procura\nno pasarte de largo el objetivo!
+¡Tu telescarabajo se ha transformado en\nun <y<telescarabajo tenaz>>! Su autonomía de\nvuelo ha aumentado bastante. ¡Ahora\npodrás llegar mucho más lejos!
+¡Has conseguido una <y<poción de salud>>!\nProcura llevar siempre una en la alforja\npara recuperar <r<8 corazones>>.
+¡Has conseguido una <y<poción de salud XL>>!\n¡Es una versión mejorada de la poción de\nsalud! Te <r<restaura todos los corazones>>.
+
+¡Has conseguido una <y<poción de salud XXL>>!\nAdemás de <r<devolverte todos los corazones>>,\ncada botella incluye <r<dos dosis>>.
+
+
+¡Has conseguido <y<resistone 500>>!\nTu indicador de resistencia se\nagotará a menor velocidad.\n¡Y su efecto dura <r<3 minutos>>!
+¡Has conseguido <y<resistone 2000>>! Es una\npoción milagrosa con la que durante\n<r<3 minutos>> tu indicador de resistencia\nno se moverá.
+¡Has conseguido una <y<poción de oxígeno>>!\nÚsala para que tu indicador de oxígeno se\nvacíe más lentamente durante <r<3 minutos>>.
+¡Has conseguido una <y<poción de oxígeno XL>>!\nCon esta maravilla de poción tu indicador\nde oxígeno se mantendrá intacto durante\n<r<3 minutos>>.
+¡Has atrapado un <y<hada>>! Estos amables\nseres te regeneran <r<6 corazones>>.\n\n\nSi la metes en una botella, acudirá en tu\nayuda para curar <r<automáticamente>> tus\nheridas en cuanto tu <r<indicador de salud\nse quede vacío>>.
+
+¡Ahora tu arco es un <y<arco de hierro>>!\nDiseñado para manos expertas,\nsu potencia de disparo es bastante\nsuperior a la de tu anterior arco.
+¡Ahora tu arco es un <y<arco sagrado>>! Gracias\nal poder sagrado de la oración de la Diosa,\nel enemigo sufrirá su virulenta ofensiva.
+¡Has encontrado un <y<saco de bombas>>!\nPuedes utilizarlo para guardar y\ntransportar flores bomba.\n\nCon uno como este podrías abrirte paso\na lugares anteriormente inaccesibles.\nComo es de <b<Jerry>>, ¿qué tal si le pides que\nte lo preste?
+¡Has recibido el <y<saco de bombas>>! Por lo\nvisto <b<Jerry>> lo quiere más que a su vida,\n¡así que procura cuidarlo bien!
+¡Has recuperado el <y<saco de bombas>>! ¡Pum,\ncatapum! ¡Que dé comienzo la fiesta!
+¡Has conseguido un <y<contenedor de corazón>>!\n¡Tu salud ha aumentado <r<1 corazón >>y ahora\nestá al máximo!
+¡Has conseguido una <y<pieza de corazón>>!\n¡Reúne cuatro de estas para que tu\nindicador de salud aumente un corazón.\n¡Solo te faltan <r<3 >>más!
+¡Has conseguido una <y<pieza de corazón>>!\nReúne cuatro de estas para que tu\nindicador de salud aumente un corazón.\n¡Solo te faltan <r<2 >>más!
+¡Has conseguido una <y<pieza de corazón>>!\nCon 4 conseguirás un nuevo corazón para\ntu indicador de salud. ¡<r<1 >>más y está hecho!
+¡Has conseguido una <y<pieza de corazón>>!\n¡Ya tienes las cuatro para completar\nun contenedor de corazón y aumentar\ntu indicador de salud!
+¡Has obtenido la <y+<Trifuerza del Valor>>!\nEl áureo legado de las antiguas deidades.\nSi logras reunir las tres partes, ¡el <r<infinito\npoder >>de la Trifuerza será tuyo!
+¡Consigue las <r<dos>> partes que te faltan\npara completar la Trifuerza!
+¡Solo te falta <r<una>> parte de la Trifuerza\npara completarla!
+¡Has obtenido la <y+<Trifuerza del Poder>>!\nEl áureo legado de las antiguas deidades.\nSi logras reunir las tres partes, ¡el <r<infinito\npoder >>de la Trifuerza será tuyo!
+¡Has obtenido la <y+<Trifuerza de la Sabiduría>>!\nEl áureo legado de las antiguas deidades.\nSi logras reunir las tres partes, ¡el <r<infinito\npoder >>de la Trifuerza será tuyo!
+¡Has conseguido la <y<carta náutica del\npasado>>! Es un mapa del desierto,\n¡pero de cuando todo estaba cubierto\nde agua!
+¡Has conseguido los <y<guantes moguma>>!\n¡Ni siquiera los propios mogumas se topan\ncon guantes de cavar de esta calidad\na menudo!\nEstos no solo sirven para cavar hoyos, sino\n<g<también para abrirte paso bajo tierra>>.\n¡Busca hoyos en los que puedas meterte!
+¡Has conseguido el <y<medallón de corazón>>!\nAhora surgirán corazones más a menudo.\n¡El objeto perfecto si te preocupa la salud!
+¡Has conseguido el <y<medallón de corazón>>!\n¡Con él aparecerán corazones hasta en\n<r<modo Héroe>>!\n\n¡Y hasta las flores de corazón darán sus\nfrutos! ¡Sin duda el objeto perfecto si te\npreocupas por tu salud!
+¡Has conseguido el <y<medallón de rupia>>!\nCon él aparecerán rupias más a menudo.\n¡Si estás en números rojos, no dudes en\nutilizarlo!
+¡Has conseguido el <y<medallón de tesoro>>!\nSi te lo pones, ¡aparecerán tesoros más\na menudo! ¡Úsalo cuando vayas en busca\nde riquezas!
+¡Has conseguido el <y<medallón duradero>>!\n¡Llévalo para prolongar los efectos de\ncualquier poción! Si tienes pociones, claro.
+¡Has conseguido el <y<medallón maligno>>!\nEs un misterio, pero hace que surjan más\ntesoros y rupias. ¡Pero está maldito y no\nte permite abrir la alforja!
+¡Tu tirachinas ahora es un <y<tirachinas\nmúltiple>>! El área de impacto ha\naumentado. ¡Mantén pulsado (A)\npara disparar a lo grande!
+
+
+¡Has conseguido el <y<zurrón mediano>>! Tiene\nmayor capacidad que el zurrón utilizado\nhasta ahora. ¡En este caben <r<500 rupias>>!
+¡Has conseguido el <y<zurrón grande>>!\nEs mucho más grande que el zurrón\nutilizado hasta ahora. ¡Puedes meter\nhasta <r<1000 rupias>>!
+¡Has conseguido el <y<zurrón gigante>>!\nEs todavía más grande que el zurrón\nutilizado hasta ahora. ¡Le caben hasta\n<r<5000 rupias>>!
+¡Has conseguido el <y<zurrón de ricachón>>!\n¡Es grande hasta para los ricos y tiene\ncapacidad para <r<9000 rupias>>!
+¡Has conseguido la <y<alforja de aventurero>>!\nEn ella podrás guardar todo tipo de objetos\nque utilizarás a lo largo de tu aventura.
+¡Has recuperado la <y<alforja de aventurero>>!\nY mira tú por dónde, ¡todos los objetos que\nte faltaban están dentro!
+¡Tu <y<alforja de aventurero >>ahora tiene más\ncapacidad! ¡Puedes llevar un objeto más!
+¡Has conseguido el <y<medallón de vida>>!\nSi te lo cuelgas, aumentará en uno tu\nnúmero máximo de corazones, así que\núsalo cuando estimes oportuno.
+
+¡Has conseguido un <y<escudo de madera>>!\nEs ligero y fácil de manejar, ¡pero ten\nmucho cuidado porque puede arder y\nromperse con facilidad!
+¡El escudo ya está arreglado y ha quedado\ncomo nuevo!
+¡Ahora tu escudo es un <y<escudo de madera\nmacizo>>! Es fácil de usar y más robusto que\nel escudo de madera normal.
+¡Ahora tu escudo es un <y<escudo de madera\nrobusto>>! Es ligero y fácil de usar, además\nde ser el escudo de madera más resistente\nque hay.
+¡Has conseguido un <y<escudo de hierro>>!\nEs muy resistente y no arde ni se rompe\nfácilmente, ¡pero mucho ojo con la\nelectricidad!
+¡Ahora tu escudo es un <y<escudo de hierro\nmacizo>>! Es un poco más resistente que\nel escudo de hierro normal.
+¡Ahora tu escudo es un <y<escudo de hierro\nsólido>>! Es muy resistente. De hecho, ¡es el\nescudo de hierro más resistente de todos!
+¡Has conseguido un <y<escudo sagrado>>!\nSu misterioso poder le permite <r<repararse>> \ngradualmente <r<él solo>>.\n\nAunque no es demasiado resistente y se\nrompe con cierta facilidad, es capaz\nde repeler el fuego, la electricidad y\nhasta las maldiciones.
+¡Has conseguido un <y<escudo sagrado>>!\nSu misterioso poder le permite repararse \nél solo, y es capaz de repeler el fuego,\nla electricidad y hasta las maldiciones.
+¡Ahora tu escudo es un <y<escudo sagrado\nsuperior>>! Se repara solo gracias a su\npoder sagrado. ¡Y además es bastante\nmás resistente!
+¡Ahora tu escudo es un <y<escudo sagrado\nsupremo>>! Se repara solo gracias a su poder\nsagrado. ¡Y además su durabilidad es aún\nmás elevada!
+¡Has conseguido el <y<escudo hyliano>>!\nEs un escudo legendario imbuido de\nun poder heroico. ¡No hay ataque que\npueda con él!
+¡Has conseguido <y<reparol 100>>!\nEsta misteriosa poción te deja el indicador\ndel escudo <r<como nuevo >>y, de propina, te\nrecupera <r<4>> corazones de salud.
+¡Has conseguido <y<reparol 500>>!\nEsta poción te restaura <r<automáticamente>>\nel indicador del escudo cuando se vacía y,\nademás, te recupera <r<8>> corazones.
+¡Has conseguido la <y<bolsa de semillas\npequeña>>! Con ella puedes guardar <r<10\n>>semillas deku adicionales, así que llévala\nencima cuando uses el tirachinas.
+¡Has conseguido la <y<bolsa de semillas\nmediana>>! Con ella puedes guardar <r<20\n>>semillas deku adicionales, así que llévala\nencima cuando uses el tirachinas.
+¡Has conseguido la <y<bolsa de semillas\ngrande>>! Con ella puedes guardar <r<30\n>>semillas deku adicionales, así que llévala\nencima cuando uses el tirachinas.
+¡Has conseguido el <y<carcaj pequeño>>! Te\npermite guardar <r<5 >>flechas adicionales,\nasí que procura tenerlo a mano cuando\nvayas a usar el arco.
+¡Has conseguido el <y<carcaj mediano>>! Te\npermite guardar <r<10>> flechas adicionales,\nasí que procura tenerlo a mano cuando\nvayas a usar el arco.
+¡Has conseguido el <y<carcaj grande>>! Te\npermite guardar <r<15 >>flechas adicionales,\nasí que procura tenerlo a mano cuando\nvayas a usar el arco.
+¡Has conseguido el <y<saco de bombas\npequeño>>! Te permite guardar <r<5>> bombas\nadicionales, así que procura llevarlo\nencima cuando quieras usar bombas.
+¡Has conseguido el <y<saco de bombas\nmediano>>! Te permite guardar <r<10 >>bombas\nadicionales, así que procura llevarlo\nencima cuando quieras usar bombas.
+¡Has conseguido el <y<saco de bombas grande>>!\nTe permite guardar <r<15 >>bombas adicionales,\nasí que procura llevarlo encima cuando\nquieras usar bombas.
+¡Has conseguido el <y<látigo>>! En el extremo\ntiene una bola de luz que puede adherirse\na distintos elementos.\n\nSi ves algo en la distancia, pulsa (Z) para\nfijarlo como objetivo y agita el mando\npara engancharlo o golpearlo.\x0E\x01\x11\x02\x7CD
+¡Has recuperado el <y<látigo>>! ¡Ya puedes\nvolver a buscar cosas que atraer con\nun pegadizo movimiento!
+¡Has conseguido los <y<pendientes ignífugos>>!\nSon una de las reliquias legadas por la\nDiosa y permiten soportar hasta el calor\nmás extremo.
+
+¡Has conseguido el <y<cazamariposas grande>>!\nComo es el doble de grande, podrás cazar\nhasta los insectos más esquivos.
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x3CD>>! Aparecen\nen grandes grupos una vez cada diez años y\ndevoran toda la vegetación que encuentran\na su paso.
+¡Has conseguido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x3CD>>! Aparecen\nen grandes grupos una vez cada diez años y\ndevoran toda la vegetación que encuentran\na su paso.
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x4CD>>!\nDicen que sacan brillo a sus carapachos\npara aumentar su fuerza. De hecho, esta\nespecie es la más fuerte de todas.
+¡Has obtenido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x4CD>>!\nDicen que sacan brillo a sus carapachos\npara aumentar su fuerza. De hecho, esta\nespecie es la más fuerte de todas.
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x5CD>>!\nAl calentarlo, su veneno puede usarse\ncomo medicina. ¡Pero procura evitar\nlos enjambres o lo lamentarás!
+¡Has conseguido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x5CD>>!\nAl calentarlo, su veneno puede usarse\ncomo medicina. ¡Pero procura evitar\nlos enjambres o lo lamentarás!
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x6CD>>!\nUtilizan sus poderosas patas delanteras\npara atrapar a sus presas. Es un insecto\nmuy común en Celéstea.
+¡Has conseguido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x6CD>>!\nUtilizan sus poderosas patas delanteras\npara atrapar a sus presas. Es un insecto\nmuy común en Celéstea.
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x7CD>>! Dicen\nque se vuelven de color rojo al ingerir\nmetales. No son demasiado activas y\nsuelen permanecer quietas.
+¡Has conseguido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x7CD>>! Dicen\nque se vuelven de color rojo al ingerir\nmetales. No son demasiado activas y\nsuelen permanecer quietas.
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x8CD>>! Se trata de\nun insecto muy común en todas las regiones\nque, a veces, revolotea por sitios extraños.
+¡Has obtenido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x8CD>>! Se trata de\nun insecto muy común en todas las regiones\nque, a veces, revolotea por sitios extraños.
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x9CD>>!\nDicen que almacenan agua en el fondo\nde sus hormigueros para sobrevivir en\nlos desiertos más calurosos e inhóspitos.
+¡Has conseguido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x9CD>>!\nDicen que almacenan agua en el fondo\nde sus hormigueros para sobrevivir en\nlos desiertos más calurosos e inhóspitos.
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xACD>>!\nPermanecen bajo tierra en fase\nlarvaria durante diez años o más.\n¡Son los insectos más esquivos!
+¡Has conseguido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xACD>>!\nPermanecen bajo tierra en fase\nlarvaria durante diez años o más.\n¡Son los insectos más esquivos!
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xBCD>>! ¡Tienen unos\nojos más bonitos que el mar y sus alas\nrelucen como delicados cristales!
+¡Has conseguido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xBCD>>! ¡Tienen\nunos ojos más bonitos que el mar y sus\nalas relucen como delicados cristales!
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xCCD>>!\nSus diminutos cuerpecitos son capaces\nde empujar las mi... migas más grandes\njamás vistas. Todo un espectáculo.
+¡Has conseguido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xCCD>>!\nSus diminutos cuerpecitos son capaces\nde empujar las mi... migas más grandes\njamás vistas. Todo un espectáculo.
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xDCD>>! Son unos\ninsectos muy populares entre los niños\nde Altárea. ¡Pero ay de ti si te pilla uno\ncon su poderosa mandíbula!
+¡Has conseguido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xDCD>>! Son\ninsectos muy populares entre los niños\nde Altárea. ¡Pero ay de ti si te pilla uno\ncon su poderosa mandíbula!
+¡Has atrapado \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xECD>>! Son los\ninsectos menos comunes de todos los\nque habitan los cielos. De hecho, solo\nlos encontrarás entre las tinieblas.
+¡Has conseguido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xECD>>! Son los\ninsectos menos comunes de todos los\nque habitan los cielos. De hecho, solo\nlos encontrarás entre las tinieblas.
+¡Has conseguido una <y<botella vacía>>!\nDentro podrás guardar montones de cosas.
+
+
+
+
+¡Has recibido la <y<carta de Corvy>>! ¿Reflejará\nsus auténticos sentimientos?\n\n\n¡Cuida bien de ella y no se te ocurra usarla\ncomo papel higiénico ni nada por el estilo!
+¡Has conseguido la <y<jaula para insectos de\nTerry>>! ¡Y dentro está su insecto favorito!\n¡Ve corriendo a llevársela!
+¡Has conseguido el <y<sonajero>>! Es el juguete\nideal para cualquier bebé. ¿Cómo habrá\nllegado hasta aquí?
+¡Has conseguido <y<larvas de abeja>>! Son una\nexcelente fuente de proteínas e igual\npueden servir como ingrediente para\nelaborar distintos elementos.
+¡Has obtenido \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xFCD>>! Estas\nhermosas y diminutas plumas son muy\napreciadas en Altárea, y probablemente\nsirvan como materia prima para algo.
+¡Has conseguido una <y<planta rodadora>>!\nSi la pones a secar hasta que se quede\ncomo una piedra, igual sirve para algo.
+¡Has conseguido una <y<cola de lagarto>>!\nEn el extremo tiene una bola de pinchos\nmetálica. Da un poco de grima, pero\nigual resulta útil para algo.
+¡Has conseguido <y<mineral de Eldin>>! Estas\npiedras robustas tienen un brillo peculiar.\nSon preciosas y tienen muchas utilidades.
+¡Has conseguido una <y<flor arcana>>!\nDicen que estos milagros de la naturaleza\nllevan floreciendo desde hace eones y\nbrillan en la oscuridad.
+¡Has conseguido una <y<alhaja ambarina>>!\nUna bonita piedra ámbar redondeada que\nse puede encontrar en muchos lugares.\nLo de su forma es todo un misterio...
+¡Has conseguido una <y<alhaja tenebrosa>>!\nSimilar a la ambarina, pero de naturaleza\ndiferente. Solo se halla en ciertos lugares.
+¡Has conseguido <y<ectoplasma viscoso>>!\nSu aspecto no es su punto fuerte, pero\ntiene tantas aplicaciones que es todo\nun hallazgo.
+¡Has conseguido una <y<garra de monstruo>>!\nEs una especie de garra afilada de\ndemonio. Duele solo con mirarla.
+¡Has conseguido un <y<cuerno de monstruo>>!\nEs una especie de corneta hecha con\nel duro cuerno de una fiera salvaje.\nSeguramente servirá para elaborar algo.
+¡Has conseguido un <y<broche calavérico>>!\nTiene la forma de una calavera, símbolo\nde los bokoblin.
+¡Has conseguido un <y<cristal maléfico>>!\nEs el corazón cristalizado de un monstruo.\nEs muy poco frecuente encontrarlos\nen este estado.
+¡Has conseguido una <y<pluma de ave azul>>!\nSolo unos pocos pájaros presentan esta\nllamativa tonalidad, por eso sus plumajes\nson tan tremendamente valiosos.
+¡Has conseguido un <y<broche calavérico de\noro>>! Toda una rareza entre las joyas de\neste tipo, emite extraños brillos dorados.
+¡Has conseguido un <y<objeto perdido\nde la Diosa>>! Cuentan que se le cayó\na la Diosa hace mucho tiempo. ¡Es un\ntesoro legendario!
+
+
+
+¡Has conseguido la <y<gema de la ordalía>>!\nEl símbolo que presenta guiará al elegido\nhasta el lugar donde se oculta la Trifuerza.
+
+
+
+
+
+¡Has aprendido el <y<Cántico de la Diosa>>!\nEs una enigmática melodía que se\ntransmite desde tiempos inmemoriales.
+
+
+
+
+
+
+
+¡Has conseguido <y<reparol 2000>>!\nTe rellena <r<automáticamente>> el indicador\ndel escudo, te recupera <r<8>> corazones... \n¡y además lo puedes usar <r<dos>> <r<veces>>!
+¡Has conseguido <y<sopa de calabaza caliente>>!\nLa prepara el dueño del Calabarza's.\n¡Pero se enfría en <r<5 minutos>>!
+
+¡Has conseguido un <y<brote del árbol de la\nvida>>! Es la semilla de un legendario árbol\ncuyos frutos al parecer curan cualquier\nmal.
+¡Has vuelto a conseguir un <y<brote del árbol\nde la vida>>! Si lo plantas aquí, va a tardar\nuna eternidad en crecer. ¿Por qué no\nbuscas otro lugar?
+¡Has conseguido un <y<fruto del árbol de la\nvida>>! Dicen que cura todos los males...\n¡Corre, llévaselo al dragón del trueno!
+¡Has conseguido un <y<zurrón suplementario>>!\nEs un pequeño monedero que te permite\nguardar <r<300 rupias>> más.
+
+
+
+
+
+
+
+Llave pequeña
+Rupia verde
+Rupia azul
+Rupia roja
+Trifuerza
+Corazón
+Flecha perdida
+10 flechas
+Espada divina alba
+Espada de aprendiz
+Espada divina
+Gran espada divina
+Espada Maestra
+Espada Maestra Auténtica
+Paracaídas
+Lira de la Diosa
+Orquídea del espíritu
+
+Arco
+Zarpas
+Estatuilla
+
+
+
+Glifo bendito
+Cristal enigmático
+Glifo de calamar
+Pieza de llave
+Glifo dorado
+Glifo de dragón
+Glifo vetusto
+Rupia plateada
+Rupia dorada
+Pudria
+
+Esporas chispeantes
+
+
+
+5 bombas
+10 bombas
+Fruto de vigor
+Lágrima de Farore
+Lágrima de Din
+Lágrima de Nayru
+Lágrima sagrada
+Fruto luminoso
+Gema de gratitud
+Ánfora de aire
+Mapa de la mazmorra
+
+Tirachinas
+Telescarabajo
+Agua
+Esporas de champiñón
+Guantes de cavar
+Semillas deku
+
+
+
+
+
+
+
+Invencibline 500
+Invencibline 2000
+
+Escama dragón acuático
+
+Medallón de insecto
+Cazamariposas
+Hada
+
+Agua sagrada
+Telescarabajo con gancho
+Telescarabajo veloz
+Telescarabajo tenaz
+Poción de salud
+Poción de salud XL
+
+Poción de salud XXL
+
+
+Resistone 500
+Resistone 2000
+Poción de oxígeno
+Poción de oxígeno XL
+Hada
+
+Arco de hierro
+Arco sagrado
+Saco de bombas
+Contenedor de corazón
+Pieza de corazón
+Trifuerza del Valor
+Trifuerza del Poder
+Trifuerza de la Sabiduría
+Carta náutica del pasado
+Guantes moguma
+Medallón de corazón
+Medallón de rupia
+Medallón de tesoro
+Medallón duradero
+Medallón maligno
+Tirachinas múltiple
+
+Zurrón pequeño
+Zurrón mediano
+Zurrón grande
+Zurrón gigante
+Zurrón de ricachón
+Alforja de aventurero
+Bolsillo vacío
+Medallón de vida
+
+Escudo de madera
+Escudo de madera macizo
+Escudo de madera robusto
+Escudo de hierro
+Escudo de hierro macizo
+Escudo de hierro sólido
+Escudo sagrado
+Escudo sagrado superior
+Escudo sagrado supremo
+Escudo hyliano
+Reparol 100
+Reparol 500
+Bolsa de semillas pequeña
+Bolsa de semillas mediana
+Bolsa de semillas grande
+Carcaj pequeño
+Carcaj mediano
+Carcaj grande
+Saco de bombas pequeño
+Saco de bombas mediano
+Saco de bombas grande
+Látigo
+Pendientes ignífugos
+
+Cazamariposas grande
+Saltabosques
+Escaracorno de Farone
+Abeja deku
+Mantis entrenubosa
+Magmariquita
+Sacraliposa
+Hormiga de Lanayru
+Cigardunera
+Gerúdula
+Eldinabajo pelotero
+Celestarabajo
+Cielérnaga
+Botella vacía
+
+
+
+
+Carta de Corvy
+Jaula de Terry
+Sonajero
+Larvas de abeja
+Pluma de ave
+Planta rodadora
+Cola de lagarto
+Mineral de Eldin
+Flor arcana
+Alhaja ambarina
+Alhaja tenebrosa
+Ectoplasma viscoso
+Garra de monstruo
+Cuerno de monstruo
+Broche calavérico
+Cristal maléfico
+Pluma de ave azul
+Broche calavérico de oro
+Objeto perdido de la Diosa
+Litografía del orbe verde
+Litografía arcana
+Litografía arcana
+Gema de la ordalía
+
+
+
+
+
+Cántico de la Diosa
+Valor de Farore
+Sabiduría de Nayru
+Poder de Din
+Estrofa dragona del agua
+Estrofa dragón del fuego
+Estrofa dragón del trueno
+Cantar del Héroe
+Reparol 2000
+Sopa de calabaza caliente
+Sopa de calabaza fría
+Brote del árbol de la vida
+Fruto del árbol de la vida
+Zurrón suplementario
+
+
+
+
+
+
+
+Un <r<poder infinito>>, capaz de cumplir todos\nlos deseos de quien lo posea. Pero todavía\nte faltan dos partes para completarla.
+Un <r<poder infinito>>, capaz de cumplir todos\nlos deseos de quien lo posea. Pero todavía\nte falta conseguir su última parte.
+Un <r<poder infinito>>, capaz de cumplir todos\nlos deseos de quien lo posea. Has reunido\nsus tres partes: poder, sabiduría y valor.
+
+
+
+Imbuida con el poder de la Llama de Nayru,\nla espada posee ahora nuevas posibilidades\nde rastreo.
+Espada que utilizan los alumnos de la\nacademia para entrenar. Su hoja está\nbastante afilada.
+Espada que permanecía incrustada en el\npedestal de la Diosa. Un intenso halo de luz\ndivina emana de su hoja.
+Espada fortalecida con el poder de la Llama\nde Farore. Su hoja está tan afilada que\npodría cortar casi cualquier cosa.
+Espada imbuida con el poder de la Llama\nde Din. Su hoja es capaz de destruir el mal.
+Espada sagrada imbuida con el poder\nprotector de la Diosa. Solo el auténtico \nhéroe elegido podrá blandir su acero.
+Trozo de tela tejido a mano que has recibido\nde Zelda. Pulsa (B) cuando estés en caída\nlibre para aterrizar sano y salvo.
+Instrumento tradicional de Altárea que\nemite hermosísimas notas. Para interpretar\nuna melodía, antes debes aprenderla.
+
+
+Arma diseñada para alcanzar objetivos\nlejanos. Cuanta más fuerza emplees al\ntensarlo, más potentes serán sus disparos.
+Garras con cadenas que al lanzarlas hacia\ndianas o hiedras se engancharán a ellas y\nte llevarán hasta ese lugar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Polvo que desprenden los champiñones\nchispeantes. Puede llegar a tener usos\nrealmente sorprendentes.
+
+
+
+
+
+
+
+
+
+
+
+Piedras cristalizadas fruto de la gratitud\nmás sincera. Consigue todas las que puedas\ny llévaselas a Batolo.
+Sentimientos de gratitud cristalizados.\nGracias a ellos, el bueno de Batolo al fin\nha podido convertirse en humano.
+Jarrón misterioso capaz de lanzar chorros\nde aire. Dirígelo hacia distintos elementos\na ver qué consigues.
+
+
+Arma que dispara semillas deku\na tus enemigos para aturdirlos.
+Sorprendente dispositivo mecánico capaz\nde volar. Puedes dirigirlo para impactar\ncontra diversos objetos.
+Agua normal y corriente, insípida\ne incolora. No tiene nada fuera de\nlo común.
+Esporas procedentes de un champiñón\ngigante.
+Las afiladas garras de estos guantes son\nperfectas para cavar la tierra. Pulsa (A)\njunto a cualquier montículo sospechoso.
+
+
+
+
+
+
+
+
+Poción que reduce a la mitad el daño\nrecibido. Su efecto dura <r<3 minutos>>.
+Una poción con la que no sufrirás daño\nalguno durante <r<3 minutos>>.
+
+Esta escama te permite bucear a grandes\nprofundidades. Además, si agitas el\nNunchuk, realizarás un ataque torbellino.
+
+Este peculiar objeto señala con \x0E\x02\x04\x02\x1ACD en el\nmapa los lugares donde se congregan\ngrandes colonias de insectos.
+Instrumento con red, indispensable para\ncazar pequeños insectos y muchas cosas más.\nAgita suavemente el mando para utilizarlo.
+
+
+Agua de gran pureza procedente\ndel manantial de la contemplación.
+Dispositivo capaz de transportar pequeños\nobjetos con sus mandíbulas, pero solo si no\nson demasiado pesados.
+Versión mejorada del telescarabajo que se\ndesplaza a más velocidad.
+Versión más avanzada del telescarabajo.\nAdemás de volar más rápido, lo hace\ndurante más tiempo.
+Poción con propiedades curativas que\npermite recuperar <r<8 corazones>>.
+Poción sin igual con la que recuperas <r<todos\ntus corazones>>.
+
+Poción realmente milagrosa que además de\ndevolverte <r<todos los corazones>>, te permite\nutilizarla dos veces.
+
+
+Poción gracias a la cual tu indicador de\nresistencia se vacía más lentamente.\nSu efecto dura <r<3 minutos>>.
+Poción cuyo efecto evita que tu indicador\nde resistencia se vacíe durante <r<3 minutos>>.
+Poción gracias a la cual tu indicador de\noxígeno se vacía más lentamente. Su efecto\ndura <r<3 minutos>>.
+Poción cuyo efecto evita que tu indicador\nde oxígeno se vacíe durante <r<3 minutos>>.
+Esta adorable criatura acudirá en tu ayuda\ncuando desfallezcas. Pero también podrás\nllamarla para recuperar <r<6 corazones>>.
+
+Arco de gran resistencia que destaca por su\nexcelente capacidad ofensiva.
+Es el arco más resistente, imbuido con\nel poder de la Diosa. Libera un potente\nataque contra el enemigo.
+Práctica bolsa para transportar flores\nbomba. Cuando veas alguna por ahí,\nno dudes en guardártela.
+
+Si consigues reunir cuatro de estas,\nrecibirás un corazón adicional.
+Has conseguido reunir todas las piezas.
+
+
+
+
+Versión mejorada de los guantes de cavar.\nCon ellos puedes cavar túneles bajo tierra.
+Amuleto enigmático que aumenta\nla frecuencia de aparición de corazones\ncon solo llevarlo encima.
+Amuleto enigmático que aumenta\nla frecuencia de aparición de\nrupias con solo llevarlo encima.
+Amuleto enigmático que aumenta\nla frecuencia de aparición de\ntesoros con solo llevarlo encima.
+Amuleto enigmático que prolonga el efecto\nde las pociones con solo llevarlo encima.
+Amuleto maldito que aumenta la frecuencia\nde aparición de rupias y tesoros. El\nproblema es que no permite abrir tu alforja.
+Versión mejorada del tirachinas con el que\nlos disparos afectan a un área más amplia.\nMantén pulsado (A) para llegar más lejos.
+
+Monedero para guardar rupias, la moneda\nde cambio que se utiliza en este mundo.\nCaben <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD <r<rupias>>.
+Monedero un poco más grande. Caben\n<r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< rupias>>.
+Monedero que hará las delicias de cualquier\nadulto. Caben <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< rupias>>, suficiente para\ncomprar y comprar sin fin.
+Monedero gigantesco, ¡lo nunca visto!\nTiene capacidad para <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< rupias>>.
+Monedero de lujo solo apto para los\nque están muy forrados. Caben hasta\n<r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< rupias>>, una auténtica fortuna.
+
+Ahora mismo está vacía, por lo que puedes\nguardar un objeto.
+Enigmático amuleto que aumenta tu salud\nmáxima en un corazón con solo llevarlo\nencima.
+
+Escudo ligero y fácil de manejar. No resiste\nel fuego y puede arder a la mínima, pero\ncontra ataques eléctricos es una maravilla.
+Más robusto que el escudo de madera\nnormal. No aguanta el fuego, pero contra\nataques eléctricos es una maravilla.
+Es el escudo de madera más resistente.\nNo aguanta nada bien el fuego, pero para\nrepeler ataques eléctricos es una maravilla.
+Escudo robusto de hierro. No se quema\nni se rompe con facilidad, ¡pero mucho\nojo con la electricidad!
+Escudo de hierro más recio aún que el\nnormal. No arde ni se rompe con facilidad,\n¡pero mucho ojo con la electricidad!
+Es el escudo de hierro más robusto. Ni se\nquema ni se rompe con facilidad, ¡pero\nmucho ojo con la electricidad!
+Escudo sagrado capaz de repararse por sí\nsolo. Además, puede repeler maldiciones,\nfuego y ataques eléctricos sin problema.
+Escudo sagrado con mayor durabilidad que\nel normal. También repele maldiciones,\nfuego y ataques eléctricos sin despeinarse.
+El escudo sagrado más resistente de todos.\nPor supuesto, puede repeler maldiciones,\nfuego y ataques eléctricos como si nada.
+Escudo legendario que guardaba el dragón \ndel trueno. Es capaz de resistir cualquier\ntipo de ataque sin sufrir ni un rasguño.
+Poción maravillosa que deja el indicador del\nescudo <r<como nuevo >>y recupera <r<4>> corazones\nde salud de propina.
+Poción que restaura <r<automáticamente>> el<r<\n>>indicador del escudo cuando este se vacía y\nrecupera <r<8>> corazones de salud de propina.
+Bolsa preparada para guardar <r<10>> semillas\ndeku más para usar con el tirachinas.
+Bolsa preparada para guardar <r<20 >>semillas\ndeku más para usar con el tirachinas.
+Bolsa preparada para guardar <r<30 >>semillas\ndeku más para usar con el tirachinas.
+Carcaj en el que puedes guardar <r<5>> flechas\nmás para el arco.
+Carcaj en el que puedes guardar <r<10 >>flechas\nmás para el arco.
+Carcaj en el que puedes guardar <r<15>> flechas\nmás para el arco.
+Saco preparado para guardar <r<5>> bombas\nmás.
+Saco preparado para guardar <r<10>> bombas\nmás.
+Saco preparado para guardar <r<15>> bombas\nmás.
+La pegajosa bola de luz del extremo permite\natraer cosas hacia ti o moverlas.
+Este misterioso accesorio permite soportar\nlas más altas temperaturas como si nada.
+
+Cazamariposas cuya red es el doble de\ngrande de lo normal. Con él podrás cazar\nhasta el insecto más escurridizo.
+Insecto del bosque que echa a volar en\ncuanto se siente amenazado. Es muy\nvalioso y difícil de atrapar.
+Insecto del bosque que se mueve con lentitud\ny es fácil de atrapar. Embiste los árboles y el\nefecto de la gravedad hará el resto.
+Insecto del bosque cuyo aguijón puede\nllegar a resultar temible. Ándate con\nmil ojos si ves un enjambre.
+Insecto de Altárea bastante fácil de atrapar.\nPero ojo, su mordedura puede resultar\nbastante dolorosa.
+Insecto del volcán que siempre se encuentra\nen pequeños grupos. No es demasiado activo\ny resulta sencillo de atrapar.
+Insecto muy común en cualquier región.\nAdemás, es un valioso ingrediente para\nelaborar pociones.
+Insecto del desierto que siempre forma\ncolonias. Por raro que pueda parecer, sus\nfacciones son muy hermosas.
+Insecto del desierto que echa a volar cuando\nmenos te lo esperas. Es de los insectos más\ndifíciles de atrapar.
+Insecto del desierto cuyo principal rasgo\nes su velocidad vertiginosa. Para cazarlo,\nacércate con sigilo.
+Insecto del volcán que huye a la mínima. No\nse sabe bien de qué mi... milagrosa sustancia\nestá hecha la bola, pero es muy peculiar.
+Insecto autóctono de Altárea adorado por\ntodos los niños.
+Insecto de Altárea que únicamente sale por\nla noche. Con solo mirarlo, te invade una\nsensación indescriptible de paz interior.
+Recipiente muy práctico para conservar\npociones y otros elementos.
+
+
+
+
+Carta de Corvy, escrita con todo su amor.\nCuida bien de ella y no se te ocurra usarla\ncomo papel higiénico...
+Carta de Corvy, escrita con todo su amor.\nMal que bien, al final has conseguido\nentregarla... ¡Lo demás, ya se verá!
+Contiene el insecto favorito de Terry.\nDeberías llevársela ahora mismo.
+Contenía el insecto favorito de Terry, que\ntú has rescatado de las garras de Vestro.\n
+Juguete favorito de muchos bebés.\n¿A quién se le habrá caído?
+Juguete del bebé de Alfred, el de la tienda\nde pociones. ¡Suerte que lo encontraste!
+Rica fuente de proteínas extraída de una\ncolmena. Pero ojo, las abejas defenderán\nsus hogares arborícolas a toda costa.
+Hermosas plumas procedentes de unos\npajaritos que viven en lugares donde\nabunda la vegetación, como los bosques.
+Planta reseca que rueda por el desierto.\nSolo se puede atrapar con cazamariposas,\nporque se deshace apenas la tocas.
+Cola de lagarto con una bola metálica\nde pinchos en la punta.
+Extrañas rocas de la región de Eldin.\nCon ellas se pueden elaborar objetos\nrobustos y resistentes.
+Flor milenaria que solía crecer en zonas\ndesérticas, como la región de Lanayru.\nDe sus raíces se extrae un valioso aceite.
+Piedra de color ámbar que se encuentra por\ntodas partes y tiene múltiples utilidades.
+Piedra similar en aspecto a la alhaja de\námbar, pero de naturaleza distinta. Se\nencuentra en el mundo de Hypnea.
+Elemento de extraña composición que dejan\nlas criaturas de constitución blandita. Dicen\nque al calentarlo se endurece.
+Elemento que sueltan las criaturas aladas.\nProcura no tocar su afilada punta si no\nquieres poner todo perdido de sangre.
+Corneta perteneciente a un bokoblin. Eso sí,\nresulta casi imposible sacarle sonido alguno\nsi no eres uno de ellos.
+Los bokoblin los utilizan como elementos\ndecorativos. En realidad no son calaveras\nde verdad, tan solo ornamentales.
+Forma cristalizada del corazón malvado de\nun demonio. Suelen obtenerse de criaturas\ncon el poder de lanzar maldiciones.
+Pluma de un ave azulada muy poco común.\nDicen que con solo tenerla te embarga un\nsentimiento indescriptible de felicidad.
+De los objetos calavéricos, este es el más\nraro. Es dorado, pero dicen que no está\nhecho de oro ni nada que se le parezca.
+Precioso cristal que, según dicen, perteneció\na la Diosa. De gran valor, es realmente\ncomplicado ver uno de estos.
+Antigua litografía que muestra la senda\nhacia la región boscosa de Farone.
+La litografía del orbe verde y la del orbe\nrojo muestran la senda hacia el bosque y\nhacia la región candente de Eldin.
+Las litografías de los tres orbes te guían\nhasta las tres regiones: bosque, fuego\ny desierto.
+Prueba definitiva de que has logrado\nsuperar todos los juicios. Además,\nabre la senda hacia la Trifuerza.
+
+
+
+
+
+Himno a la Diosa que se interpreta con\nla lira. Sirve de guía al elegido para\ncompletar la misión de la Diosa.
+Melodía que te guía hasta el juicio del\nespíritu del bosque de Farone. Toca la lira\ncuando llegues al umbral.
+Melodía que te guía hasta el juicio del\nespíritu del desierto de Lanayru. Toca\nla lira cuando llegues al umbral.
+Melodía que te guía hasta el juicio del\nespíritu del volcán de Eldin. Toca la lira\ncuando llegues al umbral.
+Estrofa que te enseñó la dragona del agua\ny parte además de la melodía que te guiará\nhasta el último juicio del espíritu.
+Estrofa que te enseñó el dragón del fuego\ny parte además de la melodía que te guiará\nhasta el último juicio del espíritu.
+Estrofa que te enseñó el dragón del trueno\ny parte además de la melodía que te guiará\nhasta el último juicio del espíritu.
+Melodía que te guiará hasta el último de\nlos juicios del espíritu. Toca la lira cuando\nllegues al umbral.
+Restaura <r<automáticamente>> el indicador del\nescudo cuando este se vacía, recupera <r<8\n>>corazones, y se puede usar <r<dos veces>>.
+Deliciosa sopa caliente elaborada por\nel dueño del Calabarza's.
+Sí, está muy rica. O estaba, porque ya se ha\nenfriado.
+Semilla de un árbol legendario cuyos frutos\ntienen la capacidad de curar cualquier mal.\nAunque tarda mucho en crecer...
+Dicen que este fruto legendario es capaz\nde curar todos los males y que su sabor\nno es de este mundo.
+
+
+Los monstruos te han birlado este objeto...\n¡Tienes que recuperarlo!
+
+Vista subjetiva
+Vista\nsubjetiva
+Zelda
+Zelda
+Pista de los kyus
+Pista de\nlos kyus
+Piezas de la llave
+Piezas de\nla llave
+Generador
+Generador
+Umbral del juicio
+Umbral\ndel juicio
+Agua sagrada
+Agua\nsagrada
+Barco del almirante
+Barco del\nalmirante
+Faronitas
+Faronitas
+Corazones
+Corazones
+
+
+Tesoros
+Tesoros
+Gemas de gratitud
+Gemas\nde gratitud
+Rupias
+Rupias
+Cubos divinos
+Cubos\ndivinos
+Rotor
+Rotor
+Marmita
+Marmita
+Bola de cristal
+Bola de\ncristal
+Labriego
+Labriego
+Nueva especie de planta
+Nueva especie\nde planta
+Ruleta
+Ruleta
+
+
+Desactivar el rastreador y activar la vista\nsubjetiva.\n
+Zelda, desaparecida tras aterrizar\nen las tierras inferiores.
+Kyu desconocido perdido en el bosque.
+Son del mismo material que la gran puerta\nde la ladera del volcán.
+Objeto que suministra energía al dispositivo\nsituado en mitad del desierto.
+Umbral del juicio del espíritu para acceder\nal mundo de Hypnea.
+Agua sagrada que te ha pedido la dragona\ndel agua.
+Barco invisible que los piratas le robaron\nal almirante.
+Faronitas que forman parte de una estrofa\ndel Cantar del Héroe.
+Corazones y flores de corazón con los que\nrecuperar salud.
+
+Cualquier elemento que pueda servir para\nmejorar tu equipo.
+Piedras preciosas que busca Batolo.\nProceden de personas totalmente\ndesbordadas por la gratitud.
+Ya has reunido todas las gemas de gratitud,\nno te queda ninguna por encontrar.
+A veces más, a veces menos, siempre hace\nfalta dinero, o rupias.
+Cubos divinos y sus correspondientes cofres.\nLanza el rayo celestial y ponte a buscar\ntesoros.
+Ya has conseguido todos los tesoros que \nguardaban los cubos divinos, no te queda\nninguno más por rastrear.
+Hélice propulsora del molino de Altárea,\nque cayó hasta las tierras inferiores.
+La marmita que usaba la dragona de agua,\nun recipiente en el que cabe agua suficiente\npara apagar las llamas.
+La nueva bola de cristal que necesita\nel vidente Gorronte.
+La persona que Calabelle necesita para\nayudarla con el huerto de calabazas.
+Una nueva y desconocida especie vegetal\npara la colección del maestro Buhel.
+La ruleta que se le cayó hasta las tierras\ninferiores al hombre de la isla Fortuna.
+
+Llama de Farore
+Llama de Nayru
+Llama de Din
+
+La espada se hace más grande y su\ncapacidad ofensiva aumenta gracias\nal poder sagrado de la llama verde.
+La capacidad de rastreo de Fay aumenta\ngracias al poder sagrado de la llama azul.
+La espada posee ahora la capacidad de\nacabar con el mal de raíz gracias al poder\nsagrado de la llama roja.
+
+Objetos
+Alforja
+Rastreador
+Mostrar / ocultar controles
+Calibrar Wii MotionPlus
+Equipo
+Colección
+Mantén pulsado (B) para elegir
+Mantén pulsado \x0E\x02\x04\x02\x2CD para elegir
+Mantén pulsado (C) para elegir
+
+Esporas\nchispeantes
+Agua
+Esporas de\nchampiñón
+Invencibline\n500
+Invencibline\n2000
+Medallón\nde insecto
+Agua\nsagrada
+Poción\nde salud
+Poción de\nsalud XL
+Poción de\nsalud XXL
+Resistone 500
+Resistone 2000
+Poción de\noxígeno
+Poción de\noxígeno XL
+Hada
+Medallón\nde corazón
+Medallón\nde rupia
+Medallón\nde tesoro
+Medallón\nduradero
+Medallón\nmaligno
+Medallón\nde vida
+Escudo de\nmadera
+Escudo de\nmadera macizo
+Escudo de\nmadera robusto
+Escudo\nde hierro
+Escudo de\nhierro macizo
+Escudo de\nhierro sólido
+Escudo\nsagrado
+Escudo sagrado\nsuperior
+Escudo sagrado\nsupremo
+Escudo\nhyliano
+Reparol 100
+Reparol 500
+Bolsa de\nsemillas pequeña
+Bolsa de\nsemillas mediana
+Bolsa de\nsemillas grande
+Carcaj\npequeño
+Carcaj\nmediano
+Carcaj\ngrande
+Saco de bombas\npequeño
+Saco de bombas\nmediano
+Saco de bombas\ngrande
+Botella\nvacía
+Reparol 2000
+Sopa de\ncalabaza caliente
+Sopa de\ncalabaza fría

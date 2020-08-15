@@ -1,0 +1,19 @@
+Psst! Ragazzo, vieni qui! Sono un\n<b<venditore notturno>>, se c'è qualche\ntesoro su cui vuoi a tutti i costi mettere\nle mani, io potrei vendertelo...\n... Se me lo chiedi gentilmente.
+Beh, ti costerà un po', è chiaro! Chi\nviene da me, lo fa perché raccogliere\ntesori è complicato e, a volte, persino\nseccante...\nTi può interessare?[1]Sì[2-]No
+Bene! Quale tesoro ti interessa?\n[1]Piuma\nazzurra[2]Teschio\ndorato[3]Ciglia\ndella Dea[4-]Altro
+Ah, sei difficile da soddisfare, eh?!\nQuindi, un altro tesoro... che ne dici\ndi questi?[1]Magatama\nscura[2]Cristallo\ndemoniaco[3]Corno\ndi mostro[4-]Altro
+Più di questo non ho...\nIl resto devi cercarlo da te.
+Molto bene, una piuma azzurra!\nFanno <r<200 rupie>>! Che te ne pare?\n[1]Va bene[2-]Troppo
+Molto bene, un teschio dorato!\nFanno <r<200 rupie>>! Che te ne pare?\n[1]Va bene[2-]Troppo
+Molto bene, le ciglia della Dea!\nFanno <r<200 rupie>>! Che te ne pare?\n[1]Va bene[2-]Troppo
+Allora, una magatama scura!\nFanno <r<100 rupie>>! Che te ne pare?\n[1]Va bene[2-]Troppo
+Bene, un cristallo demoniaco!\nFanno <r<100 rupie>>! Che te ne pare?\n[1]Va bene[2-]Troppo
+Dunque, un corno di mostro!\nFanno <r<100 rupie>>! Che te ne pare?\n[1]Va bene[2-]Troppo
+Come vuoi... La gente onesta dovrebbe\nevitare di avere a che fare con me...
+Secondo te è troppo caro? Allora vuol\ndire che non sei molto interessato\na tesori del genere!
+Ottimo! Ecco a te!
+Sembrerebbe che tu non abbia\nsoldi... torna quando li avrai!
+Sei soddisfatto? Se vuoi qualche altra\ncosa, vieni pure quando ti pare!
+Ehilà! Sono un venditore notturno...\nAh, sei ancora tu. Vuoi\ncomprare qualcosa?\n[1]Sì[2-]Non ora
+Allora che fai, compri?\n[1]Sì[2-]Non ora
+Devi avere il gusto per l'avventura\nse sei arrivato fin qui.\n\n\nCredi di poter atterrare sul nido della\ntorretta, se <g<ti lanci>> da questo punto?

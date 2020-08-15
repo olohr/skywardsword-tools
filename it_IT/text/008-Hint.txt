@@ -1,0 +1,167 @@
+Allora, come va?\nHo dei nuovi suggerimenti per te...\nvuoi sapere di che si tratta?\n[1]Certo![2-]No
+Dunque dunque...\x0E\x01\x04\x02\n Non ho nulla di\nnuovo per te, ma se vuoi ti mostro i\nsuggerimenti disponibili finora!\n[1]Va bene[2-]No
+E allora, come andiamo?!\x0E\x01\x04\x02\n\nChe ne dici di dare un'occhiata ai miei\nsuggerimenti?![1]Sì[2-]No
+Va bene! Ricordati che io sono\ndalla tua parte! In bocca al lupo!
+Ops... Di nuovo tu\x0E\x01\x04\x02\n!\nE di nuovo non ho nulla di interessante\nda dirti...\nPotresti ripassare fra un po'?
+Ehi, tu!\nVieni un attimo qua!
+Io sono la <b<pietra Sheika>>.\nMolto piacere!\nVengo subito al punto!\n\nAllora...~~~ credo proprio che da adesso\nin poi potresti trovarti in situazioni\npiuttosto complicate!\n\nPotrebbe succedere che non riesci a\nproseguire perché non sai risolvere\nun enigma. In tal caso, vieni pure a\ntrovarmi!\nAdesso non ho niente da mostrarti, ma\nquando sarà il momento e tornerai a\ntrovarmi ti farò vedere una <r<cosa\ninteressante>>! \nIntanto... Buona fortuna!
+Sono la <b<pietra Sheika>>, piacere!\n\x0E\x01\x04\x02\n.~~.~~.\x0E\x01\x04\x02\n Uhm, dici che ci siamo già\npresentati?!\n\nAllora...~~~ Noto che ti stai cimentando\nnella <r<modalità eroica>>, eh... Gli enigmi\nnon ti hanno dato granché filo da\ntorcere, dici?\nMi congratulo! E in segno di riverenza\nper una tale bravura, ti mostrerò <pling><r<tutti\ni suggerimenti>>, fin dall'inizio!\n\nQuando vuoi controllarli, non ti resta\nche muovere i tuoi bei piedini e venirmi\na trovare!\n\nIntanto... Buona fortuna!
+Novità!
+Fatto!
+Cielo e Oltrenuvola
+Terra dell'esilio
+Regione della foresta di Firone
+Regione del vulcano di Oldin
+Regione del deserto di Ranel
+Santuario del Cielo
+Santuario della Terra
+Opificio di Ranel
+Antico sacrario
+Galeone delle sabbie
+Grande Santuario Antico
+Torre del Cielo
+Sorpresa
+Salva il tuo solcanubi
+Insegui la ragazza misteriosa
+Come si entra nella bottega di Terry?
+Risolvi l'enigma del cimitero
+Due enormi torri del vento \x2460
+Due enormi torri del vento \x2461
+Sposta il ponte dell'Isola delle melodie
+Salva Narisha
+
+Inserisci l'emblema della prova
+Come sconfiggere le Deku baba
+Recluso
+Recluso \x2461
+Recluso \x2462
+Battaglia contro l'orda
+Battaglia finale contro Ghiraim \x2460
+Battaglia finale contro Ghiraim \x2461
+Mortipher
+Trova il Kyuri \x2460
+Trova il Kyuri \x2461
+Trova il Kyuri \x2462
+Come sconfiggere l'octorock
+Provvedimenti contro le api
+Dirigiti verso il santuario
+Entra nel santuario
+
+Dopo aver ottenuto la scaglia
+Attraversa la piattaforma mobile
+Forza, al lago!
+
+
+
+Prendere le cromanime con il turbine
+Cromanima sotto il loto
+Cromanima dietro alla roccia
+Aprire il buco otturato dal Mogma
+Come oltrepassare la torretta
+Sede di un frammento di chiave \x2460
+Attraversa una strada priva di ponti
+Sede di un frammento di chiave \x2461
+Sede di un frammento di chiave \x2462
+
+Spegni la mia sete
+Un grande contenitore d'acqua
+Recupera la frusta
+Recupera la fionda
+Recupera il portabombe
+Recupera gli oggetti rimanenti
+Avanzare nella miniera di Ranel \x2460
+Avanzare nella miniera di Ranel \x2461
+Avanzare nella miniera di Ranel \x2462
+Come salvare il robot
+Avanzare nel deserto di Ranel \x2460
+Avanzare nel deserto di Ranel \x2461
+Verso il Santuario del Tempo
+Verso l'opificio di Ranel
+Camminare sulle sabbie mobili
+Sede del simbolo \x2460
+Sede del simbolo \x2461
+Sede del simbolo \x2462
+
+Con gli artigli verso zone sconosciute
+Sconfiggere un grublin scudo di ferro
+Avanzare nel covo dei pirati \x2460
+Avanzare nel covo dei pirati \x2461
+Cerca il galeone delle sabbie
+Sede della piccola chiave
+Una roccia di troppo
+La terra fertile per il bulbo
+L'occhio guardiano
+A caccia d'interruttori \x2460
+Sconfiggi l'aracnula
+Sede dell'interruttore segnato con \x0E\x02\x04\x02\x19CD
+Sconfiggi lo stalfos
+A caccia d'interruttori \x2461
+Sconfiggi Ghiraim
+Trova la chiave dei Mogma
+Un ponte per attraversare la lava
+Come attraversare la lava
+Ottieni il portabombe
+Come sconfiggere i lizalfos
+Dopo aver ottenuto la mappa
+Aprire il passaggio sul fiume di lava
+Come salire il pendio
+Sconfiggi Occhio di fuoco
+Come aprire la prima barriera
+Come rompere le casse di legno
+La pietra del tempo dentro la gabbia
+Fai avanzare il nastro trasportatore
+Lo scrigno imprigionato
+Attraversare le sabbie mobili
+Carrelli delle pietre del tempo\ne interruttori a elica
+L'enigma dei 3 interruttori consecutivi
+Carrelli delle pietre del tempo\ne piattaforme a elica
+Sconfiggi sferobot
+Sconfiggi laseros
+Sconfiggi armos
+Sconfiggi Skorpyo
+Scopri l'ordine delle pietre brillanti
+Procedi nel canale oltre\nle piante di loto
+Sconfiggi bistalfos
+L'interruttore dietro la cascata
+Come rubare la chiave
+Ricordati come eseguire\nun salto avvitato
+Sconfiggi fiamma piumata
+Aggrappati all'edera
+Avanzare nella stanza dei rulli
+Sconfiggi Malgare
+L'ordine delle 4 pietre brillanti
+Sconfiggi Capitan Bruto
+
+Attiva il generatore \x2460
+Attiva il generatore \x2461
+Fai in modo che ritiri i tentacoli
+Sconfiggi Meduclope \x2460
+Sconfiggi Meduclope \x2461
+Avanzare nella stanza della magmano
+Avanzare nella stanza della lava
+Spegni la mia sete \x2461
+Sconfiggi la magmano
+Cerca la stanza dal muro falso
+Come ottenere la chiave del nemico
+Sconfiggi Ghiraim \x2461
+La fuochiglia dentro la roccia
+Attraversare le piattaforme mobili
+Per attraversare il fiume di lava \x2460
+Per attraversare il fiume di lava \x2461
+La pietra brillante dietro alla statua
+Avanzare nella stanza\ndelle sabbie mobili \x2460
+Avanzare nella stanza\ndelle sabbie mobili \x2461
+Avanzare nella stanza\ndelle sabbie mobili \x2462
+Sconfiggi Capitan Sade
+Catturare insetti
+Consegna la zuppa al primo cavaliere
+Ralla scomparsa
+Il capanno senza entrata
+Una bevanda per Gentirosso
+I dubbi dell'indovino
+Prendi il sonaglino
+Cerca il rinocottero gigante
+Disegnare sulle pareti della Dea
+I segreti delle pareti della Dea
+Ottenere frecce
+Punti da cui lanciarsi

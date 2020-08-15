@@ -1,0 +1,46 @@
+
+\x0E\x03\x01\x00Link!
+You cannot go to him, Your Grace.\nRemember what we discussed.\nRestrain yourself. Focus on the task\nat hand.
+I... I have to go. I'm sorry,\nLink.
+It took you far too long to get here.\nLooking at you, I fear the <b<goddess\n>>is mistaken in her choice of agents.\n\nIf this failure is any indication, you\nhave no hope of defending Her Grace\nfrom those who seek to assail her.
+Do my words anger you, boy?\n\n\n\nDo my words sting?~~ Let them. ~~~If I had\nnot come when I did, your Zelda would\nalready have fallen into the hands of\nthe enemy.\n\x0E\x01\x04\x02\x14\x0E\x01\x06\x02\xFFCDThe truth of it is you were late.\n\x0E\x01\x06\x02\xFFCDYou were late, and you failed to\nprotect her.
+I sent Zelda ahead to learn more of the\nfate in which she is destined to play\na part.\n\nListen well, chosen one. If you wish to\nbe of help to Her Grace, you must\nsummon a shred of courage and face\nthe trials laid out before you.\nOnly when you've conquered the trials\nwill you be of use to Zelda. \x0E\x01\x04\x02\nNo sooner.\n\x0E\x01\x04\x02\nAm I understood?
+\x0E\x01\x12\x04\x00\x01Master, I have a message written in the\nlanguage of the gods of old.\n\n\nAllow me to translate for you.
+<y+<From the edge of time I guide you,\nthe one destined to carry out the\ngoddess's mission.>>
+<y+<The spirit maiden who descended from\nthe clouds has passed through the\nEarth Spring and makes her way to a\nfated place.>>
+<y+<The parched desert of Lanayru...>><y+<\nThat is where the chosen will pass\nthrough the <r<Gate of Time <y+<into a\ndistant world.>>
+You got the <y<Amber Tablet>>! \nThe weathered surface of this heavy stone\ntablet feels very old.
+
+...Oh, hello there, Link.\nI see you're still among the living.\nFancy meeting you here.
+We seem to bump into each other time\nand time again. Oh, it's no coincidence,\nthough, is it? You and I, we're bound\nby a <r<thread of fate>>.
+Look at these old drawings!
+Until I found these, I was...upset about\nthat little stunt the goddess's guard dog\npulled at the <r<Gate of Time>>. What was\nthat twig's name again? <b<Impa>>?
+Well, never mind that, because these\ndrawings suggest the existence of a\nsecond Gate of Time.\x0E\x01\x04\x02\x1E This news has \njust \x0E\x01\x06\x02\x1CDfilled my heart with rainbows!\x0E\x01\x06\x02Í
+I've been a busy boy, searching here\nand there and everywhere for another\nGate of Time.
+And yet, I couldn't even find a single\nclue. Since I know I can be honest with\nyou, I'll admit I got a little sulky.\nIt was frowns all around.
+The thought of never getting my hands\non that darling young girl again was...\nwell, more than I could bear.
+But then...\x0E\x01\x04\x02( Then I found this place!\x0E\x01\x04\x02(\nThe prospect of a second Gate of Time\nhas made me positively giggly!
+
+
+That girl... Your adorable friend...\nShe will be instrumental in bringing\nabout the revival of my master.\n\nAnd though I feared she was now quite\nbeyond my reach, I despair no longer!
+...But before we talk any further on \nthat subject, there's still the\noutstanding matter of your\npunishment, Link.\nDo you remember when I told you that\nthe next time we met, I'd make your\nears bleed from the sound of your own\nscreams?\nWell, I've been thinking... Perhaps\ncorporal punishment is a touch harsh.\nI might be willing to forgive and forget\nif you'll strike a deal.
+...~~~All I ask is that you tell me where\nI can find the other Gate of Time.\n\n\nThat's not too much to ask, is it?\nOh, and don't you play coy with me.\nI know that you know, so why not let me\nin on the fun?
+Such behavior. A mischievous boy like\nyou needs to be dealt with firmly. \nI must warn you, I won't go easy on you\nthis time.
+Lovely, aren't they? You'll find the\nsupple skin of my arms tougher than\nany armor. Doesn't their shape just\nleave you...breathless?
+\x0E\x01\x05\x04\n\x00Behold!
+\x0E\x01\x05\x04\x14\x00Such beauty!
+\x0E\x01\x05\x04\x14\x00\x0E\x01\x08\x02\x1CDSuch a pure form!
+\x0E\x01\x05\x04\x14\x00\x0E\x01\x08\x02\x1CDSuch an exquisite physique!
+\x0E\x01\x05\x04\x19\x00\x0E\x01\x08\x02\x2CDSuch stunning features!
+Yes, I've pretty much got it all. \x0E\x01\x04\x02\x14Though\nthere is one teensy, tiny thing I lack...
+Namely, mercy.\x0E\x01\x04\x02-\n\n\n\nCome to me, Link.\nYou and I, we're bound by that <r<thread>>\nof fate. Destined to fight.\n\n\x0E\x01\x04\x02<So come close, Link!\x0E\x01\x06\x02\xFFCD\nMeet me in battle, and the thread of\nfate that binds us will be soaked \ncrimson with your <r<blood>>!
+
+
+The flames of Din have imbued your\nblade with a sacred white light that\ndemons revile.
+\x0E\x01\x12\x04\x00\x01Master, ~~~now that it has been tempered\nby the last of the sacred flames, your\nblade has finally revealed its true\nform. You now hold the <r<Master Sword>>.
+With this sword's great power, you can\nawaken the Gate of Time within the\n<b<Sealed Temple>>. I recommend you\nmake your way to this location.
+
+Ho! A man of flesh and blood has\nwalked his way to the heart of my\nburning hall! Now this is something.
+If I have the right of it, the mark you\nbear upon your hand is not just a\nfashionable decoration.\n\nThere can be no doubt about it, then.\nThe goddess has chosen you to hear the\nmelody I have guarded for her all\nthese years.\nListen well, human child. I will sing\nyou my part of the <b<Song of the Hero>>.
+
+You learned part of the <y<Song of the Hero>>!

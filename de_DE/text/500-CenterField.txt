@@ -1,0 +1,129 @@
+Siegelhain
+\x0E\x01\x09\x04B\x4300Na, wie gefällt dir mein kleines\nSpielzeug? Da machst du Augen, was?\nDas hättest du mir nicht zugetraut,\noder?\n\x0E\x01\x09\x04>\x4000Ich lege schon mal das nächste\nGeschoss ein. Sag mir Bescheid,\nwenn es losgehen soll!\n
+\x0E\x01\x09\x04C\x4500Was war das denn?\nDu musst schon zielen, wenn du den\nKerl treffen willst!\n\n\x0E\x01\x09\x04A\x4000Ich lege dann mal das nächste\nGeschoss ein. Sag mir Bescheid,\nwenn es losgehen soll!
+\x0E\x01\x09\x04D\x4300Gut gezielt, aber etwas zu\nspät geschossen!\n\n\n\x0E\x01\x09\x04\x00\x4000Ich lege dann mal das nächste\nGeschoss ein. Sag mir Bescheid,\nwenn es losgehen soll!
+\x0E\x01\x09\x04 \x403CGut, du bist auf dem <b<Katapult>>! Ziele\nauf den Siegelstein auf seinem Kopf! 
+Komm, steig in das Katapult! Ich weiß\nzwar nicht, ob es klappen wird, aber\nich helfe dir, so gut ich kann!
+
+\x0E\x01\x09\x04\x00\x0FEr hat das Siegel gebrochen!\n\n\n\nIch erzähle dir später mehr darüber.\n\n\n\nJetzt musst du erst dafür sorgen, dass\ner nicht aus seinem Loch entkommen\nkann.\n\nEr darf den Tempel nicht erreichen!
+Ich habe dir etwas zu berichten,\nGebieter.
+Es scheint, als sei dieses Tor vor\nKurzem geöffnet worden. Jetzt aber ist\nes von einer starken Kraft versiegelt.
+Dieses Wesen, das dort angegriffen\nwird, kann dir vielleicht behilflich sein.\nIch empfehle dir, ihm zu Hilfe zu\neilen.
+\x0E\x01\x05\x042\x00\x0E\x01\x12\x04\x00\x04Gebieter, Link.
+\x0E\x01\x05\x04K\x00Dies ist das <b<Erdland>>, über das im\nWolkenhort so viele Legenden\nkursieren...
+\x0E\x01\x05\x04K\x00Und das hier...\nMan nennt diesen Ort den <b<Siegelhain>>.
+\x0E\x01\x05\x04K\x00Nun denn, \x0E\x01\x12\x04\x00\x0BGebieter.\nPass gut auf dich auf.
+
+\x0E\x01\x12\x04\x00\x01Gebieter, wenn du den <b<Paraschal>> nicht\nvor der Landung öffnest, kann das sehr\nernste Folgen für dich haben.\n\nDieses Mal habe ich dir geholfen, aber\nvergiss nicht, \x0E\x01\x12\x04\x00\x02Gebieter, beim nächsten\nMal (B) zu drücken.\x0E\x01\x11\x02\x1CD
+...\x0E\x01\x06\x02\xFDCDMein Kind!\n\n\n\n\x0E\x01\x06\x02\xFDCDKind des Himmels, das aus den\nWolken kam...
+\x0E\x01\x06\x02\xFDCDHalte das Schwert der Göttin\nhimmelwärts...\n~~~\x0E\x01\x06\x02\xFDCDHalte es dem Bösen entgegen...
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nDurch Drücken von (Z) kannst du\nObjekte oder Personen <g<anvisieren>>, und\nich kann dir dann berichten, welche\nInformationen ich über sie habe.\x0E\x01\x11\x02\x7CD\nRufe mich, indem du (v) drückst,\nwährend du etwas mithilfe von (Z)\n<r<anvisiert hast>>.\x0E\x01\x11\x02\x9CD\x0E\x01\x11\x02\x7CD
+Was sagst du da, Link?\n\n\n\nDu meinst also, dass die alte Frau in\ndem <r<Tempel>> dort weiß, wo sich <b<Zelda\n>>aufhält?
+Hm...\nAlles klar, Link!\nDu hast deinen bescheidenen Beitrag\ngeleistet.\nJetzt bin ich dran!\n\n\n\n\x0E\x01\x09\x04\x0D\xB41Von jetzt ab werde ich mich persönlich\num die Rettung <b<Zeldas>> kümmern!
+Ich werde sie retten und mit ihr in den\nWolkenhort zurückkehren.\x0E\x01\x04\x02\x1E
+\x0E\x01\x09\x04\x00\x0CIch werde um <b<Zeldas>> Hand anhalten,\nsie wird Ja sagen, und wir werden für\nimmer glücklich sein!
+\x0E\x01\x09\x04\x00\x0DDu musst dir also gar keine\nHoffnungen mehr machen!
+Ich gehe dann gleich mal zu der alten\nFrau!
+\x0E\x01\x08\x02\x1CDViel Spaß noch im Leben...\x0E\x01\x04\x02-\n\x0E\x01\x08\x02\xFFCDLink!
+\x0E\x01\x09\x04\x08\x170FLink!\nDu musst sofort zum <r<Siegelstein >>in der\nMitte des Siegelhains!\n\n\x0E\x01\x09\x04\x14\xB00Dies ist kein gewöhnliches Beben!\nDas Böse, es wird wieder erwachen...
+\x0E\x01\x09\x04\xE00\x10Link!\nSchnell, zum <r<Siegelstein >>in der Mitte\ndes Hains!
+\x0E\x01\x09\x04\xE00\x1653Wer weiß, wann das Böse erwacht?\nDu musst dich beeilen!
+\x0E\x01\x09\x04\x10\x180FLink!\nDu musst das Böse in seine Schranken\nzurückweisen!\n\nSeine Kraft ist im Wachsen begriffen...\nFass dir ein Herz und tritt näher!
+\x0E\x01\x09\x04\x10\x180DWeißt du, wie man\ndas Siegel verschließt?\n\n\nStelle dich vor den Stein und lenke den\n<r<Himmelsstrahl>> auf ihn!\x0E\x01\x04\x02\x1E\nIch weiß, dass du es kannst...
+\x0E\x01\x09\x04\x10\x180FLink!\nDu musst das Siegel, von dem das Böse\nzurückgehalten wird, wieder\nverschließen!\nDie Kraft des Bösen ist viel stärker,\nals sie es zuvor war. Pass auf dich auf!
+\x0E\x01\x09\x04\x10\x180DDas Siegel ist ein weiteres Mal\ngebrochen...\n\n\nDu weißt, was du nun tun musst.\nGib nicht auf, ich weiß, dass du es\nschaffen wirst!
+\x0E\x01\x09\x04\x00\x15Wa... Was ist das?\nAlles wackelt?!?\n\n\nDie Erde, sie bewegt sich!\nWas zum...
+\x0E\x01\x09\x04\x4000Was ist das?\nDie Erde... sie bebt?!?
+\x0E\x01\x09\x04\x4001Aaah!\nEin... Erdbeben?!?
+\x0E\x01\x09\x04\x001Aaaaah!!!
+\x0E\x01\x09\x04\x000Aaah... Ich... Jetzt mach schon, was die\nalte Frau dir gesagt hat!\n\n\nTriff den Stein mit dem Strahl aus\ndeinem Schwert oder so, das meinte\nsie doch?!?
+\x0E\x01\x09\x04\x10\x160DLos! Link!\x0E\x01\x04\x02\x1E\n\n\n\nLenke den <r<Himmelsstrahl >>auf den\nSiegelstein!\n\n\n\x0E\x01\x09\x04\x11\x1700Schnell!
+
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas zu\nberichten. Der <r<Siegelstein>> steckt in der\nStirn des Verbannten.\n\nDu kannst nicht fliehen, ehe du diese\nBestie besiegt hast...
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\nDu, \x0E\x01\x12\x04\x00\x02Gebieter, musst den Verbannten\njetzt in seine Schranken zurückweisen.\nDu kannst jetzt nicht fliehen.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\nDer Verbannte ist wiedererwacht.\nDu kannst jetzt nicht fliehen.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\nDu, \x0E\x01\x12\x04\x00\x02Gebieter, musst den Verbannten\njetzt in seine Schranken zurückweisen.\nDu kannst jetzt nicht fliehen.
+Besiege den Verbannten, \x0E\x01\x12\x04\x00\x01Gebieter.\nFlucht ist keine Option.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\nDu, \x0E\x01\x12\x04\x00\x02Gebieter, musst den Verbannten\njetzt in seine Schranken zurückweisen.\nDu kannst jetzt nicht fliehen.
+\x0E\x01\x09\x04\x00=\x0E\x01\x08\x02\x1CDAaaargh!\n\n\n\n\x0E\x01\x09\x04\x00\x3A00\x0E\x01\x08\x02\x1CD\x0E\x01\x08\x02\x1CDNichts habe ich tun können!\n\n\n\n\x0E\x01\x09\x04\x00\x4000\x0E\x01\x08\x02\x1CD\x0E\x01\x08\x02\x2CDEinfach gar nichts!
+\x0E\x01\x09\x04\x00-Wie... \x0E\x01\x04\x02\x1EWas...\x0E\x01\x04\x02\x1E\nIch bin einfach zu nichts\nzu gebrauchen\x0E\x01\x04\x02\x1E!\x0E\x01\x04\x02\x1E!\x0E\x01\x04\x02\x1E!
+\x0E\x01\x09\x04\x00\x02Ach, Link?\nWeißt du, ich habe etwas nachgedacht.\n\n\nVielleicht hat die Alte doch nicht ganz\nso Unrecht. Ich bin einfach kein so\ngroßer Held wie du...\n\n\x0E\x01\x09\x04@\x4200Ich habe mich entschlossen,\nZelda auf meine Weise zu unterstützen.\nSieh her!
+\x0E\x01\x09\x04\x04\x202Schau her, Link!\x0E\x01\x04\x02\x1E\nIch werde Zelda auf meine Weise\nunterstützen!
+\x0E\x01\x09\x04\x1800\xB52Ihr fiesen Biester! Lasst mich in Ruhe!
+\x0E\x01\x09\x04\x00\xB52Verschwindet! Aaargh!
+\x0E\x01\x09\x04\x00\x08Danke für deine Hilfe!
+\x0E\x01\x09\x04\x08\xB0AWo kommen diese roten Kerle her?\nFrüher haben sie sich in diesem Wald\njedenfalls nicht herumgetrieben...\n\n\x0E\x01\x09\x04\x16\x1E00Und so einen wie dich sehe ich heute\nschon zum zweiten Mal! Was ist das\nnur für ein Tag?!?\n\n\x0E\x01\x09\x04\x00\xB00Na ja, als Dank für deine Hilfe\nerzähle ich dir etwas Interessantes!
+\x0E\x01\x09\x04\x08\xB01Ich studiere hier in diesem Wald die\nGeschichte des Altertums. Darf ich\nmich vorstellen? Ich bin <b<Marugo>>, ein\nGorone.\n\x0E\x01\x09\x04\x00\x1700Den alten Schriften zufolge liegt\nirgendwo in den Wolken die <r<Insel\nder Göttin>>.\n\n\x0E\x01\x09\x04\x00\xB00Diese <b<alten Statuen>> dienten angeblich\neinst dazu, zu dieser Insel der Göttin\n<r<in den Himmel aufzusteigen>> und von\ndort wieder zurückzukehren.\nWenn du eine davon <r<findest>>, solltest du\nsie auf jeden Fall <r<untersuchen>><pling>, da dir\ndie Statuen als Anhaltspunkte dienen.\nDas ist wirklich praktisch!\nUnd diese Statue hier hat angeblich\ndie besondere Kraft, all die anderen\nStatuen, die es hier gibt, zu erwecken.\n\n\x0E\x01\x09\x04\x16\x1907Es mag wie ein Märchen klingen,\naber ich glaube daran.\n\n\nWie könnte man sonst den Umstand\nerklären, dass sie überall in dieser\nWelt verstreut herumstehen?
+\x0E\x01\x09\x04\x08\xB07Den alten Schriften zufolge liegt\nirgendwo in den Wolken die <r<Insel\nder Göttin>>.\n\nDiese alten Statuen dienten angeblich\neinst dazu, zu dieser Insel der Göttin\nzurückzukehren.\n\nUnd diese Statue hier hat angeblich\ndie besondere Kraft, all die anderen\nStatuen, die es hier gibt, zu <r<erwecken>>.\n\n\x0E\x01\x09\x04\x16\x1900Es mag wie ein Märchen klingen,\naber ich glaube daran.\n\n\n\x0E\x01\x09\x04\x00\xB04Wie könnte man sonst den Umstand\nerklären, dass sie überall in dieser\nWelt verstreut herumstehen?
+\x0E\x01\x09\x04\x18\x1700Langweile ich dich mit meinen\nErzählungen? Oder willst du mehr\nhören?\n[1]Gerne![2-]Jetzt nicht.
+\x0E\x01\x09\x04\x15\x1B05\x0E\x01\x08\x02\x1CDHargh!
+\x0E\x01\x09\x04\x13\x1909Heiliger Kiesel!\n\n\n\n\x0E\x01\x09\x04\x17\x1B08Was hast du da getan? Die Statue,\nsie leuchtet! Woher wusstest du,\nwie man das macht?
+\x0E\x01\x09\x04\x17\x1B08Die Statue, sie leuchtet! Woher\nwusstest du, wie man das macht?
+\x0E\x01\x09\x04\x15\x1902Oho!\nKennst du auch die alten Legenden?\n\n\n\x0E\x01\x09\x04\x16\xB00Ich kann dir von ihnen berichten...\n\n\n\nMan sagt, die Bewohner der Insel\nder Göttin flögen auf Vögeln durch\ndie Lüfte!\n\n\x0E\x01\x09\x04\x00\x1E00Ein friedliches Inselreich, dessen\nBewohner der Göttin treu ergeben\nsind...\n\n\x0E\x01\x09\x04\x00\xB00Ich glaube wirklich, dass uns diese\nKultur um einige Felslängen voraus ist!
+\x0E\x01\x09\x04\x08\xB00Aber halt! Das ist noch nicht alles!\nDas wirklich Interessante kommt\nerst noch...\n\n\x0E\x01\x09\x04\x1F\x1E00Da die Göttin selbst diese Insel\ngeschaffen hat, ist sie voller\nDinge, die uns hier unten wie\nWunder erscheinen mögen!\n\x0E\x01\x09\x04\x00\x1908Alle Gebäude dort sind aus massivem\nGold! Heiliges Wasser fließt aus nie\nversiegenden Quellen, und wer es\ntrinkt, wird ewig leben, heißt es!\n\x0E\x01\x09\x04\x00\xB00Die Früchte der Bäume heilen alle\nKrankheiten, und die Kürbisse auf den\nFeldern werden nie schlecht. Unzählige\nBlumenarten sollen dort wachsen!\n\x0E\x01\x09\x04\x17\x1900Es ist dort weder heiß noch kalt,\nsondern man lebt in einem ewigen\nFrühling! Dies ist die Insel der Göttin.\n\n\x0E\x01\x09\x04\x00\xB05\x0E\x01\x08\x02\x1CDWas meinst du, ist das nicht\nsteinhart?\n\n\n\x0E\x01\x09\x04!\x1806\x0E\x01\x08\x02\x2CDWillst du noch mehr hören?\n\n\n\n\x0E\x01\x08\x02\x1CDWas meinst du?\n[1]Gerne![2-]Es reicht.
+\x0E\x01\x09\x04\x00\x01Ich werde nun noch etwas diese\nStatue untersuchen.
+\x0E\x01\x09\x04\x16\x1E56In Ordnung.\nDen Rest erzähle ich dir dann ein\nanderes Mal...
+\x0E\x01\x09\x04'\x1956Ach so!\nDann hat also auch dich das Inselfieber\ngepackt, was?\n\n\x0E\x01\x09\x04\x16\x1E00Ich würde dir ja gerne mehr erzählen,\naber dafür muss ich zuerst noch\nweitere Nachforschungen anstellen.\n\n\x0E\x01\x09\x04\x00\xB00Beim nächsten Mal, ja?
+\x0E\x01\x09\x04\x15\x1B09\x0E\x01\x08\x02\x1CDOooh!
+\x0E\x01\x09\x04\x13\x1907Was hast du da getan!\nDas ist ja unglaublich!\n\n\n\x0E\x01\x09\x04\x17\x1B08Die Statue hat geleuchtet, als du dich\nihr genähert hast. Du bist wirklich\neinmalig!
+Link! Der <r<Siegelstein\n>>steckt in der Stirn des Verbannten!\n\n\n\x0E\x01\x09\x04\xE00\x13Wenn du ihn mit deinem Schwert\nhineinschlägst, müsste das Erfolg\nzeigen!
+\x0E\x01\x09\x04\xE00T\x0E\x01\x06\x02\x1CDAaargh!~~~\n<r<\x0E\x01\x06\x02ÍDas ist... \x0E\x01\x04\x02\n\x0E\x01\x06\x02\xFECDdas Ende!>>\x0E\x01\x05\x04(\x00
+\x0E\x01\x09\x04\x00&Hey! Link!\nMein Katapult ist bereit!\n\n\nWenn dieses Vieh die Wände\nhochklettern will, können wir ihm\ndamit eine Ladung verpassen!\n\nWenn du meine Hilfe brauchst, dann\nrufe mich einfach durch Drücken\nvon (^)!\x0E\x01\x11\x02\x8CD
+\x0E\x01\x09\x04\x00&Hey! Link!\nMein Katapult ist bereit!\n\n\nWenn du meine Hilfe brauchst, dann\nrufe mich einfach durch Drücken\nvon (^)!\x0E\x01\x11\x02\x8CD
+\x0E\x01\x09\x04>\x4515\x0E\x01\x08\x02\x1CDAaargh!\n\n\n\n\x0E\x01\x09\x04\x00\x4000Was ist das?!?\nDas Beben hat den Weg verschüttet!\nIch komme hier nicht weiter!\nWas tun wir jetzt nur?\n\x0E\x01\x08\x02\x1CD!!!
+\x0E\x01\x09\x04>\x4026Link!\nSteig zum Tempel hoch und komm\ndann schnell <r<hierher>>!
+So! Jetzt bin ich dran!
+Bewege das Katapult mithilfe von \x0E\x02\x04\x02\xECD\nund verwende die <r<Wii-Fernbedienung>>,\num zu zielen!\n\nDurch Drücken von (A) schießt du\ndie Bomben ab. Greif ihn an, wenn er\ndann benommen ist.
+Wenn du dir mit der Bedienung des\nKatapults nicht sicher bist, drücke\neinfach (2), um nachzusehen!\x0E\x01\x11\x02\x5CD
+\x0E\x01\x09\x04\x00&Das Mütterchen hat gesagt, dass dieses\nUngeheuer schon bald wieder\nzurückkehren könnte...\n\n\x0E\x01\x09\x04\x00\x4200Dieses Mal bin ich vorbereitet, denn ich\nbastle gerade an einer phänomenalen\nGeheimwaffe!\n\n\x0E\x01\x09\x04\x00\x0FNoch ist sie nicht fertig, aber ich freue\nmich bereits darauf, es dem Ungeheuer\ndamit zu zeigen!
+\x0E\x01\x09\x04\x00&Was ist das?!? Dieses Mal sind ihm\nHände gewachsen!\n\n\nDie perfekte Gelegenheit, dir meine\nErfindung zu demonstrieren...\n\n\n\x0E\x01\x09\x04B\x4000Ich bereite alles vor und geb dir\nBescheid, wenn ich bereit bin!\nKämpf du solange mit ihm oder so...
+\x0E\x01\x09\x04\x00&Da ist er schon wieder!\nDer Kerl ist nicht kleinzukriegen...\n\n\n\x0E\x01\x09\x04\x04\x4000Link!\nWir machen es einfach wie beim letzten\nMal, was?
+\x0E\x01\x09\x04C\x4553\x0E\x01\x08\x02\x1CDWas?!?\n\x0E\x01\x04\x02\nJetzt fliegt er auch noch!\n\n\n\x0E\x01\x09\x04B\x4026Ich glaube, er will direkt zum Tempel!\n\x0E\x01\x04\x02\x08Los, holen wir den Kerl vom Himmel!
+\x0E\x01\x09\x04A\x4043Wuah, das war knapp! Mein Katapult\nhat mal wieder seinen Zweck erfüllt.\n\n\nUnd jetzt auf ihn! Beeil dich!
+\x0E\x01\x09\x04\x04\x4100Jetzt kann ich endlich mein\n<r<mächtiges Katapult >>ausprobieren!\n\x0E\x01\x09\x04\x00\x300Wenn ich so weit bin, werde\nich dir über (^) ein Zeichen geben.\n\x0E\x01\x09\x04\x00\x4000Bis dahin muss es dein Schwert richten!\x0E\x01\x11\x02\x8CD
+\x0E\x01\x09\x04\x00&Du kannst jederzeit auf mein\n<r<mächtiges Katapult >>zurückgreifen!\n\n\nDrück einfach(^), um das Katapult\nzum Feuern vorzubereiten!\x0E\x01\x11\x02\x8CD\n\n\nMithilfe von \x0E\x02\x04\x02\xECD bewegst du es,\nmit der <r<Wii-Fernbedienung>> zielst du.\nUnd dann auf ihn!
+\x0E\x01\x09\x04\x00\x4226Ein weiteres Mal wird mein <r<mächtiges\nKatapult >>gebraucht!\n\n\nDu weißt ja schon, dass du es durch\nDrücken von (^) vorbereiten kannst!\x0E\x01\x11\x02\x8CD\n\n\n\x0E\x01\x09\x04B\x4000Lass uns unsere Attacken koordinieren\nund den Kerl endlich kleinmachen!
+\x0E\x01\x09\x04\x00\x4026Hey, Link! Ich habe alle\nmeine Bomben aufgebraucht!\n\n\n\x0E\x01\x09\x04 \x4000Jetzt bleibt nur eins, Link.\nDu musst dich direkt auf seinen Kopf\nschleudern! Beeil dich, das ist der\neinzige Weg!
+\x0E\x01\x09\x04\x00&Gut gemacht, Link!\nAber ohne mich hättest du's sicher\nnicht geschafft.\n\nUnd jetzt lass uns endlich dieses\nZeitportal öffnen! Ich gehe schon\nmal vor...
+\x0E\x01\x09\x04\x00&Das habe ich gut gemacht!\x0E\x01\x04\x02\x1E Und jetzt\nmusst du das Siegel verschließen!\n\n\nBeim letzten Mal hast du den Stein\nmit dem Strahl deines Schwertes\nbeschossen, richtig?
+\x0E\x01\x09\x04 \x3010Puh... Link...\nDas war wirklich knapp! Da haben\nwir noch mal Glück gehabt...\n\n\x0E\x01\x09\x04B\x200Ich gehe gleich zum Tempel!\nBeeil dich und komm nach!
+\x0E\x01\x09\x04\x00&Na, wie habe ich das wieder gemacht?\nJetzt musst du nur noch das Siegel\nschließen...
+\x0E\x01\x09\x04\x00\x03Du willst in den Wald von Phirone?\n\n\n\nIch kann dich mit meinem <r<mächtigen\nKatapult>> direkt hinschießen!\n[1]Bitte![2-]Keine Lust.
+Sag mir einfach, wenn du es doch\nversuchen willst!
+\x0E\x01\x09\x04\x00BNa, dann lass mich mal machen!
+\x0E\x01\x09\x04\x00&Ab in den Wald von Phirone!\x0E\x01\x05\x04\n\x00
+Auf geht's!\x0E\x01\x05\x04\x1E\x00
+Hey, Link! Gibt's das denn?\nDieser Kerl ist schon wieder zurück!
+Einen Moment! Ich bringe mich\nschnell in Stellung...
+\x0E\x01\x09\x04\x00\x04Hey, Link!\nMit diesem Katapult kann ich dich an\nverschiedene Orte schießen!
+Mit diesem Katapult kann ich dich an\nverschiedene Orte schießen!
+Es macht Spaß, dich irgendwo hin zu\nschießen! Hast du Lust auf eine kleine\nFlugeinlage nach Bado-Art?\n\nDu solltest dich jedenfalls an Orten,\nan denen du noch nicht warst, etwas\ngenauer umsehen!
+\x0E\x01\x09\x04\x00&Wo kann ich dich hinschießen?\nWo möchtest du spielen?\n\n[1]Wolkenmeer[2]Erdland[3-]Ich bleibe\nhier.
+Das Wolkenmeer also.\nUnd was genau willst du spielen?\n\n[1]Roulette[2]Insektenparadies[3]Was Anderes.
+Willst du vielleicht etwas\nhiervon spielen?\n\n[1]Bambusfäller[2]Kürbisschießen[3-]Nichts
+Das Wolkenmeer also.\nUnd was genau willst du spielen?\n[1]Roulette[2]Insektenparadies[3]Bambusfäller[4-]Nichts
+Das Erdland also. Und was genau\nwillst du spielen?\n\n\n[1]Heldenprüfung[2]Rubinjagd[3]Loren-Lenken[4-]Nichts
+\x0E\x01\x09\x04B\x342Auf geht's! Halt dich fest!
+Na, dann sag mir Bescheid,\nwenn du irgendwohin willst!
+\x0E\x01\x09\x04\x00\x04Hey, Link!\n\n\nIch werde dir helfen!
+\x0E\x01\x09\x04\x2800\x04\x0E\x01\x08\x02\x1CDHey! Link!
+\x0E\x01\x07\x04\x2800\x0FSieh dir das an!\nDas ist meine mächtige Geheimwaffe!
+Mein <r<mächtiges Katapult>>!
+\x0E\x01\x09\x04\x2800\x18Da fällt dir nichts mehr ein, was?\nIch muss gestehen, ich habe mich dafür\nauch mächtig ins Zeug gelegt...
+Schau gut hin!
+\x0E\x01\x09\x04\x2840\x4300Die ganzen Schienen rund um diese\nGrube habe ich ganz alleine gelegt.\nKlasse, was? \n\nIch bin selbst ganz begeistert von mir!\x0E\x01\x04\x02\x1E\nWusste gar nicht, dass ich so vielseitig\nbegabt bin...\n\n\x0E\x01\x09\x04\x2841\x4000Jetzt gilt es nur noch, das Katapult in\nStellung zu bringen und dem Kerl eine\nordentliche Ladung zu verpassen!
+\x0E\x01\x09\x04\x2804\x4000Mit so ein paar Bomben sollten wir\nselbst einen Koloss wie ihn für kurze\nZeit außer Gefecht setzen können!
+Aber ein wenig zu früh kommt er\nmir schon...
+\x0E\x01\x09\x04\x2841\x4000Ich muss hier noch ein paar kleine\nVorbereitungen treffen, um das\nKatapult bewegen zu können.\n\nIch melde mich, wenn ich so weit bin!\nBis dahin bist du ganz auf dich allein\ngestellt.
+
+\x0E\x01\x09\x04\x2800\x4000Oh-oh, gleich geht es los...\x0E\x01\x05\x04\x1E\x00
+\x0E\x01\x09\x04\x2800SWas zum...\x0E\x01\x05\x04\x1E\x00
+\x0E\x01\x09\x04\x283E\x400FKeine Panik!\n\n\n\n\x0E\x01\x09\x04\x2841\x00Du kennst ja mein <r<mächtiges Katapult\n>>bereits...
+\x0E\x01\x09\x04\x2800\x00Solange wir das haben, kann uns dieser\nKoloss keine Angst einjagen!\n\n\n\x0E\x01\x09\x04\x2800\x200Dieser Kerl ist wirklich mein\nSchicksalsgegner...
+\x0E\x01\x09\x04\x2800\x200Link!\nPass auf, dass er mir nicht zu\nnahe kommt!
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nIch spüre eine Veränderung an diesem\nOrt, die durch den Himmelsstrahl\nhervorgerufen wurde.
+Gebieter, \x0E\x01\x12\x04\x00\x02ich spüre hier eine ähnliche\nAura wie die deines Paraschals. Es ist\nZeldas Aura.\n\nIch kann \x0E\x01\x12\x04\x00\x02dich mit meiner <pling><r<Aurasuche\n>>in diese Richtung führen.\n\n\nWünschst du weitere Erklärungen\nhierzu?[1]Bitte[2-]Nein
+\x0E\x01\x12\x04\x00\x05Sehr wohl, Gebieter.\n\n\n\nMit der Aurasuche kann ich Dinge, die\ndu suchst, erspüren, \x0E\x01\x12\x04\x00\x0CGebieter.\n\n\nJe näher sich das Ziel befindet, desto\n<r<stärker meine Reaktion>>. Außerdem\nändert sich der Signalton.\n\nZudem erscheint auf dem Zeiger ein\n<r<Pfeil>>, der die ungefähre Richtung, in\nder sich das Ziel befindet, angibt.
+Nun halte (C) gedrückt, stelle Zelda\nals Ziel deiner Suche ein und weise\nmir eine Richtung.\x0E\x01\x11\x02\x6CD
+Ja, Gebieter.
+\x0E\x01\x12\x04\x00\x0BGebieter, du musst den Verbannten\n\x0E\x01\x12\x04\x00\x02besiegen.\n\n\nDu kannst jetzt nicht fliehen.

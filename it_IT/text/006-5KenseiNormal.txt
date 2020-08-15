@@ -1,0 +1,151 @@
+
+Lei è <b<Zelda>>\x0E\x01\x04\x02\x02, la reincarnazione della\nDea. È la vostra amica d'infanzia,\n\x0E\x01\x12\x04\x00\x04mio signore Link.\n\nLa Dea si è reincarnata in lei,\nrisvegliandosi da un eterno sonno\nmagico.
+Si chiama <b<Gaepora>>,\x0E\x01\x04\x02\x02 è il gentile\ndirettore della scuola d'armi.\n\n\nConosce approfonditamente le\ntradizioni e, inoltre, è il padre di\n<b<Zelda>>.
+Lui è il <b<maestro Asio Otus>>,\x0E\x01\x04\x02\x02 insegna\nalla scuola d'armi. Ha una vera\ne propria passione per le piante.
+Lui è il <b<maestro Cornelio>>\x0E\x01\x04\x02\x02, insegna\nalla scuola d'armi. Gli animali sono\nla sua passione.
+Lui è <b<Bado>>\x0E\x01\x04\x02\x02, un tipo cocciuto ma dal\ncuore puro. Anch'egli frequenta la\nscuola d'armi come voi, \x0E\x01\x12\x04\x00\x01mio signore.\x0E\x01\x0C\x04\x06\x1F9
+Ha un carattere autoritario, ma se\nsi tratta di Zelda si trasforma in\nun agnellino... Cosa non si fa per\namore...
+Inoltre, dopo aver assistito alle vostre\neroiche gesta, il suo atteggiamento è\ncompletamente cambiato, \x0E\x01\x12\x04\x00\x02mio signore.
+Lui è <b<Ras>>\x0E\x01\x04\x02\x02, un vostro meschino\ncompagno alla scuola d'armi, \x0E\x01\x12\x04\x00\x01mio\nsignore.\n\nEgli valuta ogni circostanza sempre\nin base ai suoi interessi.\x0E\x01\x04\x02\x02 Gli piace\ncomplottare, ma non agisce mai\npubblicamente.
+Lui è <b<Dacio>>\x0E\x01\x04\x02\x02, un vostro tranquillo\ncompagno alla scuola d'armi, \x0E\x01\x12\x04\x00\x01mio\nsignore.\n\nÈ un grande appassionato di insetti e\nnon perde occasione per parlarne.\nVorrebbe creare un paradiso per\ninsetti.
+Lui è <b<Terry>>\x0E\x01\x04\x02\x02, venditore ambulante\ne proprietario del negozio volante.\n\n\nÈ così impegnato con il suo lavoro di\ngiorno che va sempre a letto distrutto.\n\n\nSi sa che è molto affezionato a un\ninsetto in particolare.
+Lui è <b<Rupiero>>\x0E\x01\x04\x02\x02, astuto venditore. Di\ngiorno vende le sue merci alla bottega\ndegli arnesi del bazar. Di notte scambia\ne acquista tesori a casa sua.
+Lui è<b< Kondoroy>>\x0E\x01\x04\x02\x02, artigiano dal cuore\nd'oro. Si occupa di riparare e\npotenziare l'equipaggiamento.\nVive con l'anziana madre.\x0E\x01\x0C\x04\x06\x1FE
+Nel tempo libero, si dedica a riparare\nun antico robot donatogli dal vecchio\nproprietario. Tuttavia, non è ancora\nriuscito a farlo funzionare.
+\x0E\x01\x12\x04\x00\x01Mio signore, avete il permesso di usare\nil robot riparato a vostra discrezione.
+Lei è <b<Vania>>\x0E\x01\x04\x02\x02, persona dolce e gentile.\nAl suo deposito lascerete gli oggetti\nche non potete portare con voi.\x0E\x01\x0C\x04\x06\x1FF
+Sogna spesso di incontrare il suo uomo\nideale, a scapito della qualità del\nservizio clienti.
+Il vostro interesse è palese, \x0E\x01\x12\x04\x00\x01mio\nsignore. La vostra aura riluce\nintensamente.\n\n... Raccomanderei di nascondere la\nvostra reazione quando troverete\n<b<Zelda>>.
+Lei è <b<Mandy>>\x0E\x01\x04\x02\x02, non fa altro che mangiare\ne dormire. Dirige la bottega delle\npozioni con suo marito. Lui le prepara,\nlei le vende.
+Lui è <b<Rino>>\x0E\x01\x04\x02\x02, casalingo e uomo d'affari.\nSi occupa di mescolare le pozioni alla\nbottega che dirige con sua moglie. Si\nprende anche cura del loro figlio.
+
+Lui è <b<Phalko>>\x0E\x01\x04\x02\x02, forte e taciturno.\nAlla scuola d'armi insegna scherma e\ncome affrontare un combattimento.\n\nDice che la <r<zuppa di zucca >>dell'<b<Isola\ndelle zucche >>mantenga forti e in salute.\nNon per nulla è il suo piatto preferito.
+Lui è <b<Dodo>>\x0E\x01\x04\x02\x02, gli piace scommettere.\nDirige la Roulette aerea, gioco in cui è\npossibile vincere delle rupie con una\ncombinazione di fortuna e abilità.\nSi sa che ha una vera e propria passione\nper la roulette.
+Lui è <b<Zuco>>\x0E\x01\x04\x02\x02, uomo ostinato.\nÈ il proprietario della taverna delle\nzucche, che dirige insieme a sua figlia.\n\nLa loro speciale zuppa di zucca è\nfamosa a Oltrenuvola per la sua\ngenuinità e gli effetti rinvigorenti.
+Lei è <b<Pepa>>\x0E\x01\x04\x02\x02, ragazza dolce e innocente.\nFa la cameriera alla taverna delle\nzucche di suo padre <b<Zuco>>.\n\nSi occupa anche di coltivare le zucche,\nma lo trova estremamente spossante.
+Lui è<b< Prunello>>\x0E\x01\x04\x02\x02, indovino a pagamento.\nLe sue previsioni spesso\nsi verificano.\n\nSi dice che nella sua sfera di cristallo\nriesca a vedere il futuro, ma è tutto\nda dimostrare.
+Lui è <b<Sparvio>>\x0E\x01\x04\x02\x02, di grande talento e\npassione. È un vostro compagno alla\nscuola d'armi, \x0E\x01\x12\x04\x00\x01mio signore.\n\nSebbene sia molto severo con i\ncompagni che cercano di sottrarsi al\ndovere di studiare, spesso è lui stesso a\nlasciarsi distrarre da altre attività.
+Lei è <b<Grudia>>\x0E\x01\x04\x02\x02, ragazza nerboruta.\nFrequenta la scuola d'armi con voi,\n\x0E\x01\x12\x04\x00\x01mio signore.\n\nÈ un'apprendista cavaliere e frequenta\nil corso superiore al vostro, \x0E\x01\x12\x04\x00\x01signore.\nPare che sia simpatica a diversi allievi.
+Lui è <b<<b<Gentirosso<b<>>\x0E\x01\x04\x02\x02, ragazzo sensibile.\x0E\x01\x0C\x04\x06\x20A
+Frequenta la scuola d'armi con voi,\n\x0E\x01\x12\x04\x00\x01mio signore. Il fatto di essere più\ndebole dei ragazzi della sua stessa età\nlo mette a disagio.
+\x0E\x01\x06\x02\xFECD...\x0E\x01\x06\x02Í Almeno finché non ha aumentato\nla sua massa muscolare del 500%.\nNessuno pensa più che sia debole.\n\nOra sperimenta allenamenti alternativi\nper aumentare ancora la sua forza.
+Lui è <b<Morsego>>\x0E\x01\x04\x02\x02, demone gentile.\nNonostante la sua natura, Morsego\nnon si comporta come gli altri demoni.\nAl contrario, tiene molto agli umani.
+Lei è <b<Ralla>>\x0E\x01\x04\x02\x02, ragazza pragmatica.\nÈ tra i pochi ad avere molta esperienza\ncon i solcanubi a <b<Oltrenuvola>>.\n\nLei e suo fratello <b<Pardalo >>vengono\nchiamati \x201Ci fratelli solcanubi\".
+Lui è <b<Pardalo>>\x0E\x01\x04\x02\x02, ragazzo pragmatico.\nÈ tra i pochi ad avere molta esperienza\ncon i solcanubi a <b<Oltrenuvola>>.\n\nLui e sua sorella <b<Ralla >>vengono\nchiamati \x201Ci fratelli solcanubi\".
+Lui è <b<Pico>>\x0E\x01\x04\x02\x02, uomo affascinante. È il\ntecnico di <b<Oltrenuvola>>, si occupa della\nmanutenzione delle strutture dell'isola.\n\nDice di essere un artista e sembra che\nil suo capolavoro siano gli sgargianti\ntegolati delle case di Oltrenuvola.
+Lei è <b<Dane>>\x0E\x01\x04\x02\x02, casalinga provetta.\nÈ la moglie di <b<Pico>>, tecnico delle\nriparazioni a <b<Oltrenuvola>>.\n\nPossiede una fantasia sconfinata e si\ndice che sia lei la musa ispiratrice\ndelle opere del marito.
+Lui è <b<Ilario>>\x0E\x01\x04\x02\x02, ragazzo pestifero. È il\nfiglio di <b<Gianna>>, studiosa di cucina.\nLa sua passione sono gli insetti.
+Lei è <b<Kyoccia>>\x0E\x01\x04\x02\x02, donna molto attiva.\nSi prende cura degli studenti della\nscuola d'armi. Lavora lì da 25 anni.
+Lui è <b<Mitì>>\x0E\x01\x04\x02\x02, ragazzo normale. Cosa\ninsolita a <b<Oltrenuvola>>. Si sa che ha un\ndebole per <b<Pepa>>, la cameriera della\ntaverna delle zucche.
+Lui è <b<Gallio>>\x0E\x01\x04\x02\x02, anziano dai molti sogni.\nÈ il marito di <b<Kyoccia>>, che lavora\nalla scuola d'armi.\n\nÈ molto caparbio e per questo spesso\nnon viene preso in considerazione\ndalla gente.
+Lei è <b<Chicca>>\x0E\x01\x04\x02\x02, ha un cuore puro. È la\nfiglia del tecnico delle riparazioni di\n<b<Oltrenuvola>>.\n\nHa la capacità innata di andare\nd'accordo con tutti. Forse perché\nstima e si fida di coloro che le\nstanno intorno.
+
+
+
+Lei è la<b< signora Gazza>>\x0E\x01\x04\x02\x02, donna esigente.\nÈ la madre di <b<Rupiero>>, proprietario\ndella bottega degli arnesi.\n\nDetesta occuparsi delle pulizie. Adora\ngli oggetti antichi. Consiglierei di\ntenervi alla larga da lei.
+Lei è <b<Miho>>\x0E\x01\x04\x02\x02, madre saggia. Suo figlio è\n<b<Kondoroy>>, dell'officina.\n\n\nTocca a lei lavare i vestiti del figlio,\nche asciugano in fretta grazie ai venti\nche soffiano sempre su <b<Oltrenuvola>>.
+Lei è <b<Artana>>\x0E\x01\x04\x02\x02, un'ottimista. È la madre\ndi <b<Sparvio>>, uno studente della scuola\nd'armi.\n\nDiversamente dal figlio, è molto\nsciatta. Odia le faccende domestiche,\nma vorrebbe che la sua casa fosse\npiù pulita.
+Lui è <b<Colombio>>\x0E\x01\x04\x02\x02, buongustaio. Amante\ndel cibo, lo si trova spesso alla mensa\ndel bazar.
+Lui è <b<Pavelio>>\x0E\x01\x04\x02\x02, affascinante spadaccino.\nEx cavaliere, è il padre di <b<Vania>>,\nche si occupa del deposito.\nAdora tagliare il bambù.\nÈ iperprotettivo verso la figlia, cerca\ndi tenerle lontano ogni rubacuori,\ncom'era lui un tempo.
+Lei è <b<Gianna>>\x0E\x01\x04\x02\x02, cuoca esperta. È la\nmadre del bricconcello <b<Ilario>>.\n\n\nGestisce la mensa del bazar e ne\napprofitta per fare ricerche di arte\nculinaria. Ogni giorno inventa una\nnuova ricetta.
+È la mano di un fantasma~~~, il cui nome\nè sconosciuto. Probabilità che\nappartenesse a una donna, a giudicare\ndalle apparenze: 90%\nSi dice che l'80% dei fantasmi\ndesideri qualcosa.\nSuggerirei di accantonare la paura\ne andare a parlarle.
+Suppongo che sia molto vecchia.\nNon posseggo dati sul suo nome\no informazioni dettagliate.\n\nNon avverto alcun pericolo provenire\ndalla sua aura. Deduco che sia qui\nper proteggere il santuario.
+Lui è <b<Pigoron>>. È un archeologo della\nrazza dei Goron, gli uomini\x2010roccia.\nViaggia per tutta la Terra per studiare\nla storia.
+Dati su questa creatura memorizzati.\x0E\x01\x0C\x04\x06\x223
+Lui è <b<Maccio>>. È il più mite della razza\ndegli erbivori Kyuri.
+Probabilità che appartenga alla razza\ndei Kyuri, pacifici abitanti della\nforesta: 100%.~~~\n\nSono una razza intelligente e in grado\ndi parlare.
+\x0E\x01\x12\x04\x00\x01Mio signore, probabilità di pericolo:\n1%. Non occorre cautela.
+Dati su questa creatura memorizzati.\x0E\x01\x0C\x04\x06\x224
+Lui è <b<Algo>>. È il più agitato della razza\ndegli erbivori Kyuri.
+Dati su questa creatura memorizzati.\x0E\x01\x0C\x04\x06\x225
+Lui è <b<Orzio>>. È il più fifone della razza\ndegli erbivori Kyuri.
+Dati su questa creatura memorizzati.\x0E\x01\x0C\x04\x06\x226
+Lui è <b<Genzio>>. È il più sbadato della\nrazza degli erbivori Kyuri.
+Dati su questa creatura memorizzati.\x0E\x01\x0C\x04\x06\x227
+Lui è <b<Infusonio>>. È il saggio della razza\ndegli erbivori Kyuri. Può nascondere\ndelle cose nella protuberanza sulla\nschiena.
+Lui è <b<Avitè>>. È l'eremita della razza\ndegli erbivori Kyuri. \n\n\nSalì su un albero e non ne scese più.\nEcco perché è un eremita.
+Lui appartiene alla tribù dei Paraduzi,\nuna razza acquatica. I Paraduzi si\nmuovono in banchi, al servizio del\ndrago d'acqua <b<Firone>>.
+Lei è <b<Firone>>\x0E\x01\x04\x02\x02, il drago d'acqua, spirito\nprotettore delle <b<Terre di Firone>>.\nDetiene il dominio sull'acqua.
+Lei è<b< Impa>>\x0E\x01\x04\x02\x02, pacata e sicura di sé. È una\nguerriera che ha ricevuto dalla Dea\nl'ordine di proteggere Zelda. Questa\nè la sua missione.
+Lui è <b<Ferrinio>>. Fa parte della razza\naltamente civilizzata dei Mogma,\ntalpe antropomorfe. I Mogma\nvivono principalmente sottoterra.\nCome tutti i Mogma, ha una passione\nper i tesori.
+Lui è <b<Raduncolo>>. Imprenditore della\nrazza dei Mogma. Dirige il gioco\nStana la rupia.\n\nÈ un Mogma particolare, crede che\nsi possano fare più soldi aiutando\ngli altri a trovare i tesori che non\ncercandoli di persona.
+
+Lui è <b<Argenio>>. È un cacciatore di tesori\ndella razza delle talpe antropomorfe\ndei Mogma.\n\nVa molto fiero dei suoi lunghi capelli.
+Lui è <b<Cupro>>. È un cacciatore di tesori\ndella razza delle talpe antropomorfe\ndei Mogma.\n\nVa molto fiero dei suoi denti d'oro.
+Lui è <b<Auro>>. È il capo della razza delle\ntalpe antropomorfe dei Mogma. \nSta pensando a chi possa essere il suo\nsuccessore.\nUna volta ritiratosi, vorrebbe vivere\nin un altro luogo e concentrarsi su\nnuove tecniche di scavo.
+Lui è <b<Oldin>>\x0E\x01\x04\x02\x02, drago di fuoco e spirito\nprotettore delle <b<Terre di Oldin>>.\nDetiene il dominio sul fuoco.
+Modello DR\x2010301. Non ha un nome.\nAppartiene a una razza di androidi\nprodotti in serie.\n\nDi solito, estraggono le pietre del\ntempo e si occupano della\nmanutenzione.
+Questo è un <b<DR\x2010301C Capitanbot>>. Si\ntratta del modello di punta della serie\nDR-301.\n\nÈ un robot di altissima qualità e ha\nun ruolo di comando nella serie di\nandroidi addetti all'estrazione\nmineraria.
+
+Lui è <b<Ranel>>\x0E\x01\x04\x02\x02, drago del fulmine e spirito\nprotettore delle <b<Terre di Ranel>>.\nDetiene il dominio sul fulmine.
+
+
+
+
+
+
+
+Lui è <b<Vagoron>>, imprenditore della\nrazza dei Goron, gli uomini\x2010roccia.\n\n\nSi è occupato di diverse cose, al\nmomento dirige il gioco Montagne\nrusse sui carrelli.
+Lui è <b<Dragoron>>, assistente\ndell'archeologo <b<Pigoron >>e membro\ndella razza dei Goron,\ngli uomini\x2010roccia.\n<b<Pigoron>> preferisce lasciare che sia lui a\noccuparsi dei lavori manuali durante le\nricerche, come per esempio scavare.
+
+
+
+
+Lui è <b<Gracchio>>\x0E\x01\x04\x02\x02, ora è in pensione. Suo\nnipote fa parte della squadra di\nsoccorso che aiuta chi precipita da\n<b<Oltrenuvola>>.\nGli piace ascoltare i discorsi di coloro\nche, alla mensa del bazar, parlano\ndelle gesta di suo nipote.
+
+
+
+
+Lui è <b<Algo>>, uno degli erbivori Kyuri.\nHa attirato l'attenzione del <b<maestro\nAsio Otus>>, che crede appartenga a\nuna nuova specie di pianta.
+
+
+Lui è <b<Meduzo>>. È il capo della razza dei\nParaduzi, creature acquatiche.\n\n\nÈ il più intelligente della sua razza,\nper questo è il capo. Serve il drago\nd'acqua <b<Firone>>.
+Lui è <b<Platio>>. È un cacciatore di tesori\ndella razza delle talpe antropomorfe\ndei Mogma.\n\nLa sua passione per il cibo gli ha\ncausato una dilatazione dello stomaco.\nHa un forte senso del dovere.
+Lui è <b<Morsego>>\x0E\x01\x04\x02\x02, persona gentile. Tutte\nle <y<gemme di gratitudine >>che \x0E\x01\x12\x04\x00\x01avete\ntrovato lo hanno trasformato in un\nessere umano. Adora ancora i bambini.
+Lui è <b<Kobaltio>>. Fa parte della razza\naltamente civilizzata dei Mogma,\ntalpe antropomorfe. Vive \nprincipalmente sottoterra.\nCome tutti i Mogma, ha una passione\nper i tesori.
+Lui è <b<Quarzio>>. Fa parte della razza\naltamente civilizzata dei Mogma,\ntalpe antropomorfe. Vive\nprincipalmente sottoterra.\nCome tutti i Mogma, ha una passione\nper i tesori.
+Questo è <b<Idrargirio>>. Fa parte della\nrazza altamente civilizzata dei\nMogma, talpe antropomorfe. Vive\nprincipalmente sottoterra.\nCome tutti i Mogma, anche lui ha una\npassione per i tesori.
+Lui è <b<Kristanio>>. Fa parte della razza\naltamente civilizzata dei Mogma,\ntalpe antropomorfe. Vive\nprincipalmente sottoterra.\nCome tutti i Mogma, ha una passione\nper i tesori.
+Lui è <b<Titonio>>. Fa parte della razza\naltamente civilizzata dei Mogma,\ntalpe antropomorfe. Vive\nprincipalmente sottoterra.\nCome tutti i Mogma, ha una passione\nper i tesori.
+Lui è <b<Nikelio>>. Fa parte della razza\naltamente civilizzata dei Mogma,\ntalpe antropomorfe. Vive\nprincipalmente sottoterra.\nCome tutti i Mogma, ha una passione\nper i tesori.
+
+Questo è <b<DR\x2010301C Salbot>>. Appartiene\nall'antica razza di androidi,\ntramandato per tre generazioni dai\nproprietari dell'officina.\nÈ stato riparato di recente. Può\nspostarsi tra Cielo e Terra e\ntrasportare diversi tipi di oggetti.\n\nDai miei dati risulta che abbia un\ndebole per me.
+Questo è un <b<fironeottero>>. È in grado di\nrilevare la presenza umana con una\nprecisione del 60%. È usato come\ningrediente per pozioni.\nProbabilità in più di catturarne uno\nstordendolo con una <g<capriola >>contro\nil muro dove si trova: 50%.
+Questa è una <b<fuococcinella>>. È in grado\ndi rilevare la presenza umana con una\nprecisione del 65%. È usata come\ningrediente per pozioni.\nPer catturarne una dovrete avvicinarvi\nsilenziosamente con il retino e\nimprigionarla con un colpo netto.\nNon è difficile da catturare.
+Questa è una <b<sabbicala>>. È in grado di\nrilevare la presenza umana con una\nprecisione del 90%. È usata come\ningrediente per pozioni.\nVola via al minimo segnale di pericolo.\nPer catturarne una, consiglierei di\nlocalizzarne il suono e avvicinarsi\nlentamente.
+Questo è un <b<azzurrottero>>. È in grado di\nrilevare la presenza umana con una\nprecisione del 70%. È usato come\ningrediente per pozioni.\nPer catturarne uno senza troppe\ndifficoltà, consiglierei di stordirlo\nfacendo una <g<capriola >>contro la\nsuperficie su cui si trova.
+Questa è una <b<cavallerba>>. È in grado di\nrilevare la presenza umana con una\nprecisione dell'80%. È usata come\ningrediente per pozioni.\nDi solito vive in zone erbose.\nSe vi avvicinerete senza farvi notare,\ninizierà a saltellare intorno.\nSe vi muoverete in fretta volerà via.
+Questa è una <b<cielontide>>. È in grado di\nrilevare la presenza umana con una\nprecisione del 70%. È usata come\ningrediente per pozioni.\nSappiate che è estremamente agile\ne veloce mentre fugge.
+Questa è una <b<sabbiormica>>. È in grado di\nrilevare la presenza umana con una\nprecisione del 60%. È usata come\ningrediente per pozioni.\nProbabilità di fallirne l'individuazione\na causa delle piccole dimensioni: 50%.\nDopo averne individuata una, non è\ndifficile catturarla.
+Questo è un <b<magmorario>>. È in grado\ndi rilevare la presenza umana con una\nprecisione del 90%. È usato come\ningrediente per pozioni.\nÈ estremamente rapido quando fugge.\nProbabilità in più di catturarne uno\nspingendolo in un angolo: 20%.
+
+Questa è una <b<lepidea>>. È in grado di\nrilevare la presenza umana con una\nprecisione del 70%. È usata come\ningrediente per pozioni.\nVola in direzioni imprevedibili. Agitate\nil retino più volte e otterrete un\nsuccesso inaspettato.\n\nHa inoltre la tendenza ad avvicinarsi\na luoghi in cui si trovano cose nascoste.
+Questa è una <b<sabbellula>>. È in grado di\nrilevare la presenza umana con una\nprecisione dell'80%. È usata come\ningrediente per pozioni.\nProvate a catturarla mentre è\nsospesa in volo.
+Questa è una <b<cielucciola>>. È in grado di\nrilevare la presenza umana con una\nprecisione del 60%. È usata come\ningrediente per pozioni.\nÈ un insetto raro, ma catturarne uno\nnon è difficile.
+Lui è <b<Ras>>\x0E\x01\x04\x02\x02, un vostro meschino\ncompagno alla scuola d'armi,\n\x0E\x01\x12\x04\x00\x01mio signore.\n\nAl momento rilevo un'interferenza\nnella sua aura. Probabilità che stia\nprovando ciò che gli umani chiamano\n\x201Camore\": 85%.
+Lui è <b<Ras>>\x0E\x01\x04\x02\x02, un vostro meschino\ncompagno alla scuola d'armi,\n\x0E\x01\x12\x04\x00\x01mio signore.\n\nEgli valuta ogni circostanza sempre\nin base ai suoi interessi. Gli piace\ncomplottare, ma non agisce mai\npubblicamente.
+Lui è <b<Dacio>>\x0E\x01\x04\x02\x02, un vostro silenzioso\ncompagno alla scuola d'armi,\n\x0E\x01\x12\x04\x00\x01mio signore. Ha una vera passione\nper gli insetti.\nOggi ha intenzione di comprarne\nalcuni che gli interessano.
+Lui è <b<Dacio>>\x0E\x01\x04\x02\x02, un vostro silenzioso\ncompagno alla scuola d'armi,\n\x0E\x01\x12\x04\x00\x01mio signore. Ha una vera passione\nper gli insetti.\nAl momento, dirige un gioco per\ncatturare insetti allo scopo di\nfinanziare il suo progetto del paradiso\nper insetti.
+Lui è <b<Terry>>\x0E\x01\x04\x02\x02, venditore ambulante\ne proprietario del negozio volante.\n\n\nÈ così impegnato con il suo lavoro di\ngiorno che va sempre a letto distrutto.\n\n\nSi sa che è molto affezionato a un\ninsetto in particolare.
+Lui è <b<Rupiero>>\x0E\x01\x04\x02\x02, astuto venditore.\nDi giorno vende le sue merci alla\nbottega degli arnesi del bazar.\n\nDi notte si occupa di tesori, ma è\npiuttosto esigente riguardo ai tesori\nda comprare.
+Lui è<b< Kondoroy>>\x0E\x01\x04\x02\x02, artigiano dal cuore\nd'oro. Si occupa di riparare e\npotenziare parti di equipaggiamento.\nVive con l'anziana madre.\x0E\x01\x0C\x04\x05Ò
+Lei è <b<Vania>>\x0E\x01\x04\x02\x02, persona dolce e gentile.\nAl suo deposito potrete lasciare gli\noggetti che non potrete portare\ncon voi.\x0E\x01\x0C\x04\x06\x1F6
+Sogna di incontrare l'uomo della sua\nvita.
+Il vostro interesse è palese, \x0E\x01\x12\x04\x00\x01mio\nsignore. La vostra aura riluce\nintensamente.\n\n... Raccomanderei di nascondere la\nvostra reazione quando troverete\n<b<Zelda>>.
+Lei è <b<Mandy>>\x0E\x01\x04\x02\x02, non fa altro che mangiare\ne dormire. Dirige la bottega delle\npozioni con suo marito. Lui le prepara,\nlei le vende.
+Lui è <b<Rino>>\x0E\x01\x04\x02\x02, casalingo e uomo d'affari.\nSi occupa di preparare le pozioni\nalla bottega delle pozioni che\ndirige con sua moglie.\nInoltre, è lui a prendersi cura del loro\nfiglio.
+Lui è <b<Sparvio>>\x0E\x01\x04\x02\x02, dotato di grande talento\ne passione. È un vostro compagno alla\nscuola d'armi, \x0E\x01\x12\x04\x00\x01mio signore.\n\nSebbene sia molto severo con i\ncompagni che cercano di sottrarsi al\ndovere di studiare, spesso è lui stesso a\nlasciarsi distrarre da altre attività.
+Lui è <b<Sparvio>>\x0E\x01\x04\x02\x02, di grande talento e\npassione. È un vostro compagno alla\nscuola d'armi, \x0E\x01\x12\x04\x00\x01mio signore.\n\nFa la ronda di notte, quando\n<b<Oltrenuvola >>si fa pericolosa.
+Lui è <b<Gentirosso>>, \x0E\x01\x04\x02\x02un tempo debole e\nindifeso. Studia anch'egli alla scuola\nd'armi, \x0E\x01\x12\x04\x00\x01mio signore.\n\nSi è allenato duramente e con costanza\nper ottenere un fisico muscoloso che\ngli permettesse di lanciare pesanti\nzucche in aria senza nessuna difficoltà.
+È la mano di un fantasma~~~, il cui nome è\nsconosciuto. Probabilità che\nappartenga a una donna, a giudicare\ndalle apparenze: 90%.\n\x0E\x01\x12\x04\x00\x01Mio signore, ha letto la lettera\ndi Ras e sembra si stia appassionando a\nlui. Lo scopo di quella lettera è ignoto.
+Suppongo che sia molto vecchia.\nNon posseggo dati sul suo nome\no altre informazioni.\n\nSta cercando di rigenerarsi in questo\nluogo. Avverto in lei una profonda\npreoccupazione nei confronti di\nqualche creatura gigantesca.
+Lei è <b<Firone>>\x0E\x01\x04\x02\x02, drago d'acqua e spirito\nprotettore delle <b<Terre di Firone>>.\nDetiene il dominio sull'acqua.\n\nTuttavia, ora non ha poteri.
+Lei è<b< Impa>>\x0E\x01\x04\x02\x02, pacata e sicura di sé.\nÈ una guerriera che ha ricevuto dalla\nDea l'ordine di proteggere Zelda.\nQuesta è la sua missione.\nHa ferite superficiali. Probabilità che\nsia stata ferita da <b<Ghiraim >>quando\nquesti è passato di qui: 98%.
+Lui è <b<Auro>>. È il capo della razza delle\ntalpe antropomorfe dei Mogma. \n\n\nHa lasciato il suo ruolo a qualcuno\ndella successiva generazione e si\nè ritirato a coltivare le zucche.
+Lui è <b<Ranel>>\x0E\x01\x04\x02\x02, drago del fulmine e spirito\nprotettore delle <b<Terre di Ranel>>.\nDetiene il dominio sul fulmine.\n\nSoffre di un terribile malessere che,\nse non verrà curato, comprometterà\nla sua salute gravemente.
+
+Questo è <b<DR\x2010301S Salbot>>.\x0E\x01\x0C\x04\x06\x1F5
+È un androide che appartiene alla\nfamiglia dell'officina da generazioni.\nAl momento è rotto e non funziona.\n\nL'attuale proprietario dell'officina,\n<b<Kondoroy>>, prova a ripararlo ogni\ngiorno, ma non ha i materiali adatti.
+Questo è l'antico androide riparato\ndal proprietario dell'officina,\n<b<Kondoroy>>.\n\nPuò trasportare oggetti avanti e\nindietro tra Terra e Cielo.\n\n\nI dati rilevano che ha un debole per me.
+Questo è un fossile. È rimasto qui per\nmolti anni.
+Questo è un uccello chiamato <b<guettolo>>.\nSeppure sia piccolissimo rispetto agli\naltri uccelli di Oltrenuvola, le sue\ndimensioni sono comuni sulla terra.\nProbabilità che le sue piume possano\nessere usate per qualche scopo: 85%.

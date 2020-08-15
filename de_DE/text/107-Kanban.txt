@@ -1,0 +1,85 @@
+Hier beginnt die Höhle hinter\ndem Wasserfall. Vorsicht vor\nblutsaugendem Getier! Zutritt\nfür Kinder streng verboten!
+\x0E\x02\x04\x02\x16CD Ritterschule\nWohnviertel \x0E\x02\x04\x02\x17CD
+\x0E\x02\x04\x02\x14CD Zum Basar
+\x0E\x02\x04\x02\x14CD Statue der Göttin
+\x0E\x02\x04\x02\x14CD Zum Dorfplatz
+\x0E\x02\x04\x02\x14CD Ritterschule
+Das Rennen im Flur ist\nstrengstens untersagt!
+Jeder Schüler hat sich selbst\num Ordnung und Sauberkeit\nseines Zimmers zu kümmern!
+Springe an einem Steg ab,\num den Wolkenhort per\nWolkenvogel zu verlassen!
+Zimmer von Link
+Bados Reich
+Rax' und Strus Zimmer
+Grus' Zimmer
+Direktor Geporas Zimmer
+Meister Otus' Zimmer
+Meister Tytors Zimmer
+Girunas Zimmer
+Zeldas Zimmer
+~ Vogelreiter-Zeremonie ~\nEs treten an: Bado, Rax, Stru\nund Link.
+Der Sieg von Link\nwurde von einem tragischen\nEreignis überschattet...
+Toilette
+Badezimmer
+Übungshalle
+\x0E\x01\x08\x02\xFFCDLageristin\n\x0E\x01\x08\x02ÍPicas Haus
+Rissas Haus
+Kukis Haus
+Hirus und Galeas Haus
+\x0E\x01\x08\x02\xFFCDHändler\n\x0E\x01\x08\x02ÍKulkans Haus
+Cucos Haus
+\x0E\x01\x08\x02\xFFCDWahrsager\n\x0E\x01\x08\x02ÍAmadins Haus
+Mit Licht soll dem Helden,\nder im hellen Schein die\nHymne der Göttin spielt,\nder Weg gewiesen werden.
+\x0E\x01\x08\x02\xFFCDTüftler\n\x0E\x01\x08\x02ÍDorucos Haus
+\x0E\x01\x08\x02\xFFCDTrankbrauer\n\x0E\x01\x08\x02ÍDiomeds Haus
+Morsegos Hütte
+Norden: Statue der Göttin\nOsten: Wohnviertel\nSüden: Dorfplatz\nWesten: Ritterschule
+Kürbissuppe lässt die Kräfte\nquellen und erfüllt dich mit\nLebensfreude! Ein Teller nur\n10 Rubine!
+~ Kabochas Bühne ~\nAus Mangel an Musikern\nvorübergehend geschlossen.\nMusiker werden gesucht.
+~ Kabochas Bühne ~\nUnregelmäßiger Betrieb\n(nur nachts)
+Der großartige Kronleuchter\nbefindet sich im Obergeschoß.
+Achtung: Kronleuchter\nAn dieser Stelle bitte\nruhig verhalten!
+Genieße die Kürbissuppe,\nsolange sie noch heiß ist!
+Suche fleißigen Helfer zum\nBestellen der Kürbisfelder.
+Der Wolkenhort liegt keine\nzehn Flügelschläge von hier\nentfernt im Nordwesten!
+Giruna / Ra...
+Drehe das zentrale Podest.\nVervollständige die Brücke und\nbetritt die Stätte der Lieder.
+~ Geschlossen ~\nBitte besuchen Sie uns\nmorgen wieder!\n\nIn Notfällen, besuchen Sie\nuns bitte in meinem Haus.\nDie Basarverwaltung
+Brave Kinder waschen sich\nstets die Hände!
+Gründliches Putzen ist\nwichtig!
+Ich bin geschäftlich unterwegs\nund komme abends zurück.\n\x0E\x01\x06\x02\x5CDTerri
+
+\x0E\x01\x12\x04\x00\x04Gebieter, siehst du den <r<grünen\nLichtstrahl >>vor dir? Dies ist eine\nso genannte <b<Lichtsäule>>, über die du\nzum Erdland gelangen kannst. 
+Du kannst ihren Standort auch auf\ndeiner Karte einsehen. Überprüfe,\nwie du vom Wolkenhort dorthin\ngelangen kannst.
+Am Fuß der Säule befindet sich ein\nLoch in den Wolken. Es verbindet das\nWolkenmeer mit dem Erdland.
+\x0E\x01\x12\x04\x00\x01Gebieter, die Steintafel, die du gestern\nNacht eingesetzt hast, steht in direkter\nVerbindung zur Passage ins Erdland.\n\nDie Lichtsäule ist von hier aus gesehen\nin südlicher Richtung erschienen. An\nihrem Fuß befindet sich ein Loch in\nden Wolken, das nach unten führt.
+Ich muss dich darauf hinweisen, dass\ndeine Überlebenschancen im Erdland\ngering sind, solltest du bloß mit einem\nSchwert bewaffnet sein.\nIch empfehle dir, im örtlichen Basar\neinen <r<Schild >>oder einen <r<Herztrank >>zu\nerwerben.
+Ich habe noch eine weitere\nInformation für dich, \x0E\x01\x12\x04\x00\x01Gebieter.\n\n\nSolltest du das Gefühl haben,\ndie Steuerung gut zu beherrschen,\nkannst du die <r<Hilfsanzeige>> der\nSteuerung verändern, \x0E\x01\x12\x04\x00\x01Gebieter.\nÖffne dein <b<Inventar >>und wähle\n<r<Hilfsanzeige>>, um die Einstellung\nzu wählen, die für dich am\nangenehmsten ist.
+\x0E\x01\x12\x04\x00\x01Gebieter, von hier aus kannst\ndu die Lichtsäule erblicken.
+Springe nun in diese Richtung ab\nund rufe deinen Wolkenvogel.
+Bitte mache dich nun auf die Suche\nnach Zelda. Drücke (v), um deinen\nWolkenvogel zu rufen, nachdem du\nabgesprungen bist.\x0E\x01\x11\x02\x9CD
+\x0E\x01\x12\x04\x00\x04Gebieter, triff das Symbol mit dem\n<r<Himmelsstrahl >>und setze die Steintafel\nein, die ich dir vorhin gab.\n\n<g<Hebe dein Schwert gen Himmel,>> um es\nmit heiliger Energie aufzuladen und\nfeuere dann den <r<Himmelsstrahl >>ab. 
+Mein Name ist <b<Phai>>...\nStelle dich vor das Podest und\nziehe das Schwert heraus.
+\x0E\x01\x12\x04\x00\x04Gebieter, setze die <r<Steintafel>>, die ich\ndir gab, in das Podest ein.
+Wenn du die in der Welt verstreuten\n<r<Artefakte der Göttin >>mit deinem\n<r<Himmelsstrahl >>triffst, wird Energie\nfreigesetzt, \x0E\x01\x12\x04\x00\x04Gebieter.\nDiese Energie führt zu einer\nVeränderung im Wolkenmeer.
+
+Die auf der Karte markierten Orte\nzeigen dir jene Stellen, an denen\neine Veränderung eingetreten ist.
+Ich empfehle dir, diese Orte\ngenauer zu untersuchen.
+
+
+
+
+Es würde tausende Jahre dauern,\nbis an dieser Stelle etwas wächst.\nIch halte dies nicht für den richtigen\nOrt, um diese Saat zu pflanzen.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nDein Schwert hat an Macht gewonnen,\nweshalb du nun die <r<Aurasuche>><g< >>nutzen\nkannst, um nach den <y<Juwelen der Güte>>\nzu suchen.\nDie <y<Juwelen der Güte >>wurden der\n<r<Aurasuche>> als neues Ziel hinzugefügt.<pling>\nMache von dieser Option Gebrauch,\nwie es dir beliebt.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nDein Schwert hat an Macht gewonnen,\nweshalb du nun die <r<Aurasuche>><g< >>nutzen\nkannst, um nach den <y<Juwelen der Güte>>\nzu suchen.\nDie <y<Juwelen der Güte >>wurden der\n<r<Aurasuche>> als neues Ziel hinzugefügt.<pling>
+Wie ich sehe, hast du bereits alle\nJuwelen der Güte gesammelt.\nDu bist sehr umsichtig, \x0E\x01\x12\x04\x00\x02Gebieter.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nDein Wolkenvogel ruht sich nachts aus.\nTue es ihm gleich und gönne dir etwas\nSchlaf.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nAuf einer der Inseln im Wolkenmeer\nfindest du den <r<Eingang zur Sairen>>,\nder sich mit dem Heldenlied öffnen\nlässt. Finde ihn mit der <r<Aurasuche>>.
+\x0E\x01\x12\x04\x00\x01Hervorragend, Gebieter.\n\n\n\nDu hast alle Prüfungen bestanden.
+Es gibt noch ein weiteres <r<Insigne der\nReife >>außer dem, das du besitzt.\n\n\nIch stelle fest,\x0E\x01\x12\x04\x00\x02 dass sich auf dieser Insel\nein Objekt befindet, das dem gleicht,\nwelches du bei dir trägst.\n\nFindest du es und fügst du beide\nzusammen, öffnet sich dir der\nWeg zum <y+<Triforce>>.\n\n\x0E\x01\n\x04\xFFFFÍIch empfehle dir, nach diesem\nObjekt zu suchen.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas zu\nberichten. Diese Insel ist mir bekannt.\n\n\nMan nennt sie die <b<Stätte der Lieder>>.\n\x0E\x01\x12\x04\x00\x02Die Göttin selbst hat diesen Ort\nfür dich geschaffen, Gebieter.\n\nMir ist jedoch nicht bekannt, wie das\nErreichen des Turms möglich ist. Ich\nempfehle dir, die Umgebung nach\neiner Möglichkeit zu untersuchen.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich stelle fest, dass sich in\nnordöstlicher Richtung ein weiteres\nLoch in den Wolken aufgetan hat.\n\nEs führt dich an einen neuen Ort. Ich\nempfehle dir, diesen Ort aufzusuchen,\nsobald du dich auf die Reise vorbereitet\nhast.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich stelle fest, dass sich in\nsüdwestlicher Richtung ein weiteres\nLoch in den Wolken aufgetan hat.\n\nEs führt dich an einen neuen Ort. Ich\nempfehle dir, diesen Ort aufzusuchen,\nsobald du dich auf die Reise vorbereitet\nhast.
+\x0E\x01\x12\x04\x00\x0BGebieter Link.\n\n\n\nUm Narisha helfen zu können, musst du\nden Tornadostoß meistern.\n\n\nMeister Otus wartet bereits im\nNordosten auf dich, <r<in der Nähe\nder Statue eines Vogels>>.\n\nIch empfehle dir, zu ihm zu eilen.
+\x0E\x01\x12\x04\x00\x0BGebieter Link...\n\n\n\n\x0E\x01\n\x04\x0DÍDiese Schatztruhe hat die Göttin einst\nfür den auserwählten Helden hier\nhinterlassen.
+Leider habe ich keine Daten darüber,\nwie man sie öffnen kann.
+Ich vermute, dass die Energie der\n<r<Artefakte der Göttin>> die Schatztruhen\nöffnen kann.\n\nSende die Artefakte der Göttin aus\ndem Erdland zum Himmel und ihre\nEnergie wird die Truhen öffnen.\nSo kannst du an ihren Inhalt gelangen.

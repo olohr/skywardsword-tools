@@ -1,0 +1,36 @@
+
+\x0E\x01\x05\x04\x0F\x00Impa!
+\x0E\x01\x05\x04<\x00Zelda! Schnell, ins Portal!
+\x0E\x01\x05\x04\x1D\x00Link!
+\x0E\x01\x05\x04P\x00Nimm dies!\nDu wirst es benötigen...
+Du hast die <y<Lyra der Göttin>> erhalten!\nAber im Moment hast du andere\nProbleme...\x0E\x01\x05\x04\x14\x00
+\x0E\x01\x05\x04\x19\x00Beeilt Euch!
+...Link\x0E\x01\x04\x02\x1E!\n[1]Beeil dich![2]Alles in Ordnung?[3]Zelda!
+Ich bringe sie in Sicherheit.\nPass auf dich auf...
+Danke, es geht!
+Ich werde sie beschützen. Danke für\ndeine Hilfe, Link!
+Link!\x0E\x01\x04\x022\nDu musst die Hüterin des Siegelhains\nbesuchen! Sie wird dir den Weg weisen.
+
+\x0E\x01\x05\x04\n\x00Bis bald...
+\x0E\x01\x05\x04\n\x00Ganz bestimmt! Wir sehen uns bald\nwieder!
+\x0E\x01\x05\x04\x00\x00Versprochen!
+\x0E\x01\x05\x042\x00Ach, Link...\n\n\n\n\x0E\x01\x05\x04P\x00Ich war bisher wohl zu gnädig mit dir...\n\n\n\n\x0E\x01\x05\x04Z\x00Für diese Unverschämtheit hast du dir\neigentlich eine Strafe verdient.\n\n\n\x0E\x01\x05\x04K\x00Doch meine Zeit ist mir zu schade, um\nsie mit dir zu teilen. Aber merke dir...\n\n\n\x0E\x01\x05\x04P\x00Nächstes Mal werde ich dir das Leben\nzur Hölle machen!
+
+
+
+
+
+\x0E\x01\x05\x04Z\x00Nayrus Flamme hat dein Schwert\ngestärkt! Phai erhält neue Macht. \nDu kannst nun mit der <r<Aurasuche>>\nmehr Dinge erspüren.
+
+
+
+
+\x0E\x01\x12\x04\x00\x01Gebieter, ich habe nun die Kraft,\ndich ein neues Lied zu lehren.\nKehre dafür zurück zur Stätte der\nLieder.
+
+Sieh an, Link...\nWas führt dich zu mir?
+Also, das nenne ich mal eine gelungene\nÜberraschung! Du hast sie mir\ntatsächlich gebracht!
+Oooh...\x0E\x01\x05\x04-\x00
+\x0E\x01\x08\x02\x2CDAh-hohoho!
+Oh, tut das gut!\nMein ganzer Körper pulsiert...\nEine neue Kraft durchströmt mich!
+Selbst Jahrtausende alte Drachen wie\nwir werden von Krankheiten gepeinigt.\n\n\nDeine Hilfe hat mein Leben verlängert,\nLink!\nAls Dank werde ich dir eine Stimme des\n<b<Heldenlieds >>vorsingen.\nAlso, sperr die Ohren auf und lausche\nmeinem Gesang!
+Du hast eine <y<Stimme des Heldenlieds\n>>erlernt.

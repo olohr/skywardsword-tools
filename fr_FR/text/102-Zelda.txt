@@ -1,0 +1,52 @@
+\x0E\x03\x01\x00Link, je te rejoindrai\nquand mon oiseau aura un peu\nrécupéré.\n\n\x0E\x01\x09\x04\x00\x500Va voir si quelqu'un sait quelque\nchose à propos de ton célestrier.
+Je savais que je te trouverais ici,\nLink...\n\n\n\x0E\x01\n\x04\x17ÍQuand on m'a dit que tu étais du côté\nde la cascade, je t'ai cherché depuis\nle ciel.\n\nAlors ? Tu as trouvé ton célestrier ?
+\x0E\x01\x09\x04\x100\x514Je vois...\n\n\n\n\x0E\x01\x09\x04\x100\xC00C'est vrai qu'Hergo et sa bande\ntraînent souvent par ici. Allons voir !
+
+
+
+Ah\x0E\x01\x04\x02\x14... Excuse\x2010moi, Link.\nJ'étais ailleurs... Bien, allons\x2010y !
+\x0E\x01\x06\x02\xFCCD...?\x0E\x01\x06\x02Í
+\x0E\x01\x09\x04\x100\x1500Qui est là...?\n\n\n\n\x0E\x01\x09\x04\x100\x1500J'entends quelqu'un qui m'appelle...
+Ah ! Le voilà !
+\x0E\x01\x09\x04\x09\x500\x0E\x01\x08\x02\x1CDC'est ton célestrier,\nLink !
+
+\x0E\x01\x09\x04\x00\x06Eh bien, Link !\nAllons vite l'aider !
+\x0E\x01\x09\x04\x0F\x513C'est vraiment horrible...\n\n\n\n\x0E\x03\x01\x00Link !\nIl faut vite retirer cette barrière\nqui le retient prisonnier !
+
+
+
+\x0E\x01\x09\x04\x00\x04Allez, essaie encore une fois !\nCette fois je ne te pousserai pas.\nAlors prends ton courage à deux\nmains et saute !\n<g<Fonce >>vers le bord pour prendre de\nl'élan et sauter dans le vide !\n\n\nN'oublie pas d'ouvrir ton parachâle\nen appuyant sur (B) avant d'atterrir !\x0E\x01\x11\x02\x1CD\n\n\nTu dois atterrir <r<au milieu du dallage\ncirculaire >>en bas !
+\x0E\x01\x09\x04\x00\x1514Ah, tu as raté ton atterrissage ?\n\n\n\n<r<\x0E\x01\x09\x04\x00\xC00En chute libre>>, dirige\x2010toi en <g<inclinant\n>>la télécommande Wii.\n\n\nAllez, essaie encore une fois !\nCette fois je ne te pousserai pas.\nAlors prends ton courage à deux\nmains et saute !\n<g<Fonce >>vers le bord pour prendre de\nl'élan et sauter dans le vide !\n\n\nN'oublie pas d'ouvrir ton parachâle\nen appuyant sur (B) avant d'atterrir !\x0E\x01\x11\x02\x1CD\n\n\nTu dois atterrir <r<au milieu du dallage\ncirculaire >>en bas !
+\x0E\x01\x09\x04\x0C\xE09C'est comme s'il ne lui était rien\narrivé. Ton célestrier est vraiment\nexceptionnel !\n\n\x0E\x01\x09\x04\x00\xC00Je vais prévenir mon père.
+\x0E\x01\x09\x04\x400\x04Salut, Link !
+\x0E\x01\x09\x04\x400\x00Il paraît que t'as retrouvé ton piaf ?\n\n\n\n\x0E\x01\n\x04\x0BÍEnfin, on a pu profiter du temps que\ntu nous as fait poireauter pour bien\nnous entraîner !\n\nJe comprendrai jamais pourquoi\nun tire\x2010au\x2010flanc comme toi a toujours\ndroit à des traitements de faveur !
+T'étais encore avec Zelda quand\nt'es venu ici, hein ?\n\n\nT'es pas fichu de te débrouiller sans\nune fille pour te montrer ce que t'as\nà faire, hein ?\n\n« Zelda, c'est ma meilleure amie depuis\nqu'on est tout petits ! On est fait l'un\npour l'autre ! » \x0E\x01\x06\x02\xFCCDGna gna gna !\x0E\x01\x06\x02Í\n\n\x0E\x01\x09\x04\x400\x17T'en es fier, hein ?!\x0E\x01\x04\x02<\n\x0E\x01\x09\x04\x40B\xAFFOn avait pas remarqué !
+\x0E\x01\x09\x04\x500\x0EAlors que le boss, c'est plutôt :\n« J'vais épouser Zelda et on\naura beaucoup d'enfants ! »\n\nPas vrai ?!
+\x0E\x01\x09\x04\x600\x14Héhéhé...
+\x0E\x01\x09\x04\x40D\xB00Désolé de devoir briser tes rêves\nde gamin, mais...\n\n\n\x0E\x01\x09\x04\x400\xB00... le <y<parachâle>> que Zelda remettra au\nvainqueur de la cérémonie est à moi,\net à personne d'autre !\n\nSurtout que c'est Zelda elle\x2010même\nqui l'a confectionné... Il me le faut\nabsolument.
+\x0E\x01\x09\x04\x404\x1700Le parachâle que Zelda porte sur ses\népaules... À moi, rien qu'à moi...\n\n\nQuel doux parfum il doit avoir.\nHéhéhé...\n\n\nEt si je gagne, il y aura la\ncérémonie en haut de la statue\nde la Déesse. Juste tous les deux,\nsans personne pour déranger...\nEt c'est dans ce cadre de rêve\nque Zelda et moi...
+Hu... Huhuhuhu...\n\n\n\nGnéhéhéhé !
+B... Boss ! Boss !\n\x0E\x01\x04\x02\x1EDerrière vous ! \x0E\x01\x04\x02\x1EDerrière vous !
+\x0E\x01\x09\x04\x400\x00\x0E\x01\n\x04\x0BÍQuoi ?! Tu me casses les oreilles !
+\x0E\x01\x09\x04\x419\x1715Ouah !!!
+Je peux savoir ce qu'on fera\nexactement, toi et moi, sans\npersonne pour nous déranger ?
+\x0E\x01\x09\x04\x4FF\xFF0DEuh... Héhé... N\x2010non, rien...\nJe disais ça comme ça.\n\n\n\x0E\x01\x09\x04\x400\x00\x0E\x03\x01\x00Link ! Je suis content que\nt'aies retrouvé ton oiseau ! On va\npouvoir s'affronter à la loyale !
+\x0E\x01\x09\x04\x400\x00À tout à l'heure, Zelda ! Et surtout,\nregarde\x2010moi bien pendant la course !\nJ'espère que tu seras pas trop\nimpressionnée !
+\x0E\x01\x09\x04\x505\x13\x0E\x01\x09\x04\x607\x00Aah ! Boss ! Attendez !\x0E\x01\x05\x04\x14\x00
+\x0E\x01\x09\x04\x09\x1014« À la loyale » ? Venant de lui, ça me\nfait bien rire !\n\n\n\x0E\x01\x09\x04\x00\xFF00\x0E\x03\x01\x00Link ! Ne fais pas\nattention à ce qu'ils racontent !\nTu dois donner tout ce que tu as !\nJ'ai confiance en toi !\nTu me le promets ?\n[1]Oui ![2]J'ai des\ndoutes[3]Rien que toi\net moi...
+\x0E\x01\x09\x04\x0C\xE00C'est ce que je voulais entendre !\nJe suis sûre que tu vas gagner,\nLink !
+\x0E\x01\x09\x04\x0C\x1500Pourquoi ? Si tu fais de ton mieux,\ntu peux y arriver !\nAie confiance en toi !
+\x0E\x01\x09\x04\x10\xE04Ah, non ! Tu ne vas pas t'y mettre,\ntoi aussi !
+La chevauchée céleste va commencer !\nQue les élèves participant se\nrassemblent ici !
+Allez, Link !\nBon courage !
+
+\x0E\x03\x01\x00Link !\nJe suis un peu inquiète ! Voyons\ncomment se porte ton célestrier !\nTu penses qu'il peut voler ?
+Pour diriger ton célestrier, <g<incline\n>>la télécommande Wii dans la direction\noù tu veux aller.\n\nSi tu veux <r<augmenter ta vitesse de vol>>...\n\n\n\n... <g<agite la télécommande Wii de haut\nen bas >>pour prendre de l'<r<altitude>>, puis\nincline\x2010la vers le bas pour prendre\nde la vitesse.\nTu as bien compris ? Agiter de haut\nen bas puis incliner vers le bas... ce\nsont les bases de l'accélération !
+Alors ? Ton célestrier n'a pas trop\nsouffert de cette mésaventure ?
+Tu peux consulter les <r<actions >>de ton\ncélestrier en appuyant sur (2) à tout\nmoment lorsque tu le chevauches !\x0E\x01\x11\x02\x5CD\n\nAvec (A), tu peux <r<accélérer >>ou <g<attaquer\n>>et avec (B), tu peux <r<ralentir>>. Tu devrais\nessayer. \x0E\x01\x11\x02\x1CD
+\x0E\x03\x01\x00Link ! Je vais te donner\nun conseil pour <r<accélérer>>.\n\n\n<g<Agite la télécommande Wii de haut\nen bas >>et lorsque tu as pris assez\nd'<r<altitude>>, <g<incline\x2010la vers le bas>>\npour accélérer !\nAgiter de haut en bas puis incliner\nvers le bas, c'est la base pour\naccélérer ! Compris ?
+\x0E\x03\x01\x00Link !\nJ'étais un peu inquiète mais ton oiseau\nest en pleine forme. Bien, mon père\nnous attend.\nDépêchons\x2010nous !
+\x0E\x01\x0D\x02\x1906\x0E\x01\x08\x02\x1CD\x0E\x03\x01\x00Link !!!
+C'est le journal de Zelda...\nVoulez\x2010vous le lire ?\n[1]Bien sûr[2-]Ce serait\nmal
+Il ne vaut mieux pas...
+Demain aura lieu la <r<chevauchée\ncéleste>>. Ce sera un nouveau pas\nen avant pour Link.\n\nJ'ai vraiment hâte de le voir devenir\nchevalier.\n\n\nMais ces derniers temps, il néglige ses\nentraînements de chevauchée d'oiseau.\n\n\nDemain, il faudra que je le réveille aux\naurores pour qu'il aille s'entraîner !\n\n\nIl faut absolument que ce soit lui qui\nl'emporte. C'est avec lui que je veux\naccomplir la cérémonie.

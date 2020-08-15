@@ -1,0 +1,167 @@
+Hé ! Ça roule ?\nJ'ai de nouvelles visions !\nTu veux y jeter un \x153il ?[1]Oui[2-]Non merci
+Salut !\x0E\x01\x04\x02\n J'ai pas grand\x2010chose de\npassionnant pour toi, mais tu peux\ntoujours jeter un \x153il aux anciennes\nvisions. Ça te dit ?[1]Oui[2-]Non merci
+Salut, p'tit gars !\x0E\x01\x04\x02\n\nJe peux te montrer toutes mes visions.\nÇa te dit ?[1]Oui[2-]Non merci
+Je vois... Dans ce cas, bon courage !
+Salut, p'tit gars !\x0E\x01\x04\x02\n\nPour l'instant, j'ai rien à te raconter.\n\n\nReviens donc me voir plus tard quand\ntu seras bloqué !
+Hé, p'tit gars !\nViens donc voir par ici !
+Moi, j'suis une <b<pierre Sheikah>> !\nSalutations, enchanté, tout ça...\n\n\nOK, voilà le topo...~~~ J'pense que dans\nles prochains jours, tu vas souvent te\nretrouver à galérer et à tourner en\nrond.\nSi jamais y a une énigme que\nt'arrives vraiment pas à résoudre\net qui t'empêche d'avancer, viens\ndonc me voir.\nPour l'instant, j'ai rien à te montrer,\nmais plus tard, j'aurai des <r<trucs\nintéressants >>pour toi. Allez, bon\ncourage, p'tit gars !
+Moi, j'suis une <b<pierre Sheikah>> !\n\x0E\x01\x04\x02\n.~~.~~.\x0E\x01\x04\x02\n Oh, tu le savais déjà ?\n\n\nOK, alors voilà le topo...~~~ Comme tu\njoues en <r<mode héroïque>>, ça veut dire\nque t'as réussi à résoudre toutes les\nénigmes.\nAlors, j'te tire mon chapeau et je vais\nte permettre de consulter <pling><r<toutes les\nvisions >>dès le début !\n\nSi jamais y a une vision que tu veux\nconsulter, hésite pas à venir me voir.\n\n\nAllez, bon courage !
+Nouveau !
+Réussi !
+Ciel de Célesbourg
+Vallon du sceau
+Région de la forêt de Firone
+Région du volcan d'Ordinn
+Région du désert de Lanelle
+Temple de la contemplation
+Temple de la terre
+Raffinerie de Lanelle
+Grande caverne antique
+Galion des sables
+Grand sanctuaire ancien
+Tour des cieux
+Bonus
+Au secours du célestrier
+La femme mystérieuse
+Comment entrer chez Terry ?
+L'énigme du cimetière
+Les deux grandes ailes \x2460
+Les deux grandes ailes \x2461
+Le pont de l'île aux chants
+Sauvez le grand Narisha !
+
+Placer le sceau des épreuves
+Éliminez les babas Mojo !
+Le Banni
+Le Banni \x2461
+Le Banni \x2462
+La horde de démons
+Le combat final contre Ghirahim \x2460
+Le combat final contre Ghirahim \x2461
+L'Avatar du Néant
+Trouvez les Tikwis ! \x2460
+Trouvez les Tikwis ! \x2461
+Trouvez les Tikwis ! \x2462
+Éliminez les octoroks !
+Se sortir du guêpier
+En route vers le temple !
+Entrer dans le temple
+
+Après avoir obtenu l'écaille
+Passer les balançoires
+En route vers le lac !
+
+
+
+Tourbillon et fironotes
+La fironote sous le nénuphar
+La fironote derrière les rochers
+Briser le barrage des Mogmas
+Par\x2010delà la tour de guet
+Les fragments de clé \x2460
+Le chemin sans pont
+Les fragments de clé \x2461
+Les fragments de clé \x2462
+
+« Étanche ma soif »
+Un grand récipient
+Récupérez votre fouet !
+Récupérez votre lance\x2010pierre !
+Récupérez votre sac de bombes !
+Récupérez le reste de vos objets !
+Les mines de Lanelle \x2460
+Les mines de Lanelle \x2461
+Les mines de Lanelle \x2462
+Sauvez le robot !
+Le désert de Lanelle \x2460
+Le désert de Lanelle \x2461
+Accéder au temple du temps
+Accéder à la raffinerie de Lanelle
+Par\x2010delà les sables mouvants
+La combinaison \x2460
+La combinaison \x2461
+La combinaison \x2462
+
+Plus loin avec le grappin !
+Battre les moblins aux boucliers de fer
+Le repaire des pirates \x2460
+Le repaire des pirates \x2461
+Trouvez le galion des sables !
+Où se trouve la petite clé ?
+Le wagonnet bloqué par un rocher
+Où planter la pousse ?
+Faites\x2010le tourner de l'\x153il !
+Trouvez l'interrupteur caché ! \x2460
+Éliminez les skulltulas !
+Où se trouvent les interrupteurs \x0E\x02\x04\x02\x19CD ?
+Éliminez le stalfos !
+Trouvez l'interrupteur caché ! \x2461
+Triomphez de Ghirahim !
+Trouvez la clé des Mogmas !
+Le pont sur la lave
+Comment traverser la lave
+Trouvez le sac de bombes !
+Comment battre les lézalfos
+Après avoir trouvé la carte
+Ouvrir le portail sur la lave
+Remonter la pente
+Triomphez de Bela Darma !
+Comment ouvrir la première grille
+Comment casser les caisses en bois
+Le chronolithe en cage
+Avancez sur les tapis roulants !
+Le coffre dans la cellule
+Traverser les sables mouvants
+Chronolithe et interrupteur hélice
+Le mystère de l'interrupteur triple
+Chronolithe et plate\x2010forme à hélice
+Éliminez les sphérodrones !
+Éliminez les sentinelles !
+Éliminez les armos !
+Triomphez de Moldgath !
+Trouvez l'ordre des joyaux !
+Par\x2010delà les nénuphars
+Éliminez le maître stalfos !
+La barre\x2010levier près de la cascade
+Comment voler la clé au bokoblin
+Souvenez\x2010vous du saut tourbillon !
+Éliminez les flamboiseaux !
+Accrochez\x2010vous au lierre !
+La salle aux rouleaux
+Triomphez de Da Ihloma !
+L'ordre des quatre joyaux
+Éliminez le Capitaine Zigouille !
+
+Activez le générateur \x2460
+Activez le générateur \x2461
+Bas les pattes !
+Triomphez de Daidagos ! \x2460
+Triomphez de Daidagos ! \x2461
+La salle de la magmain
+Traverser la salle de lave
+« Étanche ma soif » \x2461
+Éliminez les magmains !
+Trouvez la salle cachée !
+Comment prendre la clé du boss
+Triomphez de Ghirahim \x2461
+Les pyrolermits dans la roche
+Traverser en balançoire
+Pour franchir le fleuve de lave \x2460
+Pour franchir le fleuve de lave \x2461
+Les interrupteurs derrière les statues
+La salle des sables mouvants \x2460
+La salle des sables mouvants \x2461
+La salle des sables mouvants \x2462
+Éliminez le Capitaine Trucide !
+La chasse aux insectes
+La soupe du capitaine
+Kinaé a disparu !
+Entrer dans la cabane sans porte
+Une boisson pour Célestin
+Les tourments du voyant
+Retrouvez le hochet !
+Le Golofa Demonicus Rex
+Dessiner sur les murs de la Déesse
+Le secret des murs de la Déesse
+Trouvez des flèches !
+Le bon coin pour la chute libre

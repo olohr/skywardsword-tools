@@ -1,0 +1,134 @@
+\x0E\x01\x09\x04\x00\x01\x0E\x01\x06\x02\xFECDOoh...~~~\nBienvenue à toi, jeune élu descendu\ndes cieux par\x2010delà la mer de nuages.
+\x0E\x01\x09\x04\x00\x08\x0E\x01\x06\x02\xFECDQuel est ton nom ?\n\n\n\n... \x0E\x01\x04\x02(\x0E\x03\x01\x00Link ?\nHmm... \x0E\x03\x01\x00Link...\n\n\nTu sembles maîtriser <pling>l'<r<éclat céleste>>,\ncette puissance sacrée qui emplit ta\nlame lorsque tu la <g<brandis vers le ciel>>.\n\n\x0E\x01\x09\x04\x00\x0BC'est la preuve que tu es digne de\nl'<b<épée divine >>que tu portes dans\nton dos.\n\n\x0E\x01\x06\x02\xFFCDJ'attends ici ton arrivée depuis des\nlunes et des lunes. Je serai ton guide...
+Nous sommes ici dans le <b<temple du\nsceau>>, bâti par la Déesse à une époque\nimmémoriale.\n\nIl était écrit depuis fort longtemps\ndéjà que tu viendrais ici...\n\n\nLa jeune prêtresse que tu recherches\nest elle aussi descendue en ces terres\ndans un rai de lumière il y a peu.\n\nTout cela était écrit...
+\x0E\x01\x09\x04\x00\nMais c'est d'une manière bien\ndifférente de ce qui était prédit\nque la prêtresse est arrivée jusqu'ici.\n\nUne puissance maléfique \x153uvre pour\ntenter de changer votre destinée...
+\x0E\x01\x09\x04\x0E\xFF08\x0E\x03\x01\x00Link...\x0E\x01\x04\x02\x1E\nEs\x2010tu préoccupé par l'avenir de la\nprêtresse ?\n\n... Pourtant, tu ne dois penser qu'à\naller de l'avant. Elle a un grand\ndestin à accomplir. Tout comme toi.\n\nElle s'est dirigée vers la <b<forêt de\nFirone >>pour en apprendre davantage\nsur son rôle. Pars à sa suite.
+\x0E\x01\x09\x04\x0E\xFF00... Regarde ta carte.
+La \x0E\x02\x04\x02\x19CD indique la route qui mène à la\n<b<forêt de Firone>>.\n\n\nMais il serait imprudent de t'aventurer\ndans cette forêt inconnue infestée de\nmonstres avec une simple carte.\n\nJe vais te donner le pouvoir de poser\ndes <r<balises>>.\n\n\nEn posant une <r<balise >>sur ta carte,\nun pilier de lumière apparaîtra\nà l'endroit correspondant, ce qui\nfacilitera ton orientation.\nAllez, pointe l'endroit marqué d'une\n\x0E\x02\x04\x02\x19CD et appuie sur (C) pour y poser une\nbalise. \x0E\x01\x11\x02\x6CD
+\x0E\x01\x09\x04\x00\x03Elle n'est pas visible d'ici, mais ta\nbalise a bien été posée. Tu pourras\nle constater de tes yeux lorsque tu\nseras dehors.\nLorsque tu n'auras plus besoin de la\nbalise, ouvre ta carte, pointe la balise\net appuie sur (C) pour l'effacer.\x0E\x01\x11\x02\x6CD\n\nTâche de ne pas te perdre.
+\x0E\x01\x09\x04\x00\x06Il n'y a pas de balise à l'endroit indiqué\npar la \x0E\x02\x04\x02\x19CD.\n\n\nPour effacer une balise que tu as\nposée, pointe\x2010la avec le curseur\net appuie sur (C).\x0E\x01\x11\x02\x6CD\n\nSi tu veux poser une balise de façon\nplus précise, tu peux agrandir ta carte\navec (A).
+\x0E\x01\x09\x04\x0E\xFF03Allez, rends\x2010toi dans la forêt de Firone.\nPars sur les traces de la prêtresse...\n<b<Zelda>>.\n\nTu peux aussi prendre le contenu du\n<r<coffre >>qui est dans cette salle. Il te sera\nsûrement utile lors de ton aventure.
+Allez, pointe l'endroit indiqué par\nla \x0E\x02\x04\x02\x19CD et appuie sur (C) pour poser\nune balise.\x0E\x01\x11\x02\x6CD
+Sors par cette porte, la forêt sera\nalors droit devant. Sois prudent.
+\x0E\x01\x09\x04\x00\x1303La porte menant à la <r<forêt de Firone>>\nest ouverte. Sors par la porte à ma\ngauche et continue tout droit pour\naccéder à la forêt.\nTôt ou tard, toute la vérité se révélera\nà toi... Poursuis ta route sans crainte,\nLink.
+\x0E\x01\x09\x04\x00\x1303Tôt ou tard, toute la vérité se révélera\nà toi... Pour le moment, poursuis ta\nroute sans crainte, Link !
+\x0E\x01\x09\x04\x00\x03Je suppose que tu l'as déjà vu, mais\nquelque chose est scellé au fond du\nvallon en spirale, dehors.\n\nPour l'heure, tu n'as pas besoin d'en\nsavoir davantage mais bientôt, le\nmoment viendra...
+\x0E\x01\x09\x04\x00\nNous poursuivrons notre conversation\nplus tard. Pour le moment, va dehors !
+\x0E\x01\x09\x04\x400=Hein ?! Qu'est\x2010ce que tu racontes,\nmamie ?!
+\x0E\x01\x09\x04\x400\x02Tu te paies ma tête ?!\nRépète un peu pour voir !
+\x0E\x01\x09\x04\xE00\nMalheureusement, tu n'es pas celui\nqui pourra sauver la prêtresse...\n<b<Zelda>>...\n\nCe rôle a été attribué il y a déjà fort\nlongtemps. Pour sauver le monde...
+\x0E\x01\x09\x04\x400>\x0E\x01\x08\x02\x1CDLa ferme !\n\n\n\nMoi, le grand <b<Hergo>>, je pourrais pas\nsauver <b<Zelda>> ? Ridicule !\n\n\nSi je peux pas la sauver, alors pourquoi\nje suis venu jusqu'ici, hein ?\n\n\nEt puis, qui d'autre que moi pourrait\nla sauver ?!
+\x0E\x01\x09\x04\x400\x1E......!
+\x0E\x01\x09\x04\x400\x3218... Je vois.\n\n\n\n\x0E\x01\x09\x04\x40D\xA00Tu veux dire que c'est lui qui va\nsauver <b<Zelda>> ?\n\n\n\x0E\x03\x01\x00Link...
+\x0E\x01\x09\x04\x400<Me fais pas rire ! Je m'en fiche que ce\nsoit ta mission ou je sais pas quoi !\nJ'accepterai jamais ça !\n\n\x0E\x01\x09\x04\x40B\xA00Tu m'entends ? Jamais !
+\x0E\x01\x09\x04\x4008\x0E\x01\x08\x02\x1CDOUAAAAAAAH !!!\x0E\x01\x05\x04-\x00
+\x0E\x01\x09\x04\xE00\x08... \x0E\x03\x01\x00Link.\nTu as pu voir <b<Zelda>> ?
+\x0E\x01\x09\x04\xE0E\xFF05... Je vois. Elle était là, elle aussi.\n\n\n\nCette femme que tu as vue aux côtés\nde Zelda se nomme <b<Impa>>...\n\n\nElle a été envoyée par la <b<Déesse >>pour\nservir Zelda.
+Pour accomplir la mission que la\nDéesse leur a confiée, Zelda et Impa\nse sont mises en route vers un lieu\nparticulier...\nMais maintenant qu'Impa a détruit\nla porte qu'elles ont empruntée, il\nn'existe plus qu'un seul moyen de les\nrejoindre. 
+\x0E\x01\x09\x04\xE0E\xFF00Tu dois utiliser le pouvoir de la <b<lyre\n>>que Zelda t'a confiée...
+\x0E\x01\x09\x04\xE00\x04Attends, Link ! Les\nphénomènes étranges que je perçois\nn'émanent pas de cette direction !
+Nous n'avons pas de temps à perdre !\nSors par la porte en face et va voir\nce qui se passe dehors !
+... À moins que tu ne veuilles rentrer\nà Célesbourg pour ajuster ton\néquipement ? Dans ce cas, je ne\nt'arrêterai pas, mais reviens vite !
+\x0E\x01\x09\x04\x00\x03Recueille les trois flammes sacrées\ndans ton épée, et alors la porte du\ntemps s'ouvrira.\n\nLe <r<Chant de la Déesse >>qui se transmet\nà Célesbourg, ton village natal, te\nmettra sur la voie des flammes sacrées.\n\nRetourne à Célesbourg sans plus\nattendre !
+\x0E\x01\x09\x04\x00\nTôt ou tard, ce monstre brisera à\nnouveau le sceau...\n\n\nHergo semble réfléchir à un plan pour\ns'y préparer.\n\n\n\x0E\x03\x01\x00Link, empresse\x2010toi d'aller\nrecueillir les trois flammes sacrées\ndans ton épée !
+« <b<Le Chant de la Déesse>> ».\nIl est très probable qu'il s'agisse du\nchant que chantait dame Zelda le\njour de la chevauchée céleste.\nLa probabilité d'obtenir des\ninformations sur les paroles de ce\nchant à l'école de chevalerie est\nde 85 %.
+\x0E\x01\x09\x04\x10\x160FOh, ton épée...!\n\n\n\n\x0E\x01\x09\x04\x00\xB00Sa lame a été purifiée par les trois\nflammes. Bravo, Link !\nTon épée déborde d'une grande\npuissance...
+\x0E\x01\x09\x04\x01\xFF07Cette puissance... Oui !\nC'est la <r<force>>...\n\n\n\x0E\x01\x09\x04\x00\xB00La puissance sacrée que les anciens\ndieux ont insufflée en ce monde...\nLa grande puissance que mentionne\nle Chant de la Déesse...\nC'est elle qui circule à présent en toi\net dans ton épée. Ça ne fait aucun\ndoute.
+\x0E\x01\x09\x04\x00\x1603Bien, Link !\nL'heure est venue d'ouvrir la porte\ndu temps !
+Avec cette puissance... Avec la <r<force>>,\nil ne fait aucun doute que l'<r<éclat céleste>>\npourra activer la porte du temps.
+Depuis cette estrade, <g<insuffle la force\nde ton épée >>à la porte du temps !
+\x0E\x01\x09\x04\x00\x07Avec cette puissance... Avec la <r<force>>,\nil ne fait aucun doute que l'<r<éclat céleste>>\npourra activer la porte du temps.\n\nDepuis cette estrade, <g<insuffle la force\nde ton épée >>à la porte du temps !
+\x0E\x01\x09\x04\x00\x04Tiens, Link !\nT'as vu ces rails, dehors ?\n\n\n\x0E\x01\x09\x04\x00\xB00Tu veux savoir à quoi ils servent ?\nHéhéhé ! Tu le sauras bien assez tôt !
+\x0E\x01\x09\x04\x40A\x321F\x0E\x01\x08\x02\x1CDOUAAAH !!!\x0E\x01\x05\x04\x1E\x00
+\x0E\x01\x09\x04\xE00\nHmm... Il semble que <r<le sceau ait à\nnouveau été brisé>>...\n\n\n<r<La créature>> est sur le point de\ns'éveiller...\n\n\nElle a dû réagir à la <r<puissance sacrée\n>>émanant de ton épée.\n\n\n\x0E\x01\x09\x04\xE01\xB00C'est le prix à payer pour ouvrir\nla porte du temps. 
+\x0E\x01\x09\x04\xE10\x1600\x0E\x03\x01\x00Link !\nTu dois emprisonner ce monstre\nencore une fois.
+\x0E\x01\x09\x04\x400\x30DAh, c'est pas trop tôt ! Ça va chauffer !
+\x0E\x01\x09\x04\x40F\x2F0FLe moment de tester mon arme secrète\nest enfin arrivé !\n\n\nAvec ça, il va pas faire un pli, le gros\ntas d'écailles !\n\n\n\x0E\x01\x09\x04\x40B\x3101C'est pas le moment de rêvasser !\nJe pars devant ! Grouille\x2010toi !
+\x0E\x01\x09\x04\x00\nLa créature est sur le point de\ns'éveiller.\n\n\n\x0E\x03\x01\x00Link ! Tu dois\nl'emprisonner à nouveau !
+\x0E\x01\x09\x04\xE00\nAttends, Link !\nTu ne dois pas utiliser l'<r<éclat céleste\n>>maintenant !\n\nCela ne ferait que précipiter le réveil\ndu monstre.\n\n\nTu dois d'abord <r<emprisonner la\ncréature >>! Tu as compris ?
+\x0E\x01\x09\x04\xE00\x03La créature a été enfermée\nà nouveau...
+\x0E\x03\x01\x00Link...
+... Et toi, <b<Hergo>>.
+C'est grâce à vous deux.
+\x0E\x01\x09\x04\x400\x0DHéhé ! Arrête mamie, tu vas me faire\nrougir !\n\n\nEt puis, c'est toi qui m'as montré quoi\nfaire quand je pleurnichais comme\nun bon à rien.
+\x0E\x01\x09\x04\xE08\xB0BC'est parce que tu en avais la force.
+\x0E\x01\x09\x04\xE00\x07\x0E\x03\x01\x00Link !\nIl est temps de te parler de la vraie\nnature de ce démon...\n\nSache qu'il est la source de tout le mal.\nLorsque tu auras passé la porte du\ntemps, tout sera clair...\n\n\x0E\x01\x09\x04\xE01\xB00C'est un être terrifiant. On aura beau\nl'emprisonner, il parviendra toujours\nà briser les liens qui  l'entravent.\n\nPour en venir à bout, il faut éliminer\nson essence même.\n\n\n\x0E\x01\x09\x04\xE10\xB00Dépêche\x2010toi, Link !\nUtilise l'éclat céleste...
+\x0E\x01\x09\x04\x40D\x206Concentre la force dans ton épée et\n<g<envoie >>l'éclat céleste dans la porte\ndu temps !
+... C'est bien ça, mamie ?
+\x0E\x01\x09\x04\xE01\x07... En effet.\nVa, Link !
+\x0E\x01\x09\x04\x10\x03Allez, Link !\nOuvre la porte du temps et rends\x2010toi\nde l'autre côté !
+\x0E\x01\x09\x04\x10\x1606Que fais\x2010tu, Link ?\nAs\x2010tu fait ce que tu avais à faire de\nl'autre côté de la porte ?\n\n\x0E\x01\x09\x04\x14\xB00Alors, traverse cette porte !
+\x0E\x01\x09\x04\x0C\x20DIl faut que tu concentres la force dans\nton épée et que tu <g<envoies>> l'éclat\ncéleste dans la porte !\n\n<b<Zelda>> t'attend de l'autre côté !\n\n\n\nAllez, vas\x2010y, Link !
+\x0E\x01\x09\x04\x0C\x206<b<Zelda>> t'attend derrière cette porte !\n\n\n\nAllez, grouille\x2010toi, Link !
+\x0E\x01\x09\x04\xE01\x103Tu es de retour, Link...
+Alors tu sais tout, à présent.
+Derrière cette porte, <b<Zelda>> est plongée\ndans un profond sommeil.\n\n\nNe crains rien, elle est toujours en vie.
+Comme le dit la légende, la Déesse a\ndissimulé la <y+<Triforce>>, la puissance\nqui éliminera l'Avatar du Néant, à\nCélesbourg.\n\x0E\x01\x09\x04\xE01\xB00Mais nul n'en connaît l'emplacement\nexact. ~~~Il n'a jamais été révélé...
+\x0E\x01\x09\x04\xE14\xB00\x0E\x03\x01\x00Link ! Comme tu l'auras\ncompris...\n\n\nLa clé pour trouver la Triforce se\ntrouve quelque part à <b<Célesbourg>>.
+\x0E\x01\x09\x04\xE08\xB07Va et trouve la Triforce !
+La clé pour trouver la Triforce se\ntrouve quelque part à <b<Célesbourg>>.\n\n\n\x0E\x01\x09\x04\xE00\x07Va et trouve la Triforce !
+\x0E\x01\x09\x04\x401\xFF04\x0E\x01\x08\x02\x1CDHé ! Pas si vite !
+\x0E\x01\x09\x04\x403\xFF00\x0E\x03\x01\x00Link !\nJ'ai deux mots à te dire !
+\x0E\x01\x09\x04\x403\xFF02Dis... <b<Zelda>>... Elle va bien ?\n[1]Oui[2]En fait...
+C'est vrai ? Tant mieux.\n\n\n\n\x0E\x01\x09\x04\x403\x200Mais... c'est pas encore fini, hein ?
+\x0E\x01\x09\x04\x400\x1400Je vois... C'est pas la joie, ce qui lui est\narrivé...\n\n\n\x0E\x01\x09\x04\x403\x200Mais, tu vas arranger ça, hein ?
+\x0E\x01\x09\x04\x40E\xD09Tu sais, Link, j'ai décidé\nque je rentrerai pas à Célesbourg.\n\n\n\x0E\x01\x09\x04\x400\x200Je vais vivre ici avec la vieille.
+\x0E\x01\x09\x04\x400\xFF0DHéhé... Fais pas cette tête.\nC'est ma décision.\n\n\n\x0E\x01\x09\x04\x400\x200Comment dire... J'ai le sentiment que\nj'ai encore des trucs à faire ici.\n\n\nIl faut surveiller le gros monstre, \x0E\x01\x09\x04\x400\x211et\npuis il faut s'occuper de mamie...\nEnfin, tu vois, quoi !\n\nC'est peut\x2010être pas aussi classe que\nta mission, mais c'est quand même\nun sacré boulot !
+\x0E\x01\x09\x04\x403\xD08Et puis, je me plais bien ici.\n\n\n\nC'était sympa de vivre dans le ciel,\nmais j'aime bien avoir les pieds sur\nterre !
+\x0E\x01\x09\x04\x40D\x209Regarde ça !
+\x0E\x01\x09\x04\x404\x208Grâce à Zelda et mamie, cette terre est\nà nouveau pleine de vie.\n\n\n<r<Si on plantait une pousse >>ici, je suis sûr\nqu'elle deviendrait un grand arbre\ncostaud.\n\nEt peut\x2010être que cet endroit serait un\npeu plus animé.\n\n\n\x0E\x01\x09\x04\x40D\x211Enfin, ça prend des années pour qu'un\narbre soit bien grand. Mais faut savoir\nêtre patient, des fois.\n\n\x0E\x01\x09\x04\x400\x12C'est comme ça que je vois les choses\nen ce moment.
+\x0E\x01\x09\x04\x40D\x22EEt donc... Euh... Comment dire...\n\n\n\nSi tu retournes à Célesbourg, passe le\nbonjour à tout le monde de ma part.\n\n\n\x0E\x01\x09\x04\x400\xE00Mes compères s'en remettront\nsûrement pas. Mais dis\x2010leur que\nje me plais bien ici.\n\n\x0E\x01\x09\x04\x400\x209Je compte sur toi, Link !
+\x0E\x01\x09\x04\x00\x02Le sort de <b<Zelda >>est entre tes mains,\nLink !\n\n\nSinon, je me disais que <r<je ferais bien\npousser >>un grand arbre ici. T'aurais\npas une graine ou quelque chose dans\nle genre ?
+\x0E\x01\x09\x04\x0D\x22EOK, t'as planté la pousse...\x0E\x01\x04\x02\x14\nMais <r<à cette époque>>, pour que ça\ndevienne un arbre, ça va prendre\nun sacré bout de temps...
+\x0E\x01\x09\x04\x0D\xF0AAh, cet arbre est vraiment\nmajestueux ! Il est comme le symbole\nde ce temple !\n\n\x0E\x01\x09\x04\x03\x200Rien qu'à le regarder, ça me donne\nune pêche d'enfer !
+\x0E\x01\x09\x04\x0D\x204Ooh ! \x0E\x03\x01\x00Link !\nC'est une belle pousse que t'as là !\n\n\n\x0E\x01\x09\x04\x00\xE0EElle pourrait donner un bel arbre qui\nrentrerait tout pile ici.\n\n\n\x0E\x01\x09\x04\x03\x200Mais...\x0E\x01\x04\x02\n Je me demande combien\nd'années ça va prendre avant que\nça devienne un grand arbre...
+\x0E\x01\x09\x04\x00\x00Rattrape ce guignol,\nLink !\nFaut que tu sauves <b<Zelda>> !
+\x0E\x01\x09\x04\x00\x05Alors tu recherches les trois dragons ?\nUne fois le Chant du héros reconstitué,\nla voie vers la Triforce s'ouvrira à toi...\n\nSois prudent !
+<r<\x0E\x01\x09\x04\x00\nCette créature>> a recommencé à\ns'agiter. Le sceau créé par dame <b<Zelda\n>>dans son sommeil a bientôt atteint\nsa limite.\n<b<\x0E\x03\x01\x00Link>>, toi et <b<Hergo >>devez\njoindre vos forces pour emprisonner\nla bête à nouveau !\n\nJe compte sur vous !
+\x0E\x01\x09\x04\x00\n\x0E\x03\x01\x00Link ! Toi et <b<Hergo>> devez\njoindre vos forces pour emprisonner\nla bête à nouveau !
+\x0E\x01\x09\x04\x00\x05Tu cherches les trois dragons...?\nLe dragon de foudre devrait\nse trouver dans le désert...
+\x0E\x01\x09\x04\xE00\x03Tu as emprisonné ce monstre par\ntrois fois...
+\x0E\x03\x01\x00Link... Hergo... Vous avez\nà nouveau fait preuve d'une grande\nbravoure.\n\nMais le démon se libère de plus en plus\nfréquemment... Tu dois faire vite,\nLink !\n\nDis\x2010moi, as\x2010tu trouvé une piste quant\nà l'endroit où est cachée la Triforce ?\n\n\n[1]Oui[2]Eh bien...
+...\x0E\x01\x04\x02\x19\nHmm...\n\n\nLorsque tu auras trouvé les trois\ndragons et reconstitué le Chant du\nhéros, la route vers la Triforce\ns'ouvrira...\nLe dragon le plus proche se trouve dans\nla <b<forêt de Firone>>...\n\n\n\x0E\x01\x09\x04\xE00\nMais il s'y est produit quelque chose\nde peu commun.\n\n\n\x0E\x01\x09\x04\xE01\xB00J'ignore comment c'est arrivé,\nmais il y a peu...\n\n\n... le chemin qui mène à la forêt de\nFirone s'est retrouvé inondé.
+J'ai donc fermé la <r<porte qui mène à\nla forêt >>et posé un sceau élémentaire\npour arrêter l'eau...\n\nMais maintenant, on ne peut plus\nl'ouvrir, sinon l'eau inondera le\nvallon...\n\nLe problème est donc de savoir\ncomment tu vas pouvoir te rendre\ndans la forêt de Firone...
+\x0E\x01\x09\x04\x400\x0DHéhé ! On dirait que c'est à moi\nd'entrer en jeu !\n\n\nPendant qu'on combattait, j'ai pensé à\nune nouvelle manière d'utiliser ma\n<r<mégatapulte>> !\n\nSi tu montes dedans et que je tire à\npleine puissance, t'arriveras dans\nla forêt en un clin d'\x153il !
+\x0E\x01\x09\x04\x40C\x202Je sors préparer l'engin !\nSuis\x2010moi, Link !
+\x0E\x01\x09\x04\xE00\x0BEh bien...\n\n\n\nOn peut vraiment compter sur lui.\nMais arriverai\x2010je à supporter son\ncaractère très longtemps...?
+\x0E\x01\x09\x04\xE08\xFF00Bien, Link.\nSois prudent.
+\x0E\x01\x09\x04\x00\x03<b<Hergo >>va te permettre de rejoindre\nla forêt.\n\n\n\x0E\x03\x01\x00Link, il a dû arriver\nquelque chose au <r<dragon d'eau>>.\nPars à sa rencontre dans la forêt !
+\x0E\x01\x09\x04\x00\x07C'est incroyable, ce qui s'est passé\ndans la forêt...\nMais heureusement, tout est rentré\ndans l'ordre.
+\x0E\x01\x09\x04\x00\nTu dois continuer et retrouver les\nautres mélodies du <r<Chant du héros>>.\nLe temps presse !
+\x0E\x01\x09\x04\x00\x03Tu tombes bien, Link.\n\n\n\nJe crois qu'<b<Hergo>> t'attend.\n\n\n\nVa le retrouver <r<près de sa machine>>.
+\x0E\x01\x09\x04\x00\x03<b<Hergo>> t'attend. Va le rejoindre <r<près de\nsa machine>>.
+\x0E\x01\x09\x04\x00\x03Au fait, Link, <b<Hergo\n>>t'attend.\n\n\nVa le rejoindre <r<près de sa catapulte>>.
+\x0E\x01\x09\x04\x00\nUne fois que tu auras triomphé de la\ndernière épreuve, tu seras digne de\nrecevoir la Triforce.\n\nRegagne vite Célesbourg pour passer\ncette épreuve !
+\x0E\x01\x09\x04\x00\x14Excellent, Link ! Tu as\nappris les mélodies des trois dragons.\n\n\nIl ne reste que peu de temps.\nDépêche\x2010toi de retourner dans\nle ciel et de compléter le Chant\ndu héros !
+\x0E\x01\x09\x04\x00\nL'heure est enfin venue.\n\n\n\n\x0E\x03\x01\x00Link !\nRegagne Célesbourg et pars à la\nrecherche de la Triforce !
+\x0E\x01\x09\x04\x00\x09Aaah... Quelle tragédie...!\nAlors que nous pensions avoir enfin\ntriomphé, dame <b<Zelda >>s'est fait\nenlever !\n\x0E\x03\x01\x00Link !\nTu dois absolument empêcher la\nrésurrection de l'Avatar du Néant\ndans le monde du passé !\nOuvre vite la porte du temps pour\nte rendre dans le passé !
+\x0E\x01\x09\x04\x00\x0D\x0E\x03\x01\x00Link !\nTu dois absolument empêcher la\nrésurrection de l'Avatar du Néant\ndans le monde du passé !\nOuvre vite la porte du temps pour\nte rendre dans le passé ! 
+\x0E\x01\x09\x04\x00\x09Comment ?!\nL'<b<Avatar du Néant >>est revenu à la\nvie...!\n\nAah... C'est terrible...\nSi on ne fait rien, c'en est fini de\nnotre monde...
+
+\x0E\x01\x09\x04\x00\n... \x0E\x03\x01\x00Link !\nÀ présent, tu es le seul qui puisses faire\nquelque chose. Le sort du monde est\nentre tes mains !\nJe t'en prie ! Tu dois nous sauver !
+\x0E\x01\x09\x04\x00\x14Tout à l'heure, <b<Hergo>> s'est précipité\ndehors !\n\n\nJ'imagine qu'il est encore à sa\n<r<catapulte>>.
+\x0E\x01\x09\x04\xE00\x08Dis\x2010moi, Link,\nsais\x2010tu jouer de la <b<lyre>> ?\n\n\nVisiblement, non.\n\n\n\nTrès bien, je vais t'apprendre.\nSuis mes instructions.\n\n\nTout d'abord, sors ta lyre avec (^)\npuis prépare\x2010toi à jouer en appuyant\nsur (A).\x0E\x01\x11\x02\x8CD
+Tout en maintenant (A) appuyé, <g<fais\nd'amples mouvements de gauche à\ndroite avec la télécommande Wii>>.
+Appuie sur (^) pour sortir ta lyre.
+Suis le balancement de ma <r<natte>>,\n<g<joue un peu plus lentement>>.
+Suis le balancement de ma <r<natte>>,\n<g<joue un peu plus vite>>.
+\x0E\x01\x0B\x04\x00\x06Tu te débrouilles assez bien, je vois.\n\n\n\nBien, passons à la suite !
+Maintenant, joue en suivant les\nmouvements du <r<cercle de lumière >>!\n\n\nJe vais t'accompagner au chant.\n\n\n\nCe chant te sera nécessaire pour la\nsuite de ta quête.
+
+Suis le <r<cercle de lumière>>,\n<g<joue plus lentement>>...
+Suis le <r<cercle de lumière>>,\n<g<joue plus vite>>...
+<g<Pointe la télécommande Wii vers\nl'écran >>pour te mettre en position !
+Fais des <g<mouvements plus amples\navec la télécommande Wii >>!
+\x0E\x01\x04\x02\x1E\x0E\x01\x06\x02\xFFCD...
+Quand je regarde mamie, je peux pas\nme résoudre à la laisser toute seule...\n\n\n\x0E\x01\x09\x04\x00\xA00Surtout, va pas raconter à mes acolytes\nque je m'occupe d'une vieille, hein !
+Y a vraiment rien ici, c'est déprimant.\nQuand je pense que la vieille\nvit ici depuis des lustres...\n\nElle a jamais pensé à planter un arbre\ndans le coin ?
+
+Ça, c'est un bel arbre ! Je comprends\npourquoi on l'appelle l'arbre de vie !
+\x0E\x01\x06\x02\xFFCDJ'espère qu'il pourra retrouver\nZelda à temps...
+\x0E\x01\x06\x02\xFECD.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.
+\x0E\x01\x06\x02\xFFCDCe temple jadis si calme est devenu\nbien animé...\n\n\nCe n'est pas le moment de penser à ça...\n\n\n\nCe que je craignais le plus s'est\nfinalement produit...
+\x0E\x01\x06\x02\xFFCDCe grand rouquin...\nIl est assez doué de ses mains.\n\n\nJe pourrais peut\x2010être lui demander\nde faire quelques réparations dans\nle temple...
+Cet endroit semble approprié pour\nplanter cette pousse, mais elle\nmettrait trop de temps à pousser\n<r<à notre époque>>...

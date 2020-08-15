@@ -1,0 +1,46 @@
+
+\x0E\x03\x01\x00Link !
+Non, Dame <b<Zelda>> ! Le temps n'est pas\nencore venu, et vous le savez.
+\x0E\x03\x01\x00Link... Pardonne\x2010moi...
+Tu arrives bien tard... La <b<Déesse\n>>aurait\x2010elle fait erreur en te\nchoisissant ?\n\nCrois\x2010tu vraiment que tu pourras\nprotéger dame Zelda ainsi ?
+Ma façon de parler te déplaît ?\n\n\n\nSans mon intervention, dame Zelda\nserait aux mains de l'ennemi à l'heure\nqu'il est...\x0E\x01\x04\x02\x14\n\n\x0E\x01\x06\x02\xFFCDTu ne peux nier l'évidence.\n\x0E\x01\x06\x02\xFFCDTu n'es pas arrivé à temps...\nTu n'as pas su la protéger.
+Dame Zelda s'en est allée accomplir\nsa destinée.\n\n\nÉlu, si tu souhaites réellement lui\nvenir en aide par tes propres moyens...\ntu devras te soumettre aux épreuves\nque tu rencontreras.\nAlors seulement tu pourras être utile\nà dame Zelda... Comprends\x2010tu ?
+\x0E\x01\x12\x04\x00\x01Maître, c'est la langue que parlaient\nautrefois les anciens dieux.\n\n\nJe vais vous traduire leur message.
+<y+<Des abîmes du temps,<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                     <y+<\x0E\x01\x06\x02Í<y+<nous guiderons celui\nQue la Déesse aura<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<<y+<\n                                   <y+<\x0E\x01\x06\x02Í<y+<d'une mission investi.>>
+<y+<La source de la terre<y+<\x0E\x01\x06\x02\x4CD<y+<\n                                    <y+<\x0E\x01\x06\x02Í<y+<la prêtresse a quitté\nPour prendre enfin la route<y+<\x0E\x01\x06\x02\x4CD<y+<\n                              <y+<\x0E\x01\x06\x02Í<y+<vers sa grande destinée.>>
+<y+<Dans l'ocre de <b<Lanelle<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<\n                              <y+<\x0E\x01\x06\x02Í<y+<l'enfant au grand destin\nPasse la <r<porte du temps<y+<<y+<\x0E\x01\x06\x02\x4CD<y+<<r<\n                               <y+<<y+<\x0E\x01\x06\x02Í<y+<vers un monde lointain.>>
+Vous avez obtenu la <y<stèle ambre >>!\nC'est une vieille plaque en pierre\ntrès lourde.
+
+Tiens, Link...\nTu es toujours en vie ?\nDécidément, nous ne cessons\nde nous rencontrer.
+Encore et encore... C'est sans doute\nle <r<fil rouge du destin >>qui nous relie...
+Regarde...
+Le petit toutou de cette Déesse...\nQuel était son nom, déjà ? Ah oui,\n<b<Impa>>... Elle a détruit la <r<porte du\ntemps>>...
+Mais d'après ces inscriptions, il\nsemblerait qu'il en existe une autre\ndans ce monde... \x0E\x01\x04\x02\x1E\x0E\x01\x06\x02\x1CDMerveilleux !\x0E\x01\x06\x02Í
+Depuis la dernière fois, j'ai cherché\nsans relâche une porte du temps...
+Et l'absence de toute piste m'a plongé\ndans un profond désespoir...
+J'ai cru que je ne reverrais plus jamais\ncette délicieuse jeune fille...
+Mais j'arrive ici, et qu'y apprends\x2010je ?\x0E\x01\x04\x02(\nUne fabuleuse nouvelle qui me comble\nde joie !\x0E\x01\x04\x02( Il reste une porte du temps !
+
+
+Je vais pouvoir capturer la jeune fille\npour enfin ramener mon maître à la\nvie...\n\nTout redevient possible !
+Mais parlons de ton avenir,\nLink...\n\n\nJe suis prêt à t'épargner l'enfer\nque je t'avais promis lors de notre\ndernière rencontre...
+Mais pour cela, tu vas devoir me\nrévéler bien gentiment où se trouve\nla porte du temps...~~~\n\nTu sais où elle est, n'est\x2010ce pas ?
+Oh, tu te montres fort peu coopératif...\nBien, tu ne me laisses pas le choix,\nje vais devoir te forcer la main !
+Cette peau délicate... Ces bras aux\nmuscles souples... Magnifiques,\nne trouves\x2010tu pas ?
+\x0E\x01\x05\x04\n\x00Oui...
+\x0E\x01\x05\x04\x14\x00Voici...
+\x0E\x01\x05\x04\x14\x00\x0E\x01\x08\x02\x1CDMa véritable forme !
+\x0E\x01\x05\x04\x14\x00\x0E\x01\x08\x02\x1CDSublime !
+\x0E\x01\x05\x04\x19\x00\x0E\x01\x08\x02\x2CDÉblouissante !
+Lorsque je suis sous cette forme\nresplendissante, je ne possède\nqu'un seul défaut...
+Je suis incapable de me contrôler...\x0E\x01\x04\x02-\n\n\n\n\x0E\x03\x01\x00Link ! Le <r<fil rouge du\ndestin >>qui nous lie...\n\n\n\x0E\x01\x06\x02\xFFCDS'il est rouge,\x0E\x01\x04\x02< c'est sans aucun doute\nparce qu'il est <r<teinté de ton sang >>!
+
+
+En recevant la flamme de Din, votre épée\ns'est emplie d'une lumière sacrée qui peut\nrepousser les démons !
+\x0E\x01\x12\x04\x00\x01Maître, ~~~votre épée a acquis sa vraie\nforme à l'aide des trois flammes\nsacrées... Elle est devenue l'<r<épée de\nlégende>>.
+Grâce à elle, vous pourrez éveiller\nle pouvoir de la <b<porte du temps>>.\n\n\nJe vous recommande de vous rendre\nau <b<temple du sceau>>.
+
+Impressionnant... Tu es parvenu\njusqu'ici malgré ton frêle corps\nd'humain...
+Ce symbole sacré que tu portes sur\nla main n'a rien d'une coquetterie... \n\n\nC'était donc pour qu'un jour je te\nl'enseigne que la Déesse m'a transmis\nautrefois cet air...\n\nTrès bien, petit humain. Voici ma\nmélodie du <b<Chant du héros>>.
+
+Vous avez appris une <y<mélodie du\nChant du héros >>!

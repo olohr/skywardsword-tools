@@ -1,0 +1,802 @@
+Hier ist nichts Brauchbares.
+Du solltest besser nicht in anderer Leute\nSchränke stöbern!
+Du hast einen <y<kleinen Schlüssel >>erhalten!\nDamit lassen sich verschlossene Türen in\ndiesem Gebiet öffnen. Du kannst ihn aber\nnur ein einziges Mal verwenden.
+Du hast einen \x0E\x00\x03\x02\x07grünen Rubin>>\x0E\x00\x03\x02\x07 >>erhalten!\nEr ist <r<1 Rubin >>wert. Sammle so viele davon,\nwie du nur kannst!
+Du hast einen \x0E\x00\x03\x02\x08blauen Rubin>> erhalten!\nEr ist <r<5 Rubine >>wert. Das nennt man einen\nglücklichen Fund!
+Du hast einen \x0E\x00\x03\x02\x08blauen Rubin>> gefunden!\nEr ist <r<5 Rubine >>wert. Steck ihn in deinen\nBeutel und nimm ihn mit!
+Du hast einen <r+<roten Rubin>> erhalten!\nEr ist <r<20 Rubine >>wert. Was für ein Glück!
+Das <y+<Triforce>><y+< >>ist vollständig! Mit seiner\nMacht kannst du Zeldas Bitte nachkommen\nund den <b<Todbringer>> <r<vernichten>>.
+Du hast ein <y<Herz >>gefunden!\nEs ist mit heilender Energie erfüllt und\nstellt <r<ein Herz>> wieder her.
+Du hast einen<y< verschossenen Pfeil \n>>gefunden! Er ist noch ganz und kann\nerneut verwendet werden. Praktisch!
+
+Du hast <y<10 Pfeile>> erhalten!\nDu kannst sie mit deinem Bogen abfeuern.\nIhre Anzahl ist begrenzt, also setze sie mit\nBedacht ein!
+
+Du hast das <y<Übungsschwert >>erhalten!\nDieses äußerst scharfe Schwert wird\nvon den Schülern der Ritterschule bei\nÜbungskämpfen verwendet.\nDrücke (1), um dir anzusehen, welche\nGegenstände du besitzt.\x0E\x01\x11\x02\x4CD
+Du hast das <y<Schwert der Göttin>> erhalten!\nDieses legendäre Schwert ist erfüllt vom\nheiligen Licht der Göttin.
+Du hast das <y<Schwert der Göttin>> erhalten!\nDieses legendäre Schwert ist erfüllt vom\nheiligen Licht der Göttin.\n\nDie Erinnerungen an deine zahlreichen\nKämpfe durchströmen es, wenn du es gen\nHimmel hältst.\n\n<r<<pling>Der Himmelsstrahl fügt nun maximalen\nSchaden zu>>!
+
+
+Du hast das <y<wahre Master-Schwert>> wieder!\nNun kannst du die Bokblins endlich \nzurechtstutzen und wieder mit <pling><b<Phai\n>>sprechen.
+
+
+
+Du hast das <y<Seelengefäß >>erhalten!\nDiese geheimnisvolle Pflanze spiegelt\ndeine Seele wider, Link.
+
+Du hast den <y<Holzbogen >>erhalten!\nDamit kannst du von weitem mit hoher\nAngriffskraft Pfeile auf ein Ziel feuern.\n\n<r<Verlierst >>du beim Zielen den <r<Fokus>>,\ndrücke einfach (v), um deine Ansicht \nwieder zu zentrieren.\x0E\x01\x11\x02\x9CD
+Du hast den <y<Greifhaken >>erhalten!\n\n\n\nEiner der drei Schätze der Göttin.\nNutze die Klaue an der Kette, um dich\nan ein <r<Greifhaken-Ziel>> oder an <r<Efeu>>\nziehen zu lassen.\n<r<Verlierst >>du beim Zielen den <r<Fokus>>,\ndrücke einfach (v), um deine Ansicht \nwieder zu zentrieren.\x0E\x01\x11\x02\x9CD
+Du hast den <y<Greifhaken>> wieder!\nEndlich kannst du dich wieder an weit\nentfernte Orte hangeln.
+Du hast die <y<Vogelfigur >>erhalten!\nDiese Figur weist dich als Sieger des\nheutigen zeremoniellen Wettfluges aus.\nZelda wird sich freuen!
+
+
+
+Du hast den <y<gesegneten Schlüssel>> erhalten!\nDiese Holzschnitzerei strahlt Güte aus. Sie\nähnelt der Statue im oberen Stockwerk.
+Du hast den <y<Mysterienkristall >>erhalten!\nEinige der schwach leuchtenden\nKristallquadrate scheinen zu fehlen.
+Du hast den <y<Tentakelschlüssel >>erhalten!\nDiese Schnitzerei sieht aus wie ein\nTintenfisch mit unzähligen Saugnäpfen.
+Du hast ein <y<Schlüsselfragment >>erhalten!\nEs ist Teil des Schlüssels, der das\nverschlossene Tor zum Tempel öffnet.\n\nSammle alle 5 Fragmente, um ihn zu\nvervollständigen. Es fehlen dir nur\nnoch <r<4 Fragmente>>!
+Du hast ein <y<Schlüsselfragment >>erhalten!\nEs ist Teil des Schlüssels, der das\nverschlossene Tor zum Tempel öffnet.\nEs fehlen dir nur noch<r< 3 Fragmente>>!
+Du hast ein <y<Schlüsselfragment >>erhalten!\nEs ist Teil des Schlüssels, der das\nverschlossene Tor zum Tempel öffnet.\nEs fehlen dir nur noch<r< 2 Fragmente>>!
+Du hast ein <y<Schlüsselfragment >>erhalten!\nEs ist Teil des Schlüssels, der das\nverschlossene Tor zum Tempel öffnet.\nEs fehlt dir nur noch<r< 1 Fragment>>!
+Du hast das letzte <y<Schlüsselfragment>>\nerhalten. Nun kannst du das Tor zum\nTempel öffnen.\n\nBegib dich zurück zum Gipfel und mache\ndich im Tempel auf die Suche nach Zelda.
+Du hast den <y<goldenen Schlüssel>> erhalten!\nEr ist seltsam geformt und mit dekorativen\nMustern überzogen.
+Du hast den <y<Drachenschlüssel >>erhalten!\nDieser in sich verschlungene Drache\nwurde aus strahlendem Gold gefertigt.
+Du hast das <y<uralte Gebilde>> erhalten!\nEs ist aus Gold gefertigt und sieht aus wie\nein Bestandteil von etwas Größerem. Seine\nOberfläche ist mit Schaltkreisen versehen.
+Du hast einen \x0E\x00\x03\x02\nsilbernen Rubin >>erhalten!\nEr ist sagenhafte <r<100 Rubine>> wert!\nFühlt sich gut an, nicht wahr?
+Du hast einen \x0E\x00\x03\x02\x0Bgoldenen Rubin >>erhalten!\nEr ist unglaubliche <r<300 Rubine>> wert!\nAber behalte das lieber für dich...
+Du hast eine \x0E\x00\x03\x02\x0CRubin-Falle>> erhalten!\nDir wurden <r<10 Rubine >>abgezogen.\nWie gemein...
+Du hast<r< 5 >><y<Juwelen der Güte >>erhalten.\nEin Juwel der Güte beinhaltet menschliche\nDankbarkeit in kristallisierter Form.\n\nHilfst du einem Menschen, so erhältst du\nstets <r<5 Einheiten>> davon.
+Du hast <y<Glitzersporen >>erhalten!\nDieser feine Puder wird von Glitzerpilzen\nfreigesetzt.
+
+
+
+Du hast <y<5 Bomben >>erhalten!\nWirf oder rolle sie, um Objekte in die Luft\nzu sprengen. Nimm Bomben, die du\nunterwegs findest, für später mit.
+Du hast <y<10 Bomben >>erhalten!\nWirf oder rolle sie, um Objekte in die Luft\nzu sprengen. Bis du sie brauchst, kannst\ndu sie in deiner Bombentasche sammeln.
+Du hast eine <y<Ausdauerfrucht >>erhalten!\nDiese geheimnisvolle Frucht stellt deine\nAusdauer wieder komplett her.
+Du hast eine von <y<Farores Tränen >>erhalten!\nIhre heilige Macht hindert die Hüter für\n<r<90 Sekunden >>daran, sich zu bewegen.\n\nSammle alle <r<15>>, um diese Prüfung zu\nbestehen!
+Du hast <y<Farores Tränen >>gefunden.\nDies hat deine Seele reifen lassen,\nLink!\n\nDoch noch ist die Prüfung nicht vorbei...\nBegib dich vorsichtig zum Ausgang, um ein\nZeichen deiner Reife zu erhalten.
+Du hast eine von<y< Dins Tränen >>erhalten!\nIhre heilige Macht hindert die Hüter für\n<r<90 Sekunden >>daran, sich zu bewegen.\n\nSammle alle <r<15>>, um diese Prüfung zu\nbestehen!
+Du hast <y<Dins Tränen >>gefunden.\nDies hat deine Seele reifen lassen,\nLink!\n\nDoch noch ist die Prüfung nicht vorbei...\nBegib dich vorsichtig zum Ausgang, um ein\nZeichen deiner Reife zu erhalten.
+Du hast eine von <y<Nayrus Tränen >>erhalten!\nIhre heilige Macht hindert die Hüter für\n<r<90 Sekunden >>daran, sich zu bewegen.\n\nSammle alle <r<15>>, um diese Prüfung zu\nbestehen!
+Du hast <y<Nayrus Tränen >>gefunden.\nDies hat deine Seele reifen lassen,\nLink!\n\nDoch noch ist die Prüfung nicht vorbei...\nBegib dich vorsichtig zum Ausgang, um ein\nZeichen deiner Reife zu erhalten.
+Du hast eine <y<heilige Träne>> erhalten!\nIhre heilige Macht hindert die Hüter für\n<r<90 Sekunden >>daran, sich zu bewegen.\n\nSammle alle <r<15>>, um diese Prüfung zu\nbestehen!
+Du hast alle <y<heiligen Tränen >>gefunden.\nDies hat deine Seele reifen lassen,\nLink!\n\nDoch noch ist die Prüfung nicht vorbei...\nBegib dich vorsichtig zum Ausgang, um ein\nZeichen deiner Reife zu erhalten.
+Du hast eine <y<Lichtfrucht >>erhalten! Diese\nmysteriöse Frucht lässt <r<30 Sekunden>> lang\nSignallichter erscheinen, die dir den Weg\nzu den übrigen Tränen weisen.
+Du hast <r<ein>> <y<Juwel der Güte>> erhalten!\nDieses Juwel ist aus der Dankbarkeit einer\ndir unbekannten Person entstanden.\n\nSammle für <b<Morsego >>noch mehr\nDankbarkeit in kristallisierter Form.
+Du hast den <y<magischen Krug >>erhalten!\nDiesem uralten und mysteriösen Artefakt\nentströmt starker Wind.\n\n<r<Verlierst >>du beim Zielen den <r<Fokus>>,\ndrücke einfach (v), um deine Ansicht \nwieder zu zentrieren.\x0E\x01\x11\x02\x9CD
+Du hast den <y<magischen Krug >>wieder!\nEndlich kannst du wieder Dinge durch die\nGegend pusten.
+Du hast die <y<Dungeon-Karte>> erhalten!\nSie zeigt dir eine Übersicht deiner \nUmgebung und welche Räume du noch\naufsuchen musst.
+Sie weist dich außerdem auf Schatztruhen\nhin! Behalte sie deshalb gut im Auge.
+
+Du hast die <y<Schleuder >>erhalten!\nVerschieße mit ihr Deku-Kerne, um deine\nGegner zu betäuben.\n\n<r<Verlierst >>du beim Zielen den <r<Fokus>>,\ndrücke einfach (v), um deine Ansicht \nwieder zu zentrieren.\x0E\x01\x11\x02\x9CD
+Du hast die <y<Schleuder >>wieder!\nJetzt kannst du endlich die Gegner auf\nPatrouille betäuben.
+Du hast die <y<Streu-Schleuder >>wieder!\nJetzt kannst du endlich die Gegner auf\nPatrouille betäuben.
+Du hast den <y<Käfer >>erhalten!\nDieses käferartige Artefakt fliegt auf\nmagische Weise durch die Luft!\n\nZeige mit der Wii-Fernbedienung auf den\n<r<Bildschirm >>und lass den Käfer durch\nDrücken von (A) fliegen!\n\n<r<Verlierst >>du beim Zielen den <r<Fokus>>,\ndrücke einfach (v), um deine Ansicht \nwieder zu zentrieren.\x0E\x01\x11\x02\x9CD
+Du hast <y<Wasser >>erhalten!\nFarbloses, klares, reines Wasser. Es könnte\nsich vielleicht noch als nützlich erweisen.
+Du hast <y<Pilzsporen >>erhalten!\nSie stammen von einem gigantischen Pilz.\nEs kann nicht schaden, sie mitzunehmen.
+Du hast <y<Pilzsporen >>erhalten!\nSie stammen von einem gigantischen Pilz.\nMit ihnen kannst du die Verletzungen des\nVogels heilen!
+Du hast die <y<Grabklauen >>erhalten!\nDrücke (A), um mit ihnen in auffällig\naussehendem Erdreich zu graben.
+Du hast die <y<Mogma-Klauen >>wieder!\nNutze sie, um dich durch Mogma-Löcher\nzu graben.
+Du hast <y<5 Deku-Kerne>> erhalten!\nDiese kleinen Kerne kannst du mit der\nSchleuder verschießen. Achte dabei immer\nauf deinen Munitionsvorrat.
+
+
+
+
+
+Du hast <y<10 Deku-Kerne >>erhalten!\nDiese kleinen Kerne kannst du mit der\nSchleuder verschießen. Achte dabei immer\nauf deinen Munitionsvorrat.
+
+
+
+
+Du hast einen <y<Rüstungstrank >>erhalten!\nDieser Trank halbiert jeglichen Schaden,\nden du erleidest! Die Wirkung einer\nFlasche hält <r<3 Minuten >>an.
+Du hast einen <y<Rüstungstrank V>> erhalten!\nDieser verfeinerte Trank schützt dich für\n<r<3 Minuten>> vor jeglichem Schaden.
+
+Du hast die <y<Wasserdrachenschuppe \n>>erhalten! Einer der drei Schätze der\nGöttin. Er ermöglicht dir zu tauchen und\ndie Wasserschraube auszuführen.
+
+Du hast die <y<Insekten-Medaille >>erhalten!\nDamit findest du Insekten leichter.\nSuche auf der Karte nach \x0E\x02\x04\x02\x1ACD!
+Du hast das <y<Schmetterlingsnetz >>erhalten!\nFange damit flink und leise Insekten und\nandere Dinge.
+Du hast eine <y<Fee >>gefunden!\nDiese gütigen Wesen füllen <r<sechs >>deiner\nHerzen auf.
+Du hast eine <y<Fee >>gefunden!\nDiese gütigen Wesen füllen <r<sechs >>deiner\nHerzen auf.\n\nDu besitzt jedoch keine leere <y<Flasche>>,\nalso lass sie wieder frei.
+
+Du hast <y<heiliges Wasser >>erhalten!\nDieses reine Wasser hat die Kraft, den\nWasserdrachen zu heilen. Diese Kraft ist\nin keinem normalen Wasser zu finden.
+Du hast <y<heiliges Wasser>> erhalten!\nEs sieht wie gewöhnliches Wasser aus,\nstrahlt jedoch spürbar Energie aus.
+Du hast den <y<Greifkäfer>> erhalten!\nMit seinen größeren Zangen kann er\nItems aufheben und tragen!\n\nDrücke (Z), um nach unten zu blicken\nund ein getragenes Item abzuwerfen.\x0E\x01\x11\x02\x7CD
+Du hast den <y<Greifkäfer>> erhalten!\nMit seinen größeren Zangen kann er\nItems aufheben und tragen!\n\nDrücke (Z), um nach unten zu blicken\nund ein getragenes Item abzuwerfen.\x0E\x01\x11\x02\x7CD
+Du hast den <y<Flinkkäfer>> erhalten!\nEr ist um einiges schneller als dein alter\nKäfer. Aber pass auf, dass du damit die\nKurve kriegst!
+Du hast den <y<Kraftkäfer>> erhalten!\nEr kann viel länger fliegen als dein alter\nKäfer. Nun kannst du auch Orte, die weiter\nentfernt sind, erforschen!
+Du hast einen <y<Herztrank>> erhalten!\nSetze ihn als Taschen-Item ein, um\n<r<8 Herzen >>wiederaufzufüllen.
+Du hast einen <y<Herztrank V>> erhalten!\nDieser verfeinerte Herztrank füllt <r<all\ndeine Herzen >>wieder auf.
+
+Du hast einen <y<Herztrank SV>> erhalten!\nDiesen stark verfeinerten Herztrank\nkannst du <r<2-mal>> genießen. Er füllt <r<all\ndeine Herzen >>wieder auf.
+
+
+Du hast einen <y<Ausdauertrank>> erhalten!\nTrinke ihn, und deine Ausdaueranzeige\nleert sich langsamer. Die Wirkung einer\nFlasche hält <r<3 Minuten >>an.
+Du hast einen <y<Ausdauertrank V>> erhalten!\nDieser verfeinerte Trank verhindert, dass\nsich deine Ausdaueranzeige leert. Die\nWirkung einer Flasche hält <r<3 Minuten >>an.
+Du hast einen <y<Lufttrank>> erhalten!\nTrinke ihn, und deine Luftanzeige leert\nsich langsamer. Die Wirkung einer Flasche\nhält <r<3 Minuten >>an.
+Du hast einen <y<Lufttrank V>> erhalten!\nDieser verfeinerte Trank verhindert, dass\nsich deine Luftanzeige leert. Die Wirkung\neiner Flasche hält <r<3 Minuten >>an.
+Du hast eine <y<Fee >>gefangen!\nDiese gütigen Wesen füllen <r<sechs >>deiner\nHerzen auf.\n\nIn einer Flasche mitgenommen spendet sie\ndir ihre heilende Energie <r<automatisch,\nwenn deine Kräfte schwinden>>.
+
+Du hast den <y<Eisenbogen>> erhalten!\nDieser Bogen wurde für äußerst erfahrene\nSchützen gefertigt. Seine Kraft übersteigt\ndie deines alten Bogens.
+Du hast den <y<heiligen Bogen>> erhalten!\nDie heilige Macht der Göttin verleiht ihm\nKraft und bringt Verderben über all deine\nFeinde!
+Du hast eine <y<Bombentasche>> gefunden!\nIn dieser nützlichen Tasche kannst du\nDonnerblumen mit dir herumtragen.\n\nSie ermöglicht dir das Vordringen an Orte,\ndie dir sonst verwehrt bleiben. Frage <b<Ferri>>,\nob er sie dir leiht!
+Du hast eine <y<Bombentasche>> erhalten!\n<b<Ferri >>hat sie dir netterweise überlassen.\nBeseitige mit ihr Hindernisse.
+Du hast die <y<Bombentasche >>wieder!\nKrach-Bumm! Endlich kannst du wieder\nSachen in die Luft sprengen!
+Du hast einen <y<Herzcontainer>> erhalten!\nDeine Lebensenergie wurde um <r<ein Herz \n>>erhöht und wieder vollständig aufgefüllt!
+Du hast ein <y<Herzteil>> erhalten!\nSammle vier, um deine Lebensenergie\num ein Herz zu erhöhen.\nDir fehlen nur noch <r<drei >>weitere!
+Du hast ein <y<Herzteil>> erhalten!\nSammle vier, um deine Lebensenergie\num ein Herz zu erhöhen.\nDir fehlen nur noch <r<zwei >>weitere!
+Du hast ein <y<Herzteil>> erhalten!\nSammle vier, um deine Lebensenergie\num ein Herz zu erhöhen.\nDir fehlt nur noch <r<ein >>weiteres!
+Du hast ein <y<Herzteil>> erhalten!\nDamit hast du nun einen vollständigen\nHerzcontainer. Deine Lebensenergie wird\num ein Herz erhöht.
+Du hast das <y+<Triforce des Mutes >>erhalten!\nDiese Macht wurde einst den Menschen\nvon den Göttern geschenkt.\n\nSammle die drei Artefakte, und dir wird\ndie <r<unendliche Kraft>> geschenkt, die dir\njeden noch so großen Wunsch gewährt.
+Sammle <r<zwei>> weitere Artefakte, um das\nTriforce zu vervollständigen.
+Sammle <r<ein>> weiteres Artefakt, um das\nTriforce zu vervollständigen.
+Du hast das <y+<Triforce der Kraft >>erhalten!\nDiese Macht wurde einst den Menschen\nvon den Göttern geschenkt.\n\nSammle die drei Artefakte, und dir wird\ndie <r<unendliche Kraft>> geschenkt, die dir\njeden noch so großen Wunsch gewährt.
+Du hast das <y+<Triforce der Weisheit\n>>erhalten! Diese Macht wurde einst den\nMenschen von den Göttern geschenkt.\n\nSammle die drei Artefakte, und dir wird\ndie <r<unendliche Kraft>> geschenkt, die dir\njeden noch so großen Wunsch gewährt.
+Du hast die <y<antike Seekarte>> erhalten!\nDiese Karte stammt aus einer Zeit, in der\ndiese Wüste noch ein Meer war.
+Du hast die <y<Mogma-Klauen>> erhalten!\nSolche Grabklauen bekommen selbst\nMogma nur selten zu sehen!\n\nMit ihnen kannst du dich sogar <g<unter der\nErde vorwärts bewegen>>. Halte Ausschau\nnach geeigneten Löchern!
+Du hast eine <y<Herz-Medaille>> erhalten!\nTrägst du sie bei dir, wirst du häufiger\nauf Herzen stoßen. Nimm sie mit, falls dir\ndeine Gesundheit am Herzen liegt.
+Du hast eine <y<Herz-Medaille>> erhalten!\nHast du sie bei dir, so kannst du auch\nim <r<Helden-Modus >>Herzen finden.\n\nSie bewirkt außerdem, dass Herz-Blumen\nerblühen. Nimm sie mit, falls dir deine\nGesundheit am Herzen liegt.
+Du hast eine <y<Rubin-Medaille>> erhalten!\nTrägst du sie bei dir, wirst du häufiger\nals sonst auf Rubine stoßen. Nimm sie mit,\num schnell zu Reichtum zu kommen.
+Du hast die <y<Schatz-Medaille>> erhalten!\nTrägst du sie bei dir, wirst du häufiger\nals sonst auf Schätze stoßen. Nimm sie mit,\nwenn du auf Schatzsuche gehst.
+Du hast die <y<Medizin-Medaille>> erhalten!\nTrägst du sie bei dir, kannst du Effekte\ndeiner Tränke verlängern. Nimm sie mit,\nwenn du Tränke im Gepäck hast.
+Du hast die <y<Dämonen-Medaille>> erhalten!\nTrägst du sie bei dir, wirst du häufiger\nals sonst auf Rubine und Schätze stoßen.\n\nDoch Vorsicht! Ein Fluch lastet auf ihr,\nder dich am Öffnen deiner Tasche hindert!
+Du hast die <y<Streu-Schleuder>> erhalten!\nHalte (A) gedrückt, um mit einem Schuss\neinen großen Bereich abzudecken.
+
+
+Du hast die <y<mittlere Geldbörse>> erhalten!\nSie bietet etwas mehr Platz als deine\nalte Geldbörse. In ihr kannst du bis zu\n<r<500 Rubine >>aufbewahren!
+Du hast die <y<große Geldbörse>> erhalten!\nSie bietet viel mehr Platz als deine\nalte Geldbörse. In ihr kannst du bis\nzu <r<1000 Rubine >>aufbewahren!
+Du hast die <y<riesige Geldbörse>> erhalten!\nSie bietet noch viel mehr Platz als deine\nalte Geldbörse. In ihr kannst du bis zu\n<r<5000 Rubine >>aufbewahren!
+Du hast die <y<Luxus-Geldbörse>> erhalten!\nDiese enorme Geldbörse lässt selbst den\nreichsten Händler erblassen. In ihr kannst\ndu bis zu <r<9000 Rubine >>aufbewahren!
+Du hast die <y<Abenteurertasche>> erhalten!\nSie bietet Platz für Items, die du während\ndeines Abenteuers finden wirst.
+Du hast die <y<Abenteurertasche>> wieder!\nUnd sieh nur! Deine restlichen vermissten\nItems sind auch dabei!
+Du hast deine <y<Abenteurertasche\n>>vergrößert! Nun kannst du <r<ein\nweiteres Item>> mit dir führen.
+Du hast eine <y<Lebenskraft-Medaille>>\nerhalten! Trägst du sie bei dir, erhältst du\n<r<ein weiteres Herz>>. Entscheide selbst, wann\nes lohnt, diese Medaille mit dir zu führen.
+
+Du hast den <y<Holzschild>> erhalten!\nEr ist leicht zu handhaben, hält aber\nnicht viel aus und brennt leicht.
+Dein Schild wurde repariert!\nEr sieht aus wie neu!
+Du hast den <y<harten Holzschild>> erhalten!\nEr ist immer noch leicht zu handhaben,\nhält aber mehr aus als sein Vorgänger.
+Du hast den <y<starken Holzschild>> erhalten!\nDieser leicht zu handhabende Schild ist der\nrobusteste aller Holzschilde.
+Du hast den <y<Eisenschild>> erhalten!\nDieser robuste Schild zerbricht nicht so\nleicht und brennt auch nicht. Allerdings \nsolltest du dich vor Elektrizität hüten!
+Du hast den <y<harten Eisenschild>> erhalten!\nDieser robuste Schild hält mehr aus als\nsein Vorgänger.
+Du hast den <y<starken Eisenschild>> erhalten!\nDieser äußerst robuste Schild gilt als der\nwiderstandsfähigste aller Eisenschilde.
+Du hast den <y<heiligen Schild>> erhalten!\nDank der Kraft, die ihn durchströmt,\n<r<repariert er sich selbst>>.\n\nEr ist nicht sehr haltbar und zerbricht\nleicht, wehrt dafür aber Feuer,\nElektrizität und Flüche ab.
+Du hast den <y<heiligen Schild>> erhalten!\nDank der Kraft, die ihn durchströmt,\nrepariert er sich selbst. Er kann Feuer,\nElektrizität und Flüche abwehren.
+Du hast den <y<hochheiligen Schild>> erhalten!\nDieser mysteriöse Schild repariert sich\nselbst und ist um einiges robuster als sein\nVorgänger.
+Du hast den <y<göttlichen Schild>> erhalten!\nDieser mysteriöse Schild repariert sich\nselbst und ist um ein Vielfaches robuster\nals sein Vorgänger.
+Du hast den <y<Hylia-Schild>> erhalten!\nEr enthält die Macht des Helden.\nNichts und niemand kann ihn zerstören!
+Du hast den <y<Wundertrank>> erhalten!\nDieser mysteriöse Trank stellt deine\nSchildanzeige <r<komplett>> wieder her und\nfüllt außerdem <r<4>> Herzen auf.
+Du hast den <y<Wundertrank V>> erhalten!\nDieser verfeinerte Trank stellt deine\nSchildanzeige <r<automatisch>> wieder her und\nfüllt außerdem <r<8>> Herzen auf.
+Du hast die <y<kleine Deku-Tasche >>erhalten!\nMit ihr kannst du <r<10 >>weitere Deku-Kerne\nbei dir tragen. Sehr nützlich, wenn du gern\ndie Schleuder einsetzt.
+Du hast die <y<mittlere Deku-Tasche>>\nerhalten! Mit ihr kannst du <r<20 >>weitere\nDeku-Kerne bei dir tragen. Sehr nützlich,\nwenn du gern die Schleuder einsetzt.
+Du hast die <y<große Deku-Tasche>> erhalten!\nMit ihr kannst du <r<30>> weitere Deku-Kerne\nbei dir tragen. Sehr nützlich, wenn du gern\ndie Schleuder einsetzt.
+Du hast den <y<kleinen Köcher>> erhalten!\nMit ihm kannst du <r<5>> weitere Pfeile bei dir\ntragen. Nutze ihn, wenn du häufig deinen\nBogen einsetzen möchtest.
+Du hast den <y<mittleren Köcher>> erhalten!\nMit ihm kannst du <r<10>> weitere Pfeile bei dir\ntragen. Nutze ihn, wenn du häufig deinen\nBogen einsetzen möchtest.
+Du hast den <y<großen Köcher>> erhalten!\nMit ihm kannst du <r<15>> weitere Pfeile bei dir\ntragen. Nutze ihn, wenn du häufig deinen\nBogen einsetzen möchtest.
+Du hast die <y<kleine Bombentasche >>erhalten! \nMit ihr kannst du <r<5>> weitere Bomben bei dir\ntragen. Praktisch, wenn du häufig Bomben\neinsetzen möchtest.
+Du hast die <y<mittlere Bombentasche\n>>erhalten! Mit ihr kannst du <r<10>> weitere\nBomben bei dir tragen. Praktisch, wenn du\nhäufig Bomben einsetzen möchtest.
+Du hast die <y<große Bombentasche\n>>erhalten! Mit ihr kannst du <r<15>> weitere\nBomben bei dir tragen. Praktisch, wenn du\nhäufig Bomben einsetzen möchtest.
+Du hast die <y<Peitsche>> erhalten!\nAn ihrer Spitze befindet sich eine magische\nLichtkugel, die an den unterschiedlichsten\nDingen haften kann.\nDrücke (Z), um ein Ziel anzuvisieren und\nbewege die Wii-Fernbedienung ruckartig,\num deine Peitsche zu schwingen.\x0E\x01\x11\x02\x7CD
+Du hast die <y<Peitsche>> wieder!\nSieh dich um, vielleicht gibt es etwas, das\ndu jetzt erreichen kannst!
+Du hast die <y<Feuerohrringe>> erhalten!\nEiner der drei Schätze der Göttin.\nMit ihrer Hilfe kannst du selbst der\ngrößten Hitze trotzen. 
+
+Du hast das <y<Meisterfänger-Netz>> erhalten!\nDein Netz ist nun doppelt so groß wie\nzuvor. Damit solltest du selbst die\nschnellsten Insekten erwischen.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x3CD>> gefangen!\nSchwärme dieser Insekten fallen alle zehn\nJahre über das Land her und vernichten\ndie komplette Vegetation.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x3CD>> erhalten!\nSchwärme dieser Insekten fallen alle zehn\nJahre über das Land her und vernichten\ndie komplette Vegetation.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x4CD>> gefangen!\nWird der Panzer dieses Insekts poliert,\ngewinnt es an Stärke. Es zählt zu den\nkräftigsten aller Insekten.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x4CD>> erhalten!\nWird der Panzer dieses Insekts poliert,\ngewinnt es an Stärke. Es zählt zu den\nkräftigsten aller Insekten.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x5CD>> gefangen!\nErhitzt man ihr Gift, erhält man eine\nwirksame Medizin. Halte dich von\ngroßen Schwärmen fern!
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x5CD>> erhalten!\nErhitzt man ihr Gift, erhält man eine\nwirksame Medizin. Halte dich von\ngroßen Schwärmen fern!
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x6CD\n>>gefangen! Mit seinen starken Greifarmen\nmacht dieses Insekt Jagd auf seine Beute.\nEs lebt gerne in luftigen Höhen.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x6CD\n>>erhalten! Mit seinen starken Greifarmen\nmacht dieses Insekt Jagd auf seine Beute.\nEs lebt gerne in luftigen Höhen.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x7CD>> gefangen!\nAngeblich färbt sich dieses Insekt rot,\nwenn man es mit Erz füttert. Ist sehr\nruhig und bewegt sich kaum.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x7CD>> erhalten!\nAngeblich färbt sich dieses Insekt rot,\nwenn man es mit Erz füttert. Ist sehr\nruhig und bewegt sich kaum.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x8CD>> gefangen!\nEin weit verbreitetes Insekt. Manchmal\nhält es sich auch an seltsamen Orten auf.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x8CD>> erhalten!\nEin weit verbreitetes Insekt. Manchmal\nhält es sich auch an seltsamen Orten auf.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x9CD>> gefangen!\nMan sagt, in dem Bau des Insekts würde\nsich eine Wasserquelle befinden. So kann\nes in der Wüste überleben.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x9CD>> erhalten!\nMan sagt, in dem Bau des Insekts würde\nsich eine Wasserquelle befinden. So kann\nes in der Wüste überleben.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xACD>> gefangen!\nDieses Insekt verbringt zehn Jahre seines\nLebens als Larve unter der Erde und lässt\nsich nur schwer fangen!
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xACD>> erhalten!\nDieses Insekt verbringt zehn Jahre seines\nLebens als Larve unter der Erde und lässt\nsich nur schwer fangen!
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xBCD>> gefangen!\nDie Facettenaugen dieses Insekts glitzern\nwie Rubine. Seine langen Flügel sind\ndurchsichtig wie Glas.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xBCD>> erhalten!\nDie Facettenaugen dieses Insekts glitzern\nwie Rubine. Seine langen Flügel sind\ndurchsichtig wie Glas.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xCCD>> gefangen!\nDieses Insekt liebt alles, was stinkt und\nrollt es in sein Nest. Sieht dabei ziemlich\nniedlich aus.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xCCD>> erhalten!\nDieses Insekt liebt alles, was stinkt und\nrollt es in sein Nest. Sieht dabei ziemlich\nniedlich aus.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xDCD>> gefangen!\nSehr beliebt bei den Kindern im\nWolkenhort. Achtung! Kneift gerne\nmit den Zangen!
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xDCD>> erhalten!\nSehr beliebt bei den Kindern im\nWolkenhort. Achtung! Kneift gerne\nmit den Zangen!
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xECD>>\ngefangen! Gilt als das seltenste Insekt\nüberhaupt und kann ausschließlich an\ndunklen Orten gefunden werden.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xECD>>\nerhalten! Gilt als das seltenste Insekt\nüberhaupt und kann ausschließlich an\ndunklen Orten gefunden werden.
+Du hast eine <y<Flasche>> erhalten!\nBewahre verschiedene Dinge darin auf.
+
+
+
+
+Du hast <y<Rax' Brief>> in Verwahrung\ngenommen! Darin stehen viele\npersönliche Dinge. Pass auf, dass er\nnicht irgendwo als Schmierpapier endet!
+Du hast <y<Terris Insektenkäfig>> erhalten!\nDarin befindet sich Terris Lieblingsinsekt.\nBringe ihm den Käfig schnell zurück!
+Du hast eine <y<Rassel>> erhalten!\nVon vielen Babys heiß geliebt. Wer mag\ndiese Rassel wohl verloren haben?
+Du hast <y<Bienenlarven>> erhalten!\nGelten als sehr nahrhaft, können aber auch\nfür Handwerksarbeiten genutzt werden.
+Du hast \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xFCD>> erhalten!\nDiese Federn werden im Wolkenhort wegen\nihrer Seltenheit und Nützlichkeit hoch\ngeschätzt.
+Du hast <y<Wüstengras>> erhalten! Dieses Gras\nlässt sich vielleicht für etwas Nützliches\nverwenden, wenn man es trocknet.
+Du hast einen <y<Eidechsenschwanz>> erhalten!\nDieser Eidechsenschwanz mit stacheliger\nKugel am Ende lässt sich vielleicht sinnvoll\nverarbeiten.
+Du hast <y<Eldin-Erz>> erhalten!\nEin äußerst hartes und robustes Erz, das\nglitzert. Lässt sich gut weiterverarbeiten. 
+Du hast eine <y<Äonenblume>> erhalten!\nBlühte bereits in vergangenen Zeiten\nwunderschön und soll im Dunkeln hell\nleuchten.
+Du hast einen <y<Bernsteinhalbmond\n>>erhalten! Niemand weiß, wie dieses\nbernsteinfarbene Kleinod seine endgültige\nForm erhielt.
+Du hast einen <y<Finsterhalbmond >>erhalten!\nEr ähnelt dem Bernsteinhalbmond, hat\njedoch eine andere Beschaffenheit und ist\nnur an bestimmten Orten zu finden.
+Du hast <y<Glibber>> erhalten!\nNicht besonders hübsch, aber für eine\nVielzahl von Dingen verwendbar.
+Du hast eine <y<Monsterklaue >>erhalten!\nDiese Klaue stammt von einem Monster\nund sieht äußerst gefährlich aus.
+Du hast ein <y<Monsterhorn>> erhalten!\nDieses beeindruckende Signalhorn ist \nziemlich hart und kann als Werkstoff\nverwendet werden.
+Du hast einen <y<Schmuckschädel >>erhalten!\nDiese Nachbildung eines Schädels ist das\nSymbol der Bokblins.
+Du hast einen <y<Schattenkristall >>erhalten!\nDieser äußerst seltene Kristall beinhaltet\ndie konzentrierte Boshaftigkeit eines\nMonsters in kristallisierter Form.
+Du hast eine <y<blaue Vogelfeder>> erhalten!\nDiese kostbare Feder kann man nur bei\nextrem seltenen blauen Vögeln finden.
+Du hast einen <y<goldenen Schmuckschädel\n>>erhalten! Ein wirklich sehr seltenes\nSchmuckstück. Sein goldener Glanz wirkt\nseltsam.
+Du hast das <y<Geschenk der Göttin>> erhalten!\nEs heißt, dieser legendäre, sehr seltene\nSchatz habe einst der Göttin selbst gehört.
+
+
+
+Du hast das <y<Insigne der Reife>> erhalten!\nDieses gravierte Artefakt soll dem Helden\ndas Versteck des Triforce enthüllen.
+
+
+
+
+
+Du hast die <y<Hymne der Göttin>> erlernt!\nDiese mysteriöse Melodie stammt aus\nuralten Zeiten.
+
+
+
+
+
+
+
+Du hast den <y<Wundertrank SV>> erhalten!\nDieser stark verfeinerte Trank repariert\ndeinen Schild <r<automatisch>>, stellt <r<8 >>Herzen\nwieder her und ist <r<2-mal>> einsetzbar.
+Du hast <y<heiße Kürbissuppe>> erhalten!\nDiese hausgemachte Kürbissuppe kühlt\ninnerhalb von <r<5 Minuten>> ab!
+
+Du hast den <y<Lebensbaumkeimling\n>>erhalten! Ein Keimling des legendären\nBaumes, dessen Früchte jede noch so\nschwere Krankheit heilen sollen.
+Du hast den <y<Lebensbaumkeimling\n>>ausgegraben! Hier würde es zu lang\ndauern, bis er herangewachsen ist. Pflanze\nihn an einem anderen Ort ein.
+Du hast die <y<Lebensbaumfrucht >>erhalten!\nSie soll angeblich jede Krankheit heilen\nkönnen. Gib sie dem Donnerdrachen.
+Du hast die <y<Zusatz-Geldbörse>> erhalten!\nIst deine normale Geldbörse voll, bietet\nsie Platz für weitere <r<300 Rubine>>.
+
+
+
+
+
+
+
+Kleiner Schlüssel
+Grüner Rubin
+Blauer Rubin
+Roter Rubin
+Triforce
+Herz
+Verschossener Pfeil
+10 Pfeile
+Weißes Schwert der Göttin
+Übungsschwert
+Schwert der Göttin
+Langschwert der Göttin
+Master-Schwert
+Wahres Master-Schwert
+Paraschal
+Lyra der Göttin
+Seelengefäß
+
+Holzbogen
+Greifhaken
+Vogelfigur
+
+
+
+Gesegneter Schlüssel
+Mysterienkristall
+Tentakelschlüssel
+Schlüsselfragment
+Goldener Schlüssel
+Drachenschlüssel
+Uraltes Gebilde
+Silberner Rubin
+Goldener Rubin
+Rubin-Falle
+
+Glitzersporen
+
+
+
+5 Bomben
+10 Bomben
+Ausdauerfrucht
+Farores Träne
+Dins Träne
+Nayrus Träne
+Heilige Träne
+Lichtfrucht
+Juwel der Güte
+Magischer Krug
+Dungeon-Karte
+
+Schleuder
+Käfer
+Wasser
+Pilzsporen
+Grabklauen
+Deku-Kerne
+
+
+
+
+
+
+
+Rüstungstrank
+Rüstungstrank V
+
+Wasserdrachenschuppe
+
+Insekten-Medaille
+Schmetterlingsnetz
+Fee
+
+Heiliges Wasser
+Greifkäfer
+Flinkkäfer
+Kraftkäfer
+Herztrank
+Herztrank V
+
+Herztrank SV
+
+
+Ausdauertrank
+Ausdauertrank V
+Lufttrank
+Lufttrank V
+Fee
+
+Eisenbogen
+Heiliger Bogen
+Bombentasche
+Herzcontainer
+Herzteil
+Triforce des Mutes
+Triforce der Kraft
+Triforce der Weisheit
+Antike Seekarte
+Mogma-Klauen
+Herz-Medaille
+Rubin-Medaille
+Schatz-Medaille
+Medizin-Medaille
+Dämonen-Medaille
+Streu-Schleuder
+
+Kleine Geldbörse
+Mittlere Geldbörse
+Große Geldbörse
+Riesige Geldbörse
+Luxus-Geldbörse
+Abenteurertasche
+Leere Tasche
+Lebenskraft-Medaille
+
+Holzschild
+Harter Holzschild
+Starker Holzschild
+Eisenschild
+Harter Eisenschild
+Starker Eisenschild
+Heiliger Schild
+Hochheiliger Schild
+Göttlicher Schild
+Hylia-Schild
+Wundertrank
+Wundertrank V
+Kleine Deku-Tasche
+Mittlere Deku-Tasche
+Große Deku-Tasche
+Kleiner Köcher
+Mittlerer Köcher
+Großer Köcher
+Kleine Bombentasche
+Mittlere Bombentasche
+Große Bombentasche
+Peitsche
+Feuerohrringe
+
+Meisterfänger-Netz
+Phiro-Hüpfer
+Phiro-Riesenkäfer
+Deku-Biene
+Himmelsanbeterin
+Magmarienkäfer
+Himmelsfalter
+Ranelle-Ameise
+Sandzikade
+Gerudo-Libelle
+Eldin-Skarabäus
+Wolken-Hirschkäfer
+Wolken-Glühwürmchen
+Flasche
+
+
+
+
+Rax' Brief
+Terris Insektenkäfig
+Rassel
+Bienenlarven
+Vogelfeder
+Wüstengras
+Eidechsenschwanz
+Eldin-Erz
+Äonenblume
+Bernsteinhalbmond
+Finsterhalbmond
+Glibber
+Monsterklaue
+Monsterhorn
+Schmuckschädel
+Schattenkristall
+Blaue Vogelfeder
+Goldener Schmuckschädel
+Geschenk der Göttin
+Smaragd-Tafel
+Alte Steintafel
+Alte Steintafel
+Insigne der Reife
+
+
+
+
+
+Hymne der Göttin
+Farores Mut
+Nayrus Weisheit
+Dins Kraft
+Stimme des Wassers
+Stimme des Feuers
+Stimme des Donners
+Heldenlied
+Wundertrank SV
+Heiße Kürbissuppe
+Kalte Kürbissuppe
+Lebensbaumkeimling
+Lebensbaumfrucht
+Zusatz-Geldbörse
+
+
+
+
+
+
+
+Von den Göttern verliehene <r<unendliche\nKraft>>. Sammle zwei weitere Artefakte,\num das Triforce zu vervollständigen.
+Von den Göttern verliehene <r<unendliche\nKraft>>. Sammle ein weiteres Artefakt, um\ndas Triforce zu vervollständigen.
+Von den Göttern verliehene <r<unendliche\nKraft>>. Du hast die Artefakte der Kraft,\ndes Mutes und der Weisheit gesammelt.
+
+
+
+Diesem Schwert wohnt Nayrus Flamme inne.\nEs verleiht dir zusätzliche Fähigkeiten bei\nder Aurasuche.
+Dieses Übungsschwert wird in der\nRitterschule verwendet. Seine Klinge\nist äußerst scharf.
+Ein Schwert, das aus dem Podest der Göttin\ngezogen wurde. Heiliges Licht umhüllt es.
+Diesem Schwert wohnt Farores Flamme\ninne. Es besitzt eine messerscharfe Klinge.
+Diesem Schwert wohnt Dins Flamme inne.\nEs hat die Macht, das Böse zu vernichten.
+Ein heiliges Schwert, erfüllt mit der\nKraft der Göttin. Nur ein wahrer Held\nvermag es zu führen.
+Zelda gab dir diesen selbst gemachten Schal.\nDrücke im freien Fall (B), um sanft hinab\nzu gleiten.
+Traditionelles Instrument im Wolkenhort.\nDu musst erst ein Lied lernen, bevor du es\nspielen kannst.
+
+
+Eine Waffe, mit der du weit entfernte\nObjekte treffen kannst. Nimm Ziele ins\nVisier, um mehr Schaden zu verursachen.
+Ein Handschuh, der eine an einer Kette\nbefestigte Klaue abschießt. Ziehe dich mit\nihm zu Greifhaken-Zielen oder Efeu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pulver, das von Glitzerpilzen freigesetzt\nwird. Wofür man es wohl verwenden kann?
+
+
+
+
+
+
+
+
+
+
+
+Menschliche Dankbarkeit in kristallisierter\nForm. Zeige Morsego all deine gesammelten\nExemplare.
+Menschliche Dankbarkeit in kristallisierter\nForm, die es Morsego erlaubte, ein Mensch\nzu werden.
+Ein seltsamer Krug, aus dem starker Wind\nströmt. Finde heraus, was du damit alles\nwegpusten kannst.
+
+
+Eine Waffe, mit der man Deku-Kerne\nverschießen kann. Verwende sie, um\ndeine Gegner zu betäuben.
+Dieser mechanische Käfer fliegt durch die\nLuft. Steuere ihn gegen unterschiedliche\nObjekte.
+Gewöhnliches Wasser, glasklar und\ndurchsichtig.
+Einige Sporen, die von einem riesigen\nPilz stammen.
+Mit diesen scharfen Klauen kannst du im\nBoden graben. Drücke (A), um sie an Stellen\nzu verwenden, die ungewöhnlich aussehen.
+
+
+
+
+
+
+
+
+Dieser Trank halbiert jeglichen Schaden,\nden du erleidest. Seine Wirkung hält\n<r<3 Minuten >>an.
+Dieser verfeinerte Trank macht dich\n<r<3 Minuten >>lang unverwundbar.
+
+Eine Schuppe, die dich unter Wasser\nschwimmen lässt. Führe mithilfe des\nNunchuk eine Wasserschraube aus.
+
+Markiert auf der Karte Insekten, die du\nfangen kannst, mit \x0E\x02\x04\x02\x1ACD.
+Mit diesem Netz kannst du kleine Insekten\nund andere Dinge sammeln. Schwinge\nhierfür die Wii-Fernbedienung.
+
+
+Gesegnetes Wasser aus der Quelle des\nHimmelsblicks.
+Dein Käfer kann nun mit seinen Zangen\nObjekte tragen. Diese dürfen jedoch nicht\nallzu schwer sein.
+Eine verbesserte Version deines Käfers,\ndie um einiges schneller fliegen kann.
+Der nahezu perfekte Käfer! Er ist nicht nur\nbesonders schnell, er kann auch extrem weit\nfliegen.
+Ein Trank, der <r<8 Herzen>> auffüllt.
+Ein verfeinerter Herztrank, der <r<all deine\nHerzen >>auffüllt.
+
+Dieser stark verfeinerte Trank füllt nicht\nnur <r<all deine Herzen >>auf, du kannst ihn\nsogar 2-mal verwenden.
+
+
+Dieser Trank lässt deine Ausdaueranzeige\nlangsamer schwinden. Seine Wirkung hält\n<r<3 Minuten>> an.
+Dieser verfeinerte Trank verhindert, dass\nsich deine Ausdaueranzeige leert. Seine\nWirkung hält <r<3 Minuten>> an.
+Dieser Trank lässt deine Luftanzeige\nlangsamer schwinden. Seine Wirkung hält\n<r<3 Minuten>> an.
+Dieser verfeinerte Trank verhindert, dass\nsich deine Luftanzeige leert. Seine Wirkung\nhält <r<3 Minuten>> an.
+Diese Fee hilft dir, wenn das Leben aus\ndeinem Körper weicht. Lässt du sie frei,\nfüllt sie <r<6 Herzen>> wieder auf.
+
+Ein sehr starker Eisenbogen.\nEr besitzt eine hohe Durchschlagskraft.
+Der stärkste aller Bögen, erfüllt mit der\nMacht der Göttin. Er bringt Verderben über\nall deine Gegner.
+Eine nützliche Tasche, um Donnerblumen\nmitzunehmen. Vergiss nicht, dir rechtzeitig\neinen Vorrat anzulegen.
+
+Sammle 4 Herzteile, um die Anzahl deiner\nHerzen um 1 zu erhöhen.
+Du hast alle Herzteile gefunden.
+
+
+
+
+Verbesserte Grabklauen. Mit ihnen kannst\ndu dich durch das Erdreich wühlen.
+Ein geheimnisvoller Talisman.\nTrägst du ihn bei dir, wirst du öfter über\nHerzen stolpern.
+Ein geheimnisvoller Talisman.\nTrägst du ihn bei dir, wirst du öfter über\nRubine stolpern.
+Ein geheimnisvoller Talisman.\nTrägst du ihn bei dir, wirst du öfter über\nSchätze stolpern.
+Ein geheimnisvoller Talisman.\nTrägst du ihn bei dir, wird die Wirkung\ndeiner Tränke länger anhalten.
+Durch diesen verfluchten Talisman findest\ndu häufiger Rubine und Schätze. Er hindert\ndich jedoch daran, deine Tasche zu öffnen.
+Eine verbesserte Schleuder mit einem\ngroßen Wirkungsradius. Halte (A) gedrückt,\num deine Schüsse aufzuladen.
+
+Eine Geldbörse, in der du Rubine\nsammeln kannst. Sie bietet Platz für\nbis zu <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< Rubine>>.
+Eine Geldbörse für Leute, die gerne\nausgiebig einkaufen. Sie bietet Platz\nfür bis zu <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< Rubine>>.
+Eine Geldbörse für Leute, die gerne auf\ngroßem Fuß leben. Sie bietet Platz für bis\nzu <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< Rubine>>.
+Eine Geldbörse, die dir einiges abverlangt,\num sie zu füllen. Sie bietet Platz für bis zu\n<r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< Rubine>>.
+Eine Geldbörse, wie sie nur erfolgreiche\nGeschäftsleute tragen. Sie bietet Platz für\nbis zu <r<<r<\x0E\x02\x03\x06\x00\x00\x3CD<r< Rubine>>.
+
+Diese Tasche ist momentan leer.\nIn ihr kannst du 1 Item tragen.
+Ein geheimnisvoller Talisman.\nTrägst du ihn bei dir, erhältst du ein\nzusätzliches Herz.
+
+Ein leichter Holzschild, einfach in der\nHandhabung. Er kann Feuer fangen, schützt\nallerdings vor Elektrizität.
+Ein verbesserter, stabilerer Holzschild.\nEr kann Feuer fangen, schützt allerdings\nvor Elektrizität.
+Der härteste aller Holzschilde.\nEr kann Feuer fangen, schützt allerdings\nvor Elektrizität.
+Ein widerstandsfähiger Eisenschild.\nEr brennt nicht und zerbricht nicht so\nleicht, leitet jedoch Elektrizität!
+Ein verbesserter, stärkerer Eisenschild.\nEr brennt nicht und zerbricht nicht so\nleicht, leitet jedoch Elektrizität!
+Der widerstandsfähigste Eisenschild.\nEr brennt nicht und zerbricht nicht so\nleicht, leitet jedoch Elektrizität!
+Ein heiliger Schild, der sich selbst repariert.\nAußerdem wehrt er Feuer, Elektrizität und\nFlüche ab.
+Ein verbesserter heiliger Schild, der hoher\nBelastung widersteht. Er wehrt Feuer,\nElektrizität und Flüche ab.
+Ein heiliger Schild, der den höchsten\nBelastungen widersteht. Er wehrt Feuer,\nElektrizität und Flüche ab.
+Ein legendärer Schild, der zuvor im Besitz\ndes Donnerdrachen war. Dieser Schild hält\njedem Angriff stand und zerbricht niemals.
+Dieser mysteriöse Trank stellt deine\nSchildanzeige <r<komplett>> wieder her und\nfüllt außerdem <r<4>> Herzen auf.
+Dieser verfeinerte Trank repariert deinen\nSchild <r<automatisch>> und füllt außerdem\n<r<8>> Herzen auf.
+Diese Tasche bietet Platz für <r<10>> weitere\nDeku-Kerne für deine Schleuder.
+Diese Tasche bietet Platz für <r<20>> weitere\nDeku-Kerne für deine Schleuder.
+Diese Tasche bietet Platz für <r<30>> weitere\nDeku-Kerne für deine Schleuder.
+Dieser Köcher bietet Platz für <r<5>> weitere\nPfeile für deinen Bogen.
+Dieser Köcher bietet Platz für <r<10>> weitere\nPfeile für deinen Bogen.
+Dieser Köcher bietet Platz für <r<15>> weitere\nPfeile für deinen Bogen.
+Diese Tasche bietet Platz für <r<5>> weitere\nBomben.
+Diese Tasche bietet Platz für <r<10>> weitere\nBomben.
+Diese Tasche bietet Platz für <r<15>> weitere\nBomben.
+Dank dieser mit einer leuchtenden Kugel\nversehenen Peitsche kannst du manche\nObjekte zu dir ziehen oder bewegen.
+Ein ungewöhnliches Schmuckstück,\ndas dich vor extremer Hitze schützt.
+
+Dieses Netz ist doppelt so groß wie sein\nVorgänger. Mit ihm lassen sich flinke\nInsekten spielend leicht fangen.
+Ein Waldinsekt, das blitzschnell\ndavonfliegt. Wertvoll und nur schwer\nzu fangen.
+Ein Waldinsekt, das sich nur langsam\nbewegt und leicht zu fangen ist. Schüttle\nes mit einer Rollattacke von Bäumen.
+Ein Waldinsekt, das schmerzhaft stechen\nkann. Sei vorsichtig, falls du ein Bienennest\nfindest.
+Ein Wolkenhort-Insekt, das leicht zu fangen\nist. Nimm dich vor den Fangbeinen in Acht!
+Ein Vulkaninsekt, das immer in Gruppen\nauftritt. Bewegt sich kaum und ist leicht\nzu fangen.
+Ein weit verbreitetes Insekt. Wird häufig\nauch als Zutat für Tränke verwendet.
+Ein Wüsteninsekt, das in Schwärmen\nauftritt. Hat ein niedliches Gesicht.\nZum Dahinschmelzen...
+Ein Wüsteninsekt, das ohne Vorwarnung\nwegfliegt. Eine Herausforderung für jeden\nInsektensammler!
+Ein Wüsteninsekt, das weite Strecken\nzurücklegen kann. Nähere dich ihm ganz\nvorsichtig, um es zu fangen.
+Ein Vulkaninsekt, das sich rollend in\nSicherheit bringt. Aus was genau sein\nekliger Ball besteht, weiß man nicht.
+Ein typisches Wolkenhort-Insekt.\nSehr beliebt bei Kindern.
+Ein Wolkenhort-Insekt, das nur nachts\nerscheint. Sein Anblick hat eine äußerst\nberuhigende Wirkung.
+Ein nützliches Gefäß, in das du Tränke und\nandere Dinge füllen kannst.
+
+
+
+
+In diesem Brief hat Rax sein ganzes Herz\nausgeschüttet. Hoffentlich endet er nicht\nals Klopapier.
+In diesem Brief hat Rax sein ganzes Herz\nausgeschüttet. Du hast ihn abgeliefert,\naber...
+Darin befindet sich Terris geliebtes Insekt.\nBring es ihm zurück.
+Darin befand sich Terris geliebtes Insekt.\nDu konntest es ihm zurückbringen.
+Das Spielzeug eines Babys.\nWer mag es wohl verloren haben?
+Das Lieblingsspielzeug von Diomeds Baby. \nZum Glück hast du es ihm zurückgebracht.
+Eine nahrhafte Proteinquelle, die aus einem\nBienenstock stammt. Achte in Wäldern auf\nBienenstöcke in Baumwipfeln...
+Diese wunderschöne Feder stammt\nvon einem kleinen Vogel, der sich\ngerne in Wäldern aufhält.
+Ein trockener Grasball, der häufig in\nWüsten umherrollt. Fange ihn schnell mit\neinem Netz ein, sonst zerfällt er.
+Ein Eidechsenschwanz mit einer stacheligen\nKugel am Ende. Kann unter anderem von\nEidechsenmonstern erbeutet werden.
+Seltenes Erz, das häufig in der Eldin-Region\ngefunden wird. Aus ihm lassen sich viele\nwiderstandsfähige Dinge anfertigen.
+Eine Blume, die einst in Ranelle beheimatet\nwar. Aus ihrer Wurzel lässt sich ein äußerst\nkostbares Öl gewinnen.
+Ein bernsteinfarbenes Item, das überall\ngefunden werden kann. Handwerker können\ndaraus alles Mögliche anfertigen.
+Nur in der Sairen zu finden.\nSieht dem Bernsteinhalbmond ähnlich,\nist jedoch ganz anders.
+Kann von besonders weichen Gegnern\nerbeutet werden. Erhitzt man ihn, wird\ner steinhart.
+Wird häufig von fliegenden Gegnern\nfallengelassen. Gib Acht, dass du dich\nnicht daran stichst.
+Ein Signalhorn, erbeutet von einem Bokblin.\nSeltsamerweise lässt sich ihm nur mühsam\nein Ton entlocken.
+Getragen von einem Bokblin.\nDient nur zur Dekoration und ist kein\nechter Schädel.
+Die Boshaftigkeit eines Monsters in\nkristallisierter Form. Kann häufig von\nfinsteren Feinden erbeutet werden.
+Die Feder eines sehr seltenen blauen Vogels.\nSie bei sich zu tragen soll angeblich sehr\nglücklich machen.
+Ein sehr seltenes Schmuckstück. Glänzt\ngolden, ist aber angeblich nicht aus Gold\ngefertigt worden.
+Ein wunderschöner Stein, der von der\nGöttin selbst stammen soll. Dieses Artefakt\nzählt zu seltensten Schätzen überhaupt.
+Diese uralte Tafel eröffnet dir den Weg\nzum Waldreich von Phirone.
+Die Smaragd- und Rubin-Tafeln eröffnen\ndir den Weg zum Waldreich und zum\nFeuerreich Eldin.
+Die Smaragd-, Rubin- und Bernstein-Tafeln\neröffnen dir den Weg in die Länder des\nWaldes, des Feuers und des Sandes.
+Der Beweis, dass du alle Prüfungen\nabsolviert hast. Eröffnet dir den Weg\nzum Triforce.
+
+
+
+
+
+Ein Lyralied der Göttin. Es weist dem\nAuserwählten den Weg.
+Dieses Lied weist dir den Weg zur Prüfung\nim Wald von Phirone. Finde den Eingang\nund spiele es auf der Lyra.
+Dieses Lied weist dir den Weg zur Prüfung\nin der Wüste Ranelle. Finde den Eingang\nund spiele es auf der Lyra.
+Dieses Lied weist dir den Weg zur Prüfung\nim Vulkan Eldin. Finde den Eingang und\nspiele es auf der Lyra.
+Eine Stimme, die du für die finale Prüfung\nbenötigst. Erlernt vom Wasserdrachen.
+Eine Stimme, die du für die finale Prüfung\nbenötigst. Erlernt vom Feuerdrachen.
+Eine Stimme, die du für die finale Prüfung\nbenötigst. Erlernt vom Donnerdrachen.
+Dieses Lied weist dir den Weg zur finalen\nPrüfung. Finde den Eingang und spiele es\nauf der Lyra.
+Dieser stark verfeinerte Trank repariert\ndeinen Schild <r<automatisch>>, stellt <r<8>> Herzen\nwieder her und ist <r<2-mal>> einsetzbar.
+Eine heiße und leckere Suppe, zubereitet\nvom Besitzer der Kürbisbar.
+Eine traumhaft schmeckende Kürbissuppe!\nAber leider ist sie kalt.
+Der Keimling eines Baumes, dessen Früchte\nalle Krankheiten heilen sollen. Es wird\nlange dauern, bis daraus ein Baum wächst.
+Diese Frucht soll alle Krankheiten heilen\nkönnen. Ihr Geschmack ist mit nichts auf\ndieser Welt zu vergleichen.
+
+
+Dieses Item wurde dir von den Bokblins\ngestohlen. Hol es dir zurück!
+
+Umsehen
+Umsehen
+Zelda
+Zelda
+Auren der Kyu
+Auren\nder Kyu
+Schlüsselfragmente
+Schlüssel-\nfragmente
+Schalter
+Schalter
+Portal der Prüfung
+Portal der\nPrüfung
+Heiliges Wasser
+Heiliges\nWasser
+Sandgaleone
+Sandgaleone
+Melodinen
+Melodinen
+Herzen
+Herzen
+
+
+Schätze
+Schätze
+Juwelen der Güte
+Juwelen\nder Güte
+Rubine
+Rubine
+Artefakte der Göttin
+Artefakte\nder Göttin
+Windrad-Propeller
+Windrad-\nPropeller
+Wasserbehälter
+Wasser-\nbehälter
+Kristallkugel
+Kristallkugel
+Erntehelfer
+Erntehelfer
+Neue Pflanzenart
+Neue\nPflanzenart
+Roulettescheibe
+Roulette-\nscheibe
+
+
+Beendet die Aurasuche und erlaubt es dir,\ndich wieder normal umzusehen.
+Reagiert auf die verschwundene Zelda.
+Reagiert auf unentdeckte Kyu, die sich im\nWald versteckt haben.
+Reagiert auf dasselbe Material, aus dem\ndas riesige Tor an der Seite des Vulkans\ngefertigt wurde.
+Reagiert auf alles, was die Vorrichtung in\nder Mitte der Wüste mit Energie versorgt.
+Reagiert auf das Portal der Prüfung.
+Reagiert auf das heilige Wasser, das der\nWasserdrache verlangt.
+Reagiert auf das unsichtbare Schiff.
+Reagiert auf die Melodinen, aus denen\neine Stimme des Heldenlieds besteht.
+Reagiert auf Herzen und Herz-Blumen,\ndie deine Gesundheit wiederherstellen.
+
+Reagiert auf sämtliche Materialien, mit\ndenen du Ausrüstung aufwerten kannst.
+Reagiert auf Juwelen der Güte, die von\nMorsego gesucht werden.
+Du hast bereits alle Juwelen der Güte\ngefunden. Die Aurasuche reagiert nicht\nmehr auf dieses Objekt.
+Reagiert auf Rubine. Sehr nützlich,\num deine Geldbörse zu füllen.
+Reagiert auf Artefakte und Schatztruhen\nder Göttin. Nutze deinen Himmelsstrahl\nund gehe auf Schatzsuche.
+Du hast bereits alle Artefakte der Göttin\ngefunden. Die Aurasuche reagiert nicht\nmehr auf dieses Objekt.
+Reagiert auf den herabgestürzten\nWindrad-Propeller aus dem Wolkenhort.
+Eine große Menge Wasser wird benötigt,\num Flammen zu löschen. Reagiert auf den\nentsprechenden Wasserbehälter.
+Reagiert auf eine neue Kristallkugel für\nden Wahrsager Amadin.
+Reagiert auf jemanden, der das Kürbisfeld\nfür Kabocha bestellen kann.
+Reagiert auf eine neue, noch unbekannte\nPflanzengattung, nach der Meister Otus\nsucht.
+Reagiert auf die ins Erdland hinabgestürzte\nRoulettescheibe, die Dodo gehört.
+
+Farores Flamme
+Nayrus Flamme
+Dins Flamme
+
+Die Kraft dieser grünen Flamme erhöht die\nAngriffskraft und verlängert dein Schwert.
+Die Kraft dieser blauen Flamme verbessert\nPhais Aurasuche.
+Die Kraft dieser roten Flamme trägt die\nMacht in sich, das Böse zu besiegen.
+
+Items
+Abenteurertasche
+Aurasuche
+Steuerungshinweise\nanzeigen/ausblenden
+Wii MotionPlus-Kalibrierung
+Ausrüstung
+Sammlung
+(B) gedrückt halten
+\x0E\x02\x04\x02\x2CD gedrückt halten
+(C) gedrückt halten
+
+Glitzersporen
+Wasser
+Pilzsporen
+Rüstungstrank
+Rüstungstrank V
+Insekten-\nMedaille
+Heiliges Wasser
+Herztrank
+Herztrank V
+Herztrank SV
+Ausdauertrank
+Ausdauertrank V
+Lufttrank
+Lufttrank V
+Fee
+Herz-Medaille
+Rubin-Medaille
+Schatz-\nMedaille
+Medizin-\nMedaille
+Dämonen-\nMedaille
+Lebenskraft-\nMedaille
+Holzschild
+Harter\nHolzschild
+Starker\nHolzschild
+Eisenschild
+Harter\nEisenschild
+Starker\nEisenschild
+Heiliger Schild
+Hochheiliger\nSchild
+Göttlicher\nSchild
+Hylia-Schild
+Wundertrank
+Wundertrank V
+Kleine\nDeku-Tasche
+Mittlere\nDeku-Tasche
+Große\nDeku-Tasche
+Kleiner Köcher
+Mittlerer\nKöcher
+Großer Köcher
+Kleine\nBombentasche
+Mittlere\nBombentasche
+Große\nBombentasche
+Flasche
+Wundertrank SV
+Heiße\nKürbissuppe
+Kalte\nKürbissuppe

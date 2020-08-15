@@ -1,0 +1,52 @@
+Link, yo voy a quedarme\ncon este pequeñín hasta que recupere\nel aliento. Enseguida estoy contigo.\n\n\x0E\x01\x09\x04\x00\x500Mientras vas a ver al maestro Asteus,\npuedes aprovechar para preguntar por\nla ciudad, a ver si alguien sabe algo\nde tu pelícaro.
+Estaba segura de que te encontraría\naquí, Link...\n\n\n\x0E\x01\n\x04\x17ÍMe dijeron que habías ido hacia la\ngruta de la cascada, así que estaba\ntratando de localizarte desde arriba.\n\nBueno, dime, ¿has encontrado a tu\npelícaro?\n
+\x0E\x01\x09\x04\x100\x514Ya veo...\n\n\n\n\x0E\x01\x09\x04\x100\xC00¡Espera! Si no me equivoco, justo ahí\ndetrás hay un sitio al que Malton\nsuele ir mucho con sus amigotes.\n¡Vamos a echar un vistazo!
+
+
+
+Ay... Lo siento...\nVenga, vamos para allá.
+\x0E\x01\x06\x02\xFCCD(¿...?)\x0E\x01\x06\x02Í
+\x0E\x01\x09\x04\x100\x1500¿Quién...?\n\n\n\n\x0E\x01\x09\x04\x100\x1500¿Quién me llama?\n
+¡Mira! ¡Ahí está!
+\x0E\x01\x09\x04\x09\x500\x0E\x01\x08\x02\x1CD¡Es tu pelícaro,\nLink!
+
+\x0E\x01\x09\x04\x00\x06¡Vamos, Link!\n¡Tenemos que dar con él como sea!
+\x0E\x01\x09\x04\x0F\x513Pobrecito... ¡Lo han encerrado!\n\n\n\n¡Link!\n¡Hay que buscar la forma de quitar esos\ntablones!
+
+
+
+\x0E\x01\x09\x04\x00\x04¡Venga, otro salto!\nEsta vez no te empujo, tranquilo.\nPuedes saltar a tu aire.\n\nRecuerda que, si coges impulso\n<g<corriendo>>, puedes hacer una\nzambullida en picado. \n\n¡Y no te olvides de pulsar (B) justo\nantes de llegar al suelo para abrir\nel paracaídas!\x0E\x01\x11\x02\x1CD\n\nTienes que aterrizar justo <r<en el >><r<centro\ndel círculo de piedra>>, ¿de acuerdo?\n¡Ánimo!
+\x0E\x01\x09\x04\x00\x1514Vaya, no lo has conseguido...\n\n\n\n\x0E\x01\x09\x04\x00\xC00Recuerda que, <r<en pleno descenso>>,\npuedes dirigir tu caída hacia donde\nquieras <g<moviendo el mando >>para\ncorregir el rumbo.\n¡Venga, otra vez!\nTranquilo, que no te empujo...\nAdelante, puedes saltar a tu aire.\n\nRecuerda que puedes <g<correr >>para\ncoger impulso y lanzarte en picado.\n¡Y no te olvides de pulsar (B) justo\nantes de llegar al suelo!\x0E\x01\x11\x02\x1CD\nTienes que aterrizar justo <r<en el centro\ndel círculo de piedra>>, ¿de acuerdo?\n¡Ánimo! 
+\x0E\x01\x09\x04\x0C\xE09Tu pelícaro es un animal fuera de serie.\nCon lo mal que ha debido de pasarlo el\npobrecito y, míralo, está como si nada.\n\n\x0E\x01\x09\x04\x00\xC00Te veo luego, voy a darle la buena\nnoticia a mi padre.
+\x0E\x01\x09\x04\x400\x04¡Eh, Link!
+\x0E\x01\x09\x04\x400\x00Parece que al final has encontrado\na tu pollo, ¿no? Qué bien...\n\n\n\x0E\x01\n\x04\x0BÍPues que sepas que, por tu culpa,\nllevamos aquí plantados como coles\ntoda la mañana. Se me han quedado\nlas piernas dormidas de tanto esperar. \nPero claro, como siempre, al niñito\ntenían que darle un trato especial...
+¡Grrr, es estomagante!... ¡Y encima\ntienes la desfachatez de venir hasta\naquí de la manita de Zelda! \n\n¿Es que no sabes ir solo a ningún sitio?\n¿Te pierdes por el camino si no te\nacompaña alguna chica?\n\n«Es que yo soy el mejor amigo de\nZelda, y somos amiguitos desde niños\ny hacemos una pareja perfecta...»\n\x0E\x01\x06\x02\xFCCDGrrr...\x0E\x01\x06\x02Í\n\x0E\x01\x09\x04\x400\x17¿No te cansas de restregárnoslo por la\ncara?\x0E\x01\x04\x02< \x0E\x01\x09\x04\x40B\xAFF¿Todos los días, a todas horas?...
+\x0E\x01\x09\x04\x500\x0E¡Pues anda, que está él para hablar!\nSi está todo el día que si Zelda va a\nacabar en sus brazos, que si van a\nestar siempre juntos...
+\x0E\x01\x09\x04\x600\x14Ju, ju, ju...
+\x0E\x01\x09\x04\x40D\xB00¡A la porra, es igual!\n\n\n\n\x0E\x01\x09\x04\x400\xB00Pero te advierto una cosa, seré yo\nquien gane el torneo y reciba el\n<y<paracaídas>> de manos de la Diosa...\nO sea, de Zelda. \nLo ha cosido a mano ella misma.\n¡No pienso dejar que ese tesoro\ncaiga en tus sucias pezuñas!
+\x0E\x01\x09\x04\x404\x1700¡Tiene que ser mío!\nAh, ese paracaídas que Zelda lleva\ncomo un chal sobre los hombros...\n\nSeguro que tiene un aroma delicioso...\nJu, ju, ju...\n\n\nY además, quien gane el torneo podrá\nacompañarla en la ceremonia ante la\nDiosa. Ju, ju, los dos juntitos, sin nadie\nque nos moleste...\nYa me lo imagino: Zelda y yo a solas, \ncon toda Altárea a nuestros pies... 
+Ju, ju... Ju, ju, ju...\n\n\n\n¡Juo, juo, juo!
+¡Je... jefe! ¡Jefe!\n\x0E\x01\x04\x02\x1E¡Detrás de ti! \x0E\x01\x04\x02\x1E¡Detrás!...
+\x0E\x01\x09\x04\x400\x00\x0E\x01\n\x04\x0BÍ¿Se puede saber qué cacareáis?
+\x0E\x01\x09\x04\x419\x1715¡¡¡Uaaah!!!
+Conque a solas tú y yo, ¿eh?\nSin nadie que nos moleste, ¿no?
+\x0E\x01\x09\x04\x4FF\xFF0DJe, je, estooo...\nBu... bueno, verás... \n\n\n\x0E\x01\x09\x04\x400\x00¡Ejem! ¡Pues nada, campeón, que me\nalegro un montón de que por fin hayas\nencontrado a tu pájaro! Suerte en el\ntorneo y que gane el mejor, ¿eh?
+\x0E\x01\x09\x04\x400\x00¡Bueno, Zelda, hasta luego!\n¡Pilla un buen asiento para disfrutar\nde mi victoria!
+\x0E\x01\x09\x04\x505\x13\x0E\x01\x09\x04\x607\x00¡Jefe, espera!\n¡Que ya vamos!\x0E\x01\x05\x04\x14\x00
+\x0E\x01\x09\x04\x09\x1014«Que gane el mejor»...\n¡Vaya cara más dura que tiene!\n\n\n\x0E\x01\x09\x04\x00\xFF00Link, no dejes que las\npayasadas de esos tres te distraigan.\nHoy tienes que ir a por todas, ¿vale? \nYo confío en ti. \n¡Tienes que ganar! ¿Prometido?\n[1]Claro[2]No sé yo...[3]¿Solos\ntú y yo?
+\x0E\x01\x09\x04\x0C\xE00¡Así se habla!\nEstoy convencida de que serás el\ncampeón, Link.
+\x0E\x01\x09\x04\x0C\x1500¿Cómo? Solo tienes que esforzarte\nun poco, hombre.\n¡Vamos, ten más confianza!
+\x0E\x01\x09\x04\x10\xE04¡Pero bueno! \n¿Tú también, Link?\n¡Menudo momento para pensar en esas\ncosas!...
+¡El torneo celeste va a comenzar!\n¡Que vengan aquí todos los alumnos\nparticipantes!
+Te llaman, Link.\n¡Mucha suerte!
+
+Link, me preocupa un poco\nel estado de tu pelícaro. Deberíamos\ncomprobar si no está herido ni nada...\n\n¿Tú crees que está en condiciones de\nvolar?
+Durante el vuelo, puedes dirigir a\ntu pelícaro <g<inclinando >>el mando <g<a\nizquierda y derecha>>.\n\nCuando quieras <r<ir más deprisa>>, <g<agita\n>>el mando <g<arriba y abajo >>para coger\naltura y, acto seguido, <g<inclínalo hacia\nabajo >>para acelerar.\n¿Entendido? Es fácil, básicamente se\ntrata de coger altura y luego lanzarse\nen picado. 
+¿Cómo va tu pelícaro?\n¿Igual de bien que de costumbre?
+Cuando vayas montado en pelícaro,\npuedes consultar los <r<controles >>de\nvuelo siempre que quieras con solo\npulsar (2).\x0E\x01\x11\x02\x5CD\nAdemás, recuerda que con (A) puedes\n<r<acelerar>> y también <g<atacar>>, y con (B)\npuedes <r<frenar>>. ¡Pruébalo tú mismo!\x0E\x01\x11\x02\x1CD
+¡Link!\n¡Voy a explicarte cómo puedes coger\nvelocidad!\n\n¡<g<Agita el mando >>y, cuando hayas cogido\nmucha altura, <g<apunta con el mando\nhacia abajo >>y te lanzarás en picado\na toda velocidad!\nAgitar y después apuntar hacia abajo,\n¿te ha quedado claro? ¡Así volarás a\ntodo trapo!
+¡Link!\nLa verdad es que estaba un poco\npreocupada por tu pelícaro, pero\nveo que vuela perfectamente.\nBueno, mi padre y los demás nos\nestán esperando, ¡démonos prisa!
+\x0E\x01\x0D\x02\x1906\x0E\x01\x08\x02\x1CD¡Link!
+Es el diario de Zelda...\n¿Quieres leerlo?\n[1]Sí[2-]Mejor no
+Será mejor dejarlo correr...
+Mañana es el gran día: ¡el <r<torneo\nceleste>>! El día en que Link\nva a dar el penúltimo paso para ser\ncaballero...\nEstoy deseando ver a Link\ncomo un caballero hecho y derecho.\n\n\nAunque últimamente está hecho un\nvago, no entrena nada con su pelícaro.\n\n\nDecidido: ¡mañana lo despertaré\ntemprano y lo obligaré a practicar,\nle guste o no!\n\n¡Link tiene que ganar\nel torneo como sea! Así podremos\nhacer la ceremonia juntos.\n\nNo quisiera que me acompañase\nningún otro...

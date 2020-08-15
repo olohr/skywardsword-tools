@@ -1,0 +1,36 @@
+
+\x0E\x01\x05\x04\x0F\x00¡Impa!
+\x0E\x01\x05\x04<\x00¡Mi señora! ¡A la puerta, rápido!
+\x0E\x01\x05\x04\x1D\x00¡Link!
+\x0E\x01\x05\x04P\x00Link, toma esto.\n¡Lo necesitarás!
+¡Has conseguido la <y<lira de la Diosa>>!\n¡Pero no hay tiempo para descripciones!\x0E\x01\x05\x04\x14\x00
+\x0E\x01\x05\x04\x19\x00¡Váyase, deprisa!
+Link...\x0E\x01\x04\x02\x1E\n[1]¡Corre![2]¿Llego\ntarde?[3]¡Cuida\nde Zelda!
+Te lo agradezco.\nDejo esto en tus manos.
+No, llegas justo a tiempo.
+Entendido.\nGracias, Link.
+¡Link!\x0E\x01\x04\x022\nVe a ver a la anciana de la tierra\ndel presidio y dile lo que ha pasado.\n¡Ella sabrá guiarte!
+
+\x0E\x01\x05\x04\n\x00Y has de saber que...
+\x0E\x01\x05\x04\n\x00¡Volveremos a vernos!\n¡Ya lo verás, Link!
+\x0E\x01\x05\x04\x05\x00¡Te lo prometo!
+\x0E\x01\x05\x042\x00Mira lo que has hecho... \nEsta vez sí que lo has estropeado\ntodo, Link.\n\n\x0E\x01\x05\x04P\x00Supongo que, en parte, es culpa mía.\nTenía que haberte dado un escarmiento\nla última vez que nos vimos.\n\n\x0E\x01\x05\x04Z\x00Me encantaría darte tu merecido,\npero por desgracia ahora no puedo\ndesperdiciar el tiempo contigo.\n\n\x0E\x01\x05\x04K\x00Lo dejaremos para otra ocasión.\nBueno, suponiendo que sigas vivo...\n\n\n\x0E\x01\x05\x04P\x00Para entonces, te tengo reservado\nun infierno de sufrimiento y dolor\ntan inmenso que acabarás ensordecido\npor tus propios gritos.
+
+
+
+
+
+\x0E\x01\x05\x04Z\x00¡La Llama de Nayru ha fortalecido\ntu espada! Fay ha ganado un nuevo\npoder y ahora puedes <r<rastrear >>más\ncosas.
+
+
+
+
+El \x0E\x01\x12\x04\x00\x01amo tiene ahora la posibilidad\nde aprender una nueva estrofa.\nSugiero que volvamos a la isla de\nlos cantares.
+
+Eres tú, Link...\n¿Te puedo ayudar en algo?
+Oooh, ¿es lo que creo que es?\nEs para mí, ¿verdad?
+¡Oooh!\x0E\x01\x05\x04-\x00
+\x0E\x01\x08\x02\x2CD¡Yujuuu!
+¡Bien hecho, muchacho!\nPuedo sentir su efecto por todo el\ncuerpo... ¡Vuelvo a estar rebosante\nde energía!
+Ni los dragones milenarios nos\nlibramos de enfermarnos de vez en\ncuando... Pero gracias a ti, ¡parece\nque duraré unos cuantos siglos!\nNo se hable más, te enseñaré la\nestrofa del <b<Cantar del Héroe >>que\ntanto querías conocer.\n\n¡Abre bien tus puntiagudas orejas\ny deléitate con mi melodiosa voz!
+<y<\x0E\x00\x03\x02\x12¡Has aprendido una estrofa del <y<Cantar\ndel Héroe>>! 

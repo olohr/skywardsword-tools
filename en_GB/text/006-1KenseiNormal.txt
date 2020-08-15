@@ -1,0 +1,205 @@
+This is <b<Skyloft>>. The Statue of the\nGoddess looks down on the town, and\nmost residents live in relative peace\nand harmony.\n\x0E\x01\x12\x04\x00\x02Among the residents here are those\nwho have useful information for you,\nMaster, as well as those who have\ntroubles they want to talk about.\nI recommend talking to those who\nhave a <r<speech bubble >>visible above\ntheir heads as soon as you see them.
+This is <b<Sky Keep>>. It is situated beneath\nSkyloft's Isle of the Goddess.\n\n\nAccording to my overall analysis, \nI suggest you equip yourself with items\nthat will increase your survivability.
+These are the <b<Faron Woods>>. Dangerous\nplants and vicious monsters inhabit the\narea as well. Caution is advised.
+This is <b<Skyview Temple>>, a structure\nconstructed in ancient times. You can\nexpect to encounter many mechanisms\ndesigned to keep intruders at bay.\nWhen you find yourself unable to\ncontinue, press (C) to <g<look around>>.\nIt will certainly help you find your way\nforward.\x0E\x01\x11\x02\x6CD\x0E\x01\x0C\x04\x06g
+Focusing on your enemy's weaknesses\nand deliberately swinging at the\ncorrect <r<sword angle >>will increase\neffective results by 85%.
+Press (Z) to lock on to an enemy,\nthen press (v) to ask me for analysis.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD\n\n\n\x0E\x01\x12\x04\x00\x02In some circumstances it will take me\na while to compile and calculate my\nanalysis, but I predict an 85% chance\nyou will find my results helpful.
+The portcullis is sealing the door.\nJust as the first door, you will need to\nstrike the gemstone switch to open it.\n\nThe gemstone switch that acts as a key\nof sorts in this temple should <r<always be\nclose to the door>>.\n\nWhen you find you can't advance\nany farther, I always recommend you\nsearch the immediate vicinity. 
+Some maps you obtain contain hints\neasily missed by the human eye.\n\n\nWhen you can't go any further,\nI suggest you open your map with \x0E\x02\x04\x02\x3CD\nand look closely for potential clues.\x0E\x01\x11\x02\x3CD
+The sacred water said to be able to\ncure the Water Dragon's wounds can\nbe found in the inner sanctum of\nthis temple.
+You obtained the sacred water said to\nhave the power to cure the Water\nDragon's wounds. I recommend\nreturning to her.
+It appears that the lock and chains\nbarring this door cannot be\ndeactivated by a gemstone switch.\n\nI recommend searching for a\n<y<\x0E\x02\x01\x02\x01 >>inside this temple that\nwill fit the keyhole.
+Using the <y<\x0E\x02\x01\x02\x01 >>you obtained will\nenable you to continue on deeper into \nthe temple.
+Use the <y<\x0E\x02\x01\x025 >>you obtained to\nexplore and investigate your\nsurroundings from high in the air.
+I have detected <b<Zelda>>'s aura from deep\nwithin this temple. I recommend\nopening the large door.
+
+This is <b<Eldin Volcano>>.\x0E\x01\x0C\x04\x06i
+The steep slopes and scorching magma\nmake this an inhospitable\nenvironment for life.\n\nHowever, some monsters have adapted\nto this harsh land and now possess the\nability to control fire itself.\n\nYou must pay heed to their attacks,\nas well as to falling into lava, as your\nhighly flammable <b<Wooden Shield>> will\nbe of little use if it's <r<on fire>>.
+When monsters block your path, your\n<y<Slingshot >>may prove to be the most\neffective weapon.
+If you deliver a significant blow to the\nbase of the neighboring <b<watchtower>>, \nI project a 90% probability that it will\ntopple over.
+You can propel a <y<bomb >>farther away\nby <g<rolling it >>than by <g<throwing it>>.\nI recommend you consider rolling a\nbomb when throwing won't reach. 
+Now that you have all the <b<pieces of the\nkey>>, I recommend you head to the\n<r<large door >>on the summit. 
+I recommend that you check to see if\nthe wall by the nearby <r<area with three\ntents>> can be destroyed with a bomb. 
+It appears there are <r<two>> <b<Mogmas >>in the\nback of this area with three tents. \nI recommend that you talk to them. 
+Signs indicate something needs to be\ndone about the pooled lava. I suggest\nyou search the surroundings.
+In order to most effectively protect\nScrapper, I recommend you make use\nof your <r<bow>> to dispatch monsters that\nattempt to attack the robot.
+In order to find the <b<propeller>>, I advise\nyou to descend to the surface, and use\nyour <g<dowsing>> ability to search for it.
+This is the <b<Fire Dragon's Hall>>.\nIt is even hotter here than other\nplaces we've been in the volcano.\n\nI can confirm this mechanism is the\nsame as the one found at the Earth\nTemple.
+This is the <b<Earth Temple>>. Signs\nindicate it was built here because of\nthe subterranean caverns below.\n\nJust as at Skyview Temple, many\ndefensive mechanisms were built here\nto discourage would-be intruders.\n\nWhen you are unable to progress, I\nrecommend you press (C) to <g<look\naround >>and check your surroundings\nfor anything you may have missed.\x0E\x01\x11\x02\x6CD\nYou also have the option to press (B)\nand explore using your Beetle.\x0E\x01\x11\x02\x1CD
+
+This is <b<Lanayru Desert>>. Over many\ncenturies, the sand has covered nearly\nall <r<remnants of the past>>.\x0E\x01\x0C\x04\x06m
+Some of the monsters of this region\nproduce an electrical field that can\nparalyze anything that touches them.\n\nAs a protective measure, I recommend\nusing a <y<Wooden Shield>>. You should also\nconsider keeping a <y<Revitalizing Potion\n>>or a <y<spare shield>> in your pouch.
+I recommend you open your map\nwith \x0E\x02\x04\x02\x3CD and study the local terrain\nbefore you continue on.\x0E\x01\x11\x02\x3CD
+This is the northwestern region\nof <b<Lanayru Desert>>. The <r<Temple of\nTime >>is visible from this location.\nWe stand at the temple's front gate. \nWhen you can't progress any farther, \nI recommend investigating the complex\nterrain of the area to see if you find\nanything hidden.\n\x0E\x01\x12\x04\x00\x01Master, due to the topography of the\nlocal terrain, visibility will be limited.\nYour <y<Beetle>>'s exploratory capabilities\nare suited to tackling this problem.
+This is the <b<Lanayru Sand Sea>>.\nThough it may seem implausible,\nI assure you that this area once\nfeatured a vast body of water.\nI have detected the presence of many\nmonsters in the area, though they are\na weaker variety than those found in\nareas <r<to the north>>.
+This is <b<Lanayru Gorge>>. Of all the\nTimeshift Stone mining areas here,\nthis was the very first to be mined.\x0E\x01\x0C\x04\x06p
+I detect the bones of a large creature to\nthe south. I calculate an 85% chance\nyou can obtain information about it by\nusing your <y<Beetle>> to explore the area.
+While exploring <b<Lanayru Gorge>>,\nI suggest you stock your pouch with\nitems that will help you maintain\nyour health.\nYou might also consider drinking\n<y<Stamina >>and <y<Invincibility Potions\n>>together when you need to quickly\nreact to unforeseen circumstances.
+Signs indicate a 75% chance that these\nrobots can provide you with useful\ninformation. I recommend listening\nto what they have to say. 
+\x0E\x01\x12\x04\x00\x02The robots in the area warned that the\n<b<Life Tree Seedling >>you possess must\nbe planted <r<somewhere other than\nLanayru Province>>.\nI recommend locating a place that will\n<r<provide ample time >>for the seedling\nto grow.
+\x0E\x01\x12\x04\x00\x01The <b<Life Tree Fruit >>you have obtained\nis needed to cure the Thunder Dragon,\nwho dwells in Lanayru Gorge.
+In areas of sinksand, you can vastly\nincrease your ease of travel by\ndrinking a <y<Stamina>> <y<Potion>> and\n<y<Invincibility Potion >>together. 
+This is <b<Lanayru Mining Facility>>.\nIn ancient times, this was a hub\nof highly advanced technology.\x0E\x01\x0C\x04\x06q
+The ancient machinery is now broken \nand rusted. The switch that operates\nthese machines is <r<buried under sand>>.
+The <y<Gust Bellows >>generates a high-\nvelocity stream of air that can blow\naway various objects.\n\nIf you use this new device, my analysis\nindicates you will have a significantly\nincreased chance of opening a path\nthat was previously blocked to you.
+Some maps you obtain contain hints\nthat are hidden to the human eye.\n\n\nWhen you can't go any further, \nI recommend you open your map with\n\x0E\x02\x04\x02\x3CD and look closely for potential clues.\x0E\x01\x11\x02\x3CD
+Press (Z) to lock on to an enemy,\nthen press (v) to ask me for analysis.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD\n\n\n\x0E\x01\x12\x04\x00\x02In some circumstances, it will take me\na while to compile and calculate my\nanalysis, but I predict an 85% chance\nyou will find my results helpful.
+With a <r<mighty gust of wind>>, that which\nis hidden in the sand will become\nvisible, and the way will be revealed.
+In the present time, some objects are\nno longer functional due to extreme\nage, but they can be returned to an\nactive state when time is shifted back.\nI calculate an 85% chance the path\nahead will open if you continue within\nthe confines of the time-shifted area.
+There is a drawing on the western wall.\nSigns indicate it may have something\nto do with the mechanisms in this room.
+This is the <b<Sandship>>. Long ago, it was\nseized by monsters.\x0E\x01\x0C\x04\x06r
+I recommend exploring the interior\nof the ship to locate the <b<sacred flame>>.
+You need to release the Timeshift\nStone again. There is a 95% probability\nthe closed cover can be opened using\nthe switch at the <r<top of the mast>>.
+My analysis indicates that it is possible\nto charge a <b<Skyward Strike>> in the usual\nfashion even within the close confines\nof the ship.
+Master, thanks to your efforts, the ship\nhas been returned to the captain\nand crew.\n\nBy striking the <r<Timeshift Stone >>on\nthe main mast, you can transport\nyourself between the present and\npast in the surrounding space.
+When fighting in narrow passageways,\nit is much more effective to attack\nwith <r<shield bashes >>and <r<sword thrusts\n>>than by swinging your sword.
+This mechanism is the same as the one\nyou previously encountered that\nrequired four gemstone switches to be\nstruck in the correct order.\nOn the left and right, you will find\nsteering wheels with their upper halves\npainted red.\n\nFinally, 80% of the room itself is\ncovered in a blanket of sand. The floor\nitself is hidden. Careful and thorough\nexploration of the room is required.
+If you open your map with \x0E\x02\x04\x02\x3CD, you will\nbe able to access a lot of information,\nincluding a designation for what door\nyou can open using the <b<Small Key>>.\x0E\x01\x11\x02\x3CD
+I have confirmed that the mechanism\nthat sits atop the main mast can be\ntriggered using your <b<bow and arrows>>.\n\nI calculate an 85% probability that\nactivating this mechanism will yield\na favorable result, allowing you to\nprogress forward.
+I infer that the crew members LD-301\nSkipper asked you to rescue are located\nat the \x0E\x02\x04\x02\x19CD point on the map.
+The <b<Timeshift Stone >>installed on the\nmain mast, if used properly, has an\n85% probability of clearing the ship\ninterior of obstacles.\nI conjecture that it is possible to strike\nthe Timeshift Stone outside from\nwithin the ship as long as <r<<pling><r<it is <r<>><r<visible\nfrom your location>>.
+I have confirmed the object sitting\nhigh on the main mast is a <r<Timeshift\nStone>>. When activated, it will have a\ndramatic effect on the ship.
+
+You are located in the northeastern\narea of the <b<Sealed Grounds>>.\nAn ancient forest remains here,\nseemingly preserved in time.\nThe <b<Woodland Rhino Beetle >>makes its\nhome here. If you <g<roll into a wall and\ncause it to shake>>, it will likely fall\ndown. You can then capture the bug.
+We are now located at the <b<Sealed\nGrounds>>. There is a large spiral-\nshaped depression in the ground.\n\nIt is unclear whether this topography\nis natural or artificial.\n\n\nIn this area, I recommend carrying\n<r<heart>><r<-replenishing >>items in your\npouch.
+This place is called the <b<Sealed Temple>>.\nJudging by the extent of structural\ndegradation, I project that it has stood\nhere for a very long time.\nDue to its solid stone construction,\nthe air inside is relatively cool. There\nis also an unquantifiable mystery to\nthis place. I detect no monsters here.
+This place has a 99% visual correlation\nwith the <b<Sealed Temple>>.\n\n\nHowever, unlike the Sealed Temple you\nare familiar with, this building has\nnot suffered any long-term structural\ndegradation.
+This is an island known as the\n<b<Isle of Songs>>. It is a place mentioned in\nthe Ballad of the Goddess, an ancient\nsong handed down in <b<Skyloft>>.\x0E\x01\x0C\x04\x06x
+If you <g<push and activate >>the rotating\ndevice in the center of the island,\nit appears that the surrounding\nstructures move with it.\nSigns indicate it is a mechanism\ndesigned to enable entrance into the\nbuilding ahead. 
+It is likely you will continue to\nencounter puzzling challenges like\nthis one in the future.\n\nIf you find yourself unable to proceed,\nthere is a 70% chance that speaking to\nthe <b<Sheikah Stone>> next to the Sparring\nHall in <b<Skyloft>> will provide a <r<hint>>.
+
+You are currently located inside\n<b<Farore's Flame Chamber>>. It is a sacred\nplace protected by the power of the\ngoddess.\nThe sword-enhancing <r<sacred flame >>is\nlocated here. 
+You are currently located inside <b<Din's\nFlame Chamber>>. It is a sacred place\nprotected by the power of the goddess.\n\nThe sword-enhancing <r<sacred flame >>is\nlocated here. 
+This is the underground channel \nthat leads away from <b<Lake Floria>>,\nwhich is located in the southern part\nof <b<Faron Woods>>.\nWhen you can't go any further, press\n\x0E\x01\x12\x04\x00\x02(2) to check your <g<possible actions>>.\nThat should help reveal what you need\nto do to proceed.\x0E\x01\x11\x02\x5CD
+
+This is the <b<Thrill Digger area>>. It is a\ngame run by a Mogma called <b<Tubert>>.\n\n\nIt appears as though there is another\n<b<Mogma >>here. There is a 95% chance\nthat he has some information.
+Your current location is the <b<Sky\nSpring>>. It is a sacred place protected\nby the power of the goddess.\n\nAccording to legend, the water here\npurifies the body of any life-form that\ncomes into direct contact with it.
+This is the <b<Earth Spring>>. It is a sacred\nplace protected by the power of the\ngoddess.\n\nAccording to legend, the water here\npurifies the body of any life-form that\ncomes into direct contact with it.
+
+
+Yes, \x0E\x01\x12\x04\x00\x05Master.\x0E\x01\x0C\x04\x06
+This place has no name registered in\nmy memory, and I have no useful data\nto share about it.\n\nIf you want to check your current\nlocation, press \x0E\x02\x04\x02\x3CD to view the map.\x0E\x01\x11\x02\x3CD
+We are at the <b<Sealed Grounds>>. The Isle\nof the Goddess descended from the\nsky and landed in the vast spiral-\nshaped depression in the ground.\nI have also detected that certain\nbreeds of insect, formerly absent\nfrom the surface, are now living\nin the area.
+
+In this <b<Ancient Cistern>>, purified water\nis released into the upper area of the\nfacility, while the filtered impurities\nare processed in the lower area.\x0E\x01\x0C\x04\x06
+A stone tablet sits in front of the large\nstatue in the center of the cistern.\n\n\nI calculate a 90% chance that it\ncontains information that will aid\nyou in navigating this facility.
+I have logged the following words that\nyou discovered written on the stone\ntablet in front of the large statue.\n\n\x201CCarved into the <r<great statue >>are\ninscriptions of gratitude. They\nreveal the <r<secret order >>of this\ntemple.\"\n\x201CFirst the <r<back>>, then the <r<rear>>, then\nthe <r<back of the right palm>>, and\nfinally the <r<back of the left palm>>.\"
+The giant green lily pads in this area\ncan be <r<turned upside down>> by jumping\ndown onto them from a great height.
+When fighting an enemy who wields\nmultiple swords, aim your strikes for\nthe undefended areas between its\nblades.\nIf the enemy guards itself from above,\nbelow, left, and right, there is a 75%\nchance the enemy will be momentarily\nvulnerable to attacks to its center.
+If you find yourself with questions\nabout unfamiliar switches or objects,\ndo not hesitate to summon me.\n\nTarget the object in question by\nholding (Z). Next, while targeting,\npress (v) and I will report any\ninformation I have on the subject.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+In some cases, once you've latched on\nto an object with your <y<Whip>>, you can\nhang from it and use it as you would\nwhen holding on to a rope.
+\x0E\x01\x12\x04\x00\x01Master, your <y<Beetle>> has the ability to\nsever thin cords or filaments, such as\nstrands of rope or Deku Baba stems.
+The <r<Whip>> has the ability to both strike\nand latch on to objects on the <r<other\nside>> of this set of iron bars.
+It appears that by activating this\nmechanism, a portion of the statue has\nreceded into the ground.\n\nI conjecture that you should now be\nable to access an underground area\nfrom <r<inside the statue>>.
+When the path ahead seems closed to\nyou, I recommend utilizing your <y<Beetle>>\nto conduct a thorough search of the\narea.\nIf you survey the area in this fashion,\nI calculate an 80% probability that you\nwill find a hidden mechanism that will\naid your exploration of the area.
+There is a 90% chance you will need to\n<r<change the direction >>of the rotating\nmechanism <r<multiple times >>before you\ncan gain access to the path forward.
+You can latch on to a variety of objects\nwith your whip.\n\n\nIf an object can be <g<targeted>> with (Z),\nI recommend you try to attach your\nwhip to it to see if there is a result.\x0E\x01\x11\x02\x7CD
+This is the <b<Fire Sanctuary>>. It is located\non <b<Eldin Volcano>>, near the crater of\nthe volcano. The temperature inside\nthe sanctuary is extremely high.\nSigns indicate that the <b<Water Fruit >>that\nhangs from the ceiling will prove quite\nuseful in this oppressive heat.
+This is <b<Lanayru Mine>>. Ore was mined\nhere at one time, but it is no longer an\nactive mine.\n\nYou can see the remnants of a highly\nefficient transport system here. Mined\nore was carried in carts that ran on an\nancient form of energy.\nThese carts are vital to moving around\nthis area. Grab a cart with (A), and\nmove it with \x0E\x02\x04\x02\x8CD.
+\x0E\x01\x12\x04\x00\x02Master, this is a world built from your\nmemories by <b<Lanayru>>, the Thunder\nDragon. Just as in the real world, there\nis a danger of losing your life here.
+This is <b<Faron Woods>>. The whole area\nhas been flooded and turned into a\nlake.\x0E\x01\x0C\x04\x06
+I recommend searching above the\nwater for the dragon you seek.
+The origin of the current flood has\nbeen confirmed as the <r<base of the great\ntree>>. I recommend a thorough search\nof that area.
+Sets of same-colored, musical-note-\nshaped creatures here must be\ncollected within a set time or I project\nthey will swim off your score.
+It appears that using your underwater\nspin maneuver pulls nearby Tadtones\ntoward you, making it easier to\ncollect them.
+Performing lengthy tasks underwater\ncan be made easier through the use of\n<b<Air Potions>>, which can be purchased\nfrom the Potion Shop in Skyloft.
+Your current location is the <b<Lanayru\nCaves>>. Routes to all areas of <b<Lanayru\nProvince >>intersect here.\n\nYou can sit on a lone chair here to\nrestore your health. 
+I have no record of this place. Analysis\nsuggests this is a space created by the\npowerful magic of <b<Demise>>.\n\nThat may be the reason you <r<can't use\nyour Skyward>> <r<Strike>> here.
+This is <b<Bamboo Island>>.\n\n\n\nIt is the secluded hideaway of <b<Peater>>,\nfather of the Item Check clerk,\n<b<Peatrice>>. Here, you can attempt the\n<b<Clean Cut >>bamboo-slicing game.
+This is the<b< >><b<Lumpy Pumpkin>>, a\nrefreshment-distribution hub run by\n<b<Pumm>>. It has established local\nrenown for its pumpkin soup.
+When you are fighting a Deku Baba,\npay attention to how it opens its\nmouth and swing your sword\naccordingly.\nIt is also effective to shield bash the\nDeku Baba at the moment it attacks.
+You can spend the Rupees or treasure\nyou have obtained during your travels\nat the bazaar to buy items or enhance\nyour existing items.\nI highly recommend that you visit the\nbazaar whenever you return to Skyloft.
+You can use the treasure and materials\nyou find during your adventures to\nenhance and upgrade your items.\n\nAt the <b<bazaar>>, you can also use things\nyou have found to infuse potions,\nmaking them even more effective.
+Analysis indicates that effective map\nuse will be critical when navigating\nthrough <b<Sky Keep>>.\n\nIt is also possible to access your map\nwith \x0E\x02\x04\x02\x3CD while you are operating the\ncontrol panel that moves the rooms.\x0E\x01\x11\x02\x3CD
+Analysis indicates that the key to\nadvancing through this room is\ncarefully choosing where to set\ndown the <b<Timeshift Orb>>.
+The effects of the <b<Timeshift Orb >>have\naltered this room significantly.\n\n\n\x0E\x01\x12\x04\x00\x02Analysis indicates that you will have\nto set down the Timeshift Orb and\n<r<complete another task >>to progress\nfarther, Master.
+When fighting in narrow passageways,\nit is much more effective to attack\nwith <r<shield bashes >>and sword <r<thrusts\n>>than by swinging your sword.
+In addition to the Triforce, I detect\na strong evil aura in this room.\n\n\nThere is an 85% probability that a\npowerful monster dwells here.\nBe sure to carefully monitor your\nhealth for any precipitous drops.
+I recommend carefully <g<looking around>>\nto gather information that may help\nyou advance through this area.
+It is possible to use your <r<dowsing >>ability\nto locate hidden objects or creatures.\n\n\nHowever, you may need to use your\nsword to strike an object with a\ncreature hiding behind it in order to\nscare the creature out into the open.
+Your dowsing ability can detect objects\nthrough walls and terrain, so if you\ncannot see the target, you may need\nto go around and search the other side.
+I suggest you press \x0E\x02\x04\x02\x3CD to check and\nsee if there are any areas you have not\nyet visited.\x0E\x01\x11\x02\x3CD\n\nSimulations have shown that in 90% of\nthese scenarios, a <r<newly obtained item\n>>will allow you to enter an area you have\nnot yet visited.
+There is an 85% probability that your\n<y<Slingshot >>will allow you to make new\ndiscoveries in Skyloft.\n\nI recommend experimenting with your\nSlingshot in a variety of locations\nthere.
+This area is known as the <b<Deep Woods\nof Faron Woods>>. Deku Hornet hives are\ncommon here, so exercise caution.\n\nWith a suitable <r<bug-catching tool>>, your\nchances of avoiding harm increase\nby 75%.
+Signs indicate the \x0E\x02\x04\x02\x19CD marks on this\nmap were added by the previous owner\nto designate locations of interest.\n\nI recommend a thorough investigation\nof these locations when you have the\nopportunity.
+In most cases, mechanisms that control\nthe operation of gates and portcullises\ncan be found nearby.\n\nUsing your <y<Beetle>> to explore the\nsurrounding environment is an\neffective method of locating these\nswitches.
+This is the <b<Knight Academy>>.\x0E\x01\x0C\x04\x06
+This building contains <b<Zelda>>'s room,\namong others, but it is currently\nlocked.
+Recently, there have been rumors of an\nunsettling noise coming from the\n<b<restroom >>at night.
+If you have sustained damage, a visit\nto your room is advisable. <g<Sitting>> on\nthe chair located in your room will\nallow you to restore your hearts.
+This is <b<Beedle's Airshop>>. He sells rare\nitems not found in the bazaar.\n\n\nIncidentally, you may wish to note that\nyou can <r<sleep in the bed >>found in his\nshop.
+This is the <b<bazaar>>. You can purchase\nvarious items here that you will need\non your adventure.\x0E\x01\x0C\x04\x06¡
+And if you find yourself unsure of\nwhat to do next on your travels, I\nrecommend talking to the <b<fortune-\nteller>>, <b<Sparrot>>.
+Apparently, if you <g<shoot >>the lamp at\nthe entrance, something will happen.\nI recommend testing this out on other\nsuspicious targets as well.
+I also recommend <g<sitting>> at a table\nat the restaurant and listening to the\nother customers. They may have\ninformation that is useful to you.
+This is the <b<Sparring Hall>>. Here, you can\nlearn essential sword techniques.\n\n\nI recommend that you be sure to study\nthe <g<fatal blow >>technique that is\ntaught to students of this academy.
+This is <b<Batreaux's house>>.\x0E\x01\x0C\x04\x06£
+Sorry, I currently have insufficient\ndata with which to analyze the\nsituation.
+There is a 95% chance that fulfilling\n<b<Batreaux>>'s request will allow you\nto obtain a number of items that you\nwill find useful in your adventures.
+This is <b<Bertie's house>>. He infuses and\nenhances potions.\x0E\x01\x0C\x04\x06¤
+The potions sold in the bazaar during\nthe day will prove very useful on your\nadventure.\x0E\x01\x12\x04\x00\x02
+Signs indicate that <b<Bertie >>is currently\nexperiencing a problem when he\nreturns home from work and has\nto care for his young child.\nYou may be able to help him, Master.\x0E\x01\x12\x04\x00\x02
+This is <b<Pipit's house>>.\x0E\x01\x0C\x04\x06¥
+His mother, <b<Mallara>>, can't stand\ncleaning up, so their house is always\nin various states of uncleanliness.\n\nIt may be possible for you to assist\nthem later, but for now there is a 95%\nprobability you will be unable to help.\x0E\x01\x12\x04\x00\x02
+His mother, <b<Mallara>>, can't stand\ncleaning up, so their house is always\nin various states of uncleanliness.\n\nIf you possess an item that could blow\naway the dust with a gust of wind, then\nyou may be able to help, Master.\x0E\x01\x12\x04\x00\x02
+Thanks to your efforts, the room is now\nclean.\n\n\nI recommend you seek out other people\nwho may need your help, Master.\x0E\x01\x12\x04\x00\x02
+This is <b<Rupin the gear peddler's house>>.\nThere is an 85% chance that visiting at\nnight will reveal the true <b<Rupin>>, who\ndiffers from his daytime persona.
+This is the house of <b<Peatrice>>, who\nworks at the <b<Item Check>>.\n\n\nI calculate an 80% probability that\nregular visits to the Item Check\nduring the day will change <b<Peatrice>>'s\nfeelings toward you.
+This is the <b<cave behind the waterfall>>.\nIt is one of the more dangerous places\nin Skyloft, due to the abundance of\nmonsters that call it home.\nI can confirm the existence of treasure\nchests. I recommend exploring the area\naround that <r<broken fence>>.
+This is<b< Sparrot >>the <b<fortune-teller>>'s\nhouse.\x0E\x01\x0C\x04\x06©
+Analysis indicates that we may not\ncurrently accomplish anything here\nat this time.
+<b<Sparrot>>'s former crystal ball was\ndiscovered by the Scrap Shop owner's\nancestor atop a building at the summit\nof a mountain.\nThere is an 85% probability that the\nmountain in question is <r<Eldin Volcano>>.\nI suggest you travel there.
+\x0E\x01\x12\x04\x00\x01Master, when you are in need of\nadvice on your travels, I calculate a\n75% probability that visiting the\nfortune-teller will be helpful.
+This is <b<Orielle and Parrow's house>>.\x0E\x01\x0C\x04\x06ª
+Analysis indicates that we may not\ncurrently accomplish anything here\nat this time.
+You have been asked by Parrow to\nsearch for his sister Orielle, who\nwent out on her Loftwing but has yet\nto return.\nThere is reason to believe she headed\nto the <r<southwestern area of the sky>>.\nYou should start your search there.
+Orielle's safe return to Skyloft has\nmade Parrow very happy.
+This is <b<Kukiel's house>>.\x0E\x01\x0C\x04\x06«
+<b<Jakamar >>is the local handyman of\nSkyloft.\n\n\nHe lives together with his wife, <b<Wryna>>,\nand his daughter, <b<Kukiel>>.
+It appears Jakamar's daughter, <b<Kukiel>>,\nhas gone missing.\x0E\x01\x12\x04\x00\x02 Master, I recommend\nthat you assist in the search for her.
+Jakamar and Wryna are delighted to\nsee their daughter, <b<Kukiel>>, returned\nsafely to them.
+This is <b<Piper>>'s house. She lives here\nwith her son, <b<Gully>>.\n\n\nI have no other relevant information\non this location.
+This is the <b<Scrap Shop owner Gondo's\nhouse>>. He lives here with his mother,\n<b<Greba>>.\n\nI have no other relevant information\non this location.
+This is the <b<Lanayru Sand Sea>>. You can\ncross the sand more quickly by\npressing (A) to <r<accelerate>>.
+This is the <b<interior of the Pirate\nStronghold>>. This area is dangerous.\nYou may want to equip items in your\npouch that will restore health quickly.
+<b<Skipper's Retreat >>is on this island.\nI estimate that your <y<whip>> and\n<y<Clawshots >>will be needed to traverse\nthis dramatic and forbidding terrain.
+The <b<Shipyard >>is on this island.\n\n\n\nIf you incorrectly operate the cart\nand fall off the track, you will not\nlose any hearts. As long as you\noperate it calmly, you will be fine.
+This is <b<Skipper's Retreat>>. I recommend\ngetting rid of the <b<Aracha >>before\nlooking for the <b<sea chart>>.
+This is the <b<Pirate Stronghold>>.\nIf you want to return to the sea,\ntalk to the <b<Skipper>>.
+While locked on to an enemy with (Z),\npress \x0E\x02\x04\x02\xACD and (A) to <g<backflip>>.\x0E\x01\x11\x02\x7CD\n\n\nThis useful battle technique lets you\nsmoothly avoid an enemy attack, then\nimmediately counterattack.
+While locked on to an enemy with (Z),\npress \x0E\x02\x04\x02\xACD and (A) to <g<backflip>>.\x0E\x01\x11\x02\x7CD\n\n\nThis useful battle technique lets you\nsmoothly avoid an enemy attack, then\nimmediately counterattack. I suggest\nyou give it a try.
+<g<Hold your >><g<sword straight up >>in the air\nto charge it up for a powerful <r<Skyward\nStrike>>.\n\nIf you hold the sword steadily enough,\nyou can even charge a Skyward Strike\nwhile you're on the run or avoiding\nenemy attacks.\nWhile locked on to an enemy with (Z),\nyou can also press \x0E\x02\x04\x02\xACD and (A) to\n<g<backflip>>.\x0E\x01\x11\x02\x7CD\n\nThis useful battle technique lets you\nsmoothly avoid an enemy attack, then\nimmediately counterattack. I suggest\nyou give it a try.
+
+This subterranean area lies <b<beneath\nEldin Volcano>>. The elaborate system\nof tunnels here forms a complex web.\n\n<b<Bomb Flowers>> grow here, as they do\naboveground. When <g<rolled>>, they make\neffective weapons against enemies \nwho are blocking your way.
+We are now at the summit of <b<Eldin\nVolcano>>, near the great crater.\n\n\nThere is a 90% chance that the final \n<r<sacred flame>> is located ahead of us.\nI recommend searching for it.
+We are now at the summit of <b<Eldin\nVolcano>>, near the great crater.\x0E\x01\x0C\x04\x06º
+I detect a strong power in the area to\nthe <r<southeast>>.\n\n\nThere is a 60% probability that it is the\ndragon who knows <b<another part of the\nSong of the Hero>>.
+
+I detect the sound of a waterfall from\n<r<the passageway to the south>>. It would\nappear that there is <b<water>> near the\narea we just passed.
+There seems to be a waterfall here.\nSome water would be perfect for\nquenching your thirst in a hot area\nlike this.
+I can confirm that this area has\nchanged greatly as a result of\nthe volcanic eruption.\n\nIf you find yourself unsure how to\nproceed, I recommend talking to\nthe <b<Sheikah Stone >>in the south.
+There is an abundance of heart\nflowers growing here. Be sure to\nuse them to restore your health\nas needed.\nA heart-flower stem that has already\nbeen picked once will produce another\nheart if you <r<pour water from a bottle>>\non it.
+A <y<Bug Net>> is best for catching <b<Fairies>>,\nbut it is also possible to catch them by\nscooping them up directly with an\n<y<Empty Bottle>>.
+This is the <b<inner sanctum of the\nEarth Temple>>.\x0E\x01\x0C\x04\x06À
+I detect an ominous aura in this area.\nYou should prepare yourself by\nrestocking your <y<bomb>> supply and\nrestoring lost hearts.
+A report, \x0E\x01\x12\x04\x00\x0BMaster Link.\n\n\n\nIf you find yourself getting stuck here,\nyou may want to try to increase the\nnumber of <y<bombs >>you can carry.
+I can confirm that the ominous aura\nI previously detected in the immediate\nvicinity is no longer present. This area\nis now safe.
+This is the <b<Fire Sanctuary>>.\x0E\x01\x0C\x04\x06Á
+The <b<Water Fruit>> that hangs from\nthe ceiling may be useful in this\nenvironment of extreme heat.\n\nIf you are getting stuck here, there is\nan 85% probability that scouting the\narea with your <y<Beetle >>or experimenting\nwith your <y<Gust Bellows >>will be useful.
+To view the layout of this sanctuary,\nopen your map with \x0E\x02\x04\x02\x3CD. There is a\n95% probability that you will <r<discover\nsomething unexpected>>.\x0E\x01\x11\x02\x3CD
+\x201CYe who seek the entrance to the king's\ntreasure, look for the <r<two statues that\nface one another>>.\"\n\n\x201CShow your bravery and <r<jump into the\nmouth of the sleeping statue>>. Do this,\nand the path will open before you.\"\n\nThis is the treasure hunter's legend\nthat the Mogma <b<Guld>> spoke of.\n\n\nWhen the time comes to make a certain\n<r<decision>>, it would be good to remember\nthis legend.
+The stone bird statues in this room\nappear to each have a different\n<r<number of wings>>.
+I detect an evil presence behind the\ndoor that the <b<Mysterious Crystal >>you\nobtained should open. I recommend\nrestoring your hearts before entering.
+A report, \x0E\x01\x12\x04\x00\x0BMaster Link.\x0E\x01\x0C\x04\x06Â
+While pressing (Z) to lock on to a\ntarget, you can also press (v) to ask me\nfor an analysis of the target.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD\n\n\x0E\x01\x12\x04\x00\x02It may take me some time to gather\nsufficient data on some targets, but\nthere is an 85% probability that any\neventual results will be of use, Master.
+I can confirm that the ominous aura\nI detected in this area earlier is no\nlonger present. This area is now safe.
+Don't carry objects that occasionally\nshock you. Push them forward with\nyour sword when the charge fades,\nor just carry them with your <y<Beetle>>.
+You must pay close attention to how\nyou use bombs in this area. Analysis\nindicates that it will be more effective\nto <g<roll>> bombs than throw them.\nAlso, some objects here occasionally\nshock you. Push them forward with\nyour sword when the charge fades,\nor just carry them with your <y<Beetle>>.
+<g<Hold your >><g<sword straight up >>in the air\nto charge it for a powerful <r<Skyward\nStrike>>.\n\nIf you hold the sword steadily enough,\nyou can even charge a Skyward Strike\nwhile you're on the run or while\navoiding enemy attacks.
+I recommend stocking up on Heart\nPotions, Fairies, Invincibility Potions,\nand spare shields to prepare for the\nfinal battle.
+\x0E\x01\x12\x04\x00\x02This is the <b<interior of the Isle of Songs>>.\nIt is a sacred place built to guide you,\nMaster.
+I can detect no monsters here, but\nI am picking up the presence of a\nnumber of <r<treasure chests>>.
+Some accounts suggest <b<Fairies>> can\neven live in harsh environments\nlike this, and that they are sometimes\nfound hidden in the ground.
+This is the interior area of the Statue\nof the Goddess. It is the location where\nI slept for ages within the sword you\ncarry, \x0E\x01\x12\x04\x00\x02Master.
+This is <b<Skyloft>>. The island where the\nStatue of the Goddess once stood has\nfallen to the surface, but the shock has\npassed and life is peaceful again.
+This is <b<Lake Floria>>. There's nothing to\nsuggest the presence of monsters here,\nbut I do detect a <r<Goddess Cube\n>>signature.

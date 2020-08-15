@@ -1,0 +1,112 @@
+Ranelle-Sandmeer
+Werft
+Piratenversteck
+Haus des Kapitäns
+.~~.~~.
+\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\nWas bist du denn für einer, bzzz?\nBist du ein Mensch?\n\nWer ich bin? Also~~.~~.~~.\n\n\n\n\x0E\x01\x09\x04\x07\x00<pling>Ich bin <b<Boka>>, Kapitän des berühmt-\nberüchtigten Schiffes, das <r<Nayrus\nFlamme >>beschützt!\n[1]Nayrus Flamme?[2]Ein Schiff?
+\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\nDie Landkarte, die du hast, ist nicht\nbesonders brauchbar.\n\n\x0E\x01\x09\x04\x07\x00Um zur See zu fahren, benötigst\ndu eine richtige <y<Seekarte>>!\n\n\nEine richtige <y<Seekarte>> findest du in\n<b<meinem Haus>>. Lass uns deswegen\nzuerst da hin fahren!
+\x0E\x01\x09\x04\x07\x00Wirklich?\nNun, in diesem Fall...
+\x0E\x01\x09\x04\x07\x00Sollen wir ablegen?\n[1]Zum Meer[2]Zur Sandgaleone[3-]Nicht\nablegen
+\x0E\x01\x09\x04\x07\x00Auf geht's, bzzz!
+\x0E\x01\x09\x04\x07\x00Dann beeil dich bitte!
+\x0E\x01\x09\x04\x07\x00Gut, ich bringe dich zu meinem Schiff!
+\x0E\x01\x09\x04\x07\x00Na, dann eben nicht!\n\n\n\nAber ohne Boot kommst du hier\nganz sicher nicht weiter...
+Wie? Hast du es dir anders überlegt?\n\n\n\nHilfst du mir, mein Schiff wieder\nzurückzuholen?\n[1]Ja[2-]Nein
+\x0E\x01\x09\x04\x07\x00Sollen wir ablegen?\n[1]Leinen los![2-]Noch nicht!
+Wenn du mir helfen willst, lasse ich\ndich auf mein Boot. Wie sieht's aus?\n[1]Klar![2-]Nee.
+\x0E\x01\x09\x04\x07\x00Um <r<Nayrus Flamme >>zu beschützen,\nist mein Schiff mit einem\nTarnmechanismus ausgerüstet~~.~~.~~.\n\nWas sagst du da? Du bist auf der Suche\nnach <r<Nayrus Flamme>>?\n\n\nDu brauchst sie, um jemanden zu\nfinden, der dir sehr wichtig ist~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00Dann solltest du mir helfen, mein\nSchiff und meine Mannschaft zu\nfinden.
+\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\n\n\n\nAn jenem stürmischen Tag~~.~~.~~.\nIch und meine Mannschaft waren auf\nunserem normalen Kurs.\nUnd dann~~.~~.~~.\nPlötzlich tauchten diese Piraten auf\nund griffen uns an!\nSie trachteten nach <r<Nayrus Flamme>>!\n\nMeine Männer wurden gefangen\ngenommen, ich über Bord geworfen...
+\x0E\x01\x09\x04\x07\x00Hier fand ich mich dann wieder~~.~~.~~.
+\x0E\x01\x09\x04\x07\x00Aber mein Schiff war verschwunden.~~.~~.\n\n\n\nIch bin mir sicher, dass es mit seiner\nSpezialfunktion verschwunden ist!\n[1]Unsichtbar?[2]Verschwunden?
+Auf geht's!\nDu willst doch schließlich deine\nFreundin finden, oder?\n\nWo soll die Reise denn hingehen?\n[1]Zum Meer[2]Zur Sandgaleone[3-]Nicht\nablegen
+Da bist du ja!\nHast du deine Freundin nicht\ngefunden?\n\nWo soll die Reise denn hingehen?\n[1]Zum Meer[2]Zur Sandgaleone[3-]Nicht\nablegen
+Du suchst einen Drachen?\n\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>Der <b<Donnerdrache>> lebt südlich der\n<b<Ranelle-Höhle>>. Über einen anderen\nDrachen kann ich dir nichts sagen...\n\n\x0E\x01\x09\x04\x07\x00Willst du mit dem Boot zu einem\nbestimmten Ort fahren?\n[1]Aufs Meer![2]Zur Sandgaleone.[3-]Ich bleibe\nhier!
+\x0E\x01\x09\x04\x07\x00Komm doch wieder mal vorbei,\nwenn du Zeit hast!
+\x0E\x01\x09\x04\x07\x00Danach bin ich unzählige Male\nmit diesem Kahn hinausgefahren und\nhabe nach meinem Schiff gesucht.
+Was ist denn?\nHol schnell die <y<Seekarte>> aus meinem\nHaus, bzzz!\n\nOder willst du aufs Meer zurück?\n[1]Zum Meer[2-]Hier bleiben
+Du hast die <y<Seekarte>> gefunden?\nGut gemacht! Jetzt macht die\nSeefahrt erst richtig Spaß!\nLass uns mein Schiff suchen, ja?
+Dieses Haus ist gefüllt mit\nErinnerungen an meine Familie.\n\n\nOb ich wohl eines Tages dorthin\nzurückkehren kann? Ich würde sie\nwirklich gerne wiedersehen.~~.~~.
+Du suchst einen Drachen?\n\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>Der <b<Donnerdrache>> lebt südlich der\n<b<Ranelle-Höhle>>. Über einen anderen\nDrachen kann ich dir nichts sagen...
+\x0E\x01\x09\x04\x07\x00Sollen wir ablegen?\n[1]Auf geht's![2-]Moment!
+\x0E\x01\x09\x04\x07\x00Brechen wir auf, bzzz!
+\x0E\x01\x09\x04\x07\x00Ach so...
+Vielen Dank für deine Hilfe!\n\n\n\n\x0E\x01\x09\x04\x07\x00Allerdings sieht mein Schiff ganz schön\nmitgenommen aus... Da steht uns viel\nArbeit bevor!\n\n\x0E\x01\x09\x04\x07\x00Ich hoffe, dass auch du deine Freundin\nbald finden wirst...\n\n\n\x0E\x01\x09\x04\x07\x00Du kannst jederzeit wiederkommen,\nwenn du willst. Ich freue mich auf\ndich! Bzzz!
+
+
+Was hast du denn?\nDu wolltest doch die <b<Werft\n>>durchsuchen!\n\n\x0E\x01\x09\x04\x07\x00Oder willst du aufs Meer?\n[1]Zum Meer[2-]Hier bleiben
+\x0E\x01\x09\x04\x07\x00Hm, hier ist kein Schiff? In diesem\nFall~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00Das ist zwar etwas gefährlich...\nAber wir sollten direkt zum\nPiratenversteck fahren!\n\n\x0E\x01\x09\x04\x07\x00Also, auf geht's!\n[1]Los![2-]Warte!
+Abgemacht!\nAuf zum <b<Piratenversteck>>!
+\x0E\x01\x09\x04\x07\x00Hm, in der Werft ist kein Schiff.\nIn diesem Fall~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00Das ist zwar etwas gefährlich...\nAber wir sollten direkt zum\nPiratenversteck fahren!\n\n\x0E\x01\x09\x04\x07\x00Der Boss der Piraten ist furchtbar\nstark und hat eine Menge Piraten an\nseiner Seite...\n\n\x0E\x01\x09\x04\x07\x00Ich würde viel darum geben, ihn nie\nwieder sehen zu müssen~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00Aber ich mache es, um mein Schiff\nzurückzuerlangen!
+Ich weiß noch genau, wie mein Schiff\nhier fertiggestellt wurde.\nDas waren Zeiten.~~.~~.
+\x0E\x01\x12\x04\x00dDa wollen wir nicht hin!\nWir müssen jetzt zu <b<meinem Haus\n>>fahren!
+\x0E\x01\x12\x04\x00dNein, da will ich nicht hin! Das ist\nviel zu gefährlich!\n\n\nLass uns jetzt zur <b<Werft>> fahren, ja?
+Endlich wieder auf See!\nWie navigiert man da gleich? Ach so!\n\n\n\x0E\x01\x09\x04\x07\x00Mithilfe von \x0E\x02\x04\x02\x8CD bewegst du dich voran.\nHältst du (A) gedrückt, während du\nfährst, erhöhst du die Geschwindigkeit.\n\nDrücke (B), um die Bordkanone\nvorzubereiten, und dann (A), um sie\nabzufeuern!\x0E\x01\x11\x02\x1CD
+\x0E\x01\x09\x04\x07\x00Los geht's!
+Die Insel, auf der mein Haus steht, ist\nmit \x0E\x02\x04\x02\x19CD markiert.\n\n\nDort gibt es einen <r<Pier>>, von dem aus\ndu an Land gehen kannst!
+Was ist denn, bzzz?\nHast du etwa Angst vor den Piraten?\nDie sind doch alle schon tot...\n\nOder willst du aufs Meer zurück?\n[1]Zum Meer[2-]Hier bleiben
+Hier ist mein Schiff also auch nicht~~.~~.~~.\n\n\n\nHmmm...\nHast du irgendeinen Anhaltspunkt\nentdecken können?\n\n\x0E\x01\x09\x04\x07\x00Du weißt, wo wir hin müssen?\nDank der <r<Aurasuche>>? Das ist ja\nstark!\n\n\x0E\x01\x09\x04\x07\x00Dann bin ich zuversichtlich, dass wir\ndieses Mal wirklich mein Schiff finden!\n\n\n\x0E\x01\x09\x04\x07\x00Wollen wir ablegen?\n[1]Ja[2-]Nein
+Lass uns mein Schiff endlich suchen\ngehen!
+\x0E\x01\x09\x04\x07\x00Oder willst du aufs Meer?\n[1]Zum Meer[2-]Hier bleiben
+Link!\nKlasse!\n\n\nSieh mal, die Öffnung!\nWie hast du das nur gemacht?
+<pling>Neben der Brücke dort drinnen\nist irgendetwas!\n\n\nVielleicht finden wir dort einen\nHinweis auf den Verbleib meines\nSchiffes. Sieh doch mal nach!
+Auch im Piratenversteck haben wir\nmein Schiff nicht gefunden~~.~~.~~.\n\n\nHmmm...\nHast du irgendeinen Anhaltspunkt\nentdecken können?\n\n\x0E\x01\x09\x04\x07\x00Du weißt, wo wir hin müssen?\nDank der <r<Aurasuche>>? Das ist ja\nstark!
+Bis heute habe ich Alpträume wegen\ndes Überfalls.~~.~~.
+Wir sind da!
+Mein Haus steht auf dem Gipfel!
+\x0E\x01\x09\x04\x07\x00Bitte hole die <pling><y<Seekarte>>, die sich in\nmeinem Haus befindet.\n\n\nUnd pass auf die Monster auf! Da sind\nein paar richtig fiese Biester dabei...\n\n\n\x0E\x01\x09\x04\x07\x00Ich kann das Boot nicht alleine lassen,\ndeshalb bleibe ich hier und warte auf\ndich!
+Wir sind da!\n\n\n\nAuf dieser Insel wurden früher Schiffe\ngebaut. Hier befinden sich sowohl die\nWerft als auch die Behausungen der\nWerftarbeiter.
+Aber der Eingang ist verschlossen. Wir\nkommen da wohl nicht rein...
+\x0E\x01\x09\x04\x07\x00Die einzelnen Gebäude dieser\nInsel sind mit Loren untereinander\nverbunden!
+Dort ist der Lorenbahnhof!
+\x0E\x01\x09\x04\x07\x00Geh dort einmal hin und sieh dich\num! Ich warte hier auf dich.
+\x0E\x01\x09\x04\x07\x00Wenn du in die Lore steigst, kannst\ndu die Werft vielleicht über den\nHintereingang betreten.
+Dieses Gebäude ist die Werft!
+Ich habe Angst~~.~~.~~.\n\n\n\n\x0E\x01\x09\x04\x07\x00Aber wenn man es genau nimmt,\nleben wir ja alle bereits nicht mehr.\n\n\n\x0E\x01\x09\x04\x07\x00Auch ich bin nur wegen des Steins\nder Zeit in meinem Boot an diesen\nOrt gelangt...\n\x0E\x01\x09\x04\x07\x00Irgendwie beruhigt mich das...\nAlso, Link!\nSchau mal, ob du mein Schiff findest!\n\x0E\x01\x09\x04\x07\x00Ich warte hier...
+Von jetzt an kannst du das Schiff, in\ndem <r<<pling>Nayrus Flamme>> ruht, mit der\n<r<Aurasuche >>aufspüren.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.
+Es besteht eine Wahrscheinlichkeit von\n60 %, dass dieser Mast und dieses Segel\nTeile des Schiffs waren, in dem <r<Nayrus\nFlamme >>ruht.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nDie Wahrscheinlichkeit, dass du das\nSchiff hier findest, liegt selbst bei\numfangreicher Suche stets bei 0 %.\n\nIch empfehle dir, dem Kapitän\nBescheid zu geben und diese Insel\nzu verlassen.
+\x0E\x01\x12\x04\x00\x0BGebieter, es scheint, als sei dieser Ort\nin den Jahren zu einem Hort des Bösen\nverkommen...\n\nDie Wahrscheinlichkeit, hier einen\nAnhaltspunkt zum Schiff zu finden,\nscheint mir gering.
+
+\x0E\x01\x12\x04\x00dHast du das gesehen?\nDas war mein Schiff!\n\n\nLos, verfolgen wir es! Und immer fest\ndraufhalten mit der Kanone!
+Öffne jetzt mal die <y<Seekarte>>, die du\nmitgebracht hast!
+Die Lage der <pling><b<Werft>> ist mit \x0E\x02\x04\x02\x19CD\nmarkiert.
+\x0E\x01\x09\x04\x07\x00Auf geht's!
+\x0E\x01\x09\x04\x07\x00Alle unsere Schiffe kommen aus der\nWerft. Auch meines wurde dort gebaut.\n\n\n\x0E\x01\x09\x04\x07\x00Ich bin mir sicher, dass du dort einen\nHinweis auf den Aufenthaltsort meines\nSchiffes finden kannst!
+Ich habe Angst~~.~~.~~.\n\n\n\nDer Boss der Piraten ist furchtbar\nstark und hat eine Menge Piraten an\nseiner Seite...\n\n\x0E\x01\x09\x04\x07\x00Ich würde viel darum geben, ihn nie\nwieder sehen zu müssen~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00Aber ich mache es, um mein Schiff\nzurückzuerlangen!
+Das <pling><b<Piratenversteck>> ist auf der Karte\nmit \x0E\x02\x04\x02\x19CD markiert.
+\x0E\x01\x09\x04\x07\x00Also los, brechen wir auf!
+\x0E\x01\x09\x04\x07\x00Wollen wir wirklich dieses riesige Meer\nabsuchen?\n\n\n\x0E\x01\x09\x04\x07\x00Mir bleibt nicht viel mehr übrig, als dir\nzu vertrauen...\n\n\n\x0E\x01\x09\x04\x07\x00Vermutlich hat sich das Schiff getarnt.\nWenn wir es aber mit der Kanone<pling>\n<g<treffen>>, wird es sichtbar werden!
+\x0E\x01\x12\x04\x00\x01Sieh nur, Gebieter.
+Dieses Objekt hier ist eine <y<<pling>Kugel der\nZeit>>.\n\n\nAnders als Steine der Zeit kann man\nsie an verschiedene Orte bringen.
+
+\x0E\x01\x12\x04\x00\x01Gebieter, dies ist die <y<Seekarte des\nKapitäns>>. Ich schlage vor, sie zurück\nzum Kapitän zu bringen.\n\nSieh nur, \x0E\x01\x12\x04\x00\x01Gebieter.
+Auf diesem Schiff ist Nayrus Flamme\nversteckt. Die Wahrscheinlichkeit, dass\ndie Mannschaft ebenfalls aus Robotern\nbesteht, beträgt 90 %.
+Ich schätze, dass der Kapitän\ninmitten seiner Mannschaft ein\nglückliches Leben gelebt hat.
+Sieh nur, \x0E\x01\x12\x04\x00\x01Gebieter.
+In dieser Vorrichtung befindet sich\nkein <r<Stein der Zeit>>...\n\n\nJedoch besteht eine Wahrscheinlichkeit\nvon 95 %, dass es ein ähnlicher\nMechanismus wie der in der <b<Wüste\nRanelle >>ist.
+Ich schätze, dass auch diese\nVorrichtung von einem <pling><r<Stein der Zeit>>\nangetrieben wird. 
+\x0E\x01\x12\x04\x00\x01Gebieter, wir sind im Inneren der\nWerft angekommen.
+Nach all der Zeit ist auch hier alles\nvon Sand bedeckt.
+Ich empfehle dir, im Sand nach\nAnhaltspunkten zum Schiff zu suchen.
+\x0E\x01\x12\x04\x00\x01Gebieter, ich muss dich ermahnen.\n\n\n\nAusruhen kannst du dich später.\nJetzt solltest du zuerst nach der\nSeekarte suchen.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.
+Ich spüre die Präsenz von Insekten\nim oberen Stockwerk des Gebäudes.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nDurch die Kraft der Kugel der Zeit hat\nsich hier etwas verändert. \nIch empfehle, einmal nachzusehen.
+Zum Zentrum
+Zum Pier
+Zur Werft
+Tritt an die Lore heran\nund drücke (A),\num hineinzusteigen.
+Neige die Lore in der Kurve\nmit der Wii-Fernbedienung.
+Bremse, wenn du zu schnell\nwirst, indem du (B) drückst.
+Um zu springen, bewege die\nWii-Fernbedienung ruckartig\nnach oben.
+Endstation: Werft
+Vorsicht, vermehrt Angriffe\nvon Piraten verzeichnet!
+Am Monatsende ist die\nLorenbahn wegen Inspektion\nden ganzen Tag geschlossen.
+Wann ich den Plan für mein\nSchiff wohl fertig bekomme?
+\x0E\x01\x05\x04\x0F\x00\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\n\x0E\x01\x05\x04<\x00Dies ist das <b<Ranelle-Sandmeer>>.\nFrüher war hier ein riesiger Ozean.
+\x0E\x01\x05\x04Z\x00Heute aber ist alles ausgetrocknet\nund mit Sand bedeckt.
+\x0E\x01\x05\x04Z\x00An diesem Ort befand sich früher ein\nHafen.
+\x0E\x01\x05\x04<\x00Es besteht eine Wahrscheinlichkeit von\n90 %, dass wir die <r<heilige Flamme >>hier\nirgendwo finden werden.\n\n\x0E\x01\x05\x04\x1E\x00Ich empfehle, deine Suche in diesem\nSandmeer fortzuführen.
+An den Kapitän:\nVielen Dank für alles!\nDeine Mannschaft
+Lieber Papa,\nalles Gute auf der Arbeit!

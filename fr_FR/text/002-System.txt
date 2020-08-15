@@ -1,0 +1,152 @@
+Zelda: Skyward Sword
+L'épique destin de Link et Zelda
+Connectez le Nunchuk à la\ntélécommande Wii, puis patientez\nun instant sans toucher le Stick\ndirectionnel du Nunchuk.
+Connectez la télécommande Wii\net le Nunchuk à l'accessoire Wii\nMotionPlus, puis patientez un\ninstant sans toucher le Stick\ndirectionnel du Nunchuk.
+
+
+Les piles de la télécommande Wii\nsont presque vides.\n\nVeuillez consulter le menu HOME.
+La connexion avec la télécommande Wii\na été interrompue. Veuillez reconnecter\nla télécommande Wii.\nAppuyez sur (A) sans toucher au Stick\ndirectionnel.
+Calibrage du Wii MotionPlus.\nPosez la télécommande Wii\nsur une surface plane.
+Pointez la télécommande Wii\nvers l'écran et positionnez\n\x0E\x02\x04\x02\x18CD à l'intérieur du cadre.
+Appuyez sur (A).
+Échec du test de calibrage.\n\nVoulez\x2010vous réessayer ?\n\n[1]Oui[2]Non
+
+
+Si vous continuez sans procéder\nau calibrage, les commandes\nrisquent de ne pas fonctionner\ncorrectement. Continuer ?\n[1]Continuer[2]Réessayer
+
+Voulez\x2010vous regarder une vidéo\nd'explication sur le Wii MotionPlus ?\n[1]Oui[2-]Non
+Il n'y a pas assez d'espace libre dans la\nmémoire de la console Wii. Libérez 1 bloc\nen transférant des données vers une carte\nSD ou en les effaçant depuis l'écran de\ngestion des données de la console Wii.
+Il n'y a pas assez d'espace libre dans la\nmémoire de la console Wii. Transférez des\ndonnées sur une carte SD ou effacez des\ndonnées inutiles depuis l'écran de gestion\ndes données de la console Wii.
+Voulez\x2010vous accéder à l'écran\nde gestion des données de\nla console Wii ?\n[1]Oui[2]Non
+Le fichier est corrompu et ne peut\npas être utilisé.\n\nToutes les données de sauvegarde\nprécédentes seront perdues. Créer\nde nouvelles données ?\n[1]Oui[2]Non
+La mémoire de la console Wii\nest endommagée. Veuillez vous\nréférer au mode d'emploi Wii\npour plus de détails.
+Impossible d'accéder à la mémoire\nde la console Wii. Veuillez vous\nréférer au mode d'emploi Wii\npour plus de détails.
+Une erreur est survenue lors\nde l'accès à la mémoire de la\nconsole Wii. Veuillez vous\nréférer au mode d'emploi Wii\npour plus de détails.
+
+Création des données de sauvegarde.\nNe touchez pas au bouton POWER\nni au bouton RESET.
+Les données de sauvegarde de\nThe Legend of Zelda: Skyward Sword\nont été créées.
+Échec de la création des données\nde sauvegarde. Réessayer ?\n[1]Oui[2]Non
+Les données de sauvegarde sont\ncorrompues et vont être restaurées.
+Restauration des données de\nsauvegarde. Ne touchez pas au\nbouton POWER ni au bouton RESET.
+Les données de sauvegarde\nont été restaurées.
+Création de nouvelles données de\nsauvegarde. Ne touchez pas au\nbouton POWER ni au bouton RESET.
+De nouvelles données de\nsauvegarde ont été créées.
+Sauvegarde en cours.\nNe touchez pas au bouton\nPOWER ni au bouton RESET.
+Données sauvegardées.
+\x0E\x02\x02\x04\x00\x00\n[1]Sauvegarder[2]Sauvegarder\net \x0E\x00\x03\x02\x01quitter>>[3-]Annuler
+Voulez\x2010vous vraiment\nquitter la partie ?\n[1]Oui[2-]Non
+\x0E\x02\x02\x04\x00\x00\n[1]Sauvegarder[2]Sauvegarder\net \x0E\x00\x03\x02\x01quitter>>[3]Retourner\ndans le <b<ciel>>[4-]Annuler
+Voulez\x2010vous retourner dans le <b<ciel >>?\n[1]Oui[2-]Non
+
+\x0E\x02\x02\x04\x00\x00\n[1]Sauvegarder[2]Sauvegarder\net \x0E\x00\x03\x02\x01quitter>>[3]<b<Sortir>>[4-]Annuler
+Voulez\x2010vous sortir de ce donjon ?\n[1]Oui[2-]Non
+Voulez\x2010vous sauvegarder\nvotre progression ?\n[1]Sauvegarder[2]Sauvegarder\net \x0E\x00\x03\x02\x01quitter>>[3-]Annuler
+Vous ne pourrez pas sauvegarder votre\nprogression.\nVoulez\x2010vous tout de même commencer ?\n[1]Commencer[2-]Quitter
+Sauvegarde impossible.\nVoulez\x2010vous tout de même continuer ?\n[1]Continuer[2]Quitter
+
+
+Félicitations ! Vous avez terminé\nle jeu en <r<mode héroïque>>. Voulez\x2010vous\nsauvegarder votre progression ?\n[1]Oui[2-]Non
+Voulez\x2010vous vraiment retourner\nà l'<b<écran titre >>?\n[1]Oui[2-]Non
+Voulez\x2010vous utiliser ce carnet pour\ncommencer à jouer en <r<mode héroïque >>?\n[1]Oui[2-]Non
+Les données sauvegardées seront\neffacées. Souhaitez\x2010vous vraiment\ncommencer le <r<mode héroïque>> ?\n[1]Oui ![2-]Non
+Copie en cours...\nNe touchez pas au bouton\nPOWER ni au bouton RESET.
+Données copiées.
+Les données écrasées ne pourront pas\nêtre récupérées. Voulez\x2010vous copier vos\nnouvelles données sur ce fichier ?\n[1]Oui[2-]Non
+
+Effacement en cours...\nNe touchez pas au bouton\nPOWER ni au bouton RESET.
+Données effacées.
+Les données effacées ne pourront\npas être récupérées.\nVoulez\x2010vous effacer ce fichier ?\n[1]Oui[2-]Non
+
+
+
+
+Voulez\x2010vous continuer la partie ?\n[1]Continuer[2]Quitter
+Voulez\x2010vous continuer la partie ?\n[1]Continuer[2]Quitter
+Voulez\x2010vous vraiment quitter la partie ?\n[1]Oui[2-]Non
+
+
+
+
+
+Link
+Carnets
+Choix du nom
+Choisissez un carnet de voyage.
+Copier vers quel carnet ?
+Choisissez le nom du héros.
+Commencer à jouer ?
+Voulez\x2010vous effacer ce carnet ?
+Allez rejoindre Zelda à la statue de la Déesse.
+Cherchez votre célestrier vermeil qui a disparu.
+Utilisez la carte pour localiser votre célestrier\nvermeil.
+Remportez la chevauchée céleste.
+Rattrapez l'étrange jeune fille qui vous est\napparue en rêve.
+Dirigez\x2010vous vers la colonne de lumière\net descendez sur terre, sous les nuages.
+Partez à la recherche de Zelda sur terre.
+Allez chercher Zelda dans la forêt de Firone.
+Retrouvez la piste de Zelda en interrogeant\nles Tikwis, le peuple de la forêt.
+Utilisez le lance\x2010pierre pour atteindre le temple\noù se trouve Zelda.
+Cherchez Zelda dans le temple de la\ncontemplation.
+Rapportez la stèle à la statue de la Déesse.
+Allez au volcan d'Ordinn grâce à la nouvelle\ncolonne de lumière.
+Cherchez Zelda au volcan d'Ordinn.
+Reconstituez la clé du temple de la terre\nau volcan d'Ordinn.
+Ouvrez la porte du temple à l'aide de la clé\nque vous avez reconstituée.
+Cherchez Zelda dans le temple de la terre.
+Rapportez la troisième stèle à la statue\nde la Déesse.
+Allez au désert de Lanelle grâce à la nouvelle\ncolonne de lumière.
+Cherchez Zelda dans le désert de Lanelle.
+Cherchez l'entrée de la raffinerie de Lanelle.
+Traversez la raffinerie de Lanelle pour atteindre\nle temple du temps.
+Allez voir l'Ancienne au vallon du sceau avec\nvotre lyre.
+Réagissez aux événements étranges survenus\nau vallon du sceau.
+Enquêtez sur le Chant de la Déesse.
+Résolvez le mystère du Chant de la Déesse.
+Allez à l'endroit qu'indique la tour de lumière.
+Cherchez l'entrée de l'épreuve et le Courage\nde Farore vous ouvrira la voie.
+Continuez à explorer la forêt de Firone grâce à\nl'écaille du dragon d'eau.
+Interrogez le dragon d'eau sur la flamme sacrée.
+Apportez de l'eau sacrée au dragon d'eau.
+Pénétrez dans le passage apparu derrière\nla cascade.
+Cherchez la flamme sacrée dans la grande\ncaverne antique.
+Rendez\x2010vous sur l'île aux chants pour apprendre\nun nouveau chant.
+Cherchez l'entrée de l'épreuve et la Sagesse\nde Nayru vous ouvrira la voie.
+Explorez le désert de Lanelle grâce au grappin.
+Allez chercher la carte marine dans la maison\ndu capitaine.
+Cherchez le navire dans le chantier naval.
+Cherchez le navire dans le repaire des pirates.
+Utilisez la fonction détection pour localiser\nle navire sur la mer de sable de Lanelle.
+Cherchez la flamme sacrée sur le galion\ndes sables.
+Rendez\x2010vous sur l'île aux chants pour apprendre\nle troisième chant.
+Cherchez l'entrée de l'épreuve et la Force de Din\nvous ouvrira la voie.
+Explorez les zones désormais accessibles grâce\naux boucles ignifuges.
+Transportez de l'eau jusqu'au sommet du\nvolcan d'Ordinn.
+Amenez la bassine d'eau jusqu'au mur de feu\nau sommet du volcan et entrez dans le temple.
+Cherchez la flamme sacrée dans le grand\nsanctuaire ancien.
+Activez la porte du temps grâce à votre nouveau\npouvoir.
+Éliminez à nouveau le monstre surgi du fond du\nvallon du sceau.
+Utilisez l'éclat céleste sur la porte du temps.
+Retrouvez Zelda dans le monde du passé.
+Retournez à votre époque pour tenir la promesse\nque vous avez faite à Zelda.
+Récoltez des informations sur la Triforce\nà Célesbourg.
+Demandez à maître Arfan où trouver Narisha.
+Interrogez Narisha sur la Triforce.
+Écoutez chacun des dragons chanter sa mélodie\ndu Chant du héros.
+
+
+
+Retournez voir Narisha pour compléter le\nChant du héros.
+Cherchez l'entrée de l'épreuve et le Chant du\nhéros vous ouvrira la voie.
+Cherchez le second sceau des épreuves.
+Entrez dans la tour apparue sous l'île\nde la Déesse.
+Cherchez les trois Triforces dans la tour\ndes cieux.
+Partez à la recherche de Zelda, kidnappée par\nGhirahim.
+Empêchez Ghirahim de ressusciter l'Avatar\ndu Néant.
+Combattez Ghirahim dans le monde du passé.
+Combattez l'Avatar du Néant dans le monde\ndu passé.
+
+
+
+Course d'oiseaux
+Donjon
+Combat contre un boss

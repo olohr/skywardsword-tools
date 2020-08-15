@@ -1,0 +1,7 @@
+Confirmo que este es el <r<rotor\ndel molino >>que buscábamos.\n\n\nEl robot ya está disponible para\nrecogerlo y transportarlo.\n\n\n¿Desea el \x0E\x01\x12\x04\x00\x01amo que lo llame?\n[1]Adelante[2-]No
+\x0E\x01\x12\x04\x00\x05Está bien, amo. Le recuerdo que basta\ncon examinar de nuevo el rotor en\ncaso de cambiar de opinión.
+\x0E\x01\x12\x04\x00\x05Muy bien, amo. Avisaré al robot\ntelepáticamente.<pling>
+\x0E\x01\x12\x04\x00d¡Mi Fay querida!\n¡Lamento la tardanza!\n\n\nEs esto, ¿no? ¡Perfecto, yo me encargo\nde todo!
+\x0E\x01\x12\x04\x00dMuy bien, ¡me voy volando!\n¡Espero verte pronto, preciosa!
+\x0E\x01\x12\x04\x00\x01Amo, sugiero regresar al cielo\nde inmediato para llevar el rotor\na su destino.
+\x0E\x01\x12\x04\x00d¡Oye, amo verdoso! ¿Por qué no\nte echas a un lado para que pueda\npasar?

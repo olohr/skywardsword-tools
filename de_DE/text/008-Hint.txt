@@ -1,0 +1,167 @@
+Na, wie geht's? Ich habe eine neue\nVision für dich! Willst du sie sehen?[1]Ja[2-]Nein
+Wie geht's?\x0E\x01\x04\x02\n Im Moment habe ich keine\ninteressanten Visionen für dich.\nWillst du eine alte Vision sehen?[1]Ja[2-]Nein
+Wie geht's?\x0E\x01\x04\x02\n Ich kann dir alle meine\nVisionen zeigen. Willst du Visionen\nsehen?[1]Ja[2-]Nein
+Gut, kein Problem.\nDann alles Gute weiterhin!
+Junger Mann\x0E\x01\x04\x02\n, es sieht so aus, als ob\nich keine Neuigkeiten für dich hätte.\n\n\nWie wär's, wenn du ein wenig später\nwieder zu mir kommen würdest?\nVielleicht habe ich dann wieder etwas\nInteressantes für dich.
+Hallo hallo, junger Mann!\nKomm doch mal rüber zu mir!
+Ich bin ein <b<Shiekah-Stein>>.\nFreut mich, deine Bekanntschaft zu\nmachen.\n\nLass mich direkt zur Sache kommen...~~~\nIch denke, du wirst hin und wieder\nnicht wissen, was du tun sollst, wie es\nweitergeht...\nWenn du dir mal bei einem Rätsel\nvergeblich den Kopf zerbrichst und dir\nkeine Lösung einfällt, komm zu mir.\n\nIm Moment habe ich nichts für dich,\naber wenn du später wiederkommst,\nkann ich dir was <r<Tolles>> zeigen.\n\nAlles Gute!
+Ich bin ein <b<Shiekah-Stein>>\x0E\x01\x04\x02\n.~~.~~.\x0E\x01\x04\x02\n\nAh, du weißt schon Bescheid. Na, wenn\ndas so ist...\n\nLass mich direkt zur Sache kommen...~~~\nDu spielst im <r<Helden-Modus>>, also gibt\nes kein Rätsel, das du nicht schon\ngelöst hast.\nDas finde ich wirklich beeindruckend,\nund deswegen kannst du dir gleich von\nAnfang an <pling><r<alle Visionen>> ansehen.\n\nWenn du dir die bereits gesehenen\nVisionen ansehen möchtest, komm\neinfach vorbei.\n\nAlles Gute!
+Neu
+Geschafft
+Wolkenhort und Wolkenmeer
+Siegelhain
+Wald von Phirone
+Vulkan Eldin
+Wüste Ranelle
+Tempel des Himmelsblicks
+Tempel des Erdlandes
+Ranelle-Steinwerk
+Höhlenheiligtum
+Sandgaleone
+Altes Großheiligtum
+Turm des Himmels
+Bonus
+Rette den Wolkenvogel!
+Folge dem geheimnisvollen Mädchen
+Wie komme ich in Terris Laden?
+Das Rätsel des Friedhofs
+Die zwei großen Flügel (Teil 1)
+Die zwei großen Flügel (Teil 2)
+Die Brücke zur Stätte der Lieder
+Hilf Narisha!
+
+Setze das Insigne der Reife ein!
+Dekuranha-Jagd für Anfänger
+Der Verbannte
+Schon wieder der Verbannte...
+Und noch mal der Verbannte...
+Allein gegen die Bokblins
+Der letzte Kampf mit Ghirahim (Teil 1)
+Der letzte Kampf mit Ghirahim (Teil 2)
+Der Todbringer
+Kyu, wo bist du? (Teil 1)
+Kyu, wo bist du? (Teil 2)
+Kyu, wo bist du? (Teil 3)
+Jetzt bist du dran, Oktorok!
+Die Bienenplage
+Auf zum Tempel!
+Und rein in den Tempel!
+
+Mit der Wasserdrachenschuppe...
+Schwing dich rüber!
+Auf zum See
+
+
+
+Fang die Melodinen!
+Die Melodine unter dem Lotus
+Die Melodine hinter dem Felsen
+Das Loch, das der Mogma verstopfte
+Vorbei am Wachturm
+Schlüsselfragmente (Teil 1)
+Keine Brücke, aber doch ein Weg...
+Schlüsselfragmente (Teil 2)
+Schlüsselfragmente (Teil 3)
+
+Ich... habe... Durst...
+Das große Wassergefäß
+Hol dir die Peitsche zurück!
+Hol dir die Schleuder zurück!
+Hol dir die Bombentasche zurück!
+Hol dir deine restlichen Sachen zurück!
+Durch die Ranelle-Mine (Teil 1)
+Durch die Ranelle-Mine (Teil 2)
+Durch die Ranelle-Mine (Teil 3)
+Rette den Roboter
+Durch die Wüste Ranelle (Teil 1)
+Durch die Wüste Ranelle (Teil 2)
+Zum Tempel der Zeit
+Zum Ranelle-Steinwerk
+Die Wüste ist hungrig
+Knacke den Code (Teil 1)
+Knacke den Code (Teil 2)
+Knacke den Code (Teil 3)
+
+Mit dem Greifhaken geht's weiter
+Der Moblin mit dem Eisenschild
+Im Piratenversteck (Teil 1)
+Im Piratenversteck (Teil 2)
+Wo ist die Sandgaleone?
+Irgendwo da muss der Schlüssel sein...
+Der Fels ist im Weg
+Ein guter Nährboden
+Dreh dich, bis dir schwindelig wird...
+Finde den Schalter!
+Skulltula-Jagd für Anfänger
+Der mit \x0E\x02\x04\x02\x19CD markierte Schalter
+Der Kampf gegen Stalfos
+Finde den nächsten Schalter!
+Besiege Ghirahim!
+Der Schlüssel des Mogma
+Eine Brücke über die Lava
+Ans andere Ende der Lava
+Finde die Bombentasche
+Echsalfos-Jagd für Anfänger
+Jetzt, wo du die Karte hast...
+Öffne das Lava-Tor
+Erklimme den Steilhang
+Der Kampf mit Beradama
+Öffne das erste Gitter
+Weg mit den Holzkisten!
+Der gefangene Stein der Zeit
+Fließband-Sprinten
+Schatztruhe hinter Gittern
+Lass dich nicht (r)unterkriegen!
+Loren, Steine der Zeit und Propeller
+Das Rätsel der drei Schalter
+Propeller-Lifte und der Stein der Zeit
+Aus dem Weg, Rokopter!
+Das Auge des Zyklopen
+Mund auf, Armos!
+Der Kampf mit Moldoghad
+Die Reihenfolge der Juwelen
+So ein Lotus ist kein Hindernis
+En garde, Stalmeister!
+Der Schalter beim Wasserfall
+Schlüsseldiebstahl
+Kannst du den Schraubensprung noch?
+Es hat sich ausgeflattert, Feuersegler!
+Halte dich am Efeu fest
+Rotierende Säulen
+Der Kampf mit Da Ilohm
+Die Reihenfolge der 4 Juwelen
+Über die Planke, Drahtbart!
+
+Stromversorgung (Teil 1)
+Stromversorgung (Teil 2)
+Tentakelschneiden
+Der Kampf mit Daidagos (Teil 1)
+Der Kampf mit Daidagos (Teil 2)
+Der Magmand-Raum
+Ein Raum voller Lava
+Noch... mehr... Durst...
+Besiege die Magmand
+Die versteckte Wand
+Der große Boss-Schlüssel
+Ghirahim, Akt 2
+Im Fels, da steckt ein Feuerolm
+Wie man die Sache schaukelt
+Über den Lavastrom
+Noch einmal über den Lavastrom
+Das Juwel hinter der Statue
+Ein Raum voll Treibsand (Teil 1)
+Ein Raum voll Treibsand (Teil 2)
+Ein Raum voll Treibsand (Teil 3)
+Das Duell mit Schockbart
+Insektenfangen leicht gemacht
+Die Suppenlieferung
+Wo ist Galea?
+Die Scheune ohne Eingang
+Mehr Ausdauer für Grus
+Die Leiden eines Wahrsagers
+Schlaflose Nächte für Papa
+Die Suche nach dem Dämonenkäfer
+Ein Bild für die Göttin
+Göttinen-Graffitti
+Schnapp dir den Pfeil!
+Ein beherzter Sprung

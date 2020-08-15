@@ -1,0 +1,17 @@
+Probabilità che questa creatura sia\nuna pianta: 40%. <b<Asio Otus >>sarà in\ngrado di capire se si tratta di una nuova\nspecie.\nÈ possibile trasportarla per mezzo\ndel robot. Volete che lo chiami?\n[1]Sì[2-]No
+\x0E\x01\x12\x04\x00\x05Bene, signore,\nse volete trasportarla\nesaminatela di nuovo.
+\x0E\x01\x12\x04\x00\x05Bene, signore. Proverò\na chiamare il robot telepaticamente.
+\x0E\x01\x12\x04\x00dAdorata Faih!\nAccorro! Eccomi! Bzzz!\n\n\nVuoi che trasporti qualcosa?\nCerto! Bzzz!
+Ecco qui! Ti aspetto in volo, nel cielo,\nraggiungimi presto!!! Bzzz!!!
+\x0E\x01\x12\x04\x00\x01Signore, suggerirei di tornare nel\nCielo e portare subito il Kyuri nella\nterra designata.
+\x0E\x01\x12\x04\x00dEhi, togliti di mezzo! Bzzz!\nNon farmi ripetere sempre le\nstesse cose! Sgrunt!
+\x0E\x01\x09\x04\x00\x01Oh, sei tu, giovane virgulto!\nSono stato nascosto troppo a lungo\ne mi fanno male le spalle... \n[1]Spalle?[2]Poverino!
+\x0E\x01\x09\x04\x09\x14Ma come ti permetti!\nNon sono molto pronunciate,\nma ce le ho le spalle!\n\n\x0E\x01\x09\x04\x07\x11Sai quanto ci si stanca\na stare fermi come una natura morta\nper scampare il pericolo?!
+\x0E\x01\x09\x04\x07\x11È dura la vita a stare fermi \ncome una natura morta aspettando di\nscampare il pericolo, credimi!
+\x0E\x01\x09\x04\x09\x13Ma ci sono ancora\nun sacco di cattivi in giro...\n\n\n\x0E\x01\x09\x04\x07\x04Noi Kyuri saremo\ncondannati a passare la\nnostra vita così?!
+\x0E\x01\x09\x04\x09\x13Tutti dicono che nella foresta\nè tornata la pace e sono contenti...\nBeh, io non ci credo affatto!\n\n\x0E\x01\x09\x04\x07\x04Forse dovrò passare tutta\nla vita così!
+\x0E\x01\x09\x04\x09\x05Non esisterà un posto in\ncui si possa vivere tranquilli\nsenza bisogno di nascondersi?!\n[1]Certo![2]Ci penso io!
+\x0E\x01\x09\x04\x06\x07Davvero?! Portamici\nsubito!!!
+\x0E\x01\x09\x04\x07\x14Ehi, tu, tenero virgulto! Non si illude\ncosì la gente portandola su nel cielo\ne poi lasciando le cose a metà!\n\n\x0E\x01\x09\x04\x09\x13Mi sono appassito pensando\nche non sarei più andato a vivere\nin un posto tranquillo!
+\x0E\x01\x09\x04\x07\x04Allora, questa volta portamici\nsul serio!\n\n\n\x0E\x01\x09\x04\x00\x01Ci conto!
+\x0E\x01\x09\x04\x07\x03Voglio essere trasportato in\nun posto pacifico in cui possa vivere\ntranquillo senza bisogno di\nnascondermi!\n\x0E\x01\x09\x04\x00\x01Conto su di te!

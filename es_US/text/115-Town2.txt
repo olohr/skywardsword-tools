@@ -1,0 +1,263 @@
+\x0E\x01\x09\x04\x00\nSí, sí, adelante, adelante...\nBien, dígame... ¿qué desea?\n\n[1]Comprar[2]Bueno, yo...
+\x0E\x01\x09\x04\x0F\x409Mire, para eso mejor será que vaya\na mi establecimiento mañana.
+\x0E\x01\x09\x04\x13\x609Bueno... ¿qué? ¿Es que no desea\nnada en particular?
+¿Cómo dice? ¿Pregunta por qué soy\nbrusco? ¿Y dice que durante el día\nparecía una persona distinta?\n\n\x0E\x01\x09\x04\x10\x60BBueno, supongo que estoy cansado\ndespués de tener todo el día la misma\nsonrisa bobalicona de vendedor.\n\nPero no piense mal de mí, por favor.\n\n\n\nEn fin, a lo que íbamos...\n\n\n\nSupongo que ha venido a hacer uso de\nla <r<tienda de utensilios nocturna>>, ¿no?\n\n[1]¿Qué es?[2]Así es
+\x0E\x01\x09\x04\x00\x09Aaah, por lo que veo es su primera vez.\nEn fin... Está bien, se lo explicaré.
+\x0E\x01\x09\x04\x0F\x409¡Debería haber empezado por ahí!
+\x0E\x01\x09\x04\x12\x600Digamos que durante la noche\nmi especialidad comercial cambia...\nEs decir, que me dedico a <r<comprar\ntesoros>>.\nPero no compro lo primero que veo,\npues solo acepto los <r<tesoros que\naparecen aquí señalados>>...\n\n\x0E\x01\x09\x04\x10\x600Bien, ya podemos ir al grano.
+\x0E\x01\x09\x04\x00\n¿Quiere venderme algún tesoro?
+\x0E\x01\x09\x04\x12\x600Esto es lo que acepto hoy:\n\n\n\n<y<\x0E\x02\x02\x04\x00\x00\n<y<\x0E\x02\x02\x04\x00\x01<y<\n<y<\x0E\x02\x02\x04\x00\x02<y<\n<y<\x0E\x02\x02\x04\x00\x03<y<>>\n\x0E\x01\x09\x04\x10\x600¿Se ha decidido ya?\n[1]Vendo[2-]No vendo
+Bueno, ¿qué desea vender?\n\n\n\nOpción 1: <y<\x0E\x02\x02\x04\x00\x02>>\nOpción 2: <y<\x0E\x02\x02\x04\x00\x03>>\nOpción 3: <y<\x0E\x02\x02\x04\x00\x00>>\nOpción 4: <y<\x0E\x02\x02\x04\x00\x01>>[1]Opción 3[2]Opción 4[3]Opción 1[4]Opción 2
+\x0E\x01\x09\x04\x12\x600Ajá, en ese caso le daré \x0E\x02\x03\x06\x00\x00Í \x0E\x03\x04\x02\x1CD\npor cada unidad.
+\x0E\x01\x09\x04\x12\x600Ajá, en ese caso le daré \x0E\x02\x03\x06\x00\x01Í \x0E\x03\x04\x02\x1CD\npor cada unidad.
+\x0E\x01\x09\x04\x12\x600Ajá, en ese caso le daré \x0E\x02\x03\x06\x00\x02Í \x0E\x03\x04\x02\x1CD\npor cada unidad.
+\x0E\x01\x09\x04\x12\x600Ajá, en ese caso le daré \x0E\x02\x03\x06\x00\x03Í \x0E\x03\x04\x02\x1CD\npor cada unidad.
+\x0E\x01\x09\x04\x10\x600Por lo que veo tiene \x0E\x02\x03\x06\x00\x04Í.\n¿Cuántas desea vender?\n[1]Una[2]Cinco[3]Todas[4-]Ninguna
+<y<\x0E\x01\x09\x04\x12\x900>>Así que me vende \x0E\x02\x03\x06\x00\x00Í, ¿no es así?\nLe puedo dar \x0E\x02\x03\x06\x00\x01Í \x0E\x03\x04\x02\x1CD. ¿Hay trato?\n[1]Sí[2-]Olvídelo
+\x0E\x01\x09\x04\x0F\x409¡No tiene suficiente!\n¿Está intentando burlarse de mí?
+\x0E\x01\x09\x04\x0F\x409¿Le parece bien hacerme perder\nel tiempo a estas horas de la noche?\n\n\n¡Ni siquiera tiene una sola unidad de\nese tesoro! ¿Tiene alguna otra cosa que\ndesee vender?\n[1]Así es[2-]Olvídelo
+\x0E\x01\x09\x04\x10\x80AMuy bien. Tome, aquí tiene su dinero.
+Gracias. ¡Vuelva en otra ocasión!
+\x0E\x01\x09\x04\x0F\x0CDe acuerdo. Bueno, ya sabe dónde\nencontrarme cuando quiera vender\nalgo.
+\x0E\x01\x09\x04\x00\xFF01Vaya, mira a quién tenemos aquí... \nSi es Link... ¿A qué has\nvenido, si puede saberse?
+<r<\x0E\x01\x09\x04\x00\x300>>¿Qué? ¿Preguntas qué estoy haciendo?\n\n\n\n\x0E\x01\x09\x04ÿ\x114Pues admirar mi colección...\nMi colección de <r<insectos>>.
+\x0E\x01\x09\x04\x01\xFF00Los insectos son increíbles. ¡Casi tanto\ncomo el gran Vilán! Incluso más,\ndiría yo...\n\nBueno, no tanto...\x0E\x01\x04\x02\x1E Vilán siempre\nestará por encima de cualquier\ninsecto...
+Pero seguro que te haces una idea.\n<r<Me encantan los insectos>>, y mi sueño\nes coleccionarlos todos.\n\nNo te imaginas lo mucho que\nme gustaría tener una isla llena\nde todo tipo de insectos...
+\x0E\x01\x09\x04ÿ\xFF01¡Ya sé!\n\n\n\nTe <r<pagaré >>por todos y cada uno\nde los <r<insectos >>que me traigas.\n¡En cuanto <r<veas uno>>, ya sabes lo\nque tienes que hacer!\n¡Te aseguro que, en lo que respecta\na los insectos, pagaré cualquier precio!\n[1]Está bien[2]No, gracias
+\x0E\x01\x09\x04\x03\xFF04Ji, ji, ji... ¡Con tu ayuda, mi colección\nde insectos será la mejor del mundo!
+\x0E\x01\x09\x04\x01\xFF05¡¿Pero qué...?! ¡Se lo voy a contar\ntodo a Vilán!
+Por lo general, suelo estar aquí de\nnoche. Así que ya sabes dónde debes\nbuscarme cuando quieras venderme\nalgún insecto.\n\x0E\x01\x09\x04\x12\x100Sin embargo, no creas que compro así,\nsin más. Todo <r<depende de cómo esté\nese día>>. Por cierto, no se te ocurra\ndecirle nada de esto a Vilán.\nRecuerda; si deseas hablar de insectos,\ntendrá que ser <r<durante la noche>>.\nDigamos que me gusta guardar\nlas apariencias...\n\x0E\x01\x09\x04\x03\xFF14¿Está claro, Link?\nAl final, espero que esto te guste\ntanto como a mí...
+¡A ver qué tienes por ahí!
+\x0E\x01\x09\x04\x03\x01¡Vaya, Link! Justo ahora\nestaba pensando en ti. Seguro que\nhe desarrollado algún nuevo sentido\n\"insectil\"...
+\x0E\x01\x09\x04\x03\x01¡Ah, eres tú, Link! Hoy\nestoy con la mosca detrás de la oreja...\nSupongo que es la expresión apropiada,\ntratándose de mí... En fin...
+\x0E\x01\x09\x04\x03\x01No sabes lo que me ha pasado...\nHace un rato, a medianoche, fui\na la cueva que hay tras la cascada.\n¿Y sabes lo que encontré?\nPues un montón de <r<sacraliposas\n>>revoloteando en un lugar totalmente\nvacío. ¡No tengo idea de por qué\nestaban ahí todas juntas!\n¡No te imaginas cómo me pica la\ncuriosidad! Así que ya sabes, si te\ninteresa, yo que tú me asomaría a la\ncueva a medianoche.
+¿Y bien? ¿Qué fantásticos insectos\nme has traído hoy?
+Hoy quiero algún ejemplar de:\n<y<<y<\x0E\x02\x02\x04\x00\x00\n<y<\x0E\x02\x02\x04\x00\x01<y<\n<y<\x0E\x02\x02\x04\x00\x02<y<<y<\n>>¿Qué me dices?\n[1]Vendo[2-]Olvídalo
+\x0E\x01\x09\x04\x01\xFF13Entonces nada...\n\x0E\x01\x09\x04\x00\x500No te ha entrado el hormigueo\nde vender, ¿no?
+¿Qué quieres vender?\n<y<<y<[1]\x0E\x02\x02\x04\x00\x00[2]\x0E\x02\x02\x04\x00\x01[3]\x0E\x02\x02\x04\x00\x02<y<>>
+Deja que piense... ¿Cuántas rupias\npodría darte por ejemplar?\nMmm... \x0E\x02\x03\x06\x00\x00Í, y es mi última oferta.
+Deja que piense... ¿Cuántas rupias\npodría darte por ejemplar?\nMmm... \x0E\x02\x03\x06\x00\x01Í, y es mi última oferta.
+Deja que piense... ¿Cuántas rupias\npodría darte por ejemplar?\nMmm... \x0E\x02\x03\x06\x00\x02Í, y es mi última oferta.
+\x0E\x01\x09\x04\x03\xFF04Gracias. Tú si que sabes. Se nota\nque no matarías ni una mosca...\n\n\nY eso es algo muy bueno, claro.\nAsí que ya sabes, Link.\nVuelve cuando quieras.
+\x0E\x01\x09\x04\x10\xFF0C¡Pero si ni siquiera tienes un ejemplar\nde ese insecto! Te crees muy avispado,\n¿no?\n\n\x0E\x01\x09\x04\x01\xFF00A ver, ¿tienes algún otro insecto que\nquieras vender?\n[1]Pues sí[2-]Olvídalo
+Tienes \x0E\x02\x03\x06\x00\x04Í... ¿Cuántos ejemplares\npiensas venderme?\n\n[1]Uno[2]Cinco[3]Todos[4-]Ninguno
+\x0E\x01\x09\x04\x12\x100Te veo poco avispado...\n¿No ves que no tienes tantos?\nVamos, volveré a preguntártelo.
+\x0E\x01\x09\x04\x03\x14A ver, a ver... ¡Te doy \x0E\x02\x03\x06\x00\x01Í \x0E\x03\x04\x02\x1CD!\n[1]Bueno[2-]Olvídalo
+Genial, aquí tienes el dinero.
+\x0E\x01\x09\x04\x00\x00Zzzzzz... Zzzz...
+\x0E\x01\x09\x04\x00\x03¡No consigo que mi hijo se duerma!\n¡Estoy perdido! ¡¿Qué voy a hacer?!\n[1]Es horrible[2]¿Y tu esposa?
+\x0E\x01\x09\x04\x00\x04Muy cierto... ¡Pero en realidad\nno importa! ¡Sigue siendo mi hijo\na pesar de todo!\n\nTú todavía no tienes hijos, pero algún\ndía lo entenderás, algún día...
+\x0E\x01\x09\x04\x00\x07Ah, mi esposa\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n. Como comprenderás,\ndespués de llevar el negocio todo el\ndía, está cansadísima.\n\n\x0E\x01\x09\x04\x0D\xF06Así que por lo menos durante la noche\nla dejo descansar...
+\x0E\x01\x06\x02\xFCCDAy...\x0E\x01\x04\x02-\x0E\x01\x06\x02Í \x0E\x01\x09\x04\x0D\x00Ay...\x0E\x01\x05\x04A\x00
+Uf... Hoy tampoco he dormido nada...\n[1]¿Qué te pasa?[2]Se te ve cansado
+\x0E\x01\x09\x04\x10\xF06Vaya, gracias por el interés.
+\x0E\x01\x09\x04\x10\xF07Por lo que veo, te has dado cuenta...
+\x0E\x01\x09\x04\x0D\xF00Como ves, últimamente mi hijo se pasa\ntoda la noche llorando y no hay\nforma de conseguir que se duerma.\n\nJamás había tenido problemas para\ndormir, pero desde que perdió eso,\nnada...\n[1]¿Eso?[2]No será...
+\x0E\x01\x09\x04\x10\xF01Su <y<sonajero>>...
+\x0E\x01\x09\x04\x10\xF04Ah, ya veo que lo sabías.\nPues sí, se trata de su <y<sonajero>>.
+\x0E\x01\x09\x04\x00\xF00En cuanto lo ve deja de llorar, pero\npor desgracia lo perdió el otro día.\n<r<Se lo llevó un pájaro>>. Supongo que lo\nconfundiría con comida o algo así.\n\x0E\x01\x09\x04\x0E\xF00Por supuesto, es imposible que se lo\nhaya comido, así que todavía <r<debe de\nestar en algún lugar de la ciudad>>.\n\nPero por más que lo busco, no logro\nencontrarlo por ninguna parte.\n\n\n\x0E\x01\x09\x04\x00\x09Si hubiera alguien tan amable\nde ayudarme a buscarlo...
+\x0E\x01\x09\x04\x0D\xF09Ojalá una persona gentil me ayudara\na encontrar el <y<sonajero >>de mi bebé...\n\n\n<r<\x0E\x01\x09\x04\x10\x00Un pájaro se lo llevó>>, así que debe\nde seguir todavía por aquí, en <r<algún\nlugar de la ciudad>>.\n\n\x0E\x01\x09\x04\x0D\x00Ay, no, seguro que hoy tampoco logro\ndormir... Ni siquiera un poquito...
+\x0E\x01\x09\x04\x00\xE0D¡E... eso es...! ¡Su <y<sonajero>>!\n¡Lo has encontrado!
+¡Síii, ya está! ¡Bueno, a mimir!\x0E\x01\x05\x04x\x00
+\x0E\x01\x09\x04\x00\xE08¡Qué alegría! ¡Ya verás qué diferencia!\nSeguro que ahora duerme como...\n¡como un bebé!\n\n¡Sí! ¡Y yo no pienso despertarme en una\nsemana por lo menos!\n\n\n\x0E\x01\x09\x04\x10\xE00¡No sabes cuánto te lo agradezco!\n¡Te debo una! ¡Y muy grande!
+\x0E\x01\x09\x04\x00\xE08Ahora ya puedo volver a dormir como\nuna persona normal. ¡Muchas gracias!
+\x0E\x01\x09\x04\x00\x08Muchas gracias. No te imaginas\nlo que todo esto significa para mí.
+\x0E\x01\x06\x02\xFCCD5... 6... 7...
+Ung... guh... goh...
+\x0E\x01\x06\x02\xFECD55... 56... 57...
+Nuooh... guoooh...
+3985... 3986...\n3987... 3988...
+¡Uoooooooh!
+\x0E\x01\x09\x04\x00\x10Ufff... arfff... pfuuu...\n\n\n\n\x0E\x01\x09\x04\x10\x1600Ah, buenas noches, Link...\n\n\n\n¿Que qué estoy haciendo?\nPues ya ves, entrenando...\n\n\nNo soportaba más estar tan debilucho\ny enclenque, así que intento ponerme\nun poco en forma.\n\nPero como me da vergüenza que los\ndemás vean que no puedo levantar ni\nun pequeño barril, entreno de noche...\n\n\x0E\x01\x09\x04\x00\x1711Aunque me parece que esto no\nfunciona... Me canso demasiado\ny en dos segundos lo dejo.\nNo puede ser...
+Ay... Si al menos tuviera alguna <r<poción\npara aumentar la resistencia>>...
+\x0E\x01\x09\x04\x00\x03¡Pero no, nada de eso! ¡Lo que tengo\nque hacer es esforzarme más!\n\n\n¡Y además tengo que conseguirlo\nyo solito!
+\x0E\x01\x09\x04\x00\x03¡No... no te preocupes! ¡No pienso\nabandonar tan pronto esta vez!
+\x0E\x01\x09\x04\x00\x11Uffff... uffff... Ya no puedo más...\n\n\n\nSi al menos tuviera <r<una poción para\naumentar la resistencia>>...
+\x0E\x01\x09\x04\x00\x11Uffff... Uffff... Link...\neso que llevas ahí no será una <y<poción\nde resistencia>>, ¿verdad?\n\nPorque no sabes el favor tan grande\nque me harías...\n[1]Toma[2-]Lo siento
+\x0E\x01\x09\x04\x00\x0B¡Oye, Link!\nEso que llevas ahí no será una <y<poción\nde resistencia>>, por casualidad...\n\nPorque no sabes el favor tan grande\nque me harías...\n[1]Toma[2-]Lo siento
+\x0E\x01\x09\x04\x00\x11Va... vaya... Lo siento mucho, no\ndebería haberte molestado con\nmis problemas...
+\x0E\x01\x09\x04\x00\x0B¡¿En serio?! ¡Muchas gracias!\n¡Te debo una!
+\x0E\x01\x09\x04\x00\x10Y... ¡energía renovada!
+\x0E\x01\x09\x04\x00\x12Vaya... ¿pero estás seguro de que\nahora podré ponerme fuerte como\nun neburí?\n[1]Depende de ti[2]¡Pues claro!
+\x0E\x01\x09\x04\x00\x09¡¿En serio?! ¡Estupendo!\n¡Me dedicaré en cuerpo y alma a\nentrenar! ¡Se acabó lo de llorar\npor las esquinas!
+\x0E\x01\x09\x04\x00\x1609¿En... en serio? Vaya, has sonado\ntan convincente que incluso me veo\ncon posibilidades de lograrlo...
+\x0E\x01\x09\x04\x00\x1800Gracias, Link.\n¡Verás como pronto seré muy fuerte!\n\n\n\x0E\x01\x09\x04\x15\x1800¡Muy bien, voy a continuar!\n¡Vuelve por aquí cuando quieras y\nverás qué cambio!
+\x0E\x01\x09\x04\x07\x1602¡Verás como pronto seré muy fuerte!\n¡Vuelve cuando quieras y verás\nqué cambio!
+\x0E\x01\x09\x04\x00\x10Uffff... Uffff... Ah, eres tú,\nLink.\n\n\n\x0E\x01\x09\x04\xC10\xFF00Desde lo del otro día no he dejado de\nentrenar, pero últimamente me siento\nun poco débil.\n\n¿Crees que es posible que se trate de\ncansancio acumulado?
+Oye, Link...\nNo tendrás por ahí un poco más de\n<y<poción de resistencia>>, ¿verdad?
+\x0E\x01\x09\x04\x00\x03¡Pero qué estoy diciendo! ¡Así no!\n¡No puedo estar siempre dependiendo\nde los demás!\n\n¡Tengo que conseguirlo yo solito!
+\x0E\x01\x09\x04\x00\x0B¡Oye, Link!\nEso que llevas ahí no será una <y<poción\nde resistencia>>, por casualidad...\n\nMe preguntaba si no te importaría\nvolver a darme un poquito...\n[1]Toma[2-]Olvídalo
+\x0E\x01\x09\x04\x00\x10Ufff... ufff...\n\n\n\nOye, Link...\nNo tendrás por ahí un poco de <y<poción\nde resistencia>>, ¿verdad?\n[1]Toma[2-]Olvídalo
+\x0E\x01\x09\x04\x00\x11Ah, bueno... Siento mucho haber sido\ntan descarado...
+¡No te preocupes! ¡Tengo que aprender\na valerme por mí mismo!
+\x0E\x01\x09\x04\x00\x0B¿En serio? ¡Muchas gracias!\n¡Te debo una!
+\x0E\x01\x09\x04\x00\x10Ufff... ¡He vuelto a la vida!\n¡Ya no podía más del cansancio!
+\x0E\x01\x09\x04\x00\x12Aunque a veces me preocupo bastante\nporque parece interminable,\nde verdad.\n\n¿Hasta cuándo tengo que seguir\npara ponerme tan fuerte como tú,\nLink?\n\n¿Cuántas flexiones crees que harían\nfalta para no parecer un debilucho?\n\n[1]Unas mil[2]Muchas
+\x0E\x01\x09\x04\x00S¡¿Ta... tantas?!\n\n\n\n\x0E\x01\x09\x04\x10\xE00Vaya... Por lo visto el camino hacia\nla fuerza es bastante duro...
+\x0E\x01\x09\x04\x00\x07¿Muchas? ¡Pues claro!\n¡Ahora lo entiendo!\n\n\n\x0E\x01\x09\x04\x07\x800Lo que estás tratando de decirme es\nque bastará con hacer unas cuantas\nhasta perder la cuenta, ¿no?
+\x0E\x01\x09\x04\x01\x1600¡Entendido! ¡Ahora que sé lo que tengo\nque hacer, mejoraré muy pronto!\n\n\n\x0E\x01\x09\x04\x00\x1800¡Vuelve cuando quieras para ver el\nresultado!
+\x0E\x01\x09\x04\x00\x02¡Link, ya verás! ¡Ganaré\ntanto músculo que cuando me veas\nte vas a llevar un susto de muerte!
+\x0E\x01\x09\x04\x15\x190ALo estoy consiguiendo...\n¡No hay que preocuparse!\n\n\n\x0E\x01\x09\x04\x01\x1600¡Eh, Link! ¡Llegas en el \nmomento justo! Hay una cosa que\nme gustaría preguntarte.\n\n\x0E\x01\x09\x04\x07\x1800Verás, hace un rato intenté levantar un\nbarril, y lo conseguí con un solo brazo.\n\n\n\x0E\x01\x09\x04\x00\x1600¿Crees que soy un poco más fuerte\nque antes?\n\n\nLink, ¿qué te parece?\n¿Me ves más fuerte?\n[1]¡Mucho![2]Claro
+\x0E\x01\x09\x04\x00\x180B¿En serio? ¡Muchas gracias!\n¡No sabes lo contento que estoy!
+\x0E\x01\x09\x04\x07\x1809¿Eh? ¡No seas exagerado!\nPero lo cierto es que estoy muy\ncontento, la verdad.
+\x0E\x01\x09\x04\x00\x1600Todo esto lo he conseguido gracias a ti,\nLink.\n\n\n\x0E\x01\x09\x04\x01\x1900Si no me hubieras animado todo este\ntiempo, jamás lo habría logrado.\n\n\n\x0E\x01\x09\x04\x07\x180B¡Muchísimas gracias!
+\x0E\x01\x09\x04\x15\x180A¡Todavía tengo que mejorar!\n¡Y no pienso parar hasta que consiga\nlevantar un barril con un solo dedo!
+\x0E\x01\x09\x04\x15\x180ALo estoy consiguiendo...\n¡No hay que preocuparse!
+\x0E\x01\x09\x04\n\xC12No puede ser... Qué problemón...\nQué problemón...\n[1]¿Qué pasa?[2]Cálmate
+\x0E\x01\x09\x04\x00\x411Vaya, gracias por escucharme,\nLink. Ojalá todo el mundo\nfuera tan amable como tú.
+\x0E\x01\x09\x04\x0B\x500¡¿Cómo que me tranquilice?!\nAh, lo siento... No quería gritarte...
+\x0E\x01\x09\x04\x00\x400Verás... <r<Mi hermana pequeña >>se fue\nhace un rato a dar un paseo con su\nneburí y no ha vuelto todavía.\n\nCuando vi que tardaba demasiado,\nempecé a buscarla por todas partes,\npero... ni rastro de ella.\n\n\x0E\x01\x09\x04\x0B\x500Espero que no le haya pasado nada,\npero estoy tan preocupado...
+\x0E\x01\x09\x04\x00\x411Oye, Link...\n¿Por qué no me ayudas a buscarla?
+\x0E\x01\x09\x04\x0D\x400Me habló sobre una <b<isla con forma\nde ruleta >>que apareció hace poco.\n¡Se ha ido hacia el <r<suroeste>>!
+\x0E\x01\x09\x04\x01\x400¡Cuento contigo, Link!
+\x0E\x01\x09\x04\n\xC12Qué voy a hacer, qué voy a hacer...\n\n\n\nSiempre le digo que conviene llevar\nuna poción por si le ocurre algo\nal neburí...\n\nY justo el día que se la deja en casa,\nle ha pasado esto...
+\x0E\x01\x09\x04\x0D\x400Mi hermana decía que sentía mucha\ncuriosidad por esa <b<isla con forma de\nruleta>>. ¡Creo que se ha ido hacia el\n<r<suroeste>>!
+\x0E\x01\x09\x04\x01\x400¿Me vas a ayudar a buscarla,\nLink?
+\x0E\x01\x09\x04\x0B\x50D¡¿Cómo?! ¡¿Dices que has visto\na mi hermana?! ¡¿Y que su neburí\nestá herido y no puede volar?!\n\n\x0E\x01\x09\x04\n\xC00¡Entonces tienes que llevarle esto\nenseguida! Toma, son<y<\x0E\x01\x09\x04\x00\x400 esporas de\nchampiñón>>. Seguro que se cura muy\npronto.
+\x0E\x01\x09\x04\x00\x50D¡Pero si no puedes llevar más cosas\nencima! \x0E\x01\x09\x04\x00\x400¡Haz algo de espacio en\ntu alforja y vuelve después!
+\x0E\x01\x09\x04\x0B\x404Si las usa, se pondrá bien enseguida y\npodrá volver por sí mismo. \x0E\x01\x09\x04\x00\xC00¡Tienes que \nllevárselas a mi hermana! \x0E\x01\x09\x04\x00\x400Y luego te\npuedes quedar con la <r<botella vacía>>.\n¡Cuento contigo, Link!
+\x0E\x01\x09\x04\x0B\x406¿Eh? ¿Dónde has metido las <y<esporas de\nchampiñón>>? ¿Aún no se las has dado?\n\n\n\x0E\x01\x09\x04\n\x400Bueno, si se te acaban puedes <r<sacar\nmás de los champiñones >>que crecen\nen una isla flotante cercana.\n\n¡Cuento contigo, Link!
+\x0E\x01\x09\x04\x0B\x409Si has hecho un poco de espacio en\ntu alforja, podrás llevarte esto.\n\n\n<y<\x0E\x01\x09\x04\n\x400>>Con estas <y<esporas de champiñón>>,\nseguro que el neburí se cura\nenseguida de sus heridas.
+\x0E\x01\x09\x04\x0B\x409¿Qué pasa, Link?\n¡Tienes que llevarle esas <y<<y<esporas de\nchampiñón<y< >>a mi hermana cuanto antes!\n\x0E\x01\x09\x04\n\x400¡Cuento contigo!
+\x0E\x01\x09\x04\x0B\xE09¡Hola, Link! ¡Mi hermana\nha regresado sana y salva!\n\n\n\x0E\x01\x09\x04\n\x400La verdad es que estaba muy\npreocupado, pero al final todo\nha salido bien.\n\n\x0E\x01\x09\x04\x0B\x400¡Y todo gracias a ti, Link!\n¡Te debo una!
+\x0E\x01\x09\x04\x0B\xE09¡Link, mi hermana está\na salvo!\n\n\n\x0E\x01\x09\x04\n\x400No sé qué habría hecho si le hubiera\npasado algo... ¡Me he quitado un \npeso de encima!\n\n¿Cómo? ¿Dices que fuiste tú el que\nle llevó la medicina?\x0E\x01\x04\x02\x14 ¿En serio?\n\x0E\x01\x09\x04\x0B\x400¡Muchísimas gracias!\n\nEsto no es ni la mitad de lo que\nte mereces por lo que has hecho,\npero acéptalo, por favor.
+\x0E\x01\x09\x04\x0B\xA05Vaya, qué lástima... Quería darte esta\n<y<botella vacía>>, pero al parecer no te\nqueda espacio libre en la alforja ni\ntampoco en la consigna...\nBueno, puedo guardártela. Si consigues\nhacer algo de espacio, ven a verme\nmás tarde y será toda tuya.
+\x0E\x01\x09\x04\x0B\x400Este artículo sirve para una gran\nmultitud de cosas. ¡Gracias, gracias!
+\x0E\x01\x09\x04\x0B\xE09Ah, Link, muchas gracias\npor salvar a mi hermana. Estoy\nen deuda contigo.
+\x0E\x01\x09\x04\x00\x01¡Hola, Link!\nÚltimamente no se ve a Zelda por\naquí... ¿Sabes si le ha pasado algo?
+\x0E\x01\x09\x04\x00\x01¡Hola, Link!\n\n\n\n\x0E\x01\x09\x04\n\x400¿Cómo dices?, ¿<r<dos hojas de viento>>?\x0E\x01\x04\x02\x1E\n¡No me cuentes acertijos raros, que no\nsé de esas cosas! ¡Pregúntale a un\n<r<vidente>> o algo así!
+\x0E\x01\x09\x04\n\x405¡¿Has visto eso?! ¡¿Lo has visto?!\n¡De repente ha surgido un rayo de\nluz desde aquella torre hacia el gran\ncúmulo!\nEs como si estuviera pidiendo que\nalguien lo siga hasta allí...
+\x0E\x01\x09\x04\x00\x01¡Hola, Link!\n¿No te parece que hace mucho que\nno vemos juntos a esos tres granujas\nque tú y yo sabemos?\nMe pregunto si se habrán decidido\na estudiar de una vez por todas...
+\x0E\x01\x09\x04\x00\x01¡Hola, Link!\nAcabo de llegar de visitar esa\nmisteriosa isla de la ruleta de la\nque me habló mi hermana.\nHabía un tipo muy raro que no dejaba\nde hablar de una <r<ruleta >>que se le había \ncaído y había desaparecido bajo las\nnubes.\nNo sé cómo piensa que va a poder\nrecuperarla... ¡Yo daría la ruleta\npor perdida!
+\x0E\x01\x09\x04\x00\x01¡Hola, Link!\nSiempre que te veo tienes prisa\npara llegar a algún sitio, ¿eh?
+\x0E\x01\x09\x04\n\x405¿Por qué les gustará tanto este lugar\na las mariposas? Aquí no hay nada...
+\x0E\x01\x09\x04\x00\x01Oye, hace un momento, en la plaza... \nNo habrás hecho de las tuyas, ¿verdad?\nEs que al ver cómo el cielo se oscurecía\nasí, tan de repente...
+\x0E\x01\x09\x04\x00\x01¿Has oído el estruendo ese tan grande?\nParecía como si la isla fuera a estallar\nen pedazos. ¿Qué habrá pasado?
+\x0E\x01\x09\x04\x0B\x409¡La isla de la Diosa ha desaparecido!\n¡Es terrible!\n\n\n\x0E\x01\x09\x04\n\x400Sin duda esto no presagia nada bueno,\nes obvio...
+\x0E\x01\x09\x04\n\xA00Por cierto, tu compañero ese de la\nacademia de caballeros, el tal <b<Vestro>>...\n\n\nDice que encontró el paraíso de\nlos insectos <r<dentro del gran cúmulo>>.\nSe nota que le gustan esos insectos...\n\n\x0E\x01\x09\x04\x0B\x400De todas formas, me pregunto qué\ntendrá pensado hacer por allí...
+\x0E\x01\x09\x04\x01\x400Por cierto, ¡<b<Vestro >>dice que tiene\npensado construir un paraíso de\ninsectos dentro de una isla del <r<gran\ncúmulo>>!
+\x0E\x01\x09\x04\x01\x400Ahora que me acuerdo, hace un rato he\nvisto a <b<Vestro>> volando hacia el cúmulo.\nIba muy contento, decía no sé qué\nde un <r<insecto muy raro>>.\n¡Este chico!... Si no cambia, va a volver\na tener problemas con los exámenes.\nDebería preocuparse menos por los\ninsectos y estudiar un poco más.
+\x0E\x01\x09\x04\x00\x50B¡Hola, Link!\n¡Llegas justo a tiempo!\n\n\n\x0E\x01\x09\x04\x12\x200Verás, mi neburí se ha hecho daño\nmientras paseábamos y no puede volar.\n\x0E\x01\x09\x04\x01\x1500Hemos aterrizado aquí como hemos\npodido, pero ahora no sé qué hacer.\n\x0E\x01\x09\x04\x12\x1500No podemos volver hasta que no se\ncure, pero para eso necesito<r< >>algún\ntipo de <r<medicina>>.\n\nClaro, tiene que ser <r<medicina\nespecial para neburís>>.\n\n\nLink, tú... \x0E\x01\x09\x04\x15\x200¿tú podrías\ntraerme medicina para neburís?\n[1]Claro[2]Lo siento
+\x0E\x01\x09\x04\x0B\x409¡Muchísimas gracias! ¡Te debo la vida!
+\x0E\x01\x09\x04\x0C\x1513¿Eh? ¿Es que acaso no tienes corazón?\n\x0E\x01\x09\x04\x0B\x409Menos mal que sé que estás bromeando,\nque si no...
+<r<Mi hermano tiene la medicina para\nel neburí>>. Lo mejor será que vayas\na hablar con él.\n\nMe imagino que estará esperándome\n<r<en la plaza de Neburia>>. Pobre, seguro\nque está hecho un manojo de nervios...
+\x0E\x01\x09\x04\x09\x509Oye, ¡pero si tienes la medicina!\n¿Y por qué no dices nada? Esas\n<y<esporas de champiñón >>son lo que\nnecesitamos...\nCon ellas, mi pequeño se curará\nde inmediato. Si no es mucha molestia,\n¿te importaría dármelas?\n[1]Aquí tienes[2-]Lo siento
+\x0E\x01\x09\x04\x00\x50BEntonces, ¿me das las esporas de\nchampiñón? Con ellas, mi pequeño\nse curará de inmediato.\n[1]Aquí tienes[2-]Lo siento
+Vaya, supongo que era mucho pedir...\n¿Podrías al menos hablar con mi\nhermano y contarle lo que ha pasado?
+Cómo, ¿dices que ya has estado con él?\nPerfecto, eso lo hace todo mucho\nmás sencillo.
+Yo te espero aquí con este pequeño,\n¿de acuerdo?\n\n\nYa sabes lo que tienes que hacer,\n¡confío en ti!
+<r<\x0E\x01\x09\x04\x00\x01M>><r<<r<i hermano tiene l<r<a medicina para\nel neburí>>... Ve a buscarlo, ¡deprisa! \n\n\nYo te espero aquí junto a este pequeño.\nPor favor, ¡tienes que ayudarnos!
+\x0E\x01\x09\x04\x00\x0B¡Son las <y<esporas de champiñón>>!\nMenos mal que has podido traerlas...\n\n[1]Tómalas[2-]Lo siento
+\x0E\x01\x09\x04\x00\x1113Cómo... ¿Cómo puedes ser tan cruel?
+\x0E\x01\x09\x04\x0B\x409¡Muchas gracias! Con esto podré curar \nlas heridas de mi pájaro.
+\x0E\x01\x09\x04\x00\x04Ya verás como se pone bien en menos\nque canta un neburí.
+\x0E\x01\x09\x04\x00\x09Menos mal... Empezaba a temer\nque ya fuera demasiado tarde.\n¡Pero has venido justo a tiempo!\n\nMi pájaro y yo te debemos la vida...\n¡Muchas gracias!
+\x0E\x01\x09\x04\x00\x04Bueno, será mejor que me vaya.\n¡Nos vemos en Neburia!
+\x0E\x01\x09\x04\x00\x0BHola, Link.\nOye, muchas gracias por tu ayuda.\n\n\n\x0E\x01\x09\x04\x00\x400Mi neburí vuelve a estar sano\ncomo un roble. De verdad, no sé\nqué hubiéramos hecho sin ti... \n¡Muchísimas gracias!
+\x0E\x01\x09\x04\x00\x01¿Qué tal, Link?\nOye, hace mucho que no veo a esa chica\nrubia tan agradable de la academia...\n\nSe llamaba Zelda, ¿verdad~~.~~.~~.~~?\nAntes iban juntos a todas partes...\n¿Qué pasa? ¿Es que ya no se hablan?
+\x0E\x01\x09\x04\x00\x01Hola, Link.\n\n\n\n\x0E\x01\x09\x04\x11W¿<r<Dos grandes hojas>>, dices? No sé a qué\nse referirá, la verdad...\n\n\n\x0E\x01\x09\x04\x01\x00Bueno, ahora que lo pienso, las aspas\nde los <r<molinos >>de Neburia podrían\nconsiderarse unas hojas, y además\nestán bastante altas... ¿no crees?
+\x0E\x01\x09\x04\x00\x13Durante un instante, parecía que\nlas tinieblas devoraban por completo\nel cielo... ¿Qué podría provocar\nalgo así?
+\x0E\x01\x09\x04\x00W¿La Trifuerza?\x0E\x01\x04\x02\x14 No lo sé, chico...\nNi siquiera había oído mencionar\nel nombre antes.\n\nTe aconsejo que hables con el director\nde la academia. Si alguien sabe algo\nsobre ese tipo de cosas, es él.
+\x0E\x01\x09\x04\x00\x01¿Qué tal, Link?\n\n\n\n\x0E\x01\x09\x04\x0C\x200Oye, ¿has aprendido a ejecutar la\nlegendaria técnica de vuelo llamada\n\"tirabuzón aéreo\"?\x0E\x01\x04\x02\x1E Ah, ¿en serio?\n\x0E\x01\x09\x04\x0C\x50B¡Pues te felicito!
+\x0E\x01\x09\x04\x00\x13¿Has sentido ese temblor tan fuerte?\nNo sé a qué se habrá debido...\n¿Tú sabes lo que está pasando?
+\x0E\x01\x09\x04\x00\x01 ¡Link... la isla de la Diosa\nha desaparecido!\n\n\n\x0E\x01\x09\x04\x00\x1513Qué pena... ¡Con lo que les gustaba\na los neburís posarse allí para\ndescansar!
+Oooh...
+Oooh...\nPor caridad... \nQue alguien me ayude...
+Oooh...\nNecesito <r<papel>>...\n\n\n<r<Un poco de papel>>, por caridad...\nAlguien, quien sea...\nPapel, por favor...\n\nMe sirve <r<cualquier cosa>>...\nmientras sea de <r<papel>>...\nOooh...
+Ah... ¡<r<Papel>>!...\n¡Me has traído <r<papel>>!...\n\n\nTe abriré la puerta...\nPasa, pasa, por favor...
+\x0E\x01\x09\x04\x00\x01Por favor, olvida lo del papel\nque te pedí...\nAdiós...
+Oooh... <r<Papel>>...\nNecesito <r<papel>>...\nPor caridad...\n\nNo pido mucho...\n<r<Solo un poco de papel>>...\n[1]Toma esta\ncarta[2-]Lo siento
+\x0E\x01\x09\x04\x05\x03Uuuf... Por favor... papeeel...
+\x0E\x01\x09\x04\x0B\x04¿Eh?\n¿Me la das, de verdad?...\nQué alegría...
+Pero... esto parece una carta dirigida\na alguien... No sé si está bien usarla\npara...\n[1]Descuida[2-]Mejor no
+\x0E\x01\x09\x04\x00\x02Pues gracias...\nLa usaré con sumo cuidado...\n\n\nPero soy una señorita, así que no me\npreguntes para qué la quiero...\n\n\nHasta la vista... \nMi amable benefactor...
+\x0E\x01\x09\x04\x00\x04Ah...\nEres el amable jovencito del otro día...
+\x0E\x01\x09\x04\x06\x02Me alegro de volver a verte...\nGracias a ti, he encontrado a mi\npríncipe azul...\n\nSí, creo que ya sabes quién es...\n\n\n\n\x0E\x01\x09\x04\x0C\x00Por supuesto, todo empezó con\naquella carta que me diste...\n\n\n\x0E\x01\x09\x04\x06\x00¡Sus dulces palabras me han robado\nel corazón!
+\x0E\x01\x09\x04\x00\x02Ay, no puedo pensar en otra cosa\nque no sea él, de noche y de día...\nMe siento tan llena de vida...
+\x0E\x01\x09\x04\x00\x02Oh, querido mío...\nTe amaré toda mi vida...\nEstaré siempre a tu lado...
+Hmm... ¿Debo dar yo el primer paso\no esperar a que ella venga a mí?
+¡Aah! ¡Link, qué susto me\nhas dado! Ten más cuidado, ¿eh?\n\n\n\x0E\x01\x09\x04\x17\x1800Vamos, ¡lárgate y no me molestes más,\nque estoy pensando en un asunto\nde mucha importancia!\n[1]¿Cuál?[2]Te ayudo
+¿Cómo? ¿Y desde cuándo te interesas\ntú por mis problemas?\n\n\n\x0E\x01\x09\x04\x00\x1C¡Puf!... Eres la última persona a la\nque se me ocurriría pedirle consejo.\nPero bueno, ya que insistes...
+¿Lo dices en serio?\n\n\n\n\x0E\x01\x09\x04\x00\x1CHum... No sé si me gusta que metas\nlas narices en mis asuntos, pero ya\nque insistes...
+Quizá puedas ayudarme. Es cierto\nque tú y yo no nos llevamos muy bien,\npero también me consta que sabes\ntratar a las mujeres...\nYa está, ¡decidido! Link,\nte voy a encomendar una tarea.
+Quiero que le des este <r<papel >>a cierta\npersona. Es un asunto muy importante,\n¡así que asegúrate de que lo reciba sin\nfalta!
+\x0E\x01\x09\x04\x00\x08Pero bueno... ¿Se puede saber\nqué haces, mirando hacia el retrete?
+¿Dices que había alguien pidiendo\npapel en el retrete por la noche?
+\x0E\x01\x09\x04\x00\x1B1BOye, ¡ni se te ocurra! Esto no es\nun simple papel... ¡es una <r<carta>>!\n\n\n\n\x0E\x01\x09\x04\x17\x2500He puesto todo mi corazón en estas\nlíneas... Cada palabra, cada frase... \n¡Rebosa amor por los cuatro costados!\n\n\x0E\x01\x09\x04\x17\x1800¡Y tú pensando en usarla como papel\nhigiénico!...
+A ver, escucha... La persona a la que va\ndirigida es una alumna de último curso,\n<b<Grusi>>.\n\n\x0E\x01\x09\x04\x01\xC11¿Sa... sabes quién te digo? Esa chica\ntan bonita que lleva siempre una <r<boina\nmuy redondeada>>.\n\n\x0E\x01\x09\x04\x17\x1800No vayas a dársela a <r<la loca del retrete>>,\n¿eh? ¡Que te conozco!
+Bueno, aquí tienes la carta...\n¡Pero no se te ocurra leerla!
+¡Cuento contigo, Link!\nSi todo va bien, puede que incluso\nte deje entrar en la pandilla.\nBueno, gracias y todo eso. 
+\x0E\x01\x09\x04\x00\x02¿Lo entiendes, Link?\nTienes que darle la carta a la alumna\nde la <r<boina>>. \n\n\x0E\x01\x09\x04\x01\x1B00Como se la des a <r<la loca del retrete>>...\n¡no sé lo que te hago!
+\x0E\x01\x09\x04\x00\x08¿Qué quieres, Link?...\nEstoy ocupado pensando en Grusi,\n¿o es que no me ves?\n\nSi tienes algo que decirme, vuelve\npor la mañana. ¡Vamos, lárgate!
+\x0E\x01\x09\x04\x00\x13¡¿Cómo?! ¿Dices que... que ya le has\ndado la carta a <b<Grusi>>...?\n\n\n\x0E\x01\x09\x04\x01\x2500¡Ay, qué nervios! ¿Y ahora qué hago?...\nDebería ir a hablar con ella, a ver qué\nme responde, ¿no?\n\n\x0E\x01\x08\x02\xFFCD\x0E\x01\x09\x04\x01\x1F00Qué vergüenza...
+\x0E\x01\x09\x04\x00\x0FBuf... Me pregunto si <b<Grusi>> habrá\ncomprendido lo que siento por ella... \n\n\n\x0E\x01\x08\x02\xFFCD\x0E\x01\x09\x04\x01\x1F00¿Qué debo hacer? Se me va a salir el corazón\npor la boca de tantos nervios...
+\x0E\x01\x09\x04\x00\x10Je, je, je... ¡Se acabó la tiranía de\n<b<Vilán>>! Ahora este cuarto es mío\ny solo mío.
+\x0E\x01\x09\x04\x00TZzz... zzz... Ay, no me despeines...\nZzz... zzz...
+\x0E\x01\x09\x04\x00\x17Grrr... Dichoso <b<Cocu>>... ¡Te odio!\n¡Prometo que me vengaré!
+\x0E\x01\x09\x04\x00\x02¡Oye, Link! Le diste\nmi carta a Grusi, ¿verdad?\n[1]Pues...[2]¿Qué carta?
+\x0E\x01\x09\x04\x11\x1F1D¡¿Cómo?! ¿Dices que se la diste...\na la loca del retrete?
+\x0E\x01\x09\x04\x15\x1F12¿Eh? ¿¡Cómo que qué carta!?\n\n\n\n\x0E\x01\x09\x04\x11\x1B00Oye... no se la habrás dado a la loca\ndel retrete, ¿verdad? ¡Porque solo\na ti se te ocurriría hacer algo así!
+\x0E\x01\x09\x04\x01\x1F00¡Te lo dije! ¡Te advertí que era una\ncarta para Grusi!... ¡Me prometiste\nque se la darías a ella!\n\n\x0E\x01\x09\x04\x1A\x1F17¡Lo has estropeado todo!\n¿Crees que tienes derecho a jugar \ncon los sentimientos de la gente?\n¡Ojalá te devore un neburí salvaje!\nNo quiero volver a verte en mi vida.\n¡Te odio, Link!
+\x0E\x01\x09\x04\x00\x1F18¡¡¡Nooooo!!!
+
+\x0E\x01\x09\x04\x1B\x1F17¿Es que no vas a dejarme en paz,\nLink?... ¿No te parece\nbastante lo que me has hecho?\n\n\x0E\x01\x09\x04\x1C\x1F00No sé quién será la loca del retrete,\npero solo de pensar que haya leído\nmi carta... Ay, qué desastre.
+\x0E\x01\x09\x04\x1B\x1F17¿Qué quieres, Link?\n¡Que sepas que no he olvidado lo\nque me has hecho!\n\nDesde aquello apenas puedo dormir\npor las noches. Aunque es mejor, \nporque no tengo más que pesadillas...\n\nNo sé qué puede estar pasando; es como\nsi la cama estuviera embrujada o algo\nasí... Quizá es la maldición de <b<Vilán>>.\n\n\x0E\x01\x09\x04\x1C\x1A18¡Por favor, Link!\n¡Ayúdame!
+\x0E\x01\x09\x04\x1B\x1F1BDesde aquello apenas puedo dormir\npor las noches. Y casi mejor, porque no\ntengo más que pesadillas horripilantes.\n¿Estará la cama embrujada? \n¡Quizá es la maldición de <b<Vilán>>!\n¡Por favor, Link!\n¡Ayúdame!
+\x0E\x01\x09\x04\x00\x17Todo se ha acabado... \nYa no importa nada...\n\n\n\x0E\x01\x09\x04\x1C\x1F00¿Qué miras, Link?\n¿Has venido a reírte de mí?\nVamos, déjame tranquilo...
+\x0E\x01\x09\x04\x00\x01Oye, Link... ¿Puedo\npreguntarte qué opinas de <b<Cocu>>?\n[1]Buen tipo[2]¿Por qué?
+\x0E\x01\x09\x04\x0B\x70A¿Verdad que sí? Es agradable, atento,\nsiempre puedes confiar en él...\n¡Y además es guapo! ¿Qué más puede\npedir una chica?\n\x0E\x01\x09\x04\x0C\x416Ejem... Estooo... Vaya, creo que\nme he dejado llevar por la emoción.\nNo sé qué me ha pasado.\n\n\x0E\x01\x09\x04\x08\x400Perdona, no pretendía molestarte\ncon mis tonterías.\n
+\x0E\x01\x09\x04\x01\x406¿Cómo? Pues verás... \n\n\n\n\x0E\x01\x09\x04\x08\x416Na... nada, olvídalo. No sé por qué te\nhe preguntado algo así. Soy una boba...
+\x0E\x01\x09\x04\x01\x404¡Vaya...\x0E\x01\x04\x02\x14 Link!\n¡Felicidades por pasar de curso!\n\n\n\x0E\x01\x09\x04\x08\x400¡Así que el uniforme de caballero de\neste año es verde! \x0E\x01\x04\x02\x14Me gusta mucho. \n\n\n\x0E\x01\x09\x04\n\x1000Si Zelda te viera vestido así, estaría\norgullosa de ti...\n\n\n\x0E\x01\x09\x04\x00\x406¡No te preocupes! Seguro que está\nbien. Ya verás como vuelve antes\nde lo que tú crees.
+\x0E\x01\x09\x04\x00\x1001¡Ese uniforme te sienta genial!\n\n\n\n\x0E\x01\x09\x04\x00\x40AAunque todavía te falta mucho para\nllegar a la altura de Cocu, claro...\n¡Ji, ji!
+\x0E\x01\x09\x04\x00\x14Ay... ¿Qué tiene que hacer una para\nque <b<Cocu>> se fije en ella?
+\x0E\x01\x09\x04\x08\x404¡Uah! ¡Link!\n\n\n\n¿Qué... qué pasa? No habrás...\n\x0E\x01\x08\x02\xFECDNo habrás oído lo que acabo de decir, ¿verdad?\x0E\x01\x08\x02Í\n\n[1]Toma esta\ncarta[2]Claro\nque no...
+\x0E\x01\x09\x04\x01\x406¿Qué pasa, Link?\nA veces parece que estás planeando\nalgo...
+\x0E\x01\x09\x04\x08\x906¿Eh, una carta...? ¿Y es para mí?\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n\n¡Ay! ¿No será de <b<Cocu>>?\n[1]Léela[2]Olvídalo
+\x0E\x01\x09\x04\x08\x912¿Pero que te pasa?\n¡No te burles de mí!
+\x0E\x01\x09\x04\x0E\x90AGra... gracias por traérmela... \nVamos a ver...
+\x0E\x01\x09\x04\x10\x400¿De quién será?...
+\x0E\x01\x09\x04\x10\xD00Veamos...\x0E\x01\x04\x02\x14 \x0E\x01\x06\x02\xFECDBuf, qué letra...\x0E\x01\x06\x02Í\n\n\n\n\x0E\x01\x09\x04\x10\x400Aunque eso es lo de menos, claro.\nLo importante es lo que diga...
+\"Querida Grusi:\nMi amor por ti es más grande que\nel ancho cielo y más puro que las\nnubes mismas\".\n\x0E\x01\x09\x04\x13\x1200\"Si accedes a salir conmigo, me harás\nel hombre más feliz sobre la faz de\nNeburia. A tus pies: <b<Corvy>>\".\n\n\x0E\x01\x09\x04\x00\x500.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\n\n\n\n\x0E\x01\x09\x04\x01\xD00Pero, oye... ¿Ese <b<Corvy >>no es uno de\nlos de la pandilla de <b<Vilán>>?\n\n\n\x0E\x01\x09\x04\x0C\x400¿Ese tipo me ha escrito a mí\nuna carta de amor?\n\n\n\x0E\x01\x09\x04\x0B\x712Lo que me faltaba...
+\x0E\x01\x09\x04\x00\x09Aunque la verdad es que es una carta\nmuy bonita. Se ve que le ha puesto\nmucho sentimiento.\n\nQuizá debería darle una oportunidad\na <b<Corvy>> y salir con él...\n\n\n\x0E\x01\x09\x04\x08\x900¡Que te lo has creído! Es broma, bobo...\n\n\n\n\x0E\x01\x09\x04\x01\xD14Ay... Pero... me pregunto qué pensaría\n<b<Cocu>> si se llegara a enterar de esto.
+\x0E\x01\x09\x04\x00\x01Gracias por traerme la carta,\nLink.\n\n\n\x0E\x01\x09\x04\x01\xD14Ay... ¿Cómo se tomaría <b<Cocu >>esto\nsi se llegara a enterar?
+\x0E\x01\x09\x04\x08\x909Ji, ji... Te debo una, Link.\nGracias a ti, tengo un novio genial.\nAunque me siento un poco mal\npor el pobre <b<Corvy>>... 
+\x0E\x01\x09\x04\x00\x01Oye, Link... No se cómo\nlo haces, pero cada día estás más\natractivo. ¡Y ese uniforme te queda\nmuy bien!\n¡Te estás convirtiendo en un hombre\nhecho y derecho!
+\x0E\x01\x09\x04\x00\x06¿Cómo? ¿La Trifuerza, dices?...\x0E\x01\x04\x02\x1E\n¿Y qué se supone que es eso?
+\x0E\x01\x09\x04\x08\xE06¿Cómo? ¿Ya has aprendido a hacer \nel tirabuzón aéreo con tu neburí?\n\n\n\x0E\x01\x09\x04\x08\x909¡Eres impresionante!\x0E\x01\x04\x02\x1E\x0E\x01\x09\x04\x0C\x400 Aunque...\x0E\x01\x04\x02\x14 debo\ndecirte que Cocu también domina\nesa maniobra. ¡Es todo un experto!
+\x0E\x01\x09\x04\x0C\x456¿Se puede saber qué ha pasado\nahí fuera? Qué estruendo...
+\x0E\x01\x09\x04\x00\x01¡Hola, Link!\n¡Felicidades por pasar de curso!\nY ya veo que estrenas uniforme...\n¡Te sienta muy bien!\n\x0E\x01\x09\x04\x10\x1100Pero bueno, ahora no es momento\npara frivolidades... Todavía no puedo\ncreer que Zelda haya desaparecido.\n\n\x0E\x01\x09\x04\x0C\x1400Sé que ella y tú eran buenos amigos,\nasí que me imagino cómo debes\nde sentirte.\n\n\x0E\x01\x09\x04\x08\x1400Pero no te desanimes; ten confianza\ny sé positivo. ¡Estoy convencido\nde que sigue viva y de que volverá\npronto! Ánimo.
+\x0E\x01\x09\x04\x00\x01¡Hola, Link!\n¿Qué tal estás, compañero?\n¿Un poco más animado?\n\n\x0E\x01\x09\x04\x09\x1400Aunque no lo creas, yo también tengo\nmis problemas... ¡y bastante grandes!\nPero delante de los amigos me hago\nel fuerte, para no preocuparlos.\n\x0E\x01\x09\x04\x11\x400Y así, poco a poco parece que\nlos problemas se van diluyendo.\n¡O al menos eso creo! A mí me\nfunciona bastante bien.
+\x0E\x01\x09\x04\x00\x05¡Hola, Link!\nMe alegra verte con tan buena\ncara últimamente.\n\n\x0E\x01\x09\x04\x00\x40B¡Que no decaiga el ánimo! \x0E\x01\x04\x02\x14\nYa verás como Zelda volverá antes\nde lo que piensas. ¡Ten confianza!
+\x0E\x01\x09\x04\x00\x01¡Oye, Link!\n¿Qué tal estás?\n\n\n\x0E\x01\x09\x04\x0C\x1400¿Cómo dices? ¿La Trifuerza\nescondida por la Diosa?...\n \n\n\x0E\x01\x09\x04\x10\x1100Mmm... Me temo que yo no te voy\na servir de mucha ayuda...\n\n\n\x0E\x01\x09\x04\x08\x1400Será mejor que les preguntes a los\nprofesores sobre ese tema.
+\x0E\x01\x09\x04\x00\x1101¡Link!\nTe voy a contar una cosa, pero tienes\nque prometerme que no se lo vas a\ncontar a nadie, ¿de acuerdo?\n\x0E\x01\x09\x04\x0C\x400Salí a dar un paseo y, de repente,\nemergieron unas extrañas ruinas\nbajo la isla de la Diosa.\n\n\x0E\x01\x09\x04\x11\xE00¿Qué está ocurriendo en Neburia?\n¡Ya no reconozco este lugar!
+\x0E\x01\x09\x04\x0C\x401¿Te has enterado?\n¡La isla de la Diosa se ha hundido!\n\x0E\x01\x04\x02\x1EEs la peor tragedia en la historia\nde Neburia...\n\x0E\x01\x09\x04\x11\xE00Aunque puede que la Diosa esté\nintentando decirnos que debemos\nandar nuestro propio camino sin\nsu protección.
+\x0E\x01\x09\x04\x0C\x40B\x0E\x01\x08\x02\xFECDAdemás, yo ya tengo mi propia diosa...
+\x0E\x01\x09\x04\x00\x01¡Hola! ¿Qué se te ofrece,\nLink?
+\x0E\x01\x09\x04\x01\xC09¿Cómo? ¿Que alguien le ha mandado\na <b<Grusi >>una carta de amor?...\n\n\n\x0E\x01\x09\x04\x0F\x1100Va... vaya... Interesante...\n\n\n\n\x0E\x01\x09\x04\x0C\xC54Y, ejem, este... ¿Te ha dicho ella qué\nes lo que piensa hacer al respecto?\n\n\n[1]Salir con él[2]No sé
+\x0E\x01\x09\x04\x11\xE53¡¿Cómo?! ¡No puede ser!...
+\x0E\x01\x09\x04\x0F\x1118Ya, cómo vas a saberlo, claro.\nPu... pues me gustaría enterarme,\nla verdad...
+\x0E\x01\x09\x04\x11\xE09Eh... no sé por qué he dicho eso.\nDespués de todo, solo somos amigos...\n<b<Grusi>> puede hacer lo que ella quiera,\npor supuesto.\nSi quiere salir con alguien, no es\nasunto mío...\n\n\n\x0E\x01\x09\x04\x0C\xC00Pero lo que no puedo permitir es\nque eso afecte al ambiente dentro\nde la academia... ¡Todos somos\ncompañeros, al fin y al cabo!\n\x0E\x01\x09\x04\x08\xC00Tú me entiendes... Lo ideal es elegir\nlibremente a quién amar, ¿no?\nDe hecho, si no es así, no creo que\npueda considerarse amor verdadero.\n\x0E\x01\x09\x04\x0B\xC00Mi deber es asegurarme de que\nGrusi elija su amor sin ningún\ntipo de trabas ni condicionantes.\n\n\x0E\x01\x09\x04\x11\xE00¡Porque yo también tengo derecho\na amar a quien quiera! ¡Claro que sí!\n¡Y nadie me lo puede negar!\n\n\x0E\x01\x09\x04\x0C\xC1B¿Tengo razón o no, Link?\n[1]No sé[2]¿Te gusta?
+\x0E\x01\x09\x04\x11\xE53¡No... no digas tonterías,\nLink!\n\n\n\x0E\x01\x09\x04\x12\xC00Qué cosas se te ocurren...\n¡Me temo que has malentendido\ntodo lo que he dicho!\n
+\x0E\x01\x09\x04\x0F\x1152Bu... bueno, mejor lo dejamos...\n¡Ahora no es momento para hablar\nde estas cosas!
+\x0E\x01\x09\x04\x10\x1117En fin, no importa. Oye...\n\n\n\n\n\x0E\x01\x09\x04\x0F\xC00¿Me harías un gran favor?\nSi pudieras enterarte de qué es\nlo que decide finalmente Grusi...\n¡Pero trata de ser discreto!
+\x0E\x01\x09\x04\x00\x18Mmm...\n\n\n\n\x0E\x01\x09\x04\x0F\x1100Si tú sintieras un interés especial, por\nlos motivos que fuera, en saber cómo\nacaba esa historia... No estaría mal\nvisto que fueras a preguntarle, ¿no?\n\x0E\x01\x09\x04\x11\xE00No lo digo porque yo tenga curiosidad,\n¿eh? Es que me gusta estudiar el amor\ndesde un punto de vista, digamos...\nteórico.
+\x0E\x01\x09\x04\x0C\x401¡Eh, Link! Gracias a ti\ntengo una novia maravillosa.\n¡Te debo una, compañero!
+Tú eres el autor de la carta, ¿no?
+Pues... sí...
+\x0E\x01\x09\x04\x1400\x09Ji, ji, ji... Se te da muy bien escribir\ncartas de amor. ¡Muchas gracias!
+\x0E\x01\x09\x04\x500\x11Ejem, no... no es para tanto...
+Bueno, en... entonces...\n¿Cuál es tu respuesta?...
+\x0E\x01\x09\x04\x1400\x12¿Mi respuesta? Ah, tienes razón.\nEn estos casos se suele responder, ¿no?
+\x0E\x01\x09\x04\x500\x2519Por... Por favor, ¡sal conmigo!
+¡Alto ahí!
+Si vas a salir con alguien...\n¿por qué no sales conmigo?\nLo que quiero decir es que...\n¡me encantaría que fueses mi novia!
+\x0E\x01\x09\x04\x500\x1B09¿Pero qué...? ¡Un momento!\n¿Por qué te entrometes en este asunto?
+Este... yo...\x0E\x01\x09\x04\x1400\x900 Quiero salir con Cocu.
+\x0E\x01\x09\x04\x515\xC10¡Ja, ja, lo sabía! Grusi solo tiene\nojos para... Oye, un momento...
+\x0E\x01\x09\x04\x511\x1D1D¿Có... cómo?
+\x0E\x01\x09\x04\x1201\xFF00¿Lo dices en serio? ¿Me eliges a mí?
+¡Pues claro! \x0E\x01\x09\x04\x1400\x900Me has hecho muy feliz.\nGracias...
+\x0E\x01\x09\x04\x500\x1D17Esto no puede estar pasando...\nNo es justo... ¿Por qué? ¿Por qué?...
+\x0E\x01\x09\x04\x500\x18¡¡¡Buaaaah!!!
+\x0E\x01\x09\x04\x1200\x01¡Link!
+Desde el momento en el que me dijiste\nlo de la carta, me di cuenta de mis\nsentimientos por ella.\n\n\x0E\x01\x09\x04\x1209\xC00Y me dije a mí mismo que no podía\npermitir que otro me la arrebatara.\n\n\n\x0E\x01\x09\x04\x1201\x400Si no llega a ser por ti, quizá nunca\nme hubiera dado cuenta de todo esto.\n\n\n\x0E\x01\x09\x04\x1208\x0B¡Muchas gracias, compañero!\nLa verdad es que no sé cómo\nagradecértelo...

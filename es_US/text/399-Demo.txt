@@ -1,0 +1,46 @@
+
+¡Link!
+No, mi señora. Recuerde lo que\nhemos hablado. Ahora es el momento\nde mostrarse fuerte y preocuparse\núnicamente de su misión.
+Yo... debo irme.\nLo siento, Link... 
+Has tardado demasiado en llegar aquí.\nSinceramente, me temo que la Diosa\npuede haberse equivocado al elegirte.\n\nSi esto es lo que cabe esperar de ti,\njamás podrás enfrentarte a quienes\namenazan a mi señora Zelda.
+¿Te molestan mis palabras, muchacho?\n\n\n\nDe no ser por mí, mi señora habría\ncaído ya en manos del enemigo.\n\x0E\x01\x04\x02\x14\x0E\x01\x06\x02\xFFCDDebes admitir que has llegado tarde.\n\n\x0E\x01\x06\x02\xFFCDTardaste demasiado y no fuiste\ncapaz de salvarla.
+<b<Zelda>> conoce su destino y ha ido\na encontrarse con él.\n\n\nEscucha bien, elegido. Si deseas ayudar\na mi señora, debes superar las pruebas\nque vas a encontrar en tu camino.\n\nSolamente entonces tendrás la fuerza\nnecesaria para poder serle útil a Zelda.\n¿Lo has entendido?
+Hay un mensaje para el \x0E\x01\x12\x04\x00\x01amo,\npero está en la lengua de los\nantiguos dioses.\n\nProcedo a traducírselo.
+<y+<Desde la noche de los tiempos, guiaré\nal elegido en la misión de la Diosa.>>
+<y+<La sacerdotisa llegada del cielo\nha pasado por el manantial terrenal\ny se dirige hacia su destino.>>
+<y+<<b<<y+<En <b<Lanayru<y+<, región de los desiertos,\nel elegido llegará a una tierra distante\natravesando el <r<Portal del Tiempo<y+<.>>
+¡Has obtenido la <y<litografía del orbe\namarillo>>! Está esculpida en un material\nmuy pesado y parece realmente antigua.
+
+Vaya, Link... Veo que aún\nsigues con vida. No esperaba\nencontrarte aquí.
+Siempre acabamos topándonos\nel uno con el otro, ¿verdad?\nNo es una simple coincidencia...\nParece que nos une el <r<lazo del destino>>.
+¡Fíjate en estos grabados!
+Hasta que los encontré, estaba furioso\nporque ese perrito faldero de la Diosa\nhabía destruido el <r<Portal del Tiempo>>.\n¿Cómo se llamaba? Ah, sí. <b<Impa>>.
+Pero da igual. Lo único que importa\nes que, según estos grabados, existe\notro Portal del Tiempo...\x0E\x01\x04\x02\x1E\n\x0E\x01\x06\x02\x1CD¡Una excelente noticia!\x0E\x01\x06\x02Í
+He estado buscando un Portal del\nTiempo desde la última vez que\nnos encontramos.
+Pero no hallaba ni una sola pista,\ny la sensación de fracaso comenzaba\na ser desesperante...
+Pensé que jamás volvería a tener en mi\npoder a esa encantadora jovencita...\nCasi no podía soportar la idea.
+Pero, ¡qué casualidad!...\x0E\x01\x04\x02( Llegué aquí\ny me enteré de que todavía existe\nun portal.\x0E\x01\x04\x02( ¡Qué grata sorpresa!
+
+
+Esa joven, tu amiguita, es la clave\npara conseguir que mi maestro\nresucite...\n\nTras tantas frustraciones, ¡por fin\nestá a mi alcance!
+Pero antes he de ocuparme de ti,\nLink... ¿Qué castigo\nserá el más apropiado?\n\nHace poco dije que te haría sufrir\ntanto que acabarías ensordecido\npor tus propios gritos, ¿no es así?\n\nLo he pensado, y estoy dispuesto\na cambiar de idea si llegamos\na un acuerdo...
+Me conformo con que me digas dónde\nse oculta el otro Portal del Tiempo.~~~\n\n\n¿Te parece pedir demasiado?\nClaro que no. Y no intentes engañarme,\nsé que conoces su localización exacta.\nBien, ¿vas a decírmelo?
+Vaya, veo que no estás dispuesto\na cooperar. Qué contrariedad. \nMuy bien, tendré que darte esa\nlección que tanto necesitas.
+Impresionante, ¿no te parece?\nLa delicada piel de mis brazos\nes, a la vez, recia como el acero.\n¿No te dejan sin palabras?
+\x0E\x01\x05\x04\n\x00Sí...
+\x0E\x01\x05\x04\x14\x00¡Observa!
+\x0E\x01\x05\x04\x14\x00\x0E\x01\x08\x02\x1CD¡Este es mi verdadero aspecto!
+\x0E\x01\x05\x04\x14\x00\x0E\x01\x08\x02\x1CD¡Sublime!
+\x0E\x01\x05\x04\x19\x00\x0E\x01\x08\x02\x2CD¡Belleza en estado puro!
+Sí, prácticamente lo tengo todo.\x0E\x01\x04\x02\x14\nAunque me falta un pequeño detalle...
+Si hay algo que no tengo, es piedad.\x0E\x01\x04\x02-\n\n\n\nLink, tú y yo estamos\nunidos por el <r<lazo del destino>>...\n\n\n\x0E\x01\x04\x02<Acércate, Link...\x0E\x01\x06\x02\xFFCD\n¡Enfréntate a mí y te demostraré\nque ese lazo es <r<rojo porque está\nbañado en tu sangre>>!
+
+
+¡Has obtenido la Llama de Din y tu espada\nse ha transformado! ¡Ahora es una espada\nsagrada capaz de disipar el mal!
+\x0E\x01\x12\x04\x00\x01Amo, ~~~la espada ya está imbuida del\npoder de las tres llamas sagradas\ny ha adoptado su verdadera forma,\nla <r<Espada Maestra>>.
+Confirmo la posibilidad de activar\nel <b<Portal del Tiempo >>que permanece\naletargado en el <b<templo del presidio>>.\n\nRecomiendo ir allí cuanto antes.
+
+¡Jo, jo, jo! No puedo creer que\nun mortal haya conseguido llegar\na estas candentes tierras...
+Si no me equivoco, el símbolo\nque llevas en el dorso de tu mano\nno es un simple adorno...\n\nNo hay duda de que la Diosa te\nha elegido para recibir la estrofa\nque llevo custodiando todo este\nlargo tiempo...\nMuy bien, pequeño, prepárate para\nescuchar una de las estrofas del\n<b<Cantar del Héroe>>.
+
+¡Has aprendido una de las estrofas\ndel <y<Cantar del Héroe>>!

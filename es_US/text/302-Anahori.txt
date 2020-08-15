@@ -1,0 +1,49 @@
+¡Saca rupias hasta que no puedas más!\nO hasta que salga la bomba, claro...\n¿Quieres jugar a <b<Agujeros y rupias>>?\n[1]Principiante[2]Intermedio[3]Experto[4-]No, gracias
+Muy bien, ¡buena suerte con esas\nrupias! ¡A ver qué tal lo haces!\n
+¡Aquí estaré si cambias de idea, amigo!
+Ay, ¡me temo que no tienes suficientes\nrupias, amigo! Vuelve cuando hayas\nahorrado un poco, ¿sí?
+¡Hola, amigo!
+Es tu primera vez, ¿verdad? \n¡Es un orgullo!
+¡Yo soy el gran <b<Nabucco>>! ¡Y me encargo\ndel juego de <r<Agujeros y rupias>>!
+Se trata de escarbar en busca\nde rupias hasta que te encuentres\nuna bomba y... ¡pum, se acabó!\n¿Qué, quieres jugar... una partidita?\n\x0E\x01\x09\x04\x14\x1614Aunque ahora que me fijo... Estás\nbastante debilucho, amigo. Será mejor\nque vuelvas cuando andes mejor\nde salud.
+Si quieres puedes sentarte\nahí a descansar.
+El nivel principiante tiene menos\nagujeros. Ideal para... principiantes.\n¡Je, je! Es fácil y divertido.
+Cada partida cuesta <r<30 rupias>>.\n¿Qué me dices?\n\n[1]¡Vamos![2-]Mejor no
+En el nivel intermedio hay algunos\nagujeros más. ¡Pero ten cuidado\ncon las <y<rupobres>>!
+Son <r<50 rupias>> la partida.\n¿Qué, te interesa?\n\n[1]Sí[2-]Mejor no
+En el nivel experto hay más bombas,\npero también las rupias son de mayor\nvalor. ¡No lo olvides! ¡El que no\narriesga no gana!
+La partida cuesta <r<70 rupias>>.\n¿Qué me dices?\n\n[1]Juego[2-]Mejor no
+¿En qué nivel quieres jugar?\n[1]Principiante[2]Intermedio[3]Experto[4-]Mejor no
+Creo que te vendría bien intentarlo\nde nuevo. ¿Qué me dices?\n[1]Principiante[2]Intermedio[3]Experto[4-]Mejor no
+¡¿Pero qué...?! ¿No has encontrado\nni una sola rupia? Pobre...
+Has perdido dinero. \nDas bastante pena...
+Solo has perdido un poco. Eso es mala\nsuerte y nada más.
+Al final, te has quedado igual.
+Bueno, no está nada mal.\nEstarás contento, ¿no?
+¡Has ganado una fortuna!\n¡Felicidades, amigo!
+¡Impresionante! ¡Has encontrado todas\nlas rupias! Toma, esto es para ti, te lo\nhas ganado.
+Esta vez has logrado encontrar\n<r<\x0E\x02\x03\x06\x00\x00Í \x0E\x03\x04\x02\x1CD>>.
+Esta vez has logrado encontrar...
+Ahí va un consejito... <r<Si las rupias\nson de poco valor>>, no habrá muchos\n<r<agujeros contiguos con trampa>>, así que\npodrás relajarte, que pareces tenso.\nSin embargo, cuanto <r<más valiosas\nsean las rupias>>, <r<más agujeros contiguos\ncon trampa >>habrá. Ahí tendrás\nque estar muy atento.\nPero al primer agujero que te\nencuentres una bomba...\x0E\x01\x04\x02\x14 ¡pum!\nTendrás que admitir tu derrota.\n¡Y no te desesperes!
+Chico, pareces estar cansadísimo.\nRecupera corazones y vuelve a\nintentarlo en otro momento, ¿eh?
+Si quieres puedes sentarte a descansar\nun rato allí.
+¡Se te ha agotado el tiempo!\nLo siento, pero no te lo puedes tomar\ncon TANTA calma, amigo.
+Se te está acabando el tiempo...\nSi fuera tú, intentaría darme un\npoco más de prisa, en serio.
+\x0E\x01\x09\x04\x08\xA04Ah, ya veo, vas a descansar\nun ratito, ¿no?\n\n\nYa que no tienes nada que hacer,\npodíamos charlar un rato, ¿no crees?\n[1]Claro[2-]No, gracias
+\x0E\x01\x09\x04\x10\x1319Qué rabia. Bueno, cuando hayas\ndescansado, puede que quieras jugar\na <b<Agujeros y rupias>>.
+\x0E\x01\x09\x04\x0F\x110C¡Genial! A ver, a ver. ¿Quieres\npreguntarme algo?\n\x0E\x01\x09\x04\x08\xAFF[1]¿Quién\neres?[2]¿Levitas?[3]¿Aquí llega\nel sol?[4-]Olvídalo\x0E\x01\x09\x04\x13\x16FF
+\x0E\x01\x09\x04\x08\xA04¿Que quién soy? Verás, ¡yo soy el gran\n<b<Nabucco>>! ¡El encargado de <r<Agujeros y\nrupias>>! Es decir, que aquí mando yo.\n\nPero me gustan los ambientes\ninformales, así que puedes tratarme\ncon toda confianza, \x0E\x01\x09\x04\x0D\xF01amigo.\n\n\x0E\x01\x09\x04\x08\xA09Abrí este negocio de <b<Agujeros y rupias\n>>porque siempre me ha gustado ver\nsonreír a mis amigos cuando amasan\nenormes fortunas.\n\x0E\x01\x09\x04\x10\x1319Pero últimamente toda la zona se está\nllenando de horribles monstruos rojos\nque andan a sus anchas y ningún\n<b<mogma >>se atreve a venir por aquí.\n\x0E\x01\x09\x04\x08\xAFFNo te imaginas lo que agradecería que\nalguien les reventase sus <r<torretas >>con\nun buen <pling>¡bum! y se fueran corriendo\nde aquí de una vez por todas.
+\x0E\x01\x09\x04\x08\xA04¿Que quién soy? Verás, ¡yo soy el gran\n<b<Nabucco>>! ¡El encargado de <r<Agujeros y\nrupias>>! Es decir, que aquí mando yo.\n\nPero me gustan los ambientes\ninformales, así que puedes tratarme\ncon toda confianza, \x0E\x01\x09\x04\x0D\xF01amigo.\n\n\x0E\x01\x09\x04\x08\xA09Abrí este negocio de <b<Agujeros y rupias\n>>porque siempre me ha gustado ver\nsonreír a mis amigos cuando amasan\nenormes fortunas.\n\x0E\x01\x09\x04\x10\x1319Pero todos los <b<mogmas >>dicen que \nencontrar las rupias es facilísimo\ny que no quieren jugar...\n\n\x0E\x01\x09\x04\x08\xAFFPor eso me encantaría que te\nconvirtieras en cliente habitual,\n¡sería lo mejor que me ha pasado!
+\x0E\x01\x09\x04\x08\xA04¡Yo soy el gran <b<Nabucco>>! ¡El encargado\nde <r<Agujeros y rupias>>! Es decir, que\naquí mando yo.\n\n\x0E\x01\x09\x04\x09\xB09Pero me gustan los ambientes\ninformales, así que puedes tratarme\ncon toda confianza, amigo.\n
+\x0E\x01\x09\x04\x14\x160A¿Lo dices por los lentes? Je, je.\nNo son verdaderos. ¡Los llevo porque\nme hacen parecer aún más interesante\nde lo que soy!
+\x0E\x01\x09\x04\x14\xE0B¿Y qué me dices del <r<bigote>>?\nTan lustroso y rizadito.\n¡Me lo cuido muchísimo!
+\x0E\x01\x09\x04\x08\xAFFPero esto es todo pura mercadotecnia.\n¡Mis clientes se merecen que los reciba\nde la mejor forma posible!
+\x0E\x01\x09\x04\x08\xA09No, aquí no entra el sol ni aunque\nlo invites. ¡Llevo los lentes por estar\na la última moda!
+\x0E\x01\x09\x04\x14\x1605Je, je, je... No, no levito.\n¡Me apoyo sobre la colita!
+\x0E\x01\x09\x04\x00\nY supongo que ya habrás observado\nlas fantásticas y<r< musculosas patas>>\nque la Diosa me ha dado, ¿no?
+\x0E\x01\x09\x04\x08\xAFFReconozco que me encanta que mis\nclientes las admiren. Por eso me apoyo\nen la cola. ¡Es toda una estrategia\ncomercial!
+\x0E\x01\x09\x04\x08\xA05No, no levito. Lo que pasa es que así\nlos clientes pueden contemplar mis\nfantásticas y <r<musculosas patas>>,\nque son de lo mejor.
+\x0E\x01\x09\x04\x13\x1806¿Más preguntas?[1]¿Quién\neres?[2]¿Levitas?[3]¿Aquí llega\nel sol?[4-]No, gracias
+\x0E\x01\x09\x04\x10\x1319¿Nada de nada? Qué pena... Bueno,\nno importa. Tómatelo con calma y,\nsi quieres, juega una partida de \n<b<Agujeros y rupias >>un siglo de estos.
+\x0E\x01\x09\x04\x10\x1319¿Nada de nada? Qué pena.\n\x0E\x01\x09\x04\x0D\x100CDe todas formas, muchas gracias\npor la conversación. Y como me has\ncaído bien, voy a contarte una cosita.\n\x0E\x01\x09\x04\x08\xA04¿Ves esas piedras tan relucientes\ncolgando de las paredes? ¿Las ves,\neh, las ves?\n\nPues son <r<rupias en bruto>>. De ahí que\nhaya tantas rupias en esta zona.\n¡Si les das un buen <r<golpe>>, puede que\n<r<se rompan y caigan>> de donde están!<pling>
+Estimado cliente, gracias por\njugar a <r<Agujeros y rupias>>.\nPermítame darle un consejito\nbuenísimo.\n<r<Si las rupias son de poco valor>>,\nno habrá demasiados <r<agujeros\ncontiguos con trampa>>, así que\npuede relajarse.\nNo obstante, cuanto <r<más valga\nla rupia>>, <r<más agujeros contiguos\ncon trampa>> habrá. Así que debe\nestar atento. ¡Adiós!

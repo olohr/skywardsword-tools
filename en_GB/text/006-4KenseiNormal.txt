@@ -1,0 +1,9 @@
+Your hearts have decreased quite\ndramatically. Replenish some of\nyour life at the earliest opportunity.\x0E\x01\x0C\x04\x06\x192
+You have elected to engage\n<r<Hero Mode>>, so hearts and heart\nflowers will not appear. I recommend\nutilizing potions.
+The integrity of your shield has \nweakened. Be wary of the remaining\ndurability of this item.
+\x0E\x01\x06\x02\xFECD\x0E\x01\x12\x04\x00\x02Master, the batteries in your\nWii Remote are nearly depleted.
+\x0E\x01\x06\x02\xFDCD\x0E\x01\x12\x04\x00\x02Master, \x0E\x01\x04\x02\nthe batteries in your\nWii Remote \x0E\x01\x06\x02\xFCCDwill be depleted\nany moment.
+Your hearts have decreased quite\ndramatically. Replenish some of\nyour life at the earliest opportunity.\n\nTo ensure that you are able to find\nmore <y<hearts>> when you need them,\nthey are now available as a target\nfor your <g<dowsing >>ability.<pling>
+Hold (C) and choose <y<hearts >>from\nthe circle of objects to set them as\nyour current target. \x0E\x01\x11\x02\x6CD This capability\nshould prove to be quite useful.
+You have elected to engage\n<r<Hero Mode>>, so hearts and heart\nflowers will not appear.\n\nHowever, if you choose to carry the\n<y<\x0E\x02\x01\x02d>>, then <pling>hearts\nand heart flowers do <r<have a chance\nof appearing>>.
+\x0E\x01\x12\x04\x00\x01Master, your wallet is full. You will not\nbe able to collect any more Rupees than\nyou currently carry.

@@ -1,0 +1,85 @@
+Grotta della cascata.\nAttenzione: presenza di\ncreature succhiasangue!
+\x0E\x02\x04\x02\x16CD Scuola d'armi\n    Quartiere residenziale \x0E\x02\x04\x02\x17CD
+\x0E\x02\x04\x02\x14CD Bazar
+\x0E\x02\x04\x02\x14CD Statua della Dea
+\x0E\x02\x04\x02\x14CD Piazza di Oltrenuvola
+\x0E\x02\x04\x02\x14CDScuola d'armi
+Vietato correre nei\ncorridoi della scuola!
+Mantenere in ordine\nle proprie stanze!
+Lanciarsi sul solcanubi\nsolo dai luoghi stabiliti!
+Stanza di Link
+Stanza di Bado
+Stanza di Ras e Dacio
+Stanza di Gentirosso
+Stanza del direttore Gaepora
+Stanza del maestro Asio Otus
+Stanza del maestro Cornelio
+Stanza di Grudia
+Stanza di Zelda
+Oggi battesimo del volo di\nBado, Ras, Dacio e \nLink.\nChi vincerà?
+Il vincitore del battesimo del\nvolo è Link! Ma\nci sono anche brutte notizie...
+Gabinetto
+Sala da bagno
+Palestra di scherma
+\x0E\x01\x08\x02ÍCasa di Vania\n\x0E\x01\x08\x02\xFFCDAddetta al deposito
+\x0E\x01\x08\x02\xFFCDCasa di Gianna
+\x0E\x01\x08\x02\xFFCDCasa di Chicca
+\x0E\x01\x08\x02\xFFCDCasa di Pardalo e Ralla
+\x0E\x01\x08\x02ÍCasa di Rupiero\n\x0E\x01\x08\x02\xFFCDTitolare della bottega degli arnesi 
+\x0E\x01\x08\x02\xFFCDCasa di Sparvio
+\x0E\x01\x08\x02ÍCasa di Prunello\n\x0E\x01\x08\x02\xFFCDIndovino
+Eseguendo la melodia, dono\ndella Dea, all'impavido verrà\nmostrata la luce.
+\x0E\x01\x08\x02ÍCasa di Kondoroy\n\x0E\x01\x08\x02\xFFCDTitolare dell'officina\n
+\x0E\x01\x08\x02ÍCasa di Rino\n\x0E\x01\x08\x02\xFFCDMercante di pozioni
+\x0E\x01\x08\x02\xFFCDCasa di Morsego
+Mappa di Oltrenuvola\nN: Statua della Dea S: Piazza\nE: Residenze O: Scuola d'armi
+Zuppa di zucca!\nNutriente ed energizzante!\n1 porzione 10 rupie!
+Palcoscenico di Pepa\nChiuso per mancanza di\nartisti. Si cercano artisti.
+Palcoscenico di Pepa\nAperto ogni tanto.\nSolo la sera.
+Taverna delle zucche\nLampadario in mostra\nal primo piano.
+Fragile!\nEvitare movimenti bruschi.
+Deliziosa zuppa di zucca!\nGustatela calda!
+Si ricerca con urgenza\ncoltivatore di zucche!
+Per Oltrenuvola:\nqualche battito d'ali\na nord\x2010ovest da qui.
+Grudia/Ra...
+Ruotare il piedistallo centrale\nper ricomporre il ponte che\nconduce alla torre dell'Isola\ndelle melodie.
+Per oggi le attività sono chiuse.\nVi aspettiamo di nuovo domani.\n\n\nIn caso di urgenze, rivolgetevi\nai rispettivi proprietari\npresso le loro abitazioni.\n                Il Comitato del bazar
+I bravi ragazzi si lavano\nle mani!
+Manteniamo sempre pulito!
+Al momento sto lavorando.\nSe volete parlarmi, siete\npregati di venire di notte.\n\x0E\x01\x06\x02\x5CD                                           Terry
+
+Link, \x0E\x01\x12\x04\x00\x04mio signore,\nquel <r<bagliore verde>> è una\n<b<colonna di luce >>che permette\ndi raggiungere la Terra.
+Suggerirei di consultare\nla mappa per conoscere\nla posizione rispetto\na Oltrenuvola.
+Alla base della colonna\ndi luce, le nubi si aprono\nper lasciarvi raggiungere\nla terra.
+\x0E\x01\x12\x04\x00\x01Mio signore.\nConfermo il legame tra\nla stele di ieri sera e\nla Terra.\nSuppongo che la colonna di luce\napparsa a sud permetta di\nscendere sotto le nuvole.
+Le probabilità di sopravvivenza\nsulla Terra, dotato solo della\nspada, sono minime.\n\nConcludo che dobbiamo recarci al\nbazar e acquistare uno<r< scudo >>e delle\n<r<pozioni >>prima della partenza.
+Inoltre, \x0E\x01\x12\x04\x00\x01mio signore... \n\n\n\n\x0E\x01\x12\x04\x00\x01Se ritenete di aver acquisito\ndimestichezza con i comandi,\npotete scegliere se visualizzare o\nmeno la <r<guida ai comandi>>.\nL'opzione per farlo è ora disponibile\nnell'<b<inventario>>. Impostate pure la\nvisualizzazione che desiderate.
+\x0E\x01\x12\x04\x00\x01Mio signore...\nDa qui si può vedere la\ncolonna di luce.
+Tuffatevi in direzione\ndella luce e richiamate\nil vostro solcanubi.
+Partiamo alla ricerca di Zelda!\nDopo esservi lanciato,\nusate (v) per\nrichiamare il solcanubi.\x0E\x01\x11\x02\x9CD
+Link, \x0E\x01\x12\x04\x00\x04mio signore.\nColpite l'emblema con il <r<potere\nceleste>>, poi posizionatevi la stele.\n\nPer attivare il <r<potere celeste\n>><g<sollevate la spada verso il\ncielo >>affinché accumuli energia.
+Io sono <b<Faih>>...\nPonetevi di fronte a quel\npiedistallo ed estraete la spada.
+\x0E\x01\x12\x04\x00\x04Mio signore Link,\nposizionate nella colonna la <r<stele>> che\navete ottenuto.
+Link, \x0E\x01\x12\x04\x00\x04mio signore...\n\n\n\nQuando si colpiscono con il <r<potere\nceleste >>gli <r<esaedri della Dea>>, si libera\nun'energia che genera delle\nripercussioni in Cielo.
+
+Sulla mappa sono indicati i luoghi\nin cui l'energia ha avuto effetto.
+Vi suggerirei di esplorare\nquelle zone.
+
+
+
+
+Ci vorranno migliaia di anni\nperché questo bulbo cresca.\nConfermo che questa non\nè la dimora più adatta.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\n\n\n\nLa vostra spada si è potenziata e ora\npotete usare il <r<rilevatore >>per\nlocalizzare le <y<gemme di gratitudine>>.\n\nHo aggiunto le <y<gemme di\ngratitudine >>agli obiettivi del <r<rilevatore>>,<pling>\nusatelo a vostro piacimento!
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\n\n\n\nLa vostra spada si è potenziata e ora\npotete usare il <r<rilevatore >>per\nlocalizzare le <y<gemme di gratitudine>>.\n\nHo aggiunto le <y<gemme di\ngratitudine >>agli obiettivi del <r<rilevatore>><pling>.
+Ma vedo che avete già raccolto\ntutte le gemme di gratitudine!\nComplimenti, \x0E\x01\x12\x04\x00\x02mio signore!
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\n\n\n\nI solcanubi non possono volare\ndi notte. Riposatevi a letto\ne partite con il nuovo giorno!
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\n\n\n\nIn una delle isole che fluttuano\nin Cielo si trova il <r<portale della prova>>,\nche si aprirà per mezzo della Melodia\ndell'impavido.\nAttivate subito il <r<rilevatore >>per\ndecidere dove recarvi.
+\x0E\x01\x12\x04\x00\x01Complimenti, mio signore!\n\n\n\nAvete superato tutte le prove!
+L'<r<emblema della prova >>che avete\nottenuto è parte di una coppia.\n\n\nSu quest'isola deve trovarsi una \nseconda gemma uguale a quella già\nin vostro possesso...\n\nRitrovandola, la strada che conduce\nalla <y+<Triforza >>si paleserà.\n\n\n\x0E\x01\n\x04\xFFFFÍSuggerisco di trovare al più presto\nl'emblema mancante.
+Link, \x0E\x01\x12\x04\x00\x0Bmio signore,\nFaih a rapporto.\nQuesta isola è già nella mia banca dati.\n\nIl suo nome è <b<Isola delle melodie>><r<\n>>e confermo che si tratta di un luogo\nche la Dea ha lasciato per \x0E\x01\x12\x04\x00\x02voi.\n\nTuttavia, ignoro come possiate\naccedere all'edificio innanzi a voi.\nSuggerirei di perlustrare i dintorni.
+\x0E\x01\x12\x04\x00\x0BLink, mio signore.\nConfermo la comparsa di una seconda\ncolonna di luce a nord\x2010est.\n\nSuggerisco di effettuare i preparativi e\ndirigersi là per una discesa sulla Terra.
+\x0E\x01\x12\x04\x00\x0BLink, mio signore.\nConfermo la comparsa di una terza\ncolonna di luce a sud\x2010ovest.\n\nSuggerisco di effettuare i preparativi e\ndirigersi là per una discesa sulla Terra.
+\x0E\x01\x12\x04\x00\x0BMio signore Link.\n\n\n\nPer potere eliminare il parassita da\nNarisha, è necessario che impariate\na dovere come effettuare un attacco\navvitato.\nIl maestro Asio Otus vi attende nella\nzona nord\x2010est di Oltrenuvola, vicino\nalla <r<statua del solcanubi>>.\nConsiglio di dirigerci là al più presto.
+Link, \x0E\x01\x12\x04\x00\x0Bmio signore.\n\n\n\n\x0E\x01\n\x04\x0DÍDai dati in mio possesso, riguardanti\nquesti oggetti antichi simili a scrigni,\ndeduco che si tratta di reliquie lasciate\ndalla Dea per il futuro impavido.
+Tuttavia, allo stato attuale, non\nposseggo dati che indichino le\nmodalità di apertura di tali oggetti.
+Suppongo che, quando l'energia degli\n<r<esaedri della Dea >>raggiunge il cielo, si\nverifichi l'apertura di uno scrigno.\n\nInviando la loro energia dalla terra al\ncielo, state aiutando voi stesso.

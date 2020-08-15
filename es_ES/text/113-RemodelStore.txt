@@ -1,0 +1,130 @@
+\x0E\x01\x09\x04\x00\x01A base de martillo, en la chatarrería\npodemos mejorar casi cualquier objeto\nque nos traigas. Si tu escudo está\nmellado, ¡también te lo arreglamos!\nTú dirás, ¿qué se te ofrece?\n[1]Mejorar[2]Arreglar\nescudo[3-]Nada
+\x0E\x01\x09\x04\x00\x09¡Oído, cocina! Estos son los objetos\nque por ahora pueden mejorarse.
+\x0E\x01\x09\x04\x0E\xE0C¿Eh? Pues entonces,  ¿para qué\ndemonios vienes aquí?
+\x0E\x01\x09\x04\x00\x09¿Qué escudo quieres que te repare?
+\x0E\x01\x09\x04\x0E\xE0CPero... ¡si no tienes ningún escudo\nque arreglar!\n\n\n¿No te da vergüenza pitorrearte así\nde un honrado trabajador, chaval?
+\x0E\x01\x09\x04\x08\x806Hale, ¡manos a la obra! Te aviso\nde que los cambios que haga son\npermanentes, ¿eh?\n[1]Tú dale[2-]Déjalo
+\x0E\x01\x09\x04\x07\x70E¡Oído, cocina! Estará listo en un pispás.
+\x0E\x01\x09\x04\x0E\xE05¡Pero...! ¿Qué, te divierte mofarte\nde los pobres trabajadores, chaval?\n\n\n¡Anda, ve a pitorrearte de otro,\ngraciosillo!
+\x0E\x01\x09\x04\x08\x809¡Terminado! Aquí tienes.
+\x0E\x01\x09\x04\x09\x90D¿Cómo, te vas sin más?\nNo hay quien te entienda, chico.\n\n\n\x0E\x01\x09\x04ÿ\xFF00En fin, ya sabes dónde estoy.\n¡Vuelve cuando quieras!\x0E\x01\x09\x04\x00\x02
+\x0E\x01\x09\x04\x08\x800¡Muchas gracias! Un placer hacer\nnegocios contigo.\x0E\x01\x09\x04\x00\x02
+Si hay algo más que quieras mejorar,\nsolo tienes que decírmelo, chaval.
+Parece que ahora no tienes nada más\nque se pueda mejorar... En fin,\nsiempre puedes volver otro día.
+\x0E\x01\x09\x04\x0E\xE0CLo siento, chaval, pero no tienes los\ntesoros necesarios para mejorar eso.\n\n\n\x0E\x01\x09\x04\x07\x700Si hay alguna otra cosa a la que quieras\ndarle un repaso, soy todo oídos.
+\x0E\x01\x09\x04\x0E\xE0CChaval, no te llegan las rupias...\nLo siento, pero no hay mejora\nque valga.\n\n\x0E\x01\x09\x04\x07\x700Si hay alguna otra cosa a la que quieras\ndarle un repaso, soy todo oídos.
+\x0E\x01\x09\x04\x0E\xE0CChaval, pero si no tienes ningún objeto\nque se pueda mejorar...\n\n\nAnda, vete a la tienda de utensilios y\ncómprate algo...
+\x0E\x01\x09\x04\x08\x800Arreglar este escudo te sale por\n<r<10 rupias>>. ¿De acuerdo?\n[1]Sí[2-]Déjalo
+Muy bien, pues lo dejamos.\n¿Tienes otro escudo que\nquieras arreglar?
+\x0E\x01\x09\x04\x0E\xE0CChaval, no te llegan las rupias...\nAnda, vuelve cuando hayas ahorrado\nun poco.
+\x0E\x01\x09\x04\x08\x800¿Tienes algún otro escudo\npara arreglar?
+\x0E\x01\x09\x04\x08\x800Parece que no tienes ningún otro\nescudo que necesite arreglos...\nEn fin, ¡vuelve cuando quieras!
+\x0E\x01\x09\x04\x0E\xE0C¡Ni lo sueñes, chaval!\nNo vas muy sobrado de materiales,\nme parece a mí. ¡No tienes suficientes\n<y<larvas de abeja>>!\nSegún mi abuelo, lo mejor es buscar\nen áreas con abundante vegetación,\ncerca de las colmenas.
+\x0E\x01\x09\x04\x07\x700¡Muy bien!\n¿Qué otra cosa quieres que mejore?
+\x0E\x01\x09\x04\x0E\xE0C¡Eh, chaval!\nAndas bastante corto de materiales.\n¡No tienes suficientes <y<plumas de ave>>!\n\nHe leído en los cuadernos de mi abuelo\nque lo mejor es buscarlas en áreas\nboscosas. Son de pájaros pequeños que\npuedes atrapar con el cazamariposas.
+\x0E\x01\x09\x04\x0E\xE0C¡Eh, chaval!\nNo vas muy sobrado de materiales\nque digamos. ¡No tienes suficientes\n<y<plantas rodadoras>>!\nEn los cuadernos de mi abuelo pone\nque puedes encontrarlas en el desierto.\nAunque eso sí, para cogerlas necesitas\nun cazamariposas.
+\x0E\x01\x09\x04\x0E\xE0C¡Ni lo sueñes, chaval!\nTe faltan materiales... ¡No tienes\nsuficientes <y<colas de lagarto>>!\n\nEn los cuadernos de mi abuelo leí que\nlas puedes conseguir de los monstruos\ncon aspecto de lagarto.
+\x0E\x01\x09\x04\x0E\xE0C¡Eh, chaval!\nOye, que por lo que veo te faltan\nmateriales. ¡No tienes suficiente\n<y<mineral de Eldin>>!\nSegún mi abuelo, lo más práctico\nes ir a buscarlo bajo tierra, en el\ninterior de las montañas de fuego.
+\x0E\x01\x09\x04\x0E\xE0C¡Ni lo sueñes, chaval!\nPor lo que veo no andas muy boyante\nde materiales. ¡No tienes suficientes\n<y<flores arcanas>>!\nEn los cuadernos de mi abuelo dice\nque, en tiempos remotos, se podían\nencontrar por las zonas desérticas.
+\x0E\x01\x09\x04\x0E\xE0C¡Ni lo sueñes, chaval!\nParece que no andas muy sobrado\nde materiales. ¡No tienes suficientes\n<y<flores arcanas>>!\nEn los cuadernos de mi abuelo pone\nque era un tipo de flor que crecía en\nel desierto hace muchísimo tiempo.\n¡Es la que usé para arreglar al Serbot!
+\x0E\x01\x09\x04\x0E\xE0C¡Eh, chaval!\nLo siento mucho, pero me da que te\nfaltan materiales. No tienes suficientes\n<y<alhajas ambarinas>>.\nEn los cuadernos de mi abuelo pone\nque las puedes encontrar por el suelo\nen diversos sitios, aunque es de los\ntesoros menos comunes.
+\x0E\x01\x09\x04\x0E\xE0C¡Eh, chaval!\nA ver cómo te lo digo... ¡Te faltan\nmateriales! No tienes suficientes\n<y<alhajas tenebrosas>>.\nSegún mi abuelo, se pueden encontrar\nen un reino espiritual, aunque si te digo\nla verdad a mí eso no me dice nada de\nnada.
+\x0E\x01\x09\x04\x0E\xE0C¡Eh, chaval!\nLo siento, pero te faltan materiales.\n¡No tienes suficiente <y<ectoplasma\nviscoso>>!\nSegún los cuadernos de mi abuelo,\nlo puedes conseguir de los monstruos\nblanditos.
+\x0E\x01\x09\x04\x0E\xE0C¡Eh, chaval!\nEsto me da un poco de mal rollo,\npero te faltan materiales. ¡No tienes\nsuficientes <y<garras de monstruo>>!\nEn los cuadernos de mi abuelo leí\nque las puedes conseguir de monstruos\nvoladores. Creo que los puedes ver por\naquí de noche...
+\x0E\x01\x09\x04\x10\xE11¡Ahora que lo pienso, no recuerdo\nhaber visto muchos monstruos\npululando por la noche!\n¡Esto está supertranquilo!
+\x0E\x01\x09\x04\x0E\xE0C¡Deja de tomarme el pelo, chaval!\n¿Por qué me haces perder el tiempo?...\n¡Te faltan <y<cuernos de monstruo>>!\n\nSegún mi abuelo, estos cuernos los usan\nunos monstruos para avisar a sus\ncongéneres, y es posible arrebatárselos\nusando cierto artilugio...
+\x0E\x01\x09\x04\x0E\xE0C¡Eh, chaval!\nNo me mola mucho decirte esto, pero\nes que te faltan materiales... ¡No tienes\nsuficientes <y<broches calavéricos>>!\nSegún mi abuelo, los puedes conseguir\nde los monstruos que usan palos.
+\x0E\x01\x09\x04\x0E\xE0C¡Va a ser que no, chaval!\nLo siento, pero te faltan materiales.\n¡No tienes suficiente <y<cristal maléfico>>!\n\nSegún los cuadernos de mi abuelo,\nlo puedes conseguir de unos monstruos\nde color muy oscuro...
+\x0E\x01\x09\x04\x0E\xE0C¡Lo siento mucho, chaval!\nMe temo que vas un poco justo de\nmateriales... ¡No tienes suficientes\n<y<plumas de ave azul>>!\nSegún mi abuelo, puedes obtenerlas\nde pajaritos azules que viven en áreas\nfrondosas, ¡pero para eso tienes que\natrapar uno!
+\x0E\x01\x09\x04\x0E\xE0CNo puede ser, chaval...\nMe parece que no estás lo que se dice\nsobrado de materiales. ¡No tienes\nsuficientes <y<broches calavéricos de oro>>!\nComo su nombre indica, son broches\ncalavéricos de un precioso brillo áureo.\n¡Te va a costar encontrarlos!
+\x0E\x01\x09\x04\x0E\xE0C¡Mala suerte, chaval!\nTe veo un poco escaso de materiales...\n¡No tienes suficientes <y<objetos perdidos\nde la Diosa>>!\nAl parecer, se trata de un tesoro muy\npoco común y de incalculable valor...\nO al menos eso he leído en los\ncuadernos de mi abuelo.
+
+Escudo de madera
+Normal
+Macizo
+Robusto
+Versión más resistente\ndel escudo de madera.
+Versión todavía más\nresistente y duradera\ndel escudo de madera.
+Escudo de hierro
+Normal
+Macizo
+Sólido
+Versión más resistente\ndel escudo de hierro.
+Versión todavía más\nresistente y duradera\ndel escudo de hierro.
+Escudo sagrado
+Normal
+Superior
+Supremo
+Versión más resistente\ndel escudo sagrado.
+Versión todavía más\nresistente y duradera\ndel escudo sagrado.
+Tirachinas
+Normal
+Múltiple
+Tirachinas mejorado:\ndispersa el tiro y abarca\nuna zona más amplia.
+Telescarabajo
+Gancho
+Veloz
+Tenaz
+Telescarabajo mejorado\nque alcanza una mayor\nvelocidad.
+Versión definitiva del\ntelescarabajo, con gran\nautonomía de vuelo.
+Arco
+Madera
+Hierro
+Sagrado
+Más potente y con mayor\ncapacidad ofensiva\nque el arco de madera.
+Aún más potente y con\nuna capacidad ofensiva\nmayor que el de hierro.
+Bolsa de semillas
+Para 10
+Para 20
+Para 30
+Bolsa de mayor tamaño,\ncon capacidad para un\nmáximo de 20 semillas.
+Bolsa de gran tamaño,\ncon capacidad para un\nmáximo de 30 semillas.
+Carcaj
+Para 5
+Para 10
+Para 15
+De mayor tamaño, con\ncapacidad para llevar\nhasta 10 flechas.
+De gran tamaño, con\ncapacidad para llevar\nhasta 15 flechas.
+Saco de bombas
+Para 5
+Para 10
+Para 15
+Saco de mayor tamaño,\ncon capacidad para un\nmáximo de 10 bombas.
+Saco de gran tamaño,\ncon capacidad para un\nmáximo de 15 bombas.
+Cazamariposas
+Normal
+Grande
+Con una red más grande\nque hace más fácil\natrapar insectos.
+\x0E\x01\x09\x04\x00\x03Chaval, ¿qué te pasa, que me traes\nesos ojillos de cordero degollado?\n\n\nEso es que quieres pedirme algo,\n¿verdad?\n[1]Pues sí...[2-]Qué va
+\x0E\x01\x09\x04\x10\x1008\x0E\x01\x04\x02(¿Eh? ¿El robot del abuelo?... \n\n\n\n\x0E\x01\x09\x04\x00\xE00Ya veo, tú también vienes a\npitorrearte...\n\n\n¿Cómo? ¿Que quieres...\x0E\x01\x04\x02( usar el robot\npara rescatar algo que ha caído bajo\nlas nubes?\n\n\x0E\x01\x09\x04\x07\x700Eso quiere decir que crees en las\nhistorias de mi abuelo, ¿verdad?
+\x0E\x01\x09\x04\x0D\x900Gracias, significa mucho para mí...\nAunque me temo que el robot no\nva a servirte de gran cosa.
+Míralo, aquí lo tengo.\n\n\n\nSu nombre técnico es <b<Serbot>>. Ya sé\nque, visto así, no tiene un aspecto\ndemasiado espectacular...\n\nPero en realidad es un aparato\nprodigioso que transporta cualquier\ncosa al lugar que le ordenes.\n\nAunque claro\x0E\x01\x06\x02\xFFCD...\x0E\x01\x06\x02Í eso era antes. Ahora\nel pobre no es más que un montón de\nchatarra vieja.
+\x0E\x01\x09\x04\x0D\xE00Según el abuelo, había que engrasarlo\ncon un aceite que se saca de una planta\nmuy rara, la <y<flor arcana>>.\n\n\x0E\x01\x09\x04\x0F\xE00Pero, por lo que a mí respecta, jamás\nhe visto una flor de esas, ni sé dónde\nencontrarlas.\n[1]¿Como esta?[2-]Ni yo...
+\x0E\x01\x09\x04\x07\x717¿Eh? ¿Que tú tienes una?\n¡Chaval, eres un fenómeno!
+\x0E\x01\x09\x04\x0F\x916Ya me lo imaginaba. Por lo visto,\ncasi nadie ha oído hablar de las\n<y<flores arcanas>>...
+\x0E\x01\x09\x04\x0E\xE0C¡Serás\x0E\x01\x06\x02\xFDCD...! \x0E\x01\x06\x02Í¡Si no tienes nada de nada!
+
+
+\x0E\x01\x09\x04\x00\x01Para arreglar el <b<Serbot >>hace falta una\n<y<flor arcana>>... Pero no tengo ni idea de\ndónde puede haber una.\n[1]Tengo una[2-]Ni yo...
+\x0E\x01\x09\x04\x00\x18¡Oh, así que esta es la famosa <y<flor\narcana>>! Mira, le sale un fluido\naceitoso por el tallo, es verdad.\n\nCon esto vamos a dejar al <b<Serbot\n>>como nuevo; ¡espera y verás!\n\n\n\x0E\x01\x09\x04\x07\x700No tardo nada; ¡lo tendré listo\nen un periquete!
+\x0E\x01\x09\x04\x08\x110AAnda, ¡pero si habla y todo! Parece que\nla operación ha sido un éxito, je, je.\n\n\nMira, este chaval es el que ha traído\nel material para arreglarte. ¡Ya le\npuedes dar las gracias!
+\x0E\x01\x09\x04\x09\x952¡Serás...! ¡Bonita manera de hablarle\na la persona que te ha devuelto la vida!\n¡Grrr!\n\n\x0E\x01\x09\x04\x07\x700En fin, a lo que íbamos... Aquí el chaval\nnecesita transportar una cosa, así que\nmanos a la obra.
+\x0E\x01\x09\x04\x00\x1104Bueno, ahí te dejo al <b<Serbot>>.\n¡Cuídamelo bien!\n\n\nHe visto que tiene unos sensores muy\npotentes, capaces de localizarte allá\ndonde estés.\n\n\x0E\x01\x09\x04\x08\x700¡Por muy lejos que vayas, sabrá\ncómo encontrarte!\n\n\nEs un poco respondón, pero trabaja\nbien. En fin, chaval... \x0E\x01\x04\x02\x1EMejor será que\nlo compruebes por ti mismo.
+\x0E\x01\x09\x04\x07\x700Qué, ¿quieres que te mejore algo?\n¿O te arreglo el escudo?\n[1]Mejorar[2]Escudo[3-]Nada
+\x0E\x01\x12\x04\x00e\x0E\x01\x09\x04\x00\x0F¡Umpf\x0E\x01\x06\x02\xFCCD...!\x0E\x01\x06\x02Í ¡Ya está!\x0E\x01\x05\x04\x1E\x00
+\x0E\x01\x09\x04\x00\x03¡Eh, chaval! ¿Qué tal te va con\nel Serbot? ¿Necesitas que te haga\nalgún arreglillo?\n[1]Mejorar[2]Escudo[3-]Nada
+\x0E\x01\x09\x04\x07\x700Lo que no me explico es cómo vas\na saber por dónde buscar debajo\ndel mar de nubes.\n\nAunque, bueno... siempre puedes\npreguntarle al <r<vidente >>ese de ahí.\n\n\nNo te voy a negar que el tipo da\nun poco de grima, pero acierta\nlo suyo. Es el mejor encontrando\nobjetos perdidos y cosas así.
+\x0E\x01\x09\x04\x161A\x200¡Gracias! ¡Estoy a tope de energía,\nlisto para dar el callo!
+\x0E\x01\x04\x02\x1E\x0E\x01\x09\x04\x160C\x900¿Eh?... \x0E\x01\x04\x02\x1E¿Y el fulano este de verde?
+\x0E\x01\x09\x04\x160B\x900¿En serio?... ¿El individuo este?\n\n\n\n\x0E\x01\x09\x04\x160C\x900Bueno, pues oye... supongo que en ese\ncaso te lo mereces, sí. Gracias y tal,\nfulano verdoso.
+\x0E\x01\x09\x04\x160B\x900Sí, hombre, ¡¿y qué más?! ¡Me da igual\nlo que le deba o deje de deber!\n\n\n\x0E\x01\x09\x04\x160C\x900No tengo mejor cosa que hacer que\nponerme a recibir órdenes de un crío...
+\x0E\x01\x09\x04\x161A\x200Ooh... ¿Quién...?\n\x0E\x01\x09\x04\x160E\x200¿Quién es esta... preciosidad?
+\x0E\x01\x09\x04\x160E\x200Te... ¿te llamas Fay? ¿Sí? Y, oye, ¿qué\ndecías que buscabas exactamente?
+\x0E\x01\x09\x04\x160C\x200¡N...\x0E\x01\x04\x02\x14 no te preocupes!\n\n\n\n\x0E\x01\x09\x04\x160E\x200¡Por una ricura como tú, transportaría\nmil toneladas de ladrillos hasta el fin\ndel mundo, si hiciera falta!
+\x0E\x01\x09\x04\x160C\x200Amo verdoso, tú descuida, que yo\nos echo una manita. Puedo detectar\nlas ondas telepáticas que emite Fay.\n\n\x0E\x01\x09\x04\x160E\x200Si necesitáis algo, ¡basta con que ella\nme llame y acudiré al momento!
+
+Tengo información para el \x0E\x01\x12\x04\x00\x01amo.\n\n\n\nEs posible <pling><r<rastrear >>la ubicación\ndel <r<rotor del molino>> que, según\nlos indicios, se halla perdido en\nlas tierras inferiores.
+Sin embargo, no considero que sea\nfactible llevarlo de vuelta a Altárea\nmetido en la alforja.
+\x0E\x01\x06\x02\xFCCD\x0E\x01\x12\x04\x00\x14(...)\x0E\x01\x06\x02Í
+\x0E\x01\x12\x04\x00\x01Amo...\n\n\n\nPor lo visto, ahora ya sí que podemos\ntransportar el rotor desde las tierras\ninferiores hasta Altárea.\n\nDe modo que sugiero comenzar con\nla búsqueda del <b<rotor del molino >>de\ninmediato.
+Tengo información para el \x0E\x01\x12\x04\x00\x0Bamo.\n\n\n\nLas recientes mejoras introducidas\nen la espada permiten el <r<rastreo>> de\n<r<tesoros>>.\n\nA partir de ahora, basta con\nseleccionar la opción de <r<tesoro>>\ncomo objetivo de <r<rastreo>>.

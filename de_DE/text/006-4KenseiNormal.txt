@@ -1,0 +1,9 @@
+Gebieter, deine Herzen haben sich\ndramatisch verringert. Ich rate dir,\ndringend Heilungsmaßnahmen zu\nergreifen.\x0E\x01\x0C\x04\x06\x192
+Da du das Spiel im <r<Helden-Modus>>\nspielst, erscheinen keine Herzen\noder Herz-Blumen.\n\nDu musst Herztränke nutzen, um deine\nHerzen wieder aufzufüllen.
+Gebieter, dein Schild ist kurz davor,\nzerstört zu werden. Bitte achte auf\ndie Schildanzeige.
+\x0E\x01\x06\x02\xFDCD\x0E\x01\x12\x04\x00\x02Gebieter,\x0E\x01\x04\x02\n die Batterieleistung deiner\nWii-Fernbedienung lässt nach.
+\x0E\x01\x06\x02\xFDCD\x0E\x01\x12\x04\x00\x02Mein Gebieter,\x0E\x01\x04\x02\n die Batterie deiner\nWii-Fernbedienung\x0E\x01\x06\x02\xFCCD ist in Kürze leer.\n\x0E\x01\x06\x02\xFBCDSei bitte vorsichtig.
+Gebieter, deine Herzen haben sich\ndramatisch verringert. Ich rate dir,\ndringend, Heilungsmaßnahmen zu\nergreifen.\nUm dich zu unterstützen, habe ich der\n<g<Aurasuche >>das Ziel <y<Herz >>hinzugefügt.<pling>
+Halte (C) gedrückt und wähle im\nAuswahlmenü <y<Herz >>aus, um das\nZiel der Aurasuche zu ändern.\x0E\x01\x11\x02\x6CD\n\nIch hoffe, diese Funktion ist nützlich\nfür dich, Gebieter.
+Da du das Spiel im <r<Helden-Modus>>\nspielst, erscheinen keine Herzen\noder Herz-Blumen.\n\nSolltest du jedoch eine <y<Herz-Medaille>>\ntragen, <r<besteht eine geringe Chance>>,\ndass dennoch <pling>Herzen oder Herzblumen\nerscheinen.
+\x0E\x01\x12\x04\x00\x01Gebieter, deine Geldbörse ist bereits\nvoll mit Rubinen.\n\n\nIch möchte dich darauf hinweisen,\ndass du keine weiteren Rubine mehr\naufnehmen kannst.

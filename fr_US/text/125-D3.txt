@@ -1,0 +1,30 @@
+Tour des cieux
+\x0E\x01\x12\x04\x00\x0BMaître, veuillez prendre connaissance\nde ces informations pertinentes :\nJe détecte l'existence de trois forces\nsacrées au sein de ce bâtiment.\nSelon mes conclusions, il s'agit de la\n<y+<<y+<<pling><y+<Triforce>>.\n\n\nJ'ai marqué par des \x25B3 sur votre carte\nles endroits d'où proviennent ces\nforces.
+
+\x0E\x01\x12\x04\x00\x0BMaître, veuillez prendre connaissance\nde ces informations pertinentes :\n\n\nCes secousses semblent être la\nmanifestation d'un <r<<pling>>><r<changement\nde structure >>du bâtiment.
+Le changement va vous permettre\nd'entrer dans la salle voisine.
+Je vous recommande d'utiliser ce\n<r<panneau de contrôle >>à votre avantage\npour récupérer la <y+<Triforce>>.
+En exploitant ces changements, vous\ndevriez pouvoir vous rendre dans les\nautres salles.
+Cherche les <r<joyaux>> dissimulés\nderrière chaque statue.\nFrappe\x2010les du plus bas au plus\nhaut et la porte s'ouvrira.
+\x0E\x01\x12\x04\x00\x01Maître, regardez.
+Le symbole au sol est l'<r<emblème de\nFarore>>.\n\n\nJe détecte que la puissance sacrée de la\n<y+<Triforce>> en émane.
+Pour arriver jusqu'à cet emblème,\nje vous recommande de franchir\ncette porte.
+
+
+
+Le symbole au sol est l'<r<emblème de\nNayru>>.\n\n\nJe détecte que la puissance sacrée de la\n<y+<Triforce>> en émane.\n\n\nMais le chemin qui y conduit est fermé.
+Je vous recommande de vous servir de\nce <y<chronoglobe>> pour ouvrir la voie\nvers l'<r<emblème>>.
+Regardez là\x2010bas.\nC'est un <y<chronoglobe>>.
+Le symbole au sol est l'<r<emblème de Din>>.\n\n\n\nJe détecte que la puissance sacrée de la\n<y+<Triforce>> en émane.
+Mais il ne semble pas possible\nd'atteindre l'emblème d'ici.\n\n\nJe vous recommande d'entrer dans\ncette salle en empruntant un autre\nchemin.
+\x0E\x01\x12\x04\x00\x0BMaître, veuillez prendre connaissance\nde ces informations pertinentes :\nNous sommes revenus dans la salle où\nse trouve l'<r<emblème de Din>>.
+La probabilité que vous trouviez la\nforce sacrée au bout de ce parcours\nde lave est de 60 %.
+\x0E\x01\x12\x04\x00\x0BMaître, veuillez prendre connaissance\nde ces informations pertinentes :\nJe détecte la présence d'une force\nsacrée dans cette salle.
+Je vous recommande d'avancer avec\ndétermination.
+
+
+
+
+
+
+\x0E\x01\x12\x04\x00\x0BMaître Link, veuillez\nprendre connaissance de ces\ninformations pertinentes :\n\nVous êtes arrivé jusqu'à l'emblème.\nPlantez\x2010y votre épée. Vous devriez\nalors être conduit vers la <y+<Triforce>>.

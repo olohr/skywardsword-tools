@@ -1,0 +1,8 @@
+Cet objet pourrait être celui qu'a\nperdu l'homme de l'île fortune.\n\n\nJe peux appeler le robot de l'atelier\nde rénovation pour qu'il vienne le\nrécupérer. Dois\x2010je appeler le robot?\n[1]S'il te plaît[2-]Non merci
+\x0E\x01\x12\x04\x00\x05Très bien, Maître.\nSi vous voulez le récupérer,\nexaminez\x2010le à nouveau.
+\x0E\x01\x12\x04\x00\x05Très bien, Maître.\nJ'appelle le robot par transmission\ntélépathique.
+\x0E\x01\x12\x04\x00dMam'selle Fay! zrrpt!\nTu m'as appelé?\n\n\nC'est bizarre, zrrft... cet endroit me\nrend tout nostalgique... brrzrrt...\n\n\nBzzzt... Cette fois, c'est ça qu'il faut\ntransporter?
+\x0E\x01\x12\x04\x00dTrès bien, j'apporte ça dans le ciel.\nRejoignez\x2010moi vite! vrrt!!
+\x0E\x01\x12\x04\x00\x01Maître, je vous conseille de regagner le\nciel pour remettre la roue de fortune à\nson propriétaire au plus vite.
+\x0E\x01\x12\x04\x00dBon, zrrft... toi, le maître en vert,\nreste tranquille. Laisse faire le pro!\nbzzzt!
+Cet objet pourrait être celui qu'a\nperdu l'homme de l'île fortune.\n\n\nJe pourrais appeler le robot de l'atelier\nde rénovation pour qu'il vienne le\nrécupérer.\n\nMais pour l'heure, ce robot est en\nmission au volcan d'Ordinn.\nJe ne peux donc pas le faire venir ici.\n\nJe vous conseille de retourner au\nvolcan d'Ordinn pour vérifier où en est\nle robot.

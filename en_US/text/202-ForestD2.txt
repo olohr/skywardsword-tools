@@ -1,0 +1,20 @@
+Ancient Cistern
+Strike the <r<gemstones pointing in\nfour directions >>wisely. The way\nwill only open for one who knows\nthe temple's <r<secret order>>.
+Carved into the <r<great statue\n>>are inscriptions of gratitude.\nThey reveal the <r<secret order >>of\nthis temple.\nFirst the <r<back>>, then the <r<rear>>,\nthen the <r<back of the right hand>>,\nand finally the <r<back of the left\nhand>>.
+Return the stone giant to its\noriginal form, and descend\nbelow the earth again along\nthe thread.\nThere you will find the <r<key >>to\nthe path ahead.
+Look for the <r<key >>that lies\nbeneath the earth.
+A gemstone shines deep within\nthe eye. Strike it to shut the\nmouth and dam the flow.
+
+
+
+Based on the patterns we have seen\nso far, I believe the <r<key >>mentioned on\nthe stone marker is the <r<key >>required\nto unlock the device ahead of us.
+
+\x0E\x01\x12\x04\x00\x0BMaster, I have some important\ninformation that I am certain\nyou will want to hear. There is a\nlarge treasure chest in the area.\nThere is an 85% probability it\ncontains the <r<key >>that will open the \ndoor we observed at the top of the\nstone statue.
+\x0E\x01\x12\x04\x00\x01Master, I have taken the liberty to\nconfirm that a door is located at\nthe uppermost section of this statue.\nThe lock is unfamiliar to me.
+
+
+
+
+You certainly are persistent.~~.~~.
+I'm terribly busy trying to find the\nclues that will help me revive the\ndemon king.
+Your incessant buzzing around my\nhead like some irksome gadfly\nwhen I'm THIS busy is... Well, it's\nmaking me very disagreeable.

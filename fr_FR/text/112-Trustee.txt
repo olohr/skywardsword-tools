@@ -1,0 +1,37 @@
+\x0E\x01\x09\x04\x00\x01Salut ! Bienvenue à la consigne.\nTu peux me laisser des objets dont\ntu ne te sers pas, et venir les reprendre\nquand tu veux.\nQuelque chose à me confier ?\n[1]Oui[2-]Non
+\x0E\x01\x09\x04\x00\x03Eh bien, vas\x2010y.
+\x0E\x01\x09\x04\x00\x15Alors fais comme chez toi !
+\x0E\x01\x09\x04\x08\xA0CPrends tout ton temps, mon chéri !
+\x0E\x01\x09\x04\x00\x13Bien, vas\x2010y.
+\x0E\x01\x09\x04\x00\x02OK, tu m'as fait perdre mon temps,\nmais on va dire que ça ira pour\ncette fois.
+\x0E\x01\x09\x04\x00\x02Hé ! Pourquoi tu viens me voir\nsi tu n'as rien à me donner ?
+\x0E\x01\x09\x04\x00\x17Hé oh ! Pourquoi tu viens me voir\nsi tu n'as rien à me donner ?
+\x0E\x01\x09\x04\x0E\x150CVeux\x2010tu bien arrêter de me\nfaire marcher comme ça ! Coquin !
+\x0E\x01\x09\x04\x00\x13Tu es juste venu me voir, alors...\nC'est vrai que j'embellis de jour en\njour. Faut croire que tu n'arrives pas\nà me sortir de ta tête, hein !
+\x0E\x01\x09\x04\x00\x04C'est mon travail de m'occuper\ndes affaires des gens, mais là tu\ny vas fort, j'ai trop d'affaires à toi !\n\nTu pourrais me <r<vendre>> quelques\nobjets pour faire de la place...
+
+\x0E\x01\x09\x04\x00\x15C'est mon travail de m'occuper\ndes affaires des gens, mais là tu\ny vas fort, j'ai trop d'affaires à toi...\n\nTu pourrais me <r<vendre>> quelques\nobjets pour faire de la place...
+\x0E\x01\x09\x04\x00\x0BMais mon chéri, je veille déjà\nsur beaucoup de tes affaires !\n\n\nMa consigne est comme mon c\x153ur,\nprête à exploser !\n\n\nTu pourrais me <r<vendre>> quelques\nobjets pour faire de la place...
+\x0E\x01\x09\x04\x00\x17C'est pas vrai ! La consigne déborde\ndéjà de tes affaires !\n\n\nTu veux pas me donner ton c\x153ur,\nmais pour ce qui est de me refiler\nta camelote, pas de problème !\n\nC'est bon, je plaisante, mais tu\npourrais me <r<vendre>> quelques\nobjets pour faire de la place...
+\x0E\x01\x09\x04\x00\x03En te remerciant...
+\x0E\x01\x09\x04\x00\x06Merci bien...
+\x0E\x01\x09\x04\x0B\x1709J'attends ta prochaine visite !
+\x0E\x01\x09\x04\x00\x15N'hésite pas à revenir, ma beauté\nt'éblouira chaque jour davantage !
+\x0E\x01\x09\x04\x00\x04J'ai plus de place, tu as rempli\nla consigne à toi tout seul !\n\n\nDésolée, va falloir faire du vide... \nJe te demande juste de me <r<vendre>> \nce dont tu n'as plus besoin...\nAllez, quoi !
+\x0E\x01\x09\x04\x00\x15Tu as déjà déposé trop d'objets !\n\n\n\nJe n'ai plus de place, désolée. \n<r<Vends\x2010moi >>donc quelques affaires\npour faire de la place.
+\x0E\x01\x09\x04\x00\x07Impossible, mon lutin d'amour !\n\n\n\nLa consigne est pleine de tes affaires...\nJe t'en prie, mon ange, tu veux bien me\n<r<revendre>> certaines de tes babioles ?
+\x0E\x01\x09\x04\x00\x04Tu plaisantes, j'espère ? C'est à peine\nsi je peux encore faire un pas avec\ntoutes tes affaires.\n\nJe n'ai plus de place. Tu vas devoir\nme <r<revendre >>des trucs.
+Hmm, je t'en donne <r<<r<\x0E\x02\x03\x06\x00\x00Í<r< rubis>>.\n\n\n\nÇa te va ?\n[1]Tout à fait[2-]Euh, ben...
+Je te propose <r<<r<<r<\x0E\x02\x03\x06\x00\x00Í<r<<r< rubis>> pour ça.\n\n\n\nÇa te va ?\n[1]Tout à fait[2-]Ben, euh...
+\x0E\x01\x09\x04\x00\x03Merci bien.\nJe peux faire autre chose pour toi ?
+\x0E\x01\x09\x04\x00\x08Merci ! Si tu as autre chose à mettre\nà la consigne, n'hésite pas, surtout !\nD'ailleurs, rien ne presse, tu peux\nrester encore un peu...
+\x0E\x01\x09\x04\x00\x03Merci.\nAutre chose ?
+Ah ? Tu as changé d'avis ? Dommage.
+\x0E\x01\x09\x04\x00\x12Quoi ? Tu ne veux plus ? \nAh, ça ! T'as bien raison,\nmon lapin vert ! Ça ne vaut\npas le coup, je suis bien d'accord !
+\x0E\x01\x09\x04\x00\x14Tiens donc, tu veux plus ?\nJe vois, t'as changé d'avis, on dirait.\nJe devrais pas être surprise, c'est\npas la première fois...
+\x0E\x01\x09\x04\x00\x04Oh, ben on dirait que tu n'as rien\nà me donner...\n\n\nReviens quand tu auras des\naffaires à me confier !
+\x0E\x01\x09\x04\x00\nOh, mais tu n'as rien dans ta\nsacoche, mon gentil canard !\n\n\nNe t'inquiète pas, je suis sûre que\ntu reviendras les bras chargés la\nprochaine fois !
+\x0E\x01\x09\x04\x00\x04On dirait bien que tu n'as\nrien sur toi.\n\n\nReviens me voir quand tu auras des\nchoses pour moi.
+\x0E\x01\x09\x04\x00\x04Oh, tu veux faire un peu de tri,\nc'est ça ?\n\n\nSélectionne l'icône « Trier » si tu veux\nréorganiser le classement de tes objets.\n\n\nCela rangera par exemple toutes tes\nflèches dans le même carquois.
+\x0E\x01\x09\x04\x00\x08Oh, mon petit canard en sucre,\ntu veux faire un peu de tri, c'est ça ?\n\n\nSélectionne l'icône « Trier » si tu veux\nréorganiser le classement de tes objets.\n\n\nCela rangera par exemple toutes tes\nflèches dans le même carquois !
+\x0E\x01\x09\x04\x00\x04Oh, tu veux faire un peu\nde tri...\n\n\nSélectionne l'icône « Trier » si tu veux\nréorganiser le classement de tes objets.\n\n\nCela rangera par exemple toutes tes\nflèches dans le même carquois.

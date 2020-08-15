@@ -1,0 +1,39 @@
+\x0E\x01\x0F\x00La porta è chiusa a <y<chiave>>.\x0F\x01\x0F
+\x0E\x01\x0F\x00La porta è sigillata.\x0F\x01\x0F
+\x0E\x01\x0F\x00Il cartello è in frantumi.\nNon è possibile leggerlo.\x0F\x01\x0F
+\x0E\x01\x0F\x00Non è possibile leggere il\ncartello da qui.\x0F\x01\x0F
+Volete lasciare questo mondo?\n[1]Sì[2-]No
+Ehi, Link! Non crederai di\npotertene andare così, eh?! Ah! Un\nvero uomo finisce sempre ciò che ha\ncominciato!
+\x0E\x01\x0F\x00Il tuo scudo è andato distrutto!\x0F\x01\x0F
+\x0E\x01\x0F\x00Lo scudo è stato riparato grazie\nall'olio rigenerante!\x0F\x01\x0F
+La tua borsa è piena e l'oggetto\nè stato inviato al <r<deposito>>!
+La tua borsa è piena e\nnon c'è più spazio al <r<deposito>>...\n\n\nL'oggetto è stato riposto\nnello scrigno.
+BOOON\x2010jour!
+Se in <b<Affetta il bambù>> riesci a\neffettuare <r<più di>> <r<28 tagli>>\notterrai un tesoro.\n\nIl record attuale è di 43 tagli.\nO almeno così dicono...
+Otterrai degli insetti rari e difficili da\ncatturare se completerai il livello\navanzato di <b<Insettopoli >><r<in meno\ndi 2 minuti>>.
+Noi <b<statue chiacchierone >>attiriamo\nmolte <r<farfalle>>.\n\n\nSe una <r<dolce melodia >>viene suonata\ndove si radunano, noi facciamo\nBOOON\x2010jour!
+Si dice che all'interno degli scrigni\nsbloccati dagli <b<esaedri della Dea>>, si\npossano trovare i più svariati tesori,\ntra cui dei <y<frammenti di cuore>>.
+Le <y<spore di fungo>> causano qualcosa\nse gettate su insetti o mostri. Puoi\nottenerle dai funghi luminosi.
+Otterrai un tesoro raro se troverai\ntutte le rupie partecipando a\n<b<Stana la rupia>>.
+Nel cuore di questo vulcano incontrerai\ni <b<Mogma>>, amanti di tesori. Anche se si\ndice che di recente se la stiano\nprendendo piuttosto comoda.
+Vuoi ascoltare di nuovo?\n[1]Sì[2-]No
+Si dice che un <r<drago >>viva sulla <r<vetta\n>>del vulcano.\n\n\nPerò questa non sembra affatto\nla vetta...
+Non sei dell'umore giusto?~~~\nCapisco...
+Il <r<drago >>che vive sulla vetta del vulcano\nadora conversare.\n\n\nNon la smetterà più di parlarti delle\naltre terre.
+Si dice che sulla vetta del vulcano viva\nun <r<drago >>avvolto dalle fiamme.\n\n\nIn un <r<luogo dalle temperature\naltissime>>, inaccessibile ai più.
+Si dice che chi ottiene un buon\npunteggio nelle <b<Montagne russe>>,\notterrà un <y<frammento di cuore>>.
+Dicono che da qualche parte in questo\ndeserto viva un drago a cui piace\nsfidare gli altri.\n\nSi dice anche che il drago ti donerà uno<r<\n<r<scudo <r<resistentissimo>> se supererai\nla sfida.
+Un consiglio su come catturare gli\ninsetti rari? Avvicinarsi lentamente\ncon un <y<retino >><y<grande>>.
+Sembra che, disegnando una freccia sui\nmuri misteriosi, appaia un oggetto\ndella stessa forma.
+Sembra che, disegnando del denaro sui\nmuri misteriosi, appaia del denaro\nvero.\n
+Sembra che, disegnando la forma\ndell'amore sui muri misteriosi ci si\npossa sentire subito meglio.
+Sembra che, disegnando un cerchio sui\nmuri misteriosi, appaia qualcosa di\ncircolare.
+Sembra che, disegnando tre triangoli\nsui muri misteriosi, possano apparire\ndelle <y<fate>>.
+Sembra che da queste parti sia\nnascosto un <y<frammento di cuore>>.
+Però, per poterlo ottenere, si deve\nsaper scavare come un vero <b<Mogma>>.
+Mi sa che l'hai già preso...\nMmh...
+\x0E\x01\x0F\x00Fino a quando vuoi riposare?\x0F\x01\x0F\n[1]Mattina[2]Notte[3-]Annulla
+Volete scendere qui?\n[1]Sì[2-]No
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\n\n\n\nAl momento nella foresta di Firone si\nstanno verificando dei <r<misteriosi\nmutamenti>>. Sembra sia impossibile\nscendere ora nella foresta.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\n\n\n\nGrazie ai <b<totem >>impressi nella mia\nmemoria è possibile stabilire il punto\ndella <pling>Terra dove si desidera scendere.\n\nIndicate il luogo in cui desiderate\nscendere con \x0E\x02\x04\x02\x18CD e confermatelo\ncon (A).
+Indicate il punto desiderato con \x0E\x02\x04\x02\x18CD\ne confermatelo con (A).

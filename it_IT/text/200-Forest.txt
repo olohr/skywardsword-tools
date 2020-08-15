@@ -1,0 +1,190 @@
+Foresta di Firone
+
+
+\x0E\x01\x09\x04\x00\x0E\x0E\x01\x08\x02\xFECDVa' via... va' via...
+\x0E\x01\x09\x04\x00\x0E\x0E\x01\x08\x02\xFECDFingiti morto... fingiti morto...
+\x0E\x01\x09\x04\x00\x0BEh...?\nNon si muove più una foglia...
+\x0E\x01\x08\x02\x1CDArgh! Un tizio verde!
+\x0E\x01\x09\x04\x00\x0FKyu! Kyu!\nRisparmiami la vita!
+
+Accipikkyu... mi segue\nancoraaa!
+\x0E\x01\x08\x02\x2CDPatapum!
+\x0E\x01\x08\x02\xFECD\x0E\x01\x06\x02\xFDCD... ... ...
+Oh? Non mi fai niente?!\nE hai pure fatto secchi quei tipi rossi!
+\x0E\x01\x09\x04\x00\x01Sono il Kyuri <b<Maccio>>. Tu sembri buono.\nMi hai salvato!
+\x0E\x01\x09\x04\x00\x05Ho visto una\ndall'aspetto simile al tuo, poco fa!\n\n[1]Zelda?[2]Chi?!
+\x0E\x01\x09\x04\x00\x04Ah, una tua amica?\nAllora ho delle brutte notizie...
+\x0E\x01\x09\x04\x00\x04No, no! Non so\nniente, ma è in pericolo!
+\x0E\x01\x09\x04\x00\nI tipi rossi hanno iniziato ad attaccare\ned è fuggita con <pling>il <b<saggio>>!
+
+\x0E\x01\x09\x04\x00\x07Se vai a cercare la tua amica e il <b<saggio>>,\ngli diresti che <r<io sto bene>>, per favore?\n\n\n\x0E\x01\x09\x04\x00\x05La tua amica dovrebbe essere con lui!
+\x0E\x01\x09\x04\x00\x0DAH! Che paura!\nHai amici strani, tu...
+\x0E\x01\x09\x04\x00\x04Riferisci al saggio che io sono salvo,\nper piacere! La tua amica potrebbe\nessere con lui.
+\x0E\x01\x09\x04\x00\x07Sono contento che il saggio stia bene!\nNon era andato lontano, allora!\n\n\n\x0E\x01\x09\x04\x00\x13Mi dispiace che la tua amica non\nfosse con lui...
+\x0E\x01\x09\x04\x00\x07Grazie per aver trovato tutti i\nmiei compagni!\n\n\n\x0E\x01\x09\x04\x00\x13Peccato che la tua amica non fosse con\nnessuno di loro...\nVedrai che la troverai!
+
+\x0E\x01\x09\x04\x00\x07Ehi! Giovane virgulto!\nSono io! Hai trovato la tua amica?\n[1]Chi sei?[2]No...
+\x0E\x01\x09\x04\x00\x13Ma come chi sono?!\n<b<Maccio>>!!! Ora sono triste...
+\x0E\x01\x09\x04\x00\x13Uh... capisco...\nMa lei sapeva dove stava andando!
+\x0E\x01\x09\x04\x00\x07Ho appena incontrato tutti i miei\ncompagni!\nE tutto grazie a te!
+\x0E\x01\x09\x04\x00\x05Spero che troverai la tua amica!
+
+
+
+
+Non mangiarmi!\nHo un sapore tremendo!\nLasciami andare!!!
+
+
+\x0E\x01\x09\x04\x00\x05Come? Il saggio era in pena?!\nComunque sono contento di sentire\nche sta bene!
+\x0E\x01\x09\x04\x00\x05Ma... allora... tu non sei cattivo?\n\n\n\nUna ragazza dalla testa gialla?~~~\n\x0E\x01\x09\x04\x00\x13Non lo so, sono stato nascosto\ntutto il tempo...
+\x0E\x01\x09\x04\x00\x01Sono il Kyuri <b<Algo>>!\nSe incontri il saggio, digli che sono qui!\n\n\n\x0E\x01\x09\x04\x00\x0FEcco... non lascio questo posto finché\nnon se ne sono andati tutti i mostri!
+\x0E\x01\x09\x04\x00\x14EH?!\nNon farmi spaventare!
+\x0E\x01\x09\x04\x00\x04Starò qui ancora un po'.\nSe vedi il saggio diglielo!
+\x0E\x01\x09\x04\x00\x07Meno male che anche il saggio sta bene!\nIo resto qui finché non vanno\nvia i mostri!
+\x0E\x01\x09\x04\x00\x07Grazie per aver trovato tutti\ni miei compagni.\n\n\n\x0E\x01\x09\x04\x00\x13Però... la foresta sembra ancora\npericolosa...
+
+
+\x0E\x01\x09\x04\x00\x02\x0E\x01\x08\x02\xFECDKyuuu!
+\x0E\x01\x09\x04\x00\x0BHai fatto secchi i tipi rossi come se\nfossero foglie di tè, giovane virgulto!\nNon sarai mica un... ~~~giustiziere?!\n\n\x0E\x01\x09\x04\x00\x13Tremo come un fuscello, non riesco\na muovermi.\nAiutami a scendere!
+\x0E\x01\x09\x04\x00\x11Che dolooore...\x0E\x01\x04\x02\x1E\nPerò... almeno m'hai fatto scendere!
+\x0E\x01\x09\x04\x00\x05Come? Il saggio è sano e salvo? Bene!
+\x0E\x01\x09\x04\x00\x05Mmh... una ragazza?\nNo... non ne so niente.\n\n\n\x0E\x01\x09\x04\x00\x04Il saggio ne saprà\nsicuramente qualcosa!
+\x0E\x01\x09\x04\x00\x01Mi chiamo <b<Orzio>>!\nSe vedi il saggio, digli che sono qui!\n\n\n\x0E\x01\x09\x04\x00\x13Ho le gambe che mi tremano\ncome foglioline al vento...
+\x0E\x01\x09\x04\x00\x0DAAAH! M'ha messo paura!\nPensavo fosse un altro\ndi quei cosi brutti!
+\x0E\x01\x09\x04\x00\x04Resto ancora un po' qui a riprendermi\ndalla paura!\nDillo al saggio, se lo vedi!
+\x0E\x01\x09\x04\x00\x07Per fortuna il saggio sta bene!\n\n\n\n\x0E\x01\x09\x04\x00\x13A me tremano ancora \nle gambe, resto qui!
+\x0E\x01\x09\x04\x00\x07Grazie per aver trovato tutti\ni miei compagni!\n\n\n\x0E\x01\x09\x04\x00\x0BStare qui mi fa sentire al sicuro,\nnon si vedono cosi brutti in giro!
+
+\x0E\x01\x09\x04\x00\x13Ma io... credevo di\nessermi mimetizzato\nbenissimo!
+\x0E\x01\x09\x04\x00\x01Sono <b<Genzio>>!\nSono il maggior esperto di\nmimetizzazione, dopo il saggio!
+\x0E\x01\x09\x04\x00\x05Hai incontrato il saggio?\nL'hai trovato?! Bene!!!\n\n\n\x0E\x01\x09\x04\x00\x14Se lo rivedi, digli che sono qui,\nper favore!
+\x0E\x01\x09\x04\x00\x04Il saggio è il più bravo a mimetizzarsi!\nChissà se riuscirai a trovarlo!
+\x0E\x01\x09\x04\x00\x05Non capisco proprio come hai fatto\na trovarmi, ero perfettamente\nmimetizzato!
+\x0E\x01\x09\x04\x00\x14Non hai ancora trovato il saggio, eh?!
+\x0E\x01\x09\x04\x00\x07Hai trovato il saggio!\nSei un asso nello scovare\nchi si mimetizza, allora!
+\x0E\x01\x09\x04\x00\x13Oh! Hai trovato tutti!\nNon darti delle arie, però!\nResti sempre un giovane virgulto.
+
+\x0E\x01\x09\x04\x00\x06Oh oh oh!~~~\nSono <b<Infusonio>>, l'anziano dei Kyuri!\n\n\nSei riuscito a smascherare la mia\ntecnica perfetta di mimetizzazione!~~~\nNon sei uno qualunque, vero?!\n[1]Zelda?[2]Ho una bella\nnotizia per te
+\x0E\x01\x09\x04\x00\x08Zelda\x0E\x01\x06\x02\xFDCD...?~~~\n\n\n\nAh! Dev'essere quella ragazza che ti\nsomiglia, con il pelo della testa biondo!\nSì, è stata con me!\n\n\x0E\x01\x09\x04\x00\x0CSì... ma parliamone dopo.\nOra sono troppo in pensiero\nper i miei compagni!\n\nNon riesco proprio a ricordare nulla,\na parte l'attacco di quei mostri!
+\x0E\x01\x09\x04\x00\x0ECome?!\nHai incontrato i miei compagni?!
+\x0E\x01\x09\x04\x00\x08Cosa? Anche tu stai cercando\nun'amica?\n\n\nMmh... è stata con me una ragazza con\nil pelo della testa biondo!\n\n\n\x0E\x01\x09\x04\x00\x0CSì... ma parliamone dopo.\nOra sono troppo in pensiero\nper i miei compagni!\n\nNon riesco proprio a ricordare nulla,\na parte l'attacco di quei mostri!
+\x0E\x01\x09\x04\x00\x06Oh oh oh!~~~\nSono <b<Infusonio>>, l'anziano dei Kyuri!\n\n\nSei riuscito a smascherare la mia\ntecnica perfetta di mimetizzazione!~~~\nNon sei uno qualunque, vero?!
+\x0E\x01\x09\x04\x00\x03Oh oh oh!\nMaccio, Algo e Orzio\nsono in salvo?!\n\nMa non posso lasciare questo\nposto, ci sono ancora troppi\nmostri nella foresta!
+\x0E\x01\x09\x04\x00\x03Maccio, Algo e Orzio\nsono in salvo?!\n\n\nScusa se te lo chiedo, ma non\npotresti assicurarti che anche\nl'<r<ultimo >>dei miei compagni stia bene?\n\n\x0E\x01\x09\x04\x00\x02Sicuramente si sarà mimetizzato\nnell'erba, prova a cercarlo in\nmezzo ai cespugli!\n\nEcco... mi sembra di cominciare\na ricordare qualcosa riguardo\nalla tua amica...!
+\x0E\x01\x09\x04\x00\x08Scusa se te lo chiedo, ma non\npotresti assicurarti che anche\nl'<r<ultimo >>dei miei compagni\nstia bene?\nSicuramente si sarà mimetizzato\nnell'erba, prova a cercarlo in\nmezzo ai cespugli!\n\n\x0E\x01\x09\x04\x00\x02Se lo troverai, mi aiuterai di certo\na ricordare dov'è andata la\ntua amica!
+\x0E\x01\x09\x04\x00\x03Oh oh oh!\nMaccio, Algo e Genzio\nsono in salvo?!\n\nMa non posso lasciare questo posto,\nci sono ancora troppi mostri\nnella foresta!
+\x0E\x01\x09\x04\x00\x03Maccio, Algo e Genzio\nsono in salvo?!\n\n\nScusa se te lo chiedo, ma non\npotresti assicurarti che anche\nl'<r<ultimo >>dei miei compagni\nstia bene?\n\x0E\x01\x09\x04\x00\x02Sicuramente si sarà arrampicato\nda qualche parte! Prova a\ncercarlo sugli alberi!\n\nEcco... mi sembra di cominciare\na ricordare qualcosa riguardo\nalla tua amica...!
+\x0E\x01\x09\x04\x00\x08Scusa se te lo chiedo, ma non\npotresti assicurarti che anche\nl'<r<ultimo >>dei miei compagni\nstia bene?\nSicuramente si sarà arrampicato\nda qualche parte! Prova a\ncercarlo sugli alberi!\n\n\x0E\x01\x09\x04\x00\x02Se lo troverai, mi aiuterai di certo\na ricordare dov'è andata la\ntua amica!
+\x0E\x01\x09\x04\x00\x03Oh oh oh!\nMaccio e Algo\nsono in salvo?!\n\nMa non posso lasciare questo posto,\nci sono ancora troppi mostri nella\nforesta!
+\x0E\x01\x09\x04\x00\x03Sono più tranquillo ora che\nso che Maccio e Algo sono salvi!\nMa chissà gli altri...?\n\nScusa se te lo chiedo, ma non potresti\nassicurarti che anche gli altri\n<r<due >>miei compagni stiano bene?\n\n\x0E\x01\x09\x04\x00\x08Allooora, dov'era andata la \ntua amica...? Forse di là...\nNo, aspetta, di qua...?
+\x0E\x01\x09\x04\x00\x02Scusa se te lo chiedo, ma non\npotresti assicurarti che anche gli altri\n<r<due >>miei compagni stiano bene?\n\nSe li troverai, mi\naiuterai di certo a ricordare\ndov'è andata la tua amica!
+\x0E\x01\x09\x04\x00\x03Oh oh oh!\nMaccio, Orzio e Genzio\nsono in salvo?!\n\nMa non posso lasciare questo posto,\nci sono ancora troppi mostri nella\nforesta!
+\x0E\x01\x09\x04\x00\x03Maccio, Orzio e Genzio\nsono in salvo?!\n\n\nScusa se te lo chiedo, ma non\npotresti assicurarti che anche\nl'<r<ultimo >>dei miei compagni\nstia bene?\n\x0E\x01\x09\x04\x00\x02Sicuramente si sarà mimetizzato\nnell'erba, prova a cercarlo in\nmezzo ai cespugli!\n\nEcco... sento che inizio a\nricordare qualcosa riguardo\nalla tua amica...!
+\x0E\x01\x09\x04\x00\x08Scusa se te lo chiedo, ma non\npotresti assicurarti che anche\nl'<r<ultimo >>dei miei compagni\nstia bene?\nSicuramente si sarà mimetizzato\nnell'erba, prova a cercarlo in\nmezzo ai cespugli!\n\n\x0E\x01\x09\x04\x00\x02Se lo troverai, mi aiuterai di certo\na ricordare dov'è andata\nla tua amica!
+\x0E\x01\x09\x04\x00\x03Oh oh oh!\nMaccio e Orzio\nsono in salvo?!\n\nMa non posso lasciare\nquesto posto, ci sono\nancora troppi mostri nella foresta!
+\x0E\x01\x09\x04\x00\x03Sono più tranquillo ora che\nso che Maccio e Orzio sono salvi!\nMa chissà gli altri...?\n\nScusa se te lo chiedo, ma non potresti\nassicurarti che anche gli altri <r<due\n>>miei compagni stiano bene?\n\n\x0E\x01\x09\x04\x00\x08Allooora, dov'era andata la \ntua amica...? Forse di là...\nNo, aspetta, di qua...?
+\x0E\x01\x09\x04\x00\x02Scusa se te lo chiedo, ma non\npotresti assicurarti che anche gli altri\n<r<due >>miei compagni stiano bene?\n\nSe li troverai, mi aiuterai di certo\na ricordare dov'è andata\nla tua amica!
+\x0E\x01\x09\x04\x00\x03Oh oh oh!\nMaccio e Genzio\nsono in salvo?!\n\nMa non posso lasciare questo posto,\nci sono ancora troppi mostri\nnella foresta!
+\x0E\x01\x09\x04\x00\x03Sono più tranquillo ora che\nso che Maccio e Genzio sono salvi!\nMa chissà gli altri...?\n\nScusa se te lo chiedo, ma non\npotresti assicurarti che anche\ngli altri <r<due >>miei compagni\nstiano bene?\n\x0E\x01\x09\x04\x00\x08Allooora, dov'era andata la \ntua amica...? Forse di là...\nNo, aspetta, di qua...?
+\x0E\x01\x09\x04\x00\x02Scusa se te lo chiedo, ma non\npotresti assicurarti che anche gli altri\n<r<due >>miei compagni stiano bene?\n\nSe li troverai, mi aiuterai di certo\na ricordare dov'è andata\nla tua amica!
+\x0E\x01\x09\x04\x00\x03Oh oh oh!\nMaccio è in salvo?!\n\n\nMa non posso lasciare questo posto,\nci sono ancora troppi mostri\nnella foresta!
+\x0E\x01\x09\x04\x00\x03Sono più tranquillo ora che\nso che Maccio è salvo!\nMa chissà gli altri...?\n\nScusa se te lo chiedo, ma non\npotresti assicurarti che anche\ngli altri <r<<r<tre<r< >>miei compagni\nstiano bene?\n\x0E\x01\x09\x04\x00\x08Allooora, dov'era andata la \ntua amica...? 
+\x0E\x01\x09\x04\x00\x02Scusa se te lo chiedo, ma non potresti\nassicurarti che anche gli altri <r<tre\n>>miei compagni stiano bene?\n\nQuando saprò che sono tutti\nsani e salvi, sento che ricorderò\ndove s'è diretta la tua amica!
+\x0E\x01\x09\x04\x00\nAh ah! Sono tutti\nsani e salvi?!\n\n\nSei un asso a ritrovare gli altri!\nGrazie mille, anche se non so\nda dove vieni né il tuo nome!
+\x0E\x01\x09\x04\x00\x09Mi sono ricordato\nfinalmente dove s'è diretta\nla tua amica!
+\x0E\x01\x09\x04\x00\x03Se prosegui di là, in fondo\ntroverai un santuario, ma...~~~\nè infestato di mostri!
+\x0E\x01\x09\x04\x00\x0E\x0E\x01\x08\x02\x1CDCome ho fatto\na non pensarci prima?!\n\n\nCome ringraziamento per\naver trovato i miei compagni,\nti faccio un regalo Kyuri!\n\n\x0E\x01\x09\x04\x00\x08Oplà!\nPrego...
+\x0E\x01\x09\x04\x00\x01Forza, arrampicati\nsulla mia schiena e prendilo!
+\x0E\x01\x09\x04\x00\x01Usami come scaletta\ne prendilo!
+\x0E\x01\x09\x04\x00\x02Quella che tu chiami Zelda\ndiceva di essere diretta al santuario\nin fondo alla foresta...\n\nLe ho detto di lasciar perdere\nperché troppo pericoloso, ma\nmi ha scavalcato ed è andata via.
+\x0E\x01\x09\x04\x00\x08Cosa?!\nAnche tu cerchi un'amica?\n\n\nHo incontrato una ragazza\ncon i peli sulla testa gialli...
+\x0E\x01\x09\x04\x00\x02Quella che chiami Zelda\ns'è diretta verso il santuario in\nfondo alla foresta.
+Usando la <y<fionda >>dovresti \nriuscire a raggiungere il\nsantuario in fondo alla foresta.\n\n\x0E\x01\x09\x04\x00\x06Vedrai che troverai la tua\namica! Oh oh oh!
+\x0E\x01\x09\x04\x00\x02Se la userai, riuscirai\na raggiungere il santuario in\nfondo alla foresta!
+\x0E\x01\x09\x04\x00\x08Perché non provi a esercitarti\nmirando a quelle liane arrotolate?
+\x0E\x01\x09\x04\x00\x08Vedi quelle liane lì...~~~?\n\n\n\nChe impaziente...~~~ neanche il\ntempo di spiegare...!
+\x0E\x01\x09\x04\x00\x02Preparati premendo (B) e\ntira premendo (A)!\x0E\x01\x11\x02\x1CD\n\n\nSe finisci i proiettili, puoi\n<g<usare i semi >>dei frutti di \nquegli alberi!
+\x0E\x01\x09\x04\x00\x06Vedrai che troverai la\ntua amica! Oh oh oh!
+
+\x0E\x01\x05\x04K\x00\x0E\x01\x12\x04\x00\x01Mio signore,\nSiamo giunti nella <b<foresta\ndi Firone>>.
+\x0E\x01\x05\x04K\x00La crescita della rigogliosa\nvegetazione e dei grandi alberi è\ndovuta alla quantità di acqua presente.
+\x0E\x01\x05\x04K\x00Grazie a questa caratteristica\nsono presenti molti tipi di esseri\nviventi.
+\x0E\x01\x05\x04K\x00Secondo le mie analisi,\nanche Zelda si trova da qualche\nparte in questo luogo.\n\n\x0E\x01\x05\x04K\x00Vi consiglio di sfruttare il mio\nrilevatore per cercarla.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\nIl <pling><r<rilevatore reagisce>> alla creatura. \n[1]Davvero?[2]È Zelda?
+\x0E\x01\x12\x04\x00\x05Sì, mio signore.\nSecondo le mie analisi, si tratta\ndi un <b<Kyuri >>della foresta.\n\nSono dotati di parola, di grandi\nconoscenze e sono pacifici.~~~\nNon si tratta di Zelda.\n\nIgnoro la causa della reazione\ndel mio rilevatore. Suggerisco\ndi seguirne le tracce.
+Probabilità che si tratti di Zelda: 5%.\nSecondo le mie analisi è molto\npiù probabile che si tratti di un <b<Kyuri\n>>della foresta.\nSono dotati di parola, di grandi\nconoscenze e sono pacifici.~~~\nNon conosco il motivo della\nreazione del rilevatore.\nSuggerisco di seguirne le tracce.
+\x0E\x01\x12\x04\x00\x01Mio signore, suggerisco\ndi sincerarvi dell'incolumità\ndi questa creatura.
+\x0E\x01\x12\x04\x00\x01Mio signore, probabilità\nche proseguendo in questa direzione\nla creatura sopravviva: 5%.
+
+
+
+
+
+
+
+Notifico una forte reazione\ndel rilevatore, suggerisco di\nproseguire in questa direzione.
+Non sono presenti creature ostili\nnei dintorni. Il Kyuri sarebbe al sicuro\nanche ai piedi dell'albero.\n\nSuggerisco di ponderare una soluzione\nper aiutarlo, da solo non è in grado\ndi muoversi.\n\n\x0E\x01\x12\x04\x00\x01Mio signore, potete controllare\nle possibili azioni premendo (2)\nin qualsiasi momento.\x0E\x01\x11\x02\x5CD
+Il rilevatore reagisce molto\ndebolmente alla presenza di Zelda.\nSuggerisco di cambiare zona.
+Non avverto la presenza\ndi altri Kyuri in questa zona.\n\n\nSuggerisco di tornare dal saggio\ne raccogliere ulteriori informazioni.
+Suggerisco di salvare i progressi\nprima di proseguire verso il santuario\nnella foresta sulle tracce di Zelda.
+Dato l'ottimo angolo di visuale,\nsuggerisco di impostare il rilevatore\nsulla presenza di Kyuri.
+
+\x0E\x01\x12\x04\x00\x04Mio signore Link,\necco le informazioni riguardanti\nl'uso degli strumenti in vostro\npossesso.\n<g<Premendo brevemente >>(B) potete\nprepararvi a tirare con la <y<fionda>>.\x0E\x01\x11\x02\x1CD\n\n\nSe non riuscite a mirare\ncorrettamente, puntate il\ntelecomando verso lo schermo\ne premete (v) per <g<ricalibrare la mira>>.\x0E\x01\x11\x02\x9CD
+\x0E\x01\x12\x04\x00\x04Signore Link,\nprobabilità di trovare la fiamma\noltre questo ingresso: 80%.\n\nCiò a cui il Kyuri eremita si riferiva\nparlando di un potere divino, ritengo\nfosse il <r<potere celeste>>.\n\nSuggerisco pertanto di invocare\nil potere celeste e usare la spada\nper <g<completare il simbolo>>.
+\x0E\x01\x12\x04\x00\x04Signore Link,\nprobabilità che la fiamma si trovi\nin questo lago: 80%.
+\x0E\x01\x12\x04\x00\x04Signore Link,\nho ottenuto delle informazioni\nriguardanti Zelda.\n\nSembra sia stata attaccata da creature\nmalvagie, ma è riuscita a fuggire...~~~\nSi trova ancora in grave pericolo.
+<pling>Ho contrassegnato il luogo\nin cui si trova il Kyuri Maccio.\nVi prego di controllare la mappa.
+Inoltre, ritengo che il rilevatore abbia\nreagito perché questo individuo è\nentrato in contatto con Zelda.\n\nProbabilità che anche il saggio\ncon cui Zelda è fuggita possa\nattivare il rilevatore: 85%.\n\nSuggerisco di continuare la\nricerca di Zelda utilizzando\nil mio rilevatore.
+Purtroppo Zelda non si trova più\ncon il saggio,~~~ ma sembra che\nlui possegga delle informazioni.\n\nProbabilità di rintracciare Zelda\naiutando il saggio a ritrovare i\nsuoi compagni dispersi: 85%.\n\nHo <pling><r<aggiunto le tracce della\npresenza dei Kyuri>> al rilevatore.
+Vi servono altre informazioni riguardo\nalle impostazioni del rilevatore e a\ncome cambiare soggetto di ricerca?\n[1]Sì[2-]No
+Tenete premuto (C) per visualizzare\ni possibili soggetti di ricerca del\nrilevatore.\x0E\x01\x11\x02\x6CD\n\n<g<Puntate il telecomando>> sull'oggetto da\nselezionare e rilasciate (C) per\nconfermare l'impostazione\ndel rilevatore.\x0E\x01\x11\x02\x6CD\nSe non volete cercare nulla\nin particolare scegliete <g<guarda>>\ne rilasciate (C).\n[1]Dimmelo\ndi nuovo[2-]Ho capito
+Inoltre, i Kyuri che avete già \nrintracciato saranno segnati\nsulla mappa.\n\nIn tal modo il rilevatore non \nli segnalerà. Ora potete\niniziare la vostra ricerca.
+Ho <pling>segnato la posizione\ndel Kyuri Algo. Ma il rilevatore \nindica la presenza di altri Kyuri.
+Ho <pling>segnato la posizione\ndel Kyuri Algo. Zelda non sembra\nessere con lui.
+Ho <pling>segnato la posizione\ndel Kyuri Orzio. Ma il rilevatore \nindica la presenza di altri Kyuri.
+Ho <pling>segnato la posizione\ndel Kyuri Orzio. Zelda non sembra\nessere con lui.
+Ho <pling>segnato la posizione\ndel Kyuri Genzio. Ma il rilevatore \nindica la presenza di altri Kyuri.
+Ho <pling>segnato la posizione\ndel Kyuri Genzio. Zelda non sembra\nessere con lui.
+Questa zona non presenta\ntracce che facciano reagire\nil rilevatore.\n\nSuggerisco di tornare dal saggio\na raccogliere informazioni.
+
+
+\x0E\x01\x12\x04\x00\x04Signore Link,\navverto l'aura di <b<Zelda>> provenire\nda questo edificio.
+Inoltre, avverto la presenza\ndi numerose creature ostili.\nVolete procedere ugualmente?\n[1]Certo[2]No
+Non siate avventato.\nQui non ci sarà nessuno\nche potrà venirvi in aiuto.
+La paura che accompagna\nl'istinto di sopravvivenza non\nè qualcosa di cui vergognarsi.
+Se ritenete di essere in\ngrave pericolo, potete <g<tornare\nin cielo >>e prepararvi meglio.
+\x0E\x01\x12\x04\x00\x01Signore, non avete equipaggiato\nuno<r< scudo>>, suggerisco di averne\nsempre uno.
+In generale, per proteggersi\nè meglio avere sempre uno <r<scudo>>\ne delle <r<pozioni >>per ripristinare i cuori.
+Bene, riprendete pure\nla ricerca di Zelda.
+Considerando che la vegetazione\nè la stessa della foresta di Firone,\ndeduco che ci troviamo nel cuore\ndella suddetta foresta.\nZelda s'è diretta al santuario,\nsuggerisco di continuare la\nsua ricerca.
+\x0E\x01\x12\x04\x00\x04Link, mio signore.\nQuando avete qualche dubbio,\nnon esitate a rivolgervi a me con (v).\x0E\x01\x11\x02\x9CD\n\nSelezionate <r<consigli >>o <r<suggerimenti >>e \nsarò ben lieta di fornirvi ogni\ninformazione di cui dispongo in merito\nalla situazione.
+\x0E\x01\x12\x04\x00\x04Mio signore Link,\nSono ora in grado di analizzare il\nvostro grado di abilità in\ncombattimento contro il nemico.
+Mentre <g<inquadrate >>con (Z), se vi\nrivolgete a me premendo (v), sarò lieta\ndi riferirvi, oltre alle informazioni,\ni risultati delle mie analisi.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+
+\x0E\x01\x09\x04\x00\x01Ehilà roccia!\nCi rincontriamo!
+\x0E\x01\x09\x04\x00\x01Ehilà roccia!\nCi rincontriamo!\n\n\nVorrei chiederti una mano\nper una questione, vieni qui!
+\x0E\x01\x09\x04\x00\x01Ehi, roccia!\nVieni qui, sbrigati!
+\x0E\x01\x09\x04\x17\x1908Sei proprio franato qui\nal momento giusto!\n\n\nHo scoperto che in questa zona\nc'è qualcosa di cui si parla\nnegli scritti antichi!
+\x0E\x01\x09\x04ÿ\xFF05Ecco...~~~ si dice che la Dea abbia\nlasciato dei tesori per l'eroe\nche sarebbe venuto dal cielo...\n\nPer un oggetto simile,\x0E\x01\x04\x02\x1E <b<Esaedro\ndella Dea>> credo sia un nome\nappropriato! L'ho inventato io!
+\x0E\x01\x09\x04\x00\x1E04Gli scritti antichi riportano\nqualcosa a riguardo...\n\n\nSe verrà investito dalla luce della\x0E\x01\x04\x02\x1E\nspada celeste, chi la brandirà\x0E\x01\x04\x02\x1E\nverrà ricompensato!
+\x0E\x01\x09\x04\x18\x170BRoccia, tu possiedi una spada, no?\nPer questo vorrei che mi aiutassi\ncon questi esaedri enigmatici!\n[1]Va bene[2]Non voglio
+\x0E\x01\x09\x04\x17\x1908Grazie!
+\x0E\x01\x09\x04\x18\x170CFa' qualcosa, su! Per favore!\n[1]Va bene[2]No
+\x0E\x01\x09\x04\x08\x07Mmh... Vuoi per caso\nqualcosa in cambio?
+\x0E\x01\x09\x04\x17\x1906Adesso non puoi\npiù rifiutarti!
+\x0E\x01\x09\x04ÿ\xFF00Questo esaedro è fatto di\nun metallo che non avevo mai visto!\nNon riesco a intaccarlo in nessun modo.
+\x0E\x01\x09\x04\x16\xB07<r<Se verrà investito dalla luce della spada\nceleste... >>così dicono gli scritti antichi,\nsignificherà qualcosa!\n\x0E\x01\x09\x04\x00\x1705Roccia, che ne pensi?
+\x0E\x01\x09\x04\x15\x1908Oooh! Se n'è volato in cielo!!!\n\n\n\n\x0E\x01\x09\x04\x13\x1B00Ha reagito alla luce che è\nscaturita dalla tua spada!\n\n\n\x0E\x01\x09\x04\x00\x1B05Ma dove sarà finito, ora?\nIl mistero si infittisce!\n\n\n\x0E\x01\x09\x04\x16\x1E00Secondo gli scritti antichi, questi\nesaedri sono sparsi per\ntutta la terra...\n\n\x0E\x01\x09\x04\x00\x1700Prova a liberare tutti quelli\nche vedi, se ne capirai\nqualcosa, vieni a dirmelo!
+\x0E\x01\x09\x04\x18\x1705Come? Vuoi che ti\nparli di qualcosa?\n[1]Esaedri[2]Santuario[3-]Niente
+\x0E\x01\x09\x04\x16\x1E04Appena è stato investito dalla\nluce della tua spada, l'esaedro\nè volato nel Cielo.\n\nSecondo gli scritti antichi,\nce ne sono diversi, sparsi\nper tutta la Terra.
+\x0E\x01\x09\x04\x08\xB04Stando agli scritti antichi,\nl'edificio nelle vicinanze dovrebbe\nessere il Santuario del Cielo.\n\nDovrebbe accogliere l'eroe che\nproviene dal Cielo...
+\x0E\x01\x09\x04\x00\x1707A proposito... da qualche\nparte dovrebbe esserci una\nstele...\n\n\x0E\x01\x09\x04\x16\xB00C'era scritto qualcosa...~~~\nSecondo me si tratta di\nqualche istruzione per entrare!
+\x0E\x01\x09\x04\x00\x02\x0E\x01\x08\x02\x2CDAspetta, roccia!\n\n\n\nAiutami a risolvere l'enigma\ndi questi esaedri della Dea!
+\x0E\x01\x09\x04\x00\x02\x0E\x01\x08\x02\x2CDAspetta!\n\n\n\nHo un favore da chiederti,\nroccia!
+\x0E\x01\x09\x04\x00\x03\x0E\x01\x08\x02\x2CDAspetta!\n\n\n\n\x0E\x01\x09\x04\x17\x600Non fare finta di non avermi visto!\n~~~ Roccia, ti sto antipatico?!\n[1]Oh, scusa![2]Sì, molto
+\x0E\x01\x09\x04\x16\x1E07Capisco, stai cercando una\nragazza... mi dispiace averti\nfermato.\n\nÈ che ho davvero bisogno\ndi parlare con te un po'...
+\x0E\x01\x09\x04\x16\x1E56Capisco... del resto gli\nesploratori sono sempre\nstati degli incompresi!\n\nÈ che ho davvero bisogno\ndi parlare con te un po'...
+
+
+
+Tu che arrivi dal Cielo qui sulla\nTerra, mira alla stella verso cui\nad ali spiegate vola l'uccello che\nguarda al firmamento.

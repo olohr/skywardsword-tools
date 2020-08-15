@@ -1,0 +1,116 @@
+\x0E\x01\x09\x04\x0B\xC01Link! Hai fatto bene a\nvenire! È bello vederti.\n\n\n\x0E\x01\x09\x04\x00\x00Bene, allora!\nChe ne dici di divertirci un po'?\n\n\n\x0E\x01\x09\x04\x00\xC00O forse un impavido guerriero come te\nnon ha tempo per queste cose?\n\n\n\x0E\x01\x09\x04\x0D\xC00Che ne dici di qualcosa che comprenda\ntutte le fatiche e le prove affrontate\nfinora?\n\n\x0E\x01\x09\x04\x07\xC00Il passato è la chiave per comprendere\nil futuro. Apprendi dalle tue passate\nesperienze. Questo è il mio consiglio.\n\n\x0E\x01\x09\x04\x00\xC0ADunque, Link?\n[1]Va bene![2-]Non ora
+\x0E\x01\x09\x04\x00\xB06La risposta che mi aspettavo da un eroe\ncome te!\n\n\n\x0E\x01\x09\x04\x0B\xC00Dunque, se me lo concedi, darò\nun'occhiata alle tue esperienze passate.\n\n\n\x0E\x01\x06\x02\xFBCD...\n\n\n\n\x0E\x01\x09\x04\x00\xC08Dunque, hai avuto modo di fare\nnotevoli esperienze. Hai vinto\n<r<battaglie >>contro temibili mostri.\n\nE anche le prove dell'<r<Oltremondo\n>>sono state ostacoli ostici.\n\n\n\x0E\x01\x09\x04\x0D\xC00La decisione è presa. Dovrai\naffrontare di nuovo una\ndelle due sfide. \n\n\x0E\x01\x09\x04\x00\xC00Quale scegli? La decisione spetta a te.\n[1]Battaglia[2]Prova[3-]Niente
+\x0E\x01\x09\x04\x00\xC05Come? Ti rifiuti? Questo non è\ndivertente!\n\n\n\x0E\x01\x09\x04\x07\xC00Non importa. Tuttavia, torna pure\nse cambi idea.
+\x0E\x01\x09\x04\x07\xC01Link! Sei qui per\nuna <r<battaglia>> o una prova\ndell'<r<Oltremondo>>?\n[1]Battaglia[2]Prova[3-]Niente
+\x0E\x01\x09\x04\x07\xC01Link! Immagino che tu\nabbia finalmente deciso di accettare\nla mia offerta!\n\n\x0E\x01\x09\x04\x00\xC00Sei pronto ad affinare le tue abilità\nulteriormente?\n[1]Sì[2-]Non ora
+\x0E\x01\x09\x04\x0B\xC0DE una <r<battaglia>> sia! Questo è lo spirito\ngiusto!\n\n\nCon <r<battaglia >>intendo che dovrai \nscegliere di combattere con uno degli\navversari più temibili tra quelli che\nhai incontrato finora.\n\n\x0E\x01\x09\x04\x00\xC00Grazie al mio potere, lo farò rivivere\naffinché tu possa affrontarlo come hai\ngià fatto in passato.\nVinci e riceverai un premio. ~~~Tuttavia...\n\x0E\x01\x09\x04\x0D\xC00Devi prestare molta attenzione.\n<r<Se perdi è la fine>>, non tornerai\na casa!\n\x0E\x01\x09\x04\x00\xC0ATe la senti?\n[1]Sì![2-]No
+\x0E\x01\x09\x04\x10\xC0B... ~~~Ehi! Non sembri proprio in forma!\nSei sicuro di voler affrontare questa\nsfida?\n[1]Sì[2-]No
+\x0E\x01\x09\x04\x07\xC09Dunque è così?~~~ Non ti forzerò.\nSe muori, beh... muori.\n\n\n\x0E\x01\x09\x04\x00\xC00Bene, allora. Ma se decidi di\nprovarci più tardi, torna\npure da me.
+\x0E\x01\x09\x04\x07\xC06Così parla un vero guerriero!\nBene, da dove cominciamo?
+\x0E\x01\x09\x04\x00\x09All'inizio hai combattuto... ah, capisco.\x0E\x01\x04\x02\x14\nD'accordo. Che ne dici di questi\navversari?\n[1]Ghiraim[2]Occhio\ndi fuoco[3]Skorpyo[4]Il Recluso
+\x0E\x01\x09\x04\x00\x09Nel mezzo della tua avventura...\n\x0E\x01\x04\x02\x14Ecco. Che ne dici di questi\navversari?\n[1]Malgare[2]Meduclope[3]Ghiraim[4]Il Recluso
+\x0E\x01\x09\x04\x00\x09Vediamo le battaglie più recenti...\x0E\x01\x04\x02\x14\nL'unica battaglia degna di essere\nchiamata tale è avvenuta contro\nil <b<Recluso>>.
+\x0E\x01\x09\x04\x00\x09Vediamo le battaglie più recenti...\x0E\x01\x04\x02\x14\nChe ne dici di questi avversari?\n[1]Il Recluso[2]L'orda
+\x0E\x01\x09\x04\x00\x09Tra le battaglie più recenti...\x0E\x01\x04\x02\x14\nEcco. Che ne dici di questi avversari?\n[1]Il Recluso[2]L'orda[3]Ghiraim
+\x0E\x01\x09\x04\x00\x09Tra le battaglie più recenti...\x0E\x01\x04\x02\x14\nSì, che ne dici di questi avversari?\n[1]Il Recluso[2]L'orda[3]Ghiraim[4]Mortipher
+\x0E\x01\x09\x04\x00\x09Tra le ultime battaglie...\x0E\x01\x04\x02\x14\nEcco sì, che ne dici di questi avversari?\n[1]Malgare[2]Meduclope[3]Ghiraim[4]Il Recluso
+<b<\x0E\x01\x09\x04\x0B\xC0DOcchio di fuoco>> sia! Incontrerai il tuo\navversario nel <b<Santuario della Terra>>.
+<b<\x0E\x01\x09\x04\x0B\xC0DGhiraim>> sia! Il raccapricciante nemico\nche hai combattuto nel <b<Santuario\ndel Cielo>>.
+\x0E\x01\x09\x04\x0B\xC0D<b<Occhio di fuoco>> sia! Incontrerai il tuo\navversario nel <b<Santuario della Terra>>.
+<b<\x0E\x01\x09\x04\x0B\xC0DSkorpyo>> sia! Il nemico dalla forma\ndi scorpione affrontato nell'<b<opificio\ndi Ranel>>.
+\x0E\x01\x09\x04\x0B\xC0D<b<Recluso>> sia! L'imponente creatura\nche hai affrontato nella\n<b<Terra dell'esilio>>.
+<b<\x0E\x01\x09\x04\x0B\xC09Malgare >>sia! Il mostro a sei braccia che\nhai affrontato nell'<b<antico sacrario>>.
+<b<\x0E\x01\x09\x04\x0B\xC0DMeduclope>> sia! Il bizzarro mostro\nciclopico affrontato sul <b<galeone delle\nsabbie>>.
+<b<\x0E\x01\x09\x04\x0B\xC0DGhiraim>> sia! Il viscido essere\naffrontato nel <b<Grande Santuario\nAntico>>.
+<b<\x0E\x01\x09\x04\x0B\xC0DRecluso>> sia! La gargantuesca\ncreatura che hai affrontato nella\n<b<Terra dell'esilio>>.
+<b<\x0E\x01\x09\x04\x0B\xC0DRecluso>> sia! L'imponente creatura\nche hai affrontato nella\n<b<Terra dell'esilio>>.
+<b<\x0E\x01\x09\x04\x0B\xC0DL'orda>> sia! L'esercito di mostri evocato\nda <b<Ghiraim>> nella <b<Terra dell'esilio>>.
+<b<\x0E\x01\x09\x04\x0B\xC0DGhiraim>> sia! Il viscido essere\naffrontato nella <b<Terra dell'esilio>>.
+<b<\x0E\x01\x09\x04\x0B\xC0DMortipher>> sia! Hai affrontato nemici\nincredibili! Questo mi fa venire\ni brividi.
+\x0E\x01\x09\x04\x0D\xC00Ah! ~~~Ho dimenticato di dirti una cosa!\nIn battaglia potrai usare solo<r<\nl'equipaggiamento che possedevi\nal tempo>>.\n\x0E\x01\x09\x04\x07\xC00E <r<nessun oggetto dalla tua borsa>>!\nAnche se l'avversario è formidabile,\nlo hai già combattuto in passato.\nNessun vantaggio.\n\x0E\x01\x09\x04\x00\xC00Tuttavia, ritengo che lasciarti\ncombattere senza nulla sia ingiusto.\nPotrai portare con te <r<il tuo attuale\nscudo>>, se ne hai uno.
+\x0E\x01\x09\x04\x00\xC00Allora, sei a posto con\nl'equipaggiamento? Vuoi che dia\ninizio alla battaglia?\n[1]Sì![2-]No
+\x0E\x01\x09\x04\x07\xC0DPreparati psicologicamente!
+\x0E\x01\x09\x04\x00\xC05Dunque hai cambiato idea?\x0E\x01\x04\x02\x14 Nessun\nproblema da parte mia, potrai tornare\nquando vuoi.\n\n\x0E\x01\x09\x04\x07\xC00Se vuoi sostituire o equipaggiare lo\nscudo, fallo pure e torna da me\nquando sei pronto.
+\x0E\x01\x09\x04\x00\xC00Pensa al momento in cui, nel corso\ndelle tue peripezie, hai incontrato\nil nemico che vorresti sfidare di nuovo.\n[1]All'inizio[2]Nel mezzo[3]Alla fine[4-]Lascio\nperdere
+\x0E\x01\x09\x04\x07\xC00Pensa al momento in cui, nel corso\ndelle tue peripezie, hai incontrato il\nnemico che vorresti sfidare di nuovo.\n[1]All'inizio[2]Poco fa[3-]Lascio\nperdere
+\x0E\x01\x09\x04\x0B\xC07Wow, Link! Notevole\ndimostrazione, sei un grande\nguerriero!
+\x0E\x01\x09\x04\x0B\xC07Ben fatto. Ancora una volta,\nun'eccellente battaglia!
+Il tempo impiegato per sconfiggere\n<b<\x0E\x02\x02\x04\x00\x00>> è \x0E\x02\x03\x06\x00\x00\x2CD:\x0E\x02\x03\x06\x00\x01\x2CD.\x0E\x02\x03\x06\x00\x02\x2CD.
+\x0E\x01\x09\x04\x00\x08Aspetta un momento. Poiché è la prima\nvolta che sconfiggi quel nemico per il\nmio sollazzo, puoi avere questo.\x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x00\x06Bel lavoro! Hai un nuovo record!\nMeriti un premio. Ecco, prendi questo.\x0E\x01\x09\x04\x0C\xB06
+Cosa è successo?! Non hai battuto il\ntuo record! Devi impegnarti\npiù a fondo.
+Cosa è successo?! Non hai battuto il\ntuo record! Eppure, è comunque un\ngrande risultato sconfiggere di\nnuovo ogni tuo nemico.
+Per tua informazione, dovrai battere\nquesto tempo se vuoi ambire al premio\nmigliore: <r<<r<\x0E\x02\x03\x06\x00\x03\x2CD<r<:<r<\x0E\x02\x03\x06\x00\x04\x2CD<r<>>.\nDovrai dare il meglio di te!
+\x0E\x01\x09\x04\x0B\xC09Hai riportato 8 vittorie di seguito!\nImpressionante! Complimenti!
+\x0E\x01\x09\x04\x0B\xC09Woooow! Hai riportato 9 vittorie\ndi seguito! Chi l'avrebbe mai pensato?
+\x0E\x01\x09\x04\x0B\xC09Hai riportato 10 vittorie di seguito!!!\nChe guerriero straordinario!
+\x0E\x01\x09\x04\x0B\xC09Continui a stupirmi. 11 vittorie di\nseguito... Non ho mai visto nulla\ndi simile!
+\x0E\x01\x09\x04\x0B\xC0912 battaglie, 12 vittorie! Sei una\nmacchina da guerra! Il prototipo\ndel guerriero!
+\x0E\x01\x09\x04\x0B\xC09Che succede? La tua borsa è piena e lo\nè anche il deposito. Dunque non credo\nche potrò darti questo scudo.
+Non ho altra scelta che darti 1000\nrupie, invece.\x0E\x01\x09\x04\x0C\xB06 Potrai ottenerlo in una\nprossima sfida!
+\x0E\x01\x09\x04\x10\xC00In ogni caso...~~~ Link.\nChe ne diresti di un'altra battaglia\nproprio ora?\n\n\x0E\x01\x09\x04\x0B\xC09È rischioso, sappilo, ma se vincerai\npiù battaglie consecutive otterrai\nun premio persino più ambito.\n\nTra le mie ricompense troverai\nuno <r<scudo resistentissimo>>.\nImmagino tu sia interessato, vero?\n\n\x0E\x01\x09\x04\x0D\xC00Tuttavia...\x0E\x01\x04\x02\x14 anche se lo sai già,\nti ricordo che se perdi sarà la fine.\n\n\nInoltre, la <r<resistenza dello scudo e la\nvitalità >>non si recuperano passando di\nbattaglia in battaglia. Questo rende\nla sfida ancora più epica!
+Se ti fermi ora, riceverai come premio\n<r<\x0E\x02\x02\x04\x00\x01>>.\nPerò, con la prossima vittoria avrai\n<r<\x0E\x02\x02\x04\x00\x02>>!\n\x0E\x01\x09\x04\x00\nChe ne pensi? Desideri continuare?\n[1]Sì[2-]No
+\x0E\x01\x09\x04\x00\x08Così parla un vero guerriero! Ma c'è\nqualcosa che devi sapere.\n\n\n\x0E\x01\x09\x04\x07\x900Da una battaglia all'altra, sarò io a\nscegliere il tuo prossimo avversario.\nUna preoccupazione in meno per te,\nnon trovi?\nE poi c'è più suspense! Ora basta\ncon le ciance, si combatte!
+\x0E\x01\x09\x04\x00\x08Così si fa!\n\n\n\nLa prossima è la battaglia n. \x0E\x02\x03\x06\x00\x03Í.\nDevi vincerne ancora \x0E\x02\x03\x06\x00\x04Í per\nsconfiggere tutti gli avversari.\n\nE ora continuiamo, senza\nalcun indugio!
+\x0E\x01\x09\x04\x00\x05Molto bene...~~~ non c'è bisogno di\nstrafare. Quando muori...\nbeh, muori.\n\n\x0E\x01\x09\x04\x0C\xB06Hai comunque superato te stesso!\nCome promesso, ecco a te.
+Eccoti 5 rupie. Non guardarmi così!
+Eccoti 20 rupie. Non spenderle tutte in\nuna volta sola!
+Eccoti 50 rupie! Forza, sono tue.
+Eccoti 100 rupie! Fai un acquisto\noculato!
+Eccoti 200 rupie! Te le sei guadagnate!
+300 rupie! Potrai comprarti qualcosa\ndi bello!
+Eccoti 500 rupie! Sono una bella cifra,\nvero?
+Guarda un po'! 1000 rupie!\nMai visto una cifra simile?
+2000 rupie! Hai vinto alla lotteria!
+\x0E\x01\x09\x04\x0C\xB06Ecco a te, prendi questo.
+\x0E\x01\x09\x04\x0C\xB00Ecco il tuo premio!
+\x0E\x01\x09\x04\x0C\xB00Hai vinto questo!
+Mamma mia! 3000 rupie!\nCome le spenderai?
+E questa volta sono 9900 rupie!\nMi hai letteralmente sbancato!
+\x0E\x01\x09\x04\x01\xC09Torna pure quando vuoi!\nA presto!
+\x0E\x01\x09\x04\x00\x06Vuoi tentare una prova\ndell'<r<Oltremondo>>? Mi piace chi ha il\ncoraggio di affrontare una dura sfida!\n\n\x0E\x01\x09\x04\x07\xC00Le prove dell'<r<Oltremondo >>vengono\nrivissute sulla base di quelle già\naffrontate finora. Io le ricreerò\nper te adesso.\nPer rendere la cosa più emozionante,\ncronometrerò la tua prestazione.\nPotresti anche vincere un premio.\n\nTuttavia...\x0E\x01\x04\x02\x14 fallirai la prova se\nverrai colpito da un guardiano\nanche solo una volta.\n\nIn tal caso, tornerai qui <r<con la\nvitalità gravemente ridotta>>.\n\n\n\x0E\x01\x09\x04\x07\xC0ADunque, vuoi ancora provare?\n[1]Sì![2-]No
+...~~~ \x0E\x01\x09\x04\x00\x05Cosa credi che sia un gioco?\nNon ne vale la pena rischiare la vita.\nVatti a riposare un po'.\n\nTorna quando avrai recuperato\nla tua vitalità.
+\x0E\x01\x09\x04\x00\x06Questo volevo sentire, impavido\nguerriero! Ora scegli una prova\ndell'Oltremondo.\n[1]Foresta[2]Vulcano[3]Deserto[4-]Niente
+
+\x0E\x01\x09\x04\x00\x06Questo volevo sentire, impavido\nguerriero! Ora scegli una prova\ndell'Oltremondo.\n[1]Foresta[2]Vulcano[3]Deserto[4]Altro
+\x0E\x01\x09\x04\x00\x05Un altro luogo? Dove, dunque?\n[1]Oltrenuvola[2]Precedenti[3-]Niente
+\x0E\x01\x09\x04\x00\nPrendi una decisione! Quale posto\nscegli?\n[1]Foresta[2]Vulcano[3]Deserto[4]Altro
+Bene, vediamo un po'. Il tuo record\nqui è \x0E\x02\x03\x06\x00\x00\x2CD:\x0E\x02\x03\x06\x00\x01\x2CD.\x0E\x02\x03\x06\x00\x02\x2CD.
+\x0E\x01\x09\x04\x0B\xC0DOra possiamo cominciare! Chiudi gli\nocchi e concentrati!
+\x0E\x01\x09\x04\x00\x07Link!\nLe hai raccolte tutte!\nSei un vero guerriero!
+\x0E\x01\x09\x04\x00\x07Ben fatto. Sei tornato tutto intero.
+\x0E\x01\x09\x04\x00\x0BCosa combini? Che disastro!\n\n\n\nE il fallimento ha un prezzo. Ti sono\nrimasti appena pochi cuori. Meglio\nripristinarli prima di riprovarci.
+Hai finito in \x0E\x02\x03\x06\x00\x00\x2CD:\x0E\x02\x03\x06\x00\x01\x2CD.\x0E\x02\x03\x06\x00\x02\x2CD.
+\x0E\x01\x09\x04\x00\xC05A quanto pare è la prima volta che\nporti a termine questa prova\ndell'Oltremondo per me. Ti meriti\nun premio.\x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x0B\xC09Hai stabilito un nuovo record!\nHo il premio adatto.\n\x0E\x01\x09\x04\x0C\xB00Eccotelo.
+\x0E\x01\x09\x04\x00\x07Incredibile! Ottimo lavoro,\nLink! Davvero un\nbuon tempo!\n\nMeriti qualcosa di speciale.\nEcco a te! \x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x00\x07Davvero un ottimo risultato.\nEccoti il premio. \x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x00\x0BMmh... Nulla di speciale...\x0E\x01\x04\x02\x14 Hai\ncomunque fatto del tuo meglio,\necco qui.\x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x00\x0BOh, andiamo.\x0E\x01\x04\x02\x14 Puoi fare sicuramente\ndi meglio.\n\n\nMagari mettici un po' più d'impegno\nla prossima volta! Tutto quello che\nposso darti è questo.\x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x00\nAllora, Link? Che ne dici\ndi un'altra <r<prova dell'Oltremondo>>?\n[1]Sì![2-]No
+\x0E\x01\x09\x04\x00\x05Che noia, mi viene da sbadigliare!\x0E\x01\x04\x02\x14\nBeh, se cambi idea, sai dove\ntrovarmi.
+\x0E\x01\x09\x04\x0B\xC08Che c'è, Link?!\nNon vedi l'ora di sapere cosa sto\npreparando per te?!\n\n\x0E\x01\x09\x04\x00\x00E va bene, allora! Significa che\ninizieremo immantinente!\n\n\n\x0E\x01\x09\x04\x00\xC00Immagino che essere un coraggioso\nguerriero sia un impegno a tempo\npieno che non lascia spazio per altro...\n\n\x0E\x01\x09\x04\x0D\xC00Che ne diresti di riaffrontare qualcuna\ndelle difficoltà che hai dovuto superare\nfinora?\n\n\x0E\x01\x09\x04\x07\xC00Trovo che il modo migliore per\nmigliorarsi sia imparare il più\npossibile dalle esperienze passate!\n\n\x0E\x01\x09\x04\x00\xC0AAllora, Link, che ne\ndici? Te la senti?\n[1]Sì, lo farò![2-]Uhm...
+Ghiraim
+Occhio di fuoco
+Skorpyo
+Malgare
+Meduclope
+il Recluso
+il Recluso
+il Recluso
+l'orda
+Mortipher
+20 rupie
+un piccolo tesoro
+100 rupie
+un frammento di cuore
+300 rupie
+un tesoro raro
+500 rupie
+uno scudo resistentissimo
+2000 rupie
+tre tesori rari
+3000 rupie
+9900 rupie
+200 rupie
+1000 rupie

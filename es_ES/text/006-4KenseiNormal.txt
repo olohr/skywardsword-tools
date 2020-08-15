@@ -1,0 +1,9 @@
+\x0E\x01\x12\x04\x00\x02Amo, el nivel del indicador de salud\nes demasiado bajo. Sugiero tomar\nmedidas para recuperar corazones.\x0E\x01\x0C\x04\x06\x192
+Puesto que en el actual <r<modo Héroe\n>>no aparecen corazones ni flores de\ncorazón, recomiendo un uso intensivo\nde las pociones.
+El estado del escudo ha empeorado.\nRecomiendo utilizarlo con suma\nprecaución.
+\x0E\x01\x06\x02\xFDCD\x0E\x01\x12\x04\x00\x02Amo, \x0E\x01\x04\x02\nlas pilas del mando están a punto\nde agotarse.
+\x0E\x01\x06\x02\xFDCD\x0E\x01\x12\x04\x00\x02Amo, \x0E\x01\x04\x02\nlas pilas del mando\n\x0E\x01\x06\x02\xFCCDse van a agotar en breve.\n\x0E\x01\x06\x02\xFBCDSugiero tomar medidas...
+El indicador de salud ha sufrido un\nimportante descenso. Sugiero tomar \nmedidas para recuperar corazones.\n\nPara ayudar al \x0E\x01\x12\x04\x00\x01amo a recobrar la salud\ncuando sea necesario, he añadido los\n<pling><y<corazones>> a la lista de objetivos de\n<g<rastreo>> para elegir.
+Para seleccionar los <y<corazones>> como\nobjetivo de rastreo basta con pulsar (C)\ny elegirlos en el menú.\x0E\x01\x11\x02\x6CD\n\nSe puede hacer uso de esta opción como\ny cuando el \x0E\x01\x12\x04\x00\x01amo estime oportuno.
+En el actual <r<modo Héroe >>no aparecen\ncorazones ni flores de corazón.\n\n\nNo obstante, si se lleva equipado un\n<y<medallón de corazón>>, sí habrá alguna\n<r<probabilidad >>de encontrar <pling>corazones\ny flores de corazón.
+Informo a mi \x0E\x01\x12\x04\x00\x01amo de que el zurrón está\nactualmente lleno.\n\n\nPor tanto, a partir de este momento no\nle será posible guardar las rupias que\nse encuentre en su camino.

@@ -1,0 +1,36 @@
+
+\x0E\x01\x05\x04\x0F\x00Impa !
+\x0E\x01\x05\x04<\x00Dame Zelda ! Vite, la porte !
+\x0E\x01\x05\x04\x1D\x00\x0E\x03\x01\x00Link !
+\x0E\x01\x05\x04P\x00Prends ceci ! Elle te sera utile !
+Vous avez obtenu la <y<lyre de la Déesse >>!\nMais ce n'est pas le moment de l'admirer...\x0E\x01\x05\x04\x14\x00
+\x0E\x01\x05\x04\x19\x00Dépêchez\x2010vous !
+\x0E\x03\x01\x00Link...\x0E\x01\x04\x02\x1E\n[1]Va\x2010t'en, vite[2]J'arrive\nà temps ?[3]Je te confie\nZelda
+Merci... Je compte sur toi.
+Oui, on dirait bien.
+Entendu, Link...\nJe te remercie.
+\x0E\x03\x01\x00Link !\n\x0E\x01\x04\x022Il te faut rencontrer l'Ancienne au\ntemple du sceau. Elle te montrera\nla voie.
+
+\x0E\x01\x05\x04\n\x00Nous nous reverrons...
+\x0E\x01\x05\x04\n\x00Oui, Link !\nNous nous reverrons...
+\x0E\x01\x05\x04\x00\x00Je le jure !
+\x0E\x01\x05\x042\x00Fort bien joué, Link...\n\n\n\n\x0E\x01\x05\x04P\x00J'avais presque oublié de m'occuper\nde ton cas...\n\n\n\x0E\x01\x05\x04Z\x00Hélas, je n'ai pas une seule seconde à\nt'accorder...\n\n\n\x0E\x01\x05\x04K\x00Mais tu ne perds rien pour attendre...\n\n\n\n\x0E\x01\x05\x04P\x00Bientôt je te plongerai dans un\nenfer de douleur, où tu brûleras vivant\npour l'éternité !
+
+
+
+
+
+\x0E\x01\x05\x04Z\x00En recevant la flamme de Nayru,\nFay s'est éveillée à de nouveaux\npouvoirs de <r<détection>> !
+
+
+
+
+\x0E\x01\x12\x04\x00\x01Maître, vous avez acquis la force\nnécessaire pour apprendre un nouveau\nchant. Je vous recommande de vous\nrendre dans le ciel, sur l'île aux chants.
+
+Oh, Link...\nQu'est\x2010ce qui t'amène ?
+Oh, c'est bien cela ! Tu me l'as ramené !
+Oh ho !\x0E\x01\x05\x04-\x00
+\x0E\x01\x08\x02\x2CDYaho !
+Oh ! Je sens l'effet du fruit se propager\ndans tout mon corps...\nQuelle sensation ! J'ai enfin retrouvé\ntoute ma puissance d'antan !
+Même les dragons immortels sont\nsensibles à la maladie... Grâce à toi,\nLink, je suis guéri !\nJe t'en remercie.\nJe vais donc t'interpréter la mélodie\ndu <b<Chant du héros >>que tu désires\napprendre.\n\nÉcoute donc tonner la magnifique\nvoix que j'ai retrouvée !
+Vous avez appris une <y<mélodie du\nChant du héros >>!

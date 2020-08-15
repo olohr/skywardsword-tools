@@ -1,0 +1,134 @@
+\x0E\x01\x09\x04\x00\x01\x0E\x01\x06\x02\xFECDAh...~~~ El joven llegado del cielo\na través del inmenso mar de nubes.\nTe doy la bienvenida, joven elegido.\n
+\x0E\x01\x09\x04\x00\x08\x0E\x01\x06\x02\xFECD¿Cómo debo llamarte?\n\n\n\n...\x0E\x01\x04\x02( ¿Link?\nEstá bien. Bienvenido pues,\nLink.\n\nVeo que ya dominas el poder sagrado\nque imbuye tu espada cuando la <g<alzas\nhacia el cielo>>, el<pling> <r<rayo celestial>>.\n¿No es así?\n\x0E\x01\x09\x04\x00\x0BEso demuestra que eres digno de\nla <b<espada divina>> que te ha sido\nencomendada.\n\n\x0E\x01\x06\x02\xFFCDDebes saber que llevo esperando tu\nllegada desde hace mucho, mucho\ntiempo. Yo seré quien te guíe.
+Este lugar se conoce como el <b<templo\ndel presidio>>, y lo erigió la Diosa en\nuna época remota.\n\nTu llegada se predijo hace mucho\ntiempo, casi una eternidad.\n\n\nEn cuanto a la joven sacerdotisa que\nestás buscando, ha descendido\nhasta estas tierras guiada por un\nrayo de luz. Todo estaba escrito...
+\x0E\x01\x09\x04\x00\nSin embargo, la llegada de la\nsacerdotisa ha sido diferente a como\nse describía en las profecías.\n\nEs obvio que una poderosa fuerza\nmaligna trata de imponer su voluntad\npara cambiar el destino.
+\x0E\x01\x09\x04\x0E\xFF08Link...\x0E\x01\x04\x02\x1E Estás preocupado\npor el futuro de la sacerdotisa,\n¿me equivoco?\n\nSin embargo, ahora mismo debes mirar\nhacia delante. Al igual que ella, tú\ntambién tienes una importante misión\nque cumplir.\nLa sacerdotisa ha ido al <b<bosque de\nFarone >>para descubrir su destino.\nPartirás en su búsqueda.
+\x0E\x01\x09\x04\x0E\xFF00Observa tu mapa...
+El punto señalado con \x0E\x02\x04\x02\x19CD marca\nla senda hacia el <b<bosque de Farone>>.\n\n\nSin embargo, recorrer esta tierra\ndesconocida y llena de monstruos\ncon la única ayuda de un mapa\nresultaría demasiado peligroso.\nPor tanto, a partir de ahora te\nconferiré el poder para plantar\n<r<balizas>>.\n\nCuando plantes una <r<baliza >>en el mapa,\nsurgirá una columna de luz hacia el\ncielo que te servirá de guía para llegar\nal lugar elegido.\nAdelante, mira el mapa y pon una\nbaliza sobre \x0E\x02\x04\x02\x19CD. Tanto para colocarlas\ncomo para recogerlas, solo tienes que\noprimir (C).\x0E\x01\x11\x02\x6CD
+\x0E\x01\x09\x04\x00\x03Desde aquí es imposible verla, pero te\naseguro que la baliza está plantada.\nSal afuera y compruébalo con tus\npropios ojos.\nCuando ya no la necesites, abre el mapa\ny oprime (C) sobre ella para eliminarla.\x0E\x01\x11\x02\x6CD\n\n\n¡Ahora puedes continuar tu viaje sin\nmiedo a perderte! 
+\x0E\x01\x09\x04\x00\x06No percibo que haya ninguna baliza\nsobre el lugar que está marcado en el\nmapa con \x0E\x02\x04\x02\x19CD.\n\nCuando ya no necesites una baliza,\nabre el mapa y oprime (C) sobre la\nque desees eliminar.\x0E\x01\x11\x02\x6CD\n\nY si quieres colocar la baliza con mayor\nprecisión, siempre puedes agrandar\nel mapa oprimiendo (A). ¡Es muy útil!
+\x0E\x01\x09\x04\x0E\xFF03Vamos, no pierdas más tiempo y\ndirígete al bosque de Farone para\nseguir el rastro de <b<Zelda>>.\n\nLlévate lo que encuentres en el <r<cofre\ndel tesoro >>que hay en esta sala.\nTe será útil para tu misión.
+Adelante, apunta al lugar marcado\nen el mapa con \x0E\x02\x04\x02\x19CD y oprime (C) para\ncolocar y retirar la baliza.\x0E\x01\x11\x02\x6CD
+Sal por esa puerta trasera y continúa\nderecho hacia el bosque. Ten mucho\ncuidado.
+\x0E\x01\x09\x04\x00\x1303La puerta que da al <r<bosque de Farone\n>>está abierta. Atraviésala y sigue\nadelante para llegar a la entrada.\n\nUn día, la verdad te será revelada,\nLink... Sé fuerte y no\ntengas miedo.
+\x0E\x01\x09\x04\x00\x1303Con el tiempo, todas tus preguntas \nserán respondidas. Por ahora, sé\nfuerte y ten valor, Link.
+\x0E\x01\x09\x04\x00\x03Seguro que ya has visto el valle del\nexterior en forma de espiral.\nEn el fondo hay un sello que\noculta algo.\nPor el momento no hace falta que\nsepas nada más, pero tarde o\ntemprano lo descubrirás.
+\x0E\x01\x09\x04\x00\nYa habrá tiempo de hablar más\nadelante. ¡Ahora debes marcharte!
+\x0E\x01\x09\x04\x400=¡¿Pero qué dices, anciana?!
+\x0E\x01\x09\x04\x400\x02No sabes de qué estás hablando.\n¡Atrévete a repetirlo!
+\x0E\x01\x09\x04\xE00\nSolo digo la verdad. Lo siento, pero no\nserás tú quien salve a la sacerdotisa,\n<b<Zelda>>.\n\nLas antiguas profecías dicen que\nesa misión le corresponde a otro.\nA aquel que salvará el mundo.
+\x0E\x01\x09\x04\x400>\x0E\x01\x08\x02\x1CD¡Tonterías!\n\n\n\nEs obvio que no me conoces bien.\nSi me conocieras, ¡sabrías que si \nalguien puede salvar a <b<Zelda >>es\nel gran <b<Vilán>>!\nPor eso estoy aquí. Si no me encargara\nyo, ¡nadie lo haría! ¡Solo yo estaría\ndispuesto a hacer el papel de héroe!
+\x0E\x01\x09\x04\x400\x1E¿Eh?
+\x0E\x01\x09\x04\x400\x3218Oh... Ahora lo entiendo.\n\n\n\n\x0E\x01\x09\x04\x40D\xA00Link, esta anciana está\nintentando decirme que tú\nvas a ser quien salve a <b<Zelda>>.
+\x0E\x01\x09\x04\x400<¡Qué gracioso! No me creo toda esa\nhistoria del destino. ¡Son un montón\nde tonterías sin sentido!\n\n\x0E\x01\x09\x04\x40B\xA00¡Te conozco, y tú no eres ningún\nhéroe! ¡Solo un debilucho!
+\x0E\x01\x09\x04\x4008\x0E\x01\x08\x02\x1CD¡Grrrrrr!\x0E\x01\x05\x04-\x00
+\x0E\x01\x09\x04\xE00\x08Link, ¿finalmente pudiste\nver a <b<Zelda>>?
+\x0E\x01\x09\x04\xE0E\xFF05Ya veo. Así que también te encontraste\ncon ella.\n\n\nLa mujer que viste junto a Zelda\nse llama <b<Impa>>.\n\n\nEs su servidora, enviada por la\nmismísima <b<Diosa>>.
+Impa y Zelda se dirigen al lugar\ndesignado por la Diosa para cumplir\nsu destino.\n\nSin embargo, dado que Impa destruyó\nla puerta que usaron en su último viaje,\nsolo queda un modo de seguirles\nla pista.
+\x0E\x01\x09\x04\xE0E\xFF00Debes usar el poder de la <b<lira >>que\nZelda te entregó.
+\x0E\x01\x09\x04\xE00\x04¡Espera, Link!\nLa alteración no se produjo en\nesa dirección.
+¡No hay tiempo que perder! Sal por\nla puerta del otro lado e investiga\nlo que está sucediendo.
+¿O acaso necesitas prepararte\nmejor? Si es así, no te lo impediré,\n¡pero debes darte prisa!
+\x0E\x01\x09\x04\x00\x03Para abrir el Portal del Tiempo,\ndebes imbuir tu espada con la\nenergía de las tres llamas sagradas.\n\nEl <r<Cántico de la Diosa>>, preservado\nen tu tierra natal, Neburia, es la\nclave para encontrar las llamas.\n¡Regresa allí cuanto antes!
+\x0E\x01\x09\x04\x00\nTarde o temprano, esa bestia volverá\na romper el sello...\n\n\nVilán también está planeando algo\npara detenerla. Ahora mismo, toda\nayuda es poca.\n\nLink...\n¡Debes hallar las tres llamas sagradas\ne imbuir tu espada con su poder cuanto\nantes!
+Deduzco que la canción que Zelda\ninterpretó el día del torneo celeste\nes en realidad el <b<Cántico de la Diosa>>.\n\nCalculo un 85% de probabilidades\nde que alguien de la academia\nde caballeros posea información\nsobre la letra de la canción.
+\x0E\x01\x09\x04\x10\x160F¡Oh, mira tu espada!\n\n\n\n\x0E\x01\x09\x04\x00\xB00No hay duda. Las tres llamas sagradas\nhan purificado la hoja y ahora alberga\nun tremendo poder. Parece que lo has\nlogrado, Link.
+\x0E\x01\x09\x04\x01\xFF07Lo que sientes es... la <r<fuerza>>.\n\n\n\n\x0E\x01\x09\x04\x00\xB00Un poder sagrado que los dioses\nantiguos concedieron a nuestro\nmundo, tal y como dice el Cántico\nde la Diosa.\nSolo hay que mirarte para ver ese\nmismo poder rezumando de ti y de\ntu espada.
+\x0E\x01\x09\x04\x00\x1603¡Vamos, Link!\n¡Ha llegado la hora de abrir\nel Portal del Tiempo!
+El <r<poder >>del <r<rayo celestial >>debería ser\nsuficiente para activarlo.
+¡Deprisa, súbete a ese pedestal\ny <g<descarga el poder de la espada>>\nsobre el Portal del Tiempo!
+\x0E\x01\x09\x04\x00\x07El <r<poder >>del <r<rayo celestial >>debería ser\nsuficiente para activar el Portal\ndel Tiempo.\n\n¡Deprisa, súbete a ese pedestal\ny <g<descarga el poder de la espada>>\nsobre el Portal del Tiempo!
+\x0E\x01\x09\x04\x00\x04¡Eh, Link! ¿Has visto los\nraíles que he instalado ahí fuera?\n\n\n\x0E\x01\x09\x04\x00\xB00¿Preguntas para qué sirven? Je, je...\n¡Pronto lo descubrirás!
+\x0E\x01\x09\x04\x40A\x321F\x0E\x01\x08\x02\x1CD¡Uaaah!\x0E\x01\x05\x04\x1E\x00
+\x0E\x01\x09\x04\xE00\nMe temo que el <r<sello ha vuelto\na romperse>>...\n\n\nY el <r<monstruo >>ha comenzado\na despertarse.\n\n\nTal vez haya reaccionado ante la\n<r<energía >>que irradia tu espada.\n\n\n\x0E\x01\x09\x04\xE01\xB00Por desgracia, no tenemos otra\nopción que usarla para abrir el\nPortal del Tiempo.
+\x0E\x01\x09\x04\xE10\x1600¡Link, debes volver\na encerrar a la bestia!
+\x0E\x01\x09\x04\x400\x30D¡Muy bien! ¡Estoy preparado!
+\x0E\x01\x09\x04\x40F\x2F0F¡Ha llegado la hora de poner a prueba\nmi gran invento! ¡Vamos a hacer \npedazos a ese monstruo, ya lo verás!\n\n\x0E\x01\x09\x04\x40B\x3101¿Qué estás esperando? ¡Vamos,\ntenemos que salir a enfrentarnos\ncon él!
+\x0E\x01\x09\x04\x00\nEl monstruo despierta...\n\n\n\n¡Link, debes volver\na encerrar a la bestia!
+\x0E\x01\x09\x04\xE00\n¡Espera, Link!\n¡No es el momento de usar el poder\ndel <r<rayo celestial>>!\n\n¡Así solo conseguirás que la bestia\ndespierte antes!\n\n\n¡Lo primero que debes hacer es\nvolver a <r<encerrarla en el sello>>!\n¡Date prisa!
+\x0E\x01\x09\x04\xE00\x03Has conseguido encerrar a la bestia\nuna vez más.
+Gracias, Link...
+Y a ti también, <b<Vilán>>.
+No sé qué habría pasado si no\nhubieran estado aquí.
+\x0E\x01\x09\x04\x400\x0DBueno, ya es suficiente. ¡Je, je!\nVas a hacer que me sonroje.\n\n\nAdemás, fuiste tú la que logró que\ndejara de lamentarme y pensara\nen qué podía hacer para ayudar.
+\x0E\x01\x09\x04\xE08\xB0BLo hice porque sabía que, dentro de\nti, la llama del valor arde con fuerza.
+\x0E\x01\x09\x04\xE00\x07Bien, Link. Es hora de que\nhablemos sobre la verdadera\nnaturaleza de esa bestia.\n\nPues no es otra que la propia esencia\ndel mal. Cuando atravieses el Portal\ndel Tiempo, hallarás las respuestas\nque buscas.\n\x0E\x01\x09\x04\xE01\xB00Por mucho que intentemos retenerlo,\nese diabólico ser despertará una y\notra vez.\n\nPor eso no queda más remedio que\neliminar el origen del mal de raíz.\n\n\n\x0E\x01\x09\x04\xE10\xB00Date prisa, Link. Desata\nel poder del rayo celestial.
+\x0E\x01\x09\x04\x40D\x206¡Concentra el poder del rayo celestial\nen tu espada y <g<lánzalo >>sobre el Portal\ndel Tiempo!
+¿Está bien así, anciana?
+\x0E\x01\x09\x04\xE01\x07Sí... ¡Adelante, Link!
+\x0E\x01\x09\x04\x10\x03¡Vamos, Link!\n¡Debes activar el Portal del Tiempo\ny adentrarte en él!
+\x0E\x01\x09\x04\x10\x1606¡¿Qué haces, Link?!\n¿Encontraste a Zelda al otro lado\ndel portal?\n\n\x0E\x01\x09\x04\x14\xB00¡Si no es así, debes darte prisa\ny atravesarlo!
+\x0E\x01\x09\x04\x0C\x20D¡Tienes que concentrar el poder del\nrayo celestial en tu espada y <g<lanzarlo>>\nsobre el Portal del Tiempo!\n\nAl otro lado te espera <b<Zelda>>...\n\n\n\n¡Date prisa, Link!
+\x0E\x01\x09\x04\x0C\x206Al otro lado te espera <b<Zelda>>...\n\n\n\n¡Date prisa, Link!
+\x0E\x01\x09\x04\xE01\x103Has regresado, Link...
+Comprendo. Ahora ya lo sabes todo.
+Correcto. Tras esa puerta, <b<Zelda>>\npermanece sumida en un profundo\nsueño.\n\nNo debes preocuparte, pues sigue\ncon vida.
+Según la leyenda, la Diosa ocultó\nen Neburia la <y+<Trifuerza>>, el único\npoder capaz de acabar con el Heraldo\nde la Muerte.\n\x0E\x01\x09\x04\xE01\xB00Sin embargo, nadie conoce el lugar\nexacto...~~~ porque jamás ha sido\nrevelado.
+\x0E\x01\x09\x04\xE14\xB00 Link... Seguro que tú has\nllegado a la misma conclusión,\npero la repetiré de todos modos.\n\nLa clave para encontrar la Trifuerza\nse encuentra sin duda en <b<Neburia>>.
+\x0E\x01\x09\x04\xE08\xB07¡Vamos, ve en busca de la Trifuerza!
+La clave para encontrar la Trifuerza\nse encuentra sin duda en <b<Neburia>>.\n\n\n\x0E\x01\x09\x04\xE00\x07Ya sabes lo que tienes que hacer.
+\x0E\x01\x09\x04\x401\xFF04\x0E\x01\x08\x02\x1CD¡Oye, espera un momento!
+\x0E\x01\x09\x04\x403\xFF00¡Tengo que preguntarte una cosa,\nLink!
+\x0E\x01\x09\x04\x403\xFF02Este... <b<Zelda>>... ¿Se encuentra bien?\n[1]Muy bien[2]Verás...
+¿En serio? Me alegro mucho.\n\n\n\n\x0E\x01\x09\x04\x403\x200Pero parece que sigue metida en todo\nesto hasta el final, ¿verdad?
+\x0E\x01\x09\x04\x400\x1400Eso es terrible. Debe ser muy difícil\npara ella.\n\n\n\x0E\x01\x09\x04\x403\x200Pero tú te encargarás de resolver\ntodo este lío, ¿verdad?
+\x0E\x01\x09\x04\x40E\xD09Link... Estoy decidido.\nNo voy a regresar a Neburia.\n\n\n\x0E\x01\x09\x04\x400\x200Me quedaré aquí a vivir con la\nanciana.
+\x0E\x01\x09\x04\x400\xFF0DJe, je, je... ¡No me mires así!\nLo he pensado mucho y es lo que\nquiero hacer.\n\n\x0E\x01\x09\x04\x400\x200Es que... tengo la impresión de que\nen este lugar soy útil de verdad.\nY además, así puedo vigilar a la\nbestia... \x0E\x01\x09\x04\x400\x211y cuidar de la anciana.\nNo es mucho comparado con tu\nmisión, pero quizás es mi destino.\n¿Me entiendes?\n
+\x0E\x01\x09\x04\x403\xD08Además, me gusta este sitio.\n\n\n\nPor supuesto que extrañaré Neburia,\npero me encanta disfrutar del olor\nde la tierra. ¿Te parece raro?
+\x0E\x01\x09\x04\x40D\x209¡Mira!
+\x0E\x01\x09\x04\x404\x208Gracias a Zelda y a la anciana, esta\ntierra vuelve a estar rebosante de\nvida.\n\n<r<Si plantamos una semilla >>aquí, estoy\nseguro de que se convertirá en el\nárbol más grande y frondoso que\njamás hayamos visto.\nAdemás, seguro que al verlo mucha\ngente se animaría a venirse a vivir\naquí.\n\n\x0E\x01\x09\x04\x40D\x211Ya sé que pasan muchos años hasta\nque un árbol crece y se hace grande,\npero hay que ser paciente, ¿no?\n\n\x0E\x01\x09\x04\x400\x12Ahora mismo es lo que más me\napetece hacer, de verdad.
+\x0E\x01\x09\x04\x40D\x22EY bueno, yo... Pues...\nCuando vuelvas a Neburia, saluda\na todos de mi parte, ¿de acuerdo?\n\n\x0E\x01\x09\x04\x400\xE00Supongo que los de mi pandilla se\npondrán muy tristes, pero diles que\naquí todo me va muy bien.\n\n\x0E\x01\x09\x04\x400\x209Gracias, Link.
+\x0E\x01\x09\x04\x00\x02¡Recuerda que cuento contigo para\nayudar a <b<Zelda>>, Link!\n\n\nPor cierto, en cuanto a mi idea de\n<r<plantar >>un gran árbol por aquí...\n¿Tú no tendrás alguna semilla que\npueda valerme?
+\x0E\x01\x09\x04\x0D\x22EBueno, al menos ya hemos plantado\nla semilla, pero hasta que crezca y\nse convierta en un gran árbol...\n\x0E\x01\x04\x02\x14Vamos a tener que esperar mucho.
+\x0E\x01\x09\x04\x0D\xF0A¡Sí, señor! ¿No es el árbol más\nmajestuoso que has contemplado\njamás? ¡Queda perfecto como\nsímbolo de este templo!\n\x0E\x01\x09\x04\x03\x200¡Solo con verlo me siento un poco\nmás vivo!
+\x0E\x01\x09\x04\x0D\x204¡Hola, Link! Oye, esa\nsemilla que llevas ahí es fantástica...\n¿Dónde la has encontrado?\n\n\x0E\x01\x09\x04\x00\xE0E¡Si la plantamos aquí, podría\nconvertirse en un enorme árbol!\n\n\n\x0E\x01\x09\x04\x03\x200Aunque...\x0E\x01\x04\x02\n nos iba a llevar mucho,\nmucho tiempo...
+\x0E\x01\x09\x04\x00\x00¡Vamos, ve por el monstruo,\nLink! ¡Tienes que salvar\na <b<Zelda>>!
+\x0E\x01\x09\x04\x00\x05¿Vas a buscar a los tres dragones?\nCuando completes el Cantar del Héroe,\npodrás por fin localizar la Trifuerza.\n¡Te deseo suerte!
+\x0E\x01\x09\x04\x00\n¡<r<El monstruo >>ha vuelto a despertar!\nAl parecer, el sello de <b<Zelda >>está casi\nal límite de su poder.\n\nAdelante, <b<Link>>. Tú y\n<b<Vilán >>deben colaborar y hacer todo\nlo que puedan para encerrar de nuevo\na esa bestia.\n¡Nuestro destino depende de ustedes!
+\x0E\x01\x09\x04\x00\n¡Link!\n¡Colabora con <b<Vilán >>y encierra\nde nuevo a esa bestia!
+\x0E\x01\x09\x04\x00\x05Así que buscas a los tres dragones,\n¿no? Creo que el del trueno vivía en\nel desierto...
+\x0E\x01\x09\x04\xE00\x03Has logrado encerrar a la bestia por\ntercera vez.
+Link, tú y Vilán han hecho\nun gran trabajo.\n\n\nSin embargo, el monstruo tarda cada\nvez menos tiempo en romper de nuevo\nel sello... ¡Tienes que apresurarte,\nLink!\nDime, ¿has hallado alguna pista sobre\nel lugar donde está la Trifuerza?\n[1]Así es[2]Verás...
+Hmm...\x0E\x01\x04\x02\x19 Ya veo.\n\n\n\nAsí que, para localizar la Trifuerza,\ndebes encontrar a los tres dragones\ny completar el Cantar del Héroe.\n\nEl dragón que está más cerca se\nencuentra en el <b<bosque de Farone>>.\n\n\n\x0E\x01\x09\x04\xE00\nSin embargo, he de advertirte que la\nsituación en el bosque dista de ser\nla más propicia.\n\n\x0E\x01\x09\x04\xE01\xB00No sé qué es lo que ha podido ocurrir,\npero, hace poco, el camino que lleva\nal bosque quedó totalmente sumergido\nbajo el agua.
+Así que no he tenido otra opción que\nbloquear la <r<puerta que da al bosque\n>>para evitar que pase el agua.\n\nDebo mantenerla así, o de lo contrario\nesto se inundará. El problema es que\nno sé cómo podrías hacer para entrar\nde otra forma en el bosque...
+\x0E\x01\x09\x04\x400\x0DJe, je, je. ¿Eso es todo?\n¡Yo tengo la solución!\n\n\nMientras combatíamos, se me ocurrió\nun nuevo uso para mi <r<supercatapulta>>.\n\n\n¡Si te subes encima, puedo mandarte\ndesde aquí hasta el bosque en un abrir\ny cerrar de ojos!
+\x0E\x01\x09\x04\x40C\x202¡Iré preparándolo todo! ¡No tardes\ndemasiado, Link!
+\x0E\x01\x09\x04\xE00\x0BCuánta energía...\n\n\n\nEl muchacho tiene un gran potencial,\npero tiende a hacer planes para otras\npersonas sin consultarles antes.
+\x0E\x01\x09\x04\xE08\xFF00Adelante, Link... Y ten\nmucho cuidado, ¿entendido?
+\x0E\x01\x09\x04\x00\x03<b<Vilán >>está preparándolo todo para\nque puedas llegar al bosque.\n\n\nLink, puede que le haya\nsucedido algo a la <r<dragona del agua\nque vive en el bosque>>. ¡Cuento contigo\npara averiguarlo!
+\x0E\x01\x09\x04\x00\x07Es increíble que sucediera algo así en\nel bosque. Pero, por fortuna, todo ha\nvuelto a la normalidad.
+\x0E\x01\x09\x04\x00\nTienes que conseguir cuanto antes\ntodas las estrofas del <r<Cantar del\nHéroe>>. ¡No nos queda mucho tiempo!
+\x0E\x01\x09\x04\x00\x03Ah, llegas en el momento justo,\nLink.\n\n\n<b<Vilán >>te está esperando.\n\n\n\nLo encontrarás <r<junto a la catapulta>>\nesa que ha construido. Será mejor\nque vayas a verlo.
+\x0E\x01\x09\x04\x00\x03Por lo visto, <b<Vilán >>te está esperando.\nEstá <r<junto a esa máquina lanzarrocas>>.\nSerá mejor que vayas a verlo.
+\x0E\x01\x09\x04\x00\x03Por cierto, Link, <b<Vilán\n>>te está esperando.\n\n\nEstá <r<junto a la catapulta >>esa que\nha construido. Será mejor que vayas\na verlo.
+\x0E\x01\x09\x04\x00\nCuando consigas superar el último\njuicio, estarás preparado para recibir\nla Trifuerza.\n\n¡Regresa cuanto antes a Neburia y\nenfréntate al último desafío!
+\x0E\x01\x09\x04\x00\x14¡Fabuloso, Link!\nLos tres dragones te han enseñado\nlas estrofas de la canción. ¡No hay\ntiempo que perder!\n¡Tienes que volver sin demora\na los cielos para completar el\nCantar del Héroe!
+\x0E\x01\x09\x04\x00\nHa llegado la hora, Link.\n\n\n\n¡Regresa a Neburia para obtener\nla Trifuerza!
+\x0E\x01\x09\x04\x00\x09¡No es posible! ¡No! ¡Ha elegido el peor\nmomento para arrebatarnos a <b<Zelda>>!\n\n\n¡Link, debes regresar al\npasado y evitar por todos los medios\nla resurrección del Heraldo de la\nMuerte!\n¡Rápido, entra en el Portal del Tiempo!
+\x0E\x01\x09\x04\x00\x0D¡Link, debes regresar al\npasado y evitar por todos los medios\nla resurrección del Heraldo de la\nMuerte!\n¡Rápido, entra en el Portal del Tiempo!
+\x0E\x01\x09\x04\x00\x09¡¿Cómo?! ¿¡Dices que el Heraldo\nde la Muerte ha resucitado!? Si no\nlo detenemos, todo estará perdido...
+
+\x0E\x01\x09\x04\x00\n¡Eres nuestra única esperanza,\nLink! El destino de este\nmundo está en tus manos. ¡No nos\ndefraudes!
+\x0E\x01\x09\x04\x00\x14<b<Vilán >>salió del templo hace\nun momento.\n\n\nSeguro que estará junto a esa <r<catapulta\n>>que ha construido.
+\x0E\x01\x09\x04\xE00\x08Dime, Link...\n¿Sabes ya tocar la <b<lira>>?\n\n\nPuedo percibir que todavía no estás\nfamiliarizado con ella.\n\n\nMuy bien, te enseñaré cómo tocarla.\nEscucha bien y haz lo que te diga.\n\n\nEn primer lugar, oprime (^) para sacar\nla lira. Después mantén oprimido (A)\npara comenzar a tañer las cuerdas.\x0E\x01\x11\x02\x8CD
+<g<Mueve ampliamente el control>>\nde izquierda a derecha mientras\nmantienes oprimido (A).
+Oprime (^) para sacar la lira.
+¡<g<Toca más despacio>>! Debes seguir el\nvaivén de mi <r<trenza>>.
+¡<g<Toca más deprisa>>! Debes seguir el\nvaivén de mi <r<trenza>>.
+\x0E\x01\x0B\x04\x00\x06¡Muy bien! Veo que aprendes rápido.\n\n\n\nPasemos a la siguiente lección.
+Ahora intenta seguir el ritmo del\ncírculo de luz.\n\n\nYo cantaré mientras tocas.\n\n\n\nEste canto te resultará útil en\ntu misión.
+
+Sigue el ritmo del <r<círculo de luz >>y\n<g<mueve el control más despacio>>...
+Sigue el ritmo del <r<círculo de luz >>y\n<g<mueve el control un poco más rápido>>...
+¡<g<Apunta hacia delante >>con el control\npara <g<prepararte>>!
+¡Intenta hacer <g<movimientos más\namplios>>!
+\x0E\x01\x04\x02\x1E\x0E\x01\x06\x02\xFFCD...
+Cuando miro a la anciana, no puedo\npensar en dejarla abandonarla\na su suerte.\n\n\x0E\x01\x09\x04\x00\xA00¡Así que he decidido quedarme a cuidar\nde ella! Pero no les digas nada a los de\nmi pandilla, ¿entendido?
+¿No te parece que este lugar es un\npoco deprimente? ¡No hay nada de\nnada! Y pensar que la anciana lleva\naquí tanto tiempo...\n¡¿Cómo no se le habrá ocurrido plantar\nun árbol, por lo menos?!
+
+¡Este árbol es impresionante! Ahora\nentiendo por qué lo llaman \"el árbol\nde la vida\".
+\x0E\x01\x06\x02\xFFCDEspero que todavía estés a tiempo de\nsalvar a Zelda...
+\x0E\x01\x06\x02\xFECD.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.
+\x0E\x01\x06\x02\xFFCDEste templo siempre ha sido un lugar\nde lo más apacible, pero últimamente\nlas cosas se han complicado bastante.\n\nDe todas formas, no es momento\nde pensar en estas cosas...\nNo cuando mis peores augurios\nse están haciendo realidad...
+\x0E\x01\x06\x02\xFFCDEse muchacho pelirrojo es mucho\nmás mañoso de lo que creía.\n\n\nAlgunas zonas del templo necesitan\nun arreglo. Quizás pueda ayudarme...
+Desaconsejo plantar esa semilla aquí.\nHarían falta largos años para que\ncreciese y se convirtiese en un árbol.

@@ -1,0 +1,8 @@
+Ritrovamento di oggetto\nche si suppone essere\nquello smarrito dall'essere\numano dell'Isola della roulette.\nÈ possibile chiamare il\nrobot di Kondoroy e\nincaricarlo del recupero.\nVolete chiamare il robot?\n[1]Sì[2-]No
+\x0E\x01\x12\x04\x00\x05Certamente, signore.\nVogliate esaminare nuovamente\nl'oggetto per recuperarlo.
+\x0E\x01\x12\x04\x00\x05Certamente, signore.\nEmetto subito le onde\ndi richiamo per il robot.
+\x0E\x01\x12\x04\x00dFaih, mia adorata!\nMi hai chiamato...?!\nBzzz...\n\nEh?\nQuesto luogo emana una\nnostalgica familiarità...\n\nMa bando alle ciance.\nÈ questo ciò che devo trasportare?
+\x0E\x01\x12\x04\x00dIo vado su in Cielo,\nraggiungimi là.\nNon farmi aspettare troppo!
+\x0E\x01\x12\x04\x00\x01Mio signore, suggerisco di metterci\nanche noi in volo e far rotta verso\nl'Isola della roulette.
+\x0E\x01\x12\x04\x00dSì, sì... Signor Verdino, tranquillizzati\ne lascia fare a un professionista!\nBzzz!
+Ritrovamento di oggetto\nche si suppone essere\nquello smarrito dall'essere\numano dell'Isola della roulette.\nÈ possibile chiamare il\nrobot di Kondoroy e\nincaricarlo del recupero.\n\nTuttavia, trovandosi il robot\nal Vulcano di Oldin, occupato\nnell'esecuzione di un incarico,\nrisulta impossibile richiamarlo.\n

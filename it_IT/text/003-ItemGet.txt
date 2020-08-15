@@ -1,0 +1,802 @@
+Non c'è niente di utile.
+Non si aprono gli armadi degli altri!
+Hai ottenuto una <y<piccola chiave>>!\nApre una porta bloccata,\nma solo in quest'area!
+Hai ottenuto una \x0E\x00\x03\x02\x07rupia verde>>!\nVale <r<1 rupia>>, ti conviene raccoglierne\ntante!
+Hai ottenuto una \x0E\x00\x03\x02\x08rupia blu>>!\nVale <r<5>> <r<rupie>>. La fortuna ti sorride!
+Hai trovato una \x0E\x00\x03\x02\x08rupia blu>>!\nVale <r<5>> <r<rupie>>. Mettila nel portarupie.
+Hai ottenuto una <r+<rupia rossa>>!\nVale <r<20>> <r<rupie>>. Le cose vanno\nproprio bene, che fortuna!
+La <y+<Triforza >>è completa!\nAdesso il desiderio di Zelda di vedere\nl'\x201C<r<annientamento>>\x201D di <b<Mortipher>> potrà\nessere esaudito.
+Hai ottenuto un <y<cuore>>!\nIntriso di energia vitale,\nrigenera di <r<un>> cuore.
+Hai ottenuto una <y<freccia usata>>!\nPuoi utilizzarla col tuo arco. Le frecce\nsono molto utili, non restarne a corto!
+
+Hai ottenuto <y<10 frecce>>!\nPuoi scoccarle dal tuo arco. Ne hai un\nnumero limitato, fanne buon uso!
+
+Hai ottenuto la <y<spada da allenamento>>!\nGli studenti della scuola la usano per\nfare pratica. Premi (1) per accedere\nall\x2019inventario.\x0E\x01\x11\x02\x4CD
+Hai ottenuto la <y<spada della Dea>>!\nÈ una spada misteriosa intrisa\ndi luce divina.
+Hai ottenuto la <y<spada della Dea>>!\nLa sua lama emana una luce divina.\n\n\nConserva le memorie delle battaglie\npassate. Rivolgila verso il cielo affinché la\nlama possa assorbirle. <pling><r<Il potere celeste ha\nraggiunto il culmine della forza!>>
+
+
+Hai recuperato la <y<spada suprema pura>>!\nOra puoi sfogare la tua rabbia affettando\nciò che vuoi e puoi parlare di nuovo con\n <b<<pling>Faih>>.
+
+
+
+Hai ottenuto il <y<ricettacolo dello spirito>>!\nÈ una pianta misteriosa che rappresenta\nla tua anima, Link!
+
+Hai ottenuto l'<y<arco>>!\nOra puoi colpire un bersaglio da lontano!\nLe sue frecce sono molto insidiose.\n\nSe mentre miri, hai la sensazione che il\nmirino si stia <r<spostando dal centro>>, premi\n(v) per sistemarlo.\x0E\x01\x11\x02\x9CD
+Hai ottenuto gli <y<artigli>>! Ora puoi\nraggiungere luoghi più lontani.\nÈ uno dei tre tesori della Dea.\n\nAggancia un <r<bersaglio>> o l'<r<edera>> con gli\nartigli dotati di catene retrattili e verrai\ntrasportato direttamente in quel punto!\n\nSe mentre miri, hai la sensazione che il\nmirino si stia <r<spostando dal centro>>, premi\n(v) per sistemarlo.\x0E\x01\x11\x02\x9CD
+Hai recuperato gli <y<artigli>>!\nOra puoi di nuovo raggiungere luoghi\ndistanti.
+Hai ottenuto la <y<statuetta>>!\nSimboleggia la tua vittoria nella gara di\noggi. Zelda sarà orgogliosa di te!
+
+
+
+Hai ottenuto la <y<chiavenigma sacra>>!\nÈ fatta di legno e la circonda un'aura\ndi sacralità. Assomiglia alla statua di\npietra che si trova al piano superiore.
+Hai ottenuto la <y<chiavenigma arcana>>!\nÈ composta da alcuni cubetti di cristallo\nche rilucono debolmente.
+Hai ottenuto la <y<chiavenigma tentacolare>>!\nÈ un artefatto dalla forma bizzarra,\nornato da curiose ventose.
+Hai ottenuto un <y<frammento di chiave>>!\nÈ uno dei cinque frammenti che\ncompongono la chiave per entrare\nnel santuario.\nOra non ti resta che trovare gli\naltri <r<quattro>>!
+Hai ottenuto un <y<frammento di chiave>>!\nÈ uno dei cinque frammenti che\ncompongono la chiave per entrare\nnel santuario.\nOra non ti resta che trovare gli altri <r<tre>>!
+Hai ottenuto un <y<frammento di chiave>>!\nÈ uno dei cinque frammenti che\ncompongono la chiave per entrare nel\nsantuario.\nTrovane altri <r<due>> per completare\nla chiave!
+Hai ottenuto un <y<frammento di chiave>>!\nÈ uno dei cinque frammenti che\ncompongono la chiave per entrare nel\nsantuario.\nTrova l'<r<ultimo >>per completare la chiave!
+Hai ottenuto tutti i <y<frammenti di chiave>>!\nAdesso puoi aprire la porta del santuario.\n\n\nTorna in fretta sulla cima del vulcano e\nvai a cercare Zelda che è stata condotta\nall'interno del santuario!
+Hai ottenuto la <y<chiavenigma d'oro>>!\nÈ un artefatto dalla forma molto\nparticolare e ornato da misteriosi\nmotivi.
+Hai ottenuto la <y<chiavenigma del drago>>!\nL'artefatto è d'oro scintillante e raffigura\nun drago avvolto in spire.
+Hai ottenuto la <y<chiavenigma antica>>!\nÈ di oro scintillante e ha l'aria di essere\nun componente di qualcosa. Sembra\nricoperta da circuiti.
+Hai ottenuto una \x0E\x00\x03\x02\nrupia argento>>!\nVale ben <r<100 rupie>>! Non è un bel gruzzolo?
+Hai ottenuto una \x0E\x00\x03\x02\x0Brupia oro>>!\nVale ben <r<300 rupie>>! Non dirlo a nessuno!
+Hai ottenuto una \x0E\x00\x03\x02\x0Cbaba rupia>>!\nPerdi <r<10>><r< rupie>>! Che peccato!
+Hai ottenuto <r<cinque >><y<gemme di gratitudine>>!\nSi tratta praticamente di un conglomerato\ndi riconoscenza cristallizzata.\n\nOgni volta che aiuti qualcuno, la sua\ngratitudine darà origine a <r<cinque >>di\nqueste gemme, che riceverai come\nsegno di ringraziamento.
+Hai ottenuto delle <y<spore scintillanti>>!\nSono generate dai funghi luminosi.
+
+
+
+Hai ottenuto <y<5 bombe>>!\nLanciale o falle rotolare per far saltare\nin aria anche le cose più dure. E, quando le\ntrovi, non dimenticare di farne scorta.
+Hai ottenuto <y<10 bombe>>!\nLanciale o falle rotolare per farle\nesplodere. Mettile nel portabombe!
+Hai ottenuto un <y<levafatica>>!\nÈ un frutto misterioso, che rigenera il tuo\nvigore.
+Hai ottenuto una <y<lacrima di Farore>>!\nHa il potere di paralizzare i guardiani, ma\nsolo per <r<90 secondi>>. Raccogline <r<15\n>>per completare la prova!
+Hai raccolto tutte le<y< <y<lacrime di Farore<y<>>.\nIl tuo cuore è temprato! La prova non è\nterminata finché non tornerai al mondo\nreale...\nDirigiti cautamente al portale per\nsuperare definitivamente la prova.
+Hai ottenuto una <y<lacrima di Din>>!\nHa il potere di paralizzare i guardiani, ma\nsolo per <r<90 secondi>>. Raccogline <r<15 >>per\ncompletare la prova!
+Hai ottenuto tutte le <y<lacrime di Din>>.\nIl tuo cuore è temprato! La prova non è\nterminata finché non tornerai al mondo\nreale...\nDirigiti cautamente al portale per\nsuperare definitivamente la prova.
+Hai ottenuto una <y<lacrima di Nayru>>!\nHa il potere di paralizzare i guardiani, ma\nsolo per <r<90 secondi>>. Raccogline <r<15\n>>per completare la prova!
+Hai ottenuto tutte le <y<lacrime di Nayru>>.\nIl tuo cuore è temprato! La prova non è\nterminata finché non tornerai al mondo\nreale...\nDirigiti cautamente al portale per\nsuperare definitivamente la prova.
+Hai ottenuto una <y<lacrima sacra>>!\nHa il potere di paralizzare i guardiani, ma\nsolo per <r<90 secondi>>. Raccogline <r<15\n>>per completare la prova!
+Hai ottenuto tutte le <y<lacrime sacre>>.\nIl tuo cuore è temprato! La prova non è\nterminata finché non tornerai al mondo\nreale...\nDirigiti cautamente al portale per\nsuperare definitivamente la prova.
+Hai ottenuto un <y<frutto di luce>>!\nÈ un frutto misterioso che, con fasci di\nluce, indica le posizioni delle lacrime per\n<r<30 secondi>>.
+Hai ottenuto <r<una>> <y<gemma di gratitudine>>!\nÈ un conglomerato di gratitudine\ncristallizzata. Raccogline altre e\nmostrale a <b<Morsego>>!
+Hai ottenuto la <y<giara magica>>!\nÈ un oggetto antico e arcano che può\ngenerare potenti raffiche di vento.\n\nSe mentre miri, hai la sensazione che il\nmirino si stia <r<spostando dal centro>>, premi\n(v) per sistemarlo.\x0E\x01\x11\x02\x9CD
+Hai recuperato la <y<giara magica>>!\nOra potrai di nuovo generare\nraffiche di vento.
+Hai ottenuto la <y<mappa>>!\nMostra le stanze che devi ancora visitare\ne l'area nella sua interezza.
+Mostra anche la posizione degli scrigni...\nSarà meglio darci un'occhiata!
+
+Hai ottenuto la <y<fionda>>!\nÈ un'arma a lungo raggio che spara\ndurissimi semi Deku in grado di stordire\ni nemici.\nSe mentre miri, hai la sensazione che il\nmirino si stia <r<spostando dal centro>>, premi\n(v) per sistemarlo.\x0E\x01\x11\x02\x9CD
+Hai recuperato la <y<fionda>>!\nStordisci i tuoi nemici da lontano!
+Hai recuperato la <y<fionda multipla>>!\nStordisci i tuoi nemici da lontano!
+Hai ottenuto lo <y<scarabeo>>!\nÈ uno strumento a forma di insetto, dotato\ndi uno straordinario potere e in grado di\nvolare!\nPunta il telecomando Wii <r<verso lo schermo>>\ne lancia lo scarabeo, quando è pronto a\nvolare, premendo (A)!\n\nSe mentre miri, hai la sensazione che il\nmirino si stia <r<spostando dal centro>>, premi\n(v) per sistemarlo.\x0E\x01\x11\x02\x9CD
+Hai ottenuto dell'<y<acqua>>!\nDel tutto ordinaria, è incolore e inodore.\nPotrebbe tornare utile, prima o poi.
+Hai ottenuto delle <y<spore di fungo>>!\nSono spore provenienti da un fungo\ngigante. Potrebbero tornare utili.
+Hai ottenuto delle <y<\x0E\x02\x01\x027>>!\nSono spore prelevate da un fungo gigante.\nSono molto efficaci per trattare le\nferite dei solcanubi!
+Hai ottenuto i <y<talpoguanti>>!\nTi saranno utili per scavare.\nProva a utilizzarli premendo (A) quando\nvedi qualcosa di sospetto nel terreno.
+Hai recuperato i <y<guanti Mogma>>!\nSfruttali per esplorare le gallerie\ndei Mogma.
+Hai ottenuto <r<5>> <y<semi Deku>>!\nSono dei piccoli proiettili per la fionda.\nCerca di non restare a corto di munizioni.
+
+
+
+
+
+Hai ottenuto <r<10>> <y<semi Deku>>!\nSono dei piccoli proiettili per la fionda.\nCerca di non restare a corto di munizioni.
+
+
+
+
+Hai ottenuto l'<y<invincibilina>>!\nÈ una misteriosa pozione che dimezza il\ndanno ricevuto! Il contenuto di un'ampolla\nè efficace per<r< 3 minuti>>.
+Hai ottenuto l'<y<invincibilina +>>!\nÈ una potente pozione che ti impedisce di\nsubire danni. Il contenuto di un'ampolla è\nefficace per<r< 3 minuti>>.
+
+Hai ottenuto la <y<scaglia del drago d'acqua>>!\nÈ uno dei tre sacri tesori lasciati dalla Dea\ne ti permette di nuotare in apnea e di\neffettuare un turbine sott'acqua.
+
+Hai ottenuto l'<y<amuleto dell'insetto>>!\nOra puoi trovare facilmente gli insetti\nsulla mappa. Vai nel luogo segnato con \x0E\x02\x04\x02\x1ACD!
+Hai ottenuto il <y<retino>>!\nTi aiuterà a catturare piccoli insetti e\nnon solo... Avvicinati in silenzio e\ncatturali con un colpo deciso!
+Hai trovato una <y<fata>>!\nSono creature molto utili poiché\nripristinano <r<6>> cuori!
+Hai catturato una <y<fata>>!\nSono creature molto utili poiché\nripristinano <r<6>> cuori! Tuttavia, non hai una\n<y<ampolla >>perciò devi lasciarla andare.
+
+Hai ottenuto dell'<y<acqua sacra>>!\nQuest'acqua è così pura da poter guarire le\nferite del drago d'acqua. Possiede poteri\nassenti nell'acqua comune.
+Hai ottenuto dell'<y<acqua sacra>>!\nPuò sembrare comune acqua, ma la sua\npurezza le conferisce un grande potere.
+Hai ricevuto il <y<pinzabeo>>!\nCon le sue pinze più grandi può\ntrasportare gli oggetti.\n\nPremi (Z) per osservare dall'alto, in modo\nda lasciar cadere l'oggetto che stai\ntrasportando con precisione.\x0E\x01\x11\x02\x7CD
+Hai ottenuto il <y<pinzabeo>>!\nCon le sue pinze più grandi può\ntrasportare gli oggetti.\n\nPremi (Z) per osservare dall'alto, in modo\nda lasciar cadere l'oggetto che stai\ntrasportando con precisione.\x0E\x01\x11\x02\x7CD
+Hai ottenuto il <y<turboscarabeo>>!\nQuesto modello è più veloce dello scarabeo.\nA tavoletta!
+Hai ottenuto lo <y<scarabeo potenziato>>!\nQuesto modello può volare più a lungo\ndello scarabeo.
+Hai ottenuto una <y<scaldacuore>>!\nSe portata nella borsa, potrà essere\nusata per ripristinare <r<8 cuori>>.
+Hai ottenuto una <y<scaldacuore +>>!\nÈ una rielaborazione della scaldacuore.\nQuesta versione avanzata <r<ripristina tutti\ni cuori>>.
+
+Hai ottenuto una <y<scaldacuore Super+>>!\nQuesta pozione non solo <r<ripristina tutti i\ncuori>>, ma un'ampolla può essere utilizzata\naddirittura <r<due volte>>.
+
+
+Hai ottenuto una <y<pozione levafatica>>!\nIl tuo vigore durerà più a lungo. Il\ncontenuto di un'ampolla è efficace per\n<r<3 minuti>>.
+Hai ottenuto una <y<pozione levafatica +>>!\nQuesta pozione miracolosa dona vigore\ninfinito per un periodo di <r<3 minuti>>.
+Hai ottenuto dell'<y<ossigeno liquido>>!\nSott'acqua, il tuo ossigeno si consumerà più\nlentamente. Il contenuto di un'ampolla è\nefficace per<r< 3 minuti>>.
+Hai ottenuto dell'<y<ossigeno liquido +>>!\nQuesta pozione fantastica ti permette di\nnon consumare ossigeno. Il contenuto di\nun'ampolla è efficace per<r< 3 minuti>>.
+Hai catturato una <y<fata>>! Il suo potere\nripristina <r<6 cuori>>. Conservala nell'<y<ampolla\n>>e portala con te! Se <r<esaurisci l'energia>>\nuscirà <r<automaticamente >>fuori per aiutarti.
+
+Hai ottenuto l'<y<arco di ferro>>!\nQuesto modello è adatto ad arcieri esperti\ned è più potente del tuo precedente arco.
+Hai ottenuto l'<y<arco sacro>>!\nGrazie alla preghiera della Dea, possiede\nun potere sacro poderoso contro i mostri!
+Hai ottenuto il <y<portabombe>>!\nOra puoi portare i fiori bomba con te ed\nesplorare luoghi prima inaccessibili.\n<b<Ferrinio>> potrebbe prestartelo!
+Hai ricevuto il <y<portabombe>>!\nEsprime tutta la generosità di <b<Ferrinio>>.\nFanne buon uso!
+Hai recuperato il <y<portabombe>>!\nChe notizia esplosiva!
+Hai ottenuto un <y<portacuore>>!\nLa vitalità aumenterà di <r<un cuore >>e\nsarà interamente ripristinata!
+Hai ottenuto un <y<frammento di cuore>>!\nTrovane quattro e la vitalità aumenterà di\nun cuore. Te ne mancano altri <r<tre>>!
+Hai ottenuto un <y<frammento di cuore>>!\nTrovane quattro e la vitalità aumenterà di\nun cuore. Te ne mancano altri <r<due>>!
+Hai ottenuto un <y<frammento di cuore>>!\nTrovane quattro e la vitalità aumenterà di\nun cuore. Te ne manca ancora <r<uno>>!
+Hai ottenuto un <y<frammento di cuore>>!\nAdesso hai un portacuore completo. La\nvitalità è aumentata di un cuore!
+Hai ottenuto la <y+<Triforza del Coraggio>>!\nImmenso potere creato dagli antichi dei.\nSi dice che i desideri di colui che possiede\nquesto <r<potere universale >>vengano esauditi.
+Trova le altre <r<due >>Triforze!
+Trova l'<r<ultima>> Triforza!
+Hai ottenuto la <y+<Triforza della Forza>>!\nImmenso potere creato dagli antichi dei.\nSi dice che i desideri di colui che possiede\nquesto <r<potere universale >>vengano esauditi.
+Hai ottenuto la <y+<Triforza della Saggezza>>!\nImmenso potere creato dagli antichi dei.\nSi dice che i desideri di colui che possiede\nquesto <r<potere universale >>vengano esauditi.
+Hai ottenuto la <y<carta nautica del passato>>!\nRisale all'epoca in cui questo deserto era\nun mare.
+Hai ottenuto i <y<guanti Mogma>>!\nDi inestimabile valore, sono una rarità\npersino tra gli stessi Mogma!\n\nOra <g<potrai >><g<muoverti <g<anche <g<sottoterra>>.\nCerca le buche in cui puoi intrufolarti!\n
+Hai ottenuto l'<y<amuleto del cuore>>!\nPortalo con te e i cuori appariranno più\nspesso. Perfetto, se ti sta a cuore la salute!
+Hai ottenuto l'<y<amuleto del cuore>>!\nPortalo con te e troverai cuori anche nella\n<r<modalità eroica>>. Cresceranno anche i\ntulicuori. Ottimo cardiotonico!
+Hai ottenuto l'<y<amuleto della rupia>>!\nPortalo con te e le rupie appariranno più\nspesso. Perfetto, se hai le mani bucate!
+Hai ottenuto l'<y<amuleto del tesoro>>!\nPortalo con te e i tesori appariranno più\nspesso. Il compagno ideale per una caccia\nal tesoro!
+Hai ottenuto l'<y<amuleto della durata>>!\nPortalo con te e prolungherà l'effetto di\nuna pozione. Naturalmente, devi avere\nanche la pozione.
+Hai ottenuto l'<y<amuleto demoniaco>>!\nFa apparire rupie e tesori più spesso, ma\nnon potrai aprire la tua borsa a causa di\nuna maledizione!
+Hai ottenuto la <y<fionda multipla>>!\nOra puoi colpire un'area maggiore con un\nsolo attacco. Tieni premuto (A) per\npotenziare il colpo.
+
+
+Hai ottenuto il <y<portarupie medio>>!\nÈ più capiente del precedente: può\ncontenere <r<500 rupie>>!
+Hai ottenuto il <y<portarupie grande>>!\nÈ più capiente del precedente:\npuò contenere fino a <r<1000 rupie>>!
+Hai ottenuto il <y<portarupie gigante>>!\nÈ più capiente del precedente:\npuò contenere <r<5>><r<000 rupie>>!
+Hai ottenuto il <y<portarupie di lusso>>!\nQuesto portarupie lascerebbe a bocca\naperta chiunque. Può contenere ben\n<r<9000 rupie>>!
+Hai ottenuto la <y<borsa dell'avventuriero>>!\nÈ un accessorio molto utile in cui riporre\ngli oggetti che ti serviranno per la tua\navventura.
+Hai recuperato la <y<borsa dell'avventuriero>>!\nOh... c'è anche il resto del tuo\nequipaggiamento!
+Hai allargato la <y<borsa dell'avventuriero>>!\nOra può contenere <r<un >>altro oggetto!
+Hai ottenuto l'<y<amuleto della vita>>!\nSe lo porti con te, la vitalità massima\naumenta di un cuore. Indispensabile nei\nmomenti di maggior bisogno.
+
+Hai ottenuto lo <y<scudo di legno>>!\nÈ leggero e facile da usare. Tuttavia, può\nrompersi o prendere fuoco!
+Il tuo scudo è stato riparato!\nOra è come nuovo!
+Hai ottenuto lo <y<scudo di legno resistente>>!\nQuesto modello in legno è leggero, ma più\nresistente del precedente scudo di legno.
+Hai ottenuto lo <y<scudo di legno rinforzato>>!\nQuesto modello in legno è leggero, ma è\nil più resistente tra gli scudi di legno.
+Hai ottenuto lo <y<scudo di ferro>>!\nQuesto scudo non brucia e non si rompe\nfacilmente, ma occhio alle scosse\nelettriche!
+Hai ottenuto lo <y<scudo di ferro resistente>>! \nQuesto modello è più resistente del\nnormale scudo di ferro!
+Hai ottenuto lo <y<scudo di ferro rinforzato>>!\nQuesto modello è il più resistente tra gli\nscudi di ferro!
+Hai ottenuto lo <y<scudo sacro>>!\nIl suo sacro potere gli permette di\n<r<autoripararsi>>.\n\nHa una scarsa resistenza e si rompe\nfacilmente, ma è in grado di far fronte a\nmaledizioni, elettricità e fuoco!
+Hai ottenuto lo <y<scudo sacro>>!\nIl suo sacro potere gli permette di\nautoripararsi. Inoltre, è in grado di far\nfronte a maledizoni, elettricità e fuoco!
+Hai ottenuto lo <y<scudo sacro resistente>>!\nIl suo potere sacro gli permette di\nautoripararsi e ne incrementa la\nresistenza.
+Hai ottenuto lo <y<scudo sacro supremo>>!\nIl suo potere sacro gli permette di\nautoripararsi e ne incrementa\nnotevolmente la resistenza.
+Hai ottenuto lo <y<scudo Hylia>>!\nQuesto scudo leggendario è infuso di\npotere eroico. Non cederà sotto alcun\nattacco!
+Hai ottenuto l'<y<olio rigenerante>>!\nQuesto strano olio ripristina <r<interamente\n>>la resistenza dello scudo e la vitalità di\n<r<4>> cuori.
+Hai ottenuto l'<y<olio rigenerante +>>!\nQuesto strano olio ripristina\n<r<automaticamente >>la resistenza dello\nscudo e la vitalità di <r<8>> cuori.
+Hai ottenuto il <y<sacco per semi piccolo>>!\nOra puoi trasportare <r<10>> semi Deku in più.\nPortalo con te quando usi la fionda.
+Hai ottenuto il <y<sacco per semi medio>>!\nOra puoi trasportare <r<2>><r<0>> semi Deku in più.\nPortalo con te quando usi la fionda.
+Hai ottenuto il <y<sacco per semi grande>>!\nOra puoi trasportare <r<3>><r<0>> semi Deku in più.\nPortalo con te quando usi la fionda.
+Hai ottenuto la <y<faretra piccola>>!\nOra puoi trasportare <r<5>> frecce in più.\nPortala con te quando usi l'arco.
+Hai ottenuto la <y<faretra media>>!\nOra puoi trasportare <r<10>> frecce in più.\nPortala con te quando usi l'arco.
+Hai ottenuto la <y<faretra grande>>!\nOra puoi trasportare <r<15>> frecce in più.\nPortala con te quando usi l'arco.
+Hai ottenuto il <y<portabombe piccolo>>!\nOra puoi trasportare <r<5>> bombe in più.\nPortalo con te quando usi le bombe.
+Hai ottenuto il <y<portabombe medio>>!\nOra puoi trasportare <r<10>> bombe in più.\nPortalo con te quando usi le bombe.
+Hai ottenuto il <y<portabombe grande>>!\nOra puoi trasportare <r<15>> bombe in più.\nPortalo con te quando usi le bombe.
+Hai ottenuto la <y<frusta>>!\nAgita il telecomando Wii per farla\nschioccare.\n\nSe vedi qualcosa di interessante dove non\npuoi arrivare, inquadralo con (Z) e agita il\ntelecomando per provare a raggiungerlo!\x0E\x01\x11\x02\x7CD
+Hai recuperato la <y<frusta>>!\nSchiocca! Schiocca!
+Hai ottenuto i <y<termorecchini>>!\nSono uno dei tre sacri tesori lasciati dalla\nDea, ti permettono di sopportare\ntemperature altissime.
+
+Hai ottenuto il <y<retino grande>>!\nÈ due volte più grande dell'altro e ti\npermette di catturare anche gli\ninsetti più veloci.
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x3CD>>! \nQuesti insetti si radunano in grandi sciami\nsolo una volta ogni dieci anni e distruggono\ncompletamente la vegetazione locale.
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x3CD>>!\nQuesti insetti si radunano in grandi sciami\nsolo una volta ogni dieci anni e distruggono\ncompletamente la vegetazione locale.
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x4CD>>!\nÈ il più forte tra tutti gli insetti, ma pare\nche strofinandone il carapace lo si possa\nrendere ancora più forte.
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x4CD>>!\nÈ il più forte tra tutti gli insetti, ma pare\nche strofinandone il carapace lo si possa\nrendere ancora più forte.
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x5CD>>!\nDicono che, riscaldandone il veleno, si\npossa ricavare una medicina. Bisogna\nperò stare attenti agli sciami!
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x5CD>>!\nDicono che, riscaldandone il veleno, si\npossa ricavare una medicina. Bisogna\nperò stare attenti agli sciami!
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x6CD>>!\nQuesto insetto molto diffuso cattura le\nprede con le sue possenti mandibole.
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x6CD>>!\nQuesto insetto molto diffuso cattura le\nprede con le sue possenti mandibole.
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x7CD>>!\nDicono che questi insetti diventino rossi\nse si nutrono di metallo. Non è difficile\ncatturarli.
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x7CD>>!\nDicono che questi insetti diventino rossi\nse si nutrono di metallo. Non è difficile\ncatturarli.
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x8CD>>!\nSi tratta di un tipo di insetto estremamente\ncomune. A volte lo si vede volare in posti\ninsoliti.
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x8CD>>!\nSi tratta di un tipo di insetto estremamente\ncomune. A volte lo si vede volare in posti\ninsoliti.
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x9CD>>!\nLe sabbiormiche possono sopravvivere\nnell'arido deserto perché scavano i loro\nformicai presso le sorgenti d'acqua.
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\x9CD>>!\nLe sabbiormiche possono sopravvivere\nnell'arido deserto perché scavano i loro\nformicai presso le sorgenti d'acqua.
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xACD>>!\nSembra che le larve di sabbicala restino\nsottoterra per dieci anni o più. È un insetto\ndifficilissimo da catturare.
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xACD>>!\nSembra che le larve di sabbicala restino\nsottoterra per dieci anni o più. È un insetto\ndifficilissimo da catturare.
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xBCD>>!\nQuesto insetto possiede degli\nammalianti occhi composti e delle\ngraziose ali trasparenti come il vetro!
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xBCD>>!\nQuesto insetto possiede degli\nammalianti occhi composti e delle\ngraziose ali trasparenti come il vetro!
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xCCD>>!\nQuesto piccolo insetto trasporta sempre\nuna palla di... qualcosa. Vederlo portare\nin giro il suo cibo ispira simpatia.
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xCCD>>!\nQuesto piccolo insetto trasporta sempre\nuna palla di... qualcosa. Vederlo portare\nin giro il suo cibo ispira simpatia.
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xDCD>>!\nQuesto insetto piace molto ai bambini\ndi Oltrenuvola. Però, è meglio fare\nattenzione alle sue mandibole!
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xDCD>>!\nQuesto insetto piace molto ai bambini\ndi Oltrenuvola. Però, è meglio fare\nattenzione alle sue mandibole!
+Hai catturato \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xECD>>! \nÈ uno degli insetti volanti più rari e\npredilige i luoghi bui.
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xECD>>!\nÈ uno degli insetti volanti più rari e\npredilige i luoghi bui.
+Hai ottenuto un'<y<ampolla>>!\nPuoi metterci dentro diverse cose.
+
+
+
+
+Hai ricevuto la <y<lettera di Ras>>!\nSi tratterà di una lettera in cui descrive i\nsuoi pensieri più segreti?\n\nTienila con cura e non usarla come\ncarta igienica!!
+Hai ottenuto la <y<gabbietta di Terry>>!\nContiene l'insetto preferito di Terry!\nRiportagliela al più presto.
+Hai ottenuto un <y<sonaglino>>!\nÈ un giocattolo per bambini. Chissà chi l'ha\nperduto.
+Hai ottenuto una <y<larva d'ape>>!\nLe larve sono una grande fonte di proteine.\nPotrebbero essere usate per creare\nqualcosa.
+Hai ottenuto \x0E\x02\x03\x06\x00\x00Í <y<\x0E\x03\x04\x02\xFCD>>!\nQueste piccole piume sono considerate un\noggetto prezioso a Oltrenuvola e, a volte,\npossono tornare utili.
+Hai ottenuto un <y<rotolacampo>>!\nQuesta pianta potrebbe tornare utile una\nvolta essiccata e indurita.
+Hai ottenuto una <y<coda di lucertola>>!\nÈ la coda di una grossa lucertola con una\npalla chiodata alla fine. Potrebbe tornare\nutile.
+Hai ottenuto del <y<metallo Oldin>>!\nQuesto pezzo di metallo brillante e\nresistente potrebbe avere innumerevoli\nutilizzi.
+Hai ottenuto un <y<fiore antico>>!\nSi dice che questo fiore sbocciasse nel\npassato. È splendido e brilla al buio.
+Hai ottenuto una <y<magatama ambrata>>!\nÈ un prezioso oggetto color ambra\nche si trova in terra un po' ovunque.\nNessuno sa perché abbia questa forma.
+Hai ottenuto una <y<magatama scura>>!\nSimile alla magatama ambrata unicamente\nnella forma. La puoi trovare solo in \ndeterminati luoghi.
+Hai ottenuto una <y<gelatina spettrale>>!\nL'aspetto non è dei migliori, ma è fatta di\nun materiale utilizzabile in svariati modi.
+Hai ottenuto un <y<artiglio di mostro>>!\nSembra l'artiglio perso da un demone. Ha\nl'aria di essere particolarmente affilato!
+Hai ottenuto un <y<corno di mostro>>!\nÈ ricavato dal corno di un mostro. Può\nrivelarsi molto utile come materiale grezzo\ngrazie alla sua durezza.
+Hai ottenuto un <y<teschio ornamentale>>!\nÈ l'effigie di un teschio, l'emblema degli\nelettroboblin.
+Hai ottenuto un <y<cristallo demoniaco>>!\nÈ il cuore di un demone cristallizzato,\nestremamente raro in questo stato.
+Hai ottenuto una <y<piuma azzurra>>!\nAppartiene a un uccellino azzurro\nestremamente raro, le cui piume sono\ninestimabili.
+Hai ottenuto un <y<teschio dorato>>!\nÈ una vera rarità tra i teschi ornamentali.\nBrilla di un insolito colore dorato.
+Hai ottenuto le <y<ciglia della Dea>>.\nSi dice che la Dea ne abbia perse\nalcune in tempi remotissimi.\nSi tratta di un tesoro raro!
+
+
+
+Hai ottenuto l'<y<emblema della prova>>!\nL'incisione guiderà l'eroe nel luogo in cui è\nnascosta la Triforza.
+
+
+
+
+
+Hai appreso la <y<Melodia della Dea>>!\nÈ una misteriosa melodia che si tramanda\ndai tempi antichi.
+
+
+
+
+
+
+
+Hai ottenuto l'<y<olio rigenerante Super+>>!\nRipristina interamente e <r<in modo\nautomatico>> la resistenza dello scudo e la\nvitalità di <r<8>> cuori. E puoi usarlo <r<2 volte>>!
+Hai ottenuto la <y<zuppa di zucca>>!\nÈ una zuppa calda fatta in casa.\nSi raffredderà tra <r<5 minuti>>!
+
+Hai ottenuto il <y<bulbo dell'albero della\nvita>>! È il bulbo di un albero leggendario\ni cui frutti sembra curino ogni malattia.
+Hai recuperato il <y<germoglio dell'albero\ndella vita>>! Ci metterebbe troppo a crescere\nin questo posto. Sarà meglio trovare un\nluogo più adatto.
+Hai ottenuto il <y<frutto dell'albero della vita>>!\nSi dice che questo frutto leggendario curi\nogni malessere. Portalo al drago del\nfulmine!
+Hai ottenuto il <y<portarupie extra>>!\nAdesso puoi portare <r<300 rupie>> in più.
+
+
+
+
+
+
+
+Piccola chiave
+Rupia verde
+Rupia blu
+Rupia rossa
+Triforza
+Cuore
+Freccia usata
+10 frecce
+Spada pura della Dea
+Spada da allenamento
+Spada della Dea
+Spada lunga della Dea
+Spada suprema
+Spada suprema pura
+Manto magico
+Lira della Dea
+Ricettacolo dello spirito
+
+Arco
+Artigli
+Statuetta
+
+
+
+Chiavenigma sacra
+Chiavenigma arcana
+Chiavenigma tentacolare
+Frammento di chiave
+Chiavenigma d'oro
+Chiavenigma del drago
+Chiavenigma antica
+Rupia argento
+Rupia oro
+Baba rupia
+
+Spore scintillanti
+
+
+
+5 bombe
+10 bombe
+Levafatica
+Lacrima di Farore
+Lacrima di Din
+Lacrima di Nayru
+Lacrima sacra
+Frutto di luce
+Gemma di gratitudine
+Giara magica
+Mappa
+
+Fionda
+Scarabeo
+Acqua
+Spore di fungo
+Talpoguanti
+Semi Deku
+
+
+
+
+
+
+
+Invincibilina
+Invincibilina +
+
+Scaglia del drago d'acqua
+
+Amuleto dell'insetto
+Retino
+Fata
+
+Acqua sacra
+Pinzabeo
+Turboscarabeo
+Scarabeo potenziato
+Scaldacuore
+Scaldacuore +
+
+Scaldacuore Super+
+
+
+Pozione levafatica
+Pozione levafatica +
+Ossigeno liquido
+Ossigeno liquido +
+Fata
+
+Arco di ferro
+Arco sacro
+Portabombe
+Portacuore
+Frammento di cuore
+Triforza del Coraggio
+Triforza della Forza
+Triforza della Saggezza
+Carta nautica del passato
+Guanti Mogma
+Amuleto del cuore
+Amuleto della rupia
+Amuleto del tesoro
+Amuleto della durata
+Amuleto demoniaco
+Fionda multipla
+
+Portarupie piccolo
+Portarupie medio
+Portarupie grande
+Portarupie gigante
+Portarupie di lusso
+Borsa dell'avventuriero
+Tasca vuota
+Amuleto della vita
+
+Scudo di legno
+Scudo di legno resistente
+Scudo di legno rinforzato
+Scudo di ferro
+Scudo di ferro resistente
+Scudo di ferro rinforzato
+Scudo sacro
+Scudo sacro resistente
+Scudo sacro supremo
+Scudo Hylia
+Olio rigenerante
+Olio rigenerante +
+Sacco per semi piccolo
+Sacco per semi medio
+Sacco per semi grande
+Faretra piccola
+Faretra media
+Faretra grande
+Portabombe piccolo
+Portabombe medio
+Portabombe grande
+Frusta
+Termorecchini
+
+Retino grande
+Cavallerba
+Fironeottero
+Dekuape
+Cielontide
+Fuococcinella
+Lepidea
+Sabbiormica
+Sabbicala
+Sabbellula
+Magmorario
+Azzurrottero
+Cielucciola
+Ampolla
+
+
+
+
+Lettera di Ras
+Gabbietta di Terry
+Sonaglino
+Larva d'ape
+Piuma d'uccello
+Rotolacampo
+Coda di lucertola
+Metallo Oldin
+Fiore antico
+Magatama ambrata
+Magatama scura
+Gelatina spettrale
+Artiglio di mostro
+Corno di mostro
+Teschio ornamentale
+Cristallo demoniaco
+Piuma azzurra
+Teschio dorato
+Ciglia della Dea
+Stele smeraldo
+Stele antica
+Stele antica
+Emblema della prova
+
+
+
+
+
+Melodia della Dea
+Coraggio di Farore
+Saggezza di Nayru
+Forza di Din
+Melodia \x2010 drago d'acqua
+Melodia \x2010 drago di fuoco
+Melodia \x2010 drago fulmine
+Melodia dell'impavido
+Olio rigenerante Super+
+Zuppa di zucca calda
+Zuppa di zucca fredda
+Bulbo \x2010 albero della vita
+Frutto \x2010 albero della vita
+Portarupie extra
+
+
+
+
+
+
+
+<r<Potere universale>> che gli dei conferirono\nanticamente agli umani.\nTe ne mancano altre due parti.
+<r<Potere universale>> che gli dei conferirono\nanticamente agli umani.\nTe ne manca ancora una parte.
+<r<Potere universale>> che gli dei conferirono\nanticamente agli umani. Ne possiedi tutte\nle parti: Forza, Coraggio e Saggezza.
+
+
+
+Spada più potente, intrisa della Fiamma di\nNayru. Migliora le capacità del rilevatore.
+Gli studenti della scuola la usano per\nfare pratica. Sembra piuttosto affilata.
+Spada che era conficcata nell'altare della\nDea. È intrisa di luce divina.
+Spada potente, intrisa della Fiamma di\nFarore. La lama è davvero affilata.
+Spada più potente, intrisa della Fiamma di\nDin. Ha il potere di distruggere il male.
+Spada sacra intrisa della protezione della\nDea. Solo un vero eroe può brandirla.
+Manto intessuto a mano donatoti da Zelda.\nPremi (B) in caduta per planare.
+Tradizionale strumento di Oltrenuvola dal\nleggiadro suono. Devi apprendere una\nmelodia per suonarla.
+
+
+Potente arma con cui puoi colpire bersagli\ndistanti. Accumulando potenza prima di\nscoccare, la sua efficacia aumenta.
+Uno strumento che, sparando delle catene\nmunite di artigli, è in grado di trasportarti\nfino a un bersaglio o un'edera.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sostanza rilasciata da funghi luminosi, la\ncui utilità potrebbe sorprenderti.
+
+
+
+
+
+
+
+
+
+
+
+Riconoscenza cristallizzata. Mostrala a\nMorsego dopo averne ottenuta una certa\nquantità.
+Cristalli di riconoscenza umana. Dopo averli\nraccolti tutti Morsego è diventato umano.
+Giara arcana in grado di generare raffiche\ndi vento. Prova a direzionarne il getto su\nalcune cose.
+
+
+Arma a lungo raggio che spara semi Deku.\nMolto utile per stordire i nemici.
+Strumento meccanico in grado di volare\nliberamente. Puoi anche usarlo per colpire\nqualcosa a distanza.
+Acqua comune: incolore e inodore.
+Spore rilasciate da un fungo gigante.
+Con gli artigli acuminati puoi scavare\nnel suolo. Adoperali premendo (A) quando\nvedi delle zone sospette sul terreno.
+
+
+
+
+
+
+
+
+Misteriosa pozione che dimezza il danno\nricevuto. È efficace per<r< 3 minuti>>.
+Pozione che ti permette di non subire danni.\nÈ efficace per<r< 3 minuti>>.
+
+Scaglia che ti consente di nuotare\nsott'acqua. Scuoti il Nunchuk per\neseguire un turbine.
+
+Strano amuleto che indica sulla mappa con\n\x0E\x02\x04\x02\x1ACD le aree con insetti.
+Retino per catturare insetti e altro. Muovi il\ntelecomando Wii per usarlo.
+
+
+Acqua purissima della fonte celeste.
+Ora può trasportare degli oggetti non\ntroppo pesanti tra le pinze.
+Modello avanzato dello scarabeo. Ora può\nvolare più velocemente.
+Evoluzione finale dello scarabeo. Veloce e\ndall'autonomia di volo estesa.
+Pozione che ripristina <r<8 cuori>>.
+Potente pozione che ripristina <r<tutti i cuori>>.
+
+<r<Ripristina tutti i cuori>> e può essere\nusata due volte.
+
+
+Pozione che permette al vigore di durare un\npo\x2019 più a lungo. È efficace per <r<3 minuti>>.
+Pozione che dona vigore infinito per un\nperiodo di <r<3 minuti>>.
+Pozione che permette all'ossigeno di durare\nun po' più a lungo. È efficace per <r<3 minuti>>.
+Pozione che dona ossigeno infinito per un\nperiodo di <r<3 minuti>>.
+Portala con te, è molto utile quando il livello\ndi energia si riduce a zero. Ripristina <r<6\ncuori >>quando la usi.
+
+Potente arco di ferro, arma dalle notevoli\ncaratteristiche offensive.
+L'arco micidiale, caratterizzato dal potere\ndella Dea. È in grado di sprigionare una\nforza devastante.
+Utilissima sacca per trasportare i fiori\nbomba. Fanne scorta quando li trovi!
+
+Raccogline quattro per aumentare la\nvitalità totale di un cuore.
+Hai raccolto tutti i frammenti.
+
+
+
+
+Modello avanzato dei talpoguanti. Puoi\nusarli per andare sottoterra.
+Misterioso artefatto. Portalo con te e i cuori\nappariranno più spesso.
+Misterioso artefatto. Portalo con te e le\nrupie appariranno più spesso.
+Misterioso artefatto. Portalo con te e i\ntesori appariranno più spesso.
+Misterioso artefatto. Portalo con te e\nl'effetto delle pozioni durerà più a lungo.
+Artefatto maledetto. Rupie e tesori\nappariranno più spesso, ma non potrai\naprire la tua borsa.
+Modello avanzato della fionda, spara una\nrosa più ampia. Tieni premuto (A) per\npotenziare il colpo.
+
+Sacca per contenere le rupie, moneta di\nquesto mondo. Attualmente può contenere\nfino a <r<\x0E\x02\x03\x06\x00\x00\x3CD rupie>>.
+Portarupie di tutto rispetto. Attualmente,\npuò contenere fino a <r<\x0E\x02\x03\x06\x00\x00\x3CD >><r<rupie>>.
+Portarupie più capace, per acquisti\nimportanti. Attualmente, può contenere\nfino a <r<\x0E\x02\x03\x06\x00\x00\x3CD >><r<rupie>>.
+Di portarupie come questo non se ne vedono\nmolti in giro. Può contenere fino a\n<r<\x0E\x02\x03\x06\x00\x00\x3CD >><r<rupie>>.
+Portarupie per le persone davvero speciali.\nAttualmente, può contenere fino a\n<r<\x0E\x02\x03\x06\x00\x00\x3CD >><r<rupie>>.
+
+Al momento è vuota. Puoi metterci un\noggetto.
+Misterioso artefatto. Portalo con te e la\nvitalità massima aumenterà di un cuore.
+
+Scudo di legno, leggero e facile da usare.\nPrende fuoco facilmente, ma ha il pregio\ndi isolare dall'elettricità.
+Scudo di legno modificato e reso più\nresistente. Brucia facilmente, ma isola alla\nperfezione dall'elettricità.
+Questo è lo scudo di legno più resistente.\nBrucia facilmente, ma isola alla perfezione\ndall'elettricità.
+Scudo di ferro resistente. Non brucia e non\nsi rompe facilmente, ma occhio alle scosse\nelettriche!
+Scudo di ferro modificato e reso più\nresistente. Non brucia e non si rompe con\nfacilità, ma occhio alle scosse elettriche!
+Questo è lo scudo di ferro più resistente.\nNon brucia e non si rompe facilmente, ma\nocchio alle scosse elettriche!
+Scudo sacro in grado di autoripararsi.\nRiesce a far fronte a maledizioni,\nelettricità e fuoco!
+Scudo sacro modificato e reso più\nresistente. Riesce a far fronte a\nmaledizioni, elettricità e fuoco.
+Questo è lo scudo sacro più resistente.\nRiesce a far fronte a maledizioni,\nelettricità e fuoco.
+Scudo leggendario ricevuto dal drago del\nfulmine. È in grado di resistere a qualsiasi\ntipo di attacco.
+Strano olio che ripristina <r<interamente >>la\nresistenza dello scudo e reintegra la vitalità\ndi <r<4>> cuori.
+Strano olio che ripristina interamente<r< >>e\n<r<in modo automatico>> la resistenza dello scudo\ne reintegra la vitalità di <r<8>> cuori.
+Borsa che contiene <r<10>> semi Deku in più per\nla fionda.
+Borsa che contiene <r<20>> semi Deku in più per\nla fionda.
+Borsa che contiene <r<30>> semi Deku in più per\nla fionda.
+Faretra che contiene <r<5>> frecce extra per\nl'arco.
+Faretra che contiene <r<10>> frecce extra per\nl'arco.
+Faretra che contiene <r<15>> frecce extra per\nl'arco.
+Borsa che contiene <r<5>> bombe extra.
+Borsa che contiene <r<10>> bombe extra.
+Borsa che contiene <r<15>> bombe extra.
+La frusta ti consente di afferrare un\noggetto a distanza. Agita il telecomando\nWii per schioccarla.
+Bizzarri accessori che ti permettono di\nresistere a temperature altissime.
+
+Questo retino è due volte più grande. Puoi\ncatturare persino gli insetti più veloci.
+Insetto della foresta che fugge volando via.\nHa grande valore, ma è difficile da\ncatturare.
+Insetto della foresta lento e facile da\ncatturare. Puoi farne cadere uno dagli\nalberi con una capriola.
+Insetto della foresta dal pericoloso\npungiglione. Fai attenzione agli alveari.
+Insetto tipico di Oltrenuvola, facile da\ncatturare. Fai attenzione alle sue zampe\nanteriori.
+Insetto vulcanico che si trova sempre in\npiccoli sciami. È quasi immobile, perciò\nfacile da catturare.
+Insetto estremamente comune, molto\napprezzato come ingrediente per le pozioni.
+Insetto del deserto, si muove in piccoli\nsciami. È tanto carino che quasi dispiace\ncatturarlo.
+Insetto del deserto molto veloce.\nDecisamente il più difficile da catturare.
+Insetto del deserto dalle notevoli capacità di\nvolo. Per catturarla dovrai avvicinarti in\nsilenzio.
+Insetto vulcanico raro che fa rotolare una\npalla la cui origine è ignota.
+Insetto tipico di Oltrenuvola, piace molto ai\nbambini.
+Insetto notturno tipico di Oltrenuvola.\nAmmirarne il volo è molto rilassante.
+Utile contenitore in cui riporre liquidi e\naltre cose.
+
+
+
+
+È la lettera che racchiude i sentimenti di\nRas. Tienila con cura e cerca di non usarla\ncome carta igienica!
+La lettera che Ras ha scritto con il cuore in\nmano è in salvo? Sei riuscito a consegnarla.
+Contiene l'insetto preferito di Terry!\nRiportagliela al più presto.
+Conteneva l'insetto preferito di Terry.\nSei riuscito a riconsegnarla sana e salva.
+Giocattolo per bambini. Chissà chi l'ha\nperduto.
+È il giocattolo del bimbo di Rino, il\nmercante di pozioni. Sei riuscito a\nrecuperarlo tutto intero.
+Grande fonte di proteine, proveniente da un\nalveare. Fai attenzione agli alveari tra i\nrami degli alberi.
+Piuma appartenente a piccoli uccelli che\nvivono nella natura, per esempio nelle\nforeste.
+Grumo di erba secca che rotola nel deserto.\nCatturalo con il retino o si sbriciolerà.
+Apparteneva a una lucertola. La coda ha\nuna palla chiodata all'estremità. 
+Rocce rare, provenienti dalle Terre di\nOldin. Utili per produrre oggetti resistenti.
+Fiore che un tempo cresceva nel deserto.\nDalle radici si ricava un olio pregiato.
+Oggetto dal colore ambrato, molto comune.\nHa diversi impieghi.
+Si può trovare nell'Oltremondo e in\naltri luoghi. Somiglia nella forma alla\nmagatama ambrata.
+Lasciata da qualche mostro morbido.\nSi dice che s'indurisca se riscaldata.
+Lasciato da qualche mostro volante. Fai\nattenzione alla punta acuminata e tagliente.
+Corno appartenuto a un boblin. Non sembra,\nma è molto difficile suonarlo.
+Caratteristico dei boblin, non è un vero\nteschio, ma solo un ornamento.
+Cuore di demone cristallizzato. Spesso si\nottiene da perfidi nemici.
+Piuma appartenente a un uccello azzurro\npiuttosto raro. Il solo possederla mette di\nbuon umore.
+Ornamento molto raro a forma di teschio.\nSembra d'oro, ma non è detto che lo sia.
+Magnifica pietra che si dice sia caduta\nalla Dea. Tesoro rarissimo.
+Antica stele che ti guiderà sulla Terra. Dà\naccesso alla foresta delle Terre di Firone.
+Stele smeraldo e stele rubino. Danno accesso\nalle Terre di Firone e di Oldin.
+Stele smeraldo, stele rubino e stele topazio.\nDanno accesso alle Terre di Firone, di Oldin\ne di Ranel.
+Dimostra che hai superato tutte le prove.\nPermette di raggiungere la Triforza.
+
+
+
+
+
+Melodia della Dea da suonare con la lira.\nGuida colui che persegue uno scopo.
+Melodia che conduce alla prova nella\nforesta di Firone. Suona la lira una volta\ntrovatone il portale.
+Melodia che conduce alla prova nel deserto\ndi Ranel. Suona la lira una volta trovatone il\nportale.
+Melodia che conduce alla prova nel vulcano\ndi Oldin. Suona la lira una volta trovatone\nil portale.
+Parte della melodia che conduce alla prova\nfinale, appresa dal drago d'acqua.\n
+Parte della melodia che conduce alla prova\nfinale, appresa dal drago di fuoco.\n
+Parte della melodia che conduce alla prova\nfinale, appresa dal drago del fulmine.\n
+Melodia che conduce alla prova finale.\nSuona la lira una volta trovatone il portale.
+Meraviglioso olio che ripristina interamente\ne <r<in modo automatico>> la resistenza dello\nscudo e la vitalità di <r<8>> cuori. Usabile <r<2 volte>>.
+Squisita zuppa calda, preparata dal\nproprietario della taverna delle zucche.
+Il gusto è eccezionale, naturalmente, ma\nquesta zuppa ora è fredda.
+Bulbo di un albero i cui frutti si dice che\ncurino ogni malessere. Ha bisogno di molto\ntempo per crescere e fiorire.
+Si crede che questo frutto leggendario curi\nogni malessere. Il suo gusto sembra\nappartenere a un altro mondo.
+
+
+Qualche mostro se n'è impossessato...\ntrova il modo per riappropriartene!
+
+Guarda
+Guarda
+Zelda
+Zelda
+Kyuri
+Kyuri
+Frammento di chiave
+Frammento\ndi chiave
+Generatore
+Generatore
+Portale della prova
+Portale\ndella prova
+Acqua sacra
+Acqua\nsacra
+Galeone delle sabbie
+Galeone\ndelle sabbie
+Cromanime
+Cromanime
+Cuori
+Cuori
+
+
+Tesori
+Tesori
+Gemme di gratitudine
+Gemme di\ngratitudine
+Rupie
+Rupie
+Esaedri della Dea
+Esaedri\ndella Dea
+Elica
+Elica
+Orcio d'acqua
+Orcio\nd'acqua
+Sfera di cristallo
+Sfera di\ncristallo
+Contadino
+Contadino
+Nuovo tipo di pianta
+Nuovo tipo\ndi pianta
+Roulette
+Roulette
+
+
+Guardati intorno senza usare il rilevatore.
+Rileva Zelda, di cui si sono perse le tracce\ndopo l'atterraggio.
+Rileva i Kyuri nascosti che si sono persi\nnella foresta.
+Rileva lo stesso materiale di cui è costituita\nl'enorme porta sul fianco del vulcano.
+Rileva ogni fonte di energia del meccanismo\nposto al centro del deserto.
+Rileva il portale della prova.
+Rileva l'acqua sacra,\nrichiesta dal drago d'acqua.
+Rileva la nave invisibile del capitano.
+Rileva le cromanime disperse della Melodia\ndell'impavido.
+Rileva i cuori e i tulicuori che ripristinano\nla tua energia.
+
+Rileva qualsiasi cosa possa servire a\npotenziare l'equipaggiamento.
+Rileva le gemme di gratitudine desiderate\ndal demone Morsego.
+Hai recuperato tutta la gratitudine.\nNon c'è più nulla da rilevare.
+Rileva le rupie. Il denaro serve sempre.
+Rileva gli esaedri della Dea e gli scrigni.\nLanciati da Oltrenuvola a caccia di tesori.
+Hai ottenuto tutti i tesori degli esaedri\ndella Dea. Non c'è più nulla da rilevare.
+Rileva l'elica del mulino di Oltrenuvola\ncaduta sulla Terra.
+Rileva l'orcio d'acqua del drago d'acqua,\nnecessario per spegnere le fiamme.
+Rileva la nuova sfera di cristallo\ndesiderata dall'indovino Prunello.
+Rileva qualcuno che possa aiutare Pepa\na coltivare il campo di zucche.
+Rileva un nuovo tipo di pianta per la\ncollezione del maestro Asio Otus.
+Rileva il disco che è caduto sulla Terra\nal signore dell'Isola della roulette.
+
+Fiamma di Farore
+Fiamma di Nayru
+Fiamma di Din
+
+La tua spada è più lunga e la sua potenza\naumenta grazie al potere sacro della\nfiamma verde.
+L'efficacia del rilevatore di Faih aumenta\ngrazie al potere sacro della fiamma blu.
+La tua lama ha il potere di bandire il male,\ngrazie al potere sacro della fiamma rossa.
+
+Strumenti
+Borsa dell'avventuriero
+Rilevatore
+Mostra/nascondi i comandi
+Controllo Wii MotionPlus
+Inventario
+Collezione
+Tieni premuto (B) per scegliere
+Tieni premuto \x0E\x02\x04\x02\x2CD per scegliere
+Tieni premuto (C) per scegliere
+
+Spore\nscintillanti
+Acqua
+Spore di fungo
+Invincibilina
+Invincibilina +
+Amuleto\ndell'insetto
+Acqua sacra
+Scaldacuore
+Scaldacuore +
+Scaldacuore\nSuper+
+Pozione\nlevafatica
+Pozione\nlevafatica +
+Ossigeno\nliquido
+Ossigeno\nliquido +
+Fata
+Amuleto\ndel cuore
+Amuleto\ndella rupia
+Amuleto\ndel tesoro
+Amuleto\ndella durata
+Amuleto\ndemoniaco
+Amuleto\ndella vita
+Scudo di legno
+Scudo di legno\nresistente
+Scudo di legno\nrinforzato
+Scudo di ferro
+Scudo di ferro\nresistente
+Scudo di ferro\nrinforzato
+Scudo sacro
+Scudo sacro\nresistente
+Scudo sacro\nsupremo
+Scudo Hylia
+Olio\nrigenerante
+Olio\nrigenerante +
+Sacco per semi\npiccolo
+Sacco per semi\nmedio
+Sacco per semi\ngrande
+Faretra\npiccola
+Faretra\nmedia
+Faretra\ngrande
+Portabombe\npiccolo
+Portabombe\nmedio
+Portabombe\ngrande
+Ampolla
+Olio rigenerante\nSuper+
+Zuppa di zucca\ncalda
+Zuppa di zucca\nfredda

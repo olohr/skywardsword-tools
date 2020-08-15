@@ -1,0 +1,190 @@
+Forêt de Firone
+
+
+\x0E\x01\x09\x04\x00\x0E\x0E\x01\x08\x02\xFECDVa\x2010t'en... Va\x2010t'en...
+\x0E\x01\x09\x04\x00\x0E\x0E\x01\x08\x02\xFECDCamouflage plante verte... kwiii...\nCamouflage plante verte... Invisible...
+\x0E\x01\x09\x04\x00\x0BKwaa...? Ça s'est calmé...
+\x0E\x01\x08\x02\x1CDKwii-waa! Y en a un vert!\nJamais vu de vert.
+\x0E\x01\x09\x04\x00\x0FOh gnon! Fais-moi pas mal, le vert!
+
+Kikwaaa! Le revoilà!
+\x0E\x01\x08\x02\x2CDKwiiii!
+\x0E\x01\x08\x02\xFECD\x0E\x01\x06\x02\xFDCD......
+Kwaa? Tu ne m'as pas tapé. Kwii.\nJ'y pense. Tu as rebuté les gros\nméchants rouges tout à l'heure...
+\x0E\x01\x09\x04\x00\x01Ka-kwa. Moi c'est <b<Matéo>>.\nJe suis un Kikwi! T'es moins\nméchant que t'en as l'air.\nTu m'as sauvé! Kwi.
+\x0E\x01\x09\x04\x00\x05Bizarre. Kwi-kwa. J'ai vu une créature\nun peu comme toi tout à l'heure... Une\nfille.\n[1]Zelda?[2]Qui était\x2010ce?
+\x0E\x01\x09\x04\x00\x04Tu la connais? Elle avait l'air\nen danger! Kwii!
+\x0E\x01\x09\x04\x00\x04Sais pas, moi. Elle avait\nl'air en danger! Kwii!
+\x0E\x01\x09\x04\x00\nPlein de rouges sont venus l'attaquer!\n<pling>Elle s'est enfuie avec le <b<Vénérable>>!\nKwii!
+
+\x0E\x01\x09\x04\x00\x07Ka-kwa. Tu veux partir à leur\nrecherche. Tu pourrais <r<dire>><r< au\n>><b<Vénérable>> <r<que je vais bien>>?\n\n\x0E\x01\x09\x04\x00\x05Garde espoir, le vert. Ton amie\ncréature est sûrement en sécurité\navec lui!
+\x0E\x01\x09\x04\x00\x0DKwii! J'ai failli tomber dans les\npommes de peur! Ta copine bleue\nest vraiment bizarre...
+\x0E\x01\x09\x04\x00\x04Dis au Vénérable que je vais bien.\nTon amie créature est sûrement\navec lui!
+\x0E\x01\x09\x04\x00\x07Le Vénérable va bien aussi!\nIl était tout près d'ici, en fait...\nJ'aurais pu deviner qu'il roulerait\npas sa mousse si loin! Kwiii!\n\x0E\x01\x09\x04\x00\x13Mais ton amie créature était pas\navec lui...
+\x0E\x01\x09\x04\x00\x07Merci d'avoir trouvé tous mes amis\nKikwis! Kwi.\n\n\n\x0E\x01\x09\x04\x00\x13Mais ton amie comme toi était pas là...\nTu peux la trouver!
+
+\x0E\x01\x09\x04\x00\x07Hé! Ho! Le vert, c'est moi! T'as\ntrouvé la fille que tu recherchais?\n[1]Qui es\x2010tu?[2]Pas encore...
+\x0E\x01\x09\x04\x00\x13Kwaa? Tu m'as déjà oublié?\nC'est moi, <b<Matéo>>! Tu me fais de\nla peine, le vert.
+\x0E\x01\x09\x04\x00\x13Ah... C'est dommage. Mais au moins,\ntu sais vers où elle est allée... Kwii.\nC'est déjà ça, non?
+\x0E\x01\x09\x04\x00\x07J'ai retrouvé tous mes amis Kikwis!\nC'est grâce à toi, le vert!
+\x0E\x01\x09\x04\x00\x05J'espère que tu trouveras la fille\nque tu recherches. À la revoyure!
+
+
+
+
+J'suis pas bon à manger!\nJ'vaux pas un radis!\nLaisse\x2010moi! Kwiii!
+
+
+\x0E\x01\x09\x04\x00\x05Kwaa? Le Vénérable se fait du souci\npour moi? Content d'entendre qu'il\nva bien en tout cas!
+\x0E\x01\x09\x04\x00\x05Kwaa? Tu ressembles pas\ntrop à un monstre, le vert.\n\n\nUne fille avec une tête jaune?~~~\n\x0E\x01\x09\x04\x00\x13Sais pas. J'étais caché tout\nle temps. Rien vu!
+\x0E\x01\x09\x04\x00\x01Ka-kwa. Moi, c'est <b<Kamom>>!\nSi tu vois le Vénérable, dis\x2010lui\nque j'amasse ma mousse ici.\n\n\x0E\x01\x09\x04\x00\x0FY a encore du danger par ici, je vais\nrester jusqu'à ce que les méchants\ndisparaissent.
+\x0E\x01\x09\x04\x00\x14Ah! Me fais pas peur comme ça! Kwiii!
+\x0E\x01\x09\x04\x00\x04Je vais attendre ici un moment!\nSi tu vois le Vénérable, dis\x2010le\x2010lui!\nKwi.
+\x0E\x01\x09\x04\x00\x07Content de savoir que le Vénérable\nva bien! Kwii! Moi, je reste ici tant\nque tous les méchants sont pas partis.
+\x0E\x01\x09\x04\x00\x07Merci d'avoir trouvé tous mes amis\nKikwis, le vert!\n\n\n\x0E\x01\x09\x04\x00\x13Mais la forêt a encore l'air\ndangereuse...
+
+
+\x0E\x01\x09\x04\x00\x02\x0E\x01\x08\x02\xFECDKikwi!
+\x0E\x01\x09\x04\x00\x0BT'as battu tous les bonshommes\nrouges! Kwaa. T'es...~~~ un héros?\n\n\n\x0E\x01\x09\x04\x00\x13J'ai les racines toutes molles, je peux\npas descendre... Peux-tu m'aider? Kwi.
+\x0E\x01\x09\x04\x00\x11Fenouil! Ça fait mal!\x0E\x01\x04\x02\x1E Mais merci\nde m'avoir aidé, ka-kwa.
+\x0E\x01\x09\x04\x00\x05Kwaa? Le Vénérable s'inquiète pour\nmoi? Content d'entendre qu'il va bien,\nen tout cas!
+\x0E\x01\x09\x04\x00\x05Kwaa? Une fille? Connais pas.\n\n\n\n\x0E\x01\x09\x04\x00\x04Le Vénérable sait sûrement quelque\nchose, lui.
+\x0E\x01\x09\x04\x00\x01Je m'appelle <b<Jasmi>>. Si tu vois le\nVénérable, dis\x2010lui que je suis ici.\nKwi.\n\n\x0E\x01\x09\x04\x00\x13Pfiou, j'ai encore les racines qui\ntremblent!
+\x0E\x01\x09\x04\x00\x0DKwiii! Ne me fais pas peur comme ça!\nJ'ai encore cru que c'était un monstre!
+\x0E\x01\x09\x04\x00\x04Je vais me reposer un peu ici. Si tu vois\nle Vénérable, dis-lui que je suis ici.\nMerci, le vert.
+\x0E\x01\x09\x04\x00\x07Heureux de savoir que le Vénérable\nva bien.\n\n\n\x0E\x01\x09\x04\x00\x13J'ai encore les racines qui tremblent.\nKwii. Je vais rester ici un moment.
+\x0E\x01\x09\x04\x00\x07Ka-kwa!Tu as trouvé tous mes\ncompagnons, merci! Kwi.\n\n\n\x0E\x01\x09\x04\x00\x0BIci, y a pas de monstres, je suis\nen sécurité... Je crois.
+
+\x0E\x01\x09\x04\x00\x13Kwaa? Comment tu m'as trouvé?\nJ'étais si bien caché!
+\x0E\x01\x09\x04\x00\x01Mon petit nom, c'est <b<Robi>>.\nC'est moi le plus fort en camouflage.\nKwaa. Après le Vénérable, bien sûr!
+\x0E\x01\x09\x04\x00\x05Kwaa. Tu as vu le Vénérable?\nEt il est sain et sauf aussi!\n\n\n\x0E\x01\x09\x04\x00\x14Si tu le revois, dis\x2010lui que je suis ici!
+\x0E\x01\x09\x04\x00\x04Normal. Le Vénérable est le plus\nfort en camouflage! Tu penses\nque tu peux le trouver?
+\x0E\x01\x09\x04\x00\x05J'comprends pas comment tu m'as\ntrouvé... J'étais parfaitement invisible\nà l'\x153il nu!
+\x0E\x01\x09\x04\x00\x14C'est bien que tu m'aies trouvé.\nMais tu n'as pas encore trouvé\nle Vénérable, on dirait... Kwa.
+\x0E\x01\x09\x04\x00\x07Oh, si tu as trouvé le Vénérable, tu\ndois être un as de la trouvette! Kwii!
+\x0E\x01\x09\x04\x00\x13Tu nous as tous trouvés!\nTu prends ton devoir au sérieux.\nRepose un peu tes yeux, le vert!
+
+\x0E\x01\x09\x04\x00\x06Hé! Ho!~~~ Je suis <b<Péko>>, chef des Kikwis.\n\n\n\nTu as décelé mon camouflage. Kwii!\nTon \x153il est parfaitement entraîné...~~~\nTu m'as tout l'air d'un expert!\n\n[1]Où est\nZelda?[2]J'ai un\nmessage
+\x0E\x01\x09\x04\x00\x08Zelda\x0E\x01\x06\x02\xFDCD...?~~~\n\n\n\nKwa. Tu parles de la fille qui te\nressemble, avec des poils jaunes sur\nla tête? Oui, elle était avec moi...\n\n\x0E\x01\x09\x04\x00\x0CMais parlons de cela plus tard.\nLa forêt est remplie de monstres,\net j'ai perdu mes petits compagnons\nde vue...\nJe suis très inquiet pour eux. Kwii!\nDans cet état, mes souvenirs sont\ntrès confus.
+\x0E\x01\x09\x04\x00\x0EKwaa?? Tu as rencontré quelques-uns\nde mes petits compagnons?
+\x0E\x01\x09\x04\x00\x08Et toi aussi, tu recherches une amie?\n\n\n\nKwaa... Il y avait une fille avec\ndes poils jaunes sur la tête avec\nmoi, il y a un moment.\n\n\x0E\x01\x09\x04\x00\x0CMais je ne peux parler de cela\nmaintenant. La forêt est remplie\nde monstres, et j'ai perdu mes petits\ncompagnons de vue...\nJe suis très inquiet pour eux. Kwii!\nDans cet état, mes souvenirs sont\ntrès confus.
+\x0E\x01\x09\x04\x00\x06Hé! Ho!~~~ Je suis <b<Péko>>, chef des Kikwis.\n\n\n\nTu as décelé mon camouflage. Kwii!\nTon \x153il est parfaitement entraîné...~~~\nTu m'as tout l'air d'un expert!
+\x0E\x01\x09\x04\x00\x03Hé! Ho! Matéo, Kamom et Jasmi\nsont sains et saufs, tu dis?\n\n\nMais la forêt grouille encore de\nmonstres, je ne peux pas bouger\nd'ici... Kwiii!
+\x0E\x01\x09\x04\x00\x03Matéo, Kamom et Jasmi sont sains et\nsaufs, tu dis?\n\n\nEst\x2010ce que ça t'ébouillanterait de\nchercher <r<encore un>> de mes petits\ncompagnons Kikwis?\n\n\x0E\x01\x09\x04\x00\x02Il aime se fondre dans les herbes,\nalors je te conseille de chercher...\ndes herbes.\n\nEncore un effort, et je me rappellerai\noù ton amie est allée.
+\x0E\x01\x09\x04\x00\x08Est\x2010ce que ça t'ébouillanterait de\nchercher <r<encore un>> de mes petits\ncompagnons Kiwis?\n\nIl aime se fondre dans les herbes,\nalors je te conseille de chercher...\nbien, des herbes.\n\n\x0E\x01\x09\x04\x00\x02Si tu le trouves, cela m'aidera à me\nrappeler où ton amie est allée.
+\x0E\x01\x09\x04\x00\x03Hé! Ho! Matéo, Kamom et Robi\nsont sains et saufs, tu dis?\n\n\nMais la forêt grouille encore de\nmonstres, je ne peux pas bouger\nd'ici... Kwiii!
+\x0E\x01\x09\x04\x00\x03Matéo, Kamom et Robi\nsont sains et saufs, tu dis?\n\n\nEst\x2010ce que ça t'ébouillanterait de\nchercher <r<encore un>> de mes\npetits compagnons Kikwis?\n\n\x0E\x01\x09\x04\x00\x02Il aime monter dans les\narbres, alors je te conseille\nde chercher... des arbres.\n\nEncore un effort, et je me\nrappellerai où ton amie est allée!
+\x0E\x01\x09\x04\x00\x08Est\x2010ce que ça t'ébouillanterait de\nchercher <r<encore un>> de mes petits\ncompagnons Kikwis?\n\nIl aime monter dans les arbres, alors je\nte conseille de chercher... des arbres.\n\n\n\x0E\x01\x09\x04\x00\x02Si tu le trouves, cela m'aidera à me\nrappeler où ton amie est allée.
+\x0E\x01\x09\x04\x00\x03Hé! Ho! Matéo et Kamom\nsont sains et saufs, tu dis?\n\n\nMais la forêt grouille encore de\nmonstres, je ne peux pas bouger\nd'ici... Kwiii!
+\x0E\x01\x09\x04\x00\x03Matéo et Kamom vont bien, tant mieux!\nMais je m'inquiète encore pour\nles autres...\n\nEst\x2010ce que ça t'ébouillanterait de\nchercher <r<encore deux>> de mes\npetits compagnons Kikwis?\n\n\x0E\x01\x09\x04\x00\x08Ton amie est partie par là.\nOh, attends, non!\nC'était peut\x2010être par ici...
+\x0E\x01\x09\x04\x00\x02Est\x2010ce que ça t'ébouillanterait de\nchercher <r<encore deux>> de mes\npetits compagnons Kikwis?\n\nSi tu les trouves, cela m'aidera à me\nrappeler où ton amie est allée.
+\x0E\x01\x09\x04\x00\x03Ho ho! Matéo, Jasmi et Robi\nsont sains et saufs, tu dis?\n\n\nMais la forêt grouille encore de\nmonstres, et je ne peux pas bouger\nd'ici...
+\x0E\x01\x09\x04\x00\x03Matéo, Robi et Jasmi\nsont sains et saufs, tu dis?\n\n\nEst\x2010ce que ça t'ébouillanterait de\nchercher <r<encore un>> de mes\npetits compagnons Kikwis?\n\nIl aime se déguiser en plante, \nalors je te conseille de\nchercher... des plantes.\n\n\x0E\x01\x09\x04\x00\x02Encore un effort, et je me\nrappellerai où ton amie est allée!
+\x0E\x01\x09\x04\x00\x08Est\x2010ce que ça t'ébouillanterait de\nchercher <r<encore un>> de mes\npetits compagnons Kikwis?\n\nIl aime se déguiser en plante, \nalors je te conseille de\nchercher... des plantes.\n\n\x0E\x01\x09\x04\x00\x02Si tu le trouves, cela m'aidera à me\nrappeler où ton amie est allée.
+\x0E\x01\x09\x04\x00\x03Hé! Ho! Matéo et Jasmi\nsont sains et saufs, tu dis?\n\n\nMais la forêt grouille encore de\nmonstres, je ne peux pas bouger\nd'ici... Kwiii!
+\x0E\x01\x09\x04\x00\x03Matéo et Jasmi vont bien, tant mieux!\nMais je m'inquiète encore pour\nles autres...\n\nEst\x2010ce que ça t'ébouillanterait de\nchercher <r<encore deux>> de mes\npetits compagnons Kikwis?\n\n\x0E\x01\x09\x04\x00\x08Ton amie est partie par là.\nOh, attends, non!\nC'était peut\x2010être par ici...
+\x0E\x01\x09\x04\x00\x02Est\x2010ce que ça t'ébouillanterait de\nchercher <r<encore deux>> de mes\npetits compagnons Kikwis?\n\nSi tu les trouves, cela m'aidera à me\nrappeler où ton amie est allée.
+\x0E\x01\x09\x04\x00\x03Hé! Ho! Matéo et Robi\nsont sains et saufs, tu dis?\n\n\nMais la forêt grouille encore de\nmonstres, je ne peux pas bouger\nd'ici... Kwiii!
+\x0E\x01\x09\x04\x00\x03Matéo et Robi vont bien, tant mieux!\nMais je m'inquiète encore pour\nles autres...\n\nEst\x2010ce que ça t'ébouillanterait de\nchercher <r<encore deux>> de mes\npetits compagnons Kikwis?\n\n\x0E\x01\x09\x04\x00\x08Ton amie est partie par là.\nOh, attends, non!\nC'était peut\x2010être par ici...
+\x0E\x01\x09\x04\x00\x02Est\x2010ce que ça t'ébouillanterait de\nchercher encore<r< deux>> de mes petits\ncompagnons Kikwis?\n\nSi tu les trouves, cela m'aidera à me\nrappeler où ton amie est allée.
+\x0E\x01\x09\x04\x00\x03Hoho! Matéo est sain et sauf, tu dis?\n\n\n\nMais la forêt grouille encore de\nmonstres, je ne peux pas bouger d'ici...
+\x0E\x01\x09\x04\x00\x03Matéo va bien, tant mieux! Mais je\nm'inquiète encore pour les autres...\n\n\nEst\x2010ce que ça t'ébouillanterait\nde chercher <r<trois>> de mes petits\ncompagnons Kikwis?\n\n\x0E\x01\x09\x04\x00\x08Ma mémoire me joue des tours,\nje ne me souviens plus par où\nest partie ton amie!
+\x0E\x01\x09\x04\x00\x02Est\x2010ce que ça t'ébouillanterait de\nchercher <r<trois>> de mes petits\ncompagnons Kikwis?\n\nSi tu les retrouves tous, je pense\nque je me rappellerai où ton amie\nest allée.
+\x0E\x01\x09\x04\x00\nHé! Ho! Tout le monde va bien?\nJe ne dois plus m'inquiéter, alors!\n\n\nTu es vraiment doué pour trouver les\ngens! Kwi. Je ne sais pas qui tu es ni\nd'où tu viens, mais je te remercie.
+\x0E\x01\x09\x04\x00\x09Maintenant que je suis rassuré,\nje me souviens par où est partie\nton amie!
+\x0E\x01\x09\x04\x00\x03Si tu continues par là, tu devrais\narriver au temple...~~~ Mais attention\naux monstres qui rôdent... Kwii!
+\x0E\x01\x09\x04\x00\x0E\x0E\x01\x08\x02\x1CDKwaa! J'allais oublier\n\n\n\nPour te remercier d'avoir retrouvé\nmes compagnons, je vais te donner\nnotre trésor. Kwi.\n\n\x0E\x01\x09\x04\x00\x08Kwaa... Un petit moment...
+\x0E\x01\x09\x04\x00\x01Kwaa... Monte vite sur mon dos,\net attrape\x2010le!
+\x0E\x01\x09\x04\x00\x01Sers\x2010toi de moi comme d'un\nmarchepied et prends\x2010le!\nAllez, kwaa!
+\x0E\x01\x09\x04\x00\x02Celle que tu appelles Zelda a dit\nqu'elle devait se rendre au temple\nqui se trouve au c\x153ur de la forêt...\n\nJe lui ai dit de ne pas y aller parce que\nc'est dangereux, mais elle m'a grimpé\ndessus et y est allée quand même!\nKwiiii!
+\x0E\x01\x09\x04\x00\x08Kwaa? Tu recherches aussi une amie?\n\n\n\nIl y avait bien une fille avec des poils\njaunes sur la tête...
+\x0E\x01\x09\x04\x00\x02Celle que tu appelles Zelda s'est rendue\nau temple au c\x153ur de la forêt.
+En utilisant le <y<lance\x2010pierre>>, tu devrais\npouvoir te rendre jusqu'au temple\nau c\x153ur de la forêt.\n\n\x0E\x01\x09\x04\x00\x06Puisses\x2010tu trouver ton amie!\nKwiiii!
+\x0E\x01\x09\x04\x00\x02Avec ça, tu devrais pouvoir te rendre\nau temple au c\x153ur de la forêt.
+\x0E\x01\x09\x04\x00\x08Pour commencer, essaie de viser\ncette liane entortillée.
+\x0E\x01\x09\x04\x00\x08Vise donc cette liane entortillée\npour comm...~~~ Kwaa?\n\n\nTu apprends vite, le vert!~~~ Tant mieux.\nÇa va simplifier les explications.
+\x0E\x01\x09\x04\x00\x02Sors ton lance\x2010pierre avec (B), puis tire\nen appuyant sur (A).\x0E\x01\x11\x02\x1CD\n\n\nSi tu es à court de munitions,\ntu pourras <g<trouver des graines>>\ndans les fruits des arbres du coin.
+\x0E\x01\x09\x04\x00\x06Puisses\x2010tu trouver ton amie! Kwiii!
+
+\x0E\x01\x05\x04K\x00\x0E\x01\x12\x04\x00\x01Maître, nous sommes arrivés\ndans la <b<forêt de Firone>>.
+\x0E\x01\x05\x04K\x00La grande quantité d'eau présente\nici favorise la poussée de grands\narbres et de plantes.
+\x0E\x01\x05\x04K\x00De nombreuses créatures vivent\négalement dans cet environnement\nnaturel favorable.
+\x0E\x01\x05\x04K\x00Mon analyse suggère que dame Zelda\nse trouve quelque part dans cette forêt.\n\n\n\x0E\x01\x05\x04K\x00Je vous recommande donc de la\nchercher à l'aide de ma fonction\ndétection.
+\x0E\x01\x12\x04\x00\x0BMaître, veuillez prendre connaissance\nde ces informations pertinentes :\n<pling><r<Ma fonction détection réagit>>\nà cette créature.\n[1]Ah bon?[2]C'était\nZelda?
+\x0E\x01\x12\x04\x00\x05Oui, Maître. Mon analyse suggère qu'il\ns'agit d'un <b<Kikwi>>, une des créatures\npacifiques qui peuplent la forêt.\n\nIls sont doués de parole et disposent\nde grandes connaissances.~~~\nIl ne s'agit pas de dame Zelda.\n\nLa raison pour laquelle il fait réagir\nla fonction détection m'est inconnue.\nJe vous encourage à rattraper ce Kikwi\npour éclaircir ce mystère.
+La probabilité que cette créature soit\ndame Zelda est de 5 %. Il s'agit d'un\n<b<Kikwi>>, une des créatures pacifiques qui\npeuplent la forêt.\nIls sont doués de parole, et disposent\nde grandes connaissances.~~~ Cependant,\nla raison pour laquelle il fait réagir la\nfonction détection m'est inconnue.\nJe vous encourage à rattraper ce Kikwi\npour éclaircir ce mystère.
+\x0E\x01\x12\x04\x00\x01Maître, je vous suggère de vous assurer\nde la sécurité de cette créature.
+\x0E\x01\x12\x04\x00\x01Maître, si vous n'aidez pas cette\ncréature, ses chances de survie\nsont de 5 %.
+
+
+
+
+
+
+
+Je constate une forte réaction à ma\nfonction détection. Je vous encourage\nà continuer de chercher dans cette\nzone.
+Je ne détecte plus la présence de\nmonstres dans cette zone. Faire tomber\nle Kikwi de son arbre ne présente donc\npas de danger.\nIl ne semble pas pouvoir bouger par\nlui\x2010même. Il vous faut penser à un\nautre moyen.\n\nVous pouvez consulter à tout\nmoment la liste des actions\npossibles en appuyant sur (2).\x0E\x01\x11\x02\x5CD
+L'aura de dame Zelda est faible dans\ncette zone. Je vous recommande\nd'aller voir ailleurs.
+Il n'y a pas d'autre aura de Kikwi dans\ncette zone.\n\n\nRetournez voir le Vénérable pour\nobtenir d'autres informations.
+Avant de partir vers le c\x153ur de la forêt\nsur les traces de dame Zelda, je vous\nrecommande de sauvegarder votre\nprogression.
+Depuis ici, la vue est dégagée. Je vous\nrecommande d'utiliser la fonction\ndétection pour chercher les Kikwis.
+
+\x0E\x01\x12\x04\x00\x04Maître Link, voici des\ninformations à propos de l'utilisation\nde vos objets.\n\nEn <g<appuyant brièvement >>sur (B),\nvous vous apprêterez à tirer au\n<y<lance\x2010pierre>>, puisqu'il s'agit du\ndernier objet que vous avez utilisé.\x0E\x01\x11\x02\x1CD\nSi vous n'arrivez pas à viser\ncorrectement, <g<recentrez le viseur\n>>en pointant la manette Wii Remote\nvers l'écran et en appuyant sur (v).\x0E\x01\x11\x02\x9CD
+\x0E\x01\x12\x04\x00\x04Maître Link, la\nprobabilité que la flamme sacrée se\ntrouve par\x2010delà cette porte est de 80 %.\n\nL'ermite Kikwi a révélé que le pouvoir\nde la Déesse permettait de compléter\nle symbole. Il est probable qu'il faisait\nréférence à l'<r<éclat céleste>>.\nInvoquez l'éclat céleste devant\nla porte et <g<complétez le dessin>>.
+\x0E\x01\x12\x04\x00\x04Maître Link, la\nprobabilité que la flamme sacrée se\ntrouve dans le lac est de 80 %.
+\x0E\x01\x12\x04\x00\x04Maître Link, vous venez\nd'obtenir une information concernant\ndame Zelda.\n\nElle s'est enfuie après avoir été\nattaquée par des monstres.~~~\nElle est très probablement encore\nen danger.
+<pling>J'ai marqué la position du Kikwi\nMatéo. Regardez votre carte.
+La fonction détection a réagi au Kikwi\ncar il a dû être en contact avec dame\nZelda.\n\nLa probabilité que le Vénérable,\nqui s'est enfui avec dame Zelda,\nfasse également réagir la détection\nest de 85 %.\nJe vous recommande en conséquence\nde continuer à rechercher dame Zelda\navec ma fonction détection.
+Malheureusement, le Vénérable n'est\nplus avec dame Zelda.~~~ Cependant,\nil semble posséder des informations.\n\nLes chances d'obtenir des informations\nsur dame Zelda en aidant le Vénérable\nà retrouver ses compagnons perdus\nsont de 85 %.\nJ'ai ajouté l'<r<<pling>aura des Kikwis >>à\nla fonction détection.
+Souhaitez\x2010vous des informations\ncomplémentaires sur le changement\nde cible de ma fonction détection?\n[1]Oui[2-]Non
+Maintenez (C) enfoncé pour afficher\nles cibles possibles de la fonction\ndétection.\x0E\x01\x11\x02\x6CD\n\nSélectionnez ce que vous souhaitez\ndétecter <g<avec la manette Wii Remote\n>>puis relâchez (C) pour valider.\x0E\x01\x11\x02\x6CD\n\nSi vous ne souhaitez rien détecter,\nsélectionnez la <g<vue subjective>> et\nrelâchez (C).\n[1]Encore\nune fois[2-]Compris
+Les Kikwis que vous avez déjà trouvés\nseront indiqués sur la carte et ne\nferont plus réagir ma fonction\ndétection.\nVous pouvez maintenant partir à la\nrecherche des Kikwis perdus.
+J'ai <pling>marqué la position du Kikwi\nKamom. Cependant, la fonction\ndétection semble indiquer la présence\nd'autres Kikwis.
+J'ai <pling>marqué la position du Kikwi\nKamom. Dame Zelda n'était pas\navec lui.
+J'ai <pling>marqué la position du Kikwi Jasmi.\nCependant, la fonction détection\nsemble indiquer la présence d'autres\nKikwis.
+J'ai <pling>marqué la position du Kikwi Jasmi.\nDame Zelda n'était pas avec lui.
+J'ai <pling>marqué la position du Kikwi Robi.\nCependant, la fonction détection\nsemble indiquer la présence d'autres\nKikwis.
+J'ai <pling>marqué la position du Kikwi Robi.\nDame Zelda n'était pas avec lui.
+La fonction détection ne réagit plus\nà aucune aura dans les environs.\n\n\nJe vous recommande de retourner\nauprès du Vénérable pour obtenir\nd'autres informations.
+
+
+\x0E\x01\x12\x04\x00\x04Maître Link, je ressens\nl'aura de dame <b<Zelda>> à l'intérieur\nde cette construction.
+Cependant, je ressens également la\nprésence d'une multitude de monstres.\nSouhaitez\x2010vous tout de même\ncontinuer?\n[1]Bien sûr[2]Non
+Restez prudent. Personne ne pourra\nvenir vous aider ici.
+La peur participe à l'instinct de\nconservation des créatures vivantes.\nIl n'y a pas de honte à avoir.
+Si le danger devient trop grand, vous\npouvez toujours <g<retourner dans le\nciel >>pour mieux vous préparer.
+\x0E\x01\x12\x04\x00\x01Maître, vous n'êtes pas équipé d'un\n<r<bouclier>>. Je vous recommande de\ntoujours en avoir un à portée de la\nmain.
+Il est toujours bon d'avoir sur vous\nun <r<bouclier>> pour vous protéger et\ndes <r<potions>> pour vous soigner.
+Repartons à la recherche de dame\nZelda.
+La végétation est identique à celle de\nla forêt de Firone. Nous sommes très\nprobablement au c\x153ur de la forêt.\n\nDame Zelda s'est dirigée vers le\ntemple. Reprenons les recherches.
+\x0E\x01\x12\x04\x00\x04Maître Link, si vous avez\ndes questions, n'hésitez pas à m'appeler\nà tout moment en appuyant sur (v).\x0E\x01\x11\x02\x9CD\n\nSélectionnez <r<Conseil >>puis <r<Indice>> et je\nvous fournirai des informations que je\njugerai utiles selon la situation.
+\x0E\x01\x12\x04\x00\x04Maître Link, je peux à\nprésent analyser votre habileté au\ncombat contre vos ennemis.
+Lorsque vous <g<ciblez >>quelque chose avec\n(Z), appuyez sur (v) pour m'appeler et\nje vous présenterai les résultats de\nmon analyse.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+
+\x0E\x01\x09\x04\x00\x01Tiens! J'te connais, toi!
+\x0E\x01\x09\x04\x00\x01Tiens! J'te connais, toi!\n\n\n\nViens donc ici un peu! J'aurais besoin\nde ton aide!
+\x0E\x01\x09\x04\x00\x01Hé, toi! Viens donc par ici!
+\x0E\x01\x09\x04\x17\x1908Tu arrives au bon moment!\n\n\n\nJe viens juste de découvrir quelque\nchose dont parlent les écrits anciens.
+\x0E\x01\x09\x04ÿ\xFF05Regarde...~~~ Ça, c'est un trésor que\nla Déesse a laissé pour le héros venu\ndu ciel...\n\nJ'ai appelé ça\x0E\x01\x04\x02\x1E un <b<cube de la Déesse>>!\n\n\n
+\x0E\x01\x09\x04\x00\x1E04On peut lire dans les écrits anciens...\n\n\n\n« Si le porteur de l'épée des cieux\x0E\x01\x04\x02\x1E\nles touche de la lumière issue de sa\nlame,\x0E\x01\x04\x02\x1E il en sera récompensé. »
+\x0E\x01\x09\x04\x18\x170BT'aurais pas une épée, toi? Je voudrais\nque tu m'aides à résoudre l'énigme\nde ces cubes!\n[1]D'accord[2]Je ne\nveux pas
+\x0E\x01\x09\x04\x17\x1908Oh, merci bien!
+\x0E\x01\x09\x04\x18\x170CS'iiiil te plaaaaîîît!\n[1]D'accord[2]Je ne\nveux pas
+\x0E\x01\x09\x04\x08\x07Bon, bon. Tu veux quelque chose en\néchange. J'ai compris.
+\x0E\x01\x09\x04\x17\x1906Tiens! Avec ça, tu peux plus refuser!
+\x0E\x01\x09\x04ÿ\xFF00Ce cube est fait d'un métal que j'ai\njamais vu... J'ai eu beau frapper\ndessus très fort... Y'a pas moyen\nd'y faire la moindre bosse!
+\x0E\x01\x09\x04\x16\xB07Ça doit bien vouloir dire quelque chose,\n« <r<l'épée des cieux>> » et « <r<la lumière issue\nde sa lame >>»...\n\n\x0E\x01\x09\x04\x00\x1705Mais quoi?
+\x0E\x01\x09\x04\x15\x1908Oooh! Wow! Le cube est parti dans\nle ciel! As-tu vu ça?\n\n\n\x0E\x01\x09\x04\x13\x1B00Il a réagi à la lumière qui est sortie\nde ton épée...\n\n\n\x0E\x01\x09\x04\x00\x1B05Où est\x2010ce que le cube a\x2010t\x2010il bien pu\nse ramasser? Le mystère devient\nde plus en plus... mystérieux!\n\n\x0E\x01\x09\x04\x16\x1E00Selon les écrits anciens, il existe de\nnombreux cubes sur la terre...\n\n\n\x0E\x01\x09\x04\x00\x1700Essaie d'en trouver d'autres, et dis\x2010moi\nsi tu en apprends plus à leur sujet!
+\x0E\x01\x09\x04\x18\x1705Hmm? Tu as quelque chose à me\ndemander?\n[1]Les cubes[2]Le temple[3-]Non
+\x0E\x01\x09\x04\x16\x1E04Si tu touches un cube avec la lumière\nqui jaillit de ton épée, il disparaît dans\nle ciel.\n\nSelon les écrits anciens, il existe de\nnombreux cubes, un peu partout sur\nterre.
+\x0E\x01\x09\x04\x08\xB04Les écrits anciens expliquent\nque le bâtiment qui se trouve à\nproximité s'appelle le temple de\nla contemplation...\n... et qu'il accueille les êtres venus\ndu ciel.
+\x0E\x01\x09\x04\x00\x1707Tiens, j'y pense. Il y avait une vieille\nplaque de pierre dans le coin...\n\n\n\x0E\x01\x09\x04\x16\xB00Elle portait des inscriptions...~~~\nÇa devrait t'aider à trouver comment\nentrer dans le temple!
+\x0E\x01\x09\x04\x00\x02\x0E\x01\x08\x02\x2CDAttends une seconde!\n\n\n\nJ'aimerais que tu m'aides à résoudre\nle mystère des cubes.
+\x0E\x01\x09\x04\x00\x02\x0E\x01\x08\x02\x2CDHé, va-t'en pas!\n\n\n\nJ'ai quelque chose à te demander.\n\n
+\x0E\x01\x09\x04\x00\x03\x0E\x01\x08\x02\x2CDAttends donc une minute!\n\n\n\n\x0E\x01\x09\x04\x17\x600Fais pas semblant de ne pas m'avoir\nremarqué! Je sais que tu m'as vu!\n~~~ T'es fâché contre moi, ou quoi?\n[1]Oups, pardon![2]Je ne\nt'aime pas
+\x0E\x01\x09\x04\x16\x1E07Ah bon, tu recherches une jeune fille\net tu es pressé? Excuse\x2010moi! Je suis\nvraiment désolé.\n\nMais... j'aimerais que tu m'accordes\nune toute petite minute.
+\x0E\x01\x09\x04\x16\x1E56Aïe. Je vois. C'est comme ça dans\nla vie des explorateurs. On sera\ntoujours des grands incompris...\n\nJe te demande pas beaucoup de temps.\nPromis.
+
+
+
+Toi qui descends du ciel sur\nla terre, frappe l'étoile vers\nlaquelle se dirige l'oiseau aux\nailes déployées.

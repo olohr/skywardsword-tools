@@ -1,0 +1,4 @@
+Lanayru Mining\nFacility
+\x0E\x01\x12\x04\x00\x01Master, look at this.
+There is a great door here that is\nlocked tight.
+It is only logical that something of\ngreat importance likely rests behind\nthis door.

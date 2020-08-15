@@ -1,0 +1,167 @@
+¿Cómo te va la vida, jovencito? ¡Tengo\ninformación jugosa que te puede ser\nmuy útil en tu aventura! ¿Quieres\necharle un vistazo?[1]Vale[2-]Ahora no
+¡Hombre, jovencito!\x0E\x01\x04\x02\n La verdad es que\nno tengo gran cosa para ti, pero puedes\necharles un ojo a las visiones que ya\nhas consultado antes. ¿Qué me dices?[1]Vale[2-]Ahora no
+¡Hola, jovencito!\x0E\x01\x04\x02\n ¿Cómo va todo?\n¿Vienes a consultar alguna de mis\ninteresantísimas visiones?\n[1]Sí[2-]No, gracias
+Vale, como quieras. ¡Buena suerte\nentonces, jovencito!
+Vaya, si eres tú otra vez...\x0E\x01\x04\x02\n\n¡Pues me temo que todavía no tengo\nnada nuevo que contarte, chavalín!\n\n¿Por qué no vuelves a pasarte por aquí\nun poco más tarde?
+¡Oye, chavalín, acércate un momentito!
+Buenas, jovencito, ¿qué tal estás?\nMe presento... Soy una <b<piedra sheikah>>,\ny es un verdadero placer conocerte.\n\nVeamos... ~~~A juzgar por tu aspecto,\ndiría que en los próximos días te vas\na ver enredado en situaciones de lo\nmás variopintas.\nMe temo que vas a dar muchas vueltas,\noh, sí... Pero si en algún momento te\nsientes estancado e incapaz de avanzar,\nven a hablar conmigo, ¿entendido?\nAhora mismo no tengo nada que\nenseñarte, aunque más adelante te\nmostraré algunas cosas que quizá\n<r<te sirvan de ayuda>>.\n¡Hala, ya puedes marcharte! ¡Mucho\nánimo, chavalín, y buena suerte!
+Buenas, jovencito, ¿qué tal estás?\nMe presento. Soy una <b<piedra sheikah\x0E\x01\x04\x02\n>>.~~.~~.\n\x0E\x01\x04\x02\n¿Cómo? ¿Que ya lo sabías?...\n\nAh, claro, pero qué tonta soy...~~~ No me\nhabía dado cuenta de que juegas en\n<r<modo Héroe>>. Ahora que lo pienso, ya\nhabrás resuelto todos los enigmas...\nPues me temo que no me queda más que\nquitarme el sombrero ante ti, pequeño.\nEso y darte acceso a<pling> <r<todas mis visiones>>\ndesde el principio. ¿Qué te parece?\nLo dicho; cuando quieras consultar\nalguna de mis visiones, no tienes más\nque venir y hablar conmigo. ¡Hala,\nhasta más ver!
+¡Nuevo!
+¡Completado!
+Celéstea y Altárea
+Tierra del presidio
+Región del bosque de Farone
+Región del volcán de Eldin
+Región del desierto de Lanayru
+Templo de la contemplación
+Templo terrenal
+Refinería de Lanayru
+Gran caverna ancestral
+Galeón de las arenas
+Gran santuario antiguo
+Torre celestial
+Extras
+Al rescate de tu pelícaro
+Tras la pista de la muchacha misteriosa
+¿Cómo se entra en la tienda de Terry?
+El enigma del cementerio
+Dos grandes hojas \x2460
+Dos grandes hojas \x2461
+El puente de la isla de los cantares
+Salvar a Narisha
+
+Dónde insertar la gema de la ordalía
+Cómo derrotar a una baba deku
+El Durmiente
+El Durmiente \x2461
+El Durmiente \x2462
+La Horda
+Combate final con Grahim \x2460
+Combate final con Grahim \x2461
+El Heraldo de la Muerte
+¿Dónde está el kyu? \x2460
+¿Dónde está el kyu? \x2461
+¿Dónde está el kyu? \x2462
+Cómo derrotar a un octorok
+Qué hacer con las abejas
+Camino al templo
+Entrada al templo
+
+Tras obtener la escama
+Cómo cruzar los columpios
+Hacia el lago
+
+
+
+Cómo conseguir una faronita
+Faronita bajo una hoja de loto
+Faronita tras una roca
+El agujero que tapó el moguma
+Cómo sortear las torretas
+Los fragmentos de la llave \x2460
+Cómo cruzar el paso\ncon el puente plegado
+Los fragmentos de la llave \x2461
+Los fragmentos de la llave \x2462
+
+Sacia mi sed
+Un recipiente de agua gigantesco
+Cómo recuperar el látigo
+Cómo recuperar el tirachinas
+Cómo recuperar el saco de bombas
+Cómo recuperar los demás objetos
+Cómo avanzar en las minas de\nLanayru \x2460
+Cómo avanzar en las minas de\nLanayru \x2461
+Cómo avanzar en las minas de\nLanayru \x2462
+Así se rescata al robot
+Cómo avanzar en el desierto de\nLanayru \x2460
+Cómo avanzar en el desierto de\nLanayru \x2461
+Hacia el Templo del Tiempo
+Hacia la refinería de Lanayru
+Cómo caminar sobre arenas movedizas
+Dónde encontrar las claves \x2460
+Dónde encontrar las claves \x2461
+Dónde encontrar las claves \x2462
+
+Cómo usar las zarpas para llegar a\nlugares inexplorados
+Cómo vencer a un moblin con escudo\nde hierro
+El escondrijo pirata \x2460
+El escondrijo pirata \x2461
+La búsqueda del galeón de las arenas
+¿Dónde está la llave pequeña?
+La roca que obstaculiza el paso
+Un lugar para plantar la semilla
+Mucho ojo con estos guardianes...
+El interruptor de la reja \x2460
+Cómo derrotar a la skulltula
+Cómo llegar a la \x0E\x02\x04\x02\x19CD del mapa
+Cómo derrotar al stalfos
+El interruptor de la reja \x2461
+Cómo derrotar a Grahim
+Encontrar la llave moguma
+El puente sobre el río de lava
+Cómo atravesar la lava
+Encontrar el saco de bombas
+Cómo derrotar al lizalfos
+Ahora que ya tienes el mapa...
+Abrir la puerta del río de lava
+Cómo subir cuestas empinadas
+Cómo derrotar a Malócula
+Cómo abrir la primera reja
+Cómo romper una caja de madera
+El cronolito enjaulado
+Moverse por la cinta transportadora
+El cofre enjaulado
+Cómo atravesar las arenas movedizas
+Interruptores de molino y vagonetas
+El misterio de los tres interruptores
+Plataformas aerostáticas y vagonetas
+Cómo derrotar al helicobot
+Veamos cómo derrotar al beamos...
+Cómo derrotar al armos
+Cómo derrotar al Morgrad
+El orden correcto de las gemas
+Cómo llegar al túnel que hay bajo\nlas hojas de loto
+Cómo derrotar al stalfos
+El interruptor de la cascada
+Cómo robarle la llave al bokoblin
+El salto torbellino
+Cómo derrotar al piroptérix
+Aferrarse a un muro de hiedra
+Cómo superar los rodillos
+Cómo derrotar a Iruoma
+El orden correcto de las cuatro gemas
+Cómo derrotar a Don Gera
+
+Activar el generador \x2460
+Activar el generador \x2461
+¡A trocear tentáculos!
+Cómo derrotar a Daidagos \x2460
+Cómo derrotar a Daidagos \x2461
+La sala de la magmano
+La sala de la lava
+Sacia mi sed \x2461
+Cómo derrotar a la magmano
+Encontrar la sala oculta
+Cómo obtener la llave del jefe
+Cómo derrotar a Grahim \x2461
+Los piroptérix de la roca
+Viajar sobre el columpio
+Cómo superar el río de lava \x2460
+Cómo superar el río de lava \x2461
+Una gema tras la estatua
+La sala de las arenas movedizas \x2460
+La sala de las arenas movedizas \x2461
+La sala de las arenas movedizas \x2462
+Cómo derrotar a Don Killer
+Atrapar insectos
+La sopa del maestro de esgrima
+¿Dónde está Corina?
+El cobertizo sin puerta
+Una bebida para Gruyo
+Inquietudes de un vidente
+Conseguir el sonajero
+Cómo encontrar un escarabero rex
+Qué dibujar en los muros divinos
+Secretos de los muros divinos
+Conseguir flechas
+Un buen lugar para practicar\nla caída libre

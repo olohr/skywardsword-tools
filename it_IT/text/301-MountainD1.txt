@@ -1,0 +1,32 @@
+Accidenti! Ci sono miriadi di\nmostri qui in giro, ho pure perso\nil mio compare e non credo tornerà!
+Oh, di nuovo tu!\nSei venuto fin qui per trovare la tua\namica?\n\nA proposito...~~~ Prima di venire qui,\nho visto una <r<tipa bionda vestita in modo\nstrano>><pling> che veniva rapita...\n\nMa...\x0E\x01\x09\x04\x14\x1215 non mi è stato proprio possibile\naiutarla! Qui è troppo pieno di mostri!\n\n\n\x0E\x01\x09\x04ÿ\xFF00Anzi, se ci tieni alla pelle, ti consiglio\ndi andare via di corsa!
+Acciderbola! Non lo trovo più...\ndev'essermi caduto da qualche parte!
+Ah! Ciao!\nChe tempismo perfetto!\nSono io, <b<Ferrinio>>!\n\n\n\x0E\x01\x09\x04ÿ\xFFFFSecondo me è stato il destino a farci\nincontrare qui!\nRecupereresti il mio <y<portabombe>>?
+Stavo cercando tesori quando a un\ntratto sono sbucati dei mostri da lì\ndietro...~~~ Me la sono data a gambe,\nma \x0E\x01\x09\x04\x13\x100Dmi deve essere caduto!
+\x0E\x01\x09\x04\x09\x8FFÈ un oggetto in cui <r<puoi riporre i fiori\nbomba e usarli quando vuoi>>!\nÈ utilissimo, se lo saranno fregato i\nmostri!\x0E\x01\x04\x02\n\n\x0E\x01\x09\x04\x11\xDFFVammi a recuperare il\n<y<portabombe>>, per favore!
+Ah...~~~ pensandoci bene, non puoi\narrivare lì senza passare sottoterra!\n\n\n\x0E\x01\x09\x04\x15\x120CMmh... forse se fai saltare con un\n<y<fiore bomba >>quella roccia...\n\n\n\x0E\x01\x09\x04\x09\xFF00Vedi se ci sono dei <y<fiori bomba\n>>nelle vicinanze...
+Dovresti provare a sgretolare quelle\nrocce... perché non cerchi dei\n<y<fiori bomba>>?
+\x0E\x01\x09\x04\x15\x809Eh eh, bravo, hai fatto rotolare il\n<y<fiore bomba >>fin lì...\nNiente male!\n\n\x0E\x01\x09\x04\x11\x800Se continui così, di certo recupererai\nil mio <y<portabombe >>senza problemi!
+\x0E\x01\x09\x04\x11\xD08Ooh! Il mio <y<portabombe>>!\n\n\n\n\x0E\x01\x09\x04ÿ\x8FFGrazie mille!\nDammelo...\x0E\x01\x04\x02\x14\n\n\n\x0E\x01\x09\x04\x11\xD0ECOSA?! Vuoi che te lo presti per poter\nandare avanti?\n\n\n\x0E\x01\x09\x04ÿ\xFFFFOra che ci penso, sei anche venuto fin\nqui per cercare la tua amica...\n\n\n\x0E\x01\x09\x04\x15\xD11 Mmh...~~~ ma il mio compare...?\n[1]È rientrato[2]Ti cercava[3]Boh...
+\x0E\x01\x09\x04\x13\x1007Sul serio?!\nNon si può proprio contare su di lui...\n\n\n\x0E\x01\x09\x04ÿ\x8FFTu sei stato formidabile!\nEra una situazione complicata!\n\n\n\x0E\x01\x09\x04\x14\x1209Mi sa che non ho altra scelta che\nregalartelo! Trattalo bene!
+\x0E\x01\x09\x04\x00\x1004Mi cercava?!~~~\nCapisco...\n\n\n\x0E\x01\x09\x04ÿ\x8FFAnche tu sarai in pena per la tua amica,\nvisto che non sai se sta bene o no...\n\n\n\x0E\x01\x09\x04\x14\x1209Mi sa che non ho altra scelta che\nregalartelo! Trattalo bene!
+\x0E\x01\x09\x04\x00\x804Mmh...~~~\nChissà se sta bene,\ncon tutti quei mostri...\n\n\x0E\x01\x09\x04\x00\x8FFAnche tu sarai in pena per la tua amica,\nvisto che non sai se sta bene o no...\n\n\n\x0E\x01\x09\x04\x14\x1209Mi sa che non ho altra scelta che\nregalartelo! Trattalo bene!
+Mi raccomando, ora trova la tua\namica! Il mio <y<portabombe >>ti\naiuterà nell'impresa!
+\x0E\x01\x09\x04\x11\xD12AH!!!\nMi sono scordato una cosa importante!\n\n\n\x0E\x01\x09\x04\x09\x8FFLa sacca è vuota, prendi...
+Quando trovi dei fiori bomba in giro,\npuoi riporli nel portabombe invece di\nfarli scoppiare!\n\n\x0E\x01\x09\x04\x11\x80BPer conservare un fiore bomba,\nraccoglilo normalmente e poi premi (B)\nper <g<riporlo>>. Tienilo a mente!\x0E\x01\x11\x02\x1CD\n\n\x0E\x01\x09\x04\x09\x8FFQuella sacca<r< può contenere fino a\ndieci bombe>>! Quando trovi dei fiori\nbomba, fanne scorta!
+\x0E\x01\x09\x04\x11\xD00Dimmi un po', t'è mai successo di\nprendere fuoco mentre combatti\nun mostro?\n\n\x0E\x01\x09\x04\x09\x8FFSe ti dovesse succedere, spegni subito\nle fiamme!\nE non tirare fuori le <y<bombe>>!
+\x0E\x01\x12\x04\x00\x04Mio signore Link,\nZelda è venuta in questa fonte per\npurificarsi.\n\nInoltre, se ci basiamo sull'antico\nmessaggio da me appena tradotto,\nessa dovrebbe essersi diretta verso\nuna terra chiamata <b<Ranel>>.\nSe riporterete la stele al santuario,\nsi leverà una nuova colonna di luce\nsopra le <b<Terre di Ranel>>.\n\nSuggerirei di far ritorno a <b<Oltrenuvola\n>>e, in seguito, dirigerci verso le\nTerre di Ranel.
+\x0E\x01\x12\x04\x00\x0BSignore, Faih a rapporto.\nIn questa zona avverto l'aura di Zelda.
+In particolar modo questa catena...\nProbabilità che Zelda vi sia entrata\nin contatto: 95%.
+Apparentemente ha trovato un\nmodo per fuggire. Suggerirei\ndi proseguire velocemente.
+Zelda ha trovato un modo per\nlasciare questo luogo. Suggerirei\ndi proseguire velocemente.\n\nUna volta inquadrato il nemico con (Z),\npotrete chiamarmi con (v) e vi\nillustrerò tutte le informazioni utili al\nriguardo in mio possesso.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+\x0E\x01\x09\x04\xD08\x5FFA\x2010ha! Ci incontriamo ancora!
+\x0E\x01\x09\x04\xD00\x5FFAh~.~.~.~ \n\x0E\x01\x04\x02\x08Perdonami, ma...\x0E\x01\x04\x02\x14\nMi ripeteresti il tuo nome?\n\n\x0E\x01\x09\x04\xD0A\x5FFAnche se, ripensandoci...\nnon mi importa granché,\nvisto che ora subirai la mia ira!
+\x0E\x01\x09\x04\xD00\x900Proprio quando sembrava\nche avessimo finalmente tra le mani\nla voce della Dea... cosa succede?!\n\n\x0E\x01\x09\x04\xD00\xCFFChe mi trovo di nuovo davanti\ni seguaci della Dea...
+\x0E\x01\x08\x02\xFECD\x0E\x01\n\x04\x0CÍQuesta volta...\n\n\n\n\x0E\x01\x09\x04\xD00\xCFF\x0E\x01\x08\x02\xFECD~~~\x0E\x01\n\x04\x0DÍQuella...
+\x0E\x01\x05\x04-\x00\x0E\x01\x08\x02\x2CDTirapiedi della Dea...\x0E\x01\n\x04\x0BÍ\nè qui a intralciarmi!!!
+\x0E\x01\x08\x02\x1CDLa voce della Dea mi è \nassolutamente necessaria per\nla rinascita del mio signore!
+~~.~~.~~.~~\n\x0E\x01\x04\x02\nMi dispiace...\n\n\n\x0E\x01\x09\x04\xD08\x5FFAd ogni modo, capisci anche tu che\nnon posso andar via così, come se\nnulla fosse, no?
+\x0E\x01\x09\x04\xD0A\x5FFIn effetti, non c'è ragione di farlo!\n\x0E\x01\x04\x02\x14Anzi...\x0E\x01\x04\x02\x14\nLascerò esplodere...\x0E\x01\x04\x02\x14
+... questa mia collera inaudita!
+Santuario\ndella Terra

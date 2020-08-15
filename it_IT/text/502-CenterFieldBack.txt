@@ -1,0 +1,33 @@
+\x0E\x01\x09\x04\x00\x01Finalmente, Link!\nTi stavo aspettando!\n\n\nImmagino che tu sia un po' confuso...\nlascia che ti spieghi...
+Ci troviamo nel <r<Santuario Hylia>>,\nconosciuto anche come <b<Santuario\ndell'esilio >>e... siamo in un tempo\nlontano dalla vostra epoca.\nPoco dopo che la Dea ha imprigionato\n<b<Mortipher>>. Non è passato molto tempo\nda quando Oltrenuvola si è separata\ndalla Terra...
+\x0E\x01\x09\x04\xF0F\x703Esatto. Hai attraversato la\n<b<Porta del Tempo >>e ora ti\ntrovi in un'<r<epoca passata>>.\n\nAvrai una montagna di domande\nda farmi, ma prima procedi verso\nla grande porta là in fondo.
+La persona che volevi\nproteggere con tutto te\nstesso ti aspetta.
+\x0E\x01\x09\x04\x00\x03Siamo in un'<r<epoca passata>>, più o meno\nnel momento in cui la <b<Dea Hylia>> ha\nimprigionato <b<Mortipher>>.\n\nAvrai una montagna di domande da\nfarmi, ma prima procedi verso\nla grande porta là in fondo.\n\nLa persona che volevi proteggere\ncon tutto te stesso ti aspetta.
+\x0E\x01\x09\x04\x00\x03... Bene, vi siete detti addio.\n\n\n\nLa tua promessa a <b<Zelda>>...\nNon dimenticartene...\nTrova la <y+<Triforza>>!\n\nCi sono ancora alcune cose che\ndevi fare nella tua epoca!
+\x0E\x01\x09\x04\x00\nNon preoccuparti. Ci sono io qui a\nproteggere <b<Zelda>>. Vai e porta a\ntermine il tuo compito.
+~~~.~~~.~~~.\n\x0E\x01\x09\x04\x0F\x803Uhm...\n\n\n[1]Che?[2]Addio
+\x0E\x01\x09\x04\x00\x703Uhmm...\nNon è nulla di importante...
+Uhmm...
+Vedi quel luogo con tutta quella luce?\n\n\n\nSto pensando se non sia adatto a\npiantarci un albero.\n\n\nCosì, quando <b<Zelda >>aprirà gli occhi,\nne sarà felice.
+Chissà se esiste un albero capace di\nvivere per migliaia di anni e continuare\na fiorire? E dove potrei trovare un\n<r<bulbo >>del genere?
+\x0E\x01\x09\x04\x00\x03Un albero capace di fiorire per\nmigliaia di anni... dove potrei\ntrovare un <r<bulbo >>del genere?
+\x0E\x01\x09\x04\x00\x0BOh! Hai piantato il germoglio!\n\n\n\nGià si sente la sua forza vitale!\nSi trasformerà in un albero la cui\nbellezza risplenderà nel futuro.
+\x0E\x01\x09\x04\x00\x03Già si sente la sua forza vitale!\nSi trasformerà in un albero la cui\nbellezza risplenderà nel futuro.
+\x0E\x01\x09\x04\x00\x01Non hai ancora portato a termine il tuo\nincarico...\n\n\nDevi fare tutto ciò che sei destinato a\nfare per <b<Zelda>>, immersa nel suo\nsonno eterno.
+\x0E\x01\x09\x04\x00\x12Argh?! Sei tu, Link?\nGhiraim mi ha sconfitta...\n\n\nNon preoccuparti per me...\nVai a inseguirlo!
+È scappato dalla <r<porta anteriore>>...\nPuoi ancora farcela... Sbrigati!
+\x0E\x01\x09\x04\x00\x12È scappato dalla <r<porta anteriore>>...\nPresto! Insegui <b<Ghiraim>>!
+\x0E\x01\x09\x04\x07\xC0BStai tranquillo! <b<Zelda >>è al sicuro!\nSta riposando nell'altra stanza.\n\n\n\x0E\x01\x09\x04\x0F\x700Certo, Mortipher si è risvegliato...\nNe sono sorpresa anch'io.\n\x0E\x01\x04\x02\nSei la nostra ultima speranza!\n\x0E\x01\x09\x04\x00\x706Mi raccomando, Link!
+\x0E\x01\x09\x04\x07\xC04Stai tranquillo! <b<Zelda >>è al sicuro!\nSta riposando nell'altra stanza.\n\n\n\x0E\x01\x09\x04\x00\x706Sconfiggi il mostro e salva il\nmondo, Link!
+\x0E\x01\x09\x04\x0E\x20DUff...! Sono salvo per un pelo!\n\n\n\n\x0E\x01\x09\x04\x00\x200Se non fosse stato per il mio sprint\nultravigoroso!\n\n\n\x0E\x01\x09\x04\x00\x200A <b<Zelda >>ci penso io, non ti\npreoccupare! Tu corri a\ninseguire <b<Mortipher>>!\n\n\x0E\x01\x09\x04\x00\x203Lascio tutto nelle tue mani,\nLink!
+Devi sconfiggere Mortipher!\n\x0E\x01\x09\x04\x00\x03Ora tutto è nelle tue mani,\nLink!
+\x0E\x01\x12\x04\x00\x0BLink, mio signore, Faih a\nrapporto. Probabilità di non fare\nritorno se non sconfiggerete il vostro\navversario: 100%.\nSiete pronto?\n[1]Sì[2-]No
+\x0E\x01\x12\x04\x00\x05Certamente, mio signore. Quando\nsarete pronto tornate pure qui.
+\x0E\x01\x12\x04\x00\x05Certamente, mio signore.~~~ La vostra\nservitrice Faih è sempre pronta a\neseguire gli ordini del \x0E\x01\x12\x04\x00\x02suo signore...\n\x0E\x01\x04\x02\x1EChe la fortuna sia con voi!
+Link, \x0E\x01\x12\x04\x00\x04mio signore,\ndesiderate tornare indietro e\nprepararvi prima della battaglia?\n[1]Buona idea![2-]Non serve
+Certamente, \x0E\x01\x12\x04\x00\x05mio signore.\nQuando avrete terminato con\ni preparativi, tornate qui.
+\x0E\x01\x12\x04\x00\x05Sì, mio signore...
+Link, \x0E\x01\x12\x04\x00\x04mio signore,\nsiete pronto per la battaglia?\n[1]Pronto![2-]Non ancora
+Certamente, \x0E\x01\x12\x04\x00\x05mio signore.\nAndiamo!
+Certamente, \x0E\x01\x12\x04\x00\x05mio signore.\nQuando avrete terminato con\ni preparativi, tornate qui.
+\x0E\x01\x05\x04-\x00\x0E\x01\x08\x02\x2CDPivello!

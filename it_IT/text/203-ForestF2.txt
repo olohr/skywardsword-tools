@@ -1,0 +1,193 @@
+Lago di Floria
+
+\x0E\x01\x05\x04<\x00\x0E\x01\x08\x02\x2CDKyuuu!
+\x0E\x01\x09\x04\x00\x14Chi osa disturbare il mio sonno?!
+\x0E\x01\x09\x04\x01\x01Per tutte le foglie di tè!\nMa tu sei un umano?!\n\n\nIo sono l'<b<eremita>> custode della foresta.\n\n\n\n\x0E\x01\x09\x04\x01\x06Non so come hai fatto ad arrivare fin\nqui, ma dimmi un po'...\nTu riesci a vedermi?!\n[1]Certo[2]No
+\x0E\x01\x09\x04\x01\x04Nah! Sei di nuovo tu?!\nTi serve qualcosa?\n[1]Sì[2-]No
+\x0E\x01\x09\x04\x01\x01\x0E\x01\x06\x02\xFCCDEh...?~~~\n\x0E\x01\x06\x02ÍCi siamo già visti da qualche parte, no?\n[1]Sì[2]Non credo
+\x0E\x01\x09\x04\x00\x07Capisco... Stai giocando in <r<modalità\neroica>>!\nSuppongo che tu sappia già cosa fare...\n[1]Certo[2]No...
+\x0E\x01\x09\x04\x00\x03Sicuro? È solo un'impressione...?\nAllora forse si tratta di un deja\x2010vu...
+\x0E\x01\x09\x04\x00\x03Lo hai già dimenticato?\nCredo che allora passerai un brutto\nquarto d'ora...
+\x0E\x01\x09\x04\x00\x07Mah! Che sfrontato!\nNon riescono a vedermi\nnemmeno i miei simili, i Kyuri!
+\x0E\x01\x09\x04\x03\x0BFalso come un tè alle olive!\n\n\n\n\x0E\x01\x09\x04\x01\x14Mi sei venuto a svegliare apposta e\npretendi che io creda che non mi vedi?!\nPfui!
+\x0E\x01\x09\x04\x03\x06Comunque sia...~~~\nChe ci fa un umano da\nqueste parti?\n[1]Dov'è la\nfiamma?[2]Niente
+\x0E\x01\x09\x04\x01\x01Oho! Stai cercando la fiamma\nper rafforzare la tua spada perché devi\nandare a cercare un'amica?!\n\nUhm... Quindi...~~~\nSei un umano che non solo\nmi vede, ma cerca pure la fiamma!
+\x0E\x01\x09\x04\x01\x14Come ti ho detto,\nio sto qui a sorvegliare la foresta...\n\n\nSo tutto! Stai cercando la fiamma\nper rafforzare la tua spada!
+\x0E\x01\x09\x04\x01\x06Quello che sto per dirti\ndeve assolutamente restare\ntra di noi, promettilo!\n[1]Prometto[2]No
+\x0E\x01\x09\x04\x03\x08Bene, bene! Allora adesso\nti dirò tutto, ma non dirlo a nessuno!
+\x0E\x01\x09\x04\x03\x14\x0E\x01\x08\x02\x2CDNo?! Cosa odono le\nmie orecchie?\nHai detto no?\n\n\x0E\x01\x09\x04\x01\x06Mi propongo di affidarti un segreto\ninestimabile e tu rifiuti di promettere?\n[1]Prometto[2]Rifiuto
+\x0E\x01\x09\x04\x03\x0B\x0E\x01\x08\x02\x2CDC\x2010c\x2010c\x2010coooosa?!?\n\n\n\n\x0E\x01\x09\x04\x01\x03Sei uno sfrontato.~~~\nVisto che sei venuto fin qui\napposta, te lo dirò comunque.
+\x0E\x01\x09\x04\x03\x04La fiamma di cui sei in cerca...~~~\nDeve senz'altro essere\n<pling>la <b<fiamma di Farore>>.\n\n\x0E\x01\x09\x04\x01\x00La fiamma di Farore...~~~\nEssa risale a tempi remoti...\nquando la Dea viveva tra noi.
+\x0E\x01\x09\x04\x00\x02Fu affidata al grande spirito\nche regna sulla <b<foresta di Firone>>,\nil <b<drago d'acqua>>.
+\x0E\x01\x09\x04\x00\x04Si narra che sia stata\nlasciata dalla Dea per <b<colui che\nsarebbe arrivato dal cielo >>un dì!
+Pensandoci bene, potresti\nessere proprio tu!\n\n\n\x0E\x01\x09\x04\x03\x09Ottimo, direi che potresti\nandare da lei, dal drago d'acqua!
+A sud della foresta si trova un \ngrande lago. Lì risiede il drago\nd'acqua, colei che protegge la fiamma.
+\x0E\x01\x09\x04\x00\x04Ma c'è un però! L'ingresso\nche conduce al lago è serrato\nper impedire l'accesso agli intrusi!\n\n\x0E\x01\x09\x04\x00\x07Per tua fortuna, io posso\nsvelarti come aprirlo!
+\x0E\x01\x09\x04\x01\x04Il simbolo ritratto sul cancello~~~\ndeve essere inondato di <r<potere\ndivino>>.\n\n\x0E\x01\x09\x04\x00\x09C'è dell'altro!~~~\nAl simbolo manca una parte,\ndeve quindi essere completato.
+\x0E\x01\x09\x04\x03\x01Per sapere che aspetto ha la parte\nmancante, dovrai cercare un simbolo\nidentico a quello del cancello.
+\x0E\x01\x09\x04\x01\x04L'opposto del Sud mi risulta\nsia il Nord...\nProva a cercare dalle parti di questo\nsegno \x0E\x02\x04\x02\x19CD.
+\x0E\x01\x09\x04\x01\x06Allora? Pensi di\nricordarti il luogo del simbolo?\n[1]Certo![2-]Mmh, no!
+\x0E\x01\x09\x04\x00\x03Sei alquanto smemorato...
+\x0E\x01\x09\x04\x00\x03Per completare il simbolo della parte\nmancante, devi investire il cancello a\nsud della foresta del potere della Dea.
+\x0E\x01\x09\x04\x00\x09Usa un faro celeste, così potrai\ntrovare facilmente il luogo\ncontrassegnato da \x0E\x02\x04\x02\x19CD.
+\x0E\x01\x09\x04\x03\x07Allora buon viaggio e fai attenzione!
+\x0E\x01\x09\x04\x00\x13Resterò qui a riposare.
+\x0E\x01\x09\x04\x03\x0FDimenticavo di dirti una cosa!~~~\nIl drago d'acqua è una tipa molto fiera.\nStai attento a come le parli.\n\n\x0E\x01\x09\x04\x01\x00Se la offendi...\x0E\x01\x04\x02<\n\x0E\x01\x09\x04\x00\x0Bè capace di strizzarti come\nuna bustina di tè usata!
+\x0E\x01\x09\x04\x03\x06Non dirle per nessunissimo\nmotivo che ti ho parlato della\nfiamma di Farore! Capito?!\n\n\x0E\x01\x09\x04\x01\x00Non ho alcuna intenzione\ndi aromatizzare le sue tisane!\n\n\n\x0E\x01\x09\x04\x03\x07E faresti meglio a contarti\nle parole in bocca quando le parli!
+\x0E\x01\x09\x04\x01\x0B\x0E\x01\x05\x04<\x00\x0E\x01\x08\x02\x2CDAspetta un attimo!
+\x0E\x01\x09\x04\x01\x01Per mille foglie di tè!\nImpara un po' di educazione!\n\n\n\x0E\x01\x09\x04\x01\x06Come? Il drago d'acqua t'ha\nchiesto di portarle dell'acqua sacra?\n\n\nAll'interno del santuario credo ci sia\nuna fonte cristallina. L'acqua di una\ndelle cascate dovrebbe andarle bene...
+\x0E\x01\x09\x04\x01\x01Per mille foglie di tè!\nImpara un po' di educazione!\n\n\n\x0E\x01\x09\x04\x01\x07Oho! Hai trovato l'acqua\nche il drago d'acqua voleva!\n\n\nDille pure che è un regalo\nda parte mia!
+\x0E\x01\x09\x04\x01\x01Per mille foglie di tè!\nImpara un po' di educazione!\n\n\n\x0E\x01\x09\x04\x01\x07Sei riuscito ad aprire il\ncancello per andare al lago!\n\n\nNon osare dire al drago d'acqua\nche sono stato io a dirti come fare!!!
+\x0E\x01\x09\x04\x01\x01Piantala di sbucare così\nall'improvviso!!!\n\n\n\x0E\x01\x09\x04\x01\x07Così si fa! Sei riuscito\na far riconoscere il tuo valore\ndal drago d'acqua...\n\nSappi che comunque io non \nfui da meno, taaaaaanto tempo\nfa!
+\x0E\x01\x09\x04\x01\x14Eccoti di nuovo qui, giovane virgulto!\nTi avevo pur detto di non dire niente\nal drago d'acqua...\n\nQuando ho visto allagarsi la\nforesta m'è preso un colpo!\nHo pensato che stesse venendo\na mangiarmi!\n\x0E\x01\x09\x04\x01\x07Invece, per fortuna, regna di nuovo\nla pace sulla foresta e sono diminuiti\ni mostri!
+\x0E\x01\x09\x04\x00\x01Ciao, giovane virgulto.\nTi ricordi di me? Sei riuscito a trovare\nla tua amica?\n[1]Chi sei?[2]Non ancora...
+\x0E\x01\x09\x04\x11\x13Ma come chi sono?!\x0E\x01\x04\x02\x1E\nVorrei che ti ricordassi di me...\n\n\n\x0E\x01\x09\x04\x0B\x04Ti insegno come fare per riconoscerci!\nSe punti il cursore su uno di noi\nsulla mappa, ti apparirà il nome!
+\x0E\x01\x09\x04\x11\x13Che tristezza.\nSbrigati a trovarla!
+\x0E\x01\x09\x04\x00\x07Finalmente sono spariti quei\nterribili invasori! Ora sì che si può\ntornare a vivere sereni!\n\n\x0E\x01\x09\x04\x00\x04Sarebbe magnifico se anche\ntu potessi tornare ai tempi in cui\ntu e la tua amica eravate insieme!
+\x0E\x01\x09\x04\x09\x0CFino a quando dovremo\nvivere così nella paura?\n\n\n\x0E\x01\x09\x04\x07\x13Esisterà un luogo dove\nsi può vivere in pace? Vorrei\npoter distendere la schiena!
+\x0E\x01\x09\x04\x09\x0CTutti dicono che sulla foresta\nè tornata a regnare la pace...\nio non ci credo.\n\n\x0E\x01\x09\x04\x07\x13Esisterà un posto dove si può\nvivere senza preoccupazioni?\nVorrei distendermi un po'!
+\x0E\x01\x09\x04\x00\x07Noi viviamo qui perché è comodo!\nAbbiamo pure dell'ottimo cibo!
+\x0E\x01\x09\x04\x00\x04È bello vivere in pace!\nAnche se ora ho fin troppo\ntempo libero!\n\n\x0E\x01\x09\x04\x11\x05Un vero lusso!
+\x0E\x01\x09\x04\x00\x14Noi ci siamo rifugiati qui!\nNon dovresti venire!\nE se poi i mostri ti seguono?
+\x0E\x01\x09\x04\x11\x13M'hai trovato di nuovo!\nSei imbattibile, tenero virgulto!\n\n\n\x0E\x01\x09\x04\x0B\x07Come premio ti donerò\nqualcosa che ho trovato\nmentre ero nascosto!
+\x0E\x01\x09\x04\x00\x14Non dirlo a nessuno!
+\x0E\x01\x09\x04\x00\x13Non c'è gusto a nascondersi,\nmi trovi subito!
+\x0E\x01\x09\x04\x00\x04Di tanto in tanto, fa bene\nstare un po' a pensare...\n\n\n\x0E\x01\x09\x04\x00\x01Stare seduti e rilassati\nfa bene al corpo e all'anima!
+\x0E\x01\x09\x04\x00\x03Non hai trovato la tua\namica in fondo alla foresta?!\n\n\n\x0E\x01\x09\x04\x00\x02Non appassirti! Vedrai\nche anche voi, come noi,\nvi rincontrerete!
+\x0E\x01\x09\x04\x00\x0EOoh! Ma sei riuscito a ottenere\nla scaglia del drago d'acqua!\n\n\n\x0E\x01\x09\x04\x00\x02Con quella potrai nuotare\nliberamente come un drago\nvola nel cielo!
+\x0E\x01\x09\x04\x00\x03C'è ancora un luogo in cui non\nsei mai stato, qui nella foresta!\n\n\n\x0E\x01\x09\x04\x00\x08Usa il potere della scaglia\nper trovarlo, no?
+\x0E\x01\x09\x04\x00\x03Ci sono dei posti in questa foresta\nche non hai ancora visitato, vero?\n\n\n\x0E\x01\x09\x04\x00\x08Se sfrutti il potere della scaglia del\ndrago d'acqua e premi (A) quando sei\na pelo d'acqua, puoi <g<immergerti>>.
+\x0E\x01\x09\x04\x00\x06Oh oh oh!
+\x0E\x01\x09\x04\x00\x0ECosa?! Sei riuscito\na entrare dentro l'albero?!
+\x0E\x01\x09\x04\x00\x02Prova a scalare l'albero fino in\ncima... c'è una splendida vista\nda lì! E magari scopri qualcosa\ndi interessante!
+\x0E\x01\x09\x04\x00\x0ECosa dici?! Sei appena tornato\ndalla cima dell'albero?!\n\n\n\x0E\x01\x09\x04\x00\x08Come?! C'era qualcuno sulla cima?\nDevo andare a controllare...
+\x0E\x01\x09\x04\x00\x0EHai incontrato l'eremita?\nEro convinto che noi Kyuri\nfossimo solo cinque...
+\x0E\x01\x09\x04\x00\x02Il mondo è vasto...\nAnch'io vorrei incontrare\nl'eremita!
+\x0E\x01\x09\x04\x00\x0EHai incontrato il drago d'acqua?\nChe invidia...!
+\x0E\x01\x09\x04\x00\x0EIl drago d'acqua ha riconosciuto\nil tuo valore?! Sorprendente!
+\x0E\x01\x09\x04\x00\x02Un po' mi dispiace che\nl'acqua si sia ritirata... era da tempo\nche non mi sentivo così bene...
+\x0E\x01\x09\x04\x00\x08Notizie di Algo?\nCome si trova lì nel suo nuovo\nparadiso?
+\x0E\x01\x09\x04\x00\x08Allora... è vero che Algo vuole andar\nvia dalla foresta da solo?\nChissà perché...
+Siete giunto in cima all'albero.\n\n\n\nOsservando l'area circostante\nda qui, dovreste poter riconoscere\nle zone che non avete ancora esplorato.
+\x0E\x01\x12\x04\x00\x01Mio signore, guardate...
+Avete trovato un altro membro\ndei Kyuri.\n\n\nProbabilità che il russare di questo\nesemplare corrisponda ai rumori\npercepiti poc'anzi: 90%.
+
+Procedo all'analisi dell'acqua\nrimanente nell'orcio\x0E\x01\x06\x02\xFCCD...~~~\n\x0E\x01\x06\x02Í<pling>Il <r<rilevatore>> è impostato,\npotete continuare la ricerca.
+\x0E\x01\x12\x04\x00\x01Signore, non possedete nulla con cui\ntrasportare l'acqua. Per prima cosa,\nprocuratevi un recipiente vuoto in cui\nraccoglierla.
+\x0E\x01\x12\x04\x00\x01Signore, possedete un'<y<ampolla>>.\nPotrete usarla per trasportare l'acqua.
+Procedo all'analisi dell'acqua rimasta\nnell'orcio\x0E\x01\x06\x02\xFCCD...~~~ \x0E\x01\x06\x02Í\x0E\x01\x12\x04\x00\x01Signore, la <pling><r<composizione\ncorrisponde >>a quella dell'acqua della\nfonte celeste.
+Probabilità che questo simbolo\nsia quello di cui parlava l'eremita:\n80%.
+Vi suggerisco di tenere bene\na mente la forma.
+Congratulazioni,\n\x0E\x01\x12\x04\x00\x04mio signore Link.
+\x0E\x01\x12\x04\x00\x01Signore, avete superato con\nsuccesso la prova. Avete acquisito la\nforza necessaria per cercare la fiamma\nsacra.
+Questa <y<scaglia del drago d'acqua>>\nè una delle eredità lasciate dalla Dea.\n\n\nGrazie alla forza del grande spirito\ndel<b< drago d'acqua >>potrete immergervi\nin profondità.
+La fiamma si trova da qualche parte\nnella foresta, \x0E\x01\x12\x04\x00\x01mio signore.\nIpotizzo si tratti di un luogo dove\nancora non vi siete recato.
+\x0E\x01\x12\x04\x00\x0BSignore, Faih a rapporto.\n\n\n\nCi troviamo a sud\x2010ovest della foresta\ndi Firone. Vi prego di verificare sulla\nmappa la posizione.
+Confermo l'abbassamento del livello\ndell'acqua nella foresta di Firone e\nil ritorno allo stato originario.
+\x0E\x01\x12\x04\x00\x01Signore, vi prego di ascoltare con\nattenzione. Riuscite a sentire\nqualcosa?
+
+L'<r<orcio d'acqua>> è pieno. Probabilità\nche possa spegnere le fiamme del\nvulcano: 85%.\n\n<pling>Suggerisco di chiederlo in\nprestito al drago d'acqua.
+Probabilità che quest'<r<orcio d'acqua\n>>possa spegnere le fiamme, una volta\nportato fino al vulcano: 85%.\n\nSuggerisco di chiederlo in\nprestito al drago d'acqua.
+Volete che chiami quel robot per\ntrasportare l'<r<orcio d'acqua >>fino al\nvulcano?\n[1]Sì[2]Lui no!
+Bene...~~~\nDesiderate che chiami quel robot?\n[1]Sì[2]Lui no!
+\x0E\x01\x12\x04\x00\x05Bene, signore.\nLo chiamo immediatamente.
+\x0E\x01\x12\x04\x00\x01Mio signore...~~~ non credo sia\nil momento di fare gli schizzinosi.\nLo chiamo immediatamente.
+\x0E\x01\x12\x04\x00\x01Signore...~~~ non è il momento\ndi fare gli schizzinosi, vi prego\ndi contenervi.\nLo chiamo immediatamente!
+\x0E\x01\x12\x04\x00\x01Signore, torniamo anche noi\nin cielo e dirigiamoci verso il\nvulcano.
+\x0E\x01\x09\x04\x00\x0FUhm... uhm...
+\x0E\x01\x09\x04\x00\x01\x0E\x01\x08\x02\x2CD!!!\n\n\n\nSei un umano?!
+\x0E\x01\x09\x04\x00\x0FTi trovi in un luogo sacro, nonché\nnel luogo in cui vivo.\n\n\n\x0E\x01\x09\x04\x09\x700Non è un luogo adatto a gente come te.\n\n\n\nCome hai fatto ad arrivare qui?!\n[1]Sei il drago?[2]Mi sono perso
+\x0E\x01\x09\x04\x07\x903Indubbiamente sì. Sono <b<Firone>>,\nil drago d'acqua, colei che la Dea ha\nincaricato di custodire queste terre.\n\nMalgrado il mio aspetto, sono una\nmeravigliosa ancella della Dea.\n\n\n\x0E\x01\x09\x04\x09\x900\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n\n\x0E\x01\x09\x04\x00\x07Mmh?!
+\x0E\x01\x09\x04\x09\x900\x0E\x01\x06\x02\xFECDTu... ~~~possiedi una delle\n\x0E\x01\x09\x04\x00\x06\x0E\x01\x06\x02\x2CD<b<mie scaglie>>!?\n\n\n\x0E\x01\x09\x04\x09\x700È un oggetto che dovrebbe trovarsi\nsolo nelle mani del prescelto dalla Dea.\n\x0E\x01\x09\x04\x00\x05Sei tu, dunque?\n\n\x0E\x01\x09\x04\x07\x700Tuttavia, ciò non spiega ancora come\npossa un umano trovarsi in questo\nluogo...
+\x0E\x01\x09\x04\x07\x704Umpf... capisco...\x0E\x01\x04\x02\x1E\nHai parlato con il Kyuri eremita...\n\n\n\x0E\x01\x09\x04\x09\x910Mi sembrava di avergli raccomandato\ndi non farne parola con nessuno!\nAppena lo incontro me lo mangio!\n\n\x0E\x01\x09\x04\x07\x900Mah... comunque sia...\x0E\x01\x04\x02\x1E\nSei dunque venuto fin qui\nin cerca della <r<fiamma sacra>>?\n[1]Certo[2]Non ricordo
+\x0E\x01\x09\x04\x09\x704Umpf... come immaginavo.
+\x0E\x01\x09\x04\x09\x700In ogni caso, non posso certo\ncredere che un ragazzino deboluccio\ncome te sia davvero il prescelto.\n\n\x0E\x01\x09\x04\x07\x703Devo metterti alla prova.\n\n\n\nTale <b<Ghiraim>>, che si professa patriarca\ndei maghi, mi ha ferita gravemente...
+\x0E\x01\x09\x04\x07\x70FCome vedi, sono qui ad\nattendere che l'<b<acqua sacra\n>>di questo orcio mi curi.\n\n\x0E\x01\x09\x04\x09\x700Ma, attualmente, gli effetti sono\nimpercettibili... Necessito di un'acqua\ndalla rinnovata forza.\n\n\x0E\x01\x09\x04\x09\x906Voglio che tu mi <pling><r<procuri dell'acqua\nsacra>> uguale a quella presente\nin questo orcio.
+Se accetterai, ti guiderò nella\ntua ricerca della <r<fiamma sacra>>.\nCosa ne pensi?\n[1]Accetto[2-]Rifiuto
+\x0E\x01\x09\x04\x09\x706Bene, vai.\nE non farmi aspettare\ntroppo a lungo.
+\x0E\x01\x09\x04\x09\x910Come osi prenderti\ngioco di me, ragazzino?!\n\n\nStai molto attento, potrei\nmangiarti quella piccola\ntestolina in un sol boccone!
+\x0E\x01\x09\x04\x09\x706Portami l'<b<acqua sacra>> e io\nti guiderò verso la fiamma.\n[1]Va bene[2-]No
+\x0E\x01\x09\x04\x07\x706Portami l'acqua e io\nti guiderò verso la fiamma sacra.
+\x0E\x01\x09\x04\x07\x709Ooh!\nSenza dubbio si tratta dell'<b<acqua\nsacra>>. L'hai portata davvero fin qui!\nSbrigati, versala in questo orcio.
+\x0E\x01\x09\x04\x09\x704Umpf... lo immaginavo.\nDel resto sei solo un umano.
+\x0E\x01\x09\x04\x09\x910\x0E\x01\x08\x02\x1CDNon prenderti gioco\ndi me, ragazzino!\n\n\n\x0E\x01\x09\x04\x01\x900Devo mettere alla prova\nil tuo spirito intrepido e coraggioso.
+\x0E\x01\x09\x04\x00\x05Se procedi in questa\ndirezione, potrai raggiungere\nla foresta di Firone.
+\x0E\x01\x09\x04\x09\x707Cosa?! Possiedi già\nl'acqua?! Presto! Versa l'<b<acqua\nsacra >>in quest'orcio.
+\x0E\x01\x09\x04\x09\x900Sì! Sento già il\nmio potere tornare vigoroso!
+Guardami bene!\nQuesto è il mio vero aspetto!\n\n\nIl vero aspetto del drago d'acqua\n<b<Firone>>, ancella della Dea a cui\nsono state affidate queste terre!
+\x0E\x01\x09\x04\x09\x700Bravo, umano. Mi hai portato\nl'<b<acqua sacra>>, come ti\navevo chiesto.\n\nNon è quindi un caso che tu\nabbia superato la prova della\nDea e ottenuto la <b<mia scaglia>>.
+\x0E\x01\x09\x04\x09\x700Bravo, umano. Mi hai portato\nl'<b<acqua sacra>> che desideravo.\n\n\nNon è quindi un caso che tu\nabbia superato la prova della\nDea e ottenuto la <b<mia scaglia>>.
+\x0E\x01\x09\x04\x07\x700Ora è giunto il momento per me\ndi mantenere la promessa.\nTi guiderò alla <r<fiamma sacra>>.\n\nSeguimi!
+\x0E\x01\x09\x04\x07\x70FGhiraim la pagherà...
+\x0E\x01\x09\x04\x07\x702Dovrai impegnarti a fondo\nper dominare il potere di cui\nora è dotata la tua spada.
+\x0E\x01\x09\x04\x07\x702Le creature malvagie della\nforesta sono state debellate.\nSono soddisfatta.\n\nE vedo che sei riuscito a controllare\nil potere della tua spada.\n\n\n\x0E\x01\x09\x04\x07\x704La prima volta che sei venuto qui,\navevi l'aria un po' sperduta...\x0E\x01\x04\x02\x1E\nIl tuo sguardo ha acquistato\nfierezza.\n\x0E\x01\x09\x04\x07\x706Ma dovrai continuare a temprarti\nper compiere il destino di cui la\nDea ti ha fatto carico.
+\x0E\x01\x09\x04\x07\x705Guarda.
+\x0E\x01\x09\x04\x00\x300\x0E\x01\x05\x04<\x00\x0E\x01\x08\x02\x1CDMmh\x0E\x01\x06\x02\xFCCD... ... ...
+
+\x0E\x01\x09\x04\x00\x06Bene, la fiamma sacra\nè in questa direzione.\n\n\nDa tempi assai remoti è custodita in \nquesto luogo dietro la cascata infestato\nda numerose creature malvagie.
+\x0E\x01\x09\x04\x07\x704Se tu sei davvero il prescelto dalla\nDea, non dovresti incorrere in grossi\nproblemi.\n\nSicuramente ci rincontreremo,\nsii prudente.\n\n\n\x0E\x01\x09\x04\x07\x703Arrivederci.
+\x0E\x01\x09\x04\x00\x06Oh, sei tu!\nSei riuscito a controllare il potere\ndella tua spada?\n\n\x0E\x01\x09\x04\x07\x707Come dici? Vorresti che io ti\nprestassi questo <r<orcio d'acqua>>?\x0E\x01\x04\x02\x1E\n\n\n\x0E\x01\x09\x04\x00\x05Umpf...~~~ non ci sono problemi.\nIl mio potere è forte e vigoroso,\nnon mi serve più quest'acqua.\n\n\x0E\x01\x09\x04\x07\x706Fanne l'uso che preferisci.
+\x0E\x01\x09\x04\x07\x707Come? Ti serve nuovamente\nl'<r<orcio d'acqua>>?\x0E\x01\x04\x02\x1E\n\n\n\x0E\x01\x09\x04\x00\x05Umpf...~~~ prego...\nEra venuto a rendermelo giusto\npoc'anzi un piccolo insolente.\n\n\x0E\x01\x09\x04\x07\x706L'ho perdonato, per giustizia nei\ntuoi riguardi. Ma ti consiglierei di\neducarlo a dovere.
+\x0E\x01\x09\x04\x07\x702Potrai rendermi l'orcio d'acqua\nquando non ne avrai più bisogno,\nnon ti crucciare.
+
+\x0E\x01\x09\x04\x07\x702Vedo che la tua spada è \nora più potente.
+Nonostante tu sia un ragazzino,\nsei il prescelto dalla Dea.
+\x0E\x01\x09\x04\x07\x700Tuttavia, non comprendi ancora la\nforza che risiede nella tua spada...
+... il tuo cuore non è ancora pronto!
+\x0E\x01\x09\x04\x07\x700Arrivederci!
+\x0E\x01\x09\x04\x07\x707Cosa c'è? Vuoi forse chiedermi\nqualcosa sul drago di fuoco? O sul\ndrago del fulmine? O sulla foresta? \n[1]Fuoco[2]Fulmine[3]Foresta[4-]Niente
+\x0E\x01\x09\x04\x07\x704Umpf! Quello?~~~\nProprio come io faccio con la foresta,\negli protegge il vulcano, per conto della\nDea.\nÈ un tipo sui generis che risiede \nin un cratere dalla temperatura\ninsopportabile agli uomini e alle\ncreature malvagie.
+\x0E\x01\x09\x04\x07\x704Umpf! Quello?~~~\nProprio come io faccio con la foresta,\negli protegge il deserto, per conto\ndella Dea.\nÈ il più anziano della nostra specie,\ne dovrebbe pensare di più alla salute...~~~\nChissà come sta...
+\x0E\x01\x09\x04\x07\x704All'epoca in cui gli uomini\nvivevano sulla terra, si cantava\nla loro armonia con la natura...\n\nIn fin dei conti, non trovi che sia\npiù bella la foresta senza\ngli umani?
+\x0E\x01\x09\x04\x07\x706Devi continuare a perseverare\ne compiere il tuo destino di\nmessaggero della Dea.
+
+Ehi, tu! Pussa via! Blub!\nSe continui a seguirmi lo\ndico al drago d'acqua.
+Blub! Ancora un umano!\nBlub!\n\n\nLo ignorerò e sparirò...!\nBlub!
+Blub! Prova a prendermi,\nse ci riesci!\n\n\nNon riuscirai mai ad\narrivare fin qui! Blub!
+Se non sai nemmeno fare\nil <g<turbine>>, non mi raggiungerai\nmai! Blub!
+AAAH! BLUB! Come hai fatto?! \nSei un umano!!! Ma...\n\n\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n È la <b<scaglia del drago d'acqua\n>>quella? Blub!\n\n\nAllora significa che sei~~~\ncolui che il drago d'acqua chiamò\nil <r<messaggero guidato dalla Dea>>?\n\nPerciò, forse potrai aiutarla!\n[1]Cos'è\nsuccesso?[2]Portami\nda lei
+Blub! Un po' di tempo fa...~~~ un tizio\nstrano ha attaccato il drago d'acqua\ninsieme a dei mostri.\n\nGrazie alla sua forza, lei li ha\nsgominati quasi tutti.\nMa erano troppi e quel tipo strano...\nblub... è riuscito a colpirla.\nOra, con la poca acqua che ha, \nnon riesce a guarire.\nTi condurrò da lei, così potrai parlarle.\n\nSeguimi.
+Blub...? L'amico che dovevo\nincontrare qui non c'è...\n\n\nCome faccio? Il passaggio è anche\nbloccato da delle rocce...
+Puoi sbarazzarti di quei\npesci con gli aculei con un\n<r<turbine>>, se <g<scuoti il Nunchuk>>.
+Blub!!! Meraviglioso!!!\nIl drago d'acqua è da\nquella parte, seguimi!\n
+Di qua, di qua! Blub!\nVeloce, sbrigati! Blub!\n\n\nCosa?! Non ci passi?!\nEssere un umano è poco pratico,\nprova a passare da sopra!
+Se non ci riesci, blub,\nprova a passare dall'alto,\nblub!
+Blub! Bene, blub!!!\n\n\n\nMa è tutto merito della\nscaglia del drago d'acqua,\ncerto non tuo!
+Blub!!! Quel pesce è come\nquelli che sono venuti ad\nattaccare il drago d'acqua!
+Blub! Per tutte le maree!!!
+Blub!!! Sei proprio\nil messaggero della Dea!\nCe l'hai fatta!
+Blub! Siamo arrivati\nfinalmente!
+Il drago d'acqua è proprio oltre questa\nporta... Blub! Aspetta un attimo!
+Blub! Di qua...
+
+Blub! Il drago d'acqua è\nda quella parte. Vai\npure a parlarle!
+Parlale, parlale! Blub!
+Blub, aiuta in qualche modo\nil drago d'acqua! Blub!
+Aiutala, aiutala! Blub!
+Il drago d'acqua è di nuovo in\npiena forma! Ed è tutto merito\ntuo, blub!!!
+Blub! Blub!\nMerito tuo!
+Il drago d'acqua sta prendendo una\nboccata d'aria!\nBlub!
+È uscita, blub!
+Quando la foresta era totalmente\nallagata, io stavo qui di guardia!\nBlub!\n\nMi sono divertito molto, ma ora\nsono triste. Blub!
+Triste, blub!
+Blub! Blub!!! Non mangiarmi!\n[1]Drago?[2]Tranquillo!
+Mmh...\x0E\x01\x04\x02\x1E\nCerchi il drago d'acqua? Blub?\n\n\nUn umano che possiede la sua\nscaglia deve essere un suo\namico... ti porterò da lei!
+Il drago d'acqua è poco oltre...\nForse è il caso che tu prenda\nnota, blub!
+È un segreto, blub!
+Blub?~~~ Non mi mangi?\nMeno male, blub!\n\n\nSono venuti dei tipi molto violenti\ndi recente, blub! Mi sono nascosto\nper quello, blub!\n
+Mmh...\x0E\x01\x04\x02\x1E\nCerchi il drago d'acqua? Blub?\n\n\nIl drago d'acqua è molto gentile,\nma non farla arrabbiare! Diventa\nterrificante!!! Blub!!!
+Il drago d'acqua è molto gentile,\nma non farla arrabbiare! Diventa\nterrificante!!! Blub!!!
+Il drago d'acqua sta male,\nfa' qualcosa! Blub!
+Il drago d'acqua è di nuovo\nin forma! Blub! Grazie per\naver fatto qualcosa per lei!
+Che peccato che l'acqua\nsi sia ritirata, blub!
+Blub! Incredibile! Un umano\nche nuota così in profondità!\n\n\nPer caso sai fare il <r<turbine\n>><g<scuotendo il Nunchuk>>? Blub?
+Blub! Signor Umano? \nConosci il <r<salto avvitato>>?\n\n\nSe cerchi di eseguire un turbine\n<r<in direzione della superficie>>,\nrealizzerai un grande salto!
+Blub! Un umano! Blub!\x0E\x01\x04\x02\x14\nChe forma strana...! Blub!
+Un tempo questo era un luogo\npacifico, blub, e tranquillo,\nblub. Ora vengono strani\numani, blub!\nCi sono pure dei grossi pesci\nmolto aggressivi, blub! Non\nsi riesce più nemmeno a\ndormire, blub!
+Quello sta tentando di \ndiventare il pupillo del\ndrago d'acqua!\n\nNon glielo permetterò\nper niente al mondo!
+Blub! Non è una bella casa?\nPerò è difficile entrarci, blub!
+Ooh! Adorata Faih! Bzzz!\nEccomi qui per te!
+Uaoh... Ma è gigante!~~~\nComunque per me è facile come\navvitare una vite! Bzzz!
+Di nuovo quest'<r<orcio d'acqua>>...~~~\nNon c'è problema! Lascia fare a me!\nBzzz!
+Signor Verdino! Osserva bene\nquanto sono forte!\nBzzz!
+Bene! Come al solito vi\naspetterò in cielo! Bzzz!

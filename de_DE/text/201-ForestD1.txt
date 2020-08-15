@@ -1,0 +1,67 @@
+Tempel des\nHimmelsblicks
+Triff die Juwelen, die auf der\nKarte mit \x0E\x02\x04\x02\x19CD markiert sind.\nFinde die Karte in der zentralen\nKammer.
+Der du vom Himmel kommst,\nhöre auf deinen Diener, der\ndich ins Erdland gebracht hat.
+Die Türen der Kammern zur\nLinken und zur Rechten...\nTriff die Juwelen...\nEinmal oben, einmal unten.
+
+Ich spüre <b<Zeldas>> Aura.\nMit großer Wahrscheinlichkeit\nbefindet sie sich hinter dieser großen\nTür.
+
+Es scheint, als wäre der Mechanismus\nzum Öffnen der Tür deaktiviert\nworden.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich nehme in diesem Tempel\ndie Auren vieler Kreaturen wahr.\n\n\nDaher kann ich Zeldas Aura nicht\nisolieren\x0E\x01\x06\x02\xFECD...~~~\n\x0E\x01\x06\x02Í<pling>Somit ist die <r<Aurasuche >>momentan\n<r<nicht einsetzbar>>.\n\x0E\x01\x12\x04\x00\x01Ich schlage vor, dass du dich <g<umsiehst>>,\num dir einen Überblick zu verschaffen.
+\x0E\x01\x12\x04\x00\x04Gebieter, ich habe Informationen zum\nÖffnen dieser Tür.\n\n\nDie zum Öffnen der Tür benötigte\nVorrichtung muss sich in der Nähe\nbefinden.\n\nDie Wahrscheinlichkeit, diese\nVorrichtung durch sorgfältiges\n<g<Umsehen>> zu entdecken, beträgt 80 %.
+Ghirahims Untergebene scheinen die\nTür wieder verschlossen zu haben.\nDu musst den Schlüssel erneut suchen.
+Ich habe das soeben gefundene Item\nanalysiert. Seine insektenähnliche\nGestalt deutet auf <pling><r<Flugfähigkeit>> hin.\n\nNeige die Wii-Fernbedienung, um es\n<r<aus der Entfernung>> zu steuern und\nkleinere Objekte zu treffen oder mit\nseinen Zangen zu zerschneiden.\nUm nähere Informationen über dieses\nItem zu erhalten, aktiviere es durch\nDrücken von (B) und drücke dann (2).\x0E\x01\x11\x02\x1CD\x0E\x01\x11\x02\x5CD
+Ich gebe dir Informationen über den\n<y<Greifkäfer>>.\n\n\nNeige die Wii-Fernbedienung, um ihn\n<r<aus der Entfernung>> zu steuern und\nkleinere Objekte zu treffen oder mit\nseinen Zangen zu zerschneiden.\nAußerdem kann er leichte Objekte\naufheben und tragen.\n\n\nUm nähere Informationen über dieses\nItem zu erhalten, aktiviere es durch\nDrücken von (B) und drücke dann (2).\x0E\x01\x11\x02\x1CD\x0E\x01\x11\x02\x5CD
+Ich spüre noch mehr bösartige Wesen\nan diesem Ort als bei deinem ersten\nBesuch. Sei äußerst vorsichtig.
+Aus dem Inneren des Tempels spüre ich\ndie Aura <y<heiligen Wassers>>, aber du\nkannst<pling> <r<die Aurasuche hier nicht\neinsetzen>>.\nAufgrund der Stärke der Aura vermute\nich, dass sich das Wasser sehr tief im\nTempel befindet.
+Ich empfehle, den mit \x0E\x02\x04\x02\x19CD markierten\nPunkt zur Orientierung zu nutzen und\nin das Innere des Tempels vorzustoßen.
+Ich spüre <y<heiliges Wasser >>in der Nähe.\nEs gibt keine Störungen durch Auren\nvon Kreaturen, daher ist die\n<r<Aurasuche verfügbar>>.
+\x0E\x01\x12\x04\x00\x04Gebieter... Mit \x201EDiener\x201C bin\nvermutlich ich gemeint.\n\n\nUm meinem \x0E\x01\x12\x04\x00\x02Gebieter beistehen zu\nkönnen, hat mich die Göttin mit\numfangreichem Wissen über dieses\nLand ausgestattet.\nDu kannst mich jederzeit durch\nDrücken von (v) rufen.\n\x0E\x01\x11\x02\x9CD\n\nDu kannst auch etwas durch Drücken\nvon (Z) <g<anvisieren>> und mich mithilfe\nvon (v) rufen, damit ich dir genauere\nInformationen zu deinem Ziel gebe.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+Dies ist ein Wächter, der durch Magie\nerzeugt wurde. Sein sensibles Auge\nfolgt dem, was sich vor ihm befindet.
+Die beiden Augen scheinen hinter der\nWand miteinander verbunden zu sein.\nIch vermute, dass sie sich nicht\neinzeln besiegen lassen.
+\x0E\x01\x12\x04\x00\x04Gebieter, in der Nähe befindet sich\nein Ziel, das du anvisieren kannst.\n\n\nDrücke (Z), um ein Ziel <g<anzuvisieren\n>>und rufe mich mithilfe von (v). Ich\ngebe dir dann genauere Informationen\nzu deinem Ziel.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+\x0E\x01\x12\x04\x00\x04Gebieter, das Wasser hier ist... ~~~<r<ganz\nnormales Wasser>>.\n\n\nIch vermute, dass sich das <y<heilige\nWasser>>, welches der Wasserdrache\nbenötigt, sehr tief im Tempel befindet.
+Verflucht...\nDer ganze Ärger, diesen Monstern den\nSchlüssel abzuknöpfen... Umsonst!
+Ich habe ihn in einem Loch versteckt,\naber ich weiß nicht mehr, wo...
+Egal, der Schatz, hinter dem ich her\nbin, ist mehr wert als irgend so ein\nSchlüssel!
+Der Schlüssel sollte mir den Weg zu\ngewaltigen Reichtümern bahnen...~~~\nIch bin mir sicher, dass ich ihn hier <r<in\nder Nähe>> vergraben habe...
+Kann ich was für dich tun?\n\n[1]Was ist mit\ndem Schlüssel?[2]Was für ein\nSchatz?[3-]Nein, im\nGrunde nicht.
+Das gibt es doch nicht...\nIch finde ihn nicht...
+Ich weiß noch, dass ich den Schlüssel\nvergraben habe, aber mir fällt leider\nnicht mehr ein, an welchem Ort...
+Der Felstyp hat was von einem\n<y<goldenen Schlüssel>> erzählt, mit dem\nsich eine wichtige Tür öffnen lässt,\njawohl!
+Wo war das nur? In diesem Raum wohl\nnicht... Hast du vielleicht eine Karte?
+Du siehst aus, als wüsstest du was...
+Oh! Du hast meinen Schlüssel\ngefunden?
+Was?\nDu hast ihn selbst verwendet?
+Aber wenn ich so darüber nachdenke,\nbrauchen wir Mogma ja eigentlich\nkeine Schlüssel...
+Danke für deine Mühe!\nWeiter geht die Schatzjagd!
+Moment, dich habe ich doch schon am\nVulkan getroffen...
+Suchst du hier auch nach Schätzen?\n[1]Ertappt![2]Nein.
+Aha! Dachte ich mir's doch!\nIch kann an deinem Gesicht sehen, dass\ndu auf Schätze aus bist!
+Du brauchst gar nicht so zu tun!\nIch kann an deinem Gesicht sehen, dass\ndu auf Schätze aus bist!
+Bist du auch wegen der Geschichte\ndieses Felstyps hier?\n[1]Du meinst den\nGoronen?[2]Welche\nGeschichte?
+Man soll an Stellen im Tempel,\nan denen Schmetterlinge flattern,\n<pling>schöne <g<Klänge spielen>>...
+Aber das ist Unsinn!\nEgal, wie oft ich ein Liedchen summe,\nes passiert nichts!
+Aber wenn ich schon mal hier bin,\nsuche ich noch ein bisschen nach\nSchätzen!
+Das darf nicht wahr sein... Und dafür\nhab ich jetzt den langen Weg auf mich\ngenommen!
+Hier muss schon einer alles leer\ngeräumt haben... Es ist nix mehr\nda, nur noch <y<Wasser>>.
+Und wer braucht das denn?
+Ich geh heim.\nMan sieht sich!\n
+Hey! Willst du mich hintergehen?
+Hm...\x0E\x01\x04\x02\x1E\nDa ist ein komisches Muster auf der\nWand, und weiter?
+Der Felstyp hat Unsinn geredet,\neindeutig.
+Ich geh dann mal vor!
+Ich werde den Schatz zuerst finden!
+
+
+
+
+Nun...~~~ Für ein Kind hast du ganz\nbrauchbar gekämpft.\n\n\nAber bilde dir nichts darauf ein...~~~\nDu solltest lieber deinem Schwert\ndanken.
+Ich habe mich wohl zu lange mit dir\nabgegeben. Ihre Präsenz schwindet...~~~\nHier gibt es nichts mehr für mich.\nLebe wohl, Himmelskind.\nIch lasse dich gehen, aber komm mir\nkein zweites Mal unter die Augen.
+\x0E\x01\x05\x04K\x00Nettes Schwert.~~~\nAber solange ich die <r<Bewegungen\ndeines Schwertes>> sehe, blocke ich\njeden deiner Angriffe mit einer Hand.
+
+\x0E\x01\x12\x04\x00\x04Gebieter, wie ich gerade übersetzt\nhabe, hat sich <b<Zelda >>hier spirituell\ngereinigt.\n\nMit einer Wahrscheinlichkeit von 97 %\nhat sie sich zur nächsten Quelle in\n<b<Eldin>> begeben.\n\nWie sie sich fortbewegt ist allerdings\nunklar.
+Aber wenn wir die soeben gefundene\nSteintafel zum Podest im <b<Wolkenhort\n>>bringen...\n\n<pling>Dann wird vermutlich eine <r<neue\nLichtsäule>> erscheinen und wir können\ndie Suche nach Zelda fortsetzen.
+Ich empfehle, die <b<Statue>> vor dem\nTempel zu verwenden, um ins\nWolkenmeer zurückzukehren.
+Im Wald gibt es sicher einen Weg,\nzum Wolkenmeer zurückzukehren.
+Mit einer Wahrscheinlichkeit von\n95 % ist dies dasselbe Wasser wie im\nWasserbehälter des Wasserdrachen.\nGehen wir zurück zu ihm.
+Dieses Wasser unterscheidet sich von\ngewöhnlichem Wasser, da es eine\nhöhere Energie in sich birgt.\n\nWenn es mit einem Element derselben\nWellenlänge in Berührung kommt, wird\nes vermutlich verstärkt.

@@ -1,0 +1,30 @@
+Torre del Cielo
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\nConfermo la presenza di tre forze\nsacre nell'edificio.\n\nConcludo che si tratta della <y+<<pling>Triforza>>.\n\n\n\nHo contrassegnato con \x25B3 i punti da cui\nsento provenire la forza, suggerirei\ndi esplorare quelle zone.
+
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\nSi suppone che la vibrazione sia causata\nda <r<<pling>alterazioni strutturali >>dell'edificio.
+Grazie a tali alterazioni\nè ora possibile procedere\nnella stanza adiacente.
+Suggerisco di agire sul\n<r<pannello di controllo >>per\nrecuperare la <y+<Triforza>>.
+Si suppone che, sfruttando le\nalterazioni strutturali, sia possibile\nprocedere in un'altra stanza.
+Per aprire la porta, trova le\n<r<pietre brillanti>> dietro ogni\nstatua e colpiscile nel giusto\nordine a partire dal basso.
+\x0E\x01\x12\x04\x00\x01Mio signore...\nGuardate!
+Quel simbolo sul pavimento\nè l'<r<emblema di Farore>>.\n\n\nPercepisco la forza sacra\ndella <y+<Triforza >>provenire da lì.
+Per raggiungere l'emblema\nsuggerisco di avanzare\noltre la porta.
+
+
+
+Quel simbolo sul pavimento\nè l'<r<emblema di Nayru>>.\n\n\nPercepisco la forza sacra\ndella <y+<Triforza >>provenire da lì.\n\n\nMa la strada che conduce\nlì sembra chiusa...
+Suggerisco di agire sulla\n<y<sfera del tempo >>per aprirvi\nla strada verso l'<r<emblema>>.
+Guardate là, mio signore.\nÈ una <y<sfera del tempo>>!
+Quello sul pavimento\nè l'<r<emblema di Din>>.\n\n\nPercepisco la forza sacra\ndella <y+<Triforza >>provenire da lì.
+Ma sembra impossibile\nraggiungere l'emblema.\n\n\nSuggerisco di trovare una\ndiversa via di accesso\nalla stanza.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\nQuesta è la stanza dell'<r<emblema di\nDin>>, dove eravamo prima.
+Probabilità di raggiungere\nla forza sacra, superando\nquella lava: 60%.
+\x0E\x01\x12\x04\x00\x0BMio signore, Faih a rapporto.\nConfermo che la forza sacra\nsi trova in questa stanza.
+Suggerisco di procedere\ncon determinazione.
+
+
+
+
+
+
+\x0E\x01\x12\x04\x00\x0BMio signore Link,\nFaih a rapporto.\nAvete raggiunto l'emblema.\n\nOffrite la spada e vi verrà indicata\nla strada verso la <y+<Triforza>>.

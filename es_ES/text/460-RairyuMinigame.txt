@@ -1,0 +1,116 @@
+\x0E\x01\x09\x04\x0B\xC01¡Link!\nMe alegro de verte, hombre.\n¡Has hecho bien en venir!\n\n\x0E\x01\x09\x04\x00\x00¡Bueno, bueno, bueno!...\n¿Qué te parece si nos divertimos\nun poco, campeón?\n\n\x0E\x01\x09\x04\x00\xC00¿O quizá un espléndido guerrero como\ntú no tiene tiempo ni ganas para andar\nentreteniéndose con jueguecitos?\n\n\x0E\x01\x09\x04\x0D\xC00No te me hagas el interesante, anda...\nTe propongo una cosa: aprovechar tus\nexperiencias pasadas para echarnos\nun buen rato.\n\x0E\x01\x09\x04\x07\xC00¡Debes mirar al pasado para entender\nel futuro! Aprender de la experiencia,\npor así decirlo. Llámalo como quieras, \npero es un buen ejercicio. \nSe trata de enfrentarte de nuevo a las\ndificultades que ya has superado.\n\x0E\x01\x09\x04\x00\xC0A¿Qué me dices, Link?\n[1]¡Genial![2-]No sé yo...
+\x0E\x01\x09\x04\x00\xB06¡Ja! ¡Así habla un héroe de verdad!\nNo esperaba menos de ti, muchacho.\n\n\n\x0E\x01\x09\x04\x0B\xC00Ahora, con tu permiso, voy a echar un\nvistazo a tus experiencias pasadas.\n\n\n\x0E\x01\x06\x02\xFBCD(...)\n\n\n\n\x0E\x01\x09\x04\x00\xC08Vaya, vaya, vaya.\n¡Por lo que veo, has vivido aventuras\ncomo para llenar un libro entero!\n\nHas librado <r<combates>> contra temibles\nmonstruos... E incluso has salido bien\nparado de tu paso por <r<Hypnea>>. Estás\nhecho un campeón, ¿sabes?\n\x0E\x01\x09\x04\x0D\xC00Muy bien, ¡decidido!\nTe propongo dos desafíos diferentes.\n\n\n\x0E\x01\x09\x04\x00\xC00Elige el que prefieras.\n¿Por cuál te decantas?\n\n[1]Combate[2]Hypnea[3-]Ninguno
+\x0E\x01\x09\x04\x00\xC05¿Qué dices? ¿Cómo que no quieres?\n¡Así se te pasa el muermo, hombre!\nUf, menudo héroe estás tú hecho...\n\n\x0E\x01\x09\x04\x07\xC00Bueno, da igual. Si cambias de idea,\npuedes pasarte por aquí cuando\nquieras. ¡Te estaré esperando!
+\x0E\x01\x09\x04\x07\xC01¡Hombre, Link, campeón!\nDime, ¿quieres librar un <r<combate>> épico\no enfrentarte al juicio de <r<Hypnea>>?\n[1]Combate[2]Hypnea[3-]Nada
+\x0E\x01\x09\x04\x07\xC01¡Hombre, Link, campeón!\n¡Puedo ver en tus ojos que vienes\ndispuesto a pasártelo en grande!\n\n\x0E\x01\x09\x04\x00\xC00¿Te ves con arrestos para enfrentarte\nde nuevo a tus aventuras pasadas?\n\n[1]Claro que sí[2-]No sé yo...
+\x0E\x01\x09\x04\x0B\xC0D¡Pues que sea un <r<combate>>, entonces!\n¡Ja! ¡Sí señor, me gusta tu actitud!\n\n\nEn estos <r<combates>> deberás enfrentarte\na algunos de los rivales más duros de\nlos que te has encontrado hasta ahora.\n¡Tú eliges, quien más rabia te dé!\n\x0E\x01\x09\x04\x00\xC00Y yo usaré mi poder para recrear\nel momento de vuestra batalla.\nSe trata de volver a luchar...~~~\n¡y vencer!\nSi superas el reto con éxito, tengo un\npremio reservado para ti. ¡Espero que\nte tomes el asunto en serio!\n\n\x0E\x01\x09\x04\x0D\xC00Pero... \x0E\x01\x04\x02\naunque se trate de un juego,\nmás te vale emplearte a fondo. Esto es\nun combate real: <r<si el enemigo acaba\ncontigo, adiós muy buenas>>...\n¡Volverás a casa en una caja de pino!\n\x0E\x01\x09\x04\x00\xC0ABueno, ¿qué dices?... ¿Te atreves?\n\n[1]¡Claro![2-]Ni hablar
+\x0E\x01\x09\x04\x10\xC0B~~~Oye, campeón, ¿va todo bien?\nTe han dado una buena paliza...\n¿Te ves con fuerzas para seguir?\n[1]Sí[2-]No
+\x0E\x01\x09\x04\x07\xC09¿Estás seguro, muchacho?~~~\nBueno, es tu vida la que está en juego,\ntú decides... Tampoco puedo obligarte\na seguir si no quieres.\n\x0E\x01\x09\x04\x00\xC00En fin, de acuerdo. ¡Dicen que es mejor\nuna retirada a tiempo que quedarse\ncriando malvas en el campo de batalla!\nSi quieres volver a intentarlo, ya sabes.
+\x0E\x01\x09\x04\x07\xC06¡Ja! ¡Palabra de guerrero!\nA ver, ¿por dónde empezamos?...
+\x0E\x01\x09\x04\x00\x09Mmm, en tus inicios luchaste contra...\x0E\x01\x04\x02\x14\nAh, sí, ya lo tengo.\n¿Qué me dices de estos bicharracos?\n[1]Grahim[2]Malócula[3]Morgrad[4]El Durmiente
+\x0E\x01\x09\x04\x00\x09Si nos fijamos en la parte central\nde tu aventura... Veamos... \x0E\x01\x04\x02\x14¡Ya está!\n¿Qué me dices de estas bellezas?\n[1]Iruoma[2]Daidagos[3]Grahim[4]El Durmiente
+\x0E\x01\x09\x04\x00\x09Veamos tus combates más recientes...\x0E\x01\x04\x02\x14\nPor lo visto, el único que puede ser un\nbuen desafío es <b<El Durmiente>>.
+\x0E\x01\x09\x04\x00\x09Veamos tus combates más recientes...\x0E\x01\x04\x02\x14\n¿Qué te parecen estos dos desafíos?\n[1]El Durmiente[2]La Horda
+\x0E\x01\x09\x04\x00\x09Si prefieres un combate más reciente...\x0E\x01\x04\x02\x14\n¿Qué me dices de estos?\n[1]El Durmiente[2]La Horda[3]Grahim
+\x0E\x01\x09\x04\x00\x09Si prefieres un combate más reciente...\x0E\x01\x04\x02\x14\n¿Qué me dices de estos?\n[1]El Durmiente[2]La Horda[3]Grahim[4]Heraldo
+\x0E\x01\x09\x04\x00\x09¡Ja! Veo que prefieres un combate más\nreciente...\x0E\x01\x04\x02\x14 ¿Qué me dices de estos?\n[1]Iruoma[2]Daidagos[3]Grahim[4]El Durmiente
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, <b<Malócula>> es la elegida!\nEs el engendro con forma de bola\nde fuego con el que luchaste en el\n<b<templo terrenal>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, <b<Grahim>> es el elegido!\nEs el tipo ese tan grimoso contra\nel que luchaste en el <b<templo de la\ncontemplación>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, <b<Malócula>> es la elegida!\nEs el engendro con forma de bola de\nfuego con el que luchaste en el <b<templo\nterrenal>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, el <b<Morgrad >>es el elegido!\nEs aquel escorpión enorme con el que\nluchaste en la <b<refinería de Lanayru>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, <b<El Durmiente >>es el elegido!\nEs aquel bichejo enorme con el que\nluchaste en la <b<tierra del presidio>>.
+\x0E\x01\x09\x04\x0B\xC09¡Genial, <b<Iruoma >>es el elegido!\nEs el monstruo espadachín de seis\nbrazos con el que luchaste en la <b<gran\ncaverna ancestral>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, <b<Daidagos>> es el elegido!\nEs aquel mostrenco tan raro de un solo\nojo con el que luchaste en el <b<galeón de\nlas arenas>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, <b<Grahim>> es el elegido!\nEs el tipo ese tan grimoso contra el que\nluchaste por segunda vez en el <b<gran\nsantuario antiguo>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, <b<El Durmiente>> es el elegido!\nEs aquel bichejo enorme con el que\nluchaste por segunda vez en la <b<tierra\ndel presidio>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, <b<El Durmiente>> es el elegido!\nEs aquel bichejo enorme con el que\nluchaste por tercera vez en la <b<tierra\ndel presidio>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, eliges enfrentarte a <b<La Horda>>!\nSe trata de un batallón de monstruos\ninvocados por el amigo <b<Grahim>> en la\n<b<tierra del presidio>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Genial, <b<Grahim>> es el elegido!\nEs el tipo ese tan grimoso con el que\nluchaste por tercera vez en la <b<tierra\ndel presidio>>.
+\x0E\x01\x09\x04\x0B\xC0D¡Oh, eliges al <b<Heraldo de la Muerte>>!\n¡Pues sí que has luchado con enemigos\ntemibles, campeón! ¡Este verraco da\nescalofríos!
+\x0E\x01\x09\x04\x0D\xC00¡Epa! ~~~¡Se me había pasado comentarte\nuna cosa! Qué cabeza la mía...\n\n\nPara el combate solo dispondrás de\nlos objetos <r<que tenías en el momento\ndel combate original>>. Los mismos; \nni uno más, ni uno menos.\n\x0E\x01\x09\x04\x07\xC00<r<¡Y tampoco puedes echar mano de\nnada de la alforja!>> No sería justo...\nPor muy duro que sea tu enemigo,\nsigue siendo el mismo de antes.\n\x0E\x01\x09\x04\x00\xC00Así nadie parte con ventaja. Aunque,\nbueno... Si insistes, te dejo usar <r<el\nescudo que más te guste>>.
+\x0E\x01\x09\x04\x00\xC00Perfecto, pues si ya tienes todo lo que \nnecesitas... ¿empezamos?\n[1]¡Vale![2-]Mejor no
+\x0E\x01\x09\x04\x07\xC0D¡Valor, muchacho!
+\x0E\x01\x09\x04\x00\xC05¡Ja! ¿Se te ha acabado el ardor\nguerrero, campeón?...\x0E\x01\x04\x02\x14 Qué lástima.\nEn fin, por mí no hay problema. Si te\nves con ganas de más gresca, ya sabes.\n\x0E\x01\x09\x04\x07\xC00Y si querías cambiar de escudo,\nequípate con el que te venga en\ngana y vuelve a hablar conmigo.
+\x0E\x01\x09\x04\x00\xC00Piensa en un enemigo al que te hayas\nenfrentado en algún momento de tu\nperiplo y con el que te apetezca volver\na medirte.\n[1]Uno del\nprincipio[2]Uno de\nla mitad[3]Uno del\nfinal[4-]Olvídalo
+\x0E\x01\x09\x04\x07\xC00Piensa en un enemigo con el que hayas\nluchado en algún momento de tu\nperiplo y con el que te apetezca\nvolver a medirte.[1]Uno del\nprincipio[2]Uno\nreciente[3-]Olvídalo
+\x0E\x01\x09\x04\x0B\xC07¡Oooh, Link!\n¡Ha sido impresionante, muchacho!\n¡Eres un guerrero excelente!
+\x0E\x01\x09\x04\x0B\xC07¡Qué bueno! Bien hecho, campeón.\n¡Has dado todo un espectáculo!
+Has tardado \x0E\x02\x03\x06\x00\x00Í:\x0E\x02\x03\x06\x00\x01\x2CD,\x0E\x02\x03\x06\x00\x02\x2CD\nen despachar a <b<\x0E\x02\x02\x04\x00\x00>>.
+\x0E\x01\x09\x04\x00\x08Y ahora que lo pienso, campeón...\nPor ser la primera vez que vences a\neste bicharraco en este juego mío,\nte mereces un premio.\x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x00\x06¡Increíble! ¡Has batido tu récord!\nNo puedo dejar que te vayas con las\nmanos vacías. ¡Toma, esto es para ti!\x0E\x01\x09\x04\x0C\xB06
+Pero muchacho... ¡Si no has podido ni\nbatir tu propio récord! La próxima vez\na ver si le echamos un poco más de\nardor guerrero, ¿eh?
+Ay, muchacho... ¡Si no has podido ni \nbatir tu propio récord! Pero reconozco\nque has despachado a todos los rivales,\ny eso también tiene su mérito.
+Para tu información, si quieres llevarte\nel premio gordo, vas a tener que\nmejorar este tiempo: <r<<r<\x0E\x02\x03\x06\x00\x03Í<r<:>><r<\x0E\x02\x03\x06\x00\x04\x2CD>>.\n\n¡Ja! ¡Más te vale darlo todo en la arena\nde batalla si quieres tener alguna\nposibilidad, campeón!
+\x0E\x01\x09\x04\x0B\xC09¡Ya van ocho victorias seguidas!\n¡Qué fiera! ¡Enhorabuena!
+\x0E\x01\x09\x04\x0B\xC09¡Impresionante, campeón!\n¡Has logrado nueve victorias seguidas!\nEsto sí que no me lo esperaba... ¡Estás\nhecho una máquina de matar!
+\x0E\x01\x09\x04\x0B\xC09¡¿Diez victorias seguidas?!\n¡Lo tuyo no es ni medio normal!\n¡Qué escabechina!...
+\x0E\x01\x09\x04\x0B\xC09Me estoy quedando sin palabras,\ncampeón. Once victorias seguidas...\n¡Esto no lo había visto en mi vida!\n¡Eres una espada con piernas!
+\x0E\x01\x09\x04\x0B\xC09¡Doce combates, doce victorias! ¡Pleno!\n¡Va a ser que eres el mejor, campeón!...\n¡Eres un héroe de verdad!
+\x0E\x01\x09\x04\x0B\xC09¿Qué pasa aquí? Llevas la alforja llena\ny en la consigna tampoco te cabe nada\nmás, campeón. Así que lo siento pero\nno puedes llevarte este escudo.
+¡Qué se le va a hacer! En fin, siempre\npuedes intentarlo de nuevo la próxima\nvez. \x0E\x01\x09\x04\x0C\xB06Anda, toma estas 1000 rupias al\nmenos, que no te vendrán mal...
+\x0E\x01\x09\x04\x10\xC00Por cierto... ~~~Link,\n¿Te ves con arrestos de librar otro\ncombate ahora mismo?\n\n\x0E\x01\x09\x04\x0B\xC09¡No te pido que luches por la cara, eh!\nCada vez que logres una victoria y\ndecidas continuar, la recompensa se\nincrementa. ¡Vale la pena resistir!\n¡Uno de los premios en liza es un <r<escudo\nde lo más resistente>>! ¿Qué? Vuelve a\nbullirte el ardor guerrero en las venas,\n¿eh, campeón?\n\x0E\x01\x09\x04\x0D\xC00No obstante...\x0E\x01\x04\x02\x14\nYa sé que lo sabes, pero te recuerdo\nque, si pierdes, adiós muy buenas.\n¡Sé consciente del riesgo que corres!\nY no olvides que el <r<indicador del escudo\ny el número de corazones >>se conservan\nde un combate a otro. ¡Ja! ¡No me digas\nque no es un reto fascinante!
+Si te plantas ahora, te llevas...\n<r<\x0E\x02\x02\x04\x00\x01>>.\nPero si sigues, puedes llevarte...\n¡<r<\x0E\x02\x02\x04\x00\x02>>!\n\x0E\x01\x09\x04\x00\n¿Qué dices? ¿Quieres continuar?\n[1]Vale[2-]Me voy
+\x0E\x01\x09\x04\x00\x08¡Ese es mi muchacho! Ahora bien, tengo\nque decirte una cosa, campeón.\n\n\n\x0E\x01\x09\x04\x07\x900Cuando libras varios combates seguidos\nsoy yo quien elige qué adversario va a\nvenir después.\n\nAsí tú no te tienes que preocupar de\ndecidir, ¡y la sorpresa lo hace todo aún\nmás divertido! Bueno, ya me callo... \n¡que te queda mucha pelea por delante!
+\x0E\x01\x09\x04\x00\x08¡Así me gusta, campeón! El próximo\ncombate será el número \x0E\x02\x03\x06\x00\x03Í. \nDebes ganar \x0E\x02\x03\x06\x00\x04Í más para\nsuperar el reto.\nBueno, basta de cháchara y vamos a\nmeternos en harina... ¡Sus y a ellos!
+\x0E\x01\x09\x04\x00\x05Lo entiendo, muchacho, lo entiendo...~~~\nTampoco tienes que hacer imposibles.\nAdemás, si la palmas en medio del\ncombate, muerto te quedas...\n\x0E\x01\x09\x04\x0C\xB06Pero bueno, ¡lo has hecho muy bien!\nLo prometido es deuda, esto es para ti.
+Toma, 5 rupias. ¡Oye, no me mires así!
+Aquí tienes 20 rupias. ¡No te las gastes\ntodas de golpe, campeón!
+¡Ahí te van, 50 rupias! Que sí, que son\ntodas para ti, campeón...
+¡Toma, 100 rupias! ¡Ja! Ya puedes\ncomprarte algo bonito a mi salud.
+Estas 200 rupias son para ti, campeón.\n¡Es un premio más que merecido!
+Ahí tienes, 300 rupias... ¡todas para ti!\n¡No te las gastes a lo tonto, eh!
+¡Aquí tienes 500 rupias! ¡¿A que nunca\nhabías visto tanto dinero junto?!
+¡Bestial! ¡1000 rupias! Te ha tocado\nel gordo, muchacho... ¡Estas cantidades\nson mareantes!
+¡2000 rupias del ala para el caballero!\n¡Menudo botín!
+\x0E\x01\x09\x04\x0C\xB06Toma, esto es para ti.
+\x0E\x01\x09\x04\x0C\xB00¡Esto va de propina!
+\x0E\x01\x09\x04\x0C\xB00¡Toma esto, te lo has ganado!
+¡Qué barbaridad! ¡3000 rupias!\n¡¿Qué vas a hacer con tanto dinero?!
+¡Válgame...! ¡Has ganado 9900 rupias!\nMenudo sablazo, campeón... ¡Me has\ndejado las arcas temblando!
+\x0E\x01\x09\x04\x01\xC09Vuelve por aquí a echar unos combates\ncuando quieras. ¡Hasta otra, campeón!
+\x0E\x01\x09\x04\x00\x06¿Quieres probar suerte en <r<Hypnea>>?\n¡Ja! ¡Me encanta ver que no le haces\nascos a un desafío como los de antes!\n\n\x0E\x01\x09\x04\x07\xC00Verás, los retos de <r<Hypnea>> se basan en\nlos juicios que has superado hasta\nahora, recreados especialmente por mí.\n\nPero como hacértelos sin más no es que\nme parezca muy divertido, pues te voy\na cronometrar.\n\nSi logras un buen tiempo, te llevas un\nbuen premio. Pero...\x0E\x01\x04\x02\x14 si te alcanza un\nguardián, uno solo, el juicio de Hypnea\nhabrá acabado.\nSi fracasas, volverás con <r<la salud muy\nmermada>>, ¡avisado estás!\n\x0E\x01\x09\x04\x07\xC0A¿Qué? ¿Seguro que quieres probar?\n[1]¡Claro![2-]Mejor no
+~~~\x0E\x01\x09\x04\x00\x05¿Qué te piensas que es esto?...\nNo merece la pena arriesgar la vida\nhasta esos extremos, campeón... \n\nAnda, déjalo por hoy. Una retirada a\ntiempo es una victoria, ¿no lo sabías?\n\n\nVuelve cuando hayas recuperado un\npoco el resuello, por lo menos.
+\x0E\x01\x09\x04\x00\x06¡Ja! ¡Tus palabras son música para mis\noídos, señor héroe! Ea, elige el juicio\nque más rabia te dé.\n[1]El de Farore[2]El de Din[3]El de Nayru[4-]Ninguno
+
+\x0E\x01\x09\x04\x00\x06¡Ja! ¡Tus palabras son música para mis\noídos, señor héroe! Ea, elige el juicio\nque más rabia te dé.\n[1]El de Farore[2]El de Din[3]El de Nayru[4]Otro
+\x0E\x01\x09\x04\x00\x05¿Otro juicio? ¿Cuál?\n\n[1]El de\nAltárea[2]Los otros[3-]Ninguno
+\x0E\x01\x09\x04\x00\n¡Decídete de una vez, campeón!\n¿Adónde quieres ir a batirte el cobre?\n\n[1]Farone[2]Eldin[3]Lanayru[4]Otro sitio
+Veamos, tu mejor tiempo para esta\nárea es de \x0E\x02\x03\x06\x00\x00Í:\x0E\x02\x03\x06\x00\x01\x2CD,\x0E\x02\x03\x06\x00\x02\x2CD en total.
+\x0E\x01\x09\x04\x0B\xC0D¡Pues vamos allá!\n¡Cierra los ojos y concéntrate!
+\x0E\x01\x09\x04\x00\x07¡Ja, Link!\n¡Has conseguido hasta la última\nlágrima! ¡Eres un héroe de tomo\ny lomo!
+\x0E\x01\x09\x04\x00\x07¡Buen trabajo, campeón!\n¡Has logrado volver de una pieza!
+\x0E\x01\x09\x04\x00\x0B¡¿Pero qué ha pasado?!\n¡Vaya manera de liarla, campeón!...\n\n\nEl fracaso tiene un precio, ya lo sabes.\nNo te quedan muchos corazones...\nEs mejor que los recuperes antes de\nvolver por aquí.
+Has tardado en completar el juicio\n\x0E\x02\x03\x06\x00\x00Í:\x0E\x02\x03\x06\x00\x01\x2CD,\x0E\x02\x03\x06\x00\x02\x2CD en total.
+\x0E\x01\x09\x04\x00\xC05Esta ha sido la primera vez que superas\neste juicio de <r<Hypnea>> para mi solaz.\n¡Hay que darte la enhorabuena!\x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x0B\xC09¡Bien, has conseguido un nuevo récord!\nEsto hay que celebrarlo, campeón.\n\x0E\x01\x09\x04\x0C\xB00Toma, aquí tienes tu premio. ¡Cógelo!
+\x0E\x01\x09\x04\x00\x07¡Increíble! Casi fundes el cronómetro...\n¡Has estado genial, Link!\n\n\nPor haber sido tan rápido, te mereces\nalgo especial... ¡Toma! \x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x00\x07Has hecho un tiempo de escándalo.\nToma, este premio es para ti. \x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x00\x0BMmm... No es para tirar cohetes...\x0E\x01\x04\x02\x14\npero al menos te has esforzado. Toma.\x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x00\x0B¡Ja! Venga ya, ¿me tomas el pelo?...\x0E\x01\x04\x02\x14\n¡Ponle un poquito de ganas, campeón!\n\n\nLa próxima vez, que parezca que\nte esfuerzas... ¡Si no, no te vas a llevar\nmás que esto!\x0E\x01\x09\x04\x0C\xB06
+\x0E\x01\x09\x04\x00\n¿Qué me dices, Link?\n¿Te hace otro juicio de <r<Hypnea>>?\n[1]¡Sí![2-]No
+\x0E\x01\x09\x04\x00\x05Pche... ¡Aguafiestas!\x0E\x01\x04\x02\x14\nBueno, si cambias de opinión ya sabes\ndónde estoy.
+\x0E\x01\x09\x04\x0B\xC08Ya veo que la paciencia te la has dejado\nen casa, ¿eh, Link?\n\n\n\x0E\x01\x09\x04\x00\x00¡Pues nada, como tú quieras!\n¡En seguida nos ponemos al lío!\n\n\n\x0E\x01\x09\x04\x00\xC00¿O quizá un espléndido guerrero como\ntú no tiene tiempo ni ganas para andar\nentreteniéndose con jueguecitos?\n\n\x0E\x01\x09\x04\x0D\xC00No te me hagas el interesante, anda...\nTe propongo una cosa: aprovechar tus\nexperiencias pasadas para echarnos\nun buen rato.\n\x0E\x01\x09\x04\x07\xC00¡Debes mirar al pasado para entender\nel futuro! Aprender de la experiencia,\npor así decirlo. Llámalo como quieras, \npero es un buen ejercicio. \nSe trata de enfrentarte de nuevo a las\ndificultades que ya has superado.\n\x0E\x01\x09\x04\x00\xC0A¿Qué me dices, Link?\n[1]¡Genial![2-]No sé yo...
+Grahim
+Malócula
+Morgrad
+Iruoma
+Daidagos
+El Durmiente
+El Durmiente
+El Durmiente
+La Horda
+Heraldo de la Muerte
+20 rupias
+un tesoro pequeño
+100 rupias
+una pieza de corazón
+300 rupias
+un tesoro inusual
+500 rupias
+un escudo muy resistente
+2000 rupias
+3 tesoros inusuales
+3000 rupias
+9900 rupias
+200 rupias
+1000 rupias

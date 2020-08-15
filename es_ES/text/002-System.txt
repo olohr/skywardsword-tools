@@ -1,0 +1,152 @@
+Zelda: Skyward Sword
+El destino de Link y Zelda.
+Conecta el Nunchuk al mando de Wii.\nA continuación, espera unos instantes\nsin tocar la palanca de control del\nNunchuk.
+Conecta el accesorio Wii MotionPlus\ny el Nunchuk al mando de Wii.\nA continuación, espera unos instantes sin\ntocar la palanca de control del Nunchuk.
+
+
+Las pilas del mando de Wii\nestán a punto de agotarse.\n\nConsulta el menú HOME.
+Se ha interrumpido la conexión\ncon el mando de Wii.\nVuelve a conectar el mando de Wii.\nPulsa (A) y no toques la palanca\nde control del Nunchuk.
+Se va a calibrar Wii MotionPlus.\nColoca el mando de Wii sobre una\nsuperficie plana.
+Apunta con el mando de Wii a la pantalla\ny mueve el cursor \x0E\x02\x04\x02\x18CD hacia el centro.
+Pulsa (A).
+No se ha podido realizar\nla calibración.\n\n¿Quieres intentarlo de nuevo?\n[1]Sí[2]No
+
+
+Si continúas sin realizar la calibración,\nes posible que los controles del juego\nno funcionen correctamente.\n¿Qué quieres hacer?\n[1]Continuar[2]Calibrar
+
+¿Quieres ver un vídeo explicativo\nsobre cómo conectar el accesorio\nWii MotionPlus?\n[1]Sí[2-]No
+No hay suficiente espacio libre\nen la memoria de la consola Wii.\nBloques libres necesarios: 1.\nTransfiere datos a una tarjeta SD\no borra los que no necesites en la\npantalla de gestión de datos de\nla consola Wii.
+No hay suficiente espacio libre\nen la memoria de la consola Wii.\nTransfiere datos a una tarjeta SD\no borra los que no necesites en\nla pantalla de gestión de datos\nde la consola Wii.
+¿Quieres ir a la pantalla de gestión\nde datos de la consola Wii?\n\n[1]Sí[2]No
+Los datos están dañados\ny no se pueden usar.\n¿Quieres crear nuevos datos\nde guardado? Se perderá todo\nel progreso hasta este momento.\n[1]Sí[2]No
+La memoria de la consola Wii está\ndañada.\nConsulta el manual de instrucciones\nde la consola Wii para obtener más\ninformación.\n
+No se ha podido acceder a la memoria\nde la consola Wii.\nConsulta el manual de instrucciones\nde la consola Wii para obtener más\ninformación.
+Se ha producido un error al acceder\na la memoria de la consola Wii.\nConsulta el manual de instrucciones\nde la consola Wii para obtener más\ninformación.
+
+Creando datos de guardado...\nNo toques el Botón POWER\nni el Botón RESET.
+Se han creado datos de guardado de\nThe Legend of Zelda: Skyward Sword.
+Se ha producido un error al intentar\ncrear datos de guardado.\n¿Quieres intentarlo de nuevo?\n[1]Sí[2]No
+Los datos de guardado están\ndañados y se van a recuperar.
+Recuperando los datos de guardado...\nNo toques el Botón POWER\nni el Botón RESET.
+Se han recuperado\nlos datos de guardado.
+Creando nuevos datos de guardado...\nNo toques el Botón POWER\nni el Botón RESET.
+Se han creado nuevos datos\nde guardado.
+Guardando los datos... \nNo toques el Botón POWER\nni el Botón RESET.
+Los datos se han guardado.
+\x0E\x02\x02\x04\x00\x00\n\n[1]Guardar[2]Guardar\ny <r<salir>>[3-]Cancelar
+¿Seguro que quieres dejar la partida?\n\n[1]Sí[2-]No
+\x0E\x02\x02\x04\x00\x00\n\n[1]Guardar[2]Guardar\ny <r<salir>>[3]Volver a\n<b<Celéstea>>[4-]Cancelar
+¿Seguro que quieres volver a <b<Celéstea>>?\n\n[1]Sí[2-]No
+
+\x0E\x02\x02\x04\x00\x00\n\n[1]Guardar[2]Guardar\ny <r<salir>>[3]Volver al\n<b<exterior>>[4-]Cancelar
+¿Seguro que quieres volver al exterior?\n\n[1]Sí[2-]No
+¿Quieres guardar tu progreso?\n\n[1]Guardar[2]Guardar\ny <r<salir>>[3-]Cancelar
+No podrás guardar tu progreso.\n¿Quieres empezar la partida de\ntodas formas?\n[1]Sí[2-]No
+No puedes guardar tu progreso.\n¿Quieres proseguir tu aventura\nde todas formas?\n[1]Sí[2]No
+
+
+¡Enhorabuena! ¡Has superado el <r<modo\nHéroe>>! ¿Quieres guardar la partida\njusto antes del combate final?\n[1]Sí[2-]No
+¿Seguro que quieres ir a la <b<pantalla\ndel título>>?\n[1]Sí[2-]No
+¿Quieres utilizar esta partida\npara comenzar desde el\nprincipio en <r<modo Héroe>>?\n[1]Sí[2-]No
+Se perderá todo el progreso de\nla partida. ¿Seguro que quieres\njugar en <r<modo Héroe>>?\n[1]¡Claro![2-]Mejor no
+Copiando los datos...\nNo toques el Botón POWER\nni el Botón RESET.
+Los datos se han copiado.
+No podrás recuperar los datos\nsobrescritos. ¿Seguro que quieres\ncopiar esta partida?\n[1]Sí[2-]No
+
+Borrando los datos...\nNo toques el Botón POWER\nni el Botón RESET.
+Los datos se han borrado.
+No podrás recuperar los datos\nborrados. ¿Seguro que quieres\nborrar esta partida?\n[1]Sí[2-]No
+
+
+
+
+¿Quieres proseguir con tu aventura?\n\n[1]Sí[2]No
+¿Quieres proseguir con tu aventura?\n\n[1]Sí[2]No
+¿Seguro que quieres salir?\n\n[1]Sí[2-]No
+
+
+
+
+
+Link
+Partidas
+Nombre
+Selecciona una partida.
+¿Dónde vas a copiar la partida?
+Dale un nombre a tu personaje.
+¿Quieres empezar esta partida?
+¿Quieres borrar esta partida?
+Ve al encuentro de Zelda junto a la efigie\nde la Diosa.
+Busca a tu pelícaro rojo desaparecido.
+Usa el mapa para buscar a tu pelícaro\nrojo en las cercanías de una cascada.
+Consigue la victoria en el torneo celeste.
+Persigue a la misteriosa joven que aparecía\nen tu sueño.
+Dirígete hacia la columna de luz y atraviesa\nlas nubes hasta las tierras inferiores.
+Parece que Zelda ha aterrizado sin problemas.\nVe a buscarla.
+Dirígete al bosque de Farone para buscar a Zelda.
+Recaba información sobre Zelda de los kyus,\nhabitantes del bosque.
+Usa el tirachinas para llegar hasta el templo al\nque se dirigió Zelda.
+Busca a Zelda. Se halla en algún lugar del templo\nde la contemplación.
+Lleva la litografía hasta la efigie de la Diosa en\nAltárea.
+Vuela hasta la nueva columna de luz y desciende\na la región de Eldin.
+Busca a Zelda en la región de Eldin.
+Busca la llave para acceder al templo del volcán\nde Eldin.
+Usa la llave recién completada para abrir\nla puerta del templo del volcán.
+Busca a Zelda. Se halla en algún lugar del templo\nterrenal.
+Lleva la tercera litografía hasta la efigie de la\nDiosa en Altárea.
+Vuela hasta la nueva columna de luz y desciende\na la región de Lanayru.
+Busca a Zelda en la región de Lanayru.
+Busca la entrada a la refinería de Lanayru.
+Atraviesa la refinería de Lanayru hasta el Templo\ndel Tiempo.
+Ve a ver a la anciana en la tierra del presidio con\ntu recién adquirida lira.
+Analiza el extraño suceso acaecido en la tierra\ndel presidio.
+Recaba información sobre el Cántico de la Diosa\ncustodiado en Altárea.
+Resuelve el misterio del Cántico de la Diosa\nrecitado por el director de la academia.
+Examina el lugar hacia el que señala la torre\nde la luz.
+Busca el umbral del juicio con ayuda de la estrofa\n«Valor de Farore».
+Usa la escama de dragón acuático para\ninspeccionar a fondo el bosque de Farone.
+Ve a ver a la dragona del agua y pregúntale\npor las llamas sagradas.
+Consigue agua sagrada y llévasela a la dragona\ndel agua.
+Accede al pasaje secreto que ha aparecido detrás\nde la cascada.
+Busca una de las llamas sagradas en la gran\ncaverna ancestral.
+Viaja hasta la isla de los cantares para escuchar\nla siguiente melodía.
+Halla el umbral del juicio con ayuda de la estrofa\n«Sabiduría de Nayru».
+Usa las zarpas para inspeccionar más a fondo\nel desierto de Lanayru.
+Busca la carta náutica en la casa del almirante.
+Busca el barco en el astillero.
+Busca el barco en el escondrijo pirata.
+Usa el rastreador para buscar el barco por\nel mar de arena de Lanayru.
+Busca la llama sagrada en el galeón de las arenas.
+Viaja hasta la isla de los cantares para escuchar\nla tercera melodía.
+Halla el umbral del juicio con ayuda de la estrofa\n«Poder de Din».
+Usa los pendientes ignífugos para acceder a zonas\ninexploradas.
+Busca la forma de llevar agua hasta la cima del\nvolcán de Eldin.
+Lleva la marmita hasta el muro de fuego, en la\ncima del volcán, para entrar al santuario.
+Busca la llama sagrada en el gran santuario\nantiguo.
+Activa el Portal del Tiempo con la espada\nmejorada.
+Vuelve a sellar al misterioso monstruo.
+Concentra el poder del rayo celestial de tu espada\nfortalecida sobre el Portal del Tiempo.
+Vuelve a encontrarte con Zelda en el mundo\ndel pasado.
+Regresa a tu época para cumplir con la promesa\nhecha a Zelda.
+Recaba información sobre la Trifuerza en\nAltárea.
+Pregúntale al maestro Buhel si sabe cómo\nencontrar a Narisha.
+Ve al encuentro de Narisha y pregúntale sobre\nla Trifuerza.
+Consigue las estrofas del Cantar del Héroe\nen poder de los tres dragones.
+
+
+
+Vuelve ante Narisha para completar el Cantar del\nHéroe.
+Busca el umbral del juicio con ayuda del Cantar\ndel Héroe.
+Busca la otra gema de la ordalía.
+Entra en la torre que ha surgido de la base de la\nisla de la Diosa.
+Busca las partes de la Trifuerza en la torre\ncelestial.
+Grahim ha secuestrado a Zelda. Sigue su rastro.
+Impide que Grahim resucite al Heraldo de la\nMuerte.
+Derrota a Grahim en el mundo del pasado.
+Derrota al resucitado Heraldo de la Muerte en el\nmundo del pasado.
+
+
+
+Carrera de pájaros
+Mazmorra
+Combate contra enemigo final

@@ -1,0 +1,254 @@
+Grimper
+Sauter
+Se suspendre
+Lâcher
+Ouvrir
+Poser
+Jeter
+S'engouffrer
+Faire rouler
+
+Déplacer
+Saisir
+Tirer
+
+
+
+Parler
+Examiner
+Dessiner
+
+Souffler
+
+
+Nager
+Bondir
+Foncer
+Descendre
+
+Prendre
+S'asseoir
+Se lever
+Creuser
+
+
+Se libérer
+
+
+Planter
+Attraper
+Accélérer
+Parachâle
+Rengainer
+Sortir
+Insérer
+
+Tourner
+Enfoncer
+
+Bander l'arc
+
+
+
+Se balancer
+Garder l'équilibre
+Secouer
+
+Dormir
+Lâcher
+Lancer
+Lire
+Coup de fouet
+Tirer
+Boire
+
+Monter
+Feu !
+Attaquer
+Coup de grâce
+Descendre
+Jouer
+
+Lâcher
+Saisir
+Se préparer
+Retirer
+Se préparer
+Planter
+Utiliser
+Prélever
+
+
+Vue subjective
+Détection
+Diriger
+Vue aérienne
+Chute libre
+Sélectionner
+Saisir
+Déplacer
+Accélérer
+Attaque
+Incliner
+Enfoncer
+
+
+
+
+
+
+
+Grimper
+Sauter
+Se suspendre
+Lâcher
+Ouvrir
+Poser
+Jeter
+S'engouffrer
+Faire rouler
+
+Déplacer
+Saisir
+Tirer
+
+
+
+Parler
+Examiner
+Dessiner
+
+Souffler
+
+
+Nager
+Bondir
+Foncer
+Descendre
+
+Prendre
+S'asseoir
+Se lever
+Creuser
+
+
+Se libérer
+
+
+Planter
+Attraper
+Accélérer
+Parachâle
+Rengainer
+Sortir
+Insérer
+
+Tourner
+Enfoncer
+
+Bander l'arc
+
+
+
+Se balancer
+Garder l'équilibre
+Secouer
+
+Dormir
+Lâcher
+Lancer
+Lire
+Coup de fouet
+Tirer
+Boire
+
+Monter
+Feu !
+Attaquer
+Coup de grâce
+Descendre
+Jouer
+
+Lâcher
+Saisir
+Se préparer
+Retirer
+Se préparer
+Planter
+Utiliser
+Prélever
+
+
+Vue subjective
+Détection
+Diriger
+Vue aérienne
+Chute libre
+Sélectionner
+Saisir
+Déplacer
+Accélérer
+Attaque
+Incliner
+Enfoncer
+
+
+
+
+
+
+
+Cibler
+Foncer
+Lever le\nbouclier
+
+Charge\nbouclier
+
+Roulade
+Pas chassé
+
+Vue de surface
+Ranger
+
+
+Recentrer
+Retour
+Monde
+Zoom -
+Zoom +
+Faire défiler
+Position actuelle
+
+
+Retour
+Baliser
+Effacer
+Changer l'orientation
+Changer l'orientation
+
+
+
+
+Descendre
+Ranger
+Rappeler
+Se déplacer
+Voir la serrure
+Réinitialiser
+Annuler
+Stabiliser
+Arsenal
+Tourbillon
+Valider
+Réinitialiser
+Annuler
+Ralentir
+OK
+Sélectionner
+Afficher le nom des îles
+Cacher le nom des îles
+Armer le canon
+Désarmer
+Parachâle
+Retour
+

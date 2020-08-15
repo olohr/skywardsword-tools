@@ -1,0 +1,370 @@
+Apuntar
+Tensar
+Disparar flechas
+Inclina el mando para\ndirigir el cursor hacia\ndonde quieras apuntar\ny, si se te desvía, pulsa\n(v) para centrarlo.
+Pulsa (A) para disparar.\nMantener pulsado el\nbotón al tensar el arco\naumenta la potencia\ndel disparo.
+Mantén pulsado (C) y\ntira del Nunchuk hacia\nti para tensar el arco.\nSuelta (C) para lanzar\nla flecha.
+
+
+
+
+
+
+Preparar el arco
+Tensar el arco
+Disparar la flecha
+Sujeta el Nunchuk en\nposición vertical y\nmantén pulsado (C).
+Sin soltar (C), mueve\nel Nunchuk hacia ti\npara tensar el arco\ncon fuerza y aumentar\nasí la potencia.
+Apunta con el mando a\nla pantalla y suelta (C)\npara disparar. Pulsa (v)\npara centrar el punto de\nmira.
+
+Apuntar
+Disparar
+Recargar
+Sujeta el mando en\nposición horizontal\ny apunta con el cursor.\nPulsa (v) para centrar\nel punto de mira.
+Pulsa (A) para disparar.
+Pulsa (A) para disparar.\nMantén pulsado (A)\ny suéltalo para cubrir\nun área mayor.
+¡La munición es vital!\nNo te olvides de recoger\nlas semillas de los frutos\nde los árboles.
+
+Dejar
+Lanzar
+Hacer rodar
+Pulsa (A) para dejar\nel objeto en el suelo.
+Apunta con el mando\nhacia arriba y agítalo\nhacia delante para\nlanzar el objeto.
+Apunta con el mando\nhacia abajo y agítalo\nhacia delante para que\nel objeto salga rodando.\n¡Pero solo cosas ligeras!
+
+Lanzar
+Hacer rodar
+Guardar
+Apunta con el mando\nhacia arriba y agítalo\nhacia delante para\nlanzar la bomba.
+Apunta con el mando\nhacia abajo y agítalo\nhacia delante para que\nla bomba salga rodando.\n¡Gira para darle efecto!
+Pulsa (B) para guardar\nuna bomba. Las bombas\nse pueden obtener de\nlas flores bomba, así que\naprovisiónate bien.
+
+Lanzar
+Dirigir
+Recuperar
+Apunta y pulsa (A) para\nlanzar el telescarabajo.\nPulsa (v) para centrar\nel punto de mira.
+Apunta con el mando\n<r<a la pantalla>> e inclínalo\nhacia los lados para\ngirar y arriba o abajo\npara subir o bajar.
+Cuando el telescarabajo\nesté volando, pulsa (B)\nen cualquier instante\npara recuperarlo.
+
+Atrapar objetos
+Vista de pájaro
+Dejar caer
+Acelerar
+Dirige el telescarabajo\nhacia objetos ligeros\npara que los atrape.
+Pulsa (Z) para obtener\nuna vista de pájaro\ny poder apuntar mejor\nal objetivo.
+Mientras permanezcas\nen vista de pájaro, pulsa\n(A) para soltar el objeto.
+Pulsa (Z) para obtener\nuna vista de pájaro\ny poder apuntar mejor\nal objetivo. Pulsa (A)\npara soltar el objeto.
+Pulsa (A) para acelerar.
+
+Fijar objetivo
+Apuntar
+Atrapar
+Pulsa (Z) para fijar\nel objetivo y aproxímate\ncon mucho sigilo.
+Acerca el cazamariposas\nlentamente hasta el\ninsecto y apunta en su\ndirección.
+Ejecuta un rápido\nmovimiento con el\nmando para atrapar\nel insecto.
+
+Lanzar aire
+Mover cosas
+Centrar
+Para soltar aire, apunta\ncon el cursor y pulsa (A).
+Apunta con el aire a los\nobjetos que haya a tu\nalrededor para ver qué\nocurre.
+Pulsa (v) para centrar\nel punto de mira.
+
+Latigazo
+Apuntar
+Tirar
+Ejecuta un movimiento\nseco con el mando en la\ndirección en la que\nquieras hacer restallar\nel látigo.
+Fija tu objetivo con (Z)\ny propínale un latigazo\nen su dirección.
+Si logras agarrar un\nobjeto con el látigo,\npuedes tirar de él.
+
+Disparar
+Desplazarse
+Volver a disparar
+Apunta y pulsa (A)\npara lanzar una zarpa.\nPulsa (v) para centrar\nel punto de mira.
+Si la zarpa se engancha\nen algo, tirará de ti con\nfuerza para llevarte\nhasta ese punto.
+Desde el nuevo lugar al\nque has llegado, podrás\nlanzar la otra zarpa\nhacia un nuevo objetivo\npara desplazarte a él.
+
+Moverse
+Atacar
+Ver la superficie
+Muévete con \x0E\x02\x04\x02\x8CD.\nMientras lo haces,\nmantén pulsado (A)\npara desplazarte\na mayor velocidad.
+Agita el mando para\natacar hacia delante\ncon las garras de los\nguantes.
+Mantén pulsado (Z) para\nobservar la situación en\nla superficie.
+
+Nadar
+Fijar objetivo
+Volver a tierra firme
+Mueve \x0E\x02\x04\x02\x8CD en la\ndirección en la que\nquieras nadar.
+Mientras tienes pulsado\n(Z), desplázate hacia\ndelante y hacia atrás\ncon \x0E\x02\x04\x02\xDCD, y a izquierda y\nderecha con \x0E\x02\x04\x02\xECD.
+Mueve \x0E\x02\x04\x02\x8CD en dirección\na una orilla para salir\ndel agua. Si la superficie\nes muy elevada no\npodrás salir.
+
+Moverse
+Bucear
+Ataque torbellino
+Cuando estés en el\nagua, mueve \x0E\x02\x04\x02\x8CD para\ndesplazarte.
+Mientras tienes pulsado\n(A), dirige el mando\n<r<a la pantalla >>e inclínalo\nhacia los lados para\nnadar en esa dirección.
+Haz un movimiento seco\ncon el Nunchuk para un\nataque torbellino. Si\nmiras a la superficie,\nsaldrás fuera disparado.
+
+Sacar la lira
+Tocar la lira
+Técnica
+Pulsa (^) para sacar\nla lira.
+Mantén pulsado (A) y\nmueve el mando para\ntañer las cuerdas de\nla lira.
+Mueve armoniosamente\nel mando de izquierda a\nderecha al ritmo de la\nmelodía.
+
+Mover
+Correr
+Voltereta
+Muévete con \x0E\x02\x04\x02\x8CD. Pulsa\n(Z) para que la cámara\nse sitúe detrás de ti\ny hacer que enfoque en\ntu dirección.
+Para correr, mantén\npulsado (A) mientras\nte mueves. En carrera\npuedes trepar por\nsuperficies verticales.
+Para correr, mantén\npulsado (A) mientras\nte mueves. Procura\nllegar a un lugar seguro\nantes de hundirte.
+Agita el Nunchuk en\ncarrera para ejecutar\nuna voltereta hacia\ndelante.
+Sobre las arenas\nmovedizas no es posible\ndar volteretas.
+
+Moverse
+Esquivar
+Fijar objetivo
+Mantén pulsado (Z)\ny muévete a izquierda\ny derecha con \x0E\x02\x04\x02\xECD,\ny arriba y abajo con \x0E\x02\x04\x02\xDCD.
+Mientras te mueves,\npulsa (A) para esquivar.\nSi lo pulsas mientras vas\nhacia atrás, ejecutarás\nun salto hacia atrás.
+Si mantienes pulsado (Z)\ncerca de un objeto de\ninterés, fijarás dicho\nobjeto como objetivo.
+
+Blandir la espada
+Estocada
+Ataque circular
+Mueve el mando en la\ndirección en la que\nquieras blandir la\nespada.
+Mueve el mando hacia\ndelante para lanzar\nuna estocada.
+Mueve rápidamente el\nmando y el Nunchuk en\nla misma dirección para\nhacer un ataque circular\nvertical u horizontal.
+
+Blandir la espada
+Ataque circular
+Rayo celestial
+Mueve el mando en\ndistintas direcciones \npara blandir la espada.\nMuévelo hacia delante\npara dar una estocada.
+Mueve el Nunchuk y el\nmando en la misma\ndirección para hacer un\nataque circular vertical\nu horizontal.
+Eleva la espada hacia\nel cielo para invocar el\nrayo celestial. Blande la\nespada para liberar todo\nel poder acumulado.
+En este lugar no es\nposible invocar el poder\ndel rayo celestial.
+
+Sacar el escudo
+Ataque de escudo
+Indicador del escudo
+Agita el Nunchuk para\nsacar el escudo.\nAgita la espada para\ndejar de cubrirte.
+Agita de nuevo el\nNunchuk para mover\ncon fuerza el escudo\nhacia delante. Calcula\nbien el momento justo.
+Cuando el indicador del\nescudo se vacíe por\ncompleto, el escudo se\nromperá.
+
+Moverse
+Paracaídas
+Llamar a tu pelícaro
+Mientras estés en el\naire, mueve el mando\npara desplazarte.
+Pulsa (B) justo antes\nde llegar al suelo para\nabrir el paracaídas y\naterrizar suavemente.
+Pulsa (v) para\nllamar a tu pelícaro.
+Desde aquí no puedes\nllamar a tu pelícaro.
+
+Descender
+Guardar
+Moverse
+Desciende poco a poco\ny con cuidado.
+Suelta (B) para cerrar\nel paracaídas.
+Cuando estés usando el\nparacaídas no podrás\nmoverte.
+
+Control del pelícaro
+Atacar
+Tirabuzón aéreo
+Frenar
+Agita el mando para\nganar altura e inclínalo\npara virar; apunta hacia\nabajo para planear y\ncoger velocidad.
+Pulsa (A) para tomar\nimpulso hacia delante\ny realizar un ataque.\n¡Pero mucho ojo al\nindicador de aleteo!
+Pulsa (A) para ejecutar\nun tirabuzón aéreo.\nSi el indicador de aleteo\nse vacía, no podrás\natacar.
+Pulsa (B) para frenar y\nreducir la velocidad.\nSi frenas demasiado, tu\npelícaro pasará al vuelo\nen suspensión.
+
+Beber
+Llenar
+Usar
+Para beber el contenido\nde la botella, pulsa (A).
+Para llenar una botella\nvacía, selecciónala y\npulsa (A) para meter\ndentro lo que sea.
+Para usar el contenido\nde la botella, pulsa (A).
+
+Dirección
+Distancia
+Cambiar
+Mueve el cursor en la\ndirección que desees\nrastrear. Pulsa (v) para\ncentrar el punto de\nmira.
+Cuanto más corto sea el\nintervalo entre alertas y\nmayor sea el cursor,\nmás cerca se encontrará\nel objetivo.
+Mantén pulsado (C) y\nmueve el cursor para\ncambiar el objetivo de\nrastreo.
+
+Vista subjetiva
+Centrar vista
+Salir
+Cambiar
+Apunta con el mando\nhacia la pantalla y\nmueve el cursor para\nmirar a tu alrededor.
+Pulsa (v) para centrar\nla vista.
+Pulsa (C) para volver\nal modo de vista normal.
+Mantén pulsado (C) y\nmueve el cursor para\ncambiar el objetivo de\nrastreo.
+
+Moverse
+Impulsarse
+Soltarse
+Usa \x0E\x02\x04\x02\x8CD para moverte.
+Cuando te encuentres en\nmovimiento, agita el\nmando para impulsarte\nmediante saltos cortos y\navanzar más rápido.
+Pulsa (A) para soltarte.\nDurante la caída, utiliza\n\x0E\x02\x04\x02\x9CD o (A) para volver a\nagarrarte cuando sea\nposible.
+
+Moverse
+Equilibrio
+Zarandear
+Utiliza \x0E\x02\x04\x02\x9CD y \x0E\x02\x04\x02\xACD para\navanzar y retroceder\npor la cuerda.
+Sujeta el mando en\nvertical e inclínalo en la\ndirección contraria al\nmovimiento del cuerpo\npara equilibrarte.
+Agita el mando en\nvertical para zarandear\nla cuerda.
+
+Moverse
+Soltarse
+Zarandear
+Utiliza \x0E\x02\x04\x02\x9CD para volver\na subirte a la cuerda.\nUtiliza \x0E\x02\x04\x02\xECD para avanzar\no retroceder.
+Pulsa (A) para soltarte.
+Agita el mando en\nvertical para zarandear\nla cuerda.
+
+Balancearse
+Dirección
+Saltar
+Subir/Bajar
+Agita el mando para\nhacer que se balancee\nla cuerda. Pulsa (B) para\ndetenerla.
+En esta cuerda no es\nposible balancearse.
+Mueve \x0E\x02\x04\x02\xECD para cambiar\nde orientación.
+Pulsa (A) para saltar.
+Utiliza \x0E\x02\x04\x02\xDCD para subir\ny bajar por la cuerda\ny (A) para soltarla.
+
+Moverse
+Dirección
+Avanzar deprisa
+Mueve \x0E\x02\x04\x02\x9CD y \x0E\x02\x04\x02\xACD para\navanzar y retroceder\nrespectivamente.
+Mueve \x0E\x02\x04\x02\xECD para elegir\nla dirección hacia la que\ndesees desplazarte.
+Mientras te mueves,\nmantén pulsado (A) para\ndesplazarte a mayor\nvelocidad.
+
+Sujetar llave
+Girar llave
+Examinar cerradura
+Apunta con el mando\n<r<hacia la pantalla >>y pulsa\n(A) para sujetar la llave\no (B) para dejarla.
+Mientras sostienes la\nllave, inclina el mando\npara girarla. Pulsa (C)\npara que vuelva a su\nposición inicial.
+Pulsa (Z) para observar\nla cerradura y pulsa (A)\npara intentar introducir\nla llave.
+
+Mantener equilibrio
+Frenar
+Saltar
+Inclina el mando para\nevitar descarrilar.
+Pulsa (B) para frenar.
+Si la vía está cortada,\nagita el mando para\nsaltar.
+
+Mover
+Cañón
+Vista subjetiva
+Pilota el bote con \x0E\x02\x04\x02\x8CD.
+Prepara el cañón con\n(B) y dispara con (A).\nPulsa (v) para centrar\nel punto de mira.
+Usa (C) para mirar\nalrededor y rastrear.
+
+Mover
+Mantener equilibrio
+Bajarse
+Muévete con \x0E\x02\x04\x02\x8CD.\nPulsa (Z) para colocar\nla cámara detrás de ti\ny mirar hacia delante.
+Si pierdes el equilibrio,\nsuelta \x0E\x02\x04\x02\x8CD para reducir\nla velocidad.
+Haz rodar la roca hasta\nuna superficie que se\nencuentre a una altura\nsimilar y pulsa (A) para\nbajarte.
+
+Mover
+Géiser
+Resbalar
+Mueve \x0E\x02\x04\x02\xECD para\ndesplazarte a izquierda\ny derecha.
+Cuando te coloques\nsobre un géiser, este\nte impulsará hacia\narriba.
+El descenso no finaliza\nhasta que alcances una\nsuperficie plana sobre\nla que detenerte.
+
+Reunir lágrimas
+Guardianes
+Orquídea del espíritu
+Para superar la prueba\ndebes reunir las 15\nlágrimas y regresar\nal umbral.
+Si recibes un solo golpe,\nse acabó.
+Mientras tengas pétalos,\nlos guardianes no te\nperseguirán. Al obtener\nuna lágrima recuperas\ntodos los pétalos.
+
+Moverse
+Anillos de la suerte
+Aterrizaje
+Cuando estés en el aire,\ninclina el mando para\nmoverte.
+Atraviesa anillos para\nrecibir bonificaciones.\nPero si chocas contra un\nglobododo, perderás\ntoda la bonificación.
+El premio dependerá de\nla casilla sobre la que\ncaigas y de los anillos\nque hayas atravesado.
+
+Escarbar
+Pistas
+Bombas
+Para conseguir rupias,\npulsa (A) sobre el hoyo\nen el que quieras\nescarbar.
+Es posible que junto\na las rupias de más\nvalor haya más bombas\nenterradas.
+Si al escarbar descubres\nuna bomba, te reventará\nen las manos y el juego\nhabrá acabado.
+
+Cortar
+Múltiples cortes
+Técnica de corte
+Mueve el mando para\nblandir la espada.
+Sigue talando hasta que\ncaiga todo el bambú.
+Mantén un ritmo\nconstante de cortes a\nizquierda y derecha\npara que el bambú no se\ncaiga hacia un lado.
+
+Apuntar
+Usar el cazamariposas
+Rasgos de los insectos
+Fija el objetivo con (Z)\ny acércate sigilosamente\nal insecto sin que te\ndetecte.
+Ejecuta un rápido\nmovimiento con el\nmando hacia el insecto\npara atraparlo.
+Es importante saber\ndónde habitan los\ninsectos y cuál es la\nmejor forma de\natraparlos.
+
+Dar un flechazo
+Puntuación
+Técnica
+Pégales un flechazo a\nlas calabazas antes de\nque toquen el suelo.
+Encadenando varios\naciertos seguidos ganas\nmás puntos. Y si le das\na una calabaza brillante,\ntambién.
+Tensa bien el arco\nantes de que te lancen\nla calabaza y trata de\ncalcular su trayectoria\npara acertarle de pleno.
+
+Trazar
+Abandonar
+Dibujos
+Mantén pulsado (A) y\nmueve la punta de la\nespada para realizar\ntrazos. Suelta (A) para\nterminar.
+Para dejar de hacer\ntrazos, pulsa (B).
+Lo que hayas dibujado\nsurgirá ante ti. O eso\ndicen...
+
+Seleccionar
+Agarrar
+Terminar
+Mueve el cursor con el\nmando para seleccionar\nun panel.
+Para agarrar un panel,\nmantén pulsado (A)\nsobre él y podrás\nmoverlo a continuación.
+Pulsa (B) cuando hayas\nmovido los paneles hasta\nla posición en la que los\nquieras dejar.
+
+Levantarse
+Vista subjetiva
+Un pequeño descanso
+Pulsa (A) para\nlevantarte.
+Pulsa (C) para mostrar\nla vista subjetiva.
+Al estar sentado, vas\nrecuperando corazones\npoco a poco.
+
+Movimiento
+¡Fuego!
+Link
+Usa \x0E\x02\x04\x02\xECD para mover la\ncatapulta a izquierda\ny derecha.
+Mueve el cursor con el\nmando y pulsa (A) para\ndisparar. Pulsa (v) para\ncentrar el punto de\nmira.
+Para dejar de controlar\nla catapulta, pulsa (B)\no (^).
+
+Ascender
+Avanzar deprisa
+Soltarse
+Mueve \x0E\x02\x04\x02\xDCD para subir\ny bajar por la escalera.
+Mientras escalas o\ndesciendes, agita el\nmando para dar un\npequeño impulso y\ndesplazarte más rápido.
+Pulsa (A) para soltarte.\nCuando estés cayendo,\nutiliza \x0E\x02\x04\x02\x9CD o pulsa (A)\npara volver a agarrarte.
+
+Transportar
+Equilibrio
+Trabajo
+Camina con cuidado\npara que no se te caigan\nlas calabazas. Para ello,\nmueve \x0E\x02\x04\x02\x8CD con suavidad.
+Mueve \x0E\x02\x04\x02\xCCD si se inclinan\ndemasiado hacia la\nderecha y \x0E\x02\x04\x02\xBCD si se\ninclinan demasiado\nhacia la izquierda.
+Tras aceptar el trabajo,\nno podrás soltar ni\nlanzar las calabazas.\nTendrás que llevarlas\nal cobertizo.
+
+Blandir el alfanje
+Soltar el arma
+Asestar golpes
+Agita el mando\nen la dirección\nen la que quieras\nblandir el alfanje.
+Deja el alfanje en\nel suelo pulsando (A).\nPulsa (A) para volver\na cogerlo.
+Los colosales alfanjes\nde Iruoma son capaces\nde cortar cosas que\nuna espada normal\nno podría ni arañar.
+
+Punto de aterrizaje
+Saltar al vacío
+Abrir el paracaídas
+Hay que aterrizar justo\nen el centro del círculo\nde piedra que hay al pie\nde la estatua.
+Mientras estás cayendo,\nladea el mando para\ndesplazarte por el aire y\ncorregir tu trayectoria.
+Pulsa (B) justo antes\nde llegar al suelo para\nabrir el paracaídas y\naterrizar suavemente.
+

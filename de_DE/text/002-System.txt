@@ -1,0 +1,152 @@
+Zelda: Skyward Sword
+Das Abenteuer von Zelda und Link
+Bitte das Nunchuk an die\nWii-Fernbedienung anschließen.\nWarte anschließend einen Moment,\nohne den Control Stick des Nunchuks\nzu betätigen.
+Bitte das Wii MotionPlus-Zubehör und\ndas Nunchuk an die Wii-Fernbedienung\nanschließen. Warte anschließend einen\nMoment, ohne den Control Stick des\nNunchuks zu betätigen.
+
+
+Die Batterieleistung der\nWii-Fernbedienung lässt nach.\nBetätige den HOME-Knopf\nfür weitere Informationen.
+Die Verbindung zur Wii-Fernbedienung\nwurde unterbrochen.\nMelde die Wii-Fernbedienung erneut an\nder Wii-Konsole an. Drücke (A), ohne den\nControl Stick zu berühren.
+Kalibrierung von Wii MotionPlus.\nBitte lege die Wii-Fernbedienung\nauf eine flache Oberfläche.
+Zeige mit der Wii-Fernbedienung\nauf den Bildschirm und bewege\n\x0E\x02\x04\x02\x18CD in die Mitte.
+Drücke (A).
+Kalibrierung wurde nicht\nerfolgreich durchgeführt.\n\nErneut kalibrieren?\n\n[1]Ja[2]Nein
+
+
+Fortfahren ohne Kalibrierung kann\ndie Spielsteuerung beeinträchtigen.\nMöchtest du auf die Kalibrierung\nverzichten und fortfahren?\n[1]Fortfahren[2]Kalibrieren
+
+Möchtest du dir ein Video ansehen,\nin dem die Anbringung des\nWii MotionPlus-Zubehörs erläutert wird?\n[1]Ja[2-]Nein
+Nicht genügend freier Platz im Speicher\nder Wii-Konsole vorhanden. Bitte rufe\nden Datenverwaltungsbildschirm der\nWii-Konsole auf, um Daten auf eine\nSD Card zu verschieben oder zu löschen\n(erforderliche Blöcke: 1).
+Nicht genügend freier Platz im Speicher\nder Wii-Konsole vorhanden. Bitte rufe\nden Datenverwaltungsbildschirm der\nWii-Konsole auf, um Daten auf eine\nSD Card zu verschieben oder zu löschen.
+Möchtest du zum Datenverwaltungsbild-\nschirm der Wii-Konsole zurückkehren?\n[1]Ja[2]Nein
+Die Datei ist fehlerhaft und kann\ndaher nicht verwendet werden.\n\nBisher gespeicherte Daten gehen\nverloren. Neue Speicherdaten erstellen?\n[1]Ja[2]Nein
+Der Speicher der Wii-Konsole ist\nbeschädigt. Bitte lies die Wii-\nBedienungsanleitung, um weitere\nInformationen zu erhalten.
+Auf den Speicher der Wii-Konsole konnte\nnicht zugegriffen werden. Bitte lies die\nWii-Bedienungsanleitung, um weitere\nInformationen zu erhalten.
+Beim Zugriff auf den Speicher der\nWii-Konsole ist ein Fehler aufgetreten.\nBitte lies die Wii-Bedienungsanleitung,\num weitere Informationen zu erhalten.
+
+Speicherdaten werden erstellt. Bitte\nbetätige weder den POWER-Schalter\nnoch den RESET-Knopf.
+Speicherdaten für\nThe Legend of Zelda: Skyward Sword\nwurden erstellt.
+Speicherdaten konnten nicht erstellt\nwerden. Erneut versuchen?\n[1]Ja[2]Nein
+Speicherdaten sind fehlerhaft\nund werden wiederhergestellt.
+Daten werden wiederhergestellt. Bitte\nbetätige weder den POWER-Schalter\nnoch den RESET-Knopf.
+Speicherdaten wurden\nwiederhergestellt.
+Daten werden erneut erstellt. Bitte\nbetätige weder den POWER-Schalter\nnoch den RESET-Knopf.
+Neue Speicherdaten wurden erstellt.
+Speichervorgang...\nBitte betätige weder den POWER-\nSchalter noch den RESET-Knopf.
+Speichervorgang erfolgreich.
+\x0E\x02\x02\x04\x00\x00\n[1]Speichern[2]Speichern und\n\x0E\x00\x03\x02\x01beenden>>[3-]Zurück
+Möchtest du wirklich beenden?\n[1]Ja[2-]Nein
+\x0E\x02\x02\x04\x00\x00\n[1]Speichern[2]Speichern und\n\x0E\x00\x03\x02\x01beenden>>[3]Ins <b<Wolkenmeer\n>>reisen[4-]Zurück
+Möchtest du zurück zum <b<Wolkenmeer>>?\n[1]Ja[2-]Bleiben
+
+\x0E\x02\x02\x04\x00\x00\n[1]Speichern[2]Speichern und\n\x0E\x00\x03\x02\x01beenden>>[3]Nach<b< draußen>>[4-]Zurück
+Möchtest du <b<nach draußen>>?\n[1]Ja[2-]Bleiben
+Möchtest du das Spiel speichern?\n[1]Speichern[2]Speichern und\n\x0E\x00\x03\x02\x01beenden>>[3-]Nicht\nspeichern
+Dein Spiel wird nicht gespeichert.\nMöchtest du das Spiel trotzdem beginnen?\n[1]Beginnen[2-]Beenden
+Speichern nicht möglich. Möchtest du\ndas Spiel trotzdem fortsetzen?\n[1]Fortsetzen[2]Beenden
+
+
+Du hast das Spiel im <r<Helden-Modus\n>>beendet! Möchtest du das Spiel vor dem\nletzten Kampf speichern?\n[1]Ja[2-]Nein
+Zum <b<Titelbildschirm>> zurückkehren?\n[1]Ja[2-]Nein
+Möchtest du das Spiel erneut beginnen\nund dich dem <r<Helden-Modus >>stellen?\n[1]Ja[2-]Nein
+Deine bisherigen Fortschritte werden\ngelöscht. Möchtest du das Spiel\nwirklich im <r<Helden-Modus>> spielen?\n[1]Ja[2-]Nein
+Kopiervorgang...\nBitte betätige weder den POWER-\nSchalter noch den RESET-Knopf.
+Kopiervorgang beendet.
+Überschriebene Speicherdaten können\nnicht wiederhergestellt werden.\nMöchtest du sie dennoch kopieren?\n[1]Ja[2-]Nein
+
+Löschvorgang...\nBitte betätige weder den POWER-\nSchalter noch den RESET-Knopf.
+Löschvorgang beendet.
+Gelöschte Speicherdaten können nicht\nwiederhergestellt werden. Möchtest du\ndiese Speicherdaten löschen?[1]Ja[2-]Nein
+
+
+
+
+Möchtest du das Spiel fortsetzen?\n[1]Ja[2]Nein
+Möchtest du das Spiel fortsetzen?\n[1]Ja[2]Nein
+Möchtest du wirklich beenden?\n[1]Ja[2-]Nein
+
+
+
+
+
+Link
+Spieldateien
+Dein Name
+Wähle eine Spieldatei.
+Wohin kopieren?
+Gib einen Charakternamen ein.
+Dieses Spiel beginnen?
+Diese Spieldatei löschen?
+Triff Zelda bei der Statue der Göttin.
+Suche deinen verschwundenen roten Wolkenvogel.
+Suche mithilfe der Karte in der Nähe des\nWasserfalls nach deinem roten Wolkenvogel.
+Meistere die Vogelreiter-Zeremonie.
+Verfolge das mysteriöse Mädchen aus deinem\nTraum.
+Fliege zur Lichtsäule und gleite hinab ins Erdland.
+Suche nach Zelda, die anscheinend sicher im\nErdland angekommen ist.
+Begib dich in den Wald von Phirone, um Zelda\nzu finden.
+Sammle von den Waldbewohnern, den Kyu,\nHinweise zu Zeldas Aufenthaltsort.
+Verwende die Schleuder, um den Tempel zu\nerreichen, in dem sich Zelda aufhält.
+Suche im Tempel des Himmelsblicks nach Zelda.
+Bringe die Tafel zur Statue der Göttin im\nWolkenhort.
+Fliege zur neuen Lichtsäule und betrete Eldin.
+Suche im Land Eldin nach Zelda.
+Suche den Schlüssel zum Eingang des Tempels im\nVulkan Eldin.
+Öffne mit dem vervollständigten Schlüssel das\nTor zum Tempel im Vulkan.
+Suche im Tempel des Erdlandes nach Zelda.
+Bringe die dritte Tafel zur Statue der Göttin im\nWolkenhort.
+Fliege zur neuen Lichtsäule und betrete Ranelle.
+Suche im Land Ranelle nach Zelda.
+Finde einen Weg ins Ranelle-Steinwerk.
+Durchquere das Ranelle-Steinwerk und begib dich\nzum Tempel der Zeit.
+Statte mit deiner neuen Lyra der Hüterin im\nSiegelhain einen Besuch ab.
+Gehe den seltsamen Geschehnissen im Siegelhain\nauf den Grund.
+Finde im Wolkenhort etwas über die Hymne der\nGöttin heraus.
+Lüfte das Geheimnis der Hymne der Göttin,\nvon dem dir der Direktor erzählt hat.
+Folge dem Weg, den dir der Turm des Lichts weist.
+Suche mithilfe von Farores Mut nach dem\nPortal der Prüfung.
+Dringe mithilfe der Wasserdrachenschuppe tiefer\nin den Wald von Phirone vor.
+Frage den Wasserdrachen nach der heiligen\nFlamme.
+Finde heiliges Wasser und kehre damit zum\nWasserdrachen zurück.
+Durchschreite den Eingang hinter dem\nWasserfall.
+Suche im Höhlenheiligtum nach der heiligen\nFlamme.
+Begib dich zur Stätte der Lieder, um das nächste\nLied zu hören.
+Suche mithilfe von Nayrus Weisheit nach dem\nPortal der Prüfung.
+Dringe mithilfe des Greifhakens tiefer in die\nWüste Ranelle vor.
+Hole die antike Seekarte aus dem Haus des\nKapitäns.
+Suche in der Werft nach dem Schiff.
+Suche im Piratenversteck nach dem Schiff.
+Verwende die Aurasuche, um das Schiff im\nRanelle-Sandmeer aufzuspüren.
+Suche auf der Sandgaleone nach der heiligen\nFlamme.
+Begib dich zur Stätte der Lieder, um das dritte\nLied zu hören.
+Suche mithilfe von Dins Kraft nach dem\nPortal der Prüfung.
+Dringe mithilfe der Feuerohrringe in Bereiche\nvor, die dir bislang verwehrt waren.
+Finde eine Möglichkeit, Wasser zum Gipfel des\nVulkans Eldin zu bringen.
+Bringe einen Wasserbehälter zur Feuerwand auf\ndem Gipfel des Vulkans und gehe in den Tempel.
+Suche im alten Großheiligtum nach der heiligen\nFlamme.
+Aktiviere das Zeitportal mit deinem verbesserten\nSchwert.
+Verbanne erneut den mysteriösen Dämon, der auf\ndem Grund des Siegelhains erschienen ist.
+Nutze den Himmelsstrahl und öffne damit das\nZeitportal.
+Triff dich in der Vergangenheit mit Zelda.
+Kehre in deine Zeit zurück, um das Versprechen\nzu halten, das du Zelda gegeben hast.
+Verschaffe dir im Wolkenhort Informationen\nüber das Triforce.
+Frage Meister Otus, wie du Narisha finden kannst.
+Triff Narisha und frage ihn nach dem Triforce.
+Frage die drei Drachen nach dem Heldenlied.
+
+
+
+Kehre zurück zu Narisha, um das Heldenlied zu\nerlernen.
+Suche mithilfe des Heldenlieds nach dem Portal\nder Prüfung.
+Suche nach dem zweiten Teil des Insigne der\nReife.
+Betritt den Turm, der auf der Unterseite der Insel\nder Göttin erschienen ist.
+Suche im Turm des Himmels nach den drei\nTriforce-Fragmenten.
+Folge der Spur Ghirahims, um die entführte Zelda\nzu finden.
+Halte Ghirahim davon ab, den Todbringer\nwiederzuerwecken.
+Besiege Ghirahim in der Vergangenheit.
+Besiege den wiedererweckten Todbringer in der\nVergangenheit.
+
+
+
+Vogelrennen
+Dungeon
+Bosskampf

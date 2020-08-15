@@ -1,0 +1,167 @@
+Hey, how's it going? I've got a new\nhint for you! Wanna see it?\n[1]Sure![2-]No need.
+What's up?\x0E\x01\x04\x02\n I don't have any important\nhints for you, but I'll let you see any\nhints you've seen up till now. Wanna\nsee some hints?\n[1]Sure![2-]No need.
+Heya, friend.\x0E\x01\x04\x02\n Just so you know, I've\ngot every hint here ready for you!\nWanna see a hint?\n[1]Sure![2-]Nah.
+No problem. I hope you do well, and\nI wish you good luck!
+Hey there, friend.\x0E\x01\x04\x02\n Unfortunately,\nyou're such a good explorer that I don't\nhave any hints to offer you right now.\n\nTell you what. You press on, and if you\nfind yourself stuck later, just come on\nback and see me.
+Hey, friend! Walk yourself on over\nhere and say hello.
+How do you do? I'm what you call a\n<b<Sheikah Stone>>. Glad to meet you!\n\n\nI'm a stone of few words, so I'll get\nright to it. ~~~You're going to find\nyourself in puzzling circumstances as\nyou make your way through this world.\nIf you should find yourself stuck and\nyou have no idea how to move forward,\ncome see me.\n\nI've got nothing for you right now, but\ndown the road when you're feeling\nstuck, <r<the things I'll show you>> may just\nget you back on the right track.\nGood luck out there, friend!
+How do you do? I'm what you call a\n<b<Sheikah Stone>>\x0E\x01\x04\x02\n.~~.~~.\x0E\x01\x04\x02\nbut you knew that\nalready, didn't you?\n\nI'm a stone of few words so I'll get right\nto it. ~~~I can see you're playing in <r<Hero\nMode>>, so clearly you've mastered all\nthe puzzles out there before.\nI think that's pretty impressive! Tell\nyou what, I'm going to go ahead and\ngive you access to <r<all the hints>> right\nfrom the start.\nIf you ever get the urge to look over\nhints you've already seen, just come\nand see me.\n\nGood luck to you, friend!
+New!
+Clear!
+Skyloft - Sky
+Sealed Grounds
+Faron Woods Area
+Eldin Volcano Area
+Lanayru Desert Area
+Skyview Temple
+Earth Temple
+Lanayru Mining Facility
+Ancient Cistern\n
+Sandship
+Fire Sanctuary
+Sky Keep
+Extras
+Saving Your Loftwing
+Chasing the Mysterious Girl
+Getting into Beedle's Airshop
+Solving the Cemetery Mystery
+Two Whirling Sails: Part 1
+Two Whirling Sails: Part 2
+Moving the Isle of Songs Bridge
+Saving Levias
+
+Inserting the Stone of Trials
+Defeating a Deku Baba
+The Imprisoned Battle
+The Imprisoned Battle: Part 2
+The Imprisoned Battle: Part 3
+Battle the Horde
+Ghirahim Final Battle: Part 1
+Ghirahim Final Battle: Part 2
+Demise Battle
+Finding the Kikwis: Part 1
+Finding the Kikwis: Part 2
+Finding the Kikwis: Part 3
+Defeating an Octorok
+Dealing with Deku Hornets
+Traveling to the Temple
+Entering the Temple
+
+After Getting the Water Dragon's Scale
+Crossing the Swinging Platform
+Heading to the Lake
+
+
+
+Catching Tadtones
+The Tadtone under the Lily Pad
+The Tadtone behind the Rocks
+Clearing the Plugged Lava Hole
+Getting By a Tower
+Finding the Pieces of the Key: Part 1
+Crossing the Bridgeless Gap
+Finding the Pieces of the Key: Part 2
+Finding the Pieces of the Key: Part 3
+
+Quench My Thirst: Part 1
+Finding a Large Water Basin
+Reclaiming Your Whip
+Reclaiming Your Slingshot
+Reclaiming Your Bomb Bag
+Reclaiming Your Other Items
+Lanayru Mine: Part 1
+Lanayru Mine: Part 2
+Lanayru Mine: Part 3
+Rescuing the Robot
+Lanayru Desert: Part 1
+Lanayru Desert: Part 2
+Reaching the Temple of Time
+Reaching Lanayru Mining Facility
+Walking over Sinksand
+Finding the Remote Power Node:\nPart 1
+Finding the Remote Power Node:\nPart 2
+Finding the Remote Power Node:\nPart 3
+
+Exploring New Areas with the\nClawshots
+Defeating a Moblin
+Pirate Stronghold: Part 1
+Pirate Stronghold: Part 2
+Searching for the Sandship
+The Location of the Small Key
+The Blocked Timestone Cart
+Planting the Seedling
+The Eye Guardian
+Finding the Portcullis Switch: Part 1
+Defeating a Skulltula
+Finding the \x0E\x02\x04\x02\x19CD on the Map
+Defeating a Stalfos
+Finding the Portcullis Switch: Part 2
+Ghirahim Battle
+Finding the Mogma's Key
+A Bridge across the Lava
+Crossing the Lava
+Finding the Bomb Bag
+Defeating a Lizalfos
+After You Obtain the Map
+Opening the Lava Gate
+Climbing the Slope
+Scaldera Battle
+Opening the First Portcullis
+Breaking the Wooden Boxes
+The Timeshift Stone inside the Cage
+Getting Down the Conveyor Belt
+The Treasure Chest inside the Jail
+Crossing the Sinksand
+Timeshift Stone Cart and Wind Switch
+Mystery of the Three Linked Switches
+Timeshift Stone Carts and Propeller\nLifts
+Defeating a Sentrobe
+Defeating a Beamos
+Defeating an Armos
+Moldarach Battle
+The Correct Gemstone-Switch Order
+Getting By the Lily Pads Blocking the\nUnderwater Canal
+Defeating a Stalmaster
+The Switch beside the Waterfall
+Stealing the Bokoblin's Key
+A Spin Jump Refresher
+Defeating a Furnix
+Grabbing On to the Ivy
+Getting Through the Rolling Room
+Koloktos Battle
+The Order of the Four Gemstone\nSwitches
+Scervo Battle
+
+Activating the Power Generator:\nPart 1
+Activating the Power Generator:\nPart 2
+Beating the Tentacles Back
+Tentalus Battle: Part 1
+Tentalus Battle: Part 2
+The Magmanos Room
+Getting Through the Lava Room
+Quench My Thirst: Part 2
+Defeat a Magmanos
+Finding the Hidden Passage
+Getting the Boss Key
+Ghirahim Battle: Part 2
+The Pyrups Hiding in the Cliff
+Crossing the Swinging Platforms
+Crossing the River of Lava: Part 1
+Crossing the River of Lava: Part 2
+The Gemstone Switches behind the\nStatues
+The Sinksand Room: Part 1
+The Sinksand Room: Part 2
+The Sinksand Room: Part 3
+Dreadfuse Battle
+Catching Bugs
+Delivering the Soup to Eagus
+Orielle Has Disappeared
+Getting Into the Shed with No Door
+Giving a Special Drink to Fledge
+The Fortune-Teller's Problem
+Finding the Lost Rattle
+Finding the Lost Horned Colossus Beetle
+Drawing on Goddess Walls
+Secrets of the Goddess Walls
+Finding Arrows
+A Good Skydiving Spot

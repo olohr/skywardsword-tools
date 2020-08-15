@@ -1,0 +1,125 @@
+Auf geht's, grüner Wicht!\nIch folge dir unauffällig.
+Oh, du gehst aber ran! Aber das lässt\nmich ganz kalt. Ich bin schließlich das\nneueste Modell!
+Sag mal, was soll ich denn hier?\nIch habe nicht ewig Zeit!
+Wie, jetzt schon?\nAuf geht's, bzzz!
+\x0E\x01\x0B\x04\x00rWo willst du denn hin?\nDa gehe ich nicht rein! Ich warte hier\ndraußen auf dich...
+\x0E\x01\x0B\x04\x00rAh, heiliges Kugellager!\nHilf mir!
+\x0E\x01\x0B\x04\x00rAah, ich werde getroffen!\nTu doch was, bzzz!
+\x0E\x01\x05\x04<\x00\x0E\x01\x08\x02\x2CDUargh!
+\x0E\x01\x05\x04Z\x00Aaah... Bin... kaputt!\nIch... funktioniere... nicht mehr...
+Und dieses Mal passt du gefälligst\nbesser auf, ja?
+\x0E\x01\x12\x04\x00dHey! Was soll denn das?!?\nIch kann dir dahin nicht folgen!\nLass uns laufen, ja?
+\x0E\x01\x0B\x04\x00rHey, du kannst mich hier\ndoch nicht alleine lassen!
+\x0E\x01\x0B\x04\x00rJetzt hast du mich verloren!\nSchau auf der <r<Karte>> hier \x0E\x02\x04\x02\x3CD nach\nmeiner Position und komm zu mir!
+\x0E\x01\x0B\x04\x00rAaah! Was sind denn das für fiese\nGestalten? Mach etwas, schnell!
+\x0E\x01\x0B\x04\x00rHey, die kommen immer näher!\nMach doch was, schnell!
+\x0E\x01\x0B\x04\x00rSiehst du diese Monster da?\nDie wollen mir an die Schrauben!\nTu doch was, schnell!
+\x0E\x01\x0B\x04\x00rHey, wo bleibst du denn?\nWenn du nicht weißt, wo ich bin, schau\ndoch auf der <r<Karte>> hier \x0E\x02\x04\x02\x3CD nach!
+\x0E\x01\x0B\x04\x00rJetzt komm endlich her!\nWenn du nicht weißt, wo ich bin, schau\ndoch auf der <r<Karte>> hier \x0E\x02\x04\x02\x3CD nach!
+\x0E\x01\x0B\x04\x00rKomm schon, beeil dich!\nWenn du nicht weißt, wo ich bin, schau\ndoch auf der <r<Karte>> hier \x0E\x02\x04\x02\x3CD nach!
+\x0E\x01\x0B\x04\x00rEndlich! Das wurde aber auch\nallerhöchste Zeit!
+\x0E\x01\x0B\x04\x00rHey! Was soll das?
+\x0E\x01\x0B\x04\x00rSchluss jetzt! Wenn du so\nweitermachst, breche ich noch\nauseinander!
+\x0E\x01\x12\x04\x00\x0BGebieter, der Roboter wartet am\nVulkan auf dich. Ich empfehle dir,\nschnell zu ihm zu gehen.
+\x0E\x01\x12\x04\x00dDa bist du ja endlich! Los geht's,\nbring mich zum Gipfel!
+\x0E\x01\x12\x04\x00dHey, vergiss mich nicht!\nHier auf der <r<Karte>> \x0E\x02\x04\x02\x3CD kannst du\nnachsehen, wo ich mich gerade befinde.\x0E\x01\x11\x02\x3CD
+Da soll ich Wasser drauf spritzen?\nNa, dann sieh zu und lerne!
+Verehrte Phai!\nHabt Ihr das gesehen?
+Bitte ruft mich wieder, wenn ich\nEuch behilflich sein kann!
+\x0E\x01\x12\x04\x00dWie?\nHier ist es gut, ja? Ich hatte schon\nfast keine Kraft mehr...\n\n\x0E\x01\x04\x02\nWas?!? Auf den Gipfel?!?~~~\nSag das doch gleich! Jetzt muss ich\nmit dem schweren Ding noch einmal\nlosfliegen!~~~
+\x0E\x01\x12\x04\x00dHier ist alles voller Monster...
+\x0E\x01\x12\x04\x00dNicht, dass ich etwa vor Monstern\nAngst hätte... Aber im Augenblick\ntrage ich ja noch diesen schweren\nBehälter...
+\x0E\x01\x12\x04\x00dAuf geht's, grüner Wicht!\nJetzt zeige ich dir mal, was ein\nechter Transportroboter ist!\n\nPass auf mich auf, ja?\nIch folge dir unauffällig...
+\x0E\x01\x12\x04\x00dUnd pass bloß auf, dass mir keines\ndieser Ungeheuer zu nah kommt!
+
+\x0E\x01\x09\x04\x15\x1B09So sieht man sich wieder!\nAlles in Ordnung bei dir?\n\n\nIch habe gehört, dass sich hier einige\n<y<Artefakte der Göttin>> befinden sollen...\n\n\nVielleicht hast du ja schon welche\ngefunden, aber es scheint noch mehr\ndavon zu geben...\n\n\x0E\x01\x09\x04\x18\x17FFWillst du sie nicht suchen?
+Auf diesem Berg scheint es noch\n<y<Artefakte der Göttin>> zu geben... Willst\ndu sie nicht suchen?
+\x0E\x01\x09\x04\x15\x1B09Hallo, mein Freund!\nGeht es dir gut?\n\n\n\x0E\x01\x09\x04\x16\xBFFIch habe gehört, dass sich hier noch\n<y<Artefakte der Göttin>> verbergen sollen.\n\n\n\x0E\x01\x09\x04\x00\xB00Ich glaube, dass sich hier hinten\neines verbirgt, aber diese Flammen\nversperren mir den Weg...
+\x0E\x01\x09\x04\x15\x1B09Sag bloß, du suchst ebenfalls\nnach dem <y<Artefakt der Göttin>>?\nIst das hier nicht etwas heiß für dich?\n\n\x0E\x01\x09\x04ÿ\xFF00Mir macht die Hitze ja an sich\nwenig aus, aber diese Flammen da\nsind selbst mir zu heiß!
+\x0E\x01\x09\x04\x18\x17FFIrgendwie müsste man diese Flammen\nja doch überwinden können, oder?
+\x201ELindere meinen Durst...\x201C?\nDa fällt mir ein, wenn du hier raus\ngehst und am Ende dann rechts...\n\nDann kommst du nach draußen, und\ndort ist eine <r<Quelle>>...<pling>\nIhr Wasser ist wirklich lecker!\n\n\x0E\x01\x09\x04\x18\x1705Aber wie willst du das Wasser\nhierher bringen? Den Frosch selbst\nkönnen wir ja schlecht zur Quelle\nbringen...~~~ Wie machen wir das?
+\x0E\x01\x09\x04\x18\x1700Wenn du hier raus gehst und am Ende\nrechts abbiegst, findest du eine <r<Quelle>>!\nVielleicht hilft dir das ja weiter...
+\x0E\x01\x09\x04\x17\x1908Sieh mal, die Flammen sind erloschen!\nJetzt können wir diesen Abschnitt\nendlich erkunden.
+\x0E\x01\x09\x04\x16\x1E56Nicht schon wieder...\nIrgendwas müssen wir doch tun\nkönnen!
+Bitte, versuch es noch einmal!\nTu es für die Wissenschaft!
+\x0E\x01\x09\x04\x17\x1908Oh, klasse!\nDann lass uns mal nachsehen...
+Oh, schau dir das nur an!\nUnheimlich...\n\n\n\x0E\x01\x09\x04\x17\x1908Das ist bestimmt nicht für das <y<Artefakt\nder Göttin>> gedacht! Dahinter muss sich\netwas <r<Größeres>> befinden.
+\x0E\x01\x09\x04\x16\x1EFFUnd dieses Mal sind die Flammen noch\nviel größer! Mit einer <y<Flasche>> wirst\ndu da nicht weiterkommen...
+\x0E\x01\x09\x04\x00\x07Hm...~~~ \x0E\x01\x09\x04\x18\x1700Irgendwie müssten wir da\ngenügend Wasser draufspritzen.\nHast du keinen <r<großen Behälter>><pling>?\n\n\x0E\x01\x09\x04\x16\x1EFFUnd dann bräuchten wir natürlich\nauch noch eine ganze Menge <r<Wasser>>...\nWie machen wir das nur?
+\x0E\x01\x09\x04\x18\x1707Wie kommen wir hier nur vorbei?\nWir bräuchten eine Menge <r<Wasser>>\nund dazu noch einen <r<großen Behälter>>...\n\n\x0E\x01\x09\x04\x16\x1EFFDu hast doch bereits so manches\nAbenteuer bestanden... Fällt dir\nnichts ein?
+\x0E\x01\x09\x04\x18\x1707Wir bräuchten eine Menge <r<Wasser>>\nund dazu noch einen <r<großen Behälter>>...\nFällt dir da nichts ein?
+\x0E\x01\x09\x04\x17\x1908Hey, du bist klasse!\nDir ist wirklich nichts zu schwer, was?\n\n\n\x0E\x01\x09\x04\x08\xBFFDafür lasse ich dir auch den Vortritt!\nNa los, geh rein und sieh dich um!
+\x0E\x01\x09\x04\x18\x1702Und, was hast du da drinnen\ngefunden?\n[1]Viele Fallen[2]Viele Monster
+\x0E\x01\x09\x04\x16\x1E56Ach, wirklich?\nHm, dann solltest du diesen Bereich\nwohl besser alleine erkunden...\n\n\x0E\x01\x09\x04\x08\xBFFÜbrigens, ich glaube wirklich,\ndass sich dort auch ein <y<Artefakt\nder Göttin>> versteckt...\n\nIch täusche mich selten, deswegen\nhalte besser die Augen offen, ja?
+\x0E\x01\x09\x04\x16\x1E56Ach, wirklich?\nHm, dann solltest du diesen Bereich\nwohl besser alleine erkunden...\n\n\x0E\x01\x09\x04\x08\xBFFIch werde mir derweilen eine andere\nGegend vornehmen. So vieles will noch\nerforscht werden... Bis bald!
+Ich werde mich noch woanders\numsehen... Bis dann!
+\x0E\x01\x09\x04\x11\x801Ach, du hier?\nSuchst du immer noch nach deiner\nFreundin?\n\n\x0E\x01\x09\x04\x09\x8FFWas ich hier mache? Ich suche\nnatürlich nach einem Schatz, ist\ndoch klar!\n\n\x0E\x01\x09\x04\x15\xDFFBis jetzt habe ich aber noch nichts\ngefunden. Hast du vielleicht 'ne Idee?\n[1]Willst du\nes wissen?[2]Ich sage nichts!
+\x0E\x01\x09\x04\x11\x900Wie, du weißt was?!?\nDu und ich, wir sind doch gute\nFreunde... Los jetzt, erzähl schon!
+\x0E\x01\x09\x04\x14\x120AWas sagst du da?\nIch dachte, wir wären Freunde...\nKomm schon, sag's mir!
+\x0E\x01\x09\x04\x09\x80EWas, die Flammen versperren dir den\nWeg? Dann kipp doch Wasser drauf!\n\n\n\x0E\x01\x09\x04\x15\x800Du brauchst ganz viel Wasser dafür?\nSo ist das also...\x0E\x01\x04\x02\x14 Dann reicht das hier\nwohl nicht, verstehe...\n\n\x0E\x01\x09\x04\x09\x8FFDas Wasser hier stammt aus dem\n<r<Floria-See>><pling>. Der ist ziemlich weit weg.\n\n\n\x0E\x01\x09\x04\x11\x8FFEin Kumpel von mir war im <b<Wald von\nPhirone>> auf Schatzsuche und ist von\ndort über den Wasserweg hierher\nzurückgekehrt. Sagt er zumindest.\n\x0E\x01\x09\x04\x09\x8FFMit dem Wasser aus dem See lässt sich\ndein Problem ja vielleicht lösen.
+Jetzt bist du den ganzen Weg gelatscht\nund kommst nicht weiter, wie? Das ist\nziemlich mies.\n\n\x0E\x01\x09\x04\x15\xDFFHm...\x0E\x01\x04\x02\x14 Ich fühle mich, als hätte ich was\nWichtiges vergessen...\n\n\nHabe ich dir das nicht vorhin bereits\ngesagt...\x0E\x01\x04\x02\x14 \x0E\x01\x09\x04\x00\x04Was war das doch gleich?\n\n\n\x0E\x01\x09\x04\x09\x8FFNa ja, wie dem auch sei... Wenn du viel\nWasser brauchst, solltest du zum\n<r<Floria-See>> gehen...
+\x0E\x01\x09\x04\x0B\xC07Hey, wo kommst du denn her?\n\n\n\n\x0E\x01\x09\x04\x0B\x506Hehehehe...\nWie gefallen dir diese tollen Klauen?\nDie habe ich entworfen!\n\nWas ich so treibe? Nun...\n\n\n\n\x0E\x01\x09\x04\x0C\x405Ich war auf der Suche nach neuen\nSchätzen, aber irgendwie finde ich im\nAugenblick nichts Rechtes...\n\nIn dieser Hitze hier unten macht die\nSchatzsucherei sowieso keinen so\nrechten Spaß...\n\n\x0E\x01\x09\x04\x09\x908Ich denke manchmal, dass ich so\nlangsam in Rente gehen und das\nLeben genießen sollte...
+\x0E\x01\x09\x04\x0C\x405Ich habe immer von einem hoch\ngelegenen Ort als Altersdomizil\ngeträumt...\n\n\x0E\x01\x09\x04\x0C\xDFFWenn man sein ganzes Leben in\nstinkenden Kellern verbracht hat,\nsehnt man sich nach Sonne und frischer\nLuft...\n\x0E\x01\x09\x04\x09\x906Ach, ich würde mir sogar wünschen,\nin meinem nächsten Leben als Vogel\nwiedergeboren zu werden!
+\x0E\x01\x09\x04\x1B\x2201Hey, Kumpel! Da bist du ja wieder!\nWie geht's?\n\n\nWas, wie es mir geht? Natürlich\nprächtig, ist doch klar!\n\n\n\x0E\x01\x09\x04\x00\x02Aber unser <b<Boss>> ist irgendwie\nkomisch drauf, seit er in dieser Ruine\nwar...\n\n\x0E\x01\x09\x04\x1B\x230ADu solltest mal zu ihm gehen und\nihm Hallo sagen! Er muss hier in der \nNähe sein...
+\x0E\x01\x09\x04\x1B\x50ASchau mal bei unserem <b<Boss>> vorbei,\ner muss hier in der Nähe sein...\n\n\nVielleicht baut es ihn auf, dich zu\nsehen...
+\x0E\x01\x09\x04\x1A\x2001Und, warst du beim Boss?\nWie geht es ihm?\n\n\n...\n\n\n\n\x0E\x01\x08\x02\x1CD\x0E\x01\x09\x04\x1A\x2011Was sagst du da? Das Leben\ngenießen? Wie abgefahren!\n\n\n...\x0E\x01\x09\x04\x00ÿAber was ist mit den Schätzen?\nWill er die etwa uns überlassen?\n\n\n\x0E\x01\x09\x04\x1B\x1E15Unser Boss ist schon ein komischer\nKauz...\n\n\nAber er ist immer noch der Boss!\nDu solltest ihm seinen Wunsch erfüllen,\nwenn du kannst...
+\x0E\x01\x09\x04\x1B\x2201Hey, was machst du denn hier?\nAlles klar bei dir?\n\n\nWas, wie es mir geht? Natürlich\nprächtig, ist doch klar!\n\n\n\x0E\x01\x09\x04\x00\x02Aber unser Boss ist irgendwie\nkomisch drauf, seit er in dieser Ruine\nwar...\n\n\x0E\x01\x09\x04\x1B\x22FFWie, du warst beim Boss? Wie geht\nes ihm denn?\n\n\n\x0E\x01\x08\x02\x1CD\x0E\x01\x09\x04\x1A\x2011Was sagst du da? Das Leben\ngenießen? Wie abgefahren!\n\n\n\x0E\x01\x09\x04\x00ÿAber was ist mit den Schätzen?\nWill er die etwa uns überlassen?\n\n\n\x0E\x01\x09\x04\x1B\x1E15Unser Boss ist schon ein komischer\nKauz...\n\n\nAber er ist immer noch der Boss!\nDu solltest ihm seinen Wunsch erfüllen,\nwenn du kannst...
+\x0E\x01\x09\x04\x00\x15Das Leben genießen...\nNun, wenn der Boss das will, solltest\ndu ihm dabei helfen!
+\x0E\x01\x09\x04\x1C\x180FWas?!?\nUnser Boss ist in die Höhe geschossen\nworden? Wohin denn?\n[1]Ins Wolkenmeer[2]Ins Paradies
+\x0E\x01\x09\x04\x1A\x2011Was, ins Wolkenmeer?\n\n\n\n\x0E\x01\x09\x04\x1B\x407Abgefahren!\x0E\x01\x04\x02\x14 ...Aber er wollte ja schon\nimmer mal dahin!\n\n\nIch bin mir sicher, dass er auch da oben\ndie Finger nicht von der Schatzsuche\nlassen kann...
+\x0E\x01\x09\x04\x1A\x2011Ins Paradies?\n\n\n\n\x0E\x01\x09\x04\x1B\x2207Hm\x0E\x01\x04\x02\x14...\nDann war es wohl Zeit...\n\n\nOb es da wohl Schätze gibt? Das würde\nmich interessieren...
+\x0E\x01\x09\x04\x1A\x30DBoss!\nIch hoffe, es geht dir gut... Ich werde\nein würdiger Nachfolger sein,\nversprochen!
+\x0E\x01\x09\x04\x1A\x2011Wa... Was?!?\nEr ist schon wieder zurück?\n\n\n\x0E\x01\x09\x04\x1B\x2207Ein toller Hecht, unser Boss! Immer\nunterwegs zwischen den Wolken und\nKellergewölben!
+\x0E\x01\x09\x04\x1B\x2207Ein toller Hecht, unser Boss! Immer\nunterwegs zwischen den Wolken und\nKellergewölben!
+\x0E\x01\x09\x04\x1A\x200FAber das ist ja... Wir kennen uns\ndoch?!?~~~\n\n\n\x0E\x01\x09\x04\x1B\x2209Na ja, ist ja auch egal...\n\n\n\nMein Bruder hat rausbekommen, was\nmir da in der Ruine für ein kleines...\nMissgeschick passiert ist!\n\n\x0E\x01\x09\x04\x1B\x1EFFAber ihn hat es wohl auf die gleiche\nArt erwischt... Ich sage es ja immer,\nkeiner ist besser als der andere!\n\n\x0E\x01\x09\x04\x1A\xA12Aber sag mal, hast du <b<Platio>>\nirgendwo gesehen?\n[1]Ja[2]Nein
+\x0E\x01\x09\x04\x1B\xA12Ach, wirklich?\nDann ist's ja gut!\n\n\nIch habe ihn in letzter Zeit so gut wie\ngar nicht gesehen...\n\n\n\x0E\x01\x09\x04\x1B\x160FIch bin mir sicher, dass er wieder\nallerhand Unfug im Schilde führt!\n\n\n\x0E\x01\x09\x04\x1B\x16FFDem muss man wirklich keine\nRatschläge geben, der hört eh nicht\nauf einen...
+\x0E\x01\x09\x04\x1B\x2207Dieser Kerl...\x0E\x01\x04\x02\x14 \nDer ist bestimmt mal wieder alleine zur\nSchatzsuche aufgebrochen...\n\nDas ist gefährlich, aber er will ja\neinfach nicht auf meine Ratschläge\nhören...\n\n\x0E\x01\x09\x04\x1B\x09Na ja, ist ja auch egal! Ein echter\n<b<Schatzsucher>> trotzt jeder Gefahr...\n\n\nSolltest du <b<Platio>> begegnen, dann\ngrüße ihn von mir, ja?
+\x0E\x01\x09\x04\x1B\x2215Das Einzige, was <b<Platio>> interessiert,\nsind die Schätze...
+\x0E\x01\x08\x02\x1CD\x0E\x01\x09\x04\x0E\x1008Hey, du! Geht es dir gut?\n\n\n\n\x0E\x01\x09\x04\x11\x110BOh, du hast dir also all deine Sachen\nzurückgeholt... Ich wusste, dass du\ndas kannst!\n\nAber sag mal...\x0E\x01\x04\x02\x14 Wie war's?\nHast du Schätze gefunden?\n[1]Klar![2]Fehlanzeige...
+\x0E\x01\x09\x04\x0E\x505Wirklich? Abgefahren!\n\n\n\n\x0E\x01\x09\x04\x0E\x1F0AAber ich sage dir, die Welt ist groß!\nSchätze schlummern überall, und du\nhast längst noch nicht alle gefunden!\n\nIch schaue nicht zurück... Und beim\nnächsten Mal bin ich es, der den\nHauptgewinn abräumt!
+\x0E\x01\x09\x04\x0E\x40AWie, du hast gar nichts gefunden?\nDann war dein Trip ja völlig umsonst!\n\n\n\x0E\x01\x09\x04\x0F\x508Aber mach dir nichts draus!\nDie Welt ist groß und voller Schätze!\nBeim nächsten Mal...
+\x0E\x01\x09\x04\x0D\x509Ich begebe mich dann mal wieder\nauf die Schatzsuche...
+\x0E\x01\x09\x04\x00\x01Hey, Freund!\nBist wohl müde von all dem vielen\nMonsterschlagen, was?\n\n\x0E\x01\x09\x04\x11\x900Da vorne wartet ein besonders\nstarker Kerl mit einem <r<riesigen Schild>>!\n\n\n\x0E\x01\x09\x04\x15\x80BWenn du willst, kann ich dir eine\n<r<Geheiminformation>> zu ihm verraten.\nWenn du die kennst, ist er kein Problem\nmehr!
+\x0E\x01\x09\x04ÿ\xFF09Selbst-\x0E\x01\x04\x02\nver-\x0E\x01\x04\x02\nständ-\x0E\x01\x04\x02\nlich\x0E\x01\x04\x02\n \ngibt es diese Information nicht gratis.\n<r<30 Rubine>>. Was meinst du? [1]Ja[2-]Nein
+\x0E\x01\x09\x04\x14\x1215Was, du willst meinen Rat nicht\nannehmen? Machst hier wegen\n<r<30 Rubinen >>rum? Pah!\n\n\x0E\x01\x09\x04ÿ\xFF00Nun gut, dann komm eben wieder,\nwenn du es dir anders überlegt hast.
+\x0E\x01\x09\x04\x14\x1215Deine Rubine reichen nicht aus?\nPech gehabt, mein Freund!\n\n\n\x0E\x01\x09\x04ÿ\xFF00Komm einfach wieder vorbei,\nwenn du die <r<30 Rubine>> beisammen\nhast!
+\x0E\x01\x09\x04\x11\x809Das Haus dankt, hehe! Aber denk dran,\ndas ist ein Geheimnis! Erzähl es bloß\nnicht weiter, ja?\n\n\x0E\x01\x09\x04ÿ\xFF00Also...\x0E\x01\x04\x02\x14 Du kannst den Schild des Kerls\nmit deinem Schwert durchschneiden!\nAbgefahren, oder?\n\nAber pass auf, denn weiter drinnen gibt\nes auch Gegner mit Eisenschilden...\n[1]Klingt gut![2]Das ist alles?
+\x0E\x01\x09\x04\x15\x90BAber ich weiß noch viel mehr, hehe!\n\x0E\x01\x09\x04ÿ\xFF00Willst du es hören?\x0E\x01\x04\x02\x14 Für <r<30 Rubine>>?\n[1]Ja[2-]Nein
+Wie, das genügt dir nicht? Du trägst\ndeine Nase ganz schön hoch!\n\n\n\x0E\x01\x09\x04\x15\x809Aber sei's drum, ich weiß noch mehr als\ndas! Hast du noch einmal <r<30 Rubine>>?\n[1]Ja[2-]Nein
+\x0E\x01\x09\x04\x11\x808Du bist ganz nach meinem Geschmack,\nFreund! Also, hör gut hin...\n\n\n\x0E\x01\x09\x04ÿ\xFF00Mit seinem Speer kann dir der Kerl\nganz schön gefährlich werden... Aber\ndu kannst seinen Angriff auch\n<r<zurückschlagen>>!~~~\n\x0E\x01\x09\x04\x11\x800Den Rest weißt du, oder?~~~\n[1]Das wusste ich nicht![2]Das wusste ich!
+\x0E\x01\x09\x04\x11\x80BNatürlich nicht! Ich habe mich auch\nsehr angestrengt, um diese wichtige\nInformation zu erhalten!\n\n\x0E\x01\x09\x04ÿ\xFF00Aber ich weiß noch mehr!\x0E\x01\x04\x02\x14\n<r<50 Rubine>>, abgemacht?\n[1]Gut![2-]Vergiss es!
+\x0E\x01\x09\x04\x12\xE04Was?!? Du bist ganz schön\nausgekocht, das muss ich dir sagen!\n\n\n\x0E\x01\x09\x04ÿ\xFF00Aber meine nächste Info kennst du\nganz sicher noch nicht. Nur <r<50 Rubine>>!\n[1]Lass hören![2-]Vergiss es!
+\x0E\x01\x09\x04\x11\x80BDu bist wirklich ein klasse Kerl!\nSo großherzig und unbesorgt, dass es\nschon fast wieder bedenklich ist, hehe!\n\n\x0E\x01\x09\x04\x14\x1200Pass nur auf, dass du dich von keinem\nBetrüger hereinlegen lässt...
+\x0E\x01\x09\x04ÿ\xFF00Also, hier ist mein Tipp. Der Schild\ndieses Kerls ist fast so hoch wie eine\nMauer, oder?\n\n\x0E\x01\x09\x04\x11\x800Und wenn du auf eine Mauer\nmit voller Kraft zurennst, dann...\n\n\n\x0E\x01\x09\x04ÿ\xFF09Hehe, probier es mal aus! Du wirst\nschon sehen, was dann passiert...\n\n\n\x0E\x01\x09\x04\x11\x800Na, dann wünsche ich dir mal viel\nGlück! Und nochmals danke für die\nschönen Rubine!
+Macht dir der starke Kerl mit dem\n<r<riesigen Schild >>noch immer zu\nschaffen?\n\n\x0E\x01\x09\x04\x15\x80BWenn du willst, kann ich dir eine\n<r<Geheiminformation>> zu ihm verraten.\nWenn du die kennst, ist er kein Problem\nmehr!
+\x0E\x01\x09\x04ÿ\xFF09Selbst-\x0E\x01\x04\x02\nver-\x0E\x01\x04\x02\nständ-\x0E\x01\x04\x02\nlich\x0E\x01\x04\x02\n \nist diese Information nicht kostenlos.\n<r<30 Rubine>>. Was meinst du? [1]Ja[2-]Nein
+Macht dir der starke Kerl mit dem\n<r<riesigen Schild>> etwa noch immer zu\nschaffen?\n\n\x0E\x01\x09\x04\x15\x80BWenn du willst, kann ich dir <r<noch eine\nGeheiminformation>> zu ihm verraten. \nWenn du die kennst, ist er kein Problem\nmehr für dich!
+\x0E\x01\x09\x04ÿ\xFF09Selbst-\x0E\x01\x04\x02\nver-\x0E\x01\x04\x02\nständ-\x0E\x01\x04\x02\nlich\x0E\x01\x04\x02\n \nist diese Information nicht umsonst\nzu bekommen.\n<r<30 Rubine>>. Was meinst du? [1]Ja[2-]Nein
+Macht dir der starke Kerl mit dem\n<r<riesigen Schild>> denn noch immer zu\nschaffen? Ist ja unglaublich!\n\n\x0E\x01\x09\x04\x15\x80BWenn du willst, kann ich dir <r<eine letzte\nGeheiminformation>> zu ihm verraten.\nMit der wirst du ihn problemlos\nbesiegen können!
+\x0E\x01\x09\x04ÿ\xFF09Selbst-\x0E\x01\x04\x02\nver-\x0E\x01\x04\x02\nständ-\x0E\x01\x04\x02\nlich\x0E\x01\x04\x02\n ist diese\nInformation nicht umsonst.\n<r<50 Rubine>>. Was meinst du? [1]Ja[2-]Nein
+\x0E\x01\x09\x04\x11\x801Hey, mein Freund!\nHast du den starken <r<Kerl mit dem\ngroßen Schild >>schon besiegt?\n\n\x0E\x01\x09\x04ÿ\xFF00Den hölzernen Schild zerschneiden!\nDen Speerangriff zurückschlagen!\nDen Schild wie eine Wand behandeln!\n\nWenn du dich an diese drei Ratschläge\nhältst, sollte alles glatt gehen!
+\x0E\x01\x09\x04\x14\x1215Was stellst du dich denn so an?\nSind doch nur <r<50 olle Rubine>>...\n\n\n\x0E\x01\x09\x04ÿ\xFF00Aber wie du willst: Komm einfach\nwieder, wenn du deine Meinung\ngeändert hast!
+\x0E\x01\x09\x04\x14\x1215Deine Rubine reichen nicht?\nPech gehabt, sage ich da!\n\n\n\x0E\x01\x09\x04ÿ\xFF00Komm einfach wieder, wenn du die\n<r<50 Rubine>> beisammen hast!
+Lindere meinen Durst,\nund ich gebe den Weg\nfrei...
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten. \n\n\nDie Kraft des Schwertes ist gewachsen.\nNun kannst du die <y<Artefakte der Göttin\n>>mit der <r<Aurasuche>> aufspüren.\n\n<y<Artefakte der Göttin>> wurden als Ziel\nfür die <r<Aurasuche>> hinzugefügt.\n<pling>Bitte nutze diese Funktion.
+Ich stelle fest, dass die Flammen, die\nden Weg versperrten, erloschen sind.\nIch empfehle, weiterzugehen.
+\x0E\x01\x05\x04K\x00\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nWir befinden uns nahe des Kraters am\nGipfel des <b<Vulkans Eldin>>.
+\x0E\x01\x05\x04Z\x00In dieser Gegend herrscht eine\n<r<extreme Hitze>>. Mit den <y<Feuerohrringen\n>>kannst du dich länger hier aufhalten.
+\x0E\x01\x05\x04Z\x00Es besteht eine Wahrscheinlichkeit von\n90 %, dass sich die letzte <r<heilige\nFlamme >>hier befindet. Ich empfehle,\nsie zu suchen.
+Der Roboter ist beschädigt.\nIch empfehle, ihn reparieren zu lassen\nund dann hierhin zurückzukehren.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas zu\nberichten. Ich empfehle, den Worten\ndes <b<Mogma>> zu folgen und zum\n<r<Floria-See>> zu gehen.\nWas den Transport des Wassers\nangeht...~~~ Vielleicht solltest du dich an\nden <r<Wasserdrachen>> wenden?<pling>\n\nMit dem <r<Wasserbehälter>>, in dem er\nsich von seiner Verletzung erholt hat,\nsollte es möglich sein, das Wasser\nzu transportieren.
+
+
+
+
+
+
+Soll ich die frühere Information\nverarbeiten und das Gefäß als\nZiel für die <r<Aurasuche>> festlegen?\n[1]Ja[2-]Nein
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nDie Flamme, die den Zugang\nblockiert, ist noch immer nicht\ngelöscht.\n\nSoll ich das Gefäß, in dem sich der\n<b<Wasserdrache>> aufhielt, als Ziel für\ndie <g<Aurasuche >>festlegen?\n[1]Ja[2-]Nein
+Sehr wohl, \x0E\x01\x12\x04\x00\x05Gebieter. Das Gefäß, in\ndem sich der <b<Wasserdrache >>aufhielt,\nwurde als Ziel für die <g<Aurasuche\n>>festgelegt.<pling>
+\x0E\x01\x12\x04\x00\x05Gebieter, ich folge deinem Wunsch und\nwerde damit noch warten.
+Wir sind am Vulkan Eldin angelangt.\n\n\n\nSuche mit der <r<Aurasuche>> nach dem\nEingang zur Prüfung, die du bestehen\nmusst, um die heilige Flamme zu\nerhalten.
+Willkommen zurück, \x0E\x01\x12\x04\x00\x04Gebieter.\n\n\n\nIch schätze, dass dir die <y<Feuerohrringe>>\nerlauben, in den heißen Bereich\neinzudringen.\n\nIch empfehle, dort nach der <r<heiligen\nFlamme>> zu suchen.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas zu\nberichten. An diesem Ort kann\nich kein <r<Wasser >>erspüren.\n\nUm diesen Mechanismus zu bedienen,\nwirst du viel <r<Wasser>> benötigen.\nIch empfehle dir, danach<pling> zu suchen.
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas zu\nberichten. Der Roboter wartet am\nFuß des Vulkans auf dich.\n\nIch empfehle, auf dem Luftweg zu ihm\nzurückzukehren und ihn hierher zu\nbegleiten.
+Vulkangipfel

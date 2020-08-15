@@ -1,0 +1,14 @@
+Confirmo la similitud de este objeto\ncon la bola de cristal del adivino y la\nposibilidad de usarlo como sustitutivo.\n\nRecomiendo llamar al robot de\nla chatarrería para que venga\na recogerlo.\n[1]Adelante[2-]No
+\x0E\x01\x12\x04\x00\x05Está bien, amo. En caso de cambiar\nde opinión, sugiero volver a buscar\nel objetivo.
+\x0E\x01\x12\x04\x00\x05Sí, amo. Avisaré al robot\ntelepáticamente.
+\x0E\x01\x12\x04\x00d¡Hola, Fay, hermosura!\n¡Aquí me tienes otra vez!\n\n\n¿Quieres que me lleve esto?
+¡Pues hala, a volar! ¡Espero verte\npronto, monada!
+\x0E\x01\x12\x04\x00\x01Amo, sugiero regresar a Celéstea\nde inmediato para llevar el cristal\na su destino.
+\x0E\x01\x12\x04\x00d¡Amo verdoso, no es justo! ¡A ti siempre\nte toca el trabajo más fácil!
+\x0E\x01\x09\x04\x00\x09¡Hombre, chaval, volvemos\na encontrarnos! ¡Muchísimas\ngracias por todo!\n\nDesde aquel día no he parado de\nbuscar tesoros en nuevos lugares,\npero nada, no hay manera.\n\nY ya llevo tiempo machacándome\nen este auténtico infierno...\nNo aguanto ni un día más.\n\n\x0E\x01\x09\x04\x00\x05Me parece que va siendo hora de dejar\nmis obligaciones de jefe y empezar\na cultivar mis aficiones y pasatiempos,\n¿no crees?\nMe gustaría comenzar a llevar\nun estilo de vida más reposado.\n[1]Hay un lugar[2]No te rindas
+\x0E\x01\x09\x04\x00\x04¿Cómo dices? ¡¿Que conoces un sitio\nadecuado para mí en Celéstea?!\n\n\n¡¿Y que allí podré encontrar\nun trabajo en el que se aprecie\nmi inigualable talento?!\n\n¡Pues ya estamos tardando!\x0E\x01\x04\x02\n\n¡Vamos, vamos, está decidido!\x0E\x01\x04\x02\n\n¡Llévame contigo!
+\x0E\x01\x09\x04\x00\x08Va...\x0E\x01\x04\x02\n vaya... Si me lo dices así, supongo\nque un último esfuerzo no hará daño\na nadie...
+Confirmo que el trabajo que mejor\nse adapta a las cualidades de este\nespécimen está disponible en el\nCalabarza's.\n¿Debería llamar al robot para\nque se lo lleve allí?\n[1]Adelante[2-]No
+\x0E\x01\x09\x04\x00\x04¡¿Pero qué...?! ¿Me dices que me vas\na llevar a Celéstea y me sueltas\npor el camino?\n\n¡Al final vuelvo a estar en el mismo\nsitio que al principio!\n\n\n¡Espero que la próxima vez no me dejes\ncaer como si fuera un lastre, chaval!
+\x0E\x01\x12\x04\x00\x01Amo, sugiero que regresemos\na Celéstea para llevar al moguma\na su lugar de destino.
+\x0E\x01\x12\x04\x00dOtra vez... ¡no hace falta que repitas\nsiempre lo mismo!

@@ -1,0 +1,112 @@
+Mar de arena\nde Lanayru
+Astillero
+Escondrijo pirata
+Casa del\nalmirante
+.~~.~~.
+Mmm\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n. ¿Quién eres tú?\n¿Un humano?\n\n\n¿Cómo? ¿Quieres saber quién soy?~~.~~.~~.\n¡Qué pregunta!\n\n\n\x0E\x01\x09\x04\x07\x00<pling>Soy el famoso almirante del galeón que\nalberga la sagrada <r<Llama de Nayru>>.\n[1]¿Qué llama?[2]¿Qué galeón?
+Mmm\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n. Ese mapa que llevas es un poco\nextraño.\n\n\n\x0E\x01\x09\x04\x07\x00Si pretendes salir a surcar los mares,\nnecesitas una <y<carta náutica >>como es\ndebido, marinero de agua dulce.\n\nPero estás de suerte, tengo una en <b<mi\ncasa>>. ¡Sube al bote, te llevaré hasta allí\nrápidamente!
+\x0E\x01\x09\x04\x07\x00¿En serio? Pues muy bien...
+\x0E\x01\x09\x04\x07\x00¿Listo para zarpar?\n\n[1]¡Zarpemos![2]¡Al galeón![3-]No, gracias
+\x0E\x01\x09\x04\x07\x00¡Levamos anclas!
+\x0E\x01\x09\x04\x07\x00¡Arrr! ¡Que no tenemos todo el día!...
+\x0E\x01\x09\x04\x07\x00¡Te llevaré hasta mi galeón, grumete!
+\x0E\x01\x09\x04\x07\x00Muy bien, grumete, como quieras.\nNo te subas en mi bote.\n\n\n¡Pero a ver cómo te las arreglas\npara surcar los mares sin él!
+¿Qué, has cambiado de idea?\n\n\n\n¿Me ayudarás a recuperar mi galeón\nsí o no?\n[1]Claro[2-]Lo siento
+\x0E\x01\x09\x04\x07\x00¿Listo para zarpar?\n[1]Listo[2-]Espera...
+Si me ayudas, te llevaré conmigo\nen el bote.\n[1]De acuerdo[2-]Lo siento
+\x0E\x01\x09\x04\x07\x00Para proteger la <r<Llama de Nayru>>,\nel galeón está equipado con un\ndispositivo especial que le permite\nhacerse invisible~~.~~.~~.\n¿Dices que tú también estás buscando\nla <r<Llama de Nayru>>?\n\n\nYa veo, la necesitas para encontrar\na alguien muy importante para ti~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00En ese caso, tal vez puedas ayudarme\na encontrar a los miembros de mi\ntripulación. ¿Qué dices, grumete?
+\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\x0E\x01\x04\x02\n.\n\n\n\nSucedió un día de tormenta~~.~~.~~.\nMis muchachos estaban haciendo\nla maniobra como de costumbre.\n\nY de repente, salidos de la nada~~.~~.~~.\naparecieron los piratas y abordaron\nnuestro galeón.\n\nApresaron a toda mi tripulación y a\nmí me arrojaron por la borda. Iban\nbuscando la <r<Llama de Nayru>>.
+\x0E\x01\x09\x04\x07\x00A duras penas pude llegar a este\npuerto, arrastrado por la corriente~~.~~.~~.
+\x0E\x01\x09\x04\x07\x00Pero no encontré nada, ni rastro.~~.~~.\n\n\n\nLos muy rufianes... seguro que se\nocultaron valiéndose del dispositivo\nde invisibilidad.\n[1]¿Dónde están?[2]¿Invisibilidad?
+¡Vamos, no pierdas tiempo!\nTienes que encontrar a esa persona\ntan importante, ¿no?\n\n¿O es que quieres que volvamos con el\nbote a algún sitio?\n[1]¡Mar abierto![2]¡Al galeón![3-]No hace falta
+¡Me alegro de verte!\nDime, ¿has encontrado a la persona\nque buscabas, grumete?\n\n¿Quieres que te lleve a algún sitio con\nel bote?\n[1]¡Mar abierto![2]¡Al galeón![3-]No hace falta
+¿Buscas a un dragón divino o algo\nasí?\n\n\n\x0E\x01\x09\x04\x07\x00Si se trata del <b<dragón del trueno>>, te\npuedo decir que está al sur de las\n<b<cuevas de Lanayru>>. Pero ese es el\núnico dragón que conozco.\n\x0E\x01\x09\x04\x07\x00¿Adónde quieres que vayamos?\n[1]Mar adentro[2]Al galeón[3-]A ningún\nsitio
+\x0E\x01\x09\x04\x07\x00¡Ven a verme cuando quieras!
+\x0E\x01\x09\x04\x07\x00Después de aquello he salido a mar\nabierto cientos de veces en busca de\nmi galeón y mi tripulación...
+Grumete, ¿se puede saber qué haces?\n¡Tienes que traerme la <y<carta náutica\n>>que hay en mi casa!\n\n¿O es que necesitas ir a algún otro\nsitio?\n[1]Mar abierto[2-]No hace falta
+Perfecto, has conseguido la <y<carta\nnáutica>>. Ahora ya podemos salir a\nnavegar tranquilamente.\n\nVamos, grumete, ¡tenemos que\nencontrar mi galeón como sea!
+En esa casa tengo un montón de\nrecuerdos de mi familia.\n\n\nAh, me pregunto si podré regresar\nalgún día... Cómo los extraño.~~.~~.
+¿Buscas a un dragón divino o algo así?\n\n\n\n\x0E\x01\x09\x04\x07\x00Si se trata del <b<dragón del trueno>>,\nte puedo decir que está al sur de las\n<b<cuevas de Lanayru>>. Pero ese es el\núnico dragón que conozco.
+\x0E\x01\x09\x04\x07\x00¿Listo para zarpar?\n[1]Listo[2-]Espera
+\x0E\x01\x09\x04\x07\x00¡Pues voy calentando motores!
+\x0E\x01\x09\x04\x07\x00De acuerdo...
+No sé cómo agradecerte que hayas\nrecuperado mi galeón.\n\n\n<b<\x0E\x01\x09\x04\x07\x00>>Ha quedado en un estado lamentable,\npero mis muchachos trabajan duro.\nLo dejarán como nuevo enseguida.\n\n<b<\x0E\x01\x09\x04\x07\x00>>Ojalá tú también puedas encontrar\na esa persona que buscas...\n¡Suerte, grumete!\n\n<b<\x0E\x01\x09\x04\x07\x00>>Vuelve a vernos cuando quieras.\nTe esperamos con los brazos abiertos.
+
+
+¿Qué te pasa, grumete?\n¡Tienes que ir al<b< astillero >>a ver si\nencuentras alguna pista!\n\n\x0E\x01\x09\x04\x07\x00¿O es que quieres salir a navegar\na mar abierto?\n[1]¡Mar abierto![2-]No quiero
+\x0E\x01\x09\x04\x07\x00Vaya, así que no has encontrado ni\nrastro de mi galeón. Pues entonces\nsolo nos queda~~.~~.~~.\n\n\x0E\x01\x09\x04\x07\x00Uf, se me aflojan los tornillos\nsolo con pensarlo, pero tendremos\nque ir al escondrijo pirata.\n\n\x0E\x01\x09\x04\x07\x00No tenemos opción... ¡Valor, grumete!\n¿Listo para zarpar?\n[1]¡Vamos![2-]Espera
+¡Vamos, grumete! ¡El <b<escondrijo pirata\n>>nos espera!
+\x0E\x01\x09\x04\x07\x00Así que en el astillero tampoco había\nni rastro de mi galeón... Pues entonces\nno tenemos otra opción~~.~~.~~.\n\n\x0E\x01\x09\x04\x07\x00Brrr, se me hiela el aceite lubricante\nde solo pensarlo, pero tendremos que ir\nal escondrijo pirata.\n\n\x0E\x01\x09\x04\x07\x00El jefe de toda esa banda es un\nterrible autómata zombi, pavoroso y\nsanguinario. Y tiene muchísimos\nesbirros a su cargo.\n\x0E\x01\x09\x04\x07\x00No tengo demasiadas ganas de volver\na cruzarme con él, pero~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00¡Es la única manera de recuperar\nmi galeón!
+Ay, grumete, qué feliz me hizo\nver mi galeón recién construido.\nCuántos recuerdos.~~.~~.
+\x0E\x01\x12\x04\x00d¿Adónde crees que vas?\n¡Primero tenemos que pasar por\n<b<mi casa>>, grumete!
+\x0E\x01\x12\x04\x00dEse es el escondrijo de un hatajo\nde piratas terribles y sanguinarios... \n¡No se te ocurra acercarte!\n\nDonde tenemos que ir ahora es al\n<b<astillero>>, grumete.
+¡Ah, cuánto tiempo sin navegar en alta\nmar! Creo que aún me acuerdo de cómo\nse gobernaba el bote...\n\n\x0E\x01\x09\x04\x07\x00A ver, se movía con \x0E\x02\x04\x02\x8CD, y oprimiendo\n(A) mientras estaba en movimiento se\npodía acelerar durante unos instantes.\n\nLuego con (B) se sacaba el cañón y\ncon (A) se disparaba. ¡Eso es!\x0E\x01\x11\x02\x1CD
+\x0E\x01\x09\x04\x07\x00Adelante, ¡a toda máquina!
+He marcado con una \x0E\x02\x04\x02\x19CD el lugar donde\nestá mi casa.\n\n\nEn la isla hay un <r<amarradero>>.\nPodemos atracar allí.
+¿Y ahora qué?\n¿No me digas que te dan miedo\nlos piratas? Tranquilo, grumete,\nque están todos muertos...\n¿Qué, listo para zarpar?\n[1]Listo[2-]Olvídalo
+Vaya, así que aquí tampoco estaba\nmi galeón~~.~~.~~.\n\n\nPor lo menos, ¿has encontrado alguna\npista?\n\n\n\x0E\x01\x09\x04\x07\x00¿Dices que sabes cómo buscarlo?\n¿Que puedes usar un <r<rastreador>>?\n¡Espléndido! ¡Eso es espléndido!\n\n\x0E\x01\x09\x04\x07\x00Esta vez sí que lo conseguiré...\n¡Voy a encontrar mi galeón!\n\n\n\x0E\x01\x09\x04\x07\x00¿Zarpamos ya, grumete?\n[1]¡Zarpamos![2-]Espera
+¡Vamos, hay que encontrar mi galeón\ncuanto antes!
+\x0E\x01\x09\x04\x07\x00¿Quieres salir a navegar?\n[1]¡Mar abierto![2-]Mejor no
+¡Increíble!\n\n\n\n¡Esa bocaza gigantesca se ha abierto!\n¿Cómo lo has hecho, grumete? 
+<pling>Parece que hay algo en ese puente\nque se atisba dentro de las fauces.\n\n\nPodría ser una pista para encontrar mi\ngaleón... ¡Acércate a mirar, grumete!
+Ni siquiera en el escondrijo pirata\nhay rastro de mi galeón~~.~~.~~.\n\n\nPor lo menos, ¿has encontrado\nalguna pista?\n\n\n\x0E\x01\x09\x04\x07\x00¡Cómo! ¿Dices que sabes dónde está?\n¿Que puedes usar un <r<rastreador>>?\n¡Espléndido! ¡Eso es espléndido!
+Todas las noches sueño con esos\nrufianes abordando mi galeón.\nFue horrible.~~.~~.
+¡Arribamos, grumete!
+Mi casa es esa que está allí en lo alto.
+\x0E\x01\x09\x04\x07\x00Dentro encontrarás la <y<<pling>carta náutica>>.\nNo tienes más que ir y recogerla.\n\n\nPero cuidado, porque te encontrarás\ncon unos cuantos monstruos...\n\n\n\x0E\x01\x09\x04\x07\x00Yo te espero en el bote. Si me alejara\nde él, dejaría de funcionar...
+¡Arribamos, grumete!\n\n\n\nEsta es la isla del astillero.\nAdemás de una factoría, antaño era\nuna ciudad de verdad donde vivían\nmiles de obreros.
+Pero la entrada está cerrada a cal y\ncanto... Por ahí no se puede pasar.
+\x0E\x01\x09\x04\x07\x00Las instalaciones de la isla están\nconectadas entre sí mediante raíles\npara vagonetas.
+Y esa es la estación de vagonetas.
+\x0E\x01\x09\x04\x07\x00Lo mejor será ir primero a la estación.\nYo te espero aquí.
+\x0E\x01\x09\x04\x07\x00Tal vez puedas llegar hasta la entrada\ntrasera montado en una vagoneta.
+Ese edificio de ahí es el astillero.
+Me tiemblan los engranajes\nsolo de verlo~~.~~.~~.\n\n\n\x0E\x01\x09\x04\x07\x00Aunque, bien mirado, supongo que a\nestas alturas ya estarán todos más que\nmuertos.\n\n\x0E\x01\x09\x04\x07\x00Si yo sigo funcionando es gracias al\ncronolito que tengo en el bote...\n\n\n\x0E\x01\x09\x04\x07\x00Uf, ya me siento más tranquilo.\nVamos, grumete, ¿qué esperas?\n¡Hay que encontrar mi galeón!\n\n\x0E\x01\x09\x04\x07\x00Yo te esperaré aquí en el bote\nmientras vas y vuelves.
+Iniciando el <r<rastreador >>en busca del\ngaleón que guarda la <r<<pling>Llama de Nayru>>...
+Ruego al \x0E\x01\x12\x04\x00\x0Bamo que mire a su alrededor.
+Hay un 60% de probabilidades de que\neste velamen provenga del galeón que\nalberga la <r<Llama de Nayru>>.
+Aviso para el \x0E\x01\x12\x04\x00\x0Bamo: por más que\nsigamos buscando en este lugar,\nlas probabilidades de que el galeón\naparezca son del 0%.\nSugiero seguir las instrucciones del\nalmirante y abandonar la isla.
+\x0E\x01\x12\x04\x00\x0BAmo, informo que estas instalaciones\nson un nido de seres malignos desde\nhace largo tiempo.\n\nCalculo que las probabilidades de\nencontrar en este lugar alguna pista\nsobre el paradero del galeón son\nprácticamente nulas.
+
+\x0E\x01\x12\x04\x00d¿Has visto eso, grumete?\n¡Es mi galeón!\n\n\n¡Vamos por él! ¡Dale un buen cañonazo!
+Vamos, abre la <y<carta náutica >>que me\nhas traído, grumete.
+El marcador \x0E\x02\x04\x02\x19CD indica el lugar donde\nestá el <b<<pling>astillero>>.
+\x0E\x01\x09\x04\x07\x00¡Adelante, a toda máquina!
+\x0E\x01\x09\x04\x07\x00El astillero es el lugar donde antaño\nse construían los barcos.\nMi galeón también lo construyeron\nallí.\n\x0E\x01\x09\x04\x07\x00Es posible que encuentres alguna\npista sobre el paradero de mi galeón\nentre esos viejos muros.
+Brrr, qué miedo~~.~~.~~.\nMe tiemblan las tuercas solo\nde recordarlo...\n\nEl jefe de los piratas es un feroz\nautómata zombi, de lo más cruel\ny sanguinario que te puedas llegar\na imaginar...\nTiene muchísimos esbirros.\n\x0E\x01\x09\x04\x07\x00No quisiera volver a cruzarme con él\nen la vida~~.~~.~~.\n\n\x0E\x01\x09\x04\x07\x00Pero si queremos recuperar mi\ngaleón, no tenemos otra opción.\n¡Valor, grumete!
+El marcador \x0E\x02\x04\x02\x19CD indica el lugar donde\nse encuentra el <b<<pling>escondrijo pirata>>.
+\x0E\x01\x09\x04\x07\x00¡Adelante! ¿Quién dijo miedo?...
+\x0E\x01\x09\x04\x07\x00¿Seguro que podrás encontrarlo en\nmedio de esta inmensidad?...\n\n\n\x0E\x01\x09\x04\x07\x00Bueno, no me queda más remedio\nque confiar en ti... ¡Buena suerte,\ngrumete!\n\n\x0E\x01\x09\x04\x07\x00Es muy posible que navegue en modo\ninvisible, pero si le <pling><g<aciertas con un\ncañonazo >>su camuflaje se desvanecerá.
+Ruego al \x0E\x01\x12\x04\x00\x01amo que se fije atentamente.
+Este objeto se conoce como <y<<pling>orbe\ncronolítico>>. Su forma difiere un\ntanto de los cronolitos corrientes.\n\nPero sus cualidades son en esencia\nlas mismas. Simplemente ha sido\nprocesado para tener un tamaño\nportátil.
+
+\x0E\x01\x12\x04\x00\x01Amo, confirmo que esta es <y<la carta\nnáutica del almirante>>.\n\n\nRecomiendo llevársela cuanto antes,\ny de paso sugiero al \x0E\x01\x12\x04\x00\x01amo que se fije\nbien en esto.
+Calculo que hay un 90% de\nprobabilidades de que ese galeón\nsea el que albergaba la Llama de\nNayru.
+Puede verse al almirante rodeado de\nsu tripulación. Estimo que eran días\nfelices para todos ellos.
+Ruego al \x0E\x01\x12\x04\x00\x01amo que se fije bien en esto.
+En este pedestal no hay montado\nningún <r<cronolito>>.\n\n\nPero detecto un 95% de similitud con\nlos pedestales encontrados en las <b<minas\nde Lanayru>>.
+Estimo que en este pedestal había\nun <pling><r<cronolito >>integrado a modo de\nfuente de energía.
+\x0E\x01\x12\x04\x00\x01Amo, hemos llegado al interior del\nastillero.
+Las instalaciones están semienterradas\npor la arena acumulada durante siglos\ny siglos.
+Sugiero buscar bajo la arena pistas\nsobre el paradero del galeón.
+Aviso para el \x0E\x01\x12\x04\x00\x01amo: tomar un descanso\nsolo es factible tras cumplir el objetivo\nque nos ha traído hasta aquí. Hay que\nencontrar la carta náutica.
+Aviso para mi \x0E\x01\x12\x04\x00\x0Bamo...
+Detecto la presencia de insectos en\nla parte superior de la casa.
+Informo al \x0E\x01\x12\x04\x00\x0Bamo que el poder del orbe\ncronolítico ha provocado cambios\nen las instalaciones.\n\nSugiero salir al exterior con el objetivo\nde evaluar mejor la nueva situación.
+Al centro de la ciudad
+Al amarradero
+Al astillero
+Acércate a la vagoneta\ny sube a bordo con (A).
+Inclina el control en las curvas\npara equilibrar la vagoneta.
+Si vas demasiado rápido,\nfrena con (B).
+Para sortear peligros, salta\nagitando el control.
+Fin de línea: astillero
+¡Mucho cuidado! Los piratas\nhan causado numerosos\ndesperfectos.
+No habrá tránsito de\nvagonetas durante todo el día.\nDisculpen las molestias.
+A ver si terminan pronto con\nlos planos de mi galeón...
+\x0E\x01\x05\x04\x0F\x00Aviso para el \x0E\x01\x12\x04\x00\x0Bamo...\n\n\n\n\x0E\x01\x05\x04<\x00Estamos en el <b<mar de arena de\nLanayru>>, donde se cree que antaño\nse extendía un inmenso océano.
+\x0E\x01\x05\x04Z\x00Sin embargo, en la actualidad está\ncompletamente seco y se ha\nconvertido en un mar de dunas.
+\x0E\x01\x05\x04Z\x00Este lugar hacía las veces de puerto\npara conectar con alta mar.
+\x0E\x01\x05\x04<\x00Calculo un 90% de probabilidades\nde que la <r<llama sagrada >>se encuentre\nmás adelante. \n\n\x0E\x01\x05\x04\x1E\x00Sugiero buscarla por este mar de\narena.
+A nuestro buen almirante,\n¡gracias por todo!\n\n- La tripulación
+Papá, ¡no trabajes demasiado!

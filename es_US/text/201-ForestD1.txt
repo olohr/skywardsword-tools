@@ -1,0 +1,67 @@
+Templo de la\ncontemplación
+Dentro de la sala ubicada en el\ncentro hay un mapa del templo.\nToca las gemas marcadas con \x0E\x02\x04\x02\x19CD\nen el mapa para poder seguir.
+Al héroe caído del cielo:\nEscucha y presta atención\na la voz del dócil siervo\nque te trajo a esta región.
+Hay dos puertas a los lados;\nuna arriba y la otra abajo.\nAquel que golpee las gemas,\nlas pasará sin problemas.
+
+Tras esta gigantesca puerta percibo\ncon fuerza el aura de <b<Zelda>>.\nLas probabilidades de que se\nencuentre cerca son muy altas.
+
+Confirmo que se ha desbloqueado\nel mecanismo de apertura de esta\npuerta.
+Tengo malas noticias, \x0E\x01\x12\x04\x00\x0Bamo.\nEl interior de este templo rezuma\nmaldad, y detecto las auras de un\nsinfín de monstruos.\nPor este motivo, me resulta imposible\naislar el aura de Zelda\x0E\x01\x06\x02\xFECD,~~~ de modo\x0E\x01\x06\x02Í<pling> que\n<r<rastrearla no servirá de nada>>.\n\nAconsejo al \x0E\x01\x12\x04\x00\x01amo que <g<observe su\nentorno >>con atención para tratar\nde localizarla por sí mismo.
+\x0E\x01\x12\x04\x00\x04Amo Link, tengo\ninformación sobre los mecanismos\nde apertura de las puertas.\n\nCon el objetivo de facilitar la tarea,\ndichos mecanismos suelen estar\ncolocados cerca de las puertas que\nabren.\nSi se <g<inspecciona >>detenidamente\nla zona, calculo un 80% de\nprobabilidades de encontrarlos.
+Parece que algún secuaz de Grahim\nha vuelto a cerrar la puerta. Va a ser\nnecesario buscar de nuevo la llave.
+Detecto que el nuevo aparato con\naspecto de insecto <pling>puede <r<volar>>.\n\n\nEs posible <r<controlarlo a distancia>>\nutilizando el control y puede usarse\npara golpear pequeños objetos.\n\nCuando el \x0E\x01\x12\x04\x00\x01amo desee sacarlo, deberá\noprimir (B). Al oprimir (2) obtendrá \ninformación sobre su funcionamiento\ny modo de uso.\x0E\x01\x11\x02\x1CD\x0E\x01\x11\x02\x5CD
+Procedo a explicar el funcionamiento\ndel recién adquirido <y<escarabajo con\ngancho>>.\n \nRecuerdo la posibilidad de <r<controlar\nel rumbo>> en vuelo utilizando el control.\nAdemás, sus mandíbulas pueden cortar\ny golpear pequeños objetos.\nTambién confirmo que esta nueva\nversión del escarabajo posee unas\nmandíbulas más poderosas y ahora es\ncapaz de transportar objetos pequeños.\nEn caso de duda sobre su uso, bastará\ncon oprimir (B) para elegir y sacar\nel escarabajo y después oprimir (2)\npara obtener la información deseada.\x0E\x01\x11\x02\x1CD\x0E\x01\x11\x02\x5CD
+Detecto la presencia de muchos\nmás seres malignos que la\núltima vez que pasamos por aquí.\nLa situación es muy peligrosa.
+He podido detectar la presencia\nde <y<agua sagrada>> en el interior\nde este templo, pero aquí resulta\n<pling><r<imposible usar el rastreador>>.\nA juzgar por la fuerza de la señal que\nobtuvimos en el exterior, calculo que\nse halla en la estancia más profunda.
+Recomiendo dirigirnos a la zona\nmás remota del templo tomando\ncomo referencia el punto del mapa\nmarcado con \x0E\x02\x04\x02\x19CD.
+Detecto la presencia cercana\nde <y<agua sagrada>>. Puesto que no\nse detecta ningún aura enemiga,\naquí sí es posible <r<usar el rastreador>>.
+\x0E\x01\x12\x04\x00\x04Amo, es muy probable que el siervo al\nque hace referencia la litografía sea\nyo, <b<Fay>>.\n\nCon objeto de ayudar al \x0E\x01\x12\x04\x00\x02amo, la Diosa\nme confió todos sus conocimientos\nsobre esta tierra.\n\nSiempre que algo llame la atención\ndel \x0E\x01\x12\x04\x00\x02amo, basta con oprimir (v) para\nrequerir mi presencia.\x0E\x01\x11\x02\x9CD\n\nTambién es posible <g<centrar >><g<la vista >>en\nun objeto con (Z) y después <r<oprimir >>(v)\npara obtener información específica\nsobre dicho objeto.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+Un guardián producto de la magia.\nTiene por costumbre mirar fijamente\nel extremo de los objetos puntiagudos.
+Los ojos están conectados entre sí de\nalgún modo por detrás del muro. Esto\nimpide que se los pueda derrotar de\nmanera independiente.
+\x0E\x01\x12\x04\x00\x04Amo Link, confirmo que\nen los alrededores hay algo que puede\nseleccionarse como objetivo.\n\nUna vez fijado el objetivo con (Z),\nbasta con oprimir (v) y acudiré para\nproporcionar cualquier dato que\npueda servir de ayuda.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+\x0E\x01\x12\x04\x00\x04Amo Link...\nDebo decir que el agua de esta\nestancia es...~~~ <r<completamente normal>>.\n\nDeduzco que el <y<agua sagrada >>de la\nque hablaba la dragona del agua se\nhalla en los confines del templo.
+Esto es el colmo... Con lo que me costó\nquitarle la llave a ese monstruo, y\nahora la he perdido...
+Por todas las madrigueras...\n¡No recuerdo en qué agujero\nla enterré!
+Pero bueno, tampoco iba a hacerme\nrico con una simple llave.\n¡Este mogma apunta mucho\nmás alto! ¡A un gran tesoro!
+Qué ingenuo soy... Pensaba que esa\nllave me abriría las puertas de una vida\nllena de lujos y excesos.~~~ Y yo creo que\nla enterré por aquí...
+¿Necesitas ayuda?\n[1]Sobre la llave[2]Sobre tesoros[3-]No
+No veo nada por ninguna parte...
+Estoy casi seguro de que la enterré,\npero no logro recordar dónde.
+¿Conoces a ese tipo gigantesco\nque parece una roca con patas?\nDice que hay una <y<escultura de oro>>\nque abre una puerta muy importante.
+Hmm, ¿dónde era? Creo que aquí no.\nPor casualidad, no tendrás un mapa,\n¿verdad?
+Oye, tú sabes algo que no me\nhas contado... ¡Se te nota en la cara!\n¡Vamos, confiesa ya!
+¡Ah, la llave! ¿La traes para mí?
+¿Cómo? ¿Que ya la has usado?
+Aunque, ahora que lo pienso, ¿para qué\nquerría un mogma como yo una llave?\n¡Puedo llegar cavando adonde quiera!
+De todas formas, te agradezco mucho\nla información. ¡Y ahora, a seguir\nbuscando tesoros!
+Oye, espera, ¿nos conocemos? Tú eres\nel tipo que me encontré en el volcán,\n¿verdad que sí?
+¿También has venido a buscar tesoros?\n[1]¡Exacto![2]No
+¡Lo sabía! Se nota que eres un cazador\nde tesoros, muchacho.
+¡A mí no me engañas! ¡Se nota\nque eres un cazador de tesoros!
+Supongo que tú también habrás\nvenido tras escuchar el acertijo\nque va contando el tipo ese que\nparece una roca con patas, ¿no?\n[1]¿El goron?[2]¿Acertijo?
+Sí, ¿cómo era?... \"En el templo donde\ndanzan las mariposas, <pling><g<haz que suene\nuna melodía>> maravillosa\".
+Pero yo he cantado aquí los mejores\ntemas de mi fantástico repertorio\ny no ha pasado nada...
+Pero bueno, ya que he hecho el\nesfuerzo de venir hasta aquí, no\npienso rendirme tan fácilmente.\n¡No hay tesoro que se me resista!
+No puedo creer que haya venido\nhasta aquí para, al final, irme con\nlas garras vacías. ¡Qué triste!
+Por lo visto, alguien se me ha\nadelantado. ¡Aquí no hay más\nque <y<agua>>!
+¿Y a quién le interesa el agua?\nA mí no, te lo aseguro.
+Yo me voy, amigo.\n¡Cuidado con los agujeros!
+¡Oye, oye! No pretenderás buscar\nel tesoro tú solo, ¿no?
+A ver, escúchame bien, amigo...\x0E\x01\x04\x02\x1E\nQue haya aparecido un símbolo\nen esa pared no significa que vayas\na encontrar nada de valor, ¿sabes?
+Me temo que ese tipo que parece\nuna roca te ha engañado...
+Si quieres, puedes quedarte aquí\ny descansar. Yo me encargaré\nde buscarlo por ti.
+¡No pienso permitir que nadie\nme quite el tesoro!
+
+
+
+
+Mmm...~~~ No está mal para tratarse\nde un mocoso como tú.\n\n\nPero no creas que ha sido gracias\na tu habilidad.~~~ No serías nada sin\nesa espada.
+Me temo que he perdido demasiado\ntiempo jugando contigo. Ya no puedo\ndetectar la presencia de la joven\nen este lugar.~~~\nAsí que debo despedirme, chico de los\ncielos. Por esta vez te permitiré vivir,\npero procura no volver a cruzarte en\nmi camino.
+\x0E\x01\x05\x04K\x00Esa espada tuya no está nada mal.~~~\nPero me basta con observar <r<tus\nmovimientos >>para poder detenerla\ncon una sola mano.
+
+\x0E\x01\x12\x04\x00\x04Amo Link, según lo que\nacabo de traducir, <b<Zelda >>se dirigió\na este lugar para purificarse.\n\nCalculo un 97% de probabilidades\nde que a continuación se encaminara\nhacia el manantial de la <b<región de\nEldin>>.\nSu medio de desplazamiento, en\ncualquier caso, sigue siendo un\ncompleto misterio.
+Sugiero colocar en el pedestal de\n<b<Neburia >>la litografía que el \x0E\x01\x12\x04\x00\x01amo\nha encontrado.\n\nPresumo que así surgirá una nueva\n<r<<r<<pling><r<columna de luz >>desde la región en la\nque se halle Zelda.
+El \x0E\x01\x12\x04\x00\x01amo puede regresar de nuevo a\nlos cielos usando la <b<estatua >>que hay\nen el exterior.
+El mecanismo necesario para volver\na Neburia se encuentra en el bosque\nque hemos atravesado antes.
+Existe un 95% de probabilidades\nde que esta agua sea idéntica\na la de la marmita de la dragona del\nagua. Sugiero regresar ante ella.
+Esta agua es distinta al agua común,\npues oculta una poderosa energía\nen su interior.\n\nSi entrara en contacto con un cuerpo\nque vibre con una frecuencia similar,\nes probable que su energía aumente\naún más.

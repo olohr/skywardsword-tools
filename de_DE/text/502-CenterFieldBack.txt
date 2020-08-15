@@ -1,0 +1,33 @@
+\x0E\x01\x09\x04\x00\x01Da bist du ja endlich, Link!\nIch habe dich erwartet.\n\n\nIch kann mir vorstellen, dass du etwas\nverwirrt bist, doch ich werde dich\naufklären.
+Dies ist der <r<Hylia-Tempel>>.\nIn deiner Zeit kennt man ihn unter dem\nNamen <b<Tempel des Siegels>>...\n\nUnermesslich lange ist es für euch her,\ndass die Göttin den<b< Todbringer >>an\ndiesem Ort eingeschlossen hat...\n\nHier ist indes nur ein Augenblick\nvergangen, seit der Wolkenhort vom\nErdland getrennt wurde...
+\x0E\x01\x09\x04\xF0F\x703Genau.\nDu hast das <b<Zeitportal>> durchquert\nund bist in die <r<Vergangenheit>> gereist.\n\nIch bin mir sicher, dass du viele Fragen\nhast... Geh aber nun durch das Tor\ndort hinten!
+Dort erwartet dich jene Person, für\ndie du all diese Strapazen auf dich\ngenommen hast.
+\x0E\x01\x09\x04\x00\x03Dies ist die Zeit, in der die Göttin <b<Hylia\n>>den <b<Todbringer>> hier an diesem Ort\neingeschlossen hat.\n\nIch bin mir sicher, dass du viele Fragen\nhast... Geh aber nun durch das Tor\ndort hinten!\n\nDort erwartet dich jene Person, für\ndie du all diese Strapazen auf dich\ngenommen hast.
+\x0E\x01\x09\x04\x00\x03Ihr habt euch verabschiedet...\n\n\n\nFinde das <y+<Triforce>>, so wie du es <b<Zelda>>\nversprochen hast!\n\n\nIn deiner eigenen Zeit warten viele\nAufgaben auf dich.
+\x0E\x01\x09\x04\x00\nSorge dich nicht!\nIch werde <b<Zelda>> hier beschützen.\nVollende du deine Aufgabe!
+~~~.~~~.~~~.\n\x0E\x01\x09\x04\x0F\x803Uh...\n\n\n[1]Was ist?[2]Entschuldige!
+\x0E\x01\x09\x04\x00\x703Uh...\nNichts Wichtiges...
+Uhuhum...
+Siehst du das sonnige Fleckchen\nErde dort?\n\n\nIch hatte mir überlegt, dort einen\nBaum zu pflanzen.\n\n\nWenn <b<Zelda>> wieder erwacht, wird sie\nsich an seinen Blättern erfreuen\nkönnen.
+Es müsste allerdings ein Baum sein,\nder Tausende von Jahren überstehen\nkann...\n\nOb es irgendwo <r<Keimlinge>> für solch\neinen Baum gibt?
+\x0E\x01\x09\x04\x00\x03Ein Baum, der etliche Generationen\nübersteht... Ob es irgendwo einen\n<r<Keimling >>für solch einen Baum gibt?
+\x0E\x01\x09\x04\x00\x0BOh, du hast ihn eingepflanzt!\n\n\n\nIch spüre die Kraft dieses Setzlings!\nEines Tages wird einmal ein großer,\nschöner Baum aus ihm wachsen!
+\x0E\x01\x09\x04\x00\x03Ich spüre die Kraft dieses Setzlings!\nEines Tages wird einmal ein großer,\nschöner Baum aus ihm wachsen!
+\x0E\x01\x09\x04\x00\x01Noch hast du deine Aufgabe\nnicht erfüllt...\n\n\nTu, was dir aufgetragen wurde...\nTu es für <b<Zelda>>!\n
+\x0E\x01\x09\x04\x00\x12Aaah... Link?\nGhirahim hat mich erwischt...\n\n\nSorge dich nicht um mich...\nDu musst ihn aufhalten!
+Er ist durch dieses <r<Haupttor >>geflohen!\nNoch ist es offen... Schnell!
+\x0E\x01\x09\x04\x00\x12Er ist durch das <r<Haupttor >>geflohen!\nSchnell... Folge <b<Ghirahim>>!
+\x0E\x01\x09\x04\x07\xC0BHab keine Angst! <b<Zelda>> geht es gut.\nSie schläft da hinten in der Kammer.\n\n\n\x0E\x01\x09\x04\x0F\x700Dass der Todbringer erneut erwacht\nist... \x0E\x01\x04\x02\nNun liegt es in deinen Händen!\n\x0E\x01\x09\x04\x00\x706Gib alles, Link!
+\x0E\x01\x09\x04\x07\xC04Hab keine Angst! <b<Zelda>> geht es gut.\nSie schläft da hinten in der Kammer.\n\n\n\x0E\x01\x09\x04\x00\x706Du musst den Kerl besiegen und\ndie Welt retten, Link!
+\x0E\x01\x09\x04\x0E\x20DPuh!\nDas war nun wirklich knapp...\n\n\n\x0E\x01\x09\x04\x00\x200Da kannst du wirklich von Glück\nreden, dass du mich hast, stimmt's?!?\n\n\n\x0E\x01\x09\x04\x00\x200Mach dir keine Sorgen um <b<Zelda>>,\nich passe auf sie auf!\n\n\nDu solltest dich währenddessen um den\n<b<Todbringer>> kümmern! Zeig's ihm!\n\n\n\x0E\x01\x09\x04\x00\x203Ich zähle auf dich, Link!
+Zeig dem Todbringer, wo's lang geht!\nDu schaffst das!\n\n\n\x0E\x01\x09\x04\x00\x03Ich zähle auf dich, Link!
+\x0E\x01\x12\x04\x00\x0BGebieter, ich habe dir etwas\nzu berichten.\n\n\nWenn du hier weitergehst, liegt die\nWahrscheinlichkeit, dass du nicht mehr\nzurückkehren kannst, ohne den Kampf\nbeendet zu haben, bei 100 %.\nFühlst du dich bereit für den Kampf?\n[1]Ja[2-]Nein
+\x0E\x01\x12\x04\x00\x05Gebieter, komm hierhin zurück, wenn\ndeine Vorbereitungen abgeschlossen\nsind.
+\x0E\x01\x12\x04\x00\x05Gebieter,~~~ ich bin immer bei dir...\n\n\n\n\x0E\x01\x12\x04\x00\x01Gebieter...\x0E\x01\x04\x02\x1E Viel Glück.
+\x0E\x01\x12\x04\x00\x04Gebieter, willst du dich noch einmal\nzurückziehen, um dich auf diesen\nKampf vorzubereiten?\n[1]Ja[2-]Nein
+Sehr wohl, \x0E\x01\x12\x04\x00\x05Gebieter.\nKehre zurück, wenn du deine\nVorbereitungen abgeschlossen hast.
+\x0E\x01\x12\x04\x00\x05Sehr wohl, Gebieter.
+\x0E\x01\x12\x04\x00\x04Gebieter, bist du nun bereit für\nden Kampf?\n[1]Bereit![2-]Warte!
+Sehr wohl, \x0E\x01\x12\x04\x00\x05Gebieter.\nDann brechen wir auf!
+Sehr wohl, \x0E\x01\x12\x04\x00\x05Gebieter.\nBereite dich nur gut vor.
+\x0E\x01\x05\x04-\x00\x0E\x01\x08\x02\x2CDDieser verfluchte Wicht!

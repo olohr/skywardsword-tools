@@ -1,0 +1,7 @@
+This is the <r<Windmill Propeller >>you\nwere searching for.\n\n\nIt is now possible to retrieve this using\nthe robot whose services we have\nenlisted.\n\nWould you like me to call the robot?\n[1]Yes.[2-]No.
+Yes, \x0E\x01\x12\x04\x00\x05Master. If you change your mind\nand wish to retrieve it, please examine\nit again.
+I will send word to the robot using\ntelepathic transmission, \x0E\x01\x12\x04\x00\x05Master.
+\x0E\x01\x12\x04\x00dMistress Fi! I hope you weren't waiting\nlong, bzzzt!\n\n\nSo, zrrrbt, you want me to carry this?!
+\x0E\x01\x12\x04\x00dI'll be waiting for you up in the sky,\nso don't take too long, vrrrt!
+\x0E\x01\x12\x04\x00\x01Master, I suggest that we also return to\nthe sky and collect the propeller as\nsoon as possible.
+\x0E\x01\x12\x04\x00dHey! Master Shortpants! You're in my\nway here, zrrpt! I said, get out of the\nway, vrrrrrt!

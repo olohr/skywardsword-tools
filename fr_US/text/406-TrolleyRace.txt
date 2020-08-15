@@ -1,0 +1,38 @@
+Autrefois, ici, c'était la zone\nd'embarquement des wagonnets\nde la mine. Et ils fonctionnent\ntoujours, c'est incroyable!\nSi tu grimpes là\x2010dedans, tu pourras\nfaire le tour des îlots du coin! Il y a\ndes instructions sur le mur qui te\ndisent comment faire.\nMais attention, c'est un peu dangereux\nquand même. Faut tout bien lire!
+J'aime bien les wagonnets.\nÇa serait bien de faire une course,\nun de ces jours!
+Encore un tour?\nC'est 20 rubis!\n[1]C'est parti![2-]Non merci
+\x0E\x03\x01\x00Link!\nTu es revenu!\n\n\nTu veux faire un tour dans le Wagonnet\ndu péril? C'est 20 rubis!\n[1]C'est parti![2-]Non merci
+D'accord. À la prochaine!
+T'as pas assez de rubis?\nPas drôle, ça!\n\n\nVa donc te remplir les poches, et\nreviens me voir!
+Tu veux que je te réexplique les\nrègles?\n[1]Je veux bien[2-]Ça va, merci
+Tu dois atteindre la ligne d'arrivée le\nplus vite possible.\n\n\nIncline la manette Wii Remote pour\nfaire pencher le wagonnet.\n\n\nPenche\x2010le au bon moment pour\naccélérer!\n\n\nReste bien concentré, sinon tu risques\nde dérailler!
+Pour l'instant, ton meilleur temps est\nde \x0E\x02\x03\x06\x00\x00\x2CD min \x0E\x02\x03\x06\x00\x01\x2CD s \x0E\x02\x03\x06\x00\x02\x2CD!
+Ça y est, on y va!
+Ça t'intéresse?\n[1]Oui![2-]Pas vraiment
+Hé, toi!\nQu'est\x2010ce que tu fais ici?\n\n\nBon, tant pis. Aussi bien s'amuser,\npuisque t'es là! Ça te tente?\n[1]S'amuser?[2-]Euh, non
+Pas de sensations fortes pour toi,\ncomme ça? Écoute\x2010moi, au moins!\n[1]D'accord[2-]Non merci!
+Je savais bien que tu serais intéressé!\nJe vais t'expliquer comment ça marche.
+Comme si ça engageait à quelque chose\nd'écouter les règles...
+D'accord. À la prochaine!
+C'est quand même dommage...\nY avait de beaux prix à gagner...\n\n\nTu es sûr de pas vouloir essayer?\n[1]Bon, OK![2-]Laisse\x2010moi!
+Tant pis. Tu reviendras une autre fois!
+Tu as atteint l'arrivée!
+Et un nouveau record!\nGénial!
+J'aurai toujours un wagonnet pour toi!
+Tu veux rire! Je savais même pas\nqu'on pouvait aller si lentement!\n\n\nJe peux pas remettre un prix à une\ntortue comme toi, c'est contre mes\nprincipes!
+Tu peux faire mieux, y a pas de doute.\nFais pencher ton wagonnet\ndavantage!\n\nTiens, t'auras pas tout perdu!
+C'est pas mal du tout.\nMais je suis toujours bien plus rapide!\n\n\nTiens, voilà pour toi.
+Wow! Impressionnant, extraordinaire!\nMême moi, je vais pas aussi vite!
+Envie d'une petite montée\nd'adrénaline?\nC'est 20 rubis le tour en wagonnet.\n[1]C'est parti![2-]Non merci
+Sur quel parcours veux\x2010tu risquer\nta vie?\n[1]Débutant[2]Expert
+C'est parti pour le parcours débutant.\nBonne chance!
+En avant pour le parcours expert.\nEssaie de revenir avec tous tes\nmorceaux!
+Ton meilleur temps pour l'instant est\nde \x0E\x02\x03\x06\x00\x03\x2CD min \x0E\x02\x03\x06\x00\x04\x2CD s \x0E\x02\x03\x06\x00\x05\x2CD!
+Le temps est écoulé!\nFaudra faire mieux la prochaine fois.
+Voilà pour toi, un trésor que j'ai\ndécouvert ici même, sur cette île!
+J'ai un prix tout à fait spécial pour toi!
+Voici un rubis dont j'ai toujours pris\ngrand soin.
+C'est pas trop mal, mais t'as encore du\nchemin à faire pour me rattraper!\n\n\nVoilà 50 rubis pour toi.
+Dis donc, c'est mon tabouret!\nLève tes fesses de là!
+Ça fait des années que je suis tout seul\nsur cette île.\n\n\nTous les jours, je fais mes tours de\nwagonnet. Je ne m'en fatigue pas!
+Je suis ici tous les jours depuis si\nlongtemps, et il n'y a bien que toi pour\nvenir me voir!\n\nSi tu pouvais en parler à d'autres gens,\nça serait gentil...\nJe me sens un peu seul, ici.

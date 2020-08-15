@@ -1,0 +1,67 @@
+Temple de la\ncontemplation
+La voie s'ouvrira quand les\njoyaux marqués par des \x0E\x02\x04\x02\x19CD sur\nla carte seront frappés. La carte\nrepose dans la salle centrale.
+Toi qui descends des cieux,\nprête l'oreille à l'envoyée\nqui t'a guidé ici\x2010bas.
+Les portes des pièces latérales\ns'ouvrent lorsque les joyaux\nsont frappés. L'un est en haut,\nl'autre est en bas.
+
+J'ai détecté l'aura de dame <b<Zelda >>de\nmanière très distincte derrière cette\ngrande porte. J'en déduis qu'elle est\ntoute proche.
+
+Le mécanisme contrôlant le verrou sur\ncette porte semble avoir été désactivé.
+\x0E\x01\x12\x04\x00\x0BMaître, Fay au rapport.\nJe ressens les auras maléfiques de\nnombreux monstres dans ce temple.\n\nIl m'est impossible d'isoler celle de\ndame Zelda pour la localiser\x0E\x01\x06\x02\xFECD...~~~\n\n\n\x0E\x01\x06\x02ÍVous ne pourrez donc pas utiliser la\n<pling><r<fonction détection >>dans cette zone.\n\n\n\x0E\x01\x12\x04\x00\x01Maître, je vous recommande\nd'analyser la situation à l'aide\nde la <g<vue subjective>>.
+\x0E\x01\x12\x04\x00\x04Maître Link, voici mon\nrapport sur le mécanisme permettant\nd'ouvrir cette porte.\n\nSi j'en juge par sa fonction, je devine\nqu'il doit se trouver non loin de la\nporte en question.\n\nLa probabilité de le trouver en\n<g<inspectant >>scrupuleusement les\nalentours de la porte est de 80 %.
+Les sbires de Ghirahim ont verrouillé\nla porte à nouveau. Il faut en retrouver\nla clé.
+Vous avez obtenu un nouvel objet.\nMon analyse indique que cet objet en \nforme d'insecte est <r<<pling>capable de voler>>.\n\n<r<Dirigez\x2010le à distance >>à l'aide de la\ntélécommande Wii. Ses mandibules\npeuvent sectionner des choses fines\net frapper de petits objets.\nSortez\x2010le avec (B) et appuyez sur (2)\npour consulter son mode d'utilisation.\x0E\x01\x11\x02\x1CD\x0E\x01\x11\x02\x5CD
+Je vais vous donner des explications\nsur le <y<scarabée à crochet >>que vous\nvenez d'obtenir.\n\n<r<Dirigez\x2010le à distance >>à l'aide de la\ntélécommande Wii. Ses mandibules\npeuvent sectionner des éléments\nfins et frapper de petits objets.\nSes mandibules améliorées vous\npermettent également de transporter\ndes objets légers.\n\nSi vous souhaitez consulter son mode\nd'utilisation, sortez\x2010le avec (B) puis\nappuyez sur (2).\x0E\x01\x11\x02\x1CD\x0E\x01\x11\x02\x5CD
+Je ressens la présence de monstres plus\nnombreux que lors de notre dernière\nvisite. Soyez prudent.
+J'ai repéré l'<y<eau sacrée >>à l'intérieur\nde ce temple, mais il est <r<<pling>impossible\nd'utiliser la fonction détection >>ici.\n\nD'après ce que j'ai pu percevoir de\nl'extérieur, je déduis que l'eau sacrée\nse trouve au plus profond de ce temple.
+Je vous recommande d'explorer à\nnouveau les profondeurs de ce temple\nen direction de la \x0E\x02\x04\x02\x19CD indiquée sur\nvotre carte.
+Je perçois de l'<y<eau sacrée >>tout près\nd'ici. Les auras des monstres ont\ndisparu, vous pouvez à nouveau\nutiliser la <r<fonction détection>>.
+\x0E\x01\x12\x04\x00\x04Maître Link, il est\nprobable que <b<je>> sois l'envoyée dont il\nest question sur cette stèle.\n\nPour vous venir en aide, \x0E\x01\x12\x04\x00\x02Maître,\nla Déesse m'a transmis une multitude\nd'informations à propos de cette terre.\n\nSi quelque chose vous pose problème,\nappelez\x2010moi en appuyant sur (v).\x0E\x01\x11\x02\x9CD\n\n\nPar ailleurs, lorsque vous <g<ciblez\n>>quelque chose avec (Z), appelez\x2010moi\navec (v) et je vous donnerai des\ninformations sur votre cible.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+C'est un gardien créé à partir d'une\nforce maléfique. Il a tendance à\nsuivre du regard la pointe des\nobjets effilés.
+Ces yeux sont reliés les uns aux autres.\nIl est probable qu'il soit impossible\nde leur donner le tournis un par un.
+\x0E\x01\x12\x04\x00\x04Maître Link, j'ai détecté\nprès de nous quelque chose que vous\npouvez cibler.\n\nLorsque vous <g<ciblez>> avec (Z), si vous\nm'appelez avec (v), je vous donnerai\nde plus amples informations sur votre\ncible.\x0E\x01\x11\x02\x7CD\x0E\x01\x11\x02\x9CD
+\x0E\x01\x12\x04\x00\x04Maître Link,\nl'eau qui se trouve dans cette salle...\n~~~est de l'<r<eau ordinaire>>.\n\nL'<y<eau sacrée>> dont a besoin le dragon\nd'eau devrait se trouver dans les\nprofondeurs du temple.
+Ah, la poisse ! C'était bien la peine que\nje m'embête à chaparder cette clé à\nces satanés monstres...
+J'ai dû la cacher dans un trou, mais\nje me souviens plus lequel...
+Enfin, moi, les clés, ça m'intéresse pas\ntant que ça. Ce que je veux, c'est des\ntrésors qui rapportent plus de blé !
+Avec cette clé, je pensais mettre la\nmain sur des trésors qui me rendraient\nriche...~~~ Je suis pourtant sûr que je l'ai\n<r<enterrée dans le coin >>!
+Qu'est\x2010ce que tu veux ?\n[1]La clé[2]Le trésor[3-]Rien
+Mais c'est pas vrai ! Je la trouve pas...
+Je suis sûr que j'ai enterré cette\nsatanée clé quelque part !\nMais je sais plus où...
+Un type qui ressemble à un gros\ncaillou m'a dit qu'il y avait une\n<y<sculpture dorée >>au fond de ce temple.\nElle ouvrirait une porte importante.
+C'était où, déjà...? Peut\x2010être dans\ncette pièce. Ou pas... T'aurais pas une\ncarte, toi, par hasard ?
+Dis donc...\nToi, t'as une tête à savoir\nquelque chose...
+Ouais ! C'est cette clé !\nT'es allé la chercher\nexprès pour moi ?
+Quoi ? T'as trouvé la clé mais\ntu l'as utilisée ?
+En fait quand j'y pense, nous autres\nMogmas, on a pas vraiment\nbesoin de clés.
+Merci de m'avoir prévenu !\nJe retourne à la chasse\nau trésor !
+On se connaît, non ?\nOuais, ça me revient, on s'est\ncroisés au volcan, c'est ça ?
+Toi aussi t'es venu chercher\ndes trésors dans le coin ?\n[1]Gagné ![2]Non
+C'est bien ce que je pensais !\nTu empestes le trésor à des\nkilomètres.
+On m'la fait pas à moi !\nTu empestes le trésor à des\nkilomètres.
+Toi aussi t'es venu parce que t'as\nentendu les histoires du type qui\nressemble à un gros caillou ?\n[1]Le Goron ?[2]Des histoires ?
+« À l'endroit où virevoltent les\npapillons dans le temple, <pling><g<fais\nrésonner une douce mélodie>>. »
+C'est ce qu'il m'a raconté, mais même\nquand je chante de ma plus belle voix,\nil se passe rien.
+Enfin, maintenant que je suis là,\nje vais fouiner un peu pour voir si\nje trouve pas des trésors !
+C'est pas vrai... Je me suis embêté\nà venir jusqu'ici pour rien. J'ai\nvraiment pas de bol.
+On dirait que quelqu'un est déjà passé\navant moi. Ici, y a rien d'autre que de\nl'<y<eau>>.
+Franchement, je vois pas qui pourrait\nvouloir de la flotte !
+Bon, moi, je vais rentrer.\nÀ la poche pleine !
+Hé là ! Tu crois quand même pas que\ntu vas prendre les trésors pour toi\ntout seul !
+M'enfin...\x0E\x01\x04\x02\x1E Y a un symbole bizarre\nqu'est apparu sur le mur, mais y a\npas l'air de se passer grand\x2010chose...
+Je crois que le gros caillou s'est bien\npayé notre tête.
+Allez, je prends la tangente !
+C'est moi qui trouverai le\ntrésor en premier !
+
+
+
+
+Oho...~~~ Je vois que tu ne te débrouilles\npas trop mal.\n\n\nMais tu n'as pas vraiment de mérite...~~~\nTu ne le dois qu'à cette épée.
+Je suis las de jouer avec toi.\nJe ne ressens plus la présence de la\njeune fille...~~~ Je n'ai donc plus de temps\nà perdre ici.\nAdieu, enfant des cieux. Je te pardonne\npour cette fois, mais ne t'avise plus de\nte mettre en travers de ma route.
+\x0E\x01\x05\x04K\x00C'est une bien belle épée que tu as là.~~~\nMais il me suffit d'observer <r<ta posture\n>>pour l'arrêter d'une seule main.
+
+\x0E\x01\x12\x04\x00\x04Maître Link, selon les\nmots que je vous ai traduits, dame\n<b<Zelda>> est venue ici se purifier.\n\nLa probabilité qu'elle se soit ensuite\ndirigée vers la source suivante, sur\nles <b<terres d'Ordinn>>, est de 97 %.\n\nJe ne possède cependant aucune\ninformation sur la manière dont\nelle s'y est rendue.
+Selon mes estimations, si vous\nretournez à <b<Célesbourg >>pour placer\ndans son piédestal la stèle que vous\nvenez d'obtenir...\n... une <r<<pling>nouvelle colonne de lumière>>\ndevrait s'élever de la terre et vous\npermettre de continuer à rechercher\ndame Zelda.
+Vous pouvez utiliser la <b<statue\nd'oiseau >>qui se trouve à l'extérieur\npour regagner le ciel.
+Il devrait y avoir dans la forêt un\ndispositif permettant de regagner\nle ciel.
+La probabilité que cette eau soit la\nmême que celle que contient la bassine\ndu dragon d'eau est de 95 %.\nRetournons à sa caverne.
+Cette eau n'est pas une eau ordinaire.\nElle dégage une grande énergie.\n\n\nSi elle entre en contact avec\nun corps de même fréquence\nvibratoire, une augmentation\nd'énergie pourrait se produire.

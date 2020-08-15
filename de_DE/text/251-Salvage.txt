@@ -1,0 +1,17 @@
+Die Wahrscheinlichkeit, dass es sich\nhierbei um eine Pflanze handelt, liegt\nnur bei 40 %.\n\nIch halte es jedoch für möglich, dass\n<b<Otus>> dieses Wesen als neue Pflanzenart\nanerkennt.\n\nSoll ich den Roboter rufen und es in\nden Wolkenhort bringen lassen?\n[1]Ja[2-]Nein
+Sehr wohl, \x0E\x01\x12\x04\x00\x05Gebieter. Solltest du deine\nMeinung ändern, untersuche dieses\nWesen ein weiteres Mal.
+Sehr wohl, \x0E\x01\x12\x04\x00\x05Gebieter. Ich werde den\nRoboter nun rufen.
+\x0E\x01\x12\x04\x00dVerehrte Phai! Ihr habt mich gerufen?\n\n\n\nDiesen Knilch hier soll ich also\nwegbringen?
+Verstanden! Ich warte dann oben auf\nEuch! Bis später!
+\x0E\x01\x12\x04\x00\x01Ich schlage vor, dass du zurück ins\nWolkenmeer reist und den Kyu zu\njener Person bringst, die dich mit\nder Suche beauftragt hat.
+\x0E\x01\x12\x04\x00dDu bist mir im Weg, grüner Wicht!\nLos, mach die Fliege, aber hurtig!
+\x0E\x01\x09\x04\x00\x01Oh, du bist es wieder! <b<Kombus>> kleine\nSchultern tun weh vom Verstecken!\n[1]Welche\nSchultern?[2]Armes Ding!
+\x0E\x01\x09\x04\x09\x14So eine Frechheit! Auch wenn Kombus\nSchultern nicht stark und kräftig sind,\nhat Kombu trotzdem welche!\n\n\x0E\x01\x09\x04\x07\x11Aber <b<Kombu>> ist schon ganz müde vom\nständigen Verstecken. Das Leben hier\nist viel zu gefährlich!
+\x0E\x01\x09\x04\x07\x11Ja... Das Leben in ständiger Gefahr\nmacht <b<Kombu>> müde. Du kannst das\nwohl nicht verstehen...
+\x0E\x01\x09\x04\x09\x13Es gibt bestimmt immer noch viele\nFieslinge überall.\n\n\n\x0E\x01\x09\x04\x07\x04Das Leben der Kyu ist ein Leben in\nAngst. Das wird sich niemals ändern.
+\x0E\x01\x09\x04\x09\x13Alle freuen sich darüber, dass der Wald\nfriedlich geworden ist, aber Kombu\nglaubt das irgendwie nicht.\n\n\x0E\x01\x09\x04\x07\x04Muss <b<Kombu>> sich sein Leben lang\nimmer nur verstecken?
+\x0E\x01\x09\x04\x09\x05Kennst du irgendeinen Ort, an dem\n<b<Kombu>> leben kann, ohne sich immer\nverstecken zu müssen?\n[1]Oh ja![2]Natürlich!
+\x0E\x01\x09\x04\x06\x07Das ist ja wundertoll! Nimm <b<Kombu>>\nmit, sofort!
+\x0E\x01\x09\x04\x07\x14Du sagst, dass du <b<Kombu>> mitnimmst\nund plötzlich sagst du Nein und lässt\nKombu einfach hier? Ganz allein?\n\n\x0E\x01\x09\x04\x09\x13Kombu wird wohl nie ein ruhiges und\nfriedliches Leben führen können...
+\x0E\x01\x09\x04\x07\x04Aber beim nächsten Mal nimmst du\n<b<Kombu>> mit, oder?\n\n\n\x0E\x01\x09\x04\x00\x01Bitte!
+\x0E\x01\x09\x04\x07\x03Nimm <b<Kombu>> mit an einen Ort, wo\nKombu in Ruhe und Frieden leben\nkann, ohne Angst und ohne Gefahr!\n\n\x0E\x01\x09\x04\x00\x01Bitte!

@@ -1,0 +1,9 @@
+La vostra energia è diminuita.\nRecuperatela al più presto.\x0E\x01\x0C\x04\x06\x192
+Poiché ora vi trovate nella <r<modalità\neroica>>, non appariranno cuori e\ntulicuori. Raccomanderei un uso\nsapiente delle pozioni.
+Il vostro scudo si è indebolito. Fate\nattenzione al livello di resistenza.
+\x0E\x01\x06\x02\xFDCD\x0E\x01\x12\x04\x00\x02Mio signore, \x0E\x01\x04\x02\nle batterie del vostro\ntelecomando Wii sono quasi scariche.
+\x0E\x01\x06\x02\xFDCD\x0E\x01\x12\x04\x00\x02Mio signore, \x0E\x01\x04\x02\nle batterie del vostro\ntelecomando Wii \x0E\x01\x06\x02\xFCCDstanno per scaricarsi\ndel tutto.\x0E\x01\x06\x02\xFBCD Fate attenzione...
+La vostra vitalità è diminuita.\nRecuperatela al più presto.\n\n\nPer agevolarvi, ho impostato i <pling><y<cuori>>\ntra gli obiettivi del <g<rilevatore>>.
+Premendo (C) e selezionando il <y<cuore\n>>dal cerchio potrete scegliere\nl'obiettivo del rilevatore.\x0E\x01\x11\x02\x6CD\nFatene buon uso.
+Poiché ora vi trovate nella <r<modalità\neroica >>non appariranno cuori e\ntulicuori.\n\nTuttavia, se siete in possesso di un\n<y<amuleto del cuore>>, <r<avrete la\npossibilità >>che <pling>cuori e tulicuori\nappaiano.
+\x0E\x01\x12\x04\x00\x01Mio signore, il portarupie è pieno.\n\n\n\nSappiate che non vi sarà possibile\ntrasportare più rupie di quelle\nche già avete.

@@ -1,0 +1,254 @@
+Trepar
+Saltar
+Descolgarse
+Soltarse
+Abrir
+Dejar
+Lanzar
+Escarbar
+Hacer rodar
+
+Mover
+Agarrar
+Disparar
+
+
+
+Hablar
+Examinar
+Trazar
+
+Lanzar aire
+
+
+Bucear
+Saltar
+Correr
+Bajarse
+
+Agarrar
+Sentarse
+Levantarse
+Cavar
+
+
+Liberarse
+
+
+Plantar
+Atrapar
+Acelerar
+Abrir manto
+Envainar
+Emerger
+Colocar
+
+Girar
+Encajar
+
+Tensar arco
+
+
+
+Balancearse
+Mantener equilibrio
+Zarandear
+
+Dormir
+Soltar
+Lanzar
+Leer
+Latigazo
+Tirar
+Beber
+
+Subir
+¡Fuego!
+Atacar
+Golpe de gracia
+Bajarse
+Tocar
+
+Soltar
+Agarrar
+Asir espada
+Sacar
+Preparar espada
+Clavar espada
+Usar
+Llenar
+
+
+Vista subjetiva
+Rastrear
+Dirigir
+Vista de pájaro
+Saltar
+Seleccionar
+Agarrar
+Mover
+Acelerar
+Atacar
+Equilibrar
+Oprimir
+
+
+
+
+
+
+
+Trepar
+Saltar
+Descolgarse
+Soltarse
+Abrir
+Dejar
+Lanzar
+Escarbar
+Hacer rodar
+
+Mover
+Agarrar
+Disparar
+
+
+
+Hablar
+Examinar
+Trazar
+
+Lanzar aire
+
+
+Bucear
+Impulso
+Correr
+Bajarse
+
+Agarrar
+Sentarse
+Levantarse
+Cavar
+
+
+Liberarse
+
+
+Plantar
+Atrapar
+Acelerar
+Abrir manto
+Envainar
+Emerger
+Colocar
+
+Girar
+Encajar
+
+Preparar
+
+
+
+Balancearse
+Mantener equilibrio
+Zarandear
+
+Dormir
+Soltar
+Lanzar
+Leer
+Latigazo
+Tirar
+Beber
+
+Subir
+¡Fuego!
+Atacar
+Golpe de gracia
+Bajarse
+Tocar
+
+Soltar
+Agarrar
+Asir espada
+Arrancar
+Preparar espada
+Clavar espada
+Usar
+Llenar
+
+
+Vista subjetiva
+Rastrear
+Dirigir
+Vista de pájaro
+Saltar
+Seleccionar
+Agarrar
+Mover
+Acelerar
+Atacar
+Equilibrar
+Oprimir
+
+
+
+
+
+
+
+Fijar objetivo
+Correr
+Sacar escudo
+
+Usar escudo
+
+Rodar
+Esquivar
+
+Ver superficie
+Guardar
+
+
+Centrar
+Volver
+Mapa\ngeneral
+Alejar
+Acercar
+Desplazarse
+Ubicación actual
+
+
+Atrás
+Colocar baliza
+Quitar baliza
+Rotar mapa
+Rotar mapa
+
+
+
+
+Bajarse
+Guardar
+Regresar
+Moverse
+Ver cerradura
+Posición inicial
+Salir
+Parar
+Objetos
+Ataque torbellino
+Aceptar
+Posición inicial
+Salir
+Frenar
+Ver
+Seleccionar nivel
+Nombre de las islas
+Ocultar nombres
+Armar cañón
+Desarmar
+Abrir manto
+Volver
+

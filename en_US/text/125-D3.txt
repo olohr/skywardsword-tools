@@ -1,0 +1,30 @@
+Sky Keep
+\x0E\x01\x12\x04\x00\x0BMaster, I have information to report.\nI've detected three sources of sacred\npower within this building. This power\nclearly radiates from the <y+<<pling>Triforce>>.\nI've triangulated the three sources of\npower and marked them on your map\nas \x25B3.
+
+\x0E\x01\x12\x04\x00\x0BMaster, I have new information for\nyou. Analysis indicates that the shaking\nyou felt just now was caused by a\n<r<<pling>>><r<change in the building's structure>>.
+Now that the building's structure has\nbeen altered, it appears you can\nenter the adjacent room.
+I propose you use this <r<control panel>> to\nmove through the structure and collect\nthe components of the <y+<Triforce>>.
+By altering the internal structure of\nthis building, you will be able to gain\naccess to other chambers.
+Seek the <r<gemstones>> that sleep\nbehind each statue. If you strike\nthem in order from lowest to\nhighest, the door will open.
+\x0E\x01\x12\x04\x00\x01Master, look over that way.
+The design carved into the floor there\nis the <r<mark of Farore>>.\n\n\nI detect the sacred power of the\n<y+<Triforce>> emanating from its vicinity.
+To reach the area where that mark is\nlocated, I propose you pass through the\ndoor in front of you.
+
+
+
+I have identified the design on the \nfloor there as the <r<mark of Nayru>>.\n\n\nI detect the sacred power of the\n<y+<Triforce>> radiating from it.\nUnfortunately, the way leading to\nthe mark is closed off.
+I propose you utilize the nearby\n<y<Timeshift Orb>> to open a path to\nthe <r<mark>>.
+There appears to be a <y<Timeshift Orb>>\nover there.
+The symbol visible on the floor here is\nthe <r<mark of Din>>.\n\n\nI detect the sacred power of the\n<y+<Triforce>> emanating from its vicinity.
+Unfortunately, there seems to be no\nway to reach the mark from your\ncurrent position.\n\nI recommend you find another\nentrance into this chamber.
+\x0E\x01\x12\x04\x00\x0BMaster, I have information for you.\nThe chamber you stand in now is the\nsame one where you previously spotted\nthe <r<mark of Din>>.
+If you can find a way through the river\nof magma, I calculate a 60% chance\nyou will arrive at one of the sources\nof sacred power.
+\x0E\x01\x12\x04\x00\x0BMaster, I have information for you.\nI've detected a source of sacred power\nsomewhere within this chamber.
+I recommend you press forward in\nsearch of the power present here.
+
+
+
+
+
+
+\x0E\x01\x12\x04\x00\x0BMaster Link, you have\nreached the mark. Offer your sword\nto it.\n\nIf you do this, I calculate a high\nprobability that you will be shown\nthe way to a part of the <y+<Triforce>>.
