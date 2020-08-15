@@ -179,9 +179,6 @@ for obj in totally_all_objects:
 # blacklist=set(('posx','posy','posz','sizex','sizey','sizez','extraInfo'))
 # info=collections.defaultdict(set)
 
-# def extract_trigger_storyflag(obj):
-#     return extract_byte_between_2_bytes(obj['tosky_scen_link'],obj['scen_link'],2)
-
 # for obj in totally_all_objects:
 #     if obj['name'] == 'NpcTke':
 #         for k,v in obj.items():

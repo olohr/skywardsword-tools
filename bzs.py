@@ -5,6 +5,7 @@ import json
 import collections
 import os
 import storyflag
+import tboxSubtypes
 from util import *
 import re
 
@@ -114,13 +115,13 @@ def objAddExtraInfo(parsed_item):
         if parsed_item['name'] == 'TlpTag':
             extraInfo['nameidx'] = (params1 >> 8) & 0xFF
             extraInfo['name'] = map_text['MAP_%02d'%extraInfo['nameidx']]
-    if parsed_item['name'] in ['Log','trolley']:
+    if parsed_item['name'] in ['Log','trolley','Fence','Chandel']:#Chandel: Chandelier in Lumpy Pumpkin
         # flag is second byte
         extraInfo['scenefid'] = (params1 >> 16) & 0xFF
-    elif parsed_item['name'] in ['FrmLand','SwWall','SwDir2','BrgFall','D300Obj']: # SwWall: wall switch, BrgFall: drawbridges in ET and fire dragon room, D300Obj: LMF in lanayru desert
+    elif parsed_item['name'] in ['FrmLand','SwWall','SwDir2','BrgFall','D300Obj','TSBase']: # SwWall: wall switch, BrgFall: drawbridges in ET and fire dragon room, D300Obj: LMF in lanayru desert, TSBase: time shift orb base
         # flag is third byte
         extraInfo['scenefid'] = (params1 >> 8) & 0xFF
-    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB','WdBoard','SStatue','FShutte','Lotus','WaterSW','FireObs','StprRc','Gear','Lotus','MDvTg','chest','IslTreB','RoAtLog','swsyako','TgDefea']:# WdBoard: board near staldra in skyview, SStatue are statues you can bomb down in lanayru, FShutte: iron bars, Lotus: lillypad in AC, WaterSW: thirsty frog, FireObs: fire wall, StprRc: stopper rock in ET, Gear: Ropes to cut in ET and fire dragon room, MDvTg: megami diving tag used for diving after sailcloth, chest: wardrobes, IslTreB: Treasure island in the sky, RoAtLog: Roll attack log, swsyako: lanayru generators to feed with ampilus, TgDefea: Tag after defeated boss
+    elif parsed_item['name'] in ['TgReact','saveObj','HrpHint','BlsRock','TowerB','WdBoard','SStatue','FShutte','Lotus','WaterSW','FireObs','StprRc','Gear','Lotus','MDvTg','chest','IslTreB','RoAtLog','swsyako','TgDefea','SwHrp','SwdStb','TAgo']:# WdBoard: board near staldra in skyview, SStatue are statues you can bomb down in lanayru, FShutte: iron bars, Lotus: lillypad in AC, WaterSW: thirsty frog, FireObs: fire wall, StprRc: stopper rock in ET, Gear: Ropes to cut in ET and fire dragon room, MDvTg: megami diving tag used for diving after sailcloth, chest: wardrobes, IslTreB: Treasure island in the sky, RoAtLog: Roll attack log, swsyako: lanayru generators to feed with ampilus, TgDefea: Tag after defeated boss, SwHrp: Harp playing related, SwdStb: warps to triforce room
         # flag is fourth byte
         extraInfo['scenefid'] = params1 & 0xFF
         if parsed_item['name'] == 'Lotus':
@@ -154,7 +155,7 @@ def objAddExtraInfo(parsed_item):
         extraInfo['scenefid'] = (params1 >> 20) & 0xFF
         if parsed_item['name'] == 'Barrel':
             extraInfo['2scenefid'] = (params1 >> 12) & 0xFF
-    elif parsed_item['name'] in ['Tubo','Soil','Wind','ColStp','EEye','Est','Wind03','SldDoor','Wind02','ERemly','RolRock','Fire','SwBnkS','Char']: # ColStp: Logs before skyloft cave and elsewhere, EEye: Eyes in Skyview, Est: Spider, Wind03: water spot in AC, SldDoor: Door after bosses, Wind02: Appears in Eldin, probably lava fountains, ERemly: Remlit, RolRock: Rolling rocks, SwBnkS: small lanayru node & sandship switches to rotate, Char: Chair
+    elif parsed_item['name'] in ['Tubo','Soil','Wind','ColStp','EEye','Est','Wind03','SldDoor','Wind02','ERemly','RolRock','Fire','SwBnkS','Char','TouchTa']: # ColStp: Logs before skyloft cave and elsewhere, EEye: Eyes in Skyview, Est: Spider, Wind03: water spot in AC, SldDoor: Door after bosses, Wind02: Appears in Eldin, probably lava fountains, ERemly: Remlit, RolRock: Rolling rocks, SwBnkS: small lanayru node & sandship switches to rotate, Char: Chair
         # flag is between byte 3 and 4
         extraInfo['scenefid'] = (params1 >> 4) & 0xFF
         if parsed_item['name'] == 'SldDoor':
@@ -166,7 +167,7 @@ def objAddExtraInfo(parsed_item):
         extraInfo['scenefid'] = (params1 >> 12) & 0xFF
         if parsed_item['name'] == 'Windmill':
             extraInfo['2scenefid'] = (params1 >> 4) & 0xFF
-    elif parsed_item['name'] in ['Item']:
+    elif parsed_item['name'] in ['Item','ShtCS']:
         # flag is between byte 2 and 3 with bit shift
         extraInfo['scenefid'] = (params1 >> 10) & 0xFF
         if parsed_item['name'] == 'Item':
@@ -212,8 +213,14 @@ def objAddExtraInfo(parsed_item):
         extraInfo['spawnscenefid']=spawnscenef
         extraInfo['setscenefid']=(parsed_item['anglex']&0xFF)
         extraInfo['itemid']=parsed_item['anglez']&0x1FF
+        subtype = tboxSubtypes.tboxSubtypes[extraInfo['itemid']]
+        if subtype == 3:# goddess chest
+            # the special items for goddess chest are only used to
+            # determine that this is a goddess chest
+            extraInfo['itemid'] = 0x1FF - extraInfo['itemid']
+            extraInfo['trigstoryfid']=params2&0x7FF
+        extraInfo['subtype']=['Normal','Small','Boss','Goddess'][subtype]
         extraInfo['chestid']=(parsed_item['anglez']&0xFE00)>>9
-        extraInfo['trigstoryfid']=params2&0x7FF
     elif parsed_item['name']=='DNight':
         extraInfo['sleep_storyfid']=params1 & 0x07FF
     elif parsed_item['name']=='WarpObj':
@@ -223,8 +230,12 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name']=='IvyRope': # IvyRope: Ropes, used for the ones you need to balance and the ones you can swing on
         extraInfo['scenefid']=parsed_item['anglez'] & 0xFF
         extraInfo['2scenefid']=(params1 >> 12) & 0xFF
+    elif parsed_item['name'] == 'TChk':
+        extraInfo['scenefid'] = (params1 >> 8) & 0xFF
+        extraInfo['2scenefid'] = params1 & 0xFF
     elif parsed_item['name']=='Kanban':
         extraInfo['talk_behaviour']=(params1 >> 4) & 0xFFFF
+        extraInfo['setscenefid']= (params1 >> 0x18) & 0xFF
     elif parsed_item['name']=='KanbanS':
         extraInfo['talk_behaviour']=params1 & 0xFFFF
         extraInfo['setscenefid']= (params1 >> 0x10) & 0xFF
@@ -234,6 +245,11 @@ def objAddExtraInfo(parsed_item):
     elif parsed_item['name'] == 'LvPlt':
         extraInfo['checkscenefid'] = (params1) & 0xFF
         extraInfo['setscenefid'] = (params1 >> 8) & 0xFF
+    elif parsed_item['name'] == 'Piston':# Pistons in Sandship engine room
+        extraInfo['setscenefid'] = parsed_item['anglez'] >> 8
+    elif parsed_item['name'] == 'DoorDun': # dungeon door
+        extraInfo['setscenefid'] = (params1 >> 8) & 0xFF
+        extraInfo['checkscenefid'] = (params1 >> 16) & 0xFF
     elif parsed_item['name']=='GodCube':
         extraInfo['storyfid']=params1&0x7FF
     elif parsed_item['name']=='ScChang':
